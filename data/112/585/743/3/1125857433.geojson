@@ -1,0 +1,90 @@
+{
+  "id": 1125857433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75314,46.33383,34.75314,46.33383",
+    "geom:latitude":46.33383,
+    "geom:longitude":34.75314,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3738,
+    "gn:population":3738,
+    "iso:country":"UA",
+    "lbl:latitude":46.33383,
+    "lbl:longitude":34.75314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Bud\u00ebnnovka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697957,
+    "qs_pg:gn_pop":3738,
+    "qs_pg:name":"Partyzany",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275476,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697957,
+        "qs_pg:id":275476
+    },
+    "wof:country":"UA",
+    "wof:created":1497293678,
+    "wof:geomhash":"01d40912d2aee5b7da012780699db151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088043,
+            "locality_id":1125857433,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1125857433,
+    "wof:lastmodified":1509396323,
+    "wof:name":"Partyzany",
+    "wof:parent_id":102088043,
+    "wof:placetype":"locality",
+    "wof:population":3738,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75314,
+    46.33383,
+    34.75314,
+    46.33383
+],
+  "geometry": {"coordinates":[34.75314,46.33383],"type":"Point"}
+}

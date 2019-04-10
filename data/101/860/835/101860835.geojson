@@ -1,0 +1,82 @@
+{
+  "id": 101860835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.306006,48.28495,28.306006,48.28495",
+    "geom:latitude":48.28495,
+    "geom:longitude":28.306006,
+    "iso:country":"UA",
+    "lbl:latitude":48.28495,
+    "lbl:longitude":28.306006,
+    "mps:latitude":48.28495,
+    "mps:longitude":28.306006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rusava"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Vinnyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u042f\u043c\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Yampil's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0443\u0441\u0430\u0432\u0430",
+    "qs:loc_alt":"Rusava",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102089023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695108,
+        "gp:id":12518485,
+        "qs:id":2
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7b9ca862c1775736727d34d5a31af681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089023,
+            "locality_id":101860835,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":101860835,
+    "wof:lastmodified":1544745646,
+    "wof:name":"\u0420\u0443\u0441\u0430\u0432\u0430",
+    "wof:parent_id":102089023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.306006,
+    48.28495,
+    28.306006,
+    48.28495
+],
+  "geometry": {"coordinates":[28.306006,48.28495],"type":"Point"}
+}

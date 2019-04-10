@@ -1,0 +1,78 @@
+{
+  "id": 1292992663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37901,48.59969,24.37901,48.59969",
+    "geom:latitude":48.59969,
+    "geom:longitude":24.37901,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bukove",
+    "gn:country_code":"UA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711215,
+    "gn:latitude":48.59969,
+    "gn:longitude":24.37901,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Bukove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bukove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bukhtovets",
+        "Bukovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711215,
+        "wk:page":"Bukove"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c45860a21a6342f67d36d1851543fb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088099,
+            "locality_id":1292992663,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1292992663,
+    "wof:lastmodified":1537711294,
+    "wof:name":"Bukove",
+    "wof:parent_id":102088099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37901,
+    48.59969,
+    24.37901,
+    48.59969
+],
+  "geometry": {"coordinates":[24.37901,48.59969],"type":"Point"}
+}

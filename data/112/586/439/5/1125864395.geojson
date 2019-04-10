@@ -1,0 +1,99 @@
+{
+  "id": 1125864395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08333,44.43333,34.08333,44.43333",
+    "geom:latitude":44.43333,
+    "geom:longitude":34.08333,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":30000,
+    "iso:country":"UA",
+    "lbl:latitude":44.43333,
+    "lbl:longitude":34.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Miskhor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0441\u0445\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0441\u0445\u043e\u0440"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":700997,
+    "qs_pg:gn_pop":30000,
+    "qs_pg:name":"Miskhor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":128476,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738659,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700997,
+        "qs_pg:id":128476
+    },
+    "wof:country":"UA",
+    "wof:created":1497293968,
+    "wof:geomhash":"9f4e0e89848abb2de481da7b178925dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125864395,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "locality_id":1125864395,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125864395,
+    "wof:lastmodified":1530299610,
+    "wof:name":"Miskhor",
+    "wof:parent_id":1108738659,
+    "wof:placetype":"locality",
+    "wof:population":30000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08333,
+    44.43333,
+    34.08333,
+    44.43333
+],
+  "geometry": {"coordinates":[34.08333,44.43333],"type":"Point"}
+}

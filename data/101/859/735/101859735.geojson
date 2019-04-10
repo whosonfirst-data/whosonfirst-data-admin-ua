@@ -1,0 +1,118 @@
+{
+  "id": 101859735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.220636,48.506124,23.220636,48.506124",
+    "geom:latitude":48.506124,
+    "geom:longitude":23.220636,
+    "gn:population":3055,
+    "iso:country":"UA",
+    "lbl:latitude":48.506124,
+    "lbl:longitude":23.220636,
+    "mps:latitude":48.506124,
+    "mps:longitude":23.220636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u0580\u0565\u0566\u0576\u056b\u056f\u056b"
+    ],
+    "name:chi_x_preferred":[
+        "\u5225\u5217\u8332\u5c3c\u57fa"
+    ],
+    "name:dut_x_preferred":[
+        "Bereznek"
+    ],
+    "name:eng_x_preferred":[
+        "Berezniki"
+    ],
+    "name:epo_x_preferred":[
+        "Berezniki"
+    ],
+    "name:hun_x_preferred":[
+        "Bereznek"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0438"
+    ],
+    "name:rum_x_preferred":[
+        "Berezn\u00eek\u00ee"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Bereznik"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0432\u0430\u043b\u044f\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Svaliavs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0438",
+    "qs:loc_alt":"Bereznyky",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712336,
+        "gp:id":936939,
+        "qs:id":128804,
+        "wd:id":"Q793404"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d0053a9aad71ce71e19f8f7ff4c8e979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088061,
+            "locality_id":101859735,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859735,
+    "wof:lastmodified":1553815552,
+    "wof:name":"\u0411\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0438",
+    "wof:parent_id":102088061,
+    "wof:placetype":"locality",
+    "wof:population":3055,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.220636,
+    48.506124,
+    23.220636,
+    48.506124
+],
+  "geometry": {"coordinates":[23.220636,48.506124],"type":"Point"}
+}

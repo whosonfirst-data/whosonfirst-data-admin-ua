@@ -1,0 +1,76 @@
+{
+  "id": 1243174175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39287,52.0303,31.39287,52.0303",
+    "geom:latitude":52.0303,
+    "geom:longitude":31.39287,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vershyny",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038865,
+    "gn:latitude":52.0303,
+    "gn:longitude":31.39287,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Vershyny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vershyny"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0440\u0448\u0438\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vershiny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038865
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7ca87b6a67675a5b5dda5ea56fc61f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1243174175,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1243174175,
+    "wof:lastmodified":1537711558,
+    "wof:name":"Vershyny",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39287,
+    52.0303,
+    31.39287,
+    52.0303
+],
+  "geometry": {"coordinates":[31.39287,52.0303],"type":"Point"}
+}

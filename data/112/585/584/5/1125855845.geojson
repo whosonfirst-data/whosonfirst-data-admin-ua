@@ -1,0 +1,82 @@
+{
+  "id": 1125855845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.972008,50.055646,23.972008,50.055646",
+    "geom:latitude":50.055646,
+    "geom:longitude":23.972008,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":50.055646,
+    "lbl:longitude":23.972008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zholkva",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"L\u00b4vivs\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":143,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":143,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1099414,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":940180,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"L\u00b4vivs\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":940180,
+        "qs_pg:id":1099414
+    },
+    "wof:country":"UA",
+    "wof:created":1497293614,
+    "wof:geomhash":"ca453124fed6887343e63304f28c9c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088445,
+            "locality_id":1125855845,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125855845,
+    "wof:lastmodified":1509396207,
+    "wof:name":"Zholkva",
+    "wof:parent_id":102088445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.972008,
+    50.055646,
+    23.972008,
+    50.055646
+],
+  "geometry": {"coordinates":[23.972008,50.055646],"type":"Point"}
+}

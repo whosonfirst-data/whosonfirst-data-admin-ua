@@ -1,0 +1,77 @@
+{
+  "id": 1343736199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13083,51.10139,34.13083,51.10139",
+    "geom:latitude":51.10139,
+    "geom:longitude":34.13083,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Voronyne",
+    "gn:country_code":"UA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":805500,
+    "gn:latitude":51.10139,
+    "gn:longitude":34.13083,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Voronyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Voronyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u0440\u043e\u043d\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Voronin Vtoroy",
+        "Voronino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":805500
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fc5bcef05c381b4cf8ee43f0624539d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088995,
+            "locality_id":1343736199,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1343736199,
+    "wof:lastmodified":1537711428,
+    "wof:name":"Voronyne",
+    "wof:parent_id":102088995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13083,
+    51.10139,
+    34.13083,
+    51.10139
+],
+  "geometry": {"coordinates":[34.13083,51.10139],"type":"Point"}
+}

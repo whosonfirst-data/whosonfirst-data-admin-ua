@@ -1,0 +1,77 @@
+{
+  "id": 1225800073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32208,48.58791,22.32208,48.58791",
+    "geom:latitude":48.58791,
+    "geom:longitude":22.32208,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Dravtsi",
+    "gn:country_code":"UA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709624,
+    "gn:latitude":48.58791,
+    "gn:longitude":22.32208,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dravtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Uzhgorod",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dravtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0440\u0430\u0432\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Dravtse",
+        "Dravtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        1108815941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709624
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"04e314ef1e69cf7b7e40f040e691dcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815941,
+            "locality_id":1225800073,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1225800073,
+    "wof:lastmodified":1537711215,
+    "wof:name":"Dravtsi",
+    "wof:parent_id":1108815941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32208,
+    48.58791,
+    22.32208,
+    48.58791
+],
+  "geometry": {"coordinates":[22.32208,48.58791],"type":"Point"}
+}

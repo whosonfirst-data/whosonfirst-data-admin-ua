@@ -1,0 +1,76 @@
+{
+  "id": 1209763025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.40105,49.95051,28.40105,49.95051",
+    "geom:latitude":49.95051,
+    "geom:longitude":28.40105,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Demchyn",
+    "gn:country_code":"UA",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710198,
+    "gn:latitude":49.95051,
+    "gn:longitude":28.40105,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Demchyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Demchyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0435\u043c\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Demchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710198
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"eadce3f695326b5c3e0550adde3d9270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815761,
+            "locality_id":1209763025,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1209763025,
+    "wof:lastmodified":1537711244,
+    "wof:name":"Demchyn",
+    "wof:parent_id":1108815761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40105,
+    49.95051,
+    28.40105,
+    49.95051
+],
+  "geometry": {"coordinates":[28.40105,49.95051],"type":"Point"}
+}

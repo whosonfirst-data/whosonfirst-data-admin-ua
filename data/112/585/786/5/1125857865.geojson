@@ -1,0 +1,100 @@
+{
+  "id": 1125857865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89576,48.83034,24.89576,48.83034",
+    "geom:latitude":48.83034,
+    "geom:longitude":24.89576,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2965,
+    "gn:population":2965,
+    "iso:country":"UA",
+    "lbl:latitude":48.83034,
+    "lbl:longitude":24.89576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u55ac\u723e\u8afe\u5229\u8332\u9f4a"
+    ],
+    "name:eng_x_preferred":[
+        "Chornoliztsi"
+    ],
+    "name:pol_x_preferred":[
+        "Czarno\u0142o\u015bce"
+    ],
+    "name:rum_x_preferred":[
+        "Ciornoliz\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0440\u043d\u043e\u043b\u0456\u0437\u0446\u0456"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u043d\u043e\u043b\u0456\u0437\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Charnolozhtsy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":710698,
+    "qs_pg:gn_pop":2965,
+    "qs_pg:name":"Chornoliztsi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275580,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710698,
+        "qs_pg:id":275580,
+        "wd:id":"Q7190153"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293695,
+    "wof:geomhash":"7d72010e3e802d9a5e4bd08f1bb7678f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088175,
+            "locality_id":1125857865,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125857865,
+    "wof:lastmodified":1514509195,
+    "wof:name":"Chornoliztsi",
+    "wof:parent_id":102088175,
+    "wof:placetype":"locality",
+    "wof:population":2965,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89576,
+    48.83034,
+    24.89576,
+    48.83034
+],
+  "geometry": {"coordinates":[24.89576,48.83034],"type":"Point"}
+}

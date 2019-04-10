@@ -1,0 +1,76 @@
+{
+  "id": 1293742303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16403,50.72117,35.16403,50.72117",
+    "geom:latitude":50.72117,
+    "geom:longitude":35.16403,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Vydnivka",
+    "gn:country_code":"UA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689635,
+    "gn:latitude":50.72117,
+    "gn:longitude":35.16403,
+    "gn:modification_date":"2013-11-09",
+    "gn:name":"Vydnivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vydnivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0434\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vidnevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689635
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c30d10024f8884641511439f1feb3ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088993,
+            "locality_id":1293742303,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1293742303,
+    "wof:lastmodified":1537710232,
+    "wof:name":"Vydnivka",
+    "wof:parent_id":102088993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16403,
+    50.72117,
+    35.16403,
+    50.72117
+],
+  "geometry": {"coordinates":[35.16403,50.72117],"type":"Point"}
+}

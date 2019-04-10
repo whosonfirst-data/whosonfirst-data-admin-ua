@@ -1,0 +1,112 @@
+{
+  "id": 101868121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.305313,47.040761,37.305313,47.040761",
+    "geom:latitude":47.040761,
+    "geom:longitude":37.305313,
+    "gn:population":8153,
+    "iso:country":"UA",
+    "lbl:latitude":47.040761,
+    "lbl:longitude":37.305313,
+    "mps:latitude":47.040761,
+    "mps:longitude":37.305313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manhush"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0435",
+        "\u041c\u0430\u043d\u0433\u0443\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043d\u0433\u0443\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Pershotravneve"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0438\u0439",
+    "qs:a2_alt":"Pershotravnevyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u043d\u0433\u0443\u0448",
+    "qs:loc_alt":"Manhush",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697613,
+        "gp:id":930462,
+        "qs:id":128369
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1f418be7ed699911cf5e01db5b54808c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":101868121,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":101868121,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101868121,
+    "wof:lastmodified":1544749558,
+    "wof:name":"\u041c\u0430\u043d\u0433\u0443\u0448",
+    "wof:parent_id":102088329,
+    "wof:placetype":"locality",
+    "wof:population":8153,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.305313,
+    47.040761,
+    37.305313,
+    47.040761
+],
+  "geometry": {"coordinates":[37.305313,47.040761],"type":"Point"}
+}

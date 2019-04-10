@@ -1,0 +1,106 @@
+{
+  "id": 1125891911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95407,45.04296,33.95407,45.04296",
+    "geom:latitude":45.04296,
+    "geom:longitude":33.95407,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3058,
+    "gn:population":3492,
+    "iso:country":"UA",
+    "lbl:latitude":45.04296,
+    "lbl:longitude":33.95407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rodnikovo"
+    ],
+    "name:rus_x_historical":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0443\u043b\u0447\u0443\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0443\u043b\u0447\u0443\u0301\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u043e\u0434\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0434\u043d\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695574,
+    "qs_pg:gn_pop":3058,
+    "qs_pg:name":"Rodnykove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695574,
+        "qs_pg:id":1028454
+    },
+    "wof:country":"UA",
+    "wof:created":1497295360,
+    "wof:geomhash":"f4f0dba5301a44904dca68fe590f9a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125891911,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1125891911,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125891911,
+    "wof:lastmodified":1530299555,
+    "wof:name":"Rodnykove",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":3492,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95407,
+    45.04296,
+    33.95407,
+    45.04296
+],
+  "geometry": {"coordinates":[33.95407,45.04296],"type":"Point"}
+}

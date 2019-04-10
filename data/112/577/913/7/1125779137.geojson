@@ -1,0 +1,87 @@
+{
+  "id": 1125779137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16835,50.23606,36.16835,50.23606",
+    "geom:latitude":50.23606,
+    "geom:longitude":36.16835,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1924,
+    "gn:population":1924,
+    "iso:country":"UA",
+    "lbl:latitude":50.23606,
+    "lbl:longitude":36.16835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Prudyanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u044f\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0443\u0434\u044f\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":696127,
+    "qs_pg:gn_pop":1924,
+    "qs_pg:name":"Prudyanka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128338,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696127,
+        "qs_pg:id":128338
+    },
+    "wof:country":"UA",
+    "wof:created":1497290392,
+    "wof:geomhash":"5b8b76b4f8db928cd0f624f911bdf797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088945,
+            "locality_id":1125779137,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125779137,
+    "wof:lastmodified":1509391448,
+    "wof:name":"Prudyanka",
+    "wof:parent_id":102088945,
+    "wof:placetype":"locality",
+    "wof:population":1924,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16835,
+    50.23606,
+    36.16835,
+    50.23606
+],
+  "geometry": {"coordinates":[36.16835,50.23606],"type":"Point"}
+}

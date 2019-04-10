@@ -1,0 +1,76 @@
+{
+  "id": 1293348973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.14296,50.55442,34.14296,50.55442",
+    "geom:latitude":50.55442,
+    "geom:longitude":34.14296,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Podilky",
+    "gn:country_code":"UA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696876,
+    "gn:latitude":50.55442,
+    "gn:longitude":34.14296,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Podilky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Podilky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0434\u0456\u043b\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Podolki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696876
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9d1d54d04ce34e291d98b3397512c65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088923,
+            "locality_id":1293348973,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1293348973,
+    "wof:lastmodified":1537710580,
+    "wof:name":"Podilky",
+    "wof:parent_id":102088923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.14296,
+    50.55442,
+    34.14296,
+    50.55442
+],
+  "geometry": {"coordinates":[34.14296,50.55442],"type":"Point"}
+}

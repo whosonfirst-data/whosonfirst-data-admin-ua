@@ -1,0 +1,102 @@
+{
+  "id": 1125865165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92009,49.417,31.92009,49.417",
+    "geom:latitude":49.417,
+    "geom:longitude":31.92009,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7780,
+    "gn:population":7780,
+    "iso:country":"UA",
+    "lbl:latitude":49.417,
+    "lbl:longitude":31.92009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Russkaya Polyana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0443\u0441\u044c\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u044c\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695104,
+    "qs_pg:gn_pop":7780,
+    "qs_pg:name":"Russkaya Polyana",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Cherkas\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":256108,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":932787,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Cherkas\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        1108815743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695104,
+        "gp:id":932787,
+        "qs_pg:id":256108
+    },
+    "wof:country":"UA",
+    "wof:created":1497294001,
+    "wof:geomhash":"0ef3f00ff84d25112a528ef5584a2182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815743,
+            "locality_id":1125865165,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1125865165,
+    "wof:lastmodified":1509396917,
+    "wof:name":"Russkaya Polyana",
+    "wof:parent_id":1108815743,
+    "wof:placetype":"locality",
+    "wof:population":7780,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92009,
+    49.417,
+    31.92009,
+    49.417
+],
+  "geometry": {"coordinates":[31.92009,49.417],"type":"Point"}
+}

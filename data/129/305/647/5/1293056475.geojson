@@ -1,0 +1,76 @@
+{
+  "id": 1293056475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80601,50.79352,25.80601,50.79352",
+    "geom:latitude":50.79352,
+    "geom:longitude":25.80601,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Putylivka",
+    "gn:country_code":"UA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437309,
+    "gn:latitude":50.79352,
+    "gn:longitude":25.80601,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Putylivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Putylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0443\u0442\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Putilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437309
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b2b86110782f213c7a030d646621e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088699,
+            "locality_id":1293056475,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1293056475,
+    "wof:lastmodified":1537711688,
+    "wof:name":"Putylivka",
+    "wof:parent_id":102088699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80601,
+    50.79352,
+    25.80601,
+    50.79352
+],
+  "geometry": {"coordinates":[25.80601,50.79352],"type":"Point"}
+}

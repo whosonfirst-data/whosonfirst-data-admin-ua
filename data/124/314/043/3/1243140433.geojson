@@ -1,0 +1,76 @@
+{
+  "id": 1243140433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20936,50.79941,25.20936,50.79941",
+    "geom:latitude":50.79941,
+    "geom:longitude":25.20936,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Motashivka",
+    "gn:country_code":"UA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8430517,
+    "gn:latitude":50.79941,
+    "gn:longitude":25.20936,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Motashivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Motashivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0442\u0430\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Motashovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8430517
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"68377eacb94f0ba3d5065b630e7336e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088627,
+            "locality_id":1243140433,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1243140433,
+    "wof:lastmodified":1537711679,
+    "wof:name":"Motashivka",
+    "wof:parent_id":102088627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20936,
+    50.79941,
+    25.20936,
+    50.79941
+],
+  "geometry": {"coordinates":[25.20936,50.79941],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259758293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60757,50.37822,26.60757,50.37822",
+    "geom:latitude":50.37822,
+    "geom:longitude":26.60757,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Badivka",
+    "gn:country_code":"UA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712996,
+    "gn:latitude":50.37822,
+    "gn:longitude":26.60757,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Badivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Badivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Baduvka",
+        "Badovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712996
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2b7d5a125abee40fcca4258b7543b453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088595,
+            "locality_id":1259758293,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1259758293,
+    "wof:lastmodified":1537711383,
+    "wof:name":"Badivka",
+    "wof:parent_id":102088595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60757000000001,
+    50.37822,
+    26.60757000000001,
+    50.37822
+],
+  "geometry": {"coordinates":[26.60757000000001,50.37822],"type":"Point"}
+}

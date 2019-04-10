@@ -1,0 +1,101 @@
+{
+  "id": 1226826385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75441,45.2241,33.75441,45.2241",
+    "geom:latitude":45.2241,
+    "geom:longitude":33.75441,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"694905",
+    "gn:admin3_code":"11153093.0",
+    "gn:asciiname":"Vershinnoye",
+    "gn:country_code":"UA",
+    "gn:dem":47,
+    "gn:elevation":"47.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712225,
+    "gn:latitude":45.2241,
+    "gn:longitude":33.75441,
+    "gn:modification_date":"2016-08-12",
+    "gn:name":"Vershinnoye",
+    "gn:population":158,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vershinnoye"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u0435\u0448\u0443\u0301\u0439-\u042d\u043b\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0448\u0438\u043d\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0448\u0443\u0301\u0439-\u042d\u043b\u0438\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0448\u0438\u043d\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712225
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4df6f23267daa898194d31790746ff65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1226826385,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1226826385,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1226826385,
+    "wof:lastmodified":1537711349,
+    "wof:name":"Vershinnoye",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75441,
+    45.2241,
+    33.75441,
+    45.2241
+],
+  "geometry": {"coordinates":[33.75441,45.2241],"type":"Point"}
+}

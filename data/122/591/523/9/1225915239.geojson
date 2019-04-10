@@ -1,0 +1,76 @@
+{
+  "id": 1225915239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.53827,51.13285,29.53827,51.13285",
+    "geom:latitude":51.13285,
+    "geom:longitude":29.53827,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pukhove",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8390107,
+    "gn:latitude":51.13285,
+    "gn:longitude":29.53827,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Pukhove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ukr_x_preferred":[
+        "Pukhove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0443\u0445\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pukhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390107
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1c308d9d9b22ab94cade54ce1d5b672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088915,
+            "locality_id":1225915239,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1225915239,
+    "wof:lastmodified":1537711632,
+    "wof:name":"Pukhove",
+    "wof:parent_id":102088915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53827,
+    51.13285,
+    29.53827,
+    51.13285
+],
+  "geometry": {"coordinates":[29.53827,51.13285],"type":"Point"}
+}

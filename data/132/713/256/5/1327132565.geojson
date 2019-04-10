@@ -1,0 +1,82 @@
+{
+  "id": 1327132565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31667,48.25,37.31667,48.25",
+    "geom:latitude":48.25,
+    "geom:longitude":37.31667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novo-Nikolayevskiy",
+    "gn:cc2":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699403,
+    "gn:latitude":48.25,
+    "gn:longitude":37.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Novo-Nikolayevskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khutor Novo-Nikolayevskiy",
+        "Novo-Nikolayevskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699403
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"de5bf5092b153e8bebd8225819723530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1327132565,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1327132565,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1327132565,
+    "wof:lastmodified":1537710715,
+    "wof:name":"Novo-Nikolayevskiy",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31667,
+    48.25,
+    37.31667,
+    48.25
+],
+  "geometry": {"coordinates":[37.31667,48.25],"type":"Point"}
+}

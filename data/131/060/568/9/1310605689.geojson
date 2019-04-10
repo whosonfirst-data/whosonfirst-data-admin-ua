@@ -1,0 +1,86 @@
+{
+  "id": 1310605689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.93155,47.35077,37.93155,47.35077",
+    "geom:latitude":47.35077,
+    "geom:longitude":37.93155,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lukove",
+    "gn:country_code":"UA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702607,
+    "gn:latitude":47.35077,
+    "gn:longitude":37.93155,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Lukove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lukove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lukovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702607
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e6ab43d1b727dff7f8d0530c508d4afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1310605689,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1310605689,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310605689,
+    "wof:lastmodified":1537710878,
+    "wof:name":"Lukove",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.93155,
+    47.35077,
+    37.93155,
+    47.35077
+],
+  "geometry": {"coordinates":[37.93155,47.35077],"type":"Point"}
+}

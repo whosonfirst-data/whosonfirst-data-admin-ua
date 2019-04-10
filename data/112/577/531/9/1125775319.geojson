@@ -1,0 +1,87 @@
+{
+  "id": 1125775319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91504,47.01479,34.91504,47.01479",
+    "geom:latitude":47.01479,
+    "geom:longitude":34.91504,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10683,
+    "gn:population":10683,
+    "iso:country":"UA",
+    "lbl:latitude":47.01479,
+    "lbl:longitude":34.91504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ves\u00ebloye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689736,
+    "qs_pg:gn_pop":10683,
+    "qs_pg:name":"Vesele",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1028366,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689736,
+        "qs_pg:id":1028366
+    },
+    "wof:country":"UA",
+    "wof:created":1497290233,
+    "wof:geomhash":"8e0d905b1b6caa82a6215d4654ee8fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":1125775319,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1125775319,
+    "wof:lastmodified":1509391243,
+    "wof:name":"Vesele",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:population":10683,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91504,
+    47.01479,
+    34.91504,
+    47.01479
+],
+  "geometry": {"coordinates":[34.91504,47.01479],"type":"Point"}
+}

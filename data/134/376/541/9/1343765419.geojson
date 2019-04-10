@@ -1,0 +1,67 @@
+{
+  "id": 1343765419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21667,49.25,30.21667,49.25",
+    "geom:latitude":49.25,
+    "geom:longitude":30.21667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bagva",
+    "gn:country_code":"UA",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712977,
+    "gn:latitude":49.25,
+    "gn:longitude":30.21667,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Bagva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712977
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2132229a81b65deaa78b4c2b6281c531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088447,
+            "locality_id":1343765419,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1343765419,
+    "wof:lastmodified":1536803677,
+    "wof:name":"Bagva",
+    "wof:parent_id":102088447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21667,
+    49.25,
+    30.21667,
+    49.25
+],
+  "geometry": {"coordinates":[30.21667,49.25],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260100319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84078,50.14811,35.84078,50.14811",
+    "geom:latitude":50.14811,
+    "geom:longitude":35.84078,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hurynivka",
+    "gn:country_code":"UA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707876,
+    "gn:latitude":50.14811,
+    "gn:longitude":35.84078,
+    "gn:modification_date":"2013-11-09",
+    "gn:name":"Hurynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hurynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0443\u0440\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gurinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707876
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c1cc71aa2a7cf72b7c33d40d74b137a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088947,
+            "locality_id":1260100319,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1260100319,
+    "wof:lastmodified":1537711130,
+    "wof:name":"Hurynivka",
+    "wof:parent_id":102088947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84078,
+    50.14811,
+    35.84078,
+    50.14811
+],
+  "geometry": {"coordinates":[35.84078,50.14811],"type":"Point"}
+}

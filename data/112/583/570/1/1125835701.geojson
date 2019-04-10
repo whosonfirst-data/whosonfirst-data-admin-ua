@@ -1,0 +1,100 @@
+{
+  "id": 1125835701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41391,50.65181,30.41391,50.65181",
+    "geom:latitude":50.65181,
+    "geom:longitude":30.41391,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":400,
+    "gn:population":400,
+    "iso:country":"UA",
+    "lbl:latitude":50.65181,
+    "lbl:longitude":30.41391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Staryye Petrovtsy"
+    ],
+    "name:eng_x_variant":[
+        "Stari Petrivtsi"
+    ],
+    "name:ger_x_preferred":[
+        "Stari Petriwzi"
+    ],
+    "name:rum_x_preferred":[
+        "Stari Petriv\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041f\u0435\u0442\u0440\u043e\u0432\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0456 \u041f\u0435\u0442\u0440\u0456\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Staropetrovtsy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":692737,
+    "qs_pg:gn_pop":400,
+    "qs_pg:name":"Staryye Petrovtsy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":82772,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692737,
+        "qs_pg:id":82772,
+        "wd:id":"Q4440950"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292707,
+    "wof:geomhash":"d2555264fc6ab15f1d29186a9cfca6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088851,
+            "locality_id":1125835701,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1125835701,
+    "wof:lastmodified":1514509813,
+    "wof:name":"Staryye Petrovtsy",
+    "wof:parent_id":102088851,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41391,
+    50.65181,
+    30.41391,
+    50.65181
+],
+  "geometry": {"coordinates":[30.41391,50.65181],"type":"Point"}
+}

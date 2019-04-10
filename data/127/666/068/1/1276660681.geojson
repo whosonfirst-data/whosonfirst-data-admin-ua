@@ -1,0 +1,73 @@
+{
+  "id": 1276660681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66434,49.55883,32.66434,49.55883",
+    "geom:latitude":49.55883,
+    "geom:longitude":32.66434,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mykhaylivka",
+    "gn:country_code":"UA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180810,
+    "gn:latitude":49.55883,
+    "gn:longitude":32.66434,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Mykhaylivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Mykhaylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180810
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"033d1d8e938e5cdad32dada8dcd2335a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088669,
+            "locality_id":1276660681,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1276660681,
+    "wof:lastmodified":1537712013,
+    "wof:name":"Mykhaylivka",
+    "wof:parent_id":102088669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66434,
+    49.55883,
+    32.66434,
+    49.55883
+],
+  "geometry": {"coordinates":[32.66434,49.55883],"type":"Point"}
+}

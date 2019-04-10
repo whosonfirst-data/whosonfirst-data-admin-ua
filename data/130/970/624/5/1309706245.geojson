@@ -1,0 +1,73 @@
+{
+  "id": 1309706245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15101,48.83039,32.15101,48.83039",
+    "geom:latitude":48.83039,
+    "geom:longitude":32.15101,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Razumovka",
+    "gn:country_code":"UA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695714,
+    "gn:latitude":48.83039,
+    "gn:longitude":32.15101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Razumovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yerazmovka",
+        "Rozumivka",
+        "Yerazmovka Rozumivka",
+        "Razumovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695714
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5228e1b002b2116044ded0ab436be47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815663,
+            "locality_id":1309706245,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1309706245,
+    "wof:lastmodified":1537710523,
+    "wof:name":"Razumovka",
+    "wof:parent_id":1108815663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15101,
+    48.83039,
+    32.15101,
+    48.83039
+],
+  "geometry": {"coordinates":[32.15101,48.83039],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1125779091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49259,49.55832,30.49259,49.55832",
+    "geom:latitude":49.55832,
+    "geom:longitude":30.49259,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12952,
+    "gn:population":12952,
+    "iso:country":"UA",
+    "lbl:latitude":49.55832,
+    "lbl:longitude":30.49259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tarashcha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0449\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0449\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":691904,
+    "qs_pg:gn_pop":12952,
+    "qs_pg:name":"Tarashcha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":128253,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691904,
+        "qs_pg:id":128253
+    },
+    "wof:country":"UA",
+    "wof:created":1497290390,
+    "wof:geomhash":"7242c8081133509d589da29afd7e99bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088535,
+            "locality_id":1125779091,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1125779091,
+    "wof:lastmodified":1509391444,
+    "wof:name":"Tarashcha",
+    "wof:parent_id":102088535,
+    "wof:placetype":"locality",
+    "wof:population":12952,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49259,
+    49.55832,
+    30.49259,
+    49.55832
+],
+  "geometry": {"coordinates":[30.49259,49.55832],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344058971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30367,51.4094,32.30367,51.4094",
+    "geom:latitude":51.4094,
+    "geom:longitude":32.30367,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Saponivka",
+    "gn:country_code":"UA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8401830,
+    "gn:latitude":51.4094,
+    "gn:longitude":32.30367,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Saponivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Saponivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043f\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Saponovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8401830
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"86f088a3b632cb20f1adc81045395d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088977,
+            "locality_id":1344058971,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1344058971,
+    "wof:lastmodified":1537711646,
+    "wof:name":"Saponivka",
+    "wof:parent_id":102088977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30367,
+    51.4094,
+    32.30367,
+    51.4094
+],
+  "geometry": {"coordinates":[32.30367,51.4094],"type":"Point"}
+}

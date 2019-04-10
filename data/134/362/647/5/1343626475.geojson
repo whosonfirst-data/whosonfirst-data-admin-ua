@@ -1,0 +1,77 @@
+{
+  "id": 1343626475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56974,50.512,26.56974,50.512",
+    "geom:latitude":50.512,
+    "geom:longitude":26.56974,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bukhariv",
+    "gn:country_code":"UA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711220,
+    "gn:latitude":50.512,
+    "gn:longitude":26.56974,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Bukhariv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bukhariv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0445\u0430\u0440\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Bukharuv",
+        "Bukharov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711220
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22d71e953bce76a15f0263fc4b12dd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088595,
+            "locality_id":1343626475,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1343626475,
+    "wof:lastmodified":1537711294,
+    "wof:name":"Bukhariv",
+    "wof:parent_id":102088595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56974,
+    50.512,
+    26.56974,
+    50.512
+],
+  "geometry": {"coordinates":[26.56974,50.512],"type":"Point"}
+}

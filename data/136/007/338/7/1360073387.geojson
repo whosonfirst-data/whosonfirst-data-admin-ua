@@ -1,0 +1,95 @@
+{
+  "id": 1360073387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.933,44.81974,33.933,44.81974",
+    "geom:latitude":44.81974,
+    "geom:longitude":33.933,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712968",
+    "gn:admin3_code":"11152820.0",
+    "gn:asciiname":"Sevastyanovka",
+    "gn:country_code":"UA",
+    "gn:dem":177,
+    "gn:elevation":"172.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040018,
+    "gn:latitude":44.81974,
+    "gn:longitude":33.933,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Sevastyanovka",
+    "gn:population":508,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sevastyanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u0441\u0442\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0432\u0430\u0441\u0442\u044f\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040018
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cbd24eaaeb1aa6d5596e6ce61648dc4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1360073387,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1360073387,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1360073387,
+    "wof:lastmodified":1537711538,
+    "wof:name":"Sevastyanovka",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":508,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.933,
+    44.81974,
+    33.933,
+    44.81974
+],
+  "geometry": {"coordinates":[33.933,44.81974],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1293776729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36931,47.01136,37.36931,47.01136",
+    "geom:latitude":47.01136,
+    "geom:longitude":37.36931,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ohorodnye",
+    "gn:country_code":"UA",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642890,
+    "gn:latitude":47.01136,
+    "gn:longitude":37.36931,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Ohorodnye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ohorodnye"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0433\u043e\u0440\u043e\u0434\u043d\u0454"
+    ],
+    "name:und_x_variant":[
+        "Ogorodnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642890
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9f35894cf8c0d21ad560846fc14c3b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1293776729,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1293776729,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293776729,
+    "wof:lastmodified":1537711888,
+    "wof:name":"Ohorodnye",
+    "wof:parent_id":102088329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36931,
+    47.01136,
+    37.36931,
+    47.01136
+],
+  "geometry": {"coordinates":[37.36931,47.01136],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125779565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7965,45.95716,33.7965,45.95716",
+    "geom:latitude":45.95716,
+    "geom:longitude":33.7965,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":30700,
+    "gn:population":30700,
+    "iso:country":"UA",
+    "lbl:latitude":45.95716,
+    "lbl:longitude":33.7965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:crh_x_preferred":[
+        "Or qapu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u044c\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Krasnoperekopsk"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704362,
+    "qs_pg:gn_pop":30700,
+    "qs_pg:name":"Krasnoperekops\u2019k",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":128590,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738671,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704362,
+        "qs_pg:id":128590
+    },
+    "wof:country":"UA",
+    "wof:created":1497290409,
+    "wof:geomhash":"e28a992468fc48ee067bd4658342aaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738671,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125779565,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738671,
+            "disputed_id":1159339547,
+            "locality_id":1125779565,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125779565,
+    "wof:lastmodified":1530299613,
+    "wof:name":"Krasnoperekops\u2019k",
+    "wof:parent_id":1108738671,
+    "wof:placetype":"locality",
+    "wof:population":30700,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7965,
+    45.95716,
+    33.7965,
+    45.95716
+],
+  "geometry": {"coordinates":[33.7965,45.95716],"type":"Point"}
+}

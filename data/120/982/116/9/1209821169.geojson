@@ -1,0 +1,67 @@
+{
+  "id": 1209821169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.5,48.23333,34.5,48.23333",
+    "geom:latitude":48.23333,
+    "geom:longitude":34.5,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Petrovka",
+    "gn:country_code":"UA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697366,
+    "gn:latitude":48.23333,
+    "gn:longitude":34.5,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Petrovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697366
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1df348b6a4e2999ed23d438dd5c03ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088437,
+            "locality_id":1209821169,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1209821169,
+    "wof:lastmodified":1536378564,
+    "wof:name":"Petrovka",
+    "wof:parent_id":102088437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.5,
+    48.23333,
+    34.5,
+    48.23333
+],
+  "geometry": {"coordinates":[34.5,48.23333],"type":"Point"}
+}

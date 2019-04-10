@@ -1,0 +1,77 @@
+{
+  "id": 1226100667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09757,50.8344,35.09757,50.8344",
+    "geom:latitude":50.8344,
+    "geom:longitude":35.09757,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hlybne",
+    "gn:country_code":"UA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708701,
+    "gn:latitude":50.8344,
+    "gn:longitude":35.09757,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hlybne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hlybne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043b\u0438\u0431\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Glybnaya",
+        "Glybnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708701
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"86384b28eaed01d8f43abf0b08cca347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088993,
+            "locality_id":1226100667,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1226100667,
+    "wof:lastmodified":1537711172,
+    "wof:name":"Hlybne",
+    "wof:parent_id":102088993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09757,
+    50.8344,
+    35.09757,
+    50.8344
+],
+  "geometry": {"coordinates":[35.09757,50.8344],"type":"Point"}
+}

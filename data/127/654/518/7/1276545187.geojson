@@ -1,0 +1,78 @@
+{
+  "id": 1276545187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12807,48.31207,38.12807,48.31207",
+    "geom:latitude":48.31207,
+    "geom:longitude":38.12807,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poklanskaya",
+    "gn:country_code":"UA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":810247,
+    "gn:latitude":48.31207,
+    "gn:longitude":38.12807,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Poklanskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730733,
+        1175613755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":810247
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"05ff59da3a8d8ccf797edd23c1dc558e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1276545187,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1276545187,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276545187,
+    "wof:lastmodified":1536991342,
+    "wof:name":"Poklanskaya",
+    "wof:parent_id":1175613755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12807,
+    48.31207,
+    38.12807,
+    48.31207
+],
+  "geometry": {"coordinates":[38.12807,48.31207],"type":"Point"}
+}

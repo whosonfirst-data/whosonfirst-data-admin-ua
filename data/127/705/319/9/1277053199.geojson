@@ -1,0 +1,95 @@
+{
+  "id": 1277053199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36999,45.69398,34.36999,45.69398",
+    "geom:latitude":45.69398,
+    "geom:longitude":34.36999,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152849.0",
+    "gn:asciiname":"Michurinovka",
+    "gn:country_code":"UA",
+    "gn:dem":19,
+    "gn:elevation":"18.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020272,
+    "gn:latitude":45.69398,
+    "gn:longitude":34.36999,
+    "gn:modification_date":"2016-06-07",
+    "gn:name":"Michurinovka",
+    "gn:population":166,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Michurinovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0447\u0443\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0447\u0443\u0440\u0456\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020272
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"aba66cb6d510afa002aa8d35bf4e6899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1277053199,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1277053199,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1277053199,
+    "wof:lastmodified":1537711528,
+    "wof:name":"Michurinovka",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36999,
+    45.69398,
+    34.36999,
+    45.69398
+],
+  "geometry": {"coordinates":[34.36999,45.69398],"type":"Point"}
+}

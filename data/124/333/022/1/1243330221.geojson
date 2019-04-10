@@ -1,0 +1,77 @@
+{
+  "id": 1243330221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88235,50.47551,27.88235,50.47551",
+    "geom:latitude":50.47551,
+    "geom:longitude":27.88235,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Lebedivka",
+    "gn:country_code":"UA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710721,
+    "gn:latitude":50.47551,
+    "gn:longitude":27.88235,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Lebedivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lebedivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0435\u0431\u0435\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chernitskaya Slobodka",
+        "Lebedevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710721
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7aa753c2ee1d2e77666c0537b71a1556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815763,
+            "locality_id":1243330221,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243330221,
+    "wof:lastmodified":1537711270,
+    "wof:name":"Lebedivka",
+    "wof:parent_id":1108815763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88235,
+    50.47551,
+    27.88235,
+    50.47551
+],
+  "geometry": {"coordinates":[27.88235,50.47551],"type":"Point"}
+}

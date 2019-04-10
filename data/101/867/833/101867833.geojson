@@ -1,0 +1,78 @@
+{
+  "id": 101867833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.333485,49.308534,30.333485,49.308534",
+    "geom:latitude":49.308534,
+    "geom:longitude":30.333485,
+    "iso:country":"UA",
+    "lbl:latitude":49.308534,
+    "lbl:longitude":30.333485,
+    "mps:latitude":49.308534,
+    "mps:longitude":30.333485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u0430\u0432\u0438\u0449\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Stavyschens'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Krasylivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":934790
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"293610b70356b1737cfccc3dc7b53c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088499,
+            "locality_id":101867833,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101867833,
+    "wof:lastmodified":1544749397,
+    "wof:name":"\u041a\u0440\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.333485,
+    49.308534,
+    30.333485,
+    49.308534
+],
+  "geometry": {"coordinates":[30.333485,49.308534],"type":"Point"}
+}

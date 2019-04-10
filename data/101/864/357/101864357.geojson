@@ -1,0 +1,107 @@
+{
+  "id": 101864357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.476989,51.044801,25.476989,51.044801",
+    "geom:latitude":51.044801,
+    "geom:longitude":25.476989,
+    "iso:country":"UA",
+    "lbl:latitude":51.044801,
+    "lbl:longitude":25.476989,
+    "mps:latitude":51.044801,
+    "mps:longitude":25.476989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0549\u0565\u057f\u057e\u0565\u0580\u057f\u0576\u0575\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u5207\u7279\u97cb\u723e\u7279\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Czetwertnia"
+    ],
+    "name:eng_x_preferred":[
+        "Chetvertnia"
+    ],
+    "name:pol_x_preferred":[
+        "Czetwertnia"
+    ],
+    "name:rum_x_preferred":[
+        "Cetvertnea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u043d\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "Chetvertnya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u043d\u044f"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Volyns'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u0430\u043d\u0435\u0432\u0438\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Manevyts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u043d\u044f",
+    "qs:loc_alt":"Chetvertnia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710485,
+        "gp:id":936329,
+        "qs:id":1,
+        "wd:id":"Q4515002"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9d1c38a3e3ff8e4b166301a660251345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088807,
+            "locality_id":101864357,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":101864357,
+    "wof:lastmodified":1544747484,
+    "wof:name":"\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u043d\u044f",
+    "wof:parent_id":102088807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.476989,
+    51.044801,
+    25.476989,
+    51.044801
+],
+  "geometry": {"coordinates":[25.476989,51.044801],"type":"Point"}
+}

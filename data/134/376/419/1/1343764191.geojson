@@ -1,0 +1,73 @@
+{
+  "id": 1343764191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.19006,51.75458,32.19006,51.75458",
+    "geom:latitude":51.75458,
+    "geom:longitude":32.19006,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Petrova Sloboda",
+    "gn:country_code":"UA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697402,
+    "gn:latitude":51.75458,
+    "gn:longitude":32.19006,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Petrova Sloboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Petrova Sloboda"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0430 \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697402
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6d99035abfd494d6fc893054eac8ea7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089015,
+            "locality_id":1343764191,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1343764191,
+    "wof:lastmodified":1537710609,
+    "wof:name":"Petrova Sloboda",
+    "wof:parent_id":102089015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.19006,
+    51.75458,
+    32.19006,
+    51.75458
+],
+  "geometry": {"coordinates":[32.19006,51.75458],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1125873563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26231,48.43161,26.26231,48.43161",
+    "geom:latitude":48.43161,
+    "geom:longitude":26.26231,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6272,
+    "gn:population":6272,
+    "iso:country":"UA",
+    "lbl:latitude":48.43161,
+    "lbl:longitude":26.26231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0456\u0448\u043a\u0456\u0432\u0446\u0456"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0456\u0448\u043a\u0456\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Cli\u015fc\u0103u\u0163i"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705626,
+    "qs_pg:gn_pop":6272,
+    "qs_pg:name":"Klishkivtsi",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Chernivets\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128652,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":922924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Chernivets\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705626,
+        "gp:id":922924,
+        "qs_pg:id":128652
+    },
+    "wof:country":"UA",
+    "wof:created":1497294421,
+    "wof:geomhash":"263c695b27a519c9642898b7c78043cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088103,
+            "locality_id":1125873563,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":1125873563,
+    "wof:lastmodified":1509397554,
+    "wof:name":"Klishkivtsi",
+    "wof:parent_id":102088103,
+    "wof:placetype":"locality",
+    "wof:population":6272,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26231,
+    48.43161,
+    26.26231,
+    48.43161
+],
+  "geometry": {"coordinates":[26.26231,48.43161],"type":"Point"}
+}

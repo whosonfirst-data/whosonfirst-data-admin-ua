@@ -1,0 +1,87 @@
+{
+  "id": 1125778937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53333,49.41667,35.53333,49.41667",
+    "geom:latitude":49.41667,
+    "geom:longitude":35.53333,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3377,
+    "gn:population":3377,
+    "iso:country":"UA",
+    "lbl:latitude":49.41667,
+    "lbl:longitude":35.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0431\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0431\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Verbovka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":690009,
+    "qs_pg:gn_pop":3377,
+    "qs_pg:name":"Verbivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128195,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690009,
+        "qs_pg:id":128195
+    },
+    "wof:country":"UA",
+    "wof:created":1497290385,
+    "wof:geomhash":"199fb741696fbeb193f881ae8d9d2194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088787,
+            "locality_id":1125778937,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125778937,
+    "wof:lastmodified":1509391437,
+    "wof:name":"Verbivka",
+    "wof:parent_id":102088787,
+    "wof:placetype":"locality",
+    "wof:population":3377,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53333,
+    49.41667,
+    35.53333,
+    49.41667
+],
+  "geometry": {"coordinates":[35.53333,49.41667],"type":"Point"}
+}

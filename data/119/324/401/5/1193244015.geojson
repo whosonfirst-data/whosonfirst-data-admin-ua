@@ -1,0 +1,76 @@
+{
+  "id": 1193244015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23058,50.20335,32.23058,50.20335",
+    "geom:latitude":50.20335,
+    "geom:longitude":32.23058,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Natalivka",
+    "gn:country_code":"UA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700428,
+    "gn:latitude":50.20335,
+    "gn:longitude":32.23058,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Natalivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Natalivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0442\u0430\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Natalovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700428
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"de3cc5fca01e82c763d467655f8a8690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088759,
+            "locality_id":1193244015,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1193244015,
+    "wof:lastmodified":1537710772,
+    "wof:name":"Natalivka",
+    "wof:parent_id":102088759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23058,
+    50.20335,
+    32.23058,
+    50.20335
+],
+  "geometry": {"coordinates":[32.23058,50.20335],"type":"Point"}
+}

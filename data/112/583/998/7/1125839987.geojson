@@ -1,0 +1,106 @@
+{
+  "id": 1125839987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89986,44.68989,33.89986,44.68989",
+    "geom:latitude":44.68989,
+    "geom:longitude":33.89986,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":228,
+    "gn:population":212,
+    "iso:country":"UA",
+    "lbl:latitude":44.68989,
+    "lbl:longitude":33.89986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Bashtanovka"
+    ],
+    "name:rus_x_historical":[
+        "\u041f\u044b\u0447\u043a\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044b\u0447\u043a\u0438\u0301"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0448\u0442\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":712773,
+    "qs_pg:gn_pop":228,
+    "qs_pg:name":"Bashtanivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83229,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712773,
+        "qs_pg:id":83229
+    },
+    "wof:country":"UA",
+    "wof:created":1497292891,
+    "wof:geomhash":"190246bd31b1396852d944695766063c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125839987,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1125839987,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125839987,
+    "wof:lastmodified":1530299614,
+    "wof:name":"Bashtanivka",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":212,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89986,
+    44.68989,
+    33.89986,
+    44.68989
+],
+  "geometry": {"coordinates":[33.89986,44.68989],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209974235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.12983,51.7377,25.12983,51.7377",
+    "geom:latitude":51.7377,
+    "geom:longitude":25.12983,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Dibrova",
+    "gn:country_code":"UA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709719,
+    "gn:latitude":51.7377,
+    "gn:longitude":25.12983,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dibrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dibrova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0456\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Donbrova",
+        "Dubrova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709719
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"13217cb2c0ffcd474af731fff3c73372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088883,
+            "locality_id":1209974235,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1209974235,
+    "wof:lastmodified":1537711219,
+    "wof:name":"Dibrova",
+    "wof:parent_id":102088883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12983,
+    51.7377,
+    25.12983,
+    51.7377
+],
+  "geometry": {"coordinates":[25.12983,51.7377],"type":"Point"}
+}

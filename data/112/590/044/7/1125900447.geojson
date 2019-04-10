@@ -1,0 +1,87 @@
+{
+  "id": 1125900447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09764,49.40186,31.09764,49.40186",
+    "geom:latitude":49.40186,
+    "geom:longitude":31.09764,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3859,
+    "gn:population":3859,
+    "iso:country":"UA",
+    "lbl:latitude":49.40186,
+    "lbl:longitude":31.09764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Stebl\u00ebv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0431\u043b\u0435\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Stebl\u00ebv Pervyy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":692638,
+    "qs_pg:gn_pop":3859,
+    "qs_pg:name":"Stebl\u00ebv",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028400,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692638,
+        "qs_pg:id":1028400
+    },
+    "wof:country":"UA",
+    "wof:created":1497295780,
+    "wof:geomhash":"1070a4f353468038a2b68bef5ae7f885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088565,
+            "locality_id":1125900447,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1125900447,
+    "wof:lastmodified":1509399372,
+    "wof:name":"Stebl\u00ebv",
+    "wof:parent_id":102088565,
+    "wof:placetype":"locality",
+    "wof:population":3859,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09764,
+    49.40186,
+    31.09764,
+    49.40186
+],
+  "geometry": {"coordinates":[31.09764,49.40186],"type":"Point"}
+}

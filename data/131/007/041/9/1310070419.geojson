@@ -1,0 +1,76 @@
+{
+  "id": 1310070419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22356,50.46892,25.22356,50.46892",
+    "geom:latitude":50.46892,
+    "geom:longitude":25.22356,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Naberezhne",
+    "gn:country_code":"UA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431488,
+    "gn:latitude":50.46892,
+    "gn:longitude":25.22356,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Naberezhne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Naberezhne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Naberezhnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431488
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c9f178a14dc7de2516d4fac22a8f8386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088555,
+            "locality_id":1310070419,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1310070419,
+    "wof:lastmodified":1537711684,
+    "wof:name":"Naberezhne",
+    "wof:parent_id":102088555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22356,
+    50.46892,
+    25.22356,
+    50.46892
+],
+  "geometry": {"coordinates":[25.22356,50.46892],"type":"Point"}
+}

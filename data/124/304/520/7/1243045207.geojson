@@ -1,0 +1,101 @@
+{
+  "id": 1243045207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56019,45.4954,33.56019,45.4954",
+    "geom:latitude":45.4954,
+    "geom:longitude":33.56019,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"697572",
+    "gn:admin3_code":"11152997.0",
+    "gn:asciiname":"Tikhonovka",
+    "gn:country_code":"UA",
+    "gn:dem":59,
+    "gn:elevation":"59.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7025985,
+    "gn:latitude":45.4954,
+    "gn:longitude":33.56019,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Tikhonovka",
+    "gn:population":201,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tikhonovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u043e\u0437 \u0422\u0430\u0442\u0430\u0301\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0437 \u0422\u0430\u0442\u0430\u0301\u0440\u0441\u043a\u0438\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738643,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7025985
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0ac9676b11dbffa239704f731648266e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1243045207,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "locality_id":1243045207,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1243045207,
+    "wof:lastmodified":1537711534,
+    "wof:name":"Tikhonovka",
+    "wof:parent_id":1108738643,
+    "wof:placetype":"locality",
+    "wof:population":201,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56019000000001,
+    45.4954,
+    33.56019000000001,
+    45.4954
+],
+  "geometry": {"coordinates":[33.56019000000001,45.4954],"type":"Point"}
+}

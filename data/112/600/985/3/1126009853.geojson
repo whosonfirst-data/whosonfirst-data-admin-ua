@@ -1,0 +1,109 @@
+{
+  "id": 1126009853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48457,48.2197,23.48457,48.2197",
+    "geom:latitude":48.2197,
+    "geom:longitude":23.48457,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3010,
+    "gn:population":3010,
+    "iso:country":"UA",
+    "lbl:latitude":48.2197,
+    "lbl:longitude":23.48457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u057a\u0561\u0577\u0576\u0578\u057e\u0578"
+    ],
+    "name:dut_x_preferred":[
+        "Gerny\u00e9s"
+    ],
+    "name:eng_x_preferred":[
+        "Kopashnovo"
+    ],
+    "name:epo_x_preferred":[
+        "Kopa\u015dnovo"
+    ],
+    "name:hun_x_preferred":[
+        "Gerny\u00e9s"
+    ],
+    "name:rum_x_preferred":[
+        "Kopa\u0219novo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u0448\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u0448\u043d\u0435\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043f\u0430\u0448\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kopashneve"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":829745,
+    "qs_pg:gn_pop":3010,
+    "qs_pg:name":"Kopashnovo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":554288,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829745,
+        "qs_pg:id":554288,
+        "wd:id":"Q751646"
+    },
+    "wof:country":"UA",
+    "wof:created":1497300200,
+    "wof:geomhash":"29923405a6a6712d9ae4a98db8e50db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088013,
+            "locality_id":1126009853,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1126009853,
+    "wof:lastmodified":1553816696,
+    "wof:name":"Kopashnovo",
+    "wof:parent_id":102088013,
+    "wof:placetype":"locality",
+    "wof:population":3010,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48457,
+    48.2197,
+    23.48457,
+    48.2197
+],
+  "geometry": {"coordinates":[23.48457,48.2197],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243522723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43289,51.12095,24.43289,51.12095",
+    "geom:latitude":51.12095,
+    "geom:longitude":24.43289,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Rastiv",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695795,
+    "gn:latitude":51.12095,
+    "gn:longitude":24.43289,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Rastiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rastiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0430\u0441\u0442\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Rasluv",
+        "Rastuv",
+        "Rastov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695795
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fd1e39b8d5a79fe489a1ebbab2dc1cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088703,
+            "locality_id":1243522723,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1243522723,
+    "wof:lastmodified":1537710527,
+    "wof:name":"Rastiv",
+    "wof:parent_id":102088703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43289,
+    51.12095,
+    24.43289,
+    51.12095
+],
+  "geometry": {"coordinates":[24.43289,51.12095],"type":"Point"}
+}

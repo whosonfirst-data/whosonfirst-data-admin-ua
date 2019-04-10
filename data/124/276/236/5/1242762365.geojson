@@ -1,0 +1,76 @@
+{
+  "id": 1242762365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3649,47.39673,33.3649,47.39673",
+    "geom:latitude":47.39673,
+    "geom:longitude":33.3649,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Shostakove",
+    "gn:country_code":"UA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693945,
+    "gn:latitude":47.39673,
+    "gn:longitude":33.3649,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Shostakove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shostakove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u043e\u0441\u0442\u0430\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shostakova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693945
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"46b1c3775f63c7d7c1df957949563205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088131,
+            "locality_id":1242762365,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1242762365,
+    "wof:lastmodified":1537710437,
+    "wof:name":"Shostakove",
+    "wof:parent_id":102088131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3649,
+    47.39673,
+    33.3649,
+    47.39673
+],
+  "geometry": {"coordinates":[33.3649,47.39673],"type":"Point"}
+}

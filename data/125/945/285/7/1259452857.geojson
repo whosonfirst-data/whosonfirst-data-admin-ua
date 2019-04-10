@@ -1,0 +1,79 @@
+{
+  "id": 1259452857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34753,50.39547,24.34753,50.39547",
+    "geom:latitude":50.39547,
+    "geom:longitude":24.34753,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Volytsya",
+    "gn:country_code":"UA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689249,
+    "gn:latitude":50.39547,
+    "gn:longitude":24.34753,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Volytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Komarowa Wolica",
+        "Wolica Komarowa",
+        "Komarova-Volitsa",
+        "Volytsya",
+        "Volitsa Komarova",
+        "Volytsya-Komarova",
+        "Volitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689249
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ac1f94c31160e87957574ae974e2921f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088549,
+            "locality_id":1259452857,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1259452857,
+    "wof:lastmodified":1537710211,
+    "wof:name":"Volytsya",
+    "wof:parent_id":102088549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34753,
+    50.39547,
+    24.34753,
+    50.39547
+],
+  "geometry": {"coordinates":[24.34753,50.39547],"type":"Point"}
+}

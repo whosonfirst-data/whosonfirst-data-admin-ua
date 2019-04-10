@@ -1,0 +1,76 @@
+{
+  "id": 1209882751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62824,50.33944,28.62824,50.33944",
+    "geom:latitude":50.33944,
+    "geom:longitude":28.62824,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Novoselytsya",
+    "gn:country_code":"UA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477368,
+    "gn:latitude":50.33944,
+    "gn:longitude":28.62824,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Novoselytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novoselytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Novoselitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477368
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bc238a429911333cd9465fc19b92b740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815629,
+            "locality_id":1209882751,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1209882751,
+    "wof:lastmodified":1537711723,
+    "wof:name":"Novoselytsya",
+    "wof:parent_id":1108815629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62824,
+    50.33944,
+    28.62824,
+    50.33944
+],
+  "geometry": {"coordinates":[28.62824,50.33944],"type":"Point"}
+}

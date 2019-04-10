@@ -1,0 +1,76 @@
+{
+  "id": 1360192349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94195,51.67479,30.94195,51.67479",
+    "geom:latitude":51.67479,
+    "geom:longitude":30.94195,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tamarivka",
+    "gn:country_code":"UA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":691926,
+    "gn:latitude":51.67479,
+    "gn:longitude":30.94195,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamarivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Tamarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u043c\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tamarovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691926
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9e7161e5a8c50a96800b0ba7babd82f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088999,
+            "locality_id":1360192349,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1360192349,
+    "wof:lastmodified":1537710344,
+    "wof:name":"Tamarivka",
+    "wof:parent_id":102088999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94195,
+    51.67479,
+    30.94195,
+    51.67479
+],
+  "geometry": {"coordinates":[30.94195,51.67479],"type":"Point"}
+}

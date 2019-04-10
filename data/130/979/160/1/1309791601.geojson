@@ -1,0 +1,73 @@
+{
+  "id": 1309791601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50004,50.02128,35.50004,50.02128",
+    "geom:latitude":50.02128,
+    "geom:longitude":35.50004,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Fedorovka",
+    "gn:country_code":"UA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8678994,
+    "gn:latitude":50.02128,
+    "gn:longitude":35.50004,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"F\u00ebdorovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "F\u00ebdorovka"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0451\u0434\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8678994
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a55ba51b8ea08310daf1d6b9b8467291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088919,
+            "locality_id":1309791601,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1309791601,
+    "wof:lastmodified":1537711801,
+    "wof:name":"Fedorovka",
+    "wof:parent_id":102088919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50004000000001,
+    50.02128,
+    35.50004000000001,
+    50.02128
+],
+  "geometry": {"coordinates":[35.50004000000001,50.02128],"type":"Point"}
+}

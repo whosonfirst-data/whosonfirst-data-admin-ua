@@ -1,0 +1,76 @@
+{
+  "id": 1276251941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55102,48.3142,34.55102,48.3142",
+    "geom:latitude":48.3142,
+    "geom:longitude":34.55102,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Olenivka",
+    "gn:country_code":"UA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688207,
+    "gn:latitude":48.3142,
+    "gn:longitude":34.55102,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Olenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Olenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yel\u00ebnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688207
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"09194c37304ee1b5a11fad8c9028e486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088477,
+            "locality_id":1276251941,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1276251941,
+    "wof:lastmodified":1537710151,
+    "wof:name":"Olenivka",
+    "wof:parent_id":102088477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55102,
+    48.3142,
+    34.55102,
+    48.3142
+],
+  "geometry": {"coordinates":[34.55102,48.3142],"type":"Point"}
+}

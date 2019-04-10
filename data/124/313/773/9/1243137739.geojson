@@ -1,0 +1,76 @@
+{
+  "id": 1243137739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04584,49.47201,34.04584,49.47201",
+    "geom:latitude":49.47201,
+    "geom:longitude":34.04584,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Potichok",
+    "gn:country_code":"UA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696422,
+    "gn:latitude":49.47201,
+    "gn:longitude":34.04584,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Potichok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Potichok"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0442\u0456\u0447\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Potichek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696422
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"51e1988b2ad0b68065af008c3fff202a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088731,
+            "locality_id":1243137739,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1243137739,
+    "wof:lastmodified":1537710559,
+    "wof:name":"Potichok",
+    "wof:parent_id":102088731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04584000000001,
+    49.47201,
+    34.04584000000001,
+    49.47201
+],
+  "geometry": {"coordinates":[34.04584000000001,49.47201],"type":"Point"}
+}

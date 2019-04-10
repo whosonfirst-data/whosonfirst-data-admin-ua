@@ -1,0 +1,94 @@
+{
+  "id": 1225932101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01826,45.26521,36.01826,45.26521",
+    "geom:latitude":45.26521,
+    "geom:longitude":36.01826,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"703233",
+    "gn:admin3_code":"11128518.0",
+    "gn:asciiname":"Fontan",
+    "gn:country_code":"UA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709115,
+    "gn:latitude":45.26521,
+    "gn:longitude":36.01826,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Fontan",
+    "gn:population":209,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fontan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sukhoy Fontan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738639,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709115
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"06d9ff345f8aa3b680198019aff353aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1225932101,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "locality_id":1225932101,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1225932101,
+    "wof:lastmodified":1537711193,
+    "wof:name":"Fontan",
+    "wof:parent_id":1108738639,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01826,
+    45.26521,
+    36.01826,
+    45.26521
+],
+  "geometry": {"coordinates":[36.01826,45.26521],"type":"Point"}
+}

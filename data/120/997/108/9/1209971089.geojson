@@ -1,0 +1,78 @@
+{
+  "id": 1209971089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.11736,46.97945,35.11736,46.97945",
+    "geom:latitude":46.97945,
+    "geom:longitude":35.11736,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Vesele",
+    "gn:country_code":"UA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689698,
+    "gn:latitude":46.97945,
+    "gn:longitude":35.11736,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Vesele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vesele"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vesely",
+        "Sovkhoz Ves\u00eblyy",
+        "Veseloye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689698
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8130a349bb796129b35099a5f73465a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":1209971089,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1209971089,
+    "wof:lastmodified":1537710236,
+    "wof:name":"Vesele",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.11736,
+    46.97945,
+    35.11736,
+    46.97945
+],
+  "geometry": {"coordinates":[35.11736,46.97945],"type":"Point"}
+}

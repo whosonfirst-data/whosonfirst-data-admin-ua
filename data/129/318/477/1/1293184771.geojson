@@ -1,0 +1,73 @@
+{
+  "id": 1293184771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89834,50.11517,26.89834,50.11517",
+    "geom:latitude":50.11517,
+    "geom:longitude":26.89834,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pryputenka",
+    "gn:country_code":"UA",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313059,
+    "gn:latitude":50.11517,
+    "gn:longitude":26.89834,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pryputenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pryputenka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0438\u043f\u0443\u0442\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313059
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5ff8e7b1622c1e5c6cd20b7fca0ad685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088547,
+            "locality_id":1293184771,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1293184771,
+    "wof:lastmodified":1537712033,
+    "wof:name":"Pryputenka",
+    "wof:parent_id":102088547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89834,
+    50.11517,
+    26.89834,
+    50.11517
+],
+  "geometry": {"coordinates":[26.89834,50.11517],"type":"Point"}
+}

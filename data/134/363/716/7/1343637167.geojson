@@ -1,0 +1,74 @@
+{
+  "id": 1343637167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67481,49.99133,32.67481,49.99133",
+    "geom:latitude":49.99133,
+    "geom:longitude":32.67481,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Khoruzhivka",
+    "gn:country_code":"UA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706259,
+    "gn:latitude":49.99133,
+    "gn:longitude":32.67481,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Khoruzhivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0443\u0436\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khorunzhiyev",
+        "Khoruzhivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706259
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0dc1226fbdf7165f580d4b268d862706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088739,
+            "locality_id":1343637167,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1343637167,
+    "wof:lastmodified":1537711057,
+    "wof:name":"Khoruzhivka",
+    "wof:parent_id":102088739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67481,
+    49.99133,
+    32.67481,
+    49.99133
+],
+  "geometry": {"coordinates":[32.67481,49.99133],"type":"Point"}
+}

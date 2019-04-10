@@ -1,0 +1,85 @@
+{
+  "id": 101868187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.590058,48.704703,32.590058,48.704703",
+    "geom:latitude":48.704703,
+    "geom:longitude":32.590058,
+    "iso:country":"UA",
+    "lbl:latitude":48.704703,
+    "lbl:longitude":32.590058,
+    "mps:latitude":48.704703,
+    "mps:longitude":32.590058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0417\u043d\u0430\u043c\u2019\u044f\u043d\u043a\u0430 \u0414\u0440\u0443\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Znamenka Vtoraya"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kirovohrads'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0417\u043d\u0430\u043c'\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Znamyans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430 \u0414\u0440\u0443\u0433\u0430",
+    "qs:loc_alt":"Znamianka Druha",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108730811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686915,
+        "gp:id":940352,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"892bfc2a5183c1c6d9efa479b39f3168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730811,
+            "locality_id":101868187,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":101868187,
+    "wof:lastmodified":1544749594,
+    "wof:name":"\u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430 \u0414\u0440\u0443\u0433\u0430",
+    "wof:parent_id":1108730811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.590058,
+    48.704703,
+    32.590058,
+    48.704703
+],
+  "geometry": {"coordinates":[32.590058,48.704703],"type":"Point"}
+}

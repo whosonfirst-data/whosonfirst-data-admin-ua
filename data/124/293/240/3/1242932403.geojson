@@ -1,0 +1,94 @@
+{
+  "id": 1242932403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65395,44.54507,33.65395,44.54507",
+    "geom:latitude":44.54507,
+    "geom:longitude":33.65395,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"712927",
+    "gn:admin3_code":"11153385.0",
+    "gn:asciiname":"Khmel'nitskoye",
+    "gn:country_code":"UA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706372,
+    "gn:latitude":44.54507,
+    "gn:longitude":33.65395,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Khmel\u2019nitskoye",
+    "gn:population":661,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khmel\u2019nitskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738657,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706372
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"875de5a735d8491f724547c1c2d3d8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738657,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1242932403,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738657,
+            "disputed_id":1159339547,
+            "locality_id":1242932403,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1242932403,
+    "wof:lastmodified":1537711063,
+    "wof:name":"Khmel'nitskoye",
+    "wof:parent_id":1108738657,
+    "wof:placetype":"locality",
+    "wof:population":661,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65395,
+    44.54507,
+    33.65395,
+    44.54507
+],
+  "geometry": {"coordinates":[33.65395,44.54507],"type":"Point"}
+}

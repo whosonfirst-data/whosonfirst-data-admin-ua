@@ -1,0 +1,76 @@
+{
+  "id": 1292967337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.11001,51.4146,29.11001,51.4146",
+    "geom:latitude":51.4146,
+    "geom:longitude":29.11001,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Malenivka",
+    "gn:country_code":"UA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388630,
+    "gn:latitude":51.4146,
+    "gn:longitude":29.11001,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Malenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Malenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388630
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a43310ddd980e4d435e800608eaba134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":1292967337,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1292967337,
+    "wof:lastmodified":1537711629,
+    "wof:name":"Malenivka",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.11001,
+    51.4146,
+    29.11001,
+    51.4146
+],
+  "geometry": {"coordinates":[29.11001,51.4146],"type":"Point"}
+}

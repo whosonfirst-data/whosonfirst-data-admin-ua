@@ -1,0 +1,86 @@
+{
+  "id": 1293593723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91971,48.44492,36.91971,48.44492",
+    "geom:latitude":48.44492,
+    "geom:longitude":36.91971,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kryvorizhzhya",
+    "gn:country_code":"UA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704024,
+    "gn:latitude":48.44492,
+    "gn:longitude":36.91971,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Kryvorizhzhya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Krivorozh\u2019ye"
+    ],
+    "name:ukr_x_preferred":[
+        "Kryvorizhzhya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u0432\u043e\u0440\u0456\u0436\u0436\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704024
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22eef829c99da67c226979dc43f68134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1293593723,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1293593723,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293593723,
+    "wof:lastmodified":1537710944,
+    "wof:name":"Kryvorizhzhya",
+    "wof:parent_id":1108815755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91971,
+    48.44492,
+    36.91971,
+    48.44492
+],
+  "geometry": {"coordinates":[36.91971,48.44492],"type":"Point"}
+}

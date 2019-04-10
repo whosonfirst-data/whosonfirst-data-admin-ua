@@ -1,0 +1,76 @@
+{
+  "id": 1242585301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03798,50.80972,31.03798,50.80972",
+    "geom:latitude":50.80972,
+    "geom:longitude":31.03798,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sokyryn",
+    "gn:country_code":"UA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8525859,
+    "gn:latitude":50.80972,
+    "gn:longitude":31.03798,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Sokyryn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sokyryn"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043e\u043a\u0438\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sokirin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8525859
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22b7114d1f220b49342552e28f35c66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088907,
+            "locality_id":1242585301,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1242585301,
+    "wof:lastmodified":1537711733,
+    "wof:name":"Sokyryn",
+    "wof:parent_id":102088907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03798,
+    50.80972,
+    31.03798,
+    50.80972
+],
+  "geometry": {"coordinates":[31.03798,50.80972],"type":"Point"}
+}

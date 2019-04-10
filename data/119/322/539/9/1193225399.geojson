@@ -1,0 +1,76 @@
+{
+  "id": 1193225399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9368,50.3223,27.9368,50.3223",
+    "geom:latitude":50.3223,
+    "geom:longitude":27.9368,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Turova",
+    "gn:country_code":"UA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8465008,
+    "gn:latitude":50.3223,
+    "gn:longitude":27.9368,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Turova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Turova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0443\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Turovaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8465008
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a3a28c22f4208f8b2825ccadce8153a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088619,
+            "locality_id":1193225399,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1193225399,
+    "wof:lastmodified":1537711708,
+    "wof:name":"Turova",
+    "wof:parent_id":102088619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9368,
+    50.3223,
+    27.9368,
+    50.3223
+],
+  "geometry": {"coordinates":[27.9368,50.3223],"type":"Point"}
+}

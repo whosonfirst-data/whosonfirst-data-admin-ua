@@ -1,0 +1,76 @@
+{
+  "id": 1309757073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45705,50.27666,29.45705,50.27666",
+    "geom:latitude":50.27666,
+    "geom:longitude":29.45705,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Karabachyn",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706853,
+    "gn:latitude":50.27666,
+    "gn:longitude":29.45705,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Karabachyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Karabachyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0431\u0430\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Karabachin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706853
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"19961aa2dcf55138229546fca4139a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088675,
+            "locality_id":1309757073,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1309757073,
+    "wof:lastmodified":1537711086,
+    "wof:name":"Karabachyn",
+    "wof:parent_id":102088675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45705,
+    50.27666,
+    29.45705,
+    50.27666
+],
+  "geometry": {"coordinates":[29.45705,50.27666],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1226730101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25981,45.76292,34.25981,45.76292",
+    "geom:latitude":45.76292,
+    "geom:longitude":34.25981,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152852.0",
+    "gn:asciiname":"Zhilino",
+    "gn:country_code":"UA",
+    "gn:dem":25,
+    "gn:elevation":"24.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020988,
+    "gn:latitude":45.76292,
+    "gn:longitude":34.25981,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Zhilino",
+    "gn:population":426,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhilino"
+    ],
+    "name:rus_x_historical":[
+        "\u0414\u0436\u0430\u0434\u0440\u0430\u0301-\u0411\u043e\u0440\u043b\u0430\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u043b\u0438\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0430\u0434\u0440\u0430\u0301-\u0411\u043e\u0440\u043b\u0430\u0301\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u043b\u0438\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020988
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6e0a7d30325772d442c733be21503446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1226730101,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1226730101,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1226730101,
+    "wof:lastmodified":1537711529,
+    "wof:name":"Zhilino",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25980999999999,
+    45.76292,
+    34.25980999999999,
+    45.76292
+],
+  "geometry": {"coordinates":[34.25980999999999,45.76292],"type":"Point"}
+}

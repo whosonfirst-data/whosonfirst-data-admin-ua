@@ -1,0 +1,83 @@
+{
+  "id": 1293888143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43294,48.18621,37.43294,48.18621",
+    "geom:latitude":48.18621,
+    "geom:longitude":37.43294,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novozhelanne",
+    "gn:country_code":"UA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112818,
+    "gn:latitude":48.18621,
+    "gn:longitude":37.43294,
+    "gn:modification_date":"2017-08-23",
+    "gn:name":"Novozhelanne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novozhelanne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0436\u0435\u043b\u0430\u043d\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112818
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4c1eff98db01e1a49341424cbf89ebfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1293888143,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1293888143,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293888143,
+    "wof:lastmodified":1537711845,
+    "wof:name":"Novozhelanne",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43294,
+    48.18621,
+    37.43294,
+    48.18621
+],
+  "geometry": {"coordinates":[37.43294,48.18621],"type":"Point"}
+}

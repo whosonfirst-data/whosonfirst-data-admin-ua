@@ -1,0 +1,82 @@
+{
+  "id": 1126056869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.903167,50.341954,30.903167,50.341954",
+    "geom:latitude":50.341954,
+    "geom:longitude":30.903167,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":50.341954,
+    "lbl:longitude":30.903167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Borispol'",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Kyyivs\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":109,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":109,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1064302,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":917402,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Kyyivs\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        1108815647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":917402,
+        "qs_pg:id":1064302
+    },
+    "wof:country":"UA",
+    "wof:created":1497303315,
+    "wof:geomhash":"1c2d13ab005ae976042eed0f902ac877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815647,
+            "locality_id":1126056869,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1126056869,
+    "wof:lastmodified":1509409697,
+    "wof:name":"Borispol'",
+    "wof:parent_id":1108815647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.903167,
+    50.341954,
+    30.903167,
+    50.341954
+],
+  "geometry": {"coordinates":[30.903167,50.341954],"type":"Point"}
+}

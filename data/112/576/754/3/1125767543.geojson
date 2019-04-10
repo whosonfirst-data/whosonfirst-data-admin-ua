@@ -1,0 +1,106 @@
+{
+  "id": 1125767543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52561,45.27917,35.52561,45.27917",
+    "geom:latitude":45.27917,
+    "geom:longitude":35.52561,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":300,
+    "gn:population":254,
+    "iso:country":"UA",
+    "lbl:latitude":45.27917,
+    "lbl:longitude":35.52561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kamenskoye"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u043a-\u041c\u043e\u043d\u0430\u0301\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u041c\u043e\u043d\u0430\u0301\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u2019\u044f\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":706968,
+    "qs_pg:gn_pop":300,
+    "qs_pg:name":"Monay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83086,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738639,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706968,
+        "qs_pg:id":83086
+    },
+    "wof:country":"UA",
+    "wof:created":1497289952,
+    "wof:geomhash":"1f2a4a2f50392e6a0824fa10e27e8406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125767543,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "locality_id":1125767543,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125767543,
+    "wof:lastmodified":1530299592,
+    "wof:name":"Monay",
+    "wof:parent_id":1108738639,
+    "wof:placetype":"locality",
+    "wof:population":254,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52561,
+    45.27917,
+    35.52561,
+    45.27917
+],
+  "geometry": {"coordinates":[35.52561,45.27917],"type":"Point"}
+}

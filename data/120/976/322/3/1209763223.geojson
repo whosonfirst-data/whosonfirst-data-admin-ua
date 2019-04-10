@@ -1,0 +1,81 @@
+{
+  "id": 1209763223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83369,47.45397,34.83369,47.45397",
+    "geom:latitude":47.45397,
+    "geom:longitude":34.83369,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Blahovishchenka",
+    "gn:country_code":"UA",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712077,
+    "gn:latitude":47.45397,
+    "gn:longitude":34.83369,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Blahovishchenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Blahovishchenka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u0456\u0449\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Blagoveshchenskoye",
+        "Blagoveshchenka",
+        "Blagovishchenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712077
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3a1a4adbe086ca9dd431ac4bef23af48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088255,
+            "locality_id":1209763223,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1209763223,
+    "wof:lastmodified":1537711341,
+    "wof:name":"Blahovishchenka",
+    "wof:parent_id":102088255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83369,
+    47.45397,
+    34.83369,
+    47.45397
+],
+  "geometry": {"coordinates":[34.83369,47.45397],"type":"Point"}
+}

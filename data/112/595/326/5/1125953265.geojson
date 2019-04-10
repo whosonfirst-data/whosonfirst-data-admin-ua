@@ -1,0 +1,93 @@
+{
+  "id": 1125953265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.78441,50.78281,34.78441,50.78281",
+    "geom:latitude":50.78281,
+    "geom:longitude":34.78441,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2819,
+    "gn:population":2819,
+    "iso:country":"UA",
+    "lbl:latitude":50.78281,
+    "lbl:longitude":34.78441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Nyzy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0437\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0438\u0437\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0437\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Nizy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699933,
+    "qs_pg:gn_pop":2819,
+    "qs_pg:name":"Nyzy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1103984,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699933,
+        "qs_pg:id":1103984
+    },
+    "wof:country":"UA",
+    "wof:created":1497297534,
+    "wof:geomhash":"e5f6e24d102cd3e53c894aa50516ff7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088997,
+            "locality_id":1125953265,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1125953265,
+    "wof:lastmodified":1509402832,
+    "wof:name":"Nyzy",
+    "wof:parent_id":102088997,
+    "wof:placetype":"locality",
+    "wof:population":2819,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.78441,
+    50.78281,
+    34.78441,
+    50.78281
+],
+  "geometry": {"coordinates":[34.78441,50.78281],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243130743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46559,51.35304,33.46559,51.35304",
+    "geom:latitude":51.35304,
+    "geom:longitude":33.46559,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Vovchyk",
+    "gn:country_code":"UA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8407111,
+    "gn:latitude":51.35304,
+    "gn:longitude":33.46559,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Vovchyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vovchyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u0432\u0447\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Volchik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8407111
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"38618fba216510260e2bb6765a4a5be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815701,
+            "locality_id":1243130743,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1243130743,
+    "wof:lastmodified":1537711656,
+    "wof:name":"Vovchyk",
+    "wof:parent_id":1108815701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46559,
+    51.35304,
+    33.46559,
+    51.35304
+],
+  "geometry": {"coordinates":[33.46559,51.35304],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1344061519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2442,47.75412,38.2442,47.75412",
+    "geom:latitude":47.75412,
+    "geom:longitude":38.2442,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Merezhky",
+    "gn:country_code":"UA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707550,
+    "gn:latitude":47.75412,
+    "gn:longitude":38.2442,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Merezhky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Merezhky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0435\u0440\u0435\u0436\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Isayeva Balka",
+        "Merezhki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707550
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6c0cc68c2ad749bfd3b9c53f187d3afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1344061519,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1344061519,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1344061519,
+    "wof:lastmodified":1537711113,
+    "wof:name":"Merezhky",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2442,
+    47.75412,
+    38.2442,
+    47.75412
+],
+  "geometry": {"coordinates":[38.2442,47.75412],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293585827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20395,49.5985,36.20395,49.5985",
+    "geom:latitude":49.5985,
+    "geom:longitude":36.20395,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kozachka",
+    "gn:country_code":"UA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706591,
+    "gn:latitude":49.5985,
+    "gn:longitude":36.20395,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Kozachka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kozachka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0437\u0430\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kazachka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706591
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cc3bb55a5f0e9e7bbce0f814bbdd36c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088859,
+            "locality_id":1293585827,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1293585827,
+    "wof:lastmodified":1537711073,
+    "wof:name":"Kozachka",
+    "wof:parent_id":102088859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20395,
+    49.5985,
+    36.20395,
+    49.5985
+],
+  "geometry": {"coordinates":[36.20395,49.5985],"type":"Point"}
+}

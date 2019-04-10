@@ -1,0 +1,76 @@
+{
+  "id": 1276192545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54068,47.49231,35.54068,47.49231",
+    "geom:latitude":47.49231,
+    "geom:longitude":35.54068,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Konovalova",
+    "gn:country_code":"UA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705130,
+    "gn:latitude":47.49231,
+    "gn:longitude":35.54068,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Konovalova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Konovalova"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043d\u043e\u0432\u0430\u043b\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Konovalov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705130
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ee014dd46948ab7b7b4fc8473e7edf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088303,
+            "locality_id":1276192545,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1276192545,
+    "wof:lastmodified":1537710997,
+    "wof:name":"Konovalova",
+    "wof:parent_id":102088303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54068,
+    47.49231,
+    35.54068,
+    47.49231
+],
+  "geometry": {"coordinates":[35.54068,47.49231],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327053075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2,48.35,34.2,48.35",
+    "geom:latitude":48.35,
+    "geom:longitude":34.2,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Petropol'",
+    "gn:country_code":"UA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697413,
+    "gn:latitude":48.35,
+    "gn:longitude":34.2,
+    "gn:modification_date":"2009-02-02",
+    "gn:name":"Petropol\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697413
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a1bb134cc318a19a147bea0d5bb60f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088477,
+            "locality_id":1327053075,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1327053075,
+    "wof:lastmodified":1536730921,
+    "wof:name":"Petropol'",
+    "wof:parent_id":102088477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2,
+    48.35,
+    34.2,
+    48.35
+],
+  "geometry": {"coordinates":[34.2,48.35],"type":"Point"}
+}

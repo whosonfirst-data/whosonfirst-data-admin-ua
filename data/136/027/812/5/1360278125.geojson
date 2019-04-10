@@ -1,0 +1,86 @@
+{
+  "id": 1360278125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07802,47.45094,38.07802,47.45094",
+    "geom:latitude":47.45094,
+    "geom:longitude":38.07802,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Volya",
+    "gn:country_code":"UA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689263,
+    "gn:latitude":47.45094,
+    "gn:longitude":38.07802,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Volya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Volya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Volga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689263
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5d6288875dc4e2a093f9178fe49066c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1360278125,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1360278125,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1360278125,
+    "wof:lastmodified":1537710212,
+    "wof:name":"Volya",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07802,
+    47.45094,
+    38.07802,
+    47.45094
+],
+  "geometry": {"coordinates":[38.07802,47.45094],"type":"Point"}
+}

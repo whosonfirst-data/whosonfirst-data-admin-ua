@@ -1,0 +1,76 @@
+{
+  "id": 1293746971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96827,47.45828,29.96827,47.45828",
+    "geom:latitude":47.45828,
+    "geom:longitude":29.96827,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baybuzivka",
+    "gn:country_code":"UA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706119,
+    "gn:latitude":47.45828,
+    "gn:longitude":29.96827,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baybuzivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Baybuzivka"
+    ],
+    "name:und_x_variant":[
+        "Pechenyy",
+        "Baybuzovka",
+        "Khutor Buybuzenko",
+        "Buybuzenko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706119
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4a25b5af45ef2233f6e9a8204268fb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088083,
+            "locality_id":1293746971,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1293746971,
+    "wof:lastmodified":1537711049,
+    "wof:name":"Baybuzivka",
+    "wof:parent_id":102088083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96827,
+    47.45828,
+    29.96827,
+    47.45828
+],
+  "geometry": {"coordinates":[29.96827,47.45828],"type":"Point"}
+}

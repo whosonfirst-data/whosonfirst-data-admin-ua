@@ -1,0 +1,94 @@
+{
+  "id": 1276528267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17003,44.99959,34.17003,44.99959",
+    "geom:latitude":44.99959,
+    "geom:longitude":34.17003,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152621.0",
+    "gn:asciiname":"Akropolis",
+    "gn:country_code":"UA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310715,
+    "gn:latitude":44.99959,
+    "gn:longitude":34.17003,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Akropolis",
+    "gn:population":465,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akropolis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0440\u043e\u043f\u043e\u043b\u0456\u0441"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310715
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a065ecbc97da68a9f1ade2f37efabc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1276528267,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1276528267,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1276528267,
+    "wof:lastmodified":1537711909,
+    "wof:name":"Akropolis",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":465,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17003,
+    44.99959000000001,
+    34.17003,
+    44.99959000000001
+],
+  "geometry": {"coordinates":[34.17003,44.99959000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259542033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54523,51.54535,33.54523,51.54535",
+    "geom:latitude":51.54535,
+    "geom:longitude":33.54523,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Prohres",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220666,
+    "gn:latitude":51.54535,
+    "gn:longitude":33.54523,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Prohres",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Prohres"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Progress"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102089003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220666
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ae9c15295a0ac09a59b47ee3b388c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089003,
+            "locality_id":1259542033,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1259542033,
+    "wof:lastmodified":1537711583,
+    "wof:name":"Prohres",
+    "wof:parent_id":102089003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54523,
+    51.54535,
+    33.54523,
+    51.54535
+],
+  "geometry": {"coordinates":[33.54523,51.54535],"type":"Point"}
+}

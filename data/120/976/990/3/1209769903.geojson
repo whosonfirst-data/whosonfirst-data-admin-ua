@@ -1,0 +1,76 @@
+{
+  "id": 1209769903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35604,47.36929,36.35604,47.36929",
+    "geom:latitude":47.36929,
+    "geom:longitude":36.35604,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Nova Dacha",
+    "gn:country_code":"UA",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699873,
+    "gn:latitude":47.36929,
+    "gn:longitude":36.35604,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Nova Dacha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Nova Dacha"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u0430 \u0414\u0430\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Dacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699873
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c4380a3188a21e18df18f456fc2aed5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088369,
+            "locality_id":1209769903,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1209769903,
+    "wof:lastmodified":1537710742,
+    "wof:name":"Nova Dacha",
+    "wof:parent_id":102088369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35604,
+    47.36929,
+    36.35604,
+    47.36929
+],
+  "geometry": {"coordinates":[36.35604,47.36929],"type":"Point"}
+}

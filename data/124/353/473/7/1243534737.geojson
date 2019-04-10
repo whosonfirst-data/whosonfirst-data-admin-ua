@@ -1,0 +1,95 @@
+{
+  "id": 1243534737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81087,45.48086,34.81087,45.48086",
+    "geom:latitude":45.48086,
+    "geom:longitude":34.81087,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"700018",
+    "gn:admin3_code":"11152972.0",
+    "gn:asciiname":"Listvennoye",
+    "gn:country_code":"UA",
+    "gn:dem":17,
+    "gn:elevation":"19.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7019390,
+    "gn:latitude":45.48086,
+    "gn:longitude":34.81087,
+    "gn:modification_date":"2016-08-10",
+    "gn:name":"Listvennoye",
+    "gn:population":549,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Listvennoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0441\u0442\u0432\u0438\u043d\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738641,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019390
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"598b3603aeb31f190259ae010d9294ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738641,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1243534737,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738641,
+            "disputed_id":1159339547,
+            "locality_id":1243534737,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1243534737,
+    "wof:lastmodified":1537711526,
+    "wof:name":"Listvennoye",
+    "wof:parent_id":1108738641,
+    "wof:placetype":"locality",
+    "wof:population":549,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81087,
+    45.48086,
+    34.81087,
+    45.48086
+],
+  "geometry": {"coordinates":[34.81087,45.48086],"type":"Point"}
+}

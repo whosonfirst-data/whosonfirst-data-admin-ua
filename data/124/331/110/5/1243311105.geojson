@@ -1,0 +1,83 @@
+{
+  "id": 1243311105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.97201,47.41935,36.97201,47.41935",
+    "geom:latitude":47.41935,
+    "geom:longitude":36.97201,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Novomlynivka",
+    "gn:country_code":"UA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699448,
+    "gn:latitude":47.41935,
+    "gn:longitude":36.97201,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Novomlynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novomlinovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u043b\u044b\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Novomlynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043c\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novokermenchik",
+        "Novomlynovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699448
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d1b5d880b8babf91f61cb5928eab1d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088385,
+            "locality_id":1243311105,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1243311105,
+    "wof:lastmodified":1537710718,
+    "wof:name":"Novomlynivka",
+    "wof:parent_id":102088385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.97201,
+    47.41935,
+    36.97201,
+    47.41935
+],
+  "geometry": {"coordinates":[36.97201,47.41935],"type":"Point"}
+}

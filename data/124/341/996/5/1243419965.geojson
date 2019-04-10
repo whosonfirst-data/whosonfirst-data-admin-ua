@@ -1,0 +1,73 @@
+{
+  "id": 1243419965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32431,49.54984,34.32431,49.54984",
+    "geom:latitude":49.54984,
+    "geom:longitude":34.32431,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hvozdykivka",
+    "gn:country_code":"UA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140291,
+    "gn:latitude":49.54984,
+    "gn:longitude":34.32431,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Hvozdykivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hvozdykivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0432\u043e\u0437\u0434\u0438\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        1108815691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140291
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"45eb9f20578e6057e573d9df52732041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815691,
+            "locality_id":1243419965,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1243419965,
+    "wof:lastmodified":1537711985,
+    "wof:name":"Hvozdykivka",
+    "wof:parent_id":1108815691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32431,
+    49.54984,
+    34.32431,
+    49.54984
+],
+  "geometry": {"coordinates":[34.32431,49.54984],"type":"Point"}
+}

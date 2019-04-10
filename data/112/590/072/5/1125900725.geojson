@@ -1,0 +1,103 @@
+{
+  "id": 1125900725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75622,48.55781,24.75622,48.55781",
+    "geom:latitude":48.55781,
+    "geom:longitude":24.75622,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7718,
+    "gn:population":7718,
+    "iso:country":"UA",
+    "lbl:latitude":48.55781,
+    "lbl:longitude":24.75622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u862d\u6b3d"
+    ],
+    "name:eng_x_preferred":[
+        "Lanchyn"
+    ],
+    "name:ger_x_preferred":[
+        "Lantschyn"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141anczyn"
+    ],
+    "name:rum_x_preferred":[
+        "Lanci\u00een"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u0447\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043d\u0447\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Lanchin"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":703410,
+    "qs_pg:gn_pop":7718,
+    "qs_pg:name":"Lanchyn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1028553,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703410,
+        "qs_pg:id":1028553,
+        "wd:id":"Q4254088"
+    },
+    "wof:country":"UA",
+    "wof:created":1497295790,
+    "wof:geomhash":"bd3c8b76fc5d995f2414a71c7716ee0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088099,
+            "locality_id":1125900725,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125900725,
+    "wof:lastmodified":1514509710,
+    "wof:name":"Lanchyn",
+    "wof:parent_id":102088099,
+    "wof:placetype":"locality",
+    "wof:population":7718,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75622,
+    48.55781,
+    24.75622,
+    48.55781
+],
+  "geometry": {"coordinates":[24.75622,48.55781],"type":"Point"}
+}

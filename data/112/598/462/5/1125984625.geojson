@@ -1,0 +1,100 @@
+{
+  "id": 1125984625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33542,48.96345,24.33542,48.96345",
+    "geom:latitude":48.96345,
+    "geom:longitude":24.33542,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3564,
+    "gn:population":3564,
+    "iso:country":"UA",
+    "lbl:latitude":48.96345,
+    "lbl:longitude":24.33542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Novitsia"
+    ],
+    "name:ger_x_preferred":[
+        "Nowyzja"
+    ],
+    "name:pol_x_preferred":[
+        "Nowica"
+    ],
+    "name:rum_x_preferred":[
+        "Nov\u00ee\u021bea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Novitsa"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699746,
+    "qs_pg:gn_pop":3564,
+    "qs_pg:name":"Novytsya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275488,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699746,
+        "qs_pg:id":275488,
+        "wd:id":"Q783441"
+    },
+    "wof:country":"UA",
+    "wof:created":1497298744,
+    "wof:geomhash":"779ba6a4aef4ff034a7cd597cf019864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088203,
+            "locality_id":1125984625,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125984625,
+    "wof:lastmodified":1514509761,
+    "wof:name":"Novytsya",
+    "wof:parent_id":102088203,
+    "wof:placetype":"locality",
+    "wof:population":3564,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33542,
+    48.96345,
+    24.33542,
+    48.96345
+],
+  "geometry": {"coordinates":[24.33542,48.96345],"type":"Point"}
+}

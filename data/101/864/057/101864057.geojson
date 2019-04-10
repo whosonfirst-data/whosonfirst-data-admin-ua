@@ -1,0 +1,112 @@
+{
+  "id": 101864057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.242523,50.664421,24.242523,50.664421",
+    "geom:latitude":50.664421,
+    "geom:longitude":24.242523,
+    "gn:population":4652,
+    "iso:country":"UA",
+    "lbl:latitude":50.664421,
+    "lbl:longitude":24.242523,
+    "mps:latitude":50.664421,
+    "mps:longitude":24.242523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u0648\u0641\u062a\u0646\u064a\u0641\u064a\u060c \u0641\u0648\u0644\u064a\u0646\u0633\u0643\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u053a\u0578\u057e\u057f\u0576\u0587\u0578\u0565"
+    ],
+    "name:chi_x_preferred":[
+        "\u82e5\u592b\u7279\u6d85\u97cb"
+    ],
+    "name:eng_x_preferred":[
+        "Blahodatne"
+    ],
+    "name:ger_x_preferred":[
+        "Schowtnewe"
+    ],
+    "name:pol_x_preferred":[
+        "\u017bowtnewe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Vilichi"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Volyns'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0406\u0432\u0430\u043d\u0438\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Ivanychivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435",
+    "qs:loc_alt":"Zhovtneve",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        1108730755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687065,
+        "gp:id":940209,
+        "qs:id":1028328,
+        "wd:id":"Q4180935"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"89680bdf6e2a5f7da4419866ced3f93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730755,
+            "locality_id":101864057,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":101864057,
+    "wof:lastmodified":1544747327,
+    "wof:name":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435",
+    "wof:parent_id":1108730755,
+    "wof:placetype":"locality",
+    "wof:population":4652,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.242523,
+    50.664421,
+    24.242523,
+    50.664421
+],
+  "geometry": {"coordinates":[24.242523,50.664421],"type":"Point"}
+}

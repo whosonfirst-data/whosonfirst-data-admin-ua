@@ -1,0 +1,97 @@
+{
+  "id": 101857159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.091355,45.267868,33.091355,45.267868",
+    "geom:latitude":45.267868,
+    "geom:longitude":33.091355,
+    "iso:country":"UA",
+    "lbl:latitude":45.267868,
+    "lbl:longitude":33.091355,
+    "mps:latitude":45.267868,
+    "mps:longitude":33.091355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Boone Lake"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0430\u043a\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Saks'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0428\u0442\u043e\u0440\u043c\u043e\u0432\u0435",
+    "qs:loc_alt":"Shtormove",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033458,
+        "gp:id":927151,
+        "qs:id":1,
+        "wk:page":"Boone Lake"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2f083cf387574a5b96e9e62f43e4760f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101857159,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":101857159,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101857159,
+    "wof:lastmodified":1544743752,
+    "wof:name":"\u0428\u0442\u043e\u0440\u043c\u043e\u0432\u0435",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.091355,
+    45.267868,
+    33.091355,
+    45.267868
+],
+  "geometry": {"coordinates":[33.091355,45.267868],"type":"Point"}
+}

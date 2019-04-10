@@ -1,0 +1,90 @@
+{
+  "id": 1126002487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1149,50.36408,35.1149,50.36408",
+    "geom:latitude":50.36408,
+    "geom:longitude":35.1149,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3202,
+    "gn:population":3202,
+    "iso:country":"UA",
+    "lbl:latitude":50.36408,
+    "lbl:longitude":35.1149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kirikovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0438\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Kyrykivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0438\u0440\u0438\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705854,
+    "qs_pg:gn_pop":3202,
+    "qs_pg:name":"Kirikovka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705854,
+        "qs_pg:id":128664
+    },
+    "wof:country":"UA",
+    "wof:created":1497299736,
+    "wof:geomhash":"79e117f3c89399786f0e6ad2ba27dff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088939,
+            "locality_id":1126002487,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1126002487,
+    "wof:lastmodified":1509406229,
+    "wof:name":"Kirikovka",
+    "wof:parent_id":102088939,
+    "wof:placetype":"locality",
+    "wof:population":3202,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1149,
+    50.36408,
+    35.1149,
+    50.36408
+],
+  "geometry": {"coordinates":[35.1149,50.36408],"type":"Point"}
+}

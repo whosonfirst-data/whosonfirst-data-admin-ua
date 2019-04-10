@@ -1,0 +1,84 @@
+{
+  "id": 1125839939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69435,48.12262,24.69435,48.12262",
+    "geom:latitude":48.12262,
+    "geom:longitude":24.69435,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":362,
+    "gn:population":362,
+    "iso:country":"UA",
+    "lbl:latitude":48.12262,
+    "lbl:longitude":24.69435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0441\u0442\u0440\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Bystshets"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":711003,
+    "qs_pg:gn_pop":362,
+    "qs_pg:name":"Bystrets",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83185,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711003,
+        "qs_pg:id":83185
+    },
+    "wof:country":"UA",
+    "wof:created":1497292890,
+    "wof:geomhash":"6b9d151e57e9c7ddbb4dd5756c1a0120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088011,
+            "locality_id":1125839939,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125839939,
+    "wof:lastmodified":1509395229,
+    "wof:name":"Bystrets",
+    "wof:parent_id":102088011,
+    "wof:placetype":"locality",
+    "wof:population":362,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69435,
+    48.12262,
+    24.69435,
+    48.12262
+],
+  "geometry": {"coordinates":[24.69435,48.12262],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1243149545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95772,44.95367,33.95772,44.95367",
+    "geom:latitude":44.95367,
+    "geom:longitude":33.95772,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152617.0",
+    "gn:asciiname":"Klyuchi",
+    "gn:country_code":"UA",
+    "gn:dem":190,
+    "gn:elevation":"212.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705597,
+    "gn:latitude":44.95367,
+    "gn:longitude":33.95772,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Klyuchi",
+    "gn:population":323,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Klyuchi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044e\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Adzhi-Ibram",
+        "Klyuchevoye"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705597
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"958e32493ef270f58a9fadd6ade52c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1243149545,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1243149545,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1243149545,
+    "wof:lastmodified":1537711021,
+    "wof:name":"Klyuchi",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95772,
+    44.95367,
+    33.95772,
+    44.95367
+],
+  "geometry": {"coordinates":[33.95772,44.95367],"type":"Point"}
+}

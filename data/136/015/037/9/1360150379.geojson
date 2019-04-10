@@ -1,0 +1,73 @@
+{
+  "id": 1360150379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54428,49.62679,33.54428,49.62679",
+    "geom:latitude":49.62679,
+    "geom:longitude":33.54428,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Perekopivka",
+    "gn:country_code":"UA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11139444,
+    "gn:latitude":49.62679,
+    "gn:longitude":33.54428,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Perekopivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Perekopivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0440\u0435\u043a\u043e\u043f\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139444
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f60e1cf62fc7b34d7ef503b2f565c856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088765,
+            "locality_id":1360150379,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1360150379,
+    "wof:lastmodified":1537711977,
+    "wof:name":"Perekopivka",
+    "wof:parent_id":102088765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54428,
+    49.62679,
+    33.54428,
+    49.62679
+],
+  "geometry": {"coordinates":[33.54428,49.62679],"type":"Point"}
+}

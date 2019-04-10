@@ -1,0 +1,125 @@
+{
+  "id": 101858701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.859229,45.712329,33.859229,45.712329",
+    "geom:latitude":45.712329,
+    "geom:longitude":33.859229,
+    "gn:population":9014,
+    "iso:country":"UA",
+    "lbl:latitude":45.712329,
+    "lbl:longitude":33.859229,
+    "mps:latitude":45.712329,
+    "mps:longitude":33.859229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:crh_x_historical":[
+        "\u011eurt\u010du"
+    ],
+    "name:crh_x_preferred":[
+        "\u011eurt\u010du"
+    ],
+    "name:eng_x_preferred":[
+        "Pervomayskoye"
+    ],
+    "name:eng_x_variant":[
+        "Dzhurchi",
+        "Pervomaiske"
+    ],
+    "name:rus_x_historical":[
+        "\u0414\u0436\u0443\u0440\u0447\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u0440\u0447\u0438\u0301"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0435"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Pervomais'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Pervomais'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738643,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0827d79c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":697568,
+        "gp:id":930517,
+        "qs:id":128365
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7fb78065af52b56865d55b098e8afcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858701,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "locality_id":101858701,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858701,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544744536,
+    "wof:name":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0435",
+    "wof:parent_id":1108738643,
+    "wof:placetype":"locality",
+    "wof:population":9014,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.859229,
+    45.712329,
+    33.859229,
+    45.712329
+],
+  "geometry": {"coordinates":[33.859229,45.712329],"type":"Point"}
+}

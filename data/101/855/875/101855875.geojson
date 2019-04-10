@@ -1,0 +1,93 @@
+{
+  "id": 101855875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.138481,44.891174,34.138481,44.891174",
+    "geom:latitude":44.891174,
+    "geom:longitude":34.138481,
+    "geonames:id":"690789,690788",
+    "iso:country":"UA",
+    "lbl:latitude":44.891174,
+    "lbl:longitude":34.138481,
+    "mps:latitude":44.891174,
+    "mps:longitude":34.138481,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0456\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Simferopol's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0423\u043a\u0440\u0430\u0457\u043d\u043a\u0430",
+    "qs:loc_alt":"Ukrainka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518423,
+        "qs:id":2
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1ebcb7b0d2e1dbeade6f1cf391443173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101855875,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":101855875,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101855875,
+    "wof:lastmodified":1544743116,
+    "wof:name":"\u0423\u043a\u0440\u0430\u0457\u043d\u043a\u0430",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.138481,
+    44.891174,
+    34.138481,
+    44.891174
+],
+  "geometry": {"coordinates":[34.138481,44.891174],"type":"Point"}
+}

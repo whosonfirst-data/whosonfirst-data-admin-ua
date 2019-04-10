@@ -1,0 +1,86 @@
+{
+  "id": 1193011017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16309,48.56506,37.16309,48.56506",
+    "geom:latitude":48.56506,
+    "geom:longitude":37.16309,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mar'yivka",
+    "gn:country_code":"UA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11096831,
+    "gn:latitude":48.56506,
+    "gn:longitude":37.16309,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Mar\u2019yivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Mar\u2019yevka"
+    ],
+    "name:ukr_x_preferred":[
+        "Mar\u2019yivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0440\u2019\u0457\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11096831
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8c3120eccee8f7a50234e24cf93ff60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1193011017,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1193011017,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1193011017,
+    "wof:lastmodified":1537711962,
+    "wof:name":"Mar'yivka",
+    "wof:parent_id":1108815755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16309,
+    48.56506,
+    37.16309,
+    48.56506
+],
+  "geometry": {"coordinates":[37.16309,48.56506],"type":"Point"}
+}

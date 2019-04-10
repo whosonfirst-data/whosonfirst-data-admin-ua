@@ -1,0 +1,100 @@
+{
+  "id": 1126011377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43953,49.64876,24.43953,49.64876",
+    "geom:latitude":49.64876,
+    "geom:longitude":24.43953,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":795,
+    "gn:population":795,
+    "iso:country":"UA",
+    "lbl:latitude":49.64876,
+    "lbl:longitude":24.43953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Svirzh"
+    ],
+    "name:ger_x_preferred":[
+        "Swirsch"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awirz"
+    ],
+    "name:rum_x_preferred":[
+        "Svirj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0440\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u0440\u0436"
+    ],
+    "name:unk_x_variant":[
+        "S\u2019vizh"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":692052,
+    "qs_pg:gn_pop":795,
+    "qs_pg:name":"Svirzh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552558,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692052,
+        "qs_pg:id":552558,
+        "wd:id":"Q4410802"
+    },
+    "wof:country":"UA",
+    "wof:created":1497300294,
+    "wof:geomhash":"df1f708625c65ddb561c2e6ed74cb271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088335,
+            "locality_id":1126011377,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1126011377,
+    "wof:lastmodified":1553816697,
+    "wof:name":"Svirzh",
+    "wof:parent_id":102088335,
+    "wof:placetype":"locality",
+    "wof:population":795,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43953,
+    49.64876,
+    24.43953,
+    49.64876
+],
+  "geometry": {"coordinates":[24.43953,49.64876],"type":"Point"}
+}

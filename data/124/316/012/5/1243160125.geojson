@@ -1,0 +1,94 @@
+{
+  "id": 1243160125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64674,46.1125,33.64674,46.1125",
+    "geom:latitude":46.1125,
+    "geom:longitude":33.64674,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8449689",
+    "gn:asciiname":"Voloshino",
+    "gn:country_code":"UA",
+    "gn:dem":5,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7021031,
+    "gn:latitude":46.1125,
+    "gn:longitude":33.64674,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Voloshino",
+    "gn:population":152,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voloshino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0448\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0448\u0438\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738667,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021031
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"222e8462250307662f40c6f0b729f631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738667,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1243160125,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738667,
+            "disputed_id":1159339547,
+            "locality_id":1243160125,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1243160125,
+    "wof:lastmodified":1537711529,
+    "wof:name":"Voloshino",
+    "wof:parent_id":1108738667,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64674,
+    46.1125,
+    33.64674,
+    46.1125
+],
+  "geometry": {"coordinates":[33.64674,46.1125],"type":"Point"}
+}

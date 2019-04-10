@@ -1,0 +1,110 @@
+{
+  "id": 1125823807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.39981,46.95957,37.39981,46.95957",
+    "geom:latitude":46.95957,
+    "geom:longitude":37.39981,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1356,
+    "gn:population":1356,
+    "iso:country":"UA",
+    "lbl:latitude":46.95957,
+    "lbl:longitude":37.39981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0544\u0565\u056c\u0565\u056f\u056b\u0576\u0578"
+    ],
+    "name:eng_x_preferred":[
+        "Melekyne"
+    ],
+    "name:ger_x_preferred":[
+        "Melekine"
+    ],
+    "name:lav_x_preferred":[
+        "Me\u013cekine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u043a\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u043a\u0438\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Byelosarai"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":701413,
+    "qs_pg:gn_pop":1356,
+    "qs_pg:name":"Melekyne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":82963,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701413,
+        "qs_pg:id":82963,
+        "wd:id":"Q4289319"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292185,
+    "wof:geomhash":"2e285ad567e8c176f91249db2c3a9e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1125823807,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1125823807,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125823807,
+    "wof:lastmodified":1553816555,
+    "wof:name":"Melekyne",
+    "wof:parent_id":102088329,
+    "wof:placetype":"locality",
+    "wof:population":1356,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.39981,
+    46.95957,
+    37.39981,
+    46.95957
+],
+  "geometry": {"coordinates":[37.39981,46.95957],"type":"Point"}
+}

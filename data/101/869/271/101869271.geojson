@@ -1,0 +1,88 @@
+{
+  "id": 101869271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.560078,49.664341,29.560078,49.664341",
+    "geom:latitude":49.664341,
+    "geom:longitude":29.560078,
+    "iso:country":"UA",
+    "lbl:latitude":49.664341,
+    "lbl:longitude":29.560078,
+    "mps:latitude":49.664341,
+    "mps:longitude":29.560078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Samhorodok"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043c\u0433\u043e\u0440\u043e\u0434\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Samgorodok"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043a\u0432\u0438\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Skvyrs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0430\u043c\u0433\u043e\u0440\u043e\u0434\u043e\u043a",
+    "qs:loc_alt":"Samhorodok",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694856,
+        "gp:id":934380
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"01fd180336a010b122d88e1fb06972de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088579,
+            "locality_id":101869271,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101869271,
+    "wof:lastmodified":1544750202,
+    "wof:name":"\u0421\u0430\u043c\u0433\u043e\u0440\u043e\u0434\u043e\u043a",
+    "wof:parent_id":102088579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.560078,
+    49.664341,
+    29.560078,
+    49.664341
+],
+  "geometry": {"coordinates":[29.560078,49.664341],"type":"Point"}
+}

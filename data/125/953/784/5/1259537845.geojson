@@ -1,0 +1,77 @@
+{
+  "id": 1259537845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52208,47.61581,36.52208,47.61581",
+    "geom:latitude":47.61581,
+    "geom:longitude":36.52208,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Chkalova",
+    "gn:country_code":"UA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710432,
+    "gn:latitude":47.61581,
+    "gn:longitude":36.52208,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Chkalova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chkalova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Merezhina",
+        "Chkalovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710432
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ea57a6fd55efdd132bc513ee8af87d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088369,
+            "locality_id":1259537845,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1259537845,
+    "wof:lastmodified":1537711255,
+    "wof:name":"Chkalova",
+    "wof:parent_id":102088369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52208,
+    47.61581,
+    36.52208,
+    47.61581
+],
+  "geometry": {"coordinates":[36.52208,47.61581],"type":"Point"}
+}

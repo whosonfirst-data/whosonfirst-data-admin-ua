@@ -1,0 +1,73 @@
+{
+  "id": 1343639837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30966,49.05664,32.30966,49.05664",
+    "geom:latitude":49.05664,
+    "geom:longitude":32.30966,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Poselyanivka",
+    "gn:country_code":"UA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180788,
+    "gn:latitude":49.05664,
+    "gn:longitude":32.30966,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Poselyanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Poselyanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0441\u0435\u043b\u044f\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180788
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dbc237668c3c55f40c0ec348d3d13993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815663,
+            "locality_id":1343639837,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1343639837,
+    "wof:lastmodified":1537712013,
+    "wof:name":"Poselyanivka",
+    "wof:parent_id":1108815663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30966,
+    49.05664,
+    32.30966,
+    49.05664
+],
+  "geometry": {"coordinates":[32.30966,49.05664],"type":"Point"}
+}

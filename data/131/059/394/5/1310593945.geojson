@@ -1,0 +1,78 @@
+{
+  "id": 1310593945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02944,48.23972,38.02944,48.23972",
+    "geom:latitude":48.23972,
+    "geom:longitude":38.02944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Berestovoye",
+    "gn:country_code":"UA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":810033,
+    "gn:latitude":48.23972,
+    "gn:longitude":38.02944,
+    "gn:modification_date":"1996-03-25",
+    "gn:name":"Berestovoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815985,
+        1175613761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":810033
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4c2de7ff76ec8a7f5a538d0317d933e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815985,
+            "disputed_id":1159339531,
+            "locality_id":1310593945,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815985,
+            "disputed_id":1159339531,
+            "locality_id":1310593945,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310593945,
+    "wof:lastmodified":1536789805,
+    "wof:name":"Berestovoye",
+    "wof:parent_id":1175613761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02944,
+    48.23972,
+    38.02944,
+    48.23972
+],
+  "geometry": {"coordinates":[38.02944,48.23972],"type":"Point"}
+}

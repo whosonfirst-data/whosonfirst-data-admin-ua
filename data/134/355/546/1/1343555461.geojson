@@ -1,0 +1,77 @@
+{
+  "id": 1343555461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24902,49.09009,36.24902,49.09009",
+    "geom:latitude":49.09009,
+    "geom:longitude":36.24902,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vesele",
+    "gn:country_code":"UA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689724,
+    "gn:latitude":49.09009,
+    "gn:longitude":36.24902,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vesele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vesele"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Veselaya",
+        "Veseloye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689724
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"04bb35ff67471d0f28af9f483707cccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088741,
+            "locality_id":1343555461,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1343555461,
+    "wof:lastmodified":1537710238,
+    "wof:name":"Vesele",
+    "wof:parent_id":102088741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24902,
+    49.09009,
+    36.24902,
+    49.09009
+],
+  "geometry": {"coordinates":[36.24902,49.09009],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326897745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28534,47.80716,35.28534,47.80716",
+    "geom:latitude":47.80716,
+    "geom:longitude":35.28534,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Rostushche",
+    "gn:country_code":"UA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11012773,
+    "gn:latitude":47.80716,
+    "gn:longitude":35.28534,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Rostushche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rostushche"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u0441\u0442\u0443\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Rastushcheye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11012773
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a9b7eadb5706f1d799b1b1b848a43029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815653,
+            "locality_id":1326897745,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1326897745,
+    "wof:lastmodified":1537711935,
+    "wof:name":"Rostushche",
+    "wof:parent_id":1108815653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28534000000001,
+    47.80716,
+    35.28534000000001,
+    47.80716
+],
+  "geometry": {"coordinates":[35.28534000000001,47.80716],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1343254591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26714,47.86766,38.26714,47.86766",
+    "geom:latitude":47.86766,
+    "geom:longitude":38.26714,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hryhorivka",
+    "gn:country_code":"UA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708102,
+    "gn:latitude":47.86766,
+    "gn:longitude":38.26714,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Hryhorivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grigor\u2019yevka",
+        "Hryhorivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708102
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"089b110a746aeddc7f41766ad206e0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1343254591,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1343254591,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343254591,
+    "wof:lastmodified":1537711143,
+    "wof:name":"Hryhorivka",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26714000000001,
+    47.86766,
+    38.26714000000001,
+    47.86766
+],
+  "geometry": {"coordinates":[38.26714000000001,47.86766],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193136577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18116,47.99656,36.18116,47.99656",
+    "geom:latitude":47.99656,
+    "geom:longitude":36.18116,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tsikove",
+    "gn:country_code":"UA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":691092,
+    "gn:latitude":47.99656,
+    "gn:longitude":36.18116,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tsikove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Tsikove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0426\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tsikova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691092
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0590808752f0ab90170e55aa8d2bf75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088497,
+            "locality_id":1193136577,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1193136577,
+    "wof:lastmodified":1537710307,
+    "wof:name":"Tsikove",
+    "wof:parent_id":102088497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18116,
+    47.99656,
+    36.18116,
+    47.99656
+],
+  "geometry": {"coordinates":[36.18116,47.99656],"type":"Point"}
+}

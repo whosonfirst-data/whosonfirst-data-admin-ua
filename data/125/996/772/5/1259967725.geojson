@@ -1,0 +1,103 @@
+{
+  "id": 1259967725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.84591,45.46913,34.84591,45.46913",
+    "geom:latitude":45.46913,
+    "geom:longitude":34.84591,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"700018",
+    "gn:admin3_code":"11152976.0",
+    "gn:asciiname":"Rodniki",
+    "gn:country_code":"UA",
+    "gn:dem":14,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019391,
+    "gn:latitude":45.46913,
+    "gn:longitude":34.84591,
+    "gn:modification_date":"2016-08-10",
+    "gn:name":"Rodniki",
+    "gn:population":71,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rodniki"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u0439\u043a\u0430\u0448\u0435\u0301\u043d",
+        "\u0410\u0439\u043a\u0438\u0301\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0439\u043a\u0430\u0448\u0435\u0301\u043d",
+        "\u0410\u0439\u043a\u0438\u0301\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0434\u043d\u0438\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738641,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019391
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2f0ce4e6935dc39e311e4b02ba2bf0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738641,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1259967725,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738641,
+            "disputed_id":1159339547,
+            "locality_id":1259967725,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1259967725,
+    "wof:lastmodified":1537711526,
+    "wof:name":"Rodniki",
+    "wof:parent_id":1108738641,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.84591,
+    45.46913,
+    34.84591,
+    45.46913
+],
+  "geometry": {"coordinates":[34.84591,45.46913],"type":"Point"}
+}

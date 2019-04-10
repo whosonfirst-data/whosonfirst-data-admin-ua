@@ -1,0 +1,78 @@
+{
+  "id": 101866071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.754012,47.138961,32.754012,47.138961",
+    "geom:latitude":47.138961,
+    "geom:longitude":32.754012,
+    "iso:country":"UA",
+    "lbl:latitude":47.138961,
+    "lbl:longitude":32.754012,
+    "mps:latitude":47.138961,
+    "mps:longitude":32.754012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Mykolaivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043d\u0456\u0433\u0443\u0440\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Snihurivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0431\u0437\u0430\u0440\u0446\u0456",
+    "qs:loc_alt":"Kobzartsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":934373,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6b76a0e6f0e25909d735e2792db4400c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088073,
+            "locality_id":101866071,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":101866071,
+    "wof:lastmodified":1544748399,
+    "wof:name":"\u041a\u043e\u0431\u0437\u0430\u0440\u0446\u0456",
+    "wof:parent_id":102088073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.754012,
+    47.138961,
+    32.754012,
+    47.138961
+],
+  "geometry": {"coordinates":[32.754012,47.138961],"type":"Point"}
+}

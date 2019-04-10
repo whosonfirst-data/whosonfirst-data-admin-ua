@@ -1,0 +1,101 @@
+{
+  "id": 101860885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.883797,48.92756,23.883797,48.92756",
+    "geom:latitude":48.92756,
+    "geom:longitude":23.883797,
+    "iso:country":"UA",
+    "lbl:latitude":48.92756,
+    "lbl:longitude":23.883797,
+    "mps:latitude":48.92756,
+    "mps:longitude":23.883797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u820a\u7c73\u5c0a"
+    ],
+    "name:eng_x_preferred":[
+        "Staryi Mizun"
+    ],
+    "name:ger_x_preferred":[
+        "Staryj Misun"
+    ],
+    "name:rum_x_preferred":[
+        "Star\u00eei Mizun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041c\u0438\u0437\u0443\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "Staryy Mizun\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u041c\u0456\u0437\u0443\u043d\u044c"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Dolyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041c\u0456\u0437\u0443\u043d\u044c",
+    "qs:loc_alt":"Staryi Mizun",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        1108815659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692707,
+        "gp:id":919099,
+        "qs:id":9,
+        "wd:id":"Q4441102"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d7aecc5aa5ae7f3af83fb8d8b1049e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815659,
+            "locality_id":101860885,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101860885,
+    "wof:lastmodified":1544745673,
+    "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041c\u0456\u0437\u0443\u043d\u044c",
+    "wof:parent_id":1108815659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.883797,
+    48.92756,
+    23.883797,
+    48.92756
+],
+  "geometry": {"coordinates":[23.883797,48.92756],"type":"Point"}
+}

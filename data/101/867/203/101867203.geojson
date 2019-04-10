@@ -1,0 +1,86 @@
+{
+  "id": 101867203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.294949,47.890027,37.294949,47.890027",
+    "geom:latitude":47.890027,
+    "geom:longitude":37.294949,
+    "iso:country":"UA",
+    "lbl:latitude":47.890027,
+    "lbl:longitude":37.294949,
+    "mps:latitude":47.890027,
+    "mps:longitude":37.294949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u0430\u0440'\u0457\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Maryins'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0404\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Yelyzavetivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":264,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":932402
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ea8380fae4210472fa2309b29012cb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":101867203,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":101867203,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101867203,
+    "wof:lastmodified":1544749042,
+    "wof:name":"\u0404\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0456\u0432\u043a\u0430",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.294949,
+    47.890027,
+    37.294949,
+    47.890027
+],
+  "geometry": {"coordinates":[37.294949,47.890027],"type":"Point"}
+}

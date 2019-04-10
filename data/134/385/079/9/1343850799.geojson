@@ -1,0 +1,87 @@
+{
+  "id": 1343850799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.248,48.15098,37.248,48.15098",
+    "geom:latitude":48.15098,
+    "geom:longitude":37.248,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vyshneve",
+    "gn:country_code":"UA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689489,
+    "gn:latitude":48.15098,
+    "gn:longitude":37.248,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vyshneve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vishn\u00ebvoye"
+    ],
+    "name:ukr_x_preferred":[
+        "Vyshneve"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0448\u043d\u0435\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730789,
+        1175613739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689489
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"89b747ba604db58f1726dc22a455986e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730789,
+            "disputed_id":1159339531,
+            "locality_id":1343850799,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730789,
+            "disputed_id":1159339531,
+            "locality_id":1343850799,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343850799,
+    "wof:lastmodified":1537710224,
+    "wof:name":"Vyshneve",
+    "wof:parent_id":1175613739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24800000000001,
+    48.15098,
+    37.24800000000001,
+    48.15098
+],
+  "geometry": {"coordinates":[37.24800000000001,48.15098],"type":"Point"}
+}

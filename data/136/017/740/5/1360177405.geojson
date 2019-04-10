@@ -1,0 +1,83 @@
+{
+  "id": 1360177405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08666,47.17475,38.08666,47.17475",
+    "geom:latitude":47.17475,
+    "geom:longitude":38.08666,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kozlivka",
+    "gn:country_code":"UA",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704535,
+    "gn:latitude":47.17475,
+    "gn:longitude":38.08666,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Kozlivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kozlovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704535
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f70a930b1362ede4d1c319e71b68b0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1360177405,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1360177405,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1360177405,
+    "wof:lastmodified":1537710971,
+    "wof:name":"Kozlivka",
+    "wof:parent_id":102088405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08666,
+    47.17475,
+    38.08666,
+    47.17475
+],
+  "geometry": {"coordinates":[38.08666,47.17475],"type":"Point"}
+}

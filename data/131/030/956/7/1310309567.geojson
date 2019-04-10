@@ -1,0 +1,77 @@
+{
+  "id": 1310309567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25,47.55,38.25,47.55",
+    "geom:latitude":47.55,
+    "geom:longitude":38.25,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Andreyevskiy",
+    "gn:country_code":"UA",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713407,
+    "gn:latitude":47.55,
+    "gn:longitude":38.25,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Andreyevskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713407
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bb17223591094f792c6a05567e891ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1310309567,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1310309567,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310309567,
+    "wof:lastmodified":1536702278,
+    "wof:name":"Andreyevskiy",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25,
+    47.55,
+    38.25,
+    47.55
+],
+  "geometry": {"coordinates":[38.25,47.55],"type":"Point"}
+}

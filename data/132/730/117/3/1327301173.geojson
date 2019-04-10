@@ -1,0 +1,76 @@
+{
+  "id": 1327301173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45856,47.48579,36.45856,47.48579",
+    "geom:latitude":47.48579,
+    "geom:longitude":36.45856,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Balochky",
+    "gn:country_code":"UA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712888,
+    "gn:latitude":47.48579,
+    "gn:longitude":36.45856,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Balochky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Balochky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u043b\u043e\u0447\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Balochki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712888
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"573f6977f931b1bec25bdaa812334ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088369,
+            "locality_id":1327301173,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1327301173,
+    "wof:lastmodified":1537711380,
+    "wof:name":"Balochky",
+    "wof:parent_id":102088369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45856,
+    47.48579,
+    36.45856,
+    47.48579
+],
+  "geometry": {"coordinates":[36.45856,47.48579],"type":"Point"}
+}

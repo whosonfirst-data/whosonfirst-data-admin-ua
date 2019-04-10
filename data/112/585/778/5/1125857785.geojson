@@ -1,0 +1,106 @@
+{
+  "id": 1125857785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68568,49.84963,37.68568,49.84963",
+    "geom:latitude":49.84963,
+    "geom:longitude":37.68568,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4322,
+    "gn:population":4322,
+    "iso:country":"UA",
+    "lbl:latitude":49.84963,
+    "lbl:longitude":37.68568,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0534\u057e\u0578\u0582\u0580\u0565\u0579\u0576\u0561\u0575\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u6c83\u91cc\u5947\u7d0d"
+    ],
+    "name:eng_x_preferred":[
+        "Dvorichna"
+    ],
+    "name:ger_x_preferred":[
+        "Dworitschna"
+    ],
+    "name:pol_x_preferred":[
+        "Dworiczna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u0443\u0440\u0435\u0447\u043d\u0430\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0432\u043e\u0440\u0456\u0447\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0432\u043e\u0440\u0456\u0447\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dvuretshnaya"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":709399,
+    "qs_pg:gn_pop":4322,
+    "qs_pg:name":"Dvorichna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275557,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709399,
+        "qs_pg:id":275557,
+        "wd:id":"Q4156149"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293693,
+    "wof:geomhash":"5577a4be5c1cb07a65b3247ff8050fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088957,
+            "locality_id":1125857785,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125857785,
+    "wof:lastmodified":1514509324,
+    "wof:name":"Dvorichna",
+    "wof:parent_id":102088957,
+    "wof:placetype":"locality",
+    "wof:population":4322,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68568,
+    49.84963,
+    37.68568,
+    49.84963
+],
+  "geometry": {"coordinates":[37.68568,49.84963],"type":"Point"}
+}

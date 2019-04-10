@@ -1,0 +1,86 @@
+{
+  "id": 1293587395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09892,47.76097,38.09892,47.76097",
+    "geom:latitude":47.76097,
+    "geom:longitude":38.09892,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Horbatenko",
+    "gn:country_code":"UA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708459,
+    "gn:latitude":47.76097,
+    "gn:longitude":38.09892,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Horbatenko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Horbatenko"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u0440\u0431\u0430\u0442\u0435\u043d\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gorbatenko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708459
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"255a39ca5bfb646afd03b3002c14d692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1293587395,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1293587395,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293587395,
+    "wof:lastmodified":1537711161,
+    "wof:name":"Horbatenko",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09892,
+    47.76097,
+    38.09892,
+    47.76097
+],
+  "geometry": {"coordinates":[38.09892,47.76097],"type":"Point"}
+}

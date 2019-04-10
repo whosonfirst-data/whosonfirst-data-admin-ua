@@ -1,0 +1,83 @@
+{
+  "id": 1242790359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42629,51.96744,31.42629,51.96744",
+    "geom:latitude":51.96744,
+    "geom:longitude":31.42629,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Drozdovytsya",
+    "gn:country_code":"UA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709597,
+    "gn:latitude":51.96744,
+    "gn:longitude":31.42629,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Drozdovytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drozdovitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043e\u0437\u0434\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Drozdovytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0440\u043e\u0437\u0434\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Drozdovitsy",
+        "Drozdovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709597
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ab66138b83c3dccb7c691160a8fe88d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1242790359,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1242790359,
+    "wof:lastmodified":1537711213,
+    "wof:name":"Drozdovytsya",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42629,
+    51.96744,
+    31.42629,
+    51.96744
+],
+  "geometry": {"coordinates":[31.42629,51.96744],"type":"Point"}
+}

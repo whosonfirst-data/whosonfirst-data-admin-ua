@@ -1,0 +1,87 @@
+{
+  "id": 1260282035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7925,47.242,37.7925,47.242",
+    "geom:latitude":47.242,
+    "geom:longitude":37.7925,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pyshchevyk",
+    "gn:country_code":"UA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697153,
+    "gn:latitude":47.242,
+    "gn:longitude":37.7925,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Pyshchevyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pyshchevyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0438\u0449\u0435\u0432\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Neyland",
+        "Pishchevik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697153
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0a9e54f8acf83608f779e5375f14bb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1260282035,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1260282035,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1260282035,
+    "wof:lastmodified":1537710595,
+    "wof:name":"Pyshchevyk",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7925,
+    47.242,
+    37.7925,
+    47.242
+],
+  "geometry": {"coordinates":[37.7925,47.242],"type":"Point"}
+}

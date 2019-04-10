@@ -1,0 +1,94 @@
+{
+  "id": 1293370417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25297,44.55505,34.25297,44.55505",
+    "geom:latitude":44.55505,
+    "geom:longitude":34.25297,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8449687",
+    "gn:asciiname":"Partizanskoye",
+    "gn:country_code":"UA",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9006283,
+    "gn:latitude":44.55505,
+    "gn:longitude":34.25297,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Partizanskoye",
+    "gn:population":65,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Partizanskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738659,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9006283,
+        "wk:page":"Partyzanske"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dedd59c27fb9ff883ec41192b0485efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1293370417,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "locality_id":1293370417,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1293370417,
+    "wof:lastmodified":1537711833,
+    "wof:name":"Partizanskoye",
+    "wof:parent_id":1108738659,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25297,
+    44.55505,
+    34.25297,
+    44.55505
+],
+  "geometry": {"coordinates":[34.25297,44.55505],"type":"Point"}
+}

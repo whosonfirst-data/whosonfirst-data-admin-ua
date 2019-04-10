@@ -1,0 +1,80 @@
+{
+  "id": 1327188513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97117,47.98925,34.97117,47.98925",
+    "geom:latitude":47.98925,
+    "geom:longitude":34.97117,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Petropavlivka",
+    "gn:country_code":"UA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697415,
+    "gn:latitude":47.98925,
+    "gn:longitude":34.97117,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Petropavlivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Petropavlivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Petropavlovskiy",
+        "Petropavlovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697415
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5d87c4571300e285c35102924ae0cc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815653,
+            "locality_id":1327188513,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1327188513,
+    "wof:lastmodified":1537710609,
+    "wof:name":"Petropavlivka",
+    "wof:parent_id":1108815653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97117,
+    47.98925,
+    34.97117,
+    47.98925
+],
+  "geometry": {"coordinates":[34.97117,47.98925],"type":"Point"}
+}

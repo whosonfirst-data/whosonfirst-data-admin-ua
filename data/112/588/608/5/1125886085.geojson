@@ -1,0 +1,99 @@
+{
+  "id": 1125886085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6596,46.53296,30.6596,46.53296",
+    "geom:latitude":46.53296,
+    "geom:longitude":30.6596,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7732,
+    "gn:population":7732,
+    "iso:country":"UA",
+    "lbl:latitude":46.53296,
+    "lbl:longitude":30.6596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0430\u0442\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0441\u0430\u0442\u043e\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Usatove"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":690648,
+    "qs_pg:gn_pop":7732,
+    "qs_pg:name":"Usatovo",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Odes\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":909774,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":936847,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Odes\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690648,
+        "gp:id":936847,
+        "qs_pg:id":909774
+    },
+    "wof:country":"UA",
+    "wof:created":1497295086,
+    "wof:geomhash":"cf72ea1239bfcc7edc5e87395aee37cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":1125886085,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1125886085,
+    "wof:lastmodified":1509398506,
+    "wof:name":"Usatovo",
+    "wof:parent_id":85688877,
+    "wof:placetype":"locality",
+    "wof:population":7732,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6596,
+    46.53296,
+    30.6596,
+    46.53296
+],
+  "geometry": {"coordinates":[30.6596,46.53296],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242697907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85124,50.00632,37.85124,50.00632",
+    "geom:latitude":50.00632,
+    "geom:longitude":37.85124,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pogrebnyakovka",
+    "gn:country_code":"UA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807001,
+    "gn:latitude":50.00632,
+    "gn:longitude":37.85124,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pogrebnyakovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0433\u0440\u0435\u0431\u043d\u044f\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pogrebnyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807001
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3bad328192e22455d6ebbce8ccd8546f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088957,
+            "locality_id":1242697907,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1242697907,
+    "wof:lastmodified":1537711451,
+    "wof:name":"Pogrebnyakovka",
+    "wof:parent_id":102088957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85124,
+    50.00632,
+    37.85124,
+    50.00632
+],
+  "geometry": {"coordinates":[37.85124,50.00632],"type":"Point"}
+}

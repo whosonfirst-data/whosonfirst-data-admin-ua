@@ -1,0 +1,79 @@
+{
+  "id": 101865527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.467429,46.901801,31.467429,46.901801",
+    "geom:latitude":46.901801,
+    "geom:longitude":31.467429,
+    "iso:country":"UA",
+    "lbl:latitude":46.901801,
+    "lbl:longitude":31.467429,
+    "mps:latitude":46.901801,
+    "mps:longitude":31.467429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Mykolaivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Berezans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430",
+    "qs:loc_alt":"Chapaievka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":916699,
+        "qs:id":7
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9b58f6b240ff09432f7abda6343b886d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088033,
+            "locality_id":101865527,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":101865527,
+    "wof:lastmodified":1544748091,
+    "wof:name":"\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430",
+    "wof:parent_id":102088033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.467429,
+    46.901801,
+    31.467429,
+    46.901801
+],
+  "geometry": {"coordinates":[31.467429,46.901801],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1343835377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35542,45.50254,33.35542,45.50254",
+    "geom:latitude":45.50254,
+    "geom:longitude":33.35542,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Novonikolayevka",
+    "gn:country_code":"UA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":699436,
+    "gn:latitude":45.50254,
+    "gn:longitude":33.35542,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Novonikolayevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nikolayevka",
+        "Novonikolayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699436
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"80ee9aaf7fb8dcdc86a6c32edfd72922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1343835377,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1343835377,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1343835377,
+    "wof:lastmodified":1537710717,
+    "wof:name":"Novonikolayevka",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35542,
+    45.50254,
+    33.35542,
+    45.50254
+],
+  "geometry": {"coordinates":[33.35542,45.50254],"type":"Point"}
+}

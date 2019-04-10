@@ -1,0 +1,103 @@
+{
+  "id": 1125775343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.72759,48.27202,34.72759,48.27202",
+    "geom:latitude":48.27202,
+    "geom:longitude":34.72759,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2552,
+    "gn:population":2552,
+    "iso:country":"UA",
+    "lbl:latitude":48.27202,
+    "lbl:longitude":34.72759,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8607\u723e\u897f\u79d1-\u7c73\u6d77\u5229\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Sursko-Mikhaylovka"
+    ],
+    "name:ger_x_preferred":[
+        "Sursko-Mychajliwka"
+    ],
+    "name:lav_x_preferred":[
+        "Sursko-Mihaj\u013civka"
+    ],
+    "name:rum_x_preferred":[
+        "Sursko-M\u00eehailivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u0441\u043a\u043e-\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Surs\u2019ko-Mykhaylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0443\u0440\u0441\u044c\u043a\u043e-\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":692175,
+    "qs_pg:gn_pop":2552,
+    "qs_pg:name":"Sursko-Mikhaylovka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028389,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692175,
+        "qs_pg:id":1028389,
+        "wd:id":"Q4446633"
+    },
+    "wof:country":"UA",
+    "wof:created":1497290233,
+    "wof:geomhash":"bf66b66ac1d8189de9e0059bfbc5aedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088437,
+            "locality_id":1125775343,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1125775343,
+    "wof:lastmodified":1514509853,
+    "wof:name":"Sursko-Mikhaylovka",
+    "wof:parent_id":102088437,
+    "wof:placetype":"locality",
+    "wof:population":2552,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.72759,
+    48.27202,
+    34.72759,
+    48.27202
+],
+  "geometry": {"coordinates":[34.72759,48.27202],"type":"Point"}
+}

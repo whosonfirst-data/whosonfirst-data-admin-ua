@@ -1,0 +1,98 @@
+{
+  "id": 101869681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.514105,48.650429,37.514105,48.650429",
+    "geom:latitude":48.650429,
+    "geom:longitude":37.514105,
+    "iso:country":"UA",
+    "lbl:latitude":48.650429,
+    "lbl:longitude":37.514105,
+    "mps:latitude":48.650429,
+    "mps:longitude":37.514105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Malotaranivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043b\u043e\u0442\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Malotaranovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043b\u043e\u0432'\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Slovyans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u043b\u043e\u0442\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Malotaranivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702055,
+        "gp:id":926219,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9bff3f41e9f21dc2a9812b46837c5d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730729,
+            "disputed_id":1159339531,
+            "locality_id":101869681,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730729,
+            "disputed_id":1159339531,
+            "locality_id":101869681,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101869681,
+    "wof:lastmodified":1544750408,
+    "wof:name":"\u041c\u0430\u043b\u043e\u0442\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108730729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.514105,
+    48.650429,
+    37.514105,
+    48.650429
+],
+  "geometry": {"coordinates":[37.514105,48.650429],"type":"Point"}
+}

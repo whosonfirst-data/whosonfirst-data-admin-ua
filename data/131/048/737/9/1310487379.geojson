@@ -1,0 +1,67 @@
+{
+  "id": 1310487379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45,50.03,37.45,50.03",
+    "geom:latitude":50.03,
+    "geom:longitude":37.45,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shevyakovka",
+    "gn:country_code":"UA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":806840,
+    "gn:latitude":50.03,
+    "gn:longitude":37.45,
+    "gn:modification_date":"1996-03-25",
+    "gn:name":"Shevyakovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":806840
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"226469b8418eea5331a54c75e39ab130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088975,
+            "locality_id":1310487379,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1310487379,
+    "wof:lastmodified":1536943610,
+    "wof:name":"Shevyakovka",
+    "wof:parent_id":102088975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45,
+    50.03,
+    37.45,
+    50.03
+],
+  "geometry": {"coordinates":[37.45,50.03],"type":"Point"}
+}

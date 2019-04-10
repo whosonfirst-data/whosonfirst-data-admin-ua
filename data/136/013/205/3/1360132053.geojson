@@ -1,0 +1,73 @@
+{
+  "id": 1360132053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6116,49.9896,29.6116,49.9896",
+    "geom:latitude":49.9896,
+    "geom:longitude":29.6116,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Yablunivka",
+    "gn:country_code":"UA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202276,
+    "gn:latitude":49.9896,
+    "gn:longitude":29.6116,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Yablunivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yablunivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0431\u043b\u0443\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202276
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d7a5f0fbacda8591e5fa05bd9ce551a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088623,
+            "locality_id":1360132053,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1360132053,
+    "wof:lastmodified":1537712025,
+    "wof:name":"Yablunivka",
+    "wof:parent_id":102088623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6116,
+    49.9896,
+    29.6116,
+    49.9896
+],
+  "geometry": {"coordinates":[29.6116,49.9896],"type":"Point"}
+}

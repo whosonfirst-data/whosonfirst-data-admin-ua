@@ -1,0 +1,94 @@
+{
+  "id": 101871583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.306938,50.982041,34.306938,50.982041",
+    "geom:latitude":50.982041,
+    "geom:longitude":34.306938,
+    "iso:country":"UA",
+    "lbl:latitude":50.982041,
+    "lbl:longitude":34.306938,
+    "mps:latitude":50.982041,
+    "mps:longitude":34.306938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ul'yanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Ulyanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ul\u2019yanovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Sums'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bilopil's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Ulianivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690699,
+        "gp:id":940208
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5880e2d763cd8d9fc1594779a00e9ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088995,
+            "locality_id":101871583,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":101871583,
+    "wof:lastmodified":1544751166,
+    "wof:name":"\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.306938,
+    50.982041,
+    34.306938,
+    50.982041
+],
+  "geometry": {"coordinates":[34.306938,50.982041],"type":"Point"}
+}

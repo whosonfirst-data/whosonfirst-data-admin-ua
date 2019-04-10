@@ -1,0 +1,94 @@
+{
+  "id": 1327007297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28549,45.28881,36.28549,45.28881",
+    "geom:latitude":45.28881,
+    "geom:longitude":36.28549,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"703233",
+    "gn:admin3_code":"11128211.0",
+    "gn:asciiname":"Ivanovka",
+    "gn:country_code":"UA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707459,
+    "gn:latitude":45.28881,
+    "gn:longitude":36.28549,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Ivanovka",
+    "gn:population":160,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ivanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738639,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707459
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"08b0915437e205e9b9f159b7de06a47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327007297,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "locality_id":1327007297,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327007297,
+    "wof:lastmodified":1537711109,
+    "wof:name":"Ivanovka",
+    "wof:parent_id":1108738639,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28549,
+    45.28881,
+    36.28549,
+    45.28881
+],
+  "geometry": {"coordinates":[36.28549,45.28881],"type":"Point"}
+}

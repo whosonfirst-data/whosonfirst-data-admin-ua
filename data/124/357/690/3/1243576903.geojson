@@ -1,0 +1,76 @@
+{
+  "id": 1243576903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21809,49.11078,35.21809,49.11078",
+    "geom:latitude":49.11078,
+    "geom:longitude":35.21809,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lymanivka",
+    "gn:country_code":"UA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10267008,
+    "gn:latitude":49.11078,
+    "gn:longitude":35.21809,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Lymanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lymanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0438\u043c\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Limanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10267008
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dad9df07ed442a8c71a9b4c5c97e2e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088705,
+            "locality_id":1243576903,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1243576903,
+    "wof:lastmodified":1537711908,
+    "wof:name":"Lymanivka",
+    "wof:parent_id":102088705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21809000000001,
+    49.11078,
+    35.21809000000001,
+    49.11078
+],
+  "geometry": {"coordinates":[35.21809000000001,49.11078],"type":"Point"}
+}

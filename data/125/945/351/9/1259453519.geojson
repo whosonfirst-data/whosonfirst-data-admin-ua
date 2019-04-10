@@ -1,0 +1,77 @@
+{
+  "id": 1259453519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21483,48.62776,39.21483,48.62776",
+    "geom:latitude":48.62776,
+    "geom:longitude":39.21483,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zemlyane",
+    "gn:country_code":"UA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687293,
+    "gn:latitude":48.62776,
+    "gn:longitude":39.21483,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Zemlyane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zemlyane"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0435\u043c\u043b\u044f\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zemlyaroy",
+        "Zemlyanoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687293
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2804c3de7cdcfce52b1e4c3de3a30010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088801,
+            "locality_id":1259453519,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1259453519,
+    "wof:lastmodified":1537710104,
+    "wof:name":"Zemlyane",
+    "wof:parent_id":102088801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21483,
+    48.62776,
+    39.21483,
+    48.62776
+],
+  "geometry": {"coordinates":[39.21483,48.62776],"type":"Point"}
+}

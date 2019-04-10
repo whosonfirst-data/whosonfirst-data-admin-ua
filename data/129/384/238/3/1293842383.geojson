@@ -1,0 +1,76 @@
+{
+  "id": 1293842383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87201,50.96314,33.87201,50.96314",
+    "geom:latitude":50.96314,
+    "geom:longitude":33.87201,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Shmatove",
+    "gn:country_code":"UA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8419754,
+    "gn:latitude":50.96314,
+    "gn:longitude":33.87201,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Shmatove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shmatove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u043c\u0430\u0442\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shmatovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8419754
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"50e4ac992a5bcf028126fb30d67faeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088963,
+            "locality_id":1293842383,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1293842383,
+    "wof:lastmodified":1537711668,
+    "wof:name":"Shmatove",
+    "wof:parent_id":102088963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87201,
+    50.96314,
+    33.87201,
+    50.96314
+],
+  "geometry": {"coordinates":[33.87201,50.96314],"type":"Point"}
+}

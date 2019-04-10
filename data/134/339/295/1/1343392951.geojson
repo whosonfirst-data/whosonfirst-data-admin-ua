@@ -1,0 +1,77 @@
+{
+  "id": 1343392951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05327,48.45085,34.05327,48.45085",
+    "geom:latitude":48.45085,
+    "geom:longitude":34.05327,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bykove",
+    "gn:country_code":"UA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711022,
+    "gn:latitude":48.45085,
+    "gn:longitude":34.05327,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Bykove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bykove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Druzhe-Nadezhdovka",
+        "Bykovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711022
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e43ba95fe8f1256d9f9732c5be846ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088477,
+            "locality_id":1343392951,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1343392951,
+    "wof:lastmodified":1537711284,
+    "wof:name":"Bykove",
+    "wof:parent_id":102088477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05327,
+    48.45085,
+    34.05327,
+    48.45085
+],
+  "geometry": {"coordinates":[34.05327,48.45085],"type":"Point"}
+}

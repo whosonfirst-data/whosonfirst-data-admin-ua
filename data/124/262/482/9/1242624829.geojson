@@ -1,0 +1,77 @@
+{
+  "id": 1242624829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.44042,50.65763,29.44042,50.65763",
+    "geom:latitude":50.65763,
+    "geom:longitude":29.44042,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Vepryn",
+    "gn:country_code":"UA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690022,
+    "gn:latitude":50.65763,
+    "gn:longitude":29.44042,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Vepryn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vepryn"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u043f\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Veprino",
+        "Veprin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690022
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"18538ec31e2c67f4cd80b0749e12caf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088751,
+            "locality_id":1242624829,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1242624829,
+    "wof:lastmodified":1537710254,
+    "wof:name":"Vepryn",
+    "wof:parent_id":102088751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44042,
+    50.65763,
+    29.44042,
+    50.65763
+],
+  "geometry": {"coordinates":[29.44042,50.65763],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1343254589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68312,47.47692,37.68312,47.47692",
+    "geom:latitude":47.47692,
+    "geom:longitude":37.68312,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bakhchovyk",
+    "gn:country_code":"UA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9530064,
+    "gn:latitude":47.47692,
+    "gn:longitude":37.68312,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Bakhchovyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bakhchovyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0445\u0447\u043e\u0432\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9530064
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"732c718407a24aa4301fa6d876134256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1343254589,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1343254589,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343254589,
+    "wof:lastmodified":1537711879,
+    "wof:name":"Bakhchovyk",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68312,
+    47.47692,
+    37.68312,
+    47.47692
+],
+  "geometry": {"coordinates":[37.68312,47.47692],"type":"Point"}
+}

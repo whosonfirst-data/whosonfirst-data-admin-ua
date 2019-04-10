@@ -1,0 +1,76 @@
+{
+  "id": 1260184391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19578,51.0107,31.19578,51.0107",
+    "geom:latitude":51.0107,
+    "geom:longitude":31.19578,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hladke",
+    "gn:country_code":"UA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708809,
+    "gn:latitude":51.0107,
+    "gn:longitude":31.19578,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Hladke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0430\u0434\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Smorshki",
+        "Gladki",
+        "Hladke",
+        "Gladkoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708809
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cfb86fbc2679e6dea27f7607295e74ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088907,
+            "locality_id":1260184391,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1260184391,
+    "wof:lastmodified":1537711177,
+    "wof:name":"Hladke",
+    "wof:parent_id":102088907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19578,
+    51.0107,
+    31.19578,
+    51.0107
+],
+  "geometry": {"coordinates":[31.19578,51.0107],"type":"Point"}
+}

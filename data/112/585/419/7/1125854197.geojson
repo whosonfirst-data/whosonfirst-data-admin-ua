@@ -1,0 +1,103 @@
+{
+  "id": 1125854197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.34995,46.61712,31.34995,46.61712",
+    "geom:latitude":46.61712,
+    "geom:longitude":31.34995,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1640,
+    "gn:population":1640,
+    "iso:country":"UA",
+    "lbl:latitude":46.61712,
+    "lbl:longitude":31.34995,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054c\u056b\u0562\u0561\u056f\u0578\u057e\u056f\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Rybakivka"
+    ],
+    "name:ger_x_preferred":[
+        "Rybakiwka"
+    ],
+    "name:lav_x_preferred":[
+        "Ribakivka"
+    ],
+    "name:rum_x_preferred":[
+        "R\u00eebakivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0431\u0430\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u0430\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Adzhiaska"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695052,
+    "qs_pg:gn_pop":1640,
+    "qs_pg:name":"Rybakivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128317,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695052,
+        "qs_pg:id":128317,
+        "wd:id":"Q4401425"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293541,
+    "wof:geomhash":"a2bb4531138af1177474ffda8e338dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088033,
+            "locality_id":1125854197,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":1125854197,
+    "wof:lastmodified":1553816574,
+    "wof:name":"Rybakivka",
+    "wof:parent_id":102088033,
+    "wof:placetype":"locality",
+    "wof:population":1640,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.34995,
+    46.61712,
+    31.34995,
+    46.61712
+],
+  "geometry": {"coordinates":[31.34995,46.61712],"type":"Point"}
+}

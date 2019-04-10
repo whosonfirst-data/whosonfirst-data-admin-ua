@@ -1,0 +1,83 @@
+{
+  "id": 101861365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84541,48.51802,26.84541,48.51802",
+    "geom:latitude":48.51802,
+    "geom:longitude":26.84541,
+    "iso:country":"UA",
+    "lbl:latitude":48.51802,
+    "lbl:longitude":26.84541,
+    "mps:latitude":48.51802,
+    "mps:longitude":26.84541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Babino"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernivets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0435\u043b\u044c\u043c\u0435\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kel'menets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0430\u0431\u0438\u043d",
+    "qs:loc_alt":"Babyn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3917,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713035,
+        "gp:id":12518279,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3026664650cf8964f459b920800b4ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088129,
+            "locality_id":101861365,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":101861365,
+    "wof:lastmodified":1544745926,
+    "wof:name":"\u0411\u0430\u0431\u0438\u043d",
+    "wof:parent_id":102088129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84541,
+    48.51802,
+    26.84541,
+    48.51802
+],
+  "geometry": {"coordinates":[26.84541,48.51802],"type":"Point"}
+}

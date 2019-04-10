@@ -1,0 +1,126 @@
+{
+  "id": 101861615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.145571,48.472798,28.145571,48.472798",
+    "geom:latitude":48.472798,
+    "geom:longitude":28.145571,
+    "iso:country":"UA",
+    "lbl:latitude":48.472798,
+    "lbl:longitude":28.145571,
+    "mps:latitude":48.472798,
+    "mps:longitude":28.145571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u0578\u056f\u0578\u056c"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u041a \u0421\u043e\u043a\u0430\u043b \u041a\u0456\u0435\u045e"
+    ],
+    "name:ces_x_preferred":[
+        "Sokol Kyjev"
+    ],
+    "name:deu_x_preferred":[
+        "HK Sokol Kiew"
+    ],
+    "name:eng_x_preferred":[
+        "Sokil"
+    ],
+    "name:fin_x_preferred":[
+        "H\u2019K Sokil Kiova"
+    ],
+    "name:fra_x_preferred":[
+        "HK Sokil Kiev"
+    ],
+    "name:ger_x_preferred":[
+        "Sokil"
+    ],
+    "name:ita_x_preferred":[
+        "Sokil Kyiv"
+    ],
+    "name:pol_x_preferred":[
+        "Soki\u0142 Kij\u00f3w"
+    ],
+    "name:rum_x_preferred":[
+        "Sokil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Sokil Kiev"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u0456\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Sokil"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Vinnyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Chernivets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043e\u043a\u0456\u043b",
+    "qs:loc_alt":"Sokil",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2761,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        1108815609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693282,
+        "gp:id":927490,
+        "qs:id":2,
+        "wd:id":"Q4426985"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8fcc0c2b0ac96203d3ee6dc096638435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815609,
+            "locality_id":101861615,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":101861615,
+    "wof:lastmodified":1544746056,
+    "wof:name":"\u0421\u043e\u043a\u0456\u043b",
+    "wof:parent_id":1108815609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.145571,
+    48.472798,
+    28.145571,
+    48.472798
+],
+  "geometry": {"coordinates":[28.145571,48.472798],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209622929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76308,51.0525,32.76308,51.0525",
+    "geom:latitude":51.0525,
+    "geom:longitude":32.76308,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zarukavne",
+    "gn:country_code":"UA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705934,
+    "gn:latitude":51.0525,
+    "gn:longitude":32.76308,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Zarukavne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zarukavne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u0440\u0443\u043a\u0430\u0432\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zarukavny",
+        "Pisarshchina",
+        "Khutor Zarukavnyy",
+        "Zarukavnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705934
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b51f1047c0092ac10cfa0b4511f53400",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209622929
+        }
+    ],
+    "wof:id":1209622929,
+    "wof:lastmodified":1537711037,
+    "wof:name":"Zarukavne",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76308,
+    51.0525,
+    32.76308,
+    51.0525
+],
+  "geometry": {"coordinates":[32.76308,51.0525],"type":"Point"}
+}

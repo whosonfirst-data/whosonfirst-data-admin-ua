@@ -1,0 +1,95 @@
+{
+  "id": 1310678249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79665,45.8447,33.79665,45.8447",
+    "geom:latitude":45.8447,
+    "geom:longitude":33.79665,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704361",
+    "gn:admin3_code":"11152949",
+    "gn:asciiname":"Vorontsovka",
+    "gn:country_code":"UA",
+    "gn:dem":6,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689000,
+    "gn:latitude":45.8447,
+    "gn:longitude":33.79665,
+    "gn:modification_date":"2016-08-09",
+    "gn:name":"Vorontsovka",
+    "gn:population":239,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vorontsovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u0446\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738619,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689000
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4af0c9f2d4f8182028efaead00a7f62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1310678249,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "locality_id":1310678249,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1310678249,
+    "wof:lastmodified":1537710196,
+    "wof:name":"Vorontsovka",
+    "wof:parent_id":1108738619,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79665,
+    45.8447,
+    33.79665,
+    45.8447
+],
+  "geometry": {"coordinates":[33.79665,45.8447],"type":"Point"}
+}

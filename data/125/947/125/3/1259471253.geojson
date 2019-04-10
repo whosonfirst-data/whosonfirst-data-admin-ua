@@ -1,0 +1,95 @@
+{
+  "id": 1259471253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.72895,45.37027,34.72895,45.37027",
+    "geom:latitude":45.37027,
+    "geom:longitude":34.72895,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"700018",
+    "gn:admin3_code":"11152968.0",
+    "gn:asciiname":"Tambovka",
+    "gn:country_code":"UA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712231,
+    "gn:latitude":45.37027,
+    "gn:longitude":34.72895,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tambovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tambovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Beshkurtka-Vakuf",
+        "Beshkurtka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738641,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712231
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8be4ffdc4bd0ff4c540467aec73fa4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738641,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1259471253,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738641,
+            "disputed_id":1159339547,
+            "locality_id":1259471253,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1259471253,
+    "wof:lastmodified":1537711349,
+    "wof:name":"Tambovka",
+    "wof:parent_id":1108738641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.72895,
+    45.37027,
+    34.72895,
+    45.37027
+],
+  "geometry": {"coordinates":[34.72895,45.37027],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101871719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.900072,50.051334,35.900072,50.051334",
+    "geom:latitude":50.051334,
+    "geom:longitude":35.900072,
+    "iso:country":"UA",
+    "lbl:latitude":50.051334,
+    "lbl:longitude":35.900072,
+    "mps:latitude":50.051334,
+    "mps:longitude":35.900072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0414\u0435\u0440\u0433\u0430\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Derhachivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0456\u043b\u044c\u0448\u0430\u043d\u0438",
+    "qs:loc_alt":"Vil'shany",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":929622,
+        "qs:id":9
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"76aeafa82199e422839efbb2e834d141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088945,
+            "locality_id":101871719,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101871719,
+    "wof:lastmodified":1544751226,
+    "wof:name":"\u0412\u0456\u043b\u044c\u0448\u0430\u043d\u0438",
+    "wof:parent_id":102088945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.900072,
+    50.051334,
+    35.900072,
+    50.051334
+],
+  "geometry": {"coordinates":[35.900072,50.051334],"type":"Point"}
+}

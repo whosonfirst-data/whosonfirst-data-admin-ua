@@ -1,0 +1,76 @@
+{
+  "id": 1293008291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85562,51.516,30.85562,51.516",
+    "geom:latitude":51.516,
+    "geom:longitude":30.85562,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Birky",
+    "gn:country_code":"UA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8158240,
+    "gn:latitude":51.516,
+    "gn:longitude":30.85562,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Birky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Birky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Borki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8158240
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4d8ef8904751df26d90382f29cb30740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815729,
+            "locality_id":1293008291,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293008291,
+    "wof:lastmodified":1537711568,
+    "wof:name":"Birky",
+    "wof:parent_id":1108815729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85562,
+    51.51600000000001,
+    30.85562,
+    51.51600000000001
+],
+  "geometry": {"coordinates":[30.85562,51.51600000000001],"type":"Point"}
+}

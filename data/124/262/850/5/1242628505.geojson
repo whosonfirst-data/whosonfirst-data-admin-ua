@@ -1,0 +1,76 @@
+{
+  "id": 1242628505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00018,50.33139,28.00018,50.33139",
+    "geom:latitude":50.33139,
+    "geom:longitude":28.00018,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Osychne",
+    "gn:country_code":"UA",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8467472,
+    "gn:latitude":50.33139,
+    "gn:longitude":28.00018,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Osychne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Osychne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0441\u0438\u0447\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Osichno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8467472
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f355bd5bed6d534ac2982cc03df0ac35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088619,
+            "locality_id":1242628505,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1242628505,
+    "wof:lastmodified":1537711716,
+    "wof:name":"Osychne",
+    "wof:parent_id":102088619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00018,
+    50.33139,
+    28.00018,
+    50.33139
+],
+  "geometry": {"coordinates":[28.00018,50.33139],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225951919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32361,50.7528,31.32361,50.7528",
+    "geom:latitude":50.7528,
+    "geom:longitude":31.32361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Makarivka",
+    "gn:country_code":"UA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527260,
+    "gn:latitude":50.7528,
+    "gn:longitude":31.32361,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Makarivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Makarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043a\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makarovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527260
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1a70cc9730cd0fbae76a32b338d86be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088869,
+            "locality_id":1225951919,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1225951919,
+    "wof:lastmodified":1537711736,
+    "wof:name":"Makarivka",
+    "wof:parent_id":102088869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32361,
+    50.7528,
+    31.32361,
+    50.7528
+],
+  "geometry": {"coordinates":[31.32361,50.7528],"type":"Point"}
+}

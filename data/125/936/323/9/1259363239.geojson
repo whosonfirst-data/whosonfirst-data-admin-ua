@@ -1,0 +1,95 @@
+{
+  "id": 1259363239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4982,45.66462,34.4982,45.66462",
+    "geom:latitude":45.66462,
+    "geom:longitude":34.4982,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152860",
+    "gn:asciiname":"Novaya Zhizn'",
+    "gn:country_code":"UA",
+    "gn:dem":17,
+    "gn:elevation":"16.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689210,
+    "gn:latitude":45.66462,
+    "gn:longitude":34.4982,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Novaya Zhizn\u2019",
+    "gn:population":722,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novaya Zhizn\u2019"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0416\u0438\u0437\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u0416\u0438\u0442\u0442\u044f"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689210
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f1fb13f5180074ba0ef28321e64a4442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1259363239,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1259363239,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1259363239,
+    "wof:lastmodified":1537710208,
+    "wof:name":"Novaya Zhizn'",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":722,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4982,
+    45.66462,
+    34.4982,
+    45.66462
+],
+  "geometry": {"coordinates":[34.4982,45.66462],"type":"Point"}
+}

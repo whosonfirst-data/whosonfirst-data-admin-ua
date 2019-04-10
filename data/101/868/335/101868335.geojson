@@ -1,0 +1,94 @@
+{
+  "id": 101868335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.292157,49.114123,33.292157,49.114123",
+    "geom:latitude":49.114123,
+    "geom:longitude":33.292157,
+    "iso:country":"UA",
+    "lbl:latitude":49.114123,
+    "lbl:longitude":33.292157,
+    "mps:latitude":49.114123,
+    "mps:longitude":33.292157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vlasovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Vlasivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043b\u0430\u0441\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Vlasovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kirovohrads'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0432\u0456\u0442\u043b\u043e\u0432\u043e\u0434\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Svitlovods'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u043b\u0430\u0441\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Vlasivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689363,
+        "gp:id":935585,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a88391921aff3ff78a908db296a4222c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815973,
+            "locality_id":101868335,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":101868335,
+    "wof:lastmodified":1544749677,
+    "wof:name":"\u0412\u043b\u0430\u0441\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108815973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.292157,
+    49.114123,
+    33.292157,
+    49.114123
+],
+  "geometry": {"coordinates":[33.292157,49.114123],"type":"Point"}
+}

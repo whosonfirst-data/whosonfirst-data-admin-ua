@@ -1,0 +1,101 @@
+{
+  "id": 1226022175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86702,45.81293,33.86702,45.81293",
+    "geom:latitude":45.81293,
+    "geom:longitude":33.86702,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704361",
+    "gn:admin3_code":"11152946.0",
+    "gn:asciiname":"Svatovo",
+    "gn:country_code":"UA",
+    "gn:dem":9,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026858,
+    "gn:latitude":45.81293,
+    "gn:longitude":33.86702,
+    "gn:modification_date":"2016-07-27",
+    "gn:name":"Svatovo",
+    "gn:population":142,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Svatovo"
+    ],
+    "name:rus_x_historical":[
+        "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0301\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0301\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043e\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738619,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026858
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bd1fc45f7cad0f71921c24772d42e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1226022175,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "locality_id":1226022175,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1226022175,
+    "wof:lastmodified":1537711536,
+    "wof:name":"Svatovo",
+    "wof:parent_id":1108738619,
+    "wof:placetype":"locality",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86702,
+    45.81293,
+    33.86702,
+    45.81293
+],
+  "geometry": {"coordinates":[33.86702,45.81293],"type":"Point"}
+}

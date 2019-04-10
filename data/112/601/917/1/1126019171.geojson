@@ -1,0 +1,103 @@
+{
+  "id": 1126019171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93715,48.13954,38.93715,48.13954",
+    "geom:latitude":48.13954,
+    "geom:longitude":38.93715,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":90005,
+    "gn:population":90005,
+    "iso:country":"UA",
+    "lbl:latitude":48.13954,
+    "lbl:longitude":38.93715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Krasnyy Luch"
+    ],
+    "name:eng_x_variant":[
+        "Krasnyi Luch"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u043b\u0443\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041b\u0443\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Krassntjlutsch"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704202,
+    "qs_pg:gn_pop":90005,
+    "qs_pg:name":"Krasnyy Luch",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":941962,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":924253,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704202,
+        "gp:id":924253,
+        "qs_pg:id":941962
+    },
+    "wof:country":"UA",
+    "wof:created":1497300721,
+    "wof:geomhash":"a577eea5d89188c38349e8dbd65febca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":1126019171,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1126019171,
+    "wof:lastmodified":1509407108,
+    "wof:name":"Krasnyy Luch",
+    "wof:parent_id":85688805,
+    "wof:placetype":"locality",
+    "wof:population":90005,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93715,
+    48.13954,
+    38.93715,
+    48.13954
+],
+  "geometry": {"coordinates":[38.93715,48.13954],"type":"Point"}
+}

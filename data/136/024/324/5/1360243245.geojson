@@ -1,0 +1,81 @@
+{
+  "id": 1360243245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87929,50.00587,25.87929,50.00587",
+    "geom:latitude":50.00587,
+    "geom:longitude":25.87929,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Katerinovka",
+    "gn:country_code":"UA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706624,
+    "gn:latitude":50.00587,
+    "gn:longitude":25.87929,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Katerinovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_historical":[
+        "\u041a\u0430\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Katerburg",
+        "Katrynburg",
+        "Katerinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706624
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"86bba609a33d4ded9f17e4505c8ed29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088483,
+            "locality_id":1360243245,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":1360243245,
+    "wof:lastmodified":1537711075,
+    "wof:name":"Katerinovka",
+    "wof:parent_id":102088483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87929,
+    50.00587,
+    25.87929,
+    50.00587
+],
+  "geometry": {"coordinates":[25.87929,50.00587],"type":"Point"}
+}

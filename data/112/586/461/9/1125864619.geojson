@@ -1,0 +1,100 @@
+{
+  "id": 1125864619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66232,48.03962,25.66232,48.03962",
+    "geom:latitude":48.03962,
+    "geom:longitude":25.66232,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3240,
+    "gn:population":3240,
+    "iso:country":"UA",
+    "lbl:latitude":48.03962,
+    "lbl:longitude":25.66232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053b\u056a\u056b\u057e\u0581\u056b"
+    ],
+    "name:eng_x_preferred":[
+        "Yizhivtsi"
+    ],
+    "name:ger_x_preferred":[
+        "Jischiwzi"
+    ],
+    "name:rum_x_preferred":[
+        "Ige\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0407\u0436\u0456\u0432\u0446\u0456"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0407\u0436\u0456\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Izhevtsy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":707313,
+    "qs_pg:gn_pop":3240,
+    "qs_pg:name":"Yizhivtsi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128689,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707313,
+        "qs_pg:id":128689,
+        "wd:id":"Q4198208"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293977,
+    "wof:geomhash":"45c8e27f199d4e282245396ff37d5828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088037,
+            "locality_id":1125864619,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":1125864619,
+    "wof:lastmodified":1514510068,
+    "wof:name":"Yizhivtsi",
+    "wof:parent_id":102088037,
+    "wof:placetype":"locality",
+    "wof:population":3240,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66232,
+    48.03962,
+    25.66232,
+    48.03962
+],
+  "geometry": {"coordinates":[25.66232,48.03962],"type":"Point"}
+}

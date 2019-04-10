@@ -1,0 +1,76 @@
+{
+  "id": 1260195603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75045,52.00678,31.75045,52.00678",
+    "geom:latitude":52.00678,
+    "geom:longitude":31.75045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sutoky",
+    "gn:country_code":"UA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184964,
+    "gn:latitude":52.00678,
+    "gn:longitude":31.75045,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sutoky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sutoky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0443\u0442\u043e\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sutoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184964
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1e43f1093432d68e3d8d8108d8759aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1260195603,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1260195603,
+    "wof:lastmodified":1537711569,
+    "wof:name":"Sutoky",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75045,
+    52.00678,
+    31.75045,
+    52.00678
+],
+  "geometry": {"coordinates":[31.75045,52.00678],"type":"Point"}
+}

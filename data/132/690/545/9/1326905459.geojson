@@ -1,0 +1,77 @@
+{
+  "id": 1326905459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38375,51.55699,26.38375,51.55699",
+    "geom:latitude":51.55699,
+    "geom:longitude":26.38375,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kryvytsya",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703441,
+    "gn:latitude":51.55699,
+    "gn:longitude":26.38375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kryvytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kryvytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Kzhivitsa",
+        "Krivitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703441
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"afce0153ae2d656b36698c81725f0a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088889,
+            "locality_id":1326905459,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1326905459,
+    "wof:lastmodified":1537710917,
+    "wof:name":"Kryvytsya",
+    "wof:parent_id":102088889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38375,
+    51.55699,
+    26.38375,
+    51.55699
+],
+  "geometry": {"coordinates":[26.38375,51.55699],"type":"Point"}
+}

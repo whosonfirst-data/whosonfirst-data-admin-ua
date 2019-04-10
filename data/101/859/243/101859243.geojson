@@ -1,0 +1,115 @@
+{
+  "id": 101859243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.380962,48.262975,23.380962,48.262975",
+    "geom:latitude":48.262975,
+    "geom:longitude":23.380962,
+    "gn:population":3640,
+    "iso:country":"UA",
+    "lbl:latitude":48.262975,
+    "lbl:longitude":23.380962,
+    "mps:latitude":48.262975,
+    "mps:longitude":23.380962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u057a\u0579\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Lipcse"
+    ],
+    "name:eng_x_preferred":[
+        "Lipcha"
+    ],
+    "name:epo_x_preferred":[
+        "Lip\u0109a"
+    ],
+    "name:ger_x_preferred":[
+        "Lyptscha"
+    ],
+    "name:hun_x_preferred":[
+        "Lipcse"
+    ],
+    "name:rum_x_preferred":[
+        "L\u00eepcea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lipse"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0425\u0443\u0441\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Khusts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0438\u043f\u0447\u0430",
+    "qs:loc_alt":"Lypcha",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":20505,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703042,
+        "gp:id":936939,
+        "qs:id":128550,
+        "wd:id":"Q750456"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a93a4eabaf23093ec5ea7ed6fdf93f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088013,
+            "locality_id":101859243,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859243,
+    "wof:lastmodified":1553815552,
+    "wof:name":"\u041b\u0438\u043f\u0447\u0430",
+    "wof:parent_id":102088013,
+    "wof:placetype":"locality",
+    "wof:population":3640,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.380962,
+    48.262975,
+    23.380962,
+    48.262975
+],
+  "geometry": {"coordinates":[23.380962,48.262975],"type":"Point"}
+}

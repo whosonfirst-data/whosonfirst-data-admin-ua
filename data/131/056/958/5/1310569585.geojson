@@ -1,0 +1,76 @@
+{
+  "id": 1310569585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16162,50.95882,25.16162,50.95882",
+    "geom:latitude":50.95882,
+    "geom:longitude":25.16162,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kozyn",
+    "gn:country_code":"UA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341126,
+    "gn:latitude":50.95882,
+    "gn:longitude":25.16162,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kozyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kozyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0437\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kozin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341126
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6e441601b0b657dadce7ada6ead09f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088697,
+            "locality_id":1310569585,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1310569585,
+    "wof:lastmodified":1537711613,
+    "wof:name":"Kozyn",
+    "wof:parent_id":102088697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16162000000001,
+    50.95882,
+    25.16162000000001,
+    50.95882
+],
+  "geometry": {"coordinates":[25.16162000000001,50.95882],"type":"Point"}
+}

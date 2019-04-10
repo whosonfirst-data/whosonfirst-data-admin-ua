@@ -1,0 +1,76 @@
+{
+  "id": 1310072153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61879,50.87222,27.61879,50.87222",
+    "geom:latitude":50.87222,
+    "geom:longitude":27.61879,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Zapruda",
+    "gn:country_code":"UA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693033,
+    "gn:latitude":50.87222,
+    "gn:longitude":27.61879,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Zapruda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zapruda"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u043f\u0440\u0443\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Spasskaya Zapruda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693033
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f8613fcfad7ffac04a41a6403eb34c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1310072153,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1310072153,
+    "wof:lastmodified":1537710395,
+    "wof:name":"Zapruda",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61879,
+    50.87222,
+    27.61879,
+    50.87222
+],
+  "geometry": {"coordinates":[27.61879,50.87222],"type":"Point"}
+}

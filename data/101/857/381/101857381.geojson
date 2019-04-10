@@ -1,0 +1,78 @@
+{
+  "id": 101857381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.498232,46.158231,32.498232,46.158231",
+    "geom:latitude":46.158231,
+    "geom:longitude":32.498232,
+    "iso:country":"UA",
+    "lbl:latitude":46.158231,
+    "lbl:longitude":32.498232,
+    "mps:latitude":46.158231,
+    "mps:longitude":32.498232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Khersons'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u043e\u043b\u043e\u043f\u0440\u0438\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Holoprystans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u0441\u043e\u0444\u0456\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Novosofiivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102087989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518371,
+        "qs:id":7
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"52fae18b35d8bc65f90e5bba5e8735d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087989,
+            "locality_id":101857381,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":101857381,
+    "wof:lastmodified":1544743866,
+    "wof:name":"\u041d\u043e\u0432\u043e\u0441\u043e\u0444\u0456\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102087989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.498232,
+    46.158231,
+    32.498232,
+    46.158231
+],
+  "geometry": {"coordinates":[32.498232,46.158231],"type":"Point"}
+}

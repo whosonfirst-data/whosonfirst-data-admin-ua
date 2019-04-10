@@ -1,0 +1,76 @@
+{
+  "id": 1293084955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80686,49.96627,26.80686,49.96627",
+    "geom:latitude":49.96627,
+    "geom:longitude":26.80686,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kropyvna",
+    "gn:country_code":"UA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704502,
+    "gn:latitude":49.96627,
+    "gn:longitude":26.80686,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kropyvna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kropyvna"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krapivna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704502
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"86103560d50c8eefa8bdb5612a3d1a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088547,
+            "locality_id":1293084955,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1293084955,
+    "wof:lastmodified":1537710970,
+    "wof:name":"Kropyvna",
+    "wof:parent_id":102088547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80686,
+    49.96627,
+    26.80686,
+    49.96627
+],
+  "geometry": {"coordinates":[26.80686,49.96627],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293547423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.92229,49.38915,28.92229,49.38915",
+    "geom:latitude":49.38915,
+    "geom:longitude":28.92229,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Belaya",
+    "gn:country_code":"UA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712666,
+    "gn:latitude":49.38915,
+    "gn:longitude":28.92229,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"Belaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bila",
+        "Belaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712666
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6fcef50c6736dbefb22382c8c21d5f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088421,
+            "locality_id":1293547423,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1293547423,
+    "wof:lastmodified":1537711371,
+    "wof:name":"Belaya",
+    "wof:parent_id":102088421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.92229,
+    49.38915,
+    28.92229,
+    49.38915
+],
+  "geometry": {"coordinates":[28.92229,49.38915],"type":"Point"}
+}

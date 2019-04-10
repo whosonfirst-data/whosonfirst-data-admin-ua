@@ -1,0 +1,93 @@
+{
+  "id": 1125854219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70122,49.79182,32.70122,49.79182",
+    "geom:latitude":49.79182,
+    "geom:longitude":32.70122,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3898,
+    "gn:population":3898,
+    "iso:country":"UA",
+    "lbl:latitude":49.79182,
+    "lbl:longitude":32.70122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Orzhytsya"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0436\u0438\u0446\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0440\u0436\u0438\u0446\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0436\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Orzhitsa"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":698346,
+    "qs_pg:gn_pop":3898,
+    "qs_pg:name":"Orzhytsya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128392,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698346,
+        "qs_pg:id":128392
+    },
+    "wof:country":"UA",
+    "wof:created":1497293542,
+    "wof:geomhash":"47b8a26789f702571ebfc3903d3698a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088739,
+            "locality_id":1125854219,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1125854219,
+    "wof:lastmodified":1509396126,
+    "wof:name":"Orzhytsya",
+    "wof:parent_id":102088739,
+    "wof:placetype":"locality",
+    "wof:population":3898,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70122,
+    49.79182,
+    32.70122,
+    49.79182
+],
+  "geometry": {"coordinates":[32.70122,49.79182],"type":"Point"}
+}

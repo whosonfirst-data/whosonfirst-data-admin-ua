@@ -1,0 +1,76 @@
+{
+  "id": 1259645413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42529,50.33509,26.42529,50.33509",
+    "geom:latitude":50.33509,
+    "geom:longitude":26.42529,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Raduzhne",
+    "gn:country_code":"UA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446478,
+    "gn:latitude":50.33509,
+    "gn:longitude":26.42529,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Raduzhne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Raduzhne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0430\u0434\u0443\u0436\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Raduzhnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446478
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d0cffb01f26712926205cf3cef6afff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088595,
+            "locality_id":1259645413,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1259645413,
+    "wof:lastmodified":1537711701,
+    "wof:name":"Raduzhne",
+    "wof:parent_id":102088595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42529,
+    50.33509,
+    26.42529,
+    50.33509
+],
+  "geometry": {"coordinates":[26.42529,50.33509],"type":"Point"}
+}

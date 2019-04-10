@@ -1,0 +1,103 @@
+{
+  "id": 1125775409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5243,48.83361,24.5243,48.83361",
+    "geom:latitude":48.83361,
+    "geom:longitude":24.5243,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3426,
+    "gn:population":3426,
+    "iso:country":"UA",
+    "lbl:latitude":48.83361,
+    "lbl:longitude":24.5243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u820a\u535a\u6208\u7f85\u5fb7\u6070\u5c3c"
+    ],
+    "name:eng_x_preferred":[
+        "Stari Bohorodchany"
+    ],
+    "name:ger_x_preferred":[
+        "Stari Bohorodtschany"
+    ],
+    "name:pol_x_preferred":[
+        "Bohorodczany Stare"
+    ],
+    "name:rum_x_preferred":[
+        "Stari Bohorodcean\u00ee"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0456 \u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0447\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0456 \u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Stare-Bogorodchany"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":692749,
+    "qs_pg:gn_pop":3426,
+    "qs_pg:name":"Stari Bohorodchany",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028412,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692749,
+        "qs_pg:id":1028412,
+        "wd:id":"Q4440894"
+    },
+    "wof:country":"UA",
+    "wof:created":1497290236,
+    "wof:geomhash":"a9375531881eee43a5b120e65ae98d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088115,
+            "locality_id":1125775409,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125775409,
+    "wof:lastmodified":1514509811,
+    "wof:name":"Stari Bohorodchany",
+    "wof:parent_id":102088115,
+    "wof:placetype":"locality",
+    "wof:population":3426,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5243,
+    48.83361,
+    24.5243,
+    48.83361
+],
+  "geometry": {"coordinates":[24.5243,48.83361],"type":"Point"}
+}

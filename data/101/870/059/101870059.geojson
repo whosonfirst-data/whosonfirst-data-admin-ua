@@ -1,0 +1,125 @@
+{
+  "id": 101870059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4706,48.671014,39.4706,48.671014",
+    "geom:latitude":48.671014,
+    "geom:longitude":39.4706,
+    "gn:population":12765,
+    "iso:country":"UA",
+    "lbl:latitude":48.671014,
+    "lbl:longitude":39.4706,
+    "mps:latitude":48.671014,
+    "mps:longitude":39.4706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u65af\u5854\u5c3c\u9f4a\u4e9e\u76e7\u7518\u897f\u5361"
+    ],
+    "name:cze_x_preferred":[
+        "Stanycja Luhanska"
+    ],
+    "name:eng_x_preferred":[
+        "Stanichno-Luganskoye"
+    ],
+    "name:est_x_preferred":[
+        "Stan\u00f5tsja Luganska"
+    ],
+    "name:ger_x_preferred":[
+        "Stanyzja Luhanska"
+    ],
+    "name:lav_x_preferred":[
+        "Stanica Luhanska"
+    ],
+    "name:pol_x_preferred":[
+        "Stanycia \u0141uhan\u015bka"
+    ],
+    "name:rum_x_preferred":[
+        "Stan\u00eecino-Luhanske"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Luganska"
+    ],
+    "name:ukr_x_preferred":[
+        "Stanytsya Luhans\u2019ka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0430\u043d\u0438\u0446\u044f \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+        "Stanychno-Luhans\u2019ke",
+        "\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Luganskaya"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Stanychno-Luhans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Stanychno-Luhans'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692953,
+        "gp:id":934779,
+        "qs:id":492571,
+        "wd:id":"Q4439422"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6853df172b27c3d63b8aca8147b9948c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088875,
+            "locality_id":101870059,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101870059,
+    "wof:lastmodified":1544750576,
+    "wof:name":"\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088875,
+    "wof:placetype":"locality",
+    "wof:population":12765,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4706,
+    48.671014,
+    39.4706,
+    48.671014
+],
+  "geometry": {"coordinates":[39.4706,48.671014],"type":"Point"}
+}

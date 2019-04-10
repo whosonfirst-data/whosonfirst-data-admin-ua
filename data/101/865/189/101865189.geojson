@@ -1,0 +1,104 @@
+{
+  "id": 101865189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09154,47.332594,35.09154,47.332594",
+    "geom:latitude":47.332594,
+    "geom:longitude":35.09154,
+    "iso:country":"UA",
+    "lbl:latitude":47.332594,
+    "lbl:longitude":35.09154,
+    "mps:latitude":47.332594,
+    "mps:longitude":35.09154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5967\u723e\u826f\u897f\u514b"
+    ],
+    "name:eng_x_preferred":[
+        "Orlianske"
+    ],
+    "name:ger_x_preferred":[
+        "Orljanske"
+    ],
+    "name:lav_x_preferred":[
+        "Or\u013canske"
+    ],
+    "name:rum_x_preferred":[
+        "Orleanske"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043b\u044f\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043b\u044f\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Orlyanskoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Vasylivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u0440\u043b\u044f\u043d\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Orlians'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698356,
+        "gp:id":929755,
+        "qs:id":4,
+        "wd:id":"Q4336959"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e4354332a0d05eb7022068e9711bc24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088303,
+            "locality_id":101865189,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865189,
+    "wof:lastmodified":1544747916,
+    "wof:name":"\u041e\u0440\u043b\u044f\u043d\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09154,
+    47.332594,
+    35.09154,
+    47.332594
+],
+  "geometry": {"coordinates":[35.09154,47.332594],"type":"Point"}
+}

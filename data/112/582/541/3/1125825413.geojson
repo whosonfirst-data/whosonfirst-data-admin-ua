@@ -1,0 +1,106 @@
+{
+  "id": 1125825413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75,49.18333,24.75,49.18333",
+    "geom:latitude":49.18333,
+    "geom:longitude":24.75,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2500,
+    "gn:population":2500,
+    "iso:country":"UA",
+    "lbl:latitude":49.18333,
+    "lbl:longitude":24.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u6bd4\u5229\u5e0c\u592b\u9f4a"
+    ],
+    "name:eng_x_preferred":[
+        "Bilshivtsi"
+    ],
+    "name:ger_x_preferred":[
+        "Bilschiwzi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05dc\u05e9\u05d9\u05d1\u05e6\u05d9"
+    ],
+    "name:pol_x_preferred":[
+        "Bo\u0142szowce"
+    ],
+    "name:rum_x_preferred":[
+        "Bil\u0219iv\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0432\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "Bil'shivtsi"
+    ],
+    "name:unk_x_variant":[
+        "Boshovtse"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":711752,
+    "qs_pg:gn_pop":2500,
+    "qs_pg:name":"Bilshivtsi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128799,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711752,
+        "qs_pg:id":128799,
+        "wd:id":"Q4092249"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292253,
+    "wof:geomhash":"b7868fd36003cfe840dc10669d420edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088223,
+            "locality_id":1125825413,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125825413,
+    "wof:lastmodified":1514509084,
+    "wof:name":"Bilshivtsi",
+    "wof:parent_id":102088223,
+    "wof:placetype":"locality",
+    "wof:population":2500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75,
+    49.18333,
+    24.75,
+    49.18333
+],
+  "geometry": {"coordinates":[24.75,49.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243311103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01667,47.0,35.01667,47.0",
+    "geom:latitude":47.0,
+    "geom:longitude":35.01667,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dolina",
+    "gn:country_code":"UA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709801,
+    "gn:latitude":47.0,
+    "gn:longitude":35.01667,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Dolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709801
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3d68c954fbaf29a6b40281f8833ea01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":1243311103,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1243311103,
+    "wof:lastmodified":1536999976,
+    "wof:name":"Dolina",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01667,
+    47.0,
+    35.01667,
+    47.0
+],
+  "geometry": {"coordinates":[35.01667,47.0],"type":"Point"}
+}

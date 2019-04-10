@@ -1,0 +1,100 @@
+{
+  "id": 101873189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.250751,49.571449,31.250751,49.571449",
+    "geom:latitude":49.571449,
+    "geom:longitude":31.250751,
+    "iso:country":"UA",
+    "lbl:latitude":49.571449,
+    "lbl:longitude":31.250751,
+    "mps:latitude":49.571449,
+    "mps:longitude":31.250751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tagancha"
+    ],
+    "name:ger_x_preferred":[
+        "Tahantscha"
+    ],
+    "name:pol_x_preferred":[
+        "Tahancza"
+    ],
+    "name:rum_x_preferred":[
+        "Tahancea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0433\u0430\u043d\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0433\u0430\u043d\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tagancha"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Cherkas'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0430\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kanivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0430\u0433\u0430\u043d\u0447\u0430",
+    "qs:loc_alt":"Tahancha",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691952,
+        "qs:id":6,
+        "wd:id":"Q4449606"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6976683b42e110d4d13e8f7e37b11120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088661,
+            "locality_id":101873189,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":101873189,
+    "wof:lastmodified":1553815561,
+    "wof:name":"\u0422\u0430\u0433\u0430\u043d\u0447\u0430",
+    "wof:parent_id":102088661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.250751,
+    49.571449,
+    31.250751,
+    49.571449
+],
+  "geometry": {"coordinates":[31.250751,49.571449],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293065985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48169,50.91679,26.48169,50.91679",
+    "geom:latitude":50.91679,
+    "geom:longitude":26.48169,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rokytne",
+    "gn:country_code":"UA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695520,
+    "gn:latitude":50.91679,
+    "gn:longitude":26.48169,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Rokytne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rokytne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u043a\u0438\u0442\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Rokitno",
+        "Rakitnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695520
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"145e9eb20b9d5f6560158d1a0b87bb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088725,
+            "locality_id":1293065985,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1293065985,
+    "wof:lastmodified":1537710513,
+    "wof:name":"Rokytne",
+    "wof:parent_id":102088725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48169,
+    50.91679,
+    26.48169,
+    50.91679
+],
+  "geometry": {"coordinates":[26.48169,50.91679],"type":"Point"}
+}

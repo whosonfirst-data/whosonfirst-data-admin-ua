@@ -1,0 +1,101 @@
+{
+  "id": 101871061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.573326,49.894539,35.573326,49.894539",
+    "geom:latitude":49.894539,
+    "geom:longitude":35.573326,
+    "iso:country":"UA",
+    "lbl:latitude":49.894539,
+    "lbl:longitude":35.573326,
+    "mps:latitude":49.894539,
+    "mps:longitude":35.573326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u057e\u0575\u0561\u0563\u056b"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u7dad\u4e9e\u5409"
+    ],
+    "name:eng_x_preferred":[
+        "Kov\u201dyahy"
+    ],
+    "name:ger_x_preferred":[
+        "Kowjahy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u044f\u0433\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0432\u2019\u044f\u0433\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kovyagi"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0430\u043b\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Valkivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0432'\u044f\u0433\u0438",
+    "qs:loc_alt":"Koviahy",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704600,
+        "gp:id":923880,
+        "qs:id":994426,
+        "wd:id":"Q4225951"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1a5ee9f6fb8fba316fc45b6e2ceb8eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088871,
+            "locality_id":101871061,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101871061,
+    "wof:lastmodified":1544750934,
+    "wof:name":"\u041a\u043e\u0432'\u044f\u0433\u0438",
+    "wof:parent_id":102088871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.573326,
+    49.894539,
+    35.573326,
+    49.894539
+],
+  "geometry": {"coordinates":[35.573326,49.894539],"type":"Point"}
+}

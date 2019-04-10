@@ -1,0 +1,76 @@
+{
+  "id": 1343728799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.54248,50.32847,29.54248,50.32847",
+    "geom:latitude":50.32847,
+    "geom:longitude":29.54248,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kostivtsi",
+    "gn:country_code":"UA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704733,
+    "gn:latitude":50.32847,
+    "gn:longitude":29.54248,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kostivtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kostivtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0441\u0442\u0456\u0432\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Kostovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704733
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a58cca2efd7456ef701e53cf4f5f69b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088675,
+            "locality_id":1343728799,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1343728799,
+    "wof:lastmodified":1537710981,
+    "wof:name":"Kostivtsi",
+    "wof:parent_id":102088675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.54248,
+    50.32847,
+    29.54248,
+    50.32847
+],
+  "geometry": {"coordinates":[29.54248,50.32847],"type":"Point"}
+}

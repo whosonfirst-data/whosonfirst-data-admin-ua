@@ -1,0 +1,76 @@
+{
+  "id": 1209789661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96898,51.01638,33.96898,51.01638",
+    "geom:latitude":51.01638,
+    "geom:longitude":33.96898,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kivshyk",
+    "gn:country_code":"UA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8418819,
+    "gn:latitude":51.01638,
+    "gn:longitude":33.96898,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Kivshyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kivshyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0456\u0432\u0448\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kovshik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8418819
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"11e73993e66107313c8d2cf0706e2d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088963,
+            "locality_id":1209789661,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1209789661,
+    "wof:lastmodified":1537711666,
+    "wof:name":"Kivshyk",
+    "wof:parent_id":102088963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96898,
+    51.01638,
+    33.96898,
+    51.01638
+],
+  "geometry": {"coordinates":[33.96898,51.01638],"type":"Point"}
+}

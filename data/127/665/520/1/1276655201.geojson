@@ -1,0 +1,86 @@
+{
+  "id": 1276655201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03902,48.3575,37.03902,48.3575",
+    "geom:latitude":48.3575,
+    "geom:longitude":37.03902,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vasylivka",
+    "gn:country_code":"UA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112052,
+    "gn:latitude":48.3575,
+    "gn:longitude":37.03902,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Vasylivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vasylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vasilevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112052
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"39a57f34286f70160ad79607569306e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1276655201,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1276655201,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276655201,
+    "wof:lastmodified":1537711839,
+    "wof:name":"Vasylivka",
+    "wof:parent_id":1108815755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03902,
+    48.3575,
+    37.03902,
+    48.3575
+],
+  "geometry": {"coordinates":[37.03902,48.3575],"type":"Point"}
+}

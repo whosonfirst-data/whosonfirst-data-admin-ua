@@ -1,0 +1,115 @@
+{
+  "id": 101867217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.716129,47.729622,38.716129,47.729622",
+    "geom:latitude":47.729622,
+    "geom:longitude":38.716129,
+    "iso:country":"UA",
+    "lbl:latitude":47.729622,
+    "lbl:longitude":38.716129,
+    "mps:latitude":47.729622,
+    "mps:longitude":38.716129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u057d\u057a\u0565\u0576\u056f\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Uspenka"
+    ],
+    "name:est_x_preferred":[
+        "Uspenka"
+    ],
+    "name:ger_x_preferred":[
+        "Uspenka"
+    ],
+    "name:lav_x_preferred":[
+        "Uspenka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Usnenskoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Amvrosiivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0423\u0441\u043f\u0435\u043d\u043a\u0430",
+    "qs:loc_alt":"Uspenka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":258,
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690630,
+        "gp:id":936865,
+        "qs:id":8,
+        "wd:id":"Q4477936"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c72545abb6940dddec1cfd875d7976da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":101867217,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":101867217,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101867217,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u0423\u0441\u043f\u0435\u043d\u043a\u0430",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.716129,
+    47.729622,
+    38.716129,
+    47.729622
+],
+  "geometry": {"coordinates":[38.716129,47.729622],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125900347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67161,44.8456,33.67161,44.8456",
+    "geom:latitude":44.8456,
+    "geom:longitude":33.67161,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6649,
+    "gn:population":6960,
+    "iso:country":"UA",
+    "lbl:latitude":44.8456,
+    "lbl:longitude":33.67161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Vilino"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u0443\u0440\u043b\u044e\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0456\u043b\u0456\u043d\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0440\u043b\u044e\u0301\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0456\u043d\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689595,
+    "qs_pg:gn_pop":6649,
+    "qs_pg:name":"Viline",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1028364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689595,
+        "qs_pg:id":1028364
+    },
+    "wof:country":"UA",
+    "wof:created":1497295776,
+    "wof:geomhash":"92b82b2a1d2302a497fbb2cd1683ccb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125900347,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1125900347,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125900347,
+    "wof:lastmodified":1530299553,
+    "wof:name":"Viline",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":6960,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67161,
+    44.8456,
+    33.67161,
+    44.8456
+],
+  "geometry": {"coordinates":[33.67161,44.8456],"type":"Point"}
+}

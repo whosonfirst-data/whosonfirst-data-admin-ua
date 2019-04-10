@@ -1,0 +1,87 @@
+{
+  "id": 1125778961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48502,50.42587,35.48502,50.42587",
+    "geom:latitude":50.42587,
+    "geom:longitude":35.48502,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5235,
+    "gn:population":5235,
+    "iso:country":"UA",
+    "lbl:latitude":50.42587,
+    "lbl:longitude":35.48502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u0438\u0441\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041f\u0438\u0441\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shaya Pisarevka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":690230,
+    "qs_pg:gn_pop":5235,
+    "qs_pg:name":"Velyka Pysarivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128206,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690230,
+        "qs_pg:id":128206
+    },
+    "wof:country":"UA",
+    "wof:created":1497290386,
+    "wof:geomhash":"b2d7ee97fc11769bf00d801137850b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088939,
+            "locality_id":1125778961,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1125778961,
+    "wof:lastmodified":1509391438,
+    "wof:name":"Velyka Pysarivka",
+    "wof:parent_id":102088939,
+    "wof:placetype":"locality",
+    "wof:population":5235,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48502,
+    50.42587,
+    35.48502,
+    50.42587
+],
+  "geometry": {"coordinates":[35.48502,50.42587],"type":"Point"}
+}

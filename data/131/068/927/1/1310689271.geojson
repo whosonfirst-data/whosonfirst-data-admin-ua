@@ -1,0 +1,101 @@
+{
+  "id": 1310689271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02502,45.65249,33.02502,45.65249",
+    "geom:latitude":45.65249,
+    "geom:longitude":33.02502,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"710690",
+    "gn:admin3_code":"11153133",
+    "gn:asciiname":"Vladimirovka",
+    "gn:country_code":"UA",
+    "gn:dem":33,
+    "gn:elevation":"34.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689422,
+    "gn:latitude":45.65249,
+    "gn:longitude":33.02502,
+    "gn:modification_date":"2016-08-15",
+    "gn:name":"Vladimirovka",
+    "gn:population":262,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vladimirovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u0430\u0439-\u041a\u0438\u044f\u0301\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0439-\u041a\u0438\u044f\u0301\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738655,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689422
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d662cc7cbc274afaf4de024738c242c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1310689271,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "locality_id":1310689271,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1310689271,
+    "wof:lastmodified":1537710221,
+    "wof:name":"Vladimirovka",
+    "wof:parent_id":1108738655,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02502,
+    45.65249,
+    33.02502,
+    45.65249
+],
+  "geometry": {"coordinates":[33.02502,45.65249],"type":"Point"}
+}

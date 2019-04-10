@@ -1,0 +1,73 @@
+{
+  "id": 1243185987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.20312,49.51389,32.20312,49.51389",
+    "geom:latitude":49.51389,
+    "geom:longitude":32.20312,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chekhivka",
+    "gn:country_code":"UA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710879,
+    "gn:latitude":49.51389,
+    "gn:longitude":32.20312,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Chekhivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0445\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chekhovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710879
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"949220c3e4e4e37d30d0d4dc9f87b0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088669,
+            "locality_id":1243185987,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1243185987,
+    "wof:lastmodified":1537711278,
+    "wof:name":"Chekhivka",
+    "wof:parent_id":102088669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.20312,
+    49.51389,
+    32.20312,
+    49.51389
+],
+  "geometry": {"coordinates":[32.20312,49.51389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310081345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83373,49.2875,34.83373,49.2875",
+    "geom:latitude":49.2875,
+    "geom:longitude":34.83373,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zhyrkivka",
+    "gn:country_code":"UA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687139,
+    "gn:latitude":49.2875,
+    "gn:longitude":34.83373,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Zhyrkivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zhyrkivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0416\u0438\u0440\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zhirkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687139
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"523fa51b50cd47e266e285c1b5cbc2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088733,
+            "locality_id":1310081345,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1310081345,
+    "wof:lastmodified":1537710098,
+    "wof:name":"Zhyrkivka",
+    "wof:parent_id":102088733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83373,
+    49.2875,
+    34.83373,
+    49.2875
+],
+  "geometry": {"coordinates":[34.83373,49.2875],"type":"Point"}
+}

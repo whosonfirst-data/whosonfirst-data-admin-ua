@@ -1,0 +1,76 @@
+{
+  "id": 1242941309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81063,51.4173,24.81063,51.4173",
+    "geom:latitude":51.4173,
+    "geom:longitude":24.81063,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Komarove",
+    "gn:country_code":"UA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705237,
+    "gn:latitude":51.4173,
+    "gn:longitude":24.81063,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Komarove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Komarove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Komarovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705237
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b0e416202d6b77b48177d24bea59f96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088789,
+            "locality_id":1242941309,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1242941309,
+    "wof:lastmodified":1537711003,
+    "wof:name":"Komarove",
+    "wof:parent_id":102088789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81063,
+    51.4173,
+    24.81063,
+    51.4173
+],
+  "geometry": {"coordinates":[24.81063,51.4173],"type":"Point"}
+}

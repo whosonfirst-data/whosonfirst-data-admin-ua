@@ -1,0 +1,86 @@
+{
+  "id": 1326604549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73134,44.42392,33.73134,44.42392",
+    "geom:latitude":44.42392,
+    "geom:longitude":33.73134,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Laspi",
+    "gn:country_code":"UA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":703363,
+    "gn:latitude":44.42392,
+    "gn:longitude":33.73134,
+    "gn:modification_date":"2016-05-24",
+    "gn:name":"Laspi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Laspi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0441\u043f\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738657,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703363
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"567f0f13f21a1a9c886acd42cb350371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738657,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1326604549,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738657,
+            "disputed_id":1159339547,
+            "locality_id":1326604549,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1326604549,
+    "wof:lastmodified":1537710914,
+    "wof:name":"Laspi",
+    "wof:parent_id":1108738657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73134,
+    44.42392,
+    33.73134,
+    44.42392
+],
+  "geometry": {"coordinates":[33.73134,44.42392],"type":"Point"}
+}

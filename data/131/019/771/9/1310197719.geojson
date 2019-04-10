@@ -1,0 +1,86 @@
+{
+  "id": 1310197719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51503,48.30365,37.51503,48.30365",
+    "geom:latitude":48.30365,
+    "geom:longitude":37.51503,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vozdvyzhenka",
+    "gn:country_code":"UA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688876,
+    "gn:latitude":48.30365,
+    "gn:longitude":37.51503,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vozdvyzhenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vozdvyzhenka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u0437\u0434\u0432\u0438\u0436\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vozdvizhenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688876
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8cea6d9994cabf085b03b2d86238cda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1310197719,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1310197719,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310197719,
+    "wof:lastmodified":1537710188,
+    "wof:name":"Vozdvyzhenka",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51503,
+    48.30365,
+    37.51503,
+    48.30365
+],
+  "geometry": {"coordinates":[37.51503,48.30365],"type":"Point"}
+}

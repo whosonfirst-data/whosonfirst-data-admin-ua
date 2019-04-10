@@ -1,0 +1,103 @@
+{
+  "id": 1125839913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3401,48.70138,35.3401,48.70138",
+    "geom:latitude":48.70138,
+    "geom:longitude":35.3401,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":852,
+    "gn:population":852,
+    "iso:country":"UA",
+    "lbl:latitude":48.70138,
+    "lbl:longitude":35.3401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ha\u0219ciove"
+    ],
+    "name:eng_x_preferred":[
+        "Khascheve"
+    ],
+    "name:ger_x_preferred":[
+        "Chaschtschewe"
+    ],
+    "name:lav_x_preferred":[
+        "Ha\u0161\u010deve"
+    ],
+    "name:rum_x_preferred":[
+        "Ha\u0219ciove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0449\u0435\u0432\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0449\u0435\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Chervonnyy Kut"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":706464,
+    "qs_pg:gn_pop":852,
+    "qs_pg:name":"Khashchevoye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83074,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706464,
+        "qs_pg:id":83074,
+        "wd:id":"Q4496795"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292889,
+    "wof:geomhash":"9bce481caa9a2234e8b3ee38f085a6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815619,
+            "locality_id":1125839913,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1125839913,
+    "wof:lastmodified":1514509436,
+    "wof:name":"Khashchevoye",
+    "wof:parent_id":1108815619,
+    "wof:placetype":"locality",
+    "wof:population":852,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3401,
+    48.70138,
+    35.3401,
+    48.70138
+],
+  "geometry": {"coordinates":[35.3401,48.70138],"type":"Point"}
+}

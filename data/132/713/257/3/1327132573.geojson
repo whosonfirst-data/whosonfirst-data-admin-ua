@@ -1,0 +1,77 @@
+{
+  "id": 1327132573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08333,47.65,38.08333,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":38.08333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pervaya Balka",
+    "gn:country_code":"UA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697603,
+    "gn:latitude":47.65,
+    "gn:longitude":38.08333,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Pervaya Balka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697603
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"30bc6c0210202422cb03d293f3648b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1327132573,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1327132573,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1327132573,
+    "wof:lastmodified":1536613485,
+    "wof:name":"Pervaya Balka",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08333,
+    47.65,
+    38.08333,
+    47.65
+],
+  "geometry": {"coordinates":[38.08333,47.65],"type":"Point"}
+}

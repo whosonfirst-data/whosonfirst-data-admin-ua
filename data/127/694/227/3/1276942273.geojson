@@ -1,0 +1,76 @@
+{
+  "id": 1276942273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05304,51.81741,26.05304,51.81741",
+    "geom:latitude":51.81741,
+    "geom:longitude":26.05304,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Chernyn",
+    "gn:country_code":"UA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710726,
+    "gn:latitude":51.81741,
+    "gn:longitude":26.05304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chernyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chernyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chernin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710726
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8f073f3481ef38e7f3eca01ffbd1844c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088891,
+            "locality_id":1276942273,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1276942273,
+    "wof:lastmodified":1537711270,
+    "wof:name":"Chernyn",
+    "wof:parent_id":102088891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05304,
+    51.81741,
+    26.05304,
+    51.81741
+],
+  "geometry": {"coordinates":[26.05304,51.81741],"type":"Point"}
+}

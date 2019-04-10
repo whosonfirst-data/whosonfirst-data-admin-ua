@@ -1,0 +1,76 @@
+{
+  "id": 1259738601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98517,51.22906,23.98517,51.22906",
+    "geom:latitude":51.22906,
+    "geom:longitude":23.98517,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Krasnovolya",
+    "gn:country_code":"UA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704435,
+    "gn:latitude":51.22906,
+    "gn:longitude":23.98517,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Krasnovolya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Krasnovolya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0432\u043e\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Krasnaya Volya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704435
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2d710713e7aa4c0e65904c4f555f98a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088727,
+            "locality_id":1259738601,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1259738601,
+    "wof:lastmodified":1537710967,
+    "wof:name":"Krasnovolya",
+    "wof:parent_id":102088727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98517,
+    51.22906,
+    23.98517,
+    51.22906
+],
+  "geometry": {"coordinates":[23.98517,51.22906],"type":"Point"}
+}

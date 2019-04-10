@@ -1,0 +1,117 @@
+{
+  "id": 101867027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.480072,47.336624,37.480072,47.336624",
+    "geom:latitude":47.336624,
+    "geom:longitude":37.480072,
+    "iso:country":"UA",
+    "lbl:latitude":47.336624,
+    "lbl:longitude":37.480072,
+    "mps:latitude":47.336624,
+    "mps:longitude":37.480072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0580\u0565\u0574\u0565\u0576\u0587\u056f\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Kremen\u00ebvka"
+    ],
+    "name:ger_x_preferred":[
+        "Kremeniwka"
+    ],
+    "name:hun_x_preferred":[
+        "Kremenyivka"
+    ],
+    "name:lav_x_preferred":[
+        "Kreme\u0146ivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Kremenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Cherdakla"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Volodars'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Kremenivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704139,
+        "gp:id":924164,
+        "qs:id":7,
+        "wd:id":"Q1120944"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4a9a0d2e356a694eef2ccc1e8149109c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":101867027,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":101867027,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101867027,
+    "wof:lastmodified":1553815557,
+    "wof:name":"\u041a\u0440\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.480072,
+    47.336624,
+    37.480072,
+    47.336624
+],
+  "geometry": {"coordinates":[37.480072,47.336624],"type":"Point"}
+}

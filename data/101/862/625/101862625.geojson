@@ -1,0 +1,102 @@
+{
+  "id": 101862625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.040706,50.15463,24.040706,50.15463",
+    "geom:latitude":50.15463,
+    "geom:longitude":24.040706,
+    "iso:country":"UA",
+    "lbl:latitude":50.15463,
+    "lbl:longitude":24.040706,
+    "mps:latitude":50.15463,
+    "mps:longitude":24.040706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Subdivisions de la r\u00e9publique de l'Alta\u00ef"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30bf\u30a4\u5171\u548c\u56fd\u306e\u884c\u653f\u533a\u753b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ud0c0\uc774 \uacf5\ud654\uad6d\uc758 \ud589\uc815 \uad6c\uc5ed"
+    ],
+    "name:lit_x_preferred":[
+        "Altajaus administracinis suskirstymas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e-\u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u0410\u043b\u0442\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0439 \u043f\u043e\u0434\u0456\u043b \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438 \u0410\u043b\u0442\u0430\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Derewnia"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"L'vivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0416\u043e\u0432\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Zhovkivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0435\u0440\u0435\u0432\u043d\u044f",
+    "qs:loc_alt":"Derevnia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":450,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710112,
+        "gp:id":937372,
+        "qs:id":8,
+        "wd:id":"Q1062975"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"530085bccfc0c543791113eddc8b2c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088445,
+            "locality_id":101862625,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":101862625,
+    "wof:lastmodified":1544746579,
+    "wof:name":"\u0414\u0435\u0440\u0435\u0432\u043d\u044f",
+    "wof:parent_id":102088445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.040706,
+    50.15463,
+    24.040706,
+    50.15463
+],
+  "geometry": {"coordinates":[24.040706,50.15463],"type":"Point"}
+}

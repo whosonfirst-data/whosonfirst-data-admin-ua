@@ -1,0 +1,77 @@
+{
+  "id": 1226415821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.19206,49.83763,38.19206,49.83763",
+    "geom:latitude":49.83763,
+    "geom:longitude":38.19206,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Anoshkyne",
+    "gn:country_code":"UA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713319,
+    "gn:latitude":49.83763,
+    "gn:longitude":38.19206,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Anoshkyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Anoshkyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u043e\u0448\u043a\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Anokhino",
+        "Anoshkino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713319
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"43b9f32d3b19725dfd6359b3aeef28d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088967,
+            "locality_id":1226415821,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1226415821,
+    "wof:lastmodified":1537711397,
+    "wof:name":"Anoshkyne",
+    "wof:parent_id":102088967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.19206,
+    49.83763,
+    38.19206,
+    49.83763
+],
+  "geometry": {"coordinates":[38.19206,49.83763],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1126025537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69512,47.65311,35.69512,47.65311",
+    "geom:latitude":47.65311,
+    "geom:longitude":35.69512,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3291,
+    "gn:population":3291,
+    "iso:country":"UA",
+    "lbl:latitude":47.65311,
+    "lbl:longitude":35.69512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u0456\u0440\u043e\u0432\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u043e\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kirovo"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":829795,
+    "qs_pg:gn_pop":3291,
+    "qs_pg:name":"Kirove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":554339,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829795,
+        "qs_pg:id":554339
+    },
+    "wof:country":"UA",
+    "wof:created":1497301118,
+    "wof:geomhash":"3e906937a4087a7c887c03abe3318cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088375,
+            "locality_id":1126025537,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1126025537,
+    "wof:lastmodified":1509407513,
+    "wof:name":"Kirove",
+    "wof:parent_id":102088375,
+    "wof:placetype":"locality",
+    "wof:population":3291,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69512,
+    47.65311,
+    35.69512,
+    47.65311
+],
+  "geometry": {"coordinates":[35.69512,47.65311],"type":"Point"}
+}

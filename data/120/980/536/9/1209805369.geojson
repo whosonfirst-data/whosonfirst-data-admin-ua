@@ -1,0 +1,77 @@
+{
+  "id": 1209805369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28366,47.17314,33.28366,47.17314",
+    "geom:latitude":47.17314,
+    "geom:longitude":33.28366,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bezvodne",
+    "gn:country_code":"UA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712182,
+    "gn:latitude":47.17314,
+    "gn:longitude":33.28366,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bezvodne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bezvodne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Bezvodny",
+        "Bezvodnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712182
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3e678a712c803541ccd50923bd58c573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088131,
+            "locality_id":1209805369,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1209805369,
+    "wof:lastmodified":1537711346,
+    "wof:name":"Bezvodne",
+    "wof:parent_id":102088131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28366,
+    47.17314,
+    33.28366,
+    47.17314
+],
+  "geometry": {"coordinates":[33.28366,47.17314],"type":"Point"}
+}

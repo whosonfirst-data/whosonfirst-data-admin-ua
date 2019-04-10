@@ -1,0 +1,71 @@
+{
+  "id": 1243295751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75,48.9,35.75,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":35.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Komintern",
+    "gn:country_code":"UA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705225,
+    "gn:latitude":48.9,
+    "gn:longitude":35.75,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Komintern",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakov",
+        "Komintern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705225
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"121aa88ec4a7cd4475cea2ab24758dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088655,
+            "locality_id":1243295751,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1243295751,
+    "wof:lastmodified":1537711002,
+    "wof:name":"Komintern",
+    "wof:parent_id":102088655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75,
+    48.9,
+    35.75,
+    48.9
+],
+  "geometry": {"coordinates":[35.75,48.9],"type":"Point"}
+}

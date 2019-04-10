@@ -1,0 +1,93 @@
+{
+  "id": 1125854275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33314,51.22266,31.33314,51.22266",
+    "geom:latitude":51.22266,
+    "geom:longitude":31.33314,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2317,
+    "gn:population":2317,
+    "iso:country":"UA",
+    "lbl:latitude":51.22266,
+    "lbl:longitude":31.33314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Olish\u00ebvka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0438\u0448\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Olyshivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043b\u0438\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Olischewka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":698570,
+    "qs_pg:gn_pop":2317,
+    "qs_pg:name":"Olyshivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128400,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698570,
+        "qs_pg:id":128400
+    },
+    "wof:country":"UA",
+    "wof:created":1497293544,
+    "wof:geomhash":"ca0a8e96e10d69f3ef369667f5b94de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815729,
+            "locality_id":1125854275,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1125854275,
+    "wof:lastmodified":1509396128,
+    "wof:name":"Olyshivka",
+    "wof:parent_id":1108815729,
+    "wof:placetype":"locality",
+    "wof:population":2317,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33314,
+    51.22266,
+    31.33314,
+    51.22266
+],
+  "geometry": {"coordinates":[31.33314,51.22266],"type":"Point"}
+}

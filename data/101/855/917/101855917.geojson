@@ -1,0 +1,130 @@
+{
+  "id": 101855917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.099141,44.876651,35.099141,44.876651",
+    "geom:latitude":44.876651,
+    "geom:longitude":35.099141,
+    "iso:country":"UA",
+    "lbl:latitude":44.876651,
+    "lbl:longitude":35.099141,
+    "mps:latitude":44.876651,
+    "mps:longitude":35.099141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:crh_x_historical":[
+        "Qoz"
+    ],
+    "name:crh_x_preferred":[
+        "Qoz"
+    ],
+    "name:eng_x_preferred":[
+        "Solnechnaya Dolina"
+    ],
+    "name:ron_x_preferred":[
+        "Soneacina Dol\u00eena"
+    ],
+    "name:rum_x_preferred":[
+        "Soneacina Dol\u00eena"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u043e\u0301\u0437\u044b",
+        "\u041a\u043e\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0301\u0437\u044b",
+        "\u041a\u043e\u0437"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043d\u044f\u0447\u043d\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0443\u0434\u0430\u043a",
+    "qs:a2_alt":"Sudak",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043e\u043d\u044f\u0447\u043d\u0430 \u0414\u043e\u043b\u0438\u043d\u0430",
+    "qs:loc_alt":"Soniachna Dolyna",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":95.0,
+    "wd:latitude":44.875,
+    "wd:longitude":35.102778,
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738661,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"082834f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":693219,
+        "gp:id":934530,
+        "qs:id":1,
+        "wd:id":"Q4427761"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0d5e30e955c62610f4162c693f10ba25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738661,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101855917,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738661,
+            "disputed_id":1159339547,
+            "locality_id":101855917,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101855917,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544743138,
+    "wof:name":"\u0421\u043e\u043d\u044f\u0447\u043d\u0430 \u0414\u043e\u043b\u0438\u043d\u0430",
+    "wof:parent_id":1108738661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.099141,
+    44.876651,
+    35.099141,
+    44.876651
+],
+  "geometry": {"coordinates":[35.099141,44.876651],"type":"Point"}
+}

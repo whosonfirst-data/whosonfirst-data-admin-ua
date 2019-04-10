@@ -1,0 +1,100 @@
+{
+  "id": 101865253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.305245,47.798859,35.305245,47.798859",
+    "geom:latitude":47.798859,
+    "geom:longitude":35.305245,
+    "iso:country":"UA",
+    "lbl:latitude":47.798859,
+    "lbl:longitude":35.305245,
+    "mps:latitude":47.798859,
+    "mps:longitude":35.305245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Stepne"
+    ],
+    "name:ger_x_preferred":[
+        "Stepne"
+    ],
+    "name:lav_x_preferred":[
+        "Stepne"
+    ],
+    "name:rum_x_preferred":[
+        "Stepne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Stepnoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Zaporiz'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0435\u043f\u043d\u0435",
+    "qs:loc_alt":"Stepne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692554,
+        "qs:id":3,
+        "wd:id":"Q4442096"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6d66a1b510995a4485b4a8a05b95551a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815653,
+            "locality_id":101865253,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865253,
+    "wof:lastmodified":1553815556,
+    "wof:name":"\u0421\u0442\u0435\u043f\u043d\u0435",
+    "wof:parent_id":1108815653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.305245,
+    47.798859,
+    35.305245,
+    47.798859
+],
+  "geometry": {"coordinates":[35.305245,47.798859],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1310605671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75174,47.69011,38.75174,47.69011",
+    "geom:latitude":47.69011,
+    "geom:longitude":38.75174,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Katerynivka",
+    "gn:country_code":"UA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":468196,
+    "gn:latitude":47.69011,
+    "gn:longitude":38.75174,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Katerynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Katerynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yekaterinoslavskiy",
+        "Katerinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":468196
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"618cfae13510ee8ae3a1a9e351d85eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1310605671,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1310605671,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310605671,
+    "wof:lastmodified":1537710074,
+    "wof:name":"Katerynivka",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75174000000001,
+    47.69011,
+    38.75174000000001,
+    47.69011
+],
+  "geometry": {"coordinates":[38.75174000000001,47.69011],"type":"Point"}
+}

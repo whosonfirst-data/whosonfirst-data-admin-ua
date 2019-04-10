@@ -1,0 +1,77 @@
+{
+  "id": 1293751857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05799,51.26169,25.05799,51.26169",
+    "geom:latitude":51.26169,
+    "geom:longitude":25.05799,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lukivka",
+    "gn:country_code":"UA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702604,
+    "gn:latitude":51.26169,
+    "gn:longitude":25.05799,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Lukivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lukivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lukuvka",
+        "Lukovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702604
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"23f9e17cb9a63ec1305eaf239579e5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088743,
+            "locality_id":1293751857,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1293751857,
+    "wof:lastmodified":1537710878,
+    "wof:name":"Lukivka",
+    "wof:parent_id":102088743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05799,
+    51.26169,
+    25.05799,
+    51.26169
+],
+  "geometry": {"coordinates":[25.05799,51.26169],"type":"Point"}
+}

@@ -1,0 +1,122 @@
+{
+  "id": 101868141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.494117,47.157976,37.494117,47.157976",
+    "geom:latitude":47.157976,
+    "geom:longitude":37.494117,
+    "gn:population":5977,
+    "iso:country":"UA",
+    "lbl:latitude":47.157976,
+    "lbl:longitude":37.494117,
+    "mps:latitude":47.157976,
+    "mps:longitude":37.494117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u057f\u0561\u0580\u056b\u0575 \u053f\u0580\u056b\u0574"
+    ],
+    "name:chi_x_preferred":[
+        "\u820a\u514b\u91cc\u59c6"
+    ],
+    "name:eng_x_preferred":[
+        "Staryy Krym"
+    ],
+    "name:ger_x_preferred":[
+        "Staryj Krym"
+    ],
+    "name:lav_x_preferred":[
+        "Starijkrima"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u0440\u044b\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Stary Krym"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u0430\u0437\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novoazovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c",
+    "qs:loc_alt":"Staryi Krym",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":300.0,
+    "wd:latitude":45.029167,
+    "wd:longitude":35.088611,
+    "wd:wordcount":1229,
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692713,
+        "gp:id":934997,
+        "qs:id":250969,
+        "wd:id":"Q4441079"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b6d347ab4e99a266c29c82a3fb8ca9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730821,
+            "disputed_id":1159339531,
+            "locality_id":101868141,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730821,
+            "disputed_id":1159339531,
+            "locality_id":101868141,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101868141,
+    "wof:lastmodified":1544749569,
+    "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c",
+    "wof:parent_id":1108730821,
+    "wof:placetype":"locality",
+    "wof:population":5977,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.494117,
+    47.157976,
+    37.494117,
+    47.157976
+],
+  "geometry": {"coordinates":[37.494117,47.157976],"type":"Point"}
+}

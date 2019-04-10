@@ -1,0 +1,77 @@
+{
+  "id": 1209913419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59957,48.35861,36.59957,48.35861",
+    "geom:latitude":48.35861,
+    "geom:longitude":36.59957,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zhukove",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687028,
+    "gn:latitude":48.35861,
+    "gn:longitude":36.59957,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Zhukove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zhukove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0416\u0443\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zhukov",
+        "Zhukovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687028
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1b9970c543e819358d2e7419029c3741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088607,
+            "locality_id":1209913419,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1209913419,
+    "wof:lastmodified":1537710091,
+    "wof:name":"Zhukove",
+    "wof:parent_id":102088607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59957,
+    48.35861,
+    36.59957,
+    48.35861
+],
+  "geometry": {"coordinates":[36.59957,48.35861],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1344149639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46334,47.48412,37.46334,47.48412",
+    "geom:latitude":47.48412,
+    "geom:longitude":37.46334,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lazarivka",
+    "gn:country_code":"UA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703331,
+    "gn:latitude":47.48412,
+    "gn:longitude":37.46334,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Lazarivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lazarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0430\u0437\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lazarevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703331
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"54577ff6f67ff9cb8f76279e386a7424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1344149639,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1344149639,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1344149639,
+    "wof:lastmodified":1537710912,
+    "wof:name":"Lazarivka",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46334,
+    47.48412,
+    37.46334,
+    47.48412
+],
+  "geometry": {"coordinates":[37.46334,47.48412],"type":"Point"}
+}

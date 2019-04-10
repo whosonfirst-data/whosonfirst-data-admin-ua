@@ -1,0 +1,77 @@
+{
+  "id": 1243605055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97906,50.98136,27.97906,50.98136",
+    "geom:latitude":50.98136,
+    "geom:longitude":27.97906,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Osivka",
+    "gn:country_code":"UA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698273,
+    "gn:latitude":50.98136,
+    "gn:longitude":27.97906,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Osivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Osivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0441\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Solov\u2019i",
+        "Osovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698273
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1f7617f537d66c04d7666e172d72b73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1243605055,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243605055,
+    "wof:lastmodified":1537710652,
+    "wof:name":"Osivka",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97906,
+    50.98136,
+    27.97906,
+    50.98136
+],
+  "geometry": {"coordinates":[27.97906,50.98136],"type":"Point"}
+}

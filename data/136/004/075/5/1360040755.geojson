@@ -1,0 +1,76 @@
+{
+  "id": 1360040755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03217,51.16062,25.03217,51.16062",
+    "geom:latitude":51.16062,
+    "geom:longitude":25.03217,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Baykivtsi",
+    "gn:country_code":"UA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340928,
+    "gn:latitude":51.16062,
+    "gn:longitude":25.03217,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Baykivtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Baykivtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0439\u043a\u0456\u0432\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Baykovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340928
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"decb736516e23fae75fd48c2695b6d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088743,
+            "locality_id":1360040755,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1360040755,
+    "wof:lastmodified":1537711612,
+    "wof:name":"Baykivtsi",
+    "wof:parent_id":102088743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03217,
+    51.16062,
+    25.03217,
+    51.16062
+],
+  "geometry": {"coordinates":[25.03217,51.16062],"type":"Point"}
+}

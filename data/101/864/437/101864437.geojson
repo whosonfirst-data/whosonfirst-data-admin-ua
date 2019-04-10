@@ -1,0 +1,88 @@
+{
+  "id": 101864437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.794562,51.713841,24.794562,51.713841",
+    "geom:latitude":51.713841,
+    "geom:longitude":24.794562,
+    "iso:country":"UA",
+    "lbl:latitude":51.713841,
+    "lbl:longitude":24.794562,
+    "mps:latitude":51.713841,
+    "mps:longitude":24.794562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Khoteshiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043e\u0442\u0435\u0448\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Chociesz\u00f3w"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Volyns'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0430\u043c\u0456\u043d\u044c-\u041a\u0430\u0448\u0438\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kamin'-Kashyrs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0425\u043e\u0442\u0435\u0448\u0456\u0432",
+    "qs:loc_alt":"Khoteshiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706250,
+        "gp:id":921613
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2f8bb4ee9bb22b333ce07e060cf0ae3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088837,
+            "locality_id":101864437,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":101864437,
+    "wof:lastmodified":1544747526,
+    "wof:name":"\u0425\u043e\u0442\u0435\u0448\u0456\u0432",
+    "wof:parent_id":102088837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.794562,
+    51.713841,
+    24.794562,
+    51.713841
+],
+  "geometry": {"coordinates":[24.794562,51.713841],"type":"Point"}
+}

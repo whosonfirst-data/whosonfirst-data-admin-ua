@@ -1,0 +1,75 @@
+{
+  "id": 1225864967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92848,50.33339,36.92848,50.33339",
+    "geom:latitude":50.33339,
+    "geom:longitude":36.92848,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pletenivka",
+    "gn:country_code":"UA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6724777,
+    "gn:latitude":50.33339,
+    "gn:longitude":36.92848,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Pletenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0442\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pletenovka",
+        "Pleteneyevka",
+        "Pletenivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6724777
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f4b1ab74223503859092e523520b3127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088983,
+            "locality_id":1225864967,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1225864967,
+    "wof:lastmodified":1537711518,
+    "wof:name":"Pletenivka",
+    "wof:parent_id":102088983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92848,
+    50.33339,
+    36.92848,
+    50.33339
+],
+  "geometry": {"coordinates":[36.92848,50.33339],"type":"Point"}
+}

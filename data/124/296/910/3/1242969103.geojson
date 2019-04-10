@@ -1,0 +1,83 @@
+{
+  "id": 1242969103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70826,49.12363,37.70826,49.12363",
+    "geom:latitude":49.12363,
+    "geom:longitude":37.70826,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Serednye",
+    "gn:country_code":"UA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692999,
+    "gn:latitude":49.12363,
+    "gn:longitude":37.70826,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Serednye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Serednye"
+    ],
+    "name:und_x_variant":[
+        "Sredniy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692999
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b56d068d53890ddc39129c073168413d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815627,
+            "disputed_id":1159339531,
+            "locality_id":1242969103,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815627,
+            "disputed_id":1159339531,
+            "locality_id":1242969103,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1242969103,
+    "wof:lastmodified":1537710394,
+    "wof:name":"Serednye",
+    "wof:parent_id":1108815627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70826,
+    49.12363,
+    37.70826,
+    49.12363
+],
+  "geometry": {"coordinates":[37.70826,49.12363],"type":"Point"}
+}

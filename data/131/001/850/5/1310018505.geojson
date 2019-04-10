@@ -1,0 +1,76 @@
+{
+  "id": 1310018505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08616,51.49253,31.08616,51.49253",
+    "geom:latitude":51.49253,
+    "geom:longitude":31.08616,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Levkovychi",
+    "gn:country_code":"UA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703116,
+    "gn:latitude":51.49253,
+    "gn:longitude":31.08616,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Levkovychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Levkovychi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0435\u0432\u043a\u043e\u0432\u0438\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Levkovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703116
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"20b3f417ae8661a2dc02409b0cccaa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815729,
+            "locality_id":1310018505,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1310018505,
+    "wof:lastmodified":1537710901,
+    "wof:name":"Levkovychi",
+    "wof:parent_id":1108815729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08616,
+    51.49253,
+    31.08616,
+    51.49253
+],
+  "geometry": {"coordinates":[31.08616,51.49253],"type":"Point"}
+}

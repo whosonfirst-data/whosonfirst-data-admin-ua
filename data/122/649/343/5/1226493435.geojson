@@ -1,0 +1,76 @@
+{
+  "id": 1226493435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79945,51.29396,28.79945,51.29396",
+    "geom:latitude":51.29396,
+    "geom:longitude":28.79945,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ostriv",
+    "gn:country_code":"UA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698218,
+    "gn:latitude":51.29396,
+    "gn:longitude":28.79945,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ostriv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ostriv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Ostrov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698218
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cbce898a8b2beb049c5ff7965ea22ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":1226493435,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1226493435,
+    "wof:lastmodified":1537710649,
+    "wof:name":"Ostriv",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79945,
+    51.29396,
+    28.79945,
+    51.29396
+],
+  "geometry": {"coordinates":[28.79945,51.29396],"type":"Point"}
+}

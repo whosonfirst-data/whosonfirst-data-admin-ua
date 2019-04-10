@@ -1,0 +1,94 @@
+{
+  "id": 1243261927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2135,47.45842,38.2135,47.45842",
+    "geom:latitude":47.45842,
+    "geom:longitude":38.2135,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kuznetsovo-Mykhaylivka",
+    "gn:country_code":"UA",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703465,
+    "gn:latitude":47.45842,
+    "gn:longitude":38.2135,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Kuznetsovo-Mykhaylivka",
+    "gn:population":969,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuznetsovo-Mykhaylivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u043e-\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u043e-\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kuznetsovo-Mikhaylovka",
+        "Kuznetsova-Kardizhskaya",
+        "Kuznetsovo-Mykhaylivka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703465
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a9616491b8e4679459608be668e7a5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1243261927,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1243261927,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243261927,
+    "wof:lastmodified":1537710918,
+    "wof:name":"Kuznetsovo-Mykhaylivka",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:population":969,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2135,
+    47.45842,
+    38.2135,
+    47.45842
+],
+  "geometry": {"coordinates":[38.2135,47.45842],"type":"Point"}
+}

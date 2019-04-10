@@ -1,0 +1,83 @@
+{
+  "id": 1209808183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74986,48.04502,36.74986,48.04502",
+    "geom:latitude":48.04502,
+    "geom:longitude":36.74986,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yalta",
+    "gn:country_code":"UA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688531,
+    "gn:latitude":48.04502,
+    "gn:longitude":36.74986,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Yalta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yalta"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u043b\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688531
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"04cbbf1dcf6d8fec524e22316a277393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1209808183,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1209808183,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1209808183,
+    "wof:lastmodified":1537710168,
+    "wof:name":"Yalta",
+    "wof:parent_id":102088519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74986,
+    48.04502,
+    36.74986,
+    48.04502
+],
+  "geometry": {"coordinates":[36.74986,48.04502],"type":"Point"}
+}

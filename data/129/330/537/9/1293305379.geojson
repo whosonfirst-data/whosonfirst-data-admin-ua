@@ -1,0 +1,76 @@
+{
+  "id": 1293305379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56743,50.86358,31.56743,50.86358",
+    "geom:latitude":50.86358,
+    "geom:longitude":31.56743,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Naumivka",
+    "gn:country_code":"UA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8401489,
+    "gn:latitude":50.86358,
+    "gn:longitude":31.56743,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Naumivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Naumivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0443\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Naumovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8401489
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f8e0ddaa141b47dfe994c979786db8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088869,
+            "locality_id":1293305379,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293305379,
+    "wof:lastmodified":1537711645,
+    "wof:name":"Naumivka",
+    "wof:parent_id":102088869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56743,
+    50.86358,
+    31.56743,
+    50.86358
+],
+  "geometry": {"coordinates":[31.56743,50.86358],"type":"Point"}
+}

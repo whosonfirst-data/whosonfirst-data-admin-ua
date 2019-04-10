@@ -1,0 +1,123 @@
+{
+  "id": 101869865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.761441,48.663388,38.761441,48.663388",
+    "geom:latitude":48.663388,
+    "geom:longitude":38.761441,
+    "gn:population":3605,
+    "iso:country":"UA",
+    "lbl:latitude":48.663388,
+    "lbl:longitude":38.761441,
+    "mps:latitude":48.663388,
+    "mps:longitude":38.761441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5f17\u502b\u6fa4"
+    ],
+    "name:deu_x_preferred":[
+        "Michail Frunse"
+    ],
+    "name:eng_x_preferred":[
+        "Frunze"
+    ],
+    "name:est_x_preferred":[
+        "Mihhail Frunze"
+    ],
+    "name:ger_x_preferred":[
+        "Frunse"
+    ],
+    "name:lav_x_preferred":[
+        "Frunze"
+    ],
+    "name:pol_x_preferred":[
+        "Frunze"
+    ],
+    "name:rum_x_preferred":[
+        "Frunze"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0438\u043b \u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Frunze"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043b\u043e\u0432'\u044f\u043d\u043e\u0441\u0435\u0440\u0431\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Slovyanoserbs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0424\u0440\u0443\u043d\u0437\u0435",
+    "qs:loc_alt":"Frunze",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709078,
+        "gp:id":919743,
+        "qs:id":128740,
+        "qs_pg:id":128740,
+        "wd:id":"Q4493104"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0cd79dde8d995851648b65adc79b522b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088801,
+            "locality_id":101869865,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101869865,
+    "wof:lastmodified":1544750490,
+    "wof:name":"\u0424\u0440\u0443\u043d\u0437\u0435",
+    "wof:parent_id":102088801,
+    "wof:placetype":"locality",
+    "wof:population":3605,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.761441,
+    48.663388,
+    38.761441,
+    48.663388
+],
+  "geometry": {"coordinates":[38.761441,48.663388],"type":"Point"}
+}

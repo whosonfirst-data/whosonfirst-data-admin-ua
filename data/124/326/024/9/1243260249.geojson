@@ -1,0 +1,74 @@
+{
+  "id": 1243260249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00062,50.28949,36.00062,50.28949",
+    "geom:latitude":50.28949,
+    "geom:longitude":36.00062,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zrubanka",
+    "gn:country_code":"UA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807089,
+    "gn:latitude":50.28949,
+    "gn:longitude":36.00062,
+    "gn:modification_date":"2013-11-11",
+    "gn:name":"Zrubanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0417\u0440\u0443\u0431\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Srubanka",
+        "Zrubanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807089
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"faeda84909d4db0b4e0c6aab1f5b0b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088947,
+            "locality_id":1243260249,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1243260249,
+    "wof:lastmodified":1537711452,
+    "wof:name":"Zrubanka",
+    "wof:parent_id":102088947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00062,
+    50.28949,
+    36.00062,
+    50.28949
+],
+  "geometry": {"coordinates":[36.00062,50.28949],"type":"Point"}
+}

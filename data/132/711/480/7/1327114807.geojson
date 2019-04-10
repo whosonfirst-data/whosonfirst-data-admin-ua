@@ -1,0 +1,101 @@
+{
+  "id": 1327114807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42825,45.78202,33.42825,45.78202",
+    "geom:latitude":45.78202,
+    "geom:longitude":33.42825,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"695741",
+    "gn:admin3_code":"11153041.0",
+    "gn:asciiname":"Chernyshevo",
+    "gn:country_code":"UA",
+    "gn:dem":13,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":711023,
+    "gn:latitude":45.78202,
+    "gn:longitude":33.42825,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Chernyshevo",
+    "gn:population":1866,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chernyshevo"
+    ],
+    "name:rus_x_historical":[
+        "\u041e\u0433\u0443\u0301\u0437-\u041e\u0433\u043b\u0443\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u044b\u0448\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0433\u0443\u0301\u0437-\u041e\u0433\u043b\u0443\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u0448\u043e\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711023
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22a380e94b364ba04857ead3817db062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327114807,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1327114807,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327114807,
+    "wof:lastmodified":1537711284,
+    "wof:name":"Chernyshevo",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:population":1866,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42825,
+    45.78202,
+    33.42825,
+    45.78202
+],
+  "geometry": {"coordinates":[33.42825,45.78202],"type":"Point"}
+}

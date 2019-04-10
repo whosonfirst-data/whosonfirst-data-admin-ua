@@ -1,0 +1,107 @@
+{
+  "id": 101869099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.967104,48.97183,38.967104,48.97183",
+    "geom:latitude":48.97183,
+    "geom:longitude":38.967104,
+    "iso:country":"UA",
+    "lbl:latitude":48.97183,
+    "lbl:longitude":38.967104,
+    "mps:latitude":48.97183,
+    "mps:longitude":38.967104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Aydar-Nikolayevka"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d8\u10d3\u10d0\u10e0-\u10dc\u10d8\u10d9\u10dd\u10da\u10d0\u10d4\u10d5\u10d9\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Ajdar-Mykolajiwka"
+    ],
+    "name:lav_x_preferred":[
+        "Ajdara-Mikolajivka"
+    ],
+    "name:rum_x_preferred":[
+        "Aidar-M\u00eekolaiivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0434\u0430\u0440-\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Aydar-Mykolayivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u0439\u0434\u0430\u0440-\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novoaydar-Nikolayevka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u0430\u0439\u0434\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novoaidars'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0410\u0439\u0434\u0430\u0440-\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Aidar-Mykolaivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713095,
+        "gp:id":925669,
+        "qs:id":7,
+        "wd:id":"Q4058788"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"08e6395a7671d8a3cb10744147b836e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088867,
+            "locality_id":101869099,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101869099,
+    "wof:lastmodified":1544750107,
+    "wof:name":"\u0410\u0439\u0434\u0430\u0440-\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102088867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.967104,
+    48.97183,
+    38.967104,
+    48.97183
+],
+  "geometry": {"coordinates":[38.967104,48.97183],"type":"Point"}
+}

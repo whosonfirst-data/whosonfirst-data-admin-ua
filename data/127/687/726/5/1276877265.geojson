@@ -1,0 +1,77 @@
+{
+  "id": 1276877265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13333,47.78333,38.13333,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":38.13333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnaya Polyana",
+    "gn:country_code":"UA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704449,
+    "gn:latitude":47.78333,
+    "gn:longitude":38.13333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Krasnaya Polyana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704449
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7f5d4c0677cb751eff0cda01d1a73b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1276877265,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1276877265,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276877265,
+    "wof:lastmodified":1537042821,
+    "wof:name":"Krasnaya Polyana",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13333,
+    47.78333,
+    38.13333,
+    47.78333
+],
+  "geometry": {"coordinates":[38.13333,47.78333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1226435135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.28333,48.61667,37.28333,48.61667",
+    "geom:latitude":48.61667,
+    "geom:longitude":37.28333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aleksandrovka",
+    "gn:cc2":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713637,
+    "gn:latitude":48.61667,
+    "gn:longitude":37.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novo-Aleksandrovka",
+        "Aleksandrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713637
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22003c9a78c063c06bb6d7b35d7dd134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1226435135,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1226435135,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226435135,
+    "wof:lastmodified":1537711416,
+    "wof:name":"Aleksandrovka",
+    "wof:parent_id":102088767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.28333,
+    48.61667,
+    37.28333,
+    48.61667
+],
+  "geometry": {"coordinates":[37.28333,48.61667],"type":"Point"}
+}

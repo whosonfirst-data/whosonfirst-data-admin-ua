@@ -1,0 +1,83 @@
+{
+  "id": 1226611025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05355,50.31395,33.05355,50.31395",
+    "geom:latitude":50.31395,
+    "geom:longitude":33.05355,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kheylivshchyna",
+    "gn:country_code":"UA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706439,
+    "gn:latitude":50.31395,
+    "gn:longitude":33.05355,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kheylivshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kheylovshchina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0439\u043b\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Kheylivshchyna"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u0435\u0439\u043b\u0456\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kheylivshchina",
+        "Kheylovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706439
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b44ae2533fd97fe2d58007673a6c04e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088825,
+            "locality_id":1226611025,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1226611025,
+    "wof:lastmodified":1537711067,
+    "wof:name":"Kheylivshchyna",
+    "wof:parent_id":102088825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05355,
+    50.31395,
+    33.05355,
+    50.31395
+],
+  "geometry": {"coordinates":[33.05355,50.31395],"type":"Point"}
+}

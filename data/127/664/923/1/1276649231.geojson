@@ -1,0 +1,84 @@
+{
+  "id": 1276649231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.93917,48.24951,37.93917,48.24951",
+    "geom:latitude":48.24951,
+    "geom:longitude":37.93917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Stavky",
+    "gn:country_code":"UA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113200,
+    "gn:latitude":48.24951,
+    "gn:longitude":37.93917,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Stavky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Stavky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0430\u0432\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730733,
+        1175613755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113200
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7733ee7476c4e7a87ddcbd6934dd1684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1276649231,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1276649231,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276649231,
+    "wof:lastmodified":1537711849,
+    "wof:name":"Stavky",
+    "wof:parent_id":1175613755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.93917,
+    48.24951,
+    37.93917,
+    48.24951
+],
+  "geometry": {"coordinates":[37.93917,48.24951],"type":"Point"}
+}

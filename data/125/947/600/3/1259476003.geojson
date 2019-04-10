@@ -1,0 +1,87 @@
+{
+  "id": 1259476003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50168,48.83665,37.50168,48.83665",
+    "geom:latitude":48.83665,
+    "geom:longitude":37.50168,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bylbasivka",
+    "gn:country_code":"UA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711016,
+    "gn:latitude":48.83665,
+    "gn:longitude":37.50168,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Bylbasivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bylbasivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0438\u043b\u0431\u0430\u0441\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Belbasovka",
+        "Bylbasovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711016
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"42644fee3782f89e322a2bf9fc34f897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1259476003,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1259476003,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259476003,
+    "wof:lastmodified":1537711283,
+    "wof:name":"Bylbasivka",
+    "wof:parent_id":102088767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50168,
+    48.83665,
+    37.50168,
+    48.83665
+],
+  "geometry": {"coordinates":[37.50168,48.83665],"type":"Point"}
+}

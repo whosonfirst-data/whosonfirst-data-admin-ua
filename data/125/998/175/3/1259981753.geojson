@@ -1,0 +1,73 @@
+{
+  "id": 1259981753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41629,52.01335,32.41629,52.01335",
+    "geom:latitude":52.01335,
+    "geom:longitude":32.41629,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Glukhovshchina",
+    "gn:country_code":"UA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":815395,
+    "gn:latitude":52.01335,
+    "gn:longitude":32.41629,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Glukhovshchina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0445\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Glukhovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":815395
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5a70dcb404aa28bf474c05182c06cf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088677,
+            "locality_id":1259981753,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1259981753,
+    "wof:lastmodified":1537711503,
+    "wof:name":"Glukhovshchina",
+    "wof:parent_id":102088677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41629,
+    52.01335,
+    32.41629,
+    52.01335
+],
+  "geometry": {"coordinates":[32.41629,52.01335],"type":"Point"}
+}

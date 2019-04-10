@@ -1,0 +1,77 @@
+{
+  "id": 1209708389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.84739,47.1948,37.84739,47.1948",
+    "geom:latitude":47.1948,
+    "geom:longitude":37.84739,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novo-Vybrevo",
+    "gn:country_code":"UA",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699025,
+    "gn:latitude":47.1948,
+    "gn:longitude":37.84739,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Novo-Vybrevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699025
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f7153157fa2078f7bfa6ef8e878461ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1209708389,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1209708389,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1209708389,
+    "wof:lastmodified":1536391809,
+    "wof:name":"Novo-Vybrevo",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.84739,
+    47.1948,
+    37.84739,
+    47.1948
+],
+  "geometry": {"coordinates":[37.84739,47.1948],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1293782269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11405,47.78771,38.11405,47.78771",
+    "geom:latitude":47.78771,
+    "geom:longitude":38.11405,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chumaky",
+    "gn:country_code":"UA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705397,
+    "gn:latitude":47.78771,
+    "gn:longitude":38.11405,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Chumaky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chumaky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0443\u043c\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kolomiytsev",
+        "Chumaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705397
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ab8d3d4a7d05dbac6a77b9ce14bb33ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1293782269,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1293782269,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293782269,
+    "wof:lastmodified":1537711011,
+    "wof:name":"Chumaky",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11405,
+    47.78771,
+    38.11405,
+    47.78771
+],
+  "geometry": {"coordinates":[38.11405,47.78771],"type":"Point"}
+}

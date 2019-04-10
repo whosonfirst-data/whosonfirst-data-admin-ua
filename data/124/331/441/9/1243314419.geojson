@@ -1,0 +1,77 @@
+{
+  "id": 1243314419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.83165,50.89081,28.83165,50.89081",
+    "geom:latitude":50.89081,
+    "geom:longitude":28.83165,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bolyarka",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706135,
+    "gn:latitude":50.89081,
+    "gn:longitude":28.83165,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Bolyarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bolyarka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u043b\u044f\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Balyarka",
+        "Khutor Balyarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706135
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7a0697fff8bf993d85964d761e091a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815631,
+            "locality_id":1243314419,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243314419,
+    "wof:lastmodified":1537711049,
+    "wof:name":"Bolyarka",
+    "wof:parent_id":1108815631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.83165,
+    50.89081,
+    28.83165,
+    50.89081
+],
+  "geometry": {"coordinates":[28.83165,50.89081],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343921321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19117,46.04591,29.19117,46.04591",
+    "geom:latitude":46.04591,
+    "geom:longitude":29.19117,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Luzhanka",
+    "gn:country_code":"UA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702559,
+    "gn:latitude":46.04591,
+    "gn:longitude":29.19117,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Luzhanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Luzhanka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u0436\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Katsbakhskaya",
+        "Catzbach",
+        "Katsbakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102087949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702559
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c5f3766a39e297c43615f7157784cdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087949,
+            "locality_id":1343921321,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1343921321,
+    "wof:lastmodified":1537710876,
+    "wof:name":"Luzhanka",
+    "wof:parent_id":102087949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19117,
+    46.04591,
+    29.19117,
+    46.04591
+],
+  "geometry": {"coordinates":[29.19117,46.04591],"type":"Point"}
+}

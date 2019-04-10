@@ -1,0 +1,76 @@
+{
+  "id": 1242860419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89967,50.22235,30.89967,50.22235",
+    "geom:latitude":50.22235,
+    "geom:longitude":30.89967,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Voronkov",
+    "gn:country_code":"UA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689017,
+    "gn:latitude":50.22235,
+    "gn:longitude":30.89967,
+    "gn:modification_date":"2013-02-17",
+    "gn:name":"Voronkov",
+    "gn:population":4000,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Voronkov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u043a\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        1108815647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689017
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3704859fe95d26d599d824317129bdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815647,
+            "locality_id":1242860419,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1242860419,
+    "wof:lastmodified":1537710197,
+    "wof:name":"Voronkov",
+    "wof:parent_id":1108815647,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89967,
+    50.22235,
+    30.89967,
+    50.22235
+],
+  "geometry": {"coordinates":[30.89967,50.22235],"type":"Point"}
+}

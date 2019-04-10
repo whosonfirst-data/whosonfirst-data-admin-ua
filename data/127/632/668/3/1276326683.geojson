@@ -1,0 +1,84 @@
+{
+  "id": 1276326683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06752,47.8675,38.06752,47.8675",
+    "geom:latitude":47.8675,
+    "geom:longitude":38.06752,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nizhnyy Byryuky",
+    "gn:country_code":"UA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9291474,
+    "gn:latitude":47.8675,
+    "gn:longitude":38.06752,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Nizhnyy Byryuky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Nizhnyy Byryuky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0456\u0436\u043d\u0438\u0439 \u0411\u0438\u0440\u044e\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730739,
+        1175613717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9291474
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c50578d325e279d5c05fa286deb27c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730739,
+            "disputed_id":1159339531,
+            "locality_id":1276326683,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730739,
+            "disputed_id":1159339531,
+            "locality_id":1276326683,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276326683,
+    "wof:lastmodified":1537711876,
+    "wof:name":"Nizhnyy Byryuky",
+    "wof:parent_id":1175613717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06752,
+    47.8675,
+    38.06752,
+    47.8675
+],
+  "geometry": {"coordinates":[38.06752,47.8675],"type":"Point"}
+}

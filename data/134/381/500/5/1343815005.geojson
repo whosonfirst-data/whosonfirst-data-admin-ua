@@ -1,0 +1,76 @@
+{
+  "id": 1343815005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3569,48.35316,22.3569,48.35316",
+    "geom:latitude":48.35316,
+    "geom:longitude":22.3569,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Badiv",
+    "gn:country_code":"UA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252602,
+    "gn:latitude":48.35316,
+    "gn:longitude":22.3569,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Badiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Uzhgorod",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Badiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0434\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Badov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        1108815635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252602
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a72d5949b479fc8990be6fb215053dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815635,
+            "locality_id":1343815005,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1343815005,
+    "wof:lastmodified":1537711600,
+    "wof:name":"Badiv",
+    "wof:parent_id":1108815635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3569,
+    48.35316,
+    22.3569,
+    48.35316
+],
+  "geometry": {"coordinates":[22.3569,48.35316],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101860635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.905236,48.567175,24.905236,48.567175",
+    "geom:latitude":48.567175,
+    "geom:longitude":24.905236,
+    "iso:country":"UA",
+    "lbl:latitude":48.567175,
+    "lbl:longitude":24.905236,
+    "mps:latitude":48.567175,
+    "mps:longitude":24.905236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u043b\u043e\u043c\u0438\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kolomyis'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043d\u044f\u0436\u0434\u0432\u0456\u0440",
+    "qs:loc_alt":"Kniazhdvir",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        1108815661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":930287,
+        "qs:id":5,
+        "wd:id":"Q1035599"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"87aa8ecedd409d672d6ebc3f8732368b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815661,
+            "locality_id":101860635,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101860635,
+    "wof:lastmodified":1544745540,
+    "wof:name":"\u041a\u043d\u044f\u0436\u0434\u0432\u0456\u0440",
+    "wof:parent_id":1108815661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.905236,
+    48.567175,
+    24.905236,
+    48.567175
+],
+  "geometry": {"coordinates":[24.905236,48.567175],"type":"Point"}
+}

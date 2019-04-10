@@ -1,0 +1,67 @@
+{
+  "id": 1243601735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26667,47.33333,36.26667,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":36.26667,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ukraina",
+    "gn:country_code":"UA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690792,
+    "gn:latitude":47.33333,
+    "gn:longitude":36.26667,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ukraina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690792
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a87ba4f4fd8ee7943618820c7d34115c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088369,
+            "locality_id":1243601735,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1243601735,
+    "wof:lastmodified":1537075610,
+    "wof:name":"Ukraina",
+    "wof:parent_id":102088369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26667,
+    47.33333,
+    36.26667,
+    47.33333
+],
+  "geometry": {"coordinates":[36.26667,47.33333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310499715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.7,48.01667,38.7,48.01667",
+    "geom:latitude":48.01667,
+    "geom:longitude":38.7,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Boldyrevo",
+    "gn:country_code":"UA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711851,
+    "gn:latitude":48.01667,
+    "gn:longitude":38.7,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Boldyrevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815963,
+        1175613747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711851
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b3e9f02a473ab5851c890e1c74403ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815963,
+            "disputed_id":1159339531,
+            "locality_id":1310499715,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815963,
+            "disputed_id":1159339531,
+            "locality_id":1310499715,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310499715,
+    "wof:lastmodified":1536925995,
+    "wof:name":"Boldyrevo",
+    "wof:parent_id":1175613747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7,
+    48.01667,
+    38.7,
+    48.01667
+],
+  "geometry": {"coordinates":[38.7,48.01667],"type":"Point"}
+}

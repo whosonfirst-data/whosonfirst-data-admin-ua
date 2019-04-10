@@ -1,0 +1,76 @@
+{
+  "id": 1360135679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.22074,50.23318,28.22074,50.23318",
+    "geom:latitude":50.23318,
+    "geom:longitude":28.22074,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Pokostivka",
+    "gn:country_code":"UA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696744,
+    "gn:latitude":50.23318,
+    "gn:longitude":28.22074,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Pokostivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pokostivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u043a\u043e\u0441\u0442\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pokostovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696744
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3b34c399064ae258eb0481a76ff1a6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815629,
+            "locality_id":1360135679,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1360135679,
+    "wof:lastmodified":1537710574,
+    "wof:name":"Pokostivka",
+    "wof:parent_id":1108815629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.22074000000001,
+    50.23318,
+    28.22074000000001,
+    50.23318
+],
+  "geometry": {"coordinates":[28.22074000000001,50.23318],"type":"Point"}
+}

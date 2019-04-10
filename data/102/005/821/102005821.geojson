@@ -1,0 +1,73 @@
+{
+  "id": 102005821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000308,
+    "geom:area_square_m":2380289.264413,
+    "geom:bbox":"34.4669456482,51.2420272827,34.5137214661,51.2598609924",
+    "geom:latitude":51.250836,
+    "geom:longitude":34.492798,
+    "iso:country":"UA",
+    "lbl:latitude":51.251148,
+    "lbl:longitude":34.493152,
+    "mps:latitude":51.251148,
+    "mps:longitude":34.493152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1r":"*",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"NOVO-YELENOVKA",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688011,
+        102191581,
+        85632685,
+        874393555,
+        1108733595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699003,
+        "gp:id":2107582
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4a601a3428c06b7425f9c05da2f458d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108733595,
+            "empire_id":874393555,
+            "locality_id":102005821,
+            "region_id":85688011
+        }
+    ],
+    "wof:id":102005821,
+    "wof:lastmodified":1500065181,
+    "wof:name":"Novo-Yelenovka",
+    "wof:parent_id":1108733595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46694564819336,
+    51.24202728271484,
+    34.51372146606445,
+    51.25986099243164
+],
+  "geometry": {"coordinates":[[[34.4993896484375,51.24850082397461],[34.46913909912109,51.24202728271484],[34.46694564819336,51.24502944946289],[34.50052642822266,51.25797271728516],[34.50752639770508,51.25986099243164],[34.51372146606445,51.25386047363281],[34.51344299316406,51.25255584716797],[34.51044464111328,51.25125122070312],[34.4993896484375,51.24850082397461]]],"type":"Polygon"}
+}

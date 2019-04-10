@@ -1,0 +1,96 @@
+{
+  "id": 101861201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.781225,49.352796,24.781225,49.352796",
+    "geom:latitude":49.352796,
+    "geom:longitude":24.781225,
+    "iso:country":"UA",
+    "lbl:latitude":49.352796,
+    "lbl:longitude":24.781225,
+    "mps:latitude":49.352796,
+    "mps:longitude":24.781225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043f\u0456\u0446\u043a\u0430\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Cultura Lipi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u0438\u0446\u043a\u0430\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u0438\u0446\u044c\u043a\u0430 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lipitsa Gurna"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u0433\u0430\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rohatyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u0440\u0445\u043d\u044f \u041b\u0438\u043f\u0438\u0446\u044f",
+    "qs:loc_alt":"Verkhnia Lypytsia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":858,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689843,
+        "gp:id":935810,
+        "qs:id":3,
+        "wd:id":"Q2599285"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2fb109be556a60af5394643d5c3ce909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088281,
+            "locality_id":101861201,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101861201,
+    "wof:lastmodified":1544745840,
+    "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u041b\u0438\u043f\u0438\u0446\u044f",
+    "wof:parent_id":102088281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.781225,
+    49.352796,
+    24.781225,
+    49.352796
+],
+  "geometry": {"coordinates":[24.781225,49.352796],"type":"Point"}
+}

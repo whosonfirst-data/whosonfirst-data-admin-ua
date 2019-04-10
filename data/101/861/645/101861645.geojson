@@ -1,0 +1,78 @@
+{
+  "id": 101861645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.155432,48.874065,25.155432,48.874065",
+    "geom:latitude":48.874065,
+    "geom:longitude":25.155432,
+    "iso:country":"UA",
+    "lbl:latitude":48.874065,
+    "lbl:longitude":25.155432,
+    "mps:latitude":48.874065,
+    "mps:longitude":25.155432,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ternopil's'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Monastyrys'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u0438\u0433\u043b\u044f\u0434\u0438",
+    "qs:loc_alt":"Horyhliady",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":936112
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"72a6f94fe0b660d722a4681090e2ed06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088211,
+            "locality_id":101861645,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":101861645,
+    "wof:lastmodified":1544746073,
+    "wof:name":"\u0413\u043e\u0440\u0438\u0433\u043b\u044f\u0434\u0438",
+    "wof:parent_id":102088211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.155432,
+    48.874065,
+    25.155432,
+    48.874065
+],
+  "geometry": {"coordinates":[25.155432,48.874065],"type":"Point"}
+}

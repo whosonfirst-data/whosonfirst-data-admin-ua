@@ -1,0 +1,81 @@
+{
+  "id": 1125864591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.03333,50.81667,27.03333,50.81667",
+    "geom:latitude":50.81667,
+    "geom:longitude":27.03333,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3642,
+    "gn:population":3642,
+    "iso:country":"UA",
+    "lbl:latitude":50.81667,
+    "lbl:longitude":27.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Zastav\u2019ye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705307,
+    "qs_pg:gn_pop":3642,
+    "qs_pg:name":"Koloniya Zastav\u2019ye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128629,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705307,
+        "qs_pg:id":128629
+    },
+    "wof:country":"UA",
+    "wof:created":1497293976,
+    "wof:geomhash":"e75544498b1d67266709c5e2e3683edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815693,
+            "locality_id":1125864591,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1125864591,
+    "wof:lastmodified":1509396873,
+    "wof:name":"Koloniya Zastav\u2019ye",
+    "wof:parent_id":1108815693,
+    "wof:placetype":"locality",
+    "wof:population":3642,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.03333,
+    50.81667,
+    27.03333,
+    50.81667
+],
+  "geometry": {"coordinates":[27.03333,50.81667],"type":"Point"}
+}

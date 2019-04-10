@@ -1,0 +1,76 @@
+{
+  "id": 1293891297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44165,50.70068,32.44165,50.70068",
+    "geom:latitude":50.70068,
+    "geom:longitude":32.44165,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tarasivka",
+    "gn:country_code":"UA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530275,
+    "gn:latitude":50.70068,
+    "gn:longitude":32.44165,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Tarasivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Tarasivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u0440\u0430\u0441\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tarasovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530275
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2d1c55053ae44ff0be02fb40738d9177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088931,
+            "locality_id":1293891297,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293891297,
+    "wof:lastmodified":1537711747,
+    "wof:name":"Tarasivka",
+    "wof:parent_id":102088931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.44165,
+    50.70068,
+    32.44165,
+    50.70068
+],
+  "geometry": {"coordinates":[32.44165,50.70068],"type":"Point"}
+}

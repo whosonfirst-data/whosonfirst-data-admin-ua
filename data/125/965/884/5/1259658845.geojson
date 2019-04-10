@@ -1,0 +1,77 @@
+{
+  "id": 1259658845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5911,50.57499,26.5911,50.57499",
+    "geom:latitude":50.57499,
+    "geom:longitude":26.5911,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tomakhiv",
+    "gn:country_code":"UA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":691437,
+    "gn:latitude":50.57499,
+    "gn:longitude":26.5911,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tomakhiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Tomakhiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043c\u0430\u0445\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Tolmashuv",
+        "Tomakhov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691437
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dbfc9bd4ad6dd9bda406a3f0db3abcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088659,
+            "locality_id":1259658845,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1259658845,
+    "wof:lastmodified":1537710324,
+    "wof:name":"Tomakhiv",
+    "wof:parent_id":102088659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5911,
+    50.57499,
+    26.5911,
+    50.57499
+],
+  "geometry": {"coordinates":[26.5911,50.57499],"type":"Point"}
+}

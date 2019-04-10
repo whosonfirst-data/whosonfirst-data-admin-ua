@@ -1,0 +1,73 @@
+{
+  "id": 1226521321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12897,51.36846,30.12897,51.36846",
+    "geom:latitude":51.36846,
+    "geom:longitude":30.12897,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nahortsi",
+    "gn:country_code":"UA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":11550168,
+    "gn:latitude":51.36846,
+    "gn:longitude":30.12897,
+    "gn:modification_date":"2017-05-27",
+    "gn:name":"Nahortsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_historical":[
+        "\u041d\u0430\u0433\u043e\u0440\u0446\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u0446\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550168
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a257329c24cb177cc4c883aab1c496e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088927,
+            "locality_id":1226521321,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1226521321,
+    "wof:lastmodified":1537712049,
+    "wof:name":"Nahortsi",
+    "wof:parent_id":102088927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12897,
+    51.36846,
+    30.12897,
+    51.36846
+],
+  "geometry": {"coordinates":[30.12897,51.36846],"type":"Point"}
+}

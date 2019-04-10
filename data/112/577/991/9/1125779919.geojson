@@ -1,0 +1,90 @@
+{
+  "id": 1125779919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.24822,48.92503,38.24822,48.92503",
+    "geom:latitude":48.92503,
+    "geom:longitude":38.24822,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1142,
+    "gn:population":1142,
+    "iso:country":"UA",
+    "lbl:latitude":48.92503,
+    "lbl:longitude":38.24822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Belogorovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Bilohorivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u043e\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":712588,
+    "qs_pg:gn_pop":1142,
+    "qs_pg:name":"Belogorovka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128837,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712588,
+        "qs_pg:id":128837
+    },
+    "wof:country":"UA",
+    "wof:created":1497290422,
+    "wof:geomhash":"c8a414d7a517d04c203628930a1e5624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088803,
+            "locality_id":1125779919,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125779919,
+    "wof:lastmodified":1509391490,
+    "wof:name":"Belogorovka",
+    "wof:parent_id":102088803,
+    "wof:placetype":"locality",
+    "wof:population":1142,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.24822,
+    48.92503,
+    38.24822,
+    48.92503
+],
+  "geometry": {"coordinates":[38.24822,48.92503],"type":"Point"}
+}

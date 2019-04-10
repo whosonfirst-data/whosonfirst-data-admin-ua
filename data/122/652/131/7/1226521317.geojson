@@ -1,0 +1,76 @@
+{
+  "id": 1226521317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06147,50.29321,32.06147,50.29321",
+    "geom:latitude":50.29321,
+    "geom:longitude":32.06147,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hodunivka",
+    "gn:country_code":"UA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708650,
+    "gn:latitude":50.29321,
+    "gn:longitude":32.06147,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Hodunivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hodunivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u0434\u0443\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Godunovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708650
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e6070adf9ca4b3893ba59ecf24726ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088781,
+            "locality_id":1226521317,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1226521317,
+    "wof:lastmodified":1537711169,
+    "wof:name":"Hodunivka",
+    "wof:parent_id":102088781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06147,
+    50.29321,
+    32.06147,
+    50.29321
+],
+  "geometry": {"coordinates":[32.06147,50.29321],"type":"Point"}
+}

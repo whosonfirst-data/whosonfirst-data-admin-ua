@@ -1,0 +1,66 @@
+{
+  "id": 1209373121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53543,50.11801,25.53543,50.11801",
+    "geom:latitude":50.11801,
+    "geom:longitude":25.53543,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gryada",
+    "gn:country_code":"UA",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707952,
+    "gn:latitude":50.11801,
+    "gn:longitude":25.53543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gryada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grada",
+        "Hrada",
+        "Gryada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707952
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c15d86a91111d5dc569293d2fd1a3a76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209373121
+        }
+    ],
+    "wof:id":1209373121,
+    "wof:lastmodified":1537711135,
+    "wof:name":"Gryada",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53543,
+    50.11801,
+    25.53543,
+    50.11801
+],
+  "geometry": {"coordinates":[25.53543,50.11801],"type":"Point"}
+}

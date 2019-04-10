@@ -1,0 +1,98 @@
+{
+  "id": 101871077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.193315,50.080667,35.193315,50.080667",
+    "geom:latitude":50.080667,
+    "geom:longitude":35.193315,
+    "gn:population":8008,
+    "iso:country":"UA",
+    "lbl:latitude":50.080667,
+    "lbl:longitude":35.193315,
+    "mps:latitude":50.080667,
+    "mps:longitude":35.193315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnokutsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "Krasnokuts\u2019k"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Krasnokutsk"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnokuts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a",
+    "qs:loc_alt":"Krasnokuts'k",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        1108815731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704376,
+        "gp:id":924093,
+        "qs:id":552606
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2a77f09e3a43b85ee9c6085b0f7076a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815731,
+            "locality_id":101871077,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101871077,
+    "wof:lastmodified":1544750941,
+    "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a",
+    "wof:parent_id":1108815731,
+    "wof:placetype":"locality",
+    "wof:population":8008,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.193315,
+    50.080667,
+    35.193315,
+    50.080667
+],
+  "geometry": {"coordinates":[35.193315,50.080667],"type":"Point"}
+}

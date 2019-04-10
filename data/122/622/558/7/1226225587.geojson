@@ -1,0 +1,67 @@
+{
+  "id": 1226225587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,49.26667,39.6,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kirovo",
+    "gn:country_code":"UA",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705816,
+    "gn:latitude":49.26667,
+    "gn:longitude":39.6,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Kirovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705816
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"050f8a3068df6486d3e930bbedceaefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088933,
+            "locality_id":1226225587,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1226225587,
+    "wof:lastmodified":1536962579,
+    "wof:name":"Kirovo",
+    "wof:parent_id":102088933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    49.26667,
+    39.6,
+    49.26667
+],
+  "geometry": {"coordinates":[39.6,49.26667],"type":"Point"}
+}

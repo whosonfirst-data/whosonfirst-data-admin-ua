@@ -1,0 +1,76 @@
+{
+  "id": 1293509967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18263,49.67609,36.18263,49.67609",
+    "geom:latitude":49.67609,
+    "geom:longitude":36.18263,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vylivka",
+    "gn:country_code":"UA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689582,
+    "gn:latitude":49.67609,
+    "gn:longitude":36.18263,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Vylivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689582
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dcc5d1d6130b3bdf97f46c9c62ae9787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088859,
+            "locality_id":1293509967,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1293509967,
+    "wof:lastmodified":1537710230,
+    "wof:name":"Vylivka",
+    "wof:parent_id":102088859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18263,
+    49.67609,
+    36.18263,
+    49.67609
+],
+  "geometry": {"coordinates":[36.18263,49.67609],"type":"Point"}
+}

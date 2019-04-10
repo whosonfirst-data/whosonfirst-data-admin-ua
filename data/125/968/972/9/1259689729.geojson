@@ -1,0 +1,67 @@
+{
+  "id": 1259689729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7,49.03333,34.7,49.03333",
+    "geom:latitude":49.03333,
+    "geom:longitude":34.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pavlovka",
+    "gn:country_code":"UA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697847,
+    "gn:latitude":49.03333,
+    "gn:longitude":34.7,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Pavlovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697847
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ae2ebd52a6675d57675cdef089e8f522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088613,
+            "locality_id":1259689729,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1259689729,
+    "wof:lastmodified":1537055554,
+    "wof:name":"Pavlovka",
+    "wof:parent_id":102088613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7,
+    49.03333,
+    34.7,
+    49.03333
+],
+  "geometry": {"coordinates":[34.7,49.03333],"type":"Point"}
+}

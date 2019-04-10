@@ -1,0 +1,77 @@
+{
+  "id": 1243321003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05103,51.38934,24.05103,51.38934",
+    "geom:latitude":51.38934,
+    "geom:longitude":24.05103,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Humentsi",
+    "gn:country_code":"UA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707889,
+    "gn:latitude":51.38934,
+    "gn:longitude":24.05103,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Humentsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Humentsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0443\u043c\u0435\u043d\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Gumen\u2019tse",
+        "Gumentsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707889
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b3bdacd4d1d389c2b2f9c6ff7e297a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088727,
+            "locality_id":1243321003,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1243321003,
+    "wof:lastmodified":1537711131,
+    "wof:name":"Humentsi",
+    "wof:parent_id":102088727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05103,
+    51.38934,
+    24.05103,
+    51.38934
+],
+  "geometry": {"coordinates":[24.05103,51.38934],"type":"Point"}
+}

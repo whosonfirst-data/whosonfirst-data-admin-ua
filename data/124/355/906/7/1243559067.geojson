@@ -1,0 +1,81 @@
+{
+  "id": 1243559067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.43333,47.7,38.43333,47.7",
+    "geom:latitude":47.7,
+    "geom:longitude":38.43333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zadorozhnyy",
+    "gn:country_code":"UA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687916,
+    "gn:latitude":47.7,
+    "gn:longitude":38.43333,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zadorozhnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zadorozhny",
+        "Zadorozhnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687916
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fee349ac80e23b822b8d2180d3653993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1243559067,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1243559067,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243559067,
+    "wof:lastmodified":1537710136,
+    "wof:name":"Zadorozhnyy",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.43333,
+    47.7,
+    38.43333,
+    47.7
+],
+  "geometry": {"coordinates":[38.43333,47.7],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276877261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49228,48.16499,37.49228,48.16499",
+    "geom:latitude":48.16499,
+    "geom:longitude":37.49228,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Skuchne",
+    "gn:country_code":"UA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112869,
+    "gn:latitude":48.16499,
+    "gn:longitude":37.49228,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Skuchne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Skuchne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043a\u0443\u0447\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112869
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"92841b61e005c5968622f7fe80218801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1276877261,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1276877261,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276877261,
+    "wof:lastmodified":1537711846,
+    "wof:name":"Skuchne",
+    "wof:parent_id":1108815751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49228,
+    48.16499,
+    37.49228,
+    48.16499
+],
+  "geometry": {"coordinates":[37.49228,48.16499],"type":"Point"}
+}

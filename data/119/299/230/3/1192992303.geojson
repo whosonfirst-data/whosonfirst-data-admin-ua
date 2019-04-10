@@ -1,0 +1,76 @@
+{
+  "id": 1192992303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49115,51.48997,33.49115,51.48997",
+    "geom:latitude":51.48997,
+    "geom:longitude":33.49115,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kubakhove",
+    "gn:country_code":"UA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220018,
+    "gn:latitude":51.48997,
+    "gn:longitude":33.49115,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kubakhove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kubakhove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u0431\u0430\u0445\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kubakhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102089003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220018
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bb7fb7a389f9476bae737d3f4afe175a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089003,
+            "locality_id":1192992303,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1192992303,
+    "wof:lastmodified":1537711580,
+    "wof:name":"Kubakhove",
+    "wof:parent_id":102089003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49115,
+    51.48997,
+    33.49115,
+    51.48997
+],
+  "geometry": {"coordinates":[33.49115,51.48997],"type":"Point"}
+}

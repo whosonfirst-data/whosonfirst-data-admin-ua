@@ -1,0 +1,96 @@
+{
+  "id": 1125856079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28581,48.0571,33.28581,48.0571",
+    "geom:latitude":48.0571,
+    "geom:longitude":33.28581,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6412,
+    "gn:population":6412,
+    "iso:country":"UA",
+    "lbl:latitude":48.0571,
+    "lbl:longitude":33.28581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Lozuvatka"
+    ],
+    "name:eng_x_variant":[
+        "Lozovatka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u0437\u0443\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u0443\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lozovatka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":702774,
+    "qs_pg:gn_pop":6412,
+    "qs_pg:name":"Lozuvatka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128530,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702774,
+        "qs_pg:id":128530
+    },
+    "wof:country":"UA",
+    "wof:created":1497293624,
+    "wof:geomhash":"f6dc3b7a36675857b1c3be83dbb8b155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815739,
+            "locality_id":1125856079,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1125856079,
+    "wof:lastmodified":1509396224,
+    "wof:name":"Lozuvatka",
+    "wof:parent_id":1108815739,
+    "wof:placetype":"locality",
+    "wof:population":6412,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28581,
+    48.0571,
+    33.28581,
+    48.0571
+],
+  "geometry": {"coordinates":[33.28581,48.0571],"type":"Point"}
+}

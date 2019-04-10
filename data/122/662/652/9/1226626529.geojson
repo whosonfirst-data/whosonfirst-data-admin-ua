@@ -1,0 +1,101 @@
+{
+  "id": 1226626529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48138,45.80396,33.48138,45.80396",
+    "geom:latitude":45.80396,
+    "geom:longitude":33.48138,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"695741",
+    "gn:admin3_code":"11153041.0",
+    "gn:asciiname":"Kropotkino",
+    "gn:country_code":"UA",
+    "gn:dem":9,
+    "gn:elevation":"9.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708842,
+    "gn:latitude":45.80396,
+    "gn:longitude":33.48138,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Kropotkino",
+    "gn:population":882,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kropotkino"
+    ],
+    "name:rus_x_historical":[
+        "\u0422\u043e\u043a-\u0428\u0435\u0439\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043e\u043f\u043e\u0442\u043a\u0438\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u043a-\u0428\u0435\u0439\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u043e\u043f\u043e\u0442\u043a\u0456\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708842
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bc6636cf1a1100a67a9df5ebf51ed47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1226626529,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1226626529,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1226626529,
+    "wof:lastmodified":1537711179,
+    "wof:name":"Kropotkino",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:population":882,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48138,
+    45.80396,
+    33.48138,
+    45.80396
+],
+  "geometry": {"coordinates":[33.48138,45.80396],"type":"Point"}
+}

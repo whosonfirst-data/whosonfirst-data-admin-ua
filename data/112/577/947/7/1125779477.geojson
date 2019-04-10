@@ -1,0 +1,109 @@
+{
+  "id": 1125779477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25816,48.43988,23.25816,48.43988",
+    "geom:latitude":48.43988,
+    "geom:longitude":23.25816,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4508,
+    "gn:population":4508,
+    "iso:country":"UA",
+    "lbl:latitude":48.43988,
+    "lbl:longitude":23.25816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0582\u0577\u0576\u056b\u0581\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u4ec0\u5c3c\u9f4a\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Kov\u00e1csr\u00e9t"
+    ],
+    "name:eng_x_preferred":[
+        "Kushnitsia"
+    ],
+    "name:epo_x_preferred":[
+        "Ku\u015dnicja"
+    ],
+    "name:hun_x_preferred":[
+        "Kov\u00e1csr\u00e9t"
+    ],
+    "name:rum_x_preferred":[
+        "Ku\u0219n\u00ee\u021bea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u043d\u0438\u0446\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0448\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Kushnitse"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":703559,
+    "qs_pg:gn_pop":4508,
+    "qs_pg:name":"Kushnytsya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128577,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703559,
+        "qs_pg:id":128577,
+        "wd:id":"Q750931"
+    },
+    "wof:country":"UA",
+    "wof:created":1497290406,
+    "wof:geomhash":"fa8a118dfa2d15833dadd5df7579f962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088027,
+            "locality_id":1125779477,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1125779477,
+    "wof:lastmodified":1553816528,
+    "wof:name":"Kushnytsya",
+    "wof:parent_id":102088027,
+    "wof:placetype":"locality",
+    "wof:population":4508,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25816,
+    48.43988,
+    23.25816,
+    48.43988
+],
+  "geometry": {"coordinates":[23.25816,48.43988],"type":"Point"}
+}

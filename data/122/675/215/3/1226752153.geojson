@@ -1,0 +1,87 @@
+{
+  "id": 1226752153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34222,46.9575,37.34222,46.9575",
+    "geom:latitude":46.9575,
+    "geom:longitude":37.34222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Azovs'ke",
+    "gn:country_code":"UA",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692602,
+    "gn:latitude":46.9575,
+    "gn:longitude":37.34222,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Azovs\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Azovs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u0437\u043e\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Stepanovka",
+        "Azovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692602
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e6d10afaf21796639eb8342eb846c96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1226752153,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1226752153,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226752153,
+    "wof:lastmodified":1537710375,
+    "wof:name":"Azovs'ke",
+    "wof:parent_id":102088329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34222000000001,
+    46.9575,
+    37.34222000000001,
+    46.9575
+],
+  "geometry": {"coordinates":[37.34222000000001,46.9575],"type":"Point"}
+}

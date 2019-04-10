@@ -1,0 +1,76 @@
+{
+  "id": 1209823149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11722,51.37981,31.11722,51.37981",
+    "geom:latitude":51.37981,
+    "geom:longitude":31.11722,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yakubivka",
+    "gn:country_code":"UA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688548,
+    "gn:latitude":51.37981,
+    "gn:longitude":31.11722,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Yakubivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yakubivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u043a\u0443\u0431\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yakubovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688548
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"edd7e4bf57d0cb4e6a036f82284f6901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815729,
+            "locality_id":1209823149,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1209823149,
+    "wof:lastmodified":1537710169,
+    "wof:name":"Yakubivka",
+    "wof:parent_id":1108815729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11722,
+    51.37981,
+    31.11722,
+    51.37981
+],
+  "geometry": {"coordinates":[31.11722,51.37981],"type":"Point"}
+}

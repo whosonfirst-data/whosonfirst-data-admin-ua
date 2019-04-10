@@ -1,0 +1,76 @@
+{
+  "id": 1210018589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00439,50.66831,33.00439,50.66831",
+    "geom:latitude":50.66831,
+    "geom:longitude":33.00439,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lozove",
+    "gn:country_code":"UA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559732,
+    "gn:latitude":50.66831,
+    "gn:longitude":33.00439,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Lozove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lozove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u043e\u0437\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lozovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559732
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7d28ca0b5f3be17fe675423b47b24ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088893,
+            "locality_id":1210018589,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1210018589,
+    "wof:lastmodified":1537711757,
+    "wof:name":"Lozove",
+    "wof:parent_id":102088893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00439,
+    50.66831,
+    33.00439,
+    50.66831
+],
+  "geometry": {"coordinates":[33.00439,50.66831],"type":"Point"}
+}

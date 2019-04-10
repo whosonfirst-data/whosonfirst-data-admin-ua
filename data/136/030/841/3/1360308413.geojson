@@ -1,0 +1,76 @@
+{
+  "id": 1360308413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81495,48.70799,34.81495,48.70799",
+    "geom:latitude":48.70799,
+    "geom:longitude":34.81495,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ulyanivka",
+    "gn:country_code":"UA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533111,
+    "gn:latitude":48.70799,
+    "gn:longitude":34.81495,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Ulyanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ul\u2019yanovka"
+    ],
+    "name:ukr_x_preferred":[
+        "Ulyanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533111
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b5797418c64f81673c2a6db661d2ac3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088567,
+            "locality_id":1360308413,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1360308413,
+    "wof:lastmodified":1537711886,
+    "wof:name":"Ulyanivka",
+    "wof:parent_id":102088567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81495,
+    48.70799,
+    34.81495,
+    48.70799
+],
+  "geometry": {"coordinates":[34.81495,48.70799],"type":"Point"}
+}

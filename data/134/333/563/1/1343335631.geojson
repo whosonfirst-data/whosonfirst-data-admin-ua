@@ -1,0 +1,76 @@
+{
+  "id": 1343335631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81808,50.83743,33.81808,50.83743",
+    "geom:latitude":50.83743,
+    "geom:longitude":33.81808,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bereznyaky",
+    "gn:country_code":"UA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563625,
+    "gn:latitude":50.83743,
+    "gn:longitude":33.81808,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Bereznyaky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bereznyaky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0437\u043d\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bereznyaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563625
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"112ef479d64eccc3ca4ef2a59466ef2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088963,
+            "locality_id":1343335631,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1343335631,
+    "wof:lastmodified":1537711767,
+    "wof:name":"Bereznyaky",
+    "wof:parent_id":102088963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81808,
+    50.83743,
+    33.81808,
+    50.83743
+],
+  "geometry": {"coordinates":[33.81808,50.83743],"type":"Point"}
+}

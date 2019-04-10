@@ -1,0 +1,101 @@
+{
+  "id": 101858771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.318191,45.618281,34.318191,45.618281",
+    "geom:latitude":45.618281,
+    "geom:longitude":34.318191,
+    "iso:country":"UA",
+    "lbl:latitude":45.618281,
+    "lbl:longitude":34.318191,
+    "mps:latitude":45.618281,
+    "mps:longitude":34.318191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yarkoye Pole"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u043a\u043e\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u043a\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Dzhankois'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042f\u0440\u043a\u0435 \u041f\u043e\u043b\u0435",
+    "qs:loc_alt":"Yarke Pole",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688445,
+        "gp:id":12518314,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"38fb1656e0b6316e95caf4a7554eefa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858771,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":101858771,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858771,
+    "wof:lastmodified":1544744572,
+    "wof:name":"\u042f\u0440\u043a\u0435 \u041f\u043e\u043b\u0435",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.318191,
+    45.618281,
+    34.318191,
+    45.618281
+],
+  "geometry": {"coordinates":[34.318191,45.618281],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101869689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.570051,48.76958,37.570051,48.76958",
+    "geom:latitude":48.76958,
+    "geom:longitude":37.570051,
+    "iso:country":"UA",
+    "lbl:latitude":48.76958,
+    "lbl:longitude":37.570051,
+    "mps:latitude":48.76958,
+    "mps:longitude":37.570051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0545\u0561\u057d\u0576\u0578\u0563\u0578\u0580\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u65af\u8afe\u5409\u723e\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Yasnogorka"
+    ],
+    "name:ger_x_preferred":[
+        "Jasnohirka"
+    ],
+    "name:lav_x_preferred":[
+        "Jasnohirka"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u043d\u043e\u0433\u043e\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Yasnohirka"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0441\u043d\u043e\u0433\u0456\u0440\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Yasnaya Gorka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043b\u043e\u0432'\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Slovyans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042f\u0441\u043d\u043e\u0433\u0456\u0440\u043a\u0430",
+    "qs:loc_alt":"Yasnohirka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688345,
+        "gp:id":939016,
+        "wd:id":"Q4539379"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b26dffb02b1f7a6ee3b9c9644babcce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730729,
+            "disputed_id":1159339531,
+            "locality_id":101869689,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730729,
+            "disputed_id":1159339531,
+            "locality_id":101869689,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101869689,
+    "wof:lastmodified":1544750412,
+    "wof:name":"\u042f\u0441\u043d\u043e\u0433\u0456\u0440\u043a\u0430",
+    "wof:parent_id":1108730729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.570051,
+    48.76958,
+    37.570051,
+    48.76958
+],
+  "geometry": {"coordinates":[37.570051,48.76958],"type":"Point"}
+}

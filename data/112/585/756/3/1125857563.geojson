@@ -1,0 +1,93 @@
+{
+  "id": 1125857563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19978,51.38494,30.19978,51.38494",
+    "geom:latitude":51.38494,
+    "geom:longitude":30.19978,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPLQ",
+    "gn:gn_pop":3461,
+    "gn:population":3461,
+    "iso:country":"UA",
+    "lbl:latitude":51.38494,
+    "lbl:longitude":30.19978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Krivaya Gora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430\u044f \u0413\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Kryva Hora"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Krivaya Gora"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPLQ",
+    "qs_pg:gn_id":704048,
+    "qs_pg:gn_pop":3461,
+    "qs_pg:name":"Kryva Hora",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704048,
+        "qs_pg:id":275508
+    },
+    "wof:country":"UA",
+    "wof:created":1497293683,
+    "wof:geomhash":"e367d098ab158e15b637cfeeaa4432ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088927,
+            "locality_id":1125857563,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1125857563,
+    "wof:lastmodified":1509396334,
+    "wof:name":"Kryva Hora",
+    "wof:parent_id":102088927,
+    "wof:placetype":"locality",
+    "wof:population":3461,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19978,
+    51.38494,
+    30.19978,
+    51.38494
+],
+  "geometry": {"coordinates":[30.19978,51.38494],"type":"Point"}
+}

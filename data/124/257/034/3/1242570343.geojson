@@ -1,0 +1,87 @@
+{
+  "id": 1242570343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24683,47.19558,37.24683,47.19558",
+    "geom:latitude":47.19558,
+    "geom:longitude":37.24683,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pannivka",
+    "gn:country_code":"UA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698011,
+    "gn:latitude":47.19558,
+    "gn:longitude":37.24683,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Pannivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pannivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u043d\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Panovka",
+        "Pannovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698011
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"eefc072171866da2e17f2a18ebea033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1242570343,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1242570343,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1242570343,
+    "wof:lastmodified":1537710639,
+    "wof:name":"Pannivka",
+    "wof:parent_id":102088371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24683,
+    47.19558,
+    37.24683,
+    47.19558
+],
+  "geometry": {"coordinates":[37.24683,47.19558],"type":"Point"}
+}

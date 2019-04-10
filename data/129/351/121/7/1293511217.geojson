@@ -1,0 +1,76 @@
+{
+  "id": 1293511217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51023,48.79334,24.51023,48.79334",
+    "geom:latitude":48.79334,
+    "geom:longitude":24.51023,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lyakhovtsy",
+    "gn:country_code":"UA",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696935,
+    "gn:latitude":48.79334,
+    "gn:longitude":24.51023,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lyakhovtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bystritsa",
+        "Podgor\u2019ye",
+        "Bystrytsya",
+        "Pidgir\u201dya",
+        "Lyakhovtse",
+        "Lyakhovtsy",
+        "Pidhir\u201dya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696935
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f8d598728e9fbe0d8be4fc4e1cd657dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088115,
+            "locality_id":1293511217,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1293511217,
+    "wof:lastmodified":1537710584,
+    "wof:name":"Lyakhovtsy",
+    "wof:parent_id":102088115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51023,
+    48.79334,
+    24.51023,
+    48.79334
+],
+  "geometry": {"coordinates":[24.51023,48.79334],"type":"Point"}
+}

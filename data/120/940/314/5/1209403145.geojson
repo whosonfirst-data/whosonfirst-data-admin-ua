@@ -1,0 +1,72 @@
+{
+  "id": 1209403145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98189,48.88069,31.98189,48.88069",
+    "geom:latitude":48.88069,
+    "geom:longitude":31.98189,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Krasnoselka",
+    "gn:cc2":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704331,
+    "gn:latitude":48.88069,
+    "gn:longitude":31.98189,
+    "gn:modification_date":"2011-01-24",
+    "gn:name":"Krasnos\u00eblka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnos\u00eblka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krasnosilka",
+        "Krasnos\u00eblka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704331
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3bb9900e3642d6536e399debcc8ad3ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209403145
+        }
+    ],
+    "wof:id":1209403145,
+    "wof:lastmodified":1537710961,
+    "wof:name":"Krasnoselka",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98189,
+    48.88069,
+    31.98189,
+    48.88069
+],
+  "geometry": {"coordinates":[31.98189,48.88069],"type":"Point"}
+}

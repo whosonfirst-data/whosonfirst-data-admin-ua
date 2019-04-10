@@ -1,0 +1,104 @@
+{
+  "id": 101868305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.370711,49.169315,32.370711,49.169315",
+    "geom:latitude":49.169315,
+    "geom:longitude":32.370711,
+    "iso:country":"UA",
+    "lbl:latitude":49.169315,
+    "lbl:longitude":32.370711,
+    "mps:latitude":49.169315,
+    "mps:longitude":32.370711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6885\u5fb7\u97cb\u5b63\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Medvedevka"
+    ],
+    "name:ger_x_preferred":[
+        "Medwediwka"
+    ],
+    "name:pol_x_preferred":[
+        "Medwed\u00f3wka"
+    ],
+    "name:rum_x_preferred":[
+        "Medvedivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Medvedivka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Cherkas'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u0438\u0433\u0438\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Chyhyryns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0435\u0434\u0432\u0435\u0434\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Medvedivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701452,
+        "gp:id":936397,
+        "qs:id":1,
+        "wd:id":"Q4287360"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4fe29293ef81d2a4194b85c15a8fcfec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088553,
+            "locality_id":101868305,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":101868305,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u041c\u0435\u0434\u0432\u0435\u0434\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.370711,
+    49.169315,
+    32.370711,
+    49.169315
+],
+  "geometry": {"coordinates":[32.370711,49.169315],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 101869019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.97193,49.021573,37.97193,49.021573",
+    "geom:latitude":49.021573,
+    "geom:longitude":37.97193,
+    "iso:country":"UA",
+    "lbl:latitude":49.021573,
+    "lbl:longitude":37.97193,
+    "mps:latitude":49.021573,
+    "mps:longitude":37.97193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u043b\u0438\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnolymans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u043e\u0440\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Tors'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":922772,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"81aeb17d751b1f9a7354eb1ccd8f7219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815627,
+            "disputed_id":1159339531,
+            "locality_id":101869019,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815627,
+            "disputed_id":1159339531,
+            "locality_id":101869019,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101869019,
+    "wof:lastmodified":1544750062,
+    "wof:name":"\u0422\u043e\u0440\u0441\u044c\u043a\u0435",
+    "wof:parent_id":1108815627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.97193,
+    49.021573,
+    37.97193,
+    49.021573
+],
+  "geometry": {"coordinates":[37.97193,49.021573],"type":"Point"}
+}

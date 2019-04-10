@@ -1,0 +1,73 @@
+{
+  "id": 1343963887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39078,48.85695,34.39078,48.85695",
+    "geom:latitude":48.85695,
+    "geom:longitude":34.39078,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Novoselivka",
+    "gn:country_code":"UA",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11145072,
+    "gn:latitude":48.85695,
+    "gn:longitude":34.39078,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Novoselivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novoselivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11145072
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"54e23b6b399f61f091888b538e813156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088613,
+            "locality_id":1343963887,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1343963887,
+    "wof:lastmodified":1537711996,
+    "wof:name":"Novoselivka",
+    "wof:parent_id":102088613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39078,
+    48.85695,
+    34.39078,
+    48.85695
+],
+  "geometry": {"coordinates":[34.39078,48.85695],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242886749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9725,50.89959,30.9725,50.89959",
+    "geom:latitude":50.89959,
+    "geom:longitude":30.9725,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Volevachi",
+    "gn:country_code":"UA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690512,
+    "gn:latitude":50.89959,
+    "gn:longitude":30.9725,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Volevachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Volevachi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u043b\u0435\u0432\u0430\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Valevachiy",
+        "Valevachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690512
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6296c4098939ed756291f0b34fe86cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088907,
+            "locality_id":1242886749,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1242886749,
+    "wof:lastmodified":1537710282,
+    "wof:name":"Volevachi",
+    "wof:parent_id":102088907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9725,
+    50.89959,
+    30.9725,
+    50.89959
+],
+  "geometry": {"coordinates":[30.9725,50.89959],"type":"Point"}
+}

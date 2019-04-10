@@ -1,0 +1,73 @@
+{
+  "id": 1260083519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24393,49.97604,32.24393,49.97604",
+    "geom:latitude":49.97604,
+    "geom:longitude":32.24393,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Olimpiadivka",
+    "gn:country_code":"UA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290186,
+    "gn:latitude":49.97604,
+    "gn:longitude":32.24393,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Olimpiadivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Olimpiadivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043b\u0456\u043c\u043f\u0456\u0430\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290186
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7f764f4471d3e7ed3b99c05639d7ee6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088735,
+            "locality_id":1260083519,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1260083519,
+    "wof:lastmodified":1537711872,
+    "wof:name":"Olimpiadivka",
+    "wof:parent_id":102088735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24393,
+    49.97604000000001,
+    32.24393,
+    49.97604000000001
+],
+  "geometry": {"coordinates":[32.24393,49.97604000000001],"type":"Point"}
+}

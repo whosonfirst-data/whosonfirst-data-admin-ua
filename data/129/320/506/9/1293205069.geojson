@@ -1,0 +1,89 @@
+{
+  "id": 1293205069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18262,47.26819,37.18262,47.26819",
+    "geom:latitude":47.26819,
+    "geom:longitude":37.18262,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ksenivka",
+    "gn:country_code":"UA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703827,
+    "gn:latitude":47.26819,
+    "gn:longitude":37.18262,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Ksenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ksen\u2019yevka"
+    ],
+    "name:ukr_x_preferred":[
+        "Ksenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0441\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ksenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703827
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fe102a99b7e8d147e032173cd237687e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1293205069,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1293205069,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293205069,
+    "wof:lastmodified":1537710935,
+    "wof:name":"Ksenivka",
+    "wof:parent_id":102088371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18262,
+    47.26819,
+    37.18262,
+    47.26819
+],
+  "geometry": {"coordinates":[37.18262,47.26819],"type":"Point"}
+}

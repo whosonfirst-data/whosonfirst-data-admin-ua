@@ -1,0 +1,93 @@
+{
+  "id": 1125954209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.89999,49.17695,36.89999,49.17695",
+    "geom:latitude":49.17695,
+    "geom:longitude":36.89999,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3275,
+    "gn:population":3275,
+    "iso:country":"UA",
+    "lbl:latitude":49.17695,
+    "lbl:longitude":36.89999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Petrovskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Petrivs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Petrovskaya"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697273,
+    "qs_pg:gn_pop":3275,
+    "qs_pg:name":"Petrovskoye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":275472,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697273,
+        "qs_pg:id":275472
+    },
+    "wof:country":"UA",
+    "wof:created":1497297565,
+    "wof:geomhash":"a1d2e4e82e47c912d0847571a81e5baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088843,
+            "locality_id":1125954209,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125954209,
+    "wof:lastmodified":1509402884,
+    "wof:name":"Petrovskoye",
+    "wof:parent_id":102088843,
+    "wof:placetype":"locality",
+    "wof:population":3275,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.89999,
+    49.17695,
+    36.89999,
+    49.17695
+],
+  "geometry": {"coordinates":[36.89999,49.17695],"type":"Point"}
+}

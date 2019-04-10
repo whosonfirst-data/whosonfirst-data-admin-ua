@@ -1,0 +1,74 @@
+{
+  "id": 1343444583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20867,48.13653,39.20867,48.13653",
+    "geom:latitude":48.13653,
+    "geom:longitude":39.20867,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Chapayevka",
+    "gn:country_code":"UA",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9120300,
+    "gn:latitude":48.13653,
+    "gn:longitude":39.20867,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Chapayevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chapayevka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108730793,
+        1175613737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9120300
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a3d9354c86672836193c0117a85aebb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730793,
+            "locality_id":1343444583,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1343444583,
+    "wof:lastmodified":1537711864,
+    "wof:name":"Chapayevka",
+    "wof:parent_id":1175613737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20867,
+    48.13653,
+    39.20867,
+    48.13653
+],
+  "geometry": {"coordinates":[39.20867,48.13653],"type":"Point"}
+}

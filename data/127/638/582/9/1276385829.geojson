@@ -1,0 +1,76 @@
+{
+  "id": 1276385829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88775,46.87816,34.88775,46.87816",
+    "geom:latitude":46.87816,
+    "geom:longitude":34.88775,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ozerne",
+    "gn:country_code":"UA",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698104,
+    "gn:latitude":46.87816,
+    "gn:longitude":34.88775,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ozerne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ozerne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0437\u0435\u0440\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Oz\u00ebrnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698104
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b01a6ba311e5a927e3b452247c343dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":1276385829,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1276385829,
+    "wof:lastmodified":1537710644,
+    "wof:name":"Ozerne",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88775,
+    46.87816,
+    34.88775,
+    46.87816
+],
+  "geometry": {"coordinates":[34.88775,46.87816],"type":"Point"}
+}

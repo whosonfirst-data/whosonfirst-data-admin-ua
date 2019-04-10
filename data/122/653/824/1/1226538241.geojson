@@ -1,0 +1,83 @@
+{
+  "id": 1226538241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08108,48.71466,37.08108,48.71466",
+    "geom:latitude":48.71466,
+    "geom:longitude":37.08108,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hromova Balka",
+    "gn:country_code":"UA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708041,
+    "gn:latitude":48.71466,
+    "gn:longitude":37.08108,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Hromova Balka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hromova Balka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u043e\u043c\u043e\u0432\u0430 \u0411\u0430\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gromovaya Balka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708041
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3a041746f396058b8ab7ddd9ff586182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1226538241,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1226538241,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226538241,
+    "wof:lastmodified":1537711140,
+    "wof:name":"Hromova Balka",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08108,
+    48.71466,
+    37.08108,
+    48.71466
+],
+  "geometry": {"coordinates":[37.08108,48.71466],"type":"Point"}
+}

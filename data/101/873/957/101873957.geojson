@@ -1,0 +1,136 @@
+{
+  "id": 101873957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.354526,47.932048,30.354526,47.932048",
+    "geom:latitude":47.932048,
+    "geom:longitude":30.354526,
+    "gn:population":8258,
+    "iso:country":"UA",
+    "lbl:latitude":47.932048,
+    "lbl:longitude":30.354526,
+    "mps:latitude":47.932048,
+    "mps:longitude":30.354526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_variant":[
+        "\u041a\u0440\u044b\u0432\u043e\u0435 \u0412\u043e\u0437\u0435\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u91cc\u97cb\u5967\u6fa4\u7f85"
+    ],
+    "name:crh_x_preferred":[
+        "Kr\u0131ve Ozero"
+    ],
+    "name:deu_x_preferred":[
+        "Krywe Osero"
+    ],
+    "name:eng_x_preferred":[
+        "Kryve Ozero"
+    ],
+    "name:ger_x_preferred":[
+        "Krywe Osero"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d1\u05d4 \u05d0\u05d5\u05d6\u05e8\u05d5"
+    ],
+    "name:lav_x_preferred":[
+        "Krive Ozero"
+    ],
+    "name:pol_x_preferred":[
+        "Krywe Ozero"
+    ],
+    "name:ron_x_preferred":[
+        "Kr\u00eeve Ozero"
+    ],
+    "name:rum_x_preferred":[
+        "Kr\u00eeve Ozero"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u0435 \u041e\u0437\u0435\u0440\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Krivoye Ozero"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u97cb\u5967\u6fa4\u7f85"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Mykolaivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0438\u0432\u043e\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kryvoozers'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e",
+    "qs:loc_alt":"Kryve Ozero",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":264,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704010,
+        "gp:id":924435,
+        "qs:id":941957,
+        "wd:id":"Q2453477"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b98d4254a02360895a5feedda2809410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088173,
+            "locality_id":101873957,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":101873957,
+    "wof:lastmodified":1544751564,
+    "wof:name":"\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e",
+    "wof:parent_id":102088173,
+    "wof:placetype":"locality",
+    "wof:population":8258,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.354526,
+    47.932048,
+    30.354526,
+    47.932048
+],
+  "geometry": {"coordinates":[30.354526,47.932048],"type":"Point"}
+}

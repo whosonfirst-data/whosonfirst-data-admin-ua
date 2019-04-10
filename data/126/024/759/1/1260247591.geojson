@@ -1,0 +1,67 @@
+{
+  "id": 1260247591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15,49.43333,34.15,49.43333",
+    "geom:latitude":49.43333,
+    "geom:longitude":34.15,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Roi",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695530,
+    "gn:latitude":49.43333,
+    "gn:longitude":34.15,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Roi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695530
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b768b08c301bf71b9ecd03bc13b47305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088685,
+            "locality_id":1260247591,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1260247591,
+    "wof:lastmodified":1536760805,
+    "wof:name":"Roi",
+    "wof:parent_id":102088685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15,
+    49.43333,
+    34.15,
+    49.43333
+],
+  "geometry": {"coordinates":[34.15,49.43333],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1259475991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64045,48.1936,37.64045,48.1936",
+    "geom:latitude":48.1936,
+    "geom:longitude":37.64045,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Berdychi",
+    "gn:country_code":"UA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113133,
+    "gn:latitude":48.1936,
+    "gn:longitude":37.64045,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Berdychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Berdychi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0440\u0434\u0438\u0447\u0456"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113133
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b6055f883e6d55036a2fae39b47bb8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1259475991,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1259475991,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259475991,
+    "wof:lastmodified":1537711849,
+    "wof:name":"Berdychi",
+    "wof:parent_id":1108815751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64045,
+    48.1936,
+    37.64045,
+    48.1936
+],
+  "geometry": {"coordinates":[37.64045,48.1936],"type":"Point"}
+}

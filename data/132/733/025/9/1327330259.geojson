@@ -1,0 +1,77 @@
+{
+  "id": 1327330259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49489,49.50176,36.49489,49.50176",
+    "geom:latitude":49.50176,
+    "geom:longitude":36.49489,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Heyivka",
+    "gn:country_code":"UA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708832,
+    "gn:latitude":49.50176,
+    "gn:longitude":36.49489,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Heyivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Heyivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0435\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Giyevka",
+        "Geyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708832
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f935d60e09f395849b57094ae07bb5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088859,
+            "locality_id":1327330259,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1327330259,
+    "wof:lastmodified":1537711178,
+    "wof:name":"Heyivka",
+    "wof:parent_id":102088859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49489000000001,
+    49.50176,
+    36.49489000000001,
+    49.50176
+],
+  "geometry": {"coordinates":[36.49489000000001,49.50176],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326822877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66263,47.58322,37.66263,47.58322",
+    "geom:latitude":47.58322,
+    "geom:longitude":37.66263,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novaya Nikolayevka",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699813,
+    "gn:latitude":47.58322,
+    "gn:longitude":37.66263,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Novaya Nikolayevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699813
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"66cd19fb1777f9ef16bc596a5c613bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1326822877,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1326822877,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1326822877,
+    "wof:lastmodified":1537059683,
+    "wof:name":"Novaya Nikolayevka",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66263,
+    47.58322,
+    37.66263,
+    47.58322
+],
+  "geometry": {"coordinates":[37.66263,47.58322],"type":"Point"}
+}

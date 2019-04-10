@@ -1,0 +1,101 @@
+{
+  "id": 1243251687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26227,45.64144,33.26227,45.64144",
+    "geom:latitude":45.64144,
+    "geom:longitude":33.26227,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"695741",
+    "gn:admin3_code":"11153039.0",
+    "gn:asciiname":"Ryleyevka",
+    "gn:country_code":"UA",
+    "gn:dem":56,
+    "gn:elevation":"67.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695022,
+    "gn:latitude":45.64144,
+    "gn:longitude":33.26227,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Ryleyevka",
+    "gn:population":137,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ryleyevka"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0430\u0440\u0447\u0438\u0433\u0430\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u043b\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0447\u0438\u0433\u0430\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043b\u0454\u0454\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695022
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1872e4a47a592eb0f971f25645873d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1243251687,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1243251687,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1243251687,
+    "wof:lastmodified":1537710487,
+    "wof:name":"Ryleyevka",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:population":137,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26227,
+    45.64144,
+    33.26227,
+    45.64144
+],
+  "geometry": {"coordinates":[33.26227,45.64144],"type":"Point"}
+}

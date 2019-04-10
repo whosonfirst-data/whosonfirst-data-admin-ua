@@ -1,0 +1,77 @@
+{
+  "id": 1293202651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59332,51.60969,31.59332,51.60969",
+    "geom:latitude":51.60969,
+    "geom:longitude":31.59332,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Klochkiv",
+    "gn:country_code":"UA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705694,
+    "gn:latitude":51.60969,
+    "gn:longitude":31.59332,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Klochkiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Klochkiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043b\u043e\u0447\u043a\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Klochkov",
+        "Klachkova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705694
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"030428d07252c71383c4c9cc698a5786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815729,
+            "locality_id":1293202651,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293202651,
+    "wof:lastmodified":1537711026,
+    "wof:name":"Klochkiv",
+    "wof:parent_id":1108815729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59332,
+    51.60969,
+    31.59332,
+    51.60969
+],
+  "geometry": {"coordinates":[31.59332,51.60969],"type":"Point"}
+}

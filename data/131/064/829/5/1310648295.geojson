@@ -1,0 +1,77 @@
+{
+  "id": 1310648295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43857,47.47261,35.43857,47.47261",
+    "geom:latitude":47.47261,
+    "geom:longitude":35.43857,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hrozove",
+    "gn:country_code":"UA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708028,
+    "gn:latitude":47.47261,
+    "gn:longitude":35.43857,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Hrozove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hrozove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u043e\u0437\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Grozov",
+        "Grozovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708028
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"835b56de76d71fd297959d26f1882d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088303,
+            "locality_id":1310648295,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1310648295,
+    "wof:lastmodified":1537711139,
+    "wof:name":"Hrozove",
+    "wof:parent_id":102088303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43857,
+    47.47261,
+    35.43857,
+    47.47261
+],
+  "geometry": {"coordinates":[35.43857,47.47261],"type":"Point"}
+}

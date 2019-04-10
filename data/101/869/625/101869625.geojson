@@ -1,0 +1,120 @@
+{
+  "id": 101869625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.053401,48.49257,39.053401,48.49257",
+    "geom:latitude":48.49257,
+    "geom:longitude":39.053401,
+    "gn:population":6775,
+    "iso:country":"UA",
+    "lbl:latitude":48.49257,
+    "lbl:longitude":39.053401,
+    "mps:latitude":48.49257,
+    "mps:longitude":39.053401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0648\u064a\u064a\u060c \u0644\u0648\u0647\u0627\u0646\u0633\u0643\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u5217"
+    ],
+    "name:eng_x_preferred":[
+        "Beloye"
+    ],
+    "name:ger_x_preferred":[
+        "Bile"
+    ],
+    "name:lav_x_preferred":[
+        "Bile"
+    ],
+    "name:rum_x_preferred":[
+        "Bile"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0456\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Bile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "Bile"
+    ],
+    "name:unk_x_variant":[
+        "Beloe"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u0443\u0442\u0443\u0433\u0438\u043d\u0441\u043a\u0438\u0439",
+    "qs:a2_alt":"Lutuhynskyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0456\u043b\u0435",
+    "qs:loc_alt":"Bile",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712515,
+        "gp:id":916597,
+        "qs:id":894705,
+        "wd:id":"Q1981596"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a25dbda27fc2a286f67594aa3e8695b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088749,
+            "locality_id":101869625,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101869625,
+    "wof:lastmodified":1544750383,
+    "wof:name":"\u0411\u0456\u043b\u0435",
+    "wof:parent_id":102088749,
+    "wof:placetype":"locality",
+    "wof:population":6775,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.053401,
+    48.49257,
+    39.053401,
+    48.49257
+],
+  "geometry": {"coordinates":[39.053401,48.49257],"type":"Point"}
+}

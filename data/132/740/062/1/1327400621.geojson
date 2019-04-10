@@ -1,0 +1,76 @@
+{
+  "id": 1327400621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63556,50.46572,28.63556,50.46572",
+    "geom:latitude":50.46572,
+    "geom:longitude":28.63556,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Novosilka",
+    "gn:country_code":"UA",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477310,
+    "gn:latitude":50.46572,
+    "gn:longitude":28.63556,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Novosilka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novosilka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0456\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novoselka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477310
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"315daaf21d14bd292a4d4a1ed98e7f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088709,
+            "locality_id":1327400621,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1327400621,
+    "wof:lastmodified":1537711722,
+    "wof:name":"Novosilka",
+    "wof:parent_id":102088709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63556,
+    50.46572000000001,
+    28.63556,
+    50.46572000000001
+],
+  "geometry": {"coordinates":[28.63556,50.46572000000001],"type":"Point"}
+}

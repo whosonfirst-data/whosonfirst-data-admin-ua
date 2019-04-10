@@ -1,0 +1,76 @@
+{
+  "id": 1344208271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85402,50.36596,28.85402,50.36596",
+    "geom:latitude":50.36596,
+    "geom:longitude":28.85402,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Horodenka",
+    "gn:country_code":"UA",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477361,
+    "gn:latitude":50.36596,
+    "gn:longitude":28.85402,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Horodenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Horodenka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u0440\u043e\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gorodenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477361
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3feb1024a3099751845c680e02db7652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088679,
+            "locality_id":1344208271,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1344208271,
+    "wof:lastmodified":1537711723,
+    "wof:name":"Horodenka",
+    "wof:parent_id":102088679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85402,
+    50.36596,
+    28.85402,
+    50.36596
+],
+  "geometry": {"coordinates":[28.85402,50.36596],"type":"Point"}
+}

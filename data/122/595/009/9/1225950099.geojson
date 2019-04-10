@@ -1,0 +1,77 @@
+{
+  "id": 1225950099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65054,48.288,36.65054,48.288",
+    "geom:latitude":48.288,
+    "geom:longitude":36.65054,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Poputne",
+    "gn:country_code":"UA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696494,
+    "gn:latitude":48.288,
+    "gn:longitude":36.65054,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Poputne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Poputne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u043f\u0443\u0442\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Poputnyy",
+        "Poputnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696494
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f908d3d3e2f6e042d10fa761825e7178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088607,
+            "locality_id":1225950099,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1225950099,
+    "wof:lastmodified":1537710562,
+    "wof:name":"Poputne",
+    "wof:parent_id":102088607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65054,
+    48.288,
+    36.65054,
+    48.288
+],
+  "geometry": {"coordinates":[36.65054,48.288],"type":"Point"}
+}

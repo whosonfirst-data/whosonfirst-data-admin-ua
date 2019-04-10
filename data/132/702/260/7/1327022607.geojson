@@ -1,0 +1,87 @@
+{
+  "id": 1327022607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38952,47.23697,37.38952,47.23697",
+    "geom:latitude":47.23697,
+    "geom:longitude":37.38952,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Topolyne",
+    "gn:country_code":"UA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529595,
+    "gn:latitude":47.23697,
+    "gn:longitude":37.38952,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Topolyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Topolyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ivanchenkovo",
+        "Topolinoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529595
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0cc573b1ae872b4e23fe260c81e954da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1327022607,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1327022607,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1327022607,
+    "wof:lastmodified":1537711878,
+    "wof:name":"Topolyne",
+    "wof:parent_id":102088371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38952000000001,
+    47.23697,
+    37.38952000000001,
+    47.23697
+],
+  "geometry": {"coordinates":[37.38952000000001,47.23697],"type":"Point"}
+}

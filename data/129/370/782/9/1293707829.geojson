@@ -1,0 +1,77 @@
+{
+  "id": 1293707829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04556,49.86886,27.04556,49.86886",
+    "geom:latitude":49.86886,
+    "geom:longitude":27.04556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Berezne",
+    "gn:country_code":"UA",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712330,
+    "gn:latitude":49.86886,
+    "gn:longitude":27.04556,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Berezne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Berezne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0437\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Berezovka",
+        "Ber\u00ebznoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        1108815717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712330
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e12456cfd59fba760ba6c0d4e8bcb1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815717,
+            "locality_id":1293707829,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1293707829,
+    "wof:lastmodified":1537711353,
+    "wof:name":"Berezne",
+    "wof:parent_id":1108815717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04556,
+    49.86886,
+    27.04556,
+    49.86886
+],
+  "geometry": {"coordinates":[27.04556,49.86886],"type":"Point"}
+}

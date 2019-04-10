@@ -1,0 +1,95 @@
+{
+  "id": 1310382809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94251,45.05575,33.94251,45.05575",
+    "geom:latitude":45.05575,
+    "geom:longitude":33.94251,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152619.0",
+    "gn:asciiname":"Novyi Mir",
+    "gn:country_code":"UA",
+    "gn:dem":163,
+    "gn:elevation":"145.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7037697,
+    "gn:latitude":45.05575,
+    "gn:longitude":33.94251,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Novyi Mir",
+    "gn:population":421,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novyi Mir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u041c\u0438\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u041c\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7037697
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"75041ff4eb946b5bd42f7737f695d849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1310382809,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1310382809,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1310382809,
+    "wof:lastmodified":1537711537,
+    "wof:name":"Novyi Mir",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94251,
+    45.05575,
+    33.94251,
+    45.05575
+],
+  "geometry": {"coordinates":[33.94251,45.05575],"type":"Point"}
+}

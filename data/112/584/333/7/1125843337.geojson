@@ -1,0 +1,107 @@
+{
+  "id": 1125843337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57618,48.14966,38.57618,48.14966",
+    "geom:latitude":48.14966,
+    "geom:longitude":38.57618,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4911,
+    "gn:population":4911,
+    "iso:country":"UA",
+    "lbl:latitude":48.14966,
+    "lbl:longitude":38.57618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Rozsypne"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695798,
+    "qs_pg:gn_pop":4911,
+    "qs_pg:name":"Rassypnoye",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Donets\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1283318,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":932143,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Donets\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695798,
+        "gp:id":932143,
+        "qs_pg:id":1283318
+    },
+    "wof:country":"UA",
+    "wof:created":1497293033,
+    "wof:geomhash":"4bce3330a62e1f5597cdc7395f2ed011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1125843337,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1125843337,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125843337,
+    "wof:lastmodified":1530298001,
+    "wof:name":"Rassypnoye",
+    "wof:parent_id":1108815735,
+    "wof:placetype":"locality",
+    "wof:population":4911,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57618,
+    48.14966,
+    38.57618,
+    48.14966
+],
+  "geometry": {"coordinates":[38.57618,48.14966],"type":"Point"}
+}

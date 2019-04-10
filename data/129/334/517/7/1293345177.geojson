@@ -1,0 +1,76 @@
+{
+  "id": 1293345177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66587,49.01628,22.66587,49.01628",
+    "geom:latitude":49.01628,
+    "geom:longitude":22.66587,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Zahorb",
+    "gn:country_code":"UA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687899,
+    "gn:latitude":49.01628,
+    "gn:longitude":22.66587,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Zahorb",
+    "gn:population":0,
+    "gn:timezone":"Europe/Uzhgorod",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zahorb"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u0433\u043e\u0440\u0431"
+    ],
+    "name:und_x_variant":[
+        "Zagorb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687899
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"123dfa0a1b4bd5ed3e035b4b9f3aca66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088109,
+            "locality_id":1293345177,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1293345177,
+    "wof:lastmodified":1537710135,
+    "wof:name":"Zahorb",
+    "wof:parent_id":102088109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66587,
+    49.01628,
+    22.66587,
+    49.01628
+],
+  "geometry": {"coordinates":[22.66587,49.01628],"type":"Point"}
+}

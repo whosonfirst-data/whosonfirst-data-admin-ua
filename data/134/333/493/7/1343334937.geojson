@@ -1,0 +1,77 @@
+{
+  "id": 1343334937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16583,49.86278,39.16583,49.86278",
+    "geom:latitude":49.86278,
+    "geom:longitude":39.16583,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kozlove",
+    "gn:country_code":"UA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704539,
+    "gn:latitude":49.86278,
+    "gn:longitude":39.16583,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Kozlove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kozlove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0437\u043b\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kozlovo",
+        "Kozlov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704539
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2fa1348f68cd0e247c6827f683b26818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088973,
+            "locality_id":1343334937,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1343334937,
+    "wof:lastmodified":1537710972,
+    "wof:name":"Kozlove",
+    "wof:parent_id":102088973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16583,
+    49.86278,
+    39.16583,
+    49.86278
+],
+  "geometry": {"coordinates":[39.16583,49.86278],"type":"Point"}
+}

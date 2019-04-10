@@ -1,0 +1,103 @@
+{
+  "id": 1125901043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42477,48.81207,25.42477,48.81207",
+    "geom:latitude":48.81207,
+    "geom:longitude":25.42477,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1809,
+    "gn:population":1809,
+    "iso:country":"UA",
+    "lbl:latitude":48.81207,
+    "lbl:longitude":25.42477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5207\u723e\u6d85\u5229\u9f4a\u4e9e"
+    ],
+    "name:eng_x_preferred":[
+        "Chernelytsia"
+    ],
+    "name:ger_x_preferred":[
+        "Tschernelyzja"
+    ],
+    "name:pol_x_preferred":[
+        "Czernelica"
+    ],
+    "name:rum_x_preferred":[
+        "Cernel\u00ee\u021bea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435\u043b\u0438\u0446\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435\u043b\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Czernelica"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":710755,
+    "qs_pg:gn_pop":1809,
+    "qs_pg:name":"Chernelytsya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1028623,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710755,
+        "qs_pg:id":1028623,
+        "wd:id":"Q4513379"
+    },
+    "wof:country":"UA",
+    "wof:created":1497295804,
+    "wof:geomhash":"ca35f2d2775e9867cd28581046bac8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088137,
+            "locality_id":1125901043,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125901043,
+    "wof:lastmodified":1514509126,
+    "wof:name":"Chernelytsya",
+    "wof:parent_id":102088137,
+    "wof:placetype":"locality",
+    "wof:population":1809,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42477,
+    48.81207,
+    25.42477,
+    48.81207
+],
+  "geometry": {"coordinates":[25.42477,48.81207],"type":"Point"}
+}

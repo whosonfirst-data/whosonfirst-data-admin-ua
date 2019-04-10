@@ -1,0 +1,101 @@
+{
+  "id": 1242950375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96889,45.26837,34.96889,45.26837",
+    "geom:latitude":45.26837,
+    "geom:longitude":34.96889,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693058",
+    "gn:admin3_code":"11153130.0",
+    "gn:asciiname":"Novosyolovka",
+    "gn:country_code":"UA",
+    "gn:dem":33,
+    "gn:elevation":"34.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007541,
+    "gn:latitude":45.26837,
+    "gn:longitude":34.96889,
+    "gn:modification_date":"2016-08-15",
+    "gn:name":"Novosyolovka",
+    "gn:population":14,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novosyolovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u043d\u0442\u0430\u0301\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0442\u0430\u0301\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738653,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007541
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1767b921eedc90a3f12fb461b3088e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1242950375,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "locality_id":1242950375,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1242950375,
+    "wof:lastmodified":1537711525,
+    "wof:name":"Novosyolovka",
+    "wof:parent_id":1108738653,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96889,
+    45.26837,
+    34.96889,
+    45.26837
+],
+  "geometry": {"coordinates":[34.96889,45.26837],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 101867843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.717198,49.498717,29.717198,49.498717",
+    "geom:latitude":49.498717,
+    "geom:longitude":29.717198,
+    "iso:country":"UA",
+    "lbl:latitude":49.498717,
+    "lbl:longitude":29.717198,
+    "mps:latitude":49.498717,
+    "mps:longitude":29.717198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rude Selo"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Volodars'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0443\u0434\u0435 \u0421\u0435\u043b\u043e",
+    "qs:loc_alt":"Rude Selo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695133,
+        "gp:id":921982,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3195572cae15a12dcb255c31fd9ba0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088511,
+            "locality_id":101867843,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101867843,
+    "wof:lastmodified":1544749402,
+    "wof:name":"\u0420\u0443\u0434\u0435 \u0421\u0435\u043b\u043e",
+    "wof:parent_id":102088511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.717198,
+    49.498717,
+    29.717198,
+    49.498717
+],
+  "geometry": {"coordinates":[29.717198,49.498717],"type":"Point"}
+}

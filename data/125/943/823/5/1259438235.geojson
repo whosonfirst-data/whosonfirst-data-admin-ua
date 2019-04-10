@@ -1,0 +1,77 @@
+{
+  "id": 1259438235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25878,51.18756,24.25878,51.18756",
+    "geom:latitude":51.18756,
+    "geom:longitude":24.25878,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Komariv",
+    "gn:country_code":"UA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705232,
+    "gn:latitude":51.18756,
+    "gn:longitude":24.25878,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Komariv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Komariv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043c\u0430\u0440\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Komaruv",
+        "Komarov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705232
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b64758437ef5efca878315838a7ee814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088703,
+            "locality_id":1259438235,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1259438235,
+    "wof:lastmodified":1537711003,
+    "wof:name":"Komariv",
+    "wof:parent_id":102088703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25878,
+    51.18756,
+    24.25878,
+    51.18756
+],
+  "geometry": {"coordinates":[24.25878,51.18756],"type":"Point"}
+}

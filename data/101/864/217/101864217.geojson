@@ -1,0 +1,100 @@
+{
+  "id": 101864217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.110444,50.91655,26.110444,50.91655",
+    "geom:latitude":50.91655,
+    "geom:longitude":26.110444,
+    "iso:country":"UA",
+    "lbl:latitude":50.91655,
+    "lbl:longitude":26.110444,
+    "mps:latitude":50.91655,
+    "mps:longitude":26.110444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043d\u0430 \u0432\u044a\u043d\u0448\u043d\u0438\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u0434\u0435\u043b \u0423\u043a\u0440\u0430\u0438\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0456\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u0437\u0430\u043a\u043e\u0440\u0434\u043e\u043d\u043d\u0438\u0445 \u0441\u043f\u0440\u0430\u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "Postiyne",
+        "\u041f\u043e\u0441\u0442\u0456\u0439\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Postojno"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0441\u0442\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kostopil's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u0441\u0442\u0456\u0439\u043d\u0435",
+    "qs:loc_alt":"Postiine",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":990,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696442,
+        "gp:id":932520,
+        "qs:id":4,
+        "wd:id":"Q4294403"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6106c1dfdce513e01f8c9d157102addb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088725,
+            "locality_id":101864217,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101864217,
+    "wof:lastmodified":1544747412,
+    "wof:name":"\u041f\u043e\u0441\u0442\u0456\u0439\u043d\u0435",
+    "wof:parent_id":102088725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.110444,
+    50.91655,
+    26.110444,
+    50.91655
+],
+  "geometry": {"coordinates":[26.110444,50.91655],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242685461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72091,50.55306,32.72091,50.55306",
+    "geom:latitude":50.55306,
+    "geom:longitude":32.72091,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lelyaky",
+    "gn:country_code":"UA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703284,
+    "gn:latitude":50.55306,
+    "gn:longitude":32.72091,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Lelyaky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lelyaky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0435\u043b\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Selyaki",
+        "Lelyaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703284
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"40a63690e996d6458bcc34eca8f8d80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088849,
+            "locality_id":1242685461,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1242685461,
+    "wof:lastmodified":1537710911,
+    "wof:name":"Lelyaky",
+    "wof:parent_id":102088849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72091,
+    50.55306,
+    32.72091,
+    50.55306
+],
+  "geometry": {"coordinates":[32.72091,50.55306],"type":"Point"}
+}

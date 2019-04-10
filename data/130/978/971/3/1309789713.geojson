@@ -1,0 +1,73 @@
+{
+  "id": 1309789713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86329,49.71838,26.86329,49.71838",
+    "geom:latitude":49.71838,
+    "geom:longitude":26.86329,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Novodubyshche",
+    "gn:country_code":"UA",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11327630,
+    "gn:latitude":49.71838,
+    "gn:longitude":26.86329,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Novodubyshche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novodubyshche"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0434\u0443\u0431\u0438\u0449\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11327630
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1f4e536bcf74e771e3a67971d58a02bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088455,
+            "locality_id":1309789713,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1309789713,
+    "wof:lastmodified":1537712042,
+    "wof:name":"Novodubyshche",
+    "wof:parent_id":102088455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86329000000001,
+    49.71838,
+    26.86329000000001,
+    49.71838
+],
+  "geometry": {"coordinates":[26.86329000000001,49.71838],"type":"Point"}
+}

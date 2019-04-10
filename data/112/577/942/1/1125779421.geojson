@@ -1,0 +1,109 @@
+{
+  "id": 1125779421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27994,48.14973,24.27994,48.14973",
+    "geom:latitude":48.14973,
+    "geom:longitude":24.27994,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1200,
+    "gn:population":1200,
+    "iso:country":"UA",
+    "lbl:latitude":48.14973,
+    "lbl:longitude":24.27994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u057e\u0561\u057d\u056b"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u74e6\u897f"
+    ],
+    "name:dut_x_preferred":[
+        "Tiszabork\u00fat"
+    ],
+    "name:eng_x_preferred":[
+        "Kvasy"
+    ],
+    "name:epo_x_preferred":[
+        "Kvasi"
+    ],
+    "name:hun_x_preferred":[
+        "Tiszabork\u00fat"
+    ],
+    "name:rum_x_preferred":[
+        "Borcut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0430\u0441\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0430\u0441\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kvasi"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":703455,
+    "qs_pg:gn_pop":1200,
+    "qs_pg:name":"Kvasy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128571,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703455,
+        "qs_pg:id":128571,
+        "wd:id":"Q517568"
+    },
+    "wof:country":"UA",
+    "wof:created":1497290404,
+    "wof:geomhash":"2649fe57c319e308feaeffc926bcae09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088021,
+            "locality_id":1125779421,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1125779421,
+    "wof:lastmodified":1553816528,
+    "wof:name":"Kvasy",
+    "wof:parent_id":102088021,
+    "wof:placetype":"locality",
+    "wof:population":1200,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27994,
+    48.14973,
+    24.27994,
+    48.14973
+],
+  "geometry": {"coordinates":[24.27994,48.14973],"type":"Point"}
+}

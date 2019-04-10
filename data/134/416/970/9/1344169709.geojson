@@ -1,0 +1,76 @@
+{
+  "id": 1344169709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03128,51.78004,32.03128,51.78004",
+    "geom:latitude":51.78004,
+    "geom:longitude":32.03128,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sunychne",
+    "gn:country_code":"UA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198411,
+    "gn:latitude":51.78004,
+    "gn:longitude":32.03128,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sunychne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sunychne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0443\u043d\u0438\u0447\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sunichnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198411
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"209a401e50bf05d01b33bebfff340db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089011,
+            "locality_id":1344169709,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1344169709,
+    "wof:lastmodified":1537711573,
+    "wof:name":"Sunychne",
+    "wof:parent_id":102089011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03128,
+    51.78004,
+    32.03128,
+    51.78004
+],
+  "geometry": {"coordinates":[32.03128,51.78004],"type":"Point"}
+}

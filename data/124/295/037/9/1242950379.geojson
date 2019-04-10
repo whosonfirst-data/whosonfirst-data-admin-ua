@@ -1,0 +1,101 @@
+{
+  "id": 1242950379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.34218,45.4417,34.34218,45.4417",
+    "geom:latitude":45.4417,
+    "geom:longitude":34.34218,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704383",
+    "gn:admin3_code":"11152920",
+    "gn:asciiname":"Ul'yanovka",
+    "gn:country_code":"UA",
+    "gn:dem":43,
+    "gn:elevation":"43.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690730,
+    "gn:latitude":45.4417,
+    "gn:longitude":34.34218,
+    "gn:modification_date":"2016-07-22",
+    "gn:name":"Ul\u2019yanovka",
+    "gn:population":219,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ul\u2019yanovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0414\u0430\u0443\u0447\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0430\u0443\u0447\u0438\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690730
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e1a858e891806b9b6e950fb94cd9994f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1242950379,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":1242950379,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1242950379,
+    "wof:lastmodified":1537710292,
+    "wof:name":"Ul'yanovka",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34218,
+    45.4417,
+    34.34218,
+    45.4417
+],
+  "geometry": {"coordinates":[34.34218,45.4417],"type":"Point"}
+}

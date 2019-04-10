@@ -1,0 +1,76 @@
+{
+  "id": 1293100819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91332,50.72273,32.91332,50.72273",
+    "geom:latitude":50.72273,
+    "geom:longitude":32.91332,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nykonivka",
+    "gn:country_code":"UA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559729,
+    "gn:latitude":50.72273,
+    "gn:longitude":32.91332,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Nykonivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Nykonivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nikonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559729
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3b35259aad2d0af6e74492dd4c0ab63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088893,
+            "locality_id":1293100819,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293100819,
+    "wof:lastmodified":1537711756,
+    "wof:name":"Nykonivka",
+    "wof:parent_id":102088893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91332,
+    50.72273,
+    32.91332,
+    50.72273
+],
+  "geometry": {"coordinates":[32.91332,50.72273],"type":"Point"}
+}

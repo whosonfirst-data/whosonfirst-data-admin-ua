@@ -1,0 +1,85 @@
+{
+  "id": 101869037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.029133,49.415454,37.029133,49.415454",
+    "geom:latitude":49.415454,
+    "geom:longitude":37.029133,
+    "iso:country":"UA",
+    "lbl:latitude":49.415454,
+    "lbl:longitude":37.029133,
+    "mps:latitude":49.415454,
+    "mps:longitude":37.029133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Morozivka"
+    ],
+    "name:unk_x_variant":[
+        "Morozovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0430\u043b\u0430\u043a\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Balakliis'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u043e\u0440\u043e\u0437\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Morozivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700761,
+        "gp:id":933094,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c949e3ce1175b425c0985eb39e89dd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088843,
+            "locality_id":101869037,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101869037,
+    "wof:lastmodified":1544750072,
+    "wof:name":"\u041c\u043e\u0440\u043e\u0437\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.029133,
+    49.415454,
+    37.029133,
+    49.415454
+],
+  "geometry": {"coordinates":[37.029133,49.415454],"type":"Point"}
+}

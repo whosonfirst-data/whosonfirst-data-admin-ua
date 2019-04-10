@@ -1,0 +1,117 @@
+{
+  "id": 101867125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.552067,47.637823,37.552067,47.637823",
+    "geom:latitude":47.637823,
+    "geom:longitude":37.552067,
+    "iso:country":"UA",
+    "lbl:latitude":47.637823,
+    "lbl:longitude":37.552067,
+    "mps:latitude":47.637823,
+    "mps:longitude":37.552067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u0582\u0563\u0561\u057d"
+    ],
+    "name:eng_x_preferred":[
+        "Buhas"
+    ],
+    "name:est_x_preferred":[
+        "Bugass"
+    ],
+    "name:ger_x_preferred":[
+        "Buhas"
+    ],
+    "name:lav_x_preferred":[
+        "Buhasa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "Buhas"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0433\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Bugas"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u043e\u043b\u043d\u043e\u0432\u0430\u0445\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Volnovakhs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0443\u0433\u0430\u0441",
+    "qs:loc_alt":"Buhas",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702278,
+        "gp:id":917769,
+        "qs:id":9,
+        "wd:id":"Q4097757"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e442250fb83454fbc8ebe69eb1ae5e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":101867125,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":101867125,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101867125,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u0411\u0443\u0433\u0430\u0441",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.552067,
+    47.637823,
+    37.552067,
+    47.637823
+],
+  "geometry": {"coordinates":[37.552067,47.637823],"type":"Point"}
+}

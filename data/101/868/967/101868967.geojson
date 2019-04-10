@@ -1,0 +1,116 @@
+{
+  "id": 101868967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.650016,48.269367,39.650016,48.269367",
+    "geom:latitude":48.269367,
+    "geom:longitude":39.650016,
+    "iso:country":"UA",
+    "lbl:latitude":48.269367,
+    "lbl:longitude":39.650016,
+    "mps:latitude":48.269367,
+    "mps:longitude":39.650016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u0561\u056c\u0565\u056f\u057d\u0561\u0576\u0564\u0580\u0578\u057e\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u65b0\u5967\u5217\u514b\u6851\u5fb7\u91cc\u592b\u5361"
+    ],
+    "name:cze_x_preferred":[
+        "Novooleksandrivka"
+    ],
+    "name:eng_x_preferred":[
+        "Novoaleksandrovka"
+    ],
+    "name:ger_x_preferred":[
+        "Nowoolexandriwka"
+    ],
+    "name:lav_x_preferred":[
+        "Novooleksandrivka"
+    ],
+    "name:pol_x_preferred":[
+        "Nowoo\u0142eksandriwka"
+    ],
+    "name:rum_x_preferred":[
+        "Novooleksandrivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0430\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Novooleksandrivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novaya Aleksandrovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u043e\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnodons'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Novooleksandrivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108815747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699722,
+        "gp:id":928707,
+        "qs:id":9,
+        "wd:id":"Q4323034"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"528e2a43524a963c6640863b9bce5383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815747,
+            "locality_id":101868967,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101868967,
+    "wof:lastmodified":1544750033,
+    "wof:name":"\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108815747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.650016,
+    48.269367,
+    39.650016,
+    48.269367
+],
+  "geometry": {"coordinates":[39.650016,48.269367],"type":"Point"}
+}

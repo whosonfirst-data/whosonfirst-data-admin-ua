@@ -1,0 +1,90 @@
+{
+  "id": 1125984553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.49235,47.48746,34.49235,47.48746",
+    "geom:latitude":47.48746,
+    "geom:longitude":34.49235,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5685,
+    "gn:population":5685,
+    "iso:country":"UA",
+    "lbl:latitude":47.48746,
+    "lbl:longitude":34.49235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u044f\u043d\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u043e\u0434\u044f\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0434\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Vodyanoye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689321,
+    "qs_pg:gn_pop":5685,
+    "qs_pg:name":"Vodyane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275414,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689321,
+        "qs_pg:id":275414
+    },
+    "wof:country":"UA",
+    "wof:created":1497298741,
+    "wof:geomhash":"84c086800ee33412b649d09bfb5a7771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088255,
+            "locality_id":1125984553,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1125984553,
+    "wof:lastmodified":1509404997,
+    "wof:name":"Vodyane",
+    "wof:parent_id":102088255,
+    "wof:placetype":"locality",
+    "wof:population":5685,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49235,
+    47.48746,
+    34.49235,
+    47.48746
+],
+  "geometry": {"coordinates":[34.49235,47.48746],"type":"Point"}
+}

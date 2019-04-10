@@ -1,0 +1,100 @@
+{
+  "id": 1125767765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7639,47.18557,33.7639,47.18557",
+    "geom:latitude":47.18557,
+    "geom:longitude":33.7639,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2102,
+    "gn:population":2102,
+    "iso:country":"UA",
+    "lbl:latitude":47.18557,
+    "lbl:longitude":33.7639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Dudchany"
+    ],
+    "name:ger_x_preferred":[
+        "Dudtschany"
+    ],
+    "name:lav_x_preferred":[
+        "Dud\u010dani"
+    ],
+    "name:rum_x_preferred":[
+        "Dudcean\u00ee"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0434\u0447\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0434\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dudchino"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":709465,
+    "qs_pg:gn_pop":2102,
+    "qs_pg:name":"Dudchany",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":83140,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709465,
+        "qs_pg:id":83140,
+        "wd:id":"Q4170313"
+    },
+    "wof:country":"UA",
+    "wof:created":1497289959,
+    "wof:geomhash":"e1ee0a1ab814cb49e12f0c4868170b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088189,
+            "locality_id":1125767765,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1125767765,
+    "wof:lastmodified":1514509324,
+    "wof:name":"Dudchany",
+    "wof:parent_id":102088189,
+    "wof:placetype":"locality",
+    "wof:population":2102,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7639,
+    47.18557,
+    33.7639,
+    47.18557
+],
+  "geometry": {"coordinates":[33.7639,47.18557],"type":"Point"}
+}

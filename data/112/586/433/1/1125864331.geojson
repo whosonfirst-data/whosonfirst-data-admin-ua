@@ -1,0 +1,87 @@
+{
+  "id": 1125864331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9102,47.9781,35.9102,47.9781",
+    "geom:latitude":47.9781,
+    "geom:longitude":35.9102,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5568,
+    "gn:population":5568,
+    "iso:country":"UA",
+    "lbl:latitude":47.9781,
+    "lbl:longitude":35.9102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novonikolayevka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699413,
+    "qs_pg:gn_pop":5568,
+    "qs_pg:name":"Novomykolayivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128418,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699413,
+        "qs_pg:id":128418
+    },
+    "wof:country":"UA",
+    "wof:created":1497293965,
+    "wof:geomhash":"6abf1ed9b9d1c191a5c4be2f4958a3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088443,
+            "locality_id":1125864331,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1125864331,
+    "wof:lastmodified":1509396858,
+    "wof:name":"Novomykolayivka",
+    "wof:parent_id":102088443,
+    "wof:placetype":"locality",
+    "wof:population":5568,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9102,
+    47.9781,
+    35.9102,
+    47.9781
+],
+  "geometry": {"coordinates":[35.9102,47.9781],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226015221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93259,49.64766,38.93259,49.64766",
+    "geom:latitude":49.64766,
+    "geom:longitude":38.93259,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Klymivka",
+    "gn:country_code":"UA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":809459,
+    "gn:latitude":49.64766,
+    "gn:longitude":38.93259,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Klymivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Klymivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043b\u0438\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Klimovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":809459
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f2106031d1541813653e87f2c272dbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088961,
+            "locality_id":1226015221,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1226015221,
+    "wof:lastmodified":1537711478,
+    "wof:name":"Klymivka",
+    "wof:parent_id":102088961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93259000000001,
+    49.64766,
+    38.93259000000001,
+    49.64766
+],
+  "geometry": {"coordinates":[38.93259000000001,49.64766],"type":"Point"}
+}

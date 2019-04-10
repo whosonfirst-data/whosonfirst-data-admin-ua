@@ -1,0 +1,78 @@
+{
+  "id": 101865851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.784294,48.21378,34.784294,48.21378",
+    "geom:latitude":48.21378,
+    "geom:longitude":34.784294,
+    "iso:country":"UA",
+    "lbl:latitude":48.21378,
+    "lbl:longitude":34.784294,
+    "mps:latitude":48.21378,
+    "mps:longitude":34.784294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043e\u043b\u043e\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Solonians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0410\u043f\u043e\u043b\u043b\u043e\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Apollonivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":931740,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3f10d8958cbcc276b3d9f240753ec927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088437,
+            "locality_id":101865851,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101865851,
+    "wof:lastmodified":1544748275,
+    "wof:name":"\u0410\u043f\u043e\u043b\u043b\u043e\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.784294,
+    48.21378,
+    34.784294,
+    48.21378
+],
+  "geometry": {"coordinates":[34.784294,48.21378],"type":"Point"}
+}

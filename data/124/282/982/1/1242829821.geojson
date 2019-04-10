@@ -1,0 +1,76 @@
+{
+  "id": 1242829821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59146,51.19599,24.59146,51.19599",
+    "geom:latitude":51.19599,
+    "geom:longitude":24.59146,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Dovhonosy",
+    "gn:country_code":"UA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709814,
+    "gn:latitude":51.19599,
+    "gn:longitude":24.59146,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dovhonosy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dovhonosy"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u0432\u0433\u043e\u043d\u043e\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dolgonosy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709814
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f23706977f42d6113080f235b66b9a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088743,
+            "locality_id":1242829821,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1242829821,
+    "wof:lastmodified":1537711225,
+    "wof:name":"Dovhonosy",
+    "wof:parent_id":102088743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59146,
+    51.19599,
+    24.59146,
+    51.19599
+],
+  "geometry": {"coordinates":[24.59146,51.19599],"type":"Point"}
+}

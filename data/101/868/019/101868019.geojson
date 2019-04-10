@@ -1,0 +1,110 @@
+{
+  "id": 101868019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.322913,48.8908,35.322913,48.8908",
+    "geom:latitude":48.8908,
+    "geom:longitude":35.322913,
+    "iso:country":"UA",
+    "lbl:latitude":48.8908,
+    "lbl:longitude":35.322913,
+    "mps:latitude":48.8908,
+    "mps:longitude":35.322913,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0644\u0648\u0628\u064a\u0641\u0643\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u6208\u76e7\u6bd4\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Golubovka"
+    ],
+    "name:ger_x_preferred":[
+        "Holubiwka"
+    ],
+    "name:lav_x_preferred":[
+        "Holubivka"
+    ],
+    "name:rum_x_preferred":[
+        "Holubivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Holubivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kil\u2019chen\u2019"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novomoskovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Holubivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708535,
+        "gp:id":920240,
+        "qs:id":6,
+        "wd:id":"Q4119445"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"82acc558f0c029400a4285aee6f65a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815619,
+            "locality_id":101868019,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101868019,
+    "wof:lastmodified":1544749501,
+    "wof:name":"\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108815619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.322913,
+    48.8908,
+    35.322913,
+    48.8908
+],
+  "geometry": {"coordinates":[35.322913,48.8908],"type":"Point"}
+}

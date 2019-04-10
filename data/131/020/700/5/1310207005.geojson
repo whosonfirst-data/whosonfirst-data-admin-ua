@@ -1,0 +1,76 @@
+{
+  "id": 1310207005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77646,50.77895,31.77646,50.77895",
+    "geom:latitude":50.77895,
+    "geom:longitude":31.77646,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalynivka",
+    "gn:country_code":"UA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527433,
+    "gn:latitude":50.77895,
+    "gn:longitude":31.77646,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kalynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kalynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527433
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"815c0a6d0143672ae4c3814bf5e4567b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088913,
+            "locality_id":1310207005,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1310207005,
+    "wof:lastmodified":1537711738,
+    "wof:name":"Kalynivka",
+    "wof:parent_id":102088913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77646,
+    50.77895,
+    31.77646,
+    50.77895
+],
+  "geometry": {"coordinates":[31.77646,50.77895],"type":"Point"}
+}

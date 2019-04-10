@@ -1,0 +1,88 @@
+{
+  "id": 101871131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.515632,51.275085,29.515632,51.275085",
+    "geom:latitude":51.275085,
+    "geom:longitude":29.515632,
+    "iso:country":"UA",
+    "lbl:latitude":51.275085,
+    "lbl:longitude":29.515632,
+    "mps:latitude":51.275085,
+    "mps:longitude":29.515632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kovshylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0432\u0448\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kovshilo"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u043e\u043b\u0456\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Polis'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0432\u0448\u0438\u043b\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Kovshylivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704606,
+        "gp:id":12518477
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cda791163137f5fa682ab41ada2540da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088915,
+            "locality_id":101871131,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101871131,
+    "wof:lastmodified":1544750965,
+    "wof:name":"\u041a\u043e\u0432\u0448\u0438\u043b\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.515632,
+    51.275085,
+    29.515632,
+    51.275085
+],
+  "geometry": {"coordinates":[29.515632,51.275085],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226525053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45205,50.2887,24.45205,50.2887",
+    "geom:latitude":50.2887,
+    "geom:longitude":24.45205,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Volytsya",
+    "gn:country_code":"UA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425777,
+    "gn:latitude":50.2887,
+    "gn:longitude":24.45205,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Volytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Volytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u043b\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Volitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425777
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c65d3f397a50035dc9b3ef12b2cff411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088501,
+            "locality_id":1226525053,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1226525053,
+    "wof:lastmodified":1537711677,
+    "wof:name":"Volytsya",
+    "wof:parent_id":102088501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45205,
+    50.2887,
+    24.45205,
+    50.2887
+],
+  "geometry": {"coordinates":[24.45205,50.2887],"type":"Point"}
+}

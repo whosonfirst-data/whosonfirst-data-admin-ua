@@ -1,0 +1,82 @@
+{
+  "id": 101859693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.026186,48.358924,25.026186,48.358924",
+    "geom:latitude":48.358924,
+    "geom:longitude":25.026186,
+    "iso:country":"UA",
+    "lbl:latitude":48.358924,
+    "lbl:longitude":25.026186,
+    "mps:latitude":48.358924,
+    "mps:longitude":25.026186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pistyn\u2019"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0441\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kosivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0456\u0441\u0442\u0438\u043d\u044c",
+    "qs:loc_alt":"Pistyn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697140,
+        "gp:id":923726,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8671972350d6e328d1e7fcd64c39b66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088059,
+            "locality_id":101859693,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101859693,
+    "wof:lastmodified":1544745046,
+    "wof:name":"\u041f\u0456\u0441\u0442\u0438\u043d\u044c",
+    "wof:parent_id":102088059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.026186,
+    48.358924,
+    25.026186,
+    48.358924
+],
+  "geometry": {"coordinates":[25.026186,48.358924],"type":"Point"}
+}

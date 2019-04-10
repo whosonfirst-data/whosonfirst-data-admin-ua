@@ -1,0 +1,76 @@
+{
+  "id": 1343226959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97805,50.70705,25.97805,50.70705",
+    "geom:latitude":50.70705,
+    "geom:longitude":25.97805,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dykiv",
+    "gn:country_code":"UA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8437340,
+    "gn:latitude":50.70705,
+    "gn:longitude":25.97805,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Dykiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dykiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0438\u043a\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Dikov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8437340
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"75e0204da55b189650c2835031c13d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":1343226959,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1343226959,
+    "wof:lastmodified":1537711689,
+    "wof:name":"Dykiv",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97805,
+    50.70705,
+    25.97805,
+    50.70705
+],
+  "geometry": {"coordinates":[25.97805,50.70705],"type":"Point"}
+}

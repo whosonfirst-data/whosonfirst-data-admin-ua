@@ -1,0 +1,95 @@
+{
+  "id": 1242755227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33976,45.32072,34.33976,45.32072",
+    "geom:latitude":45.32072,
+    "geom:longitude":34.33976,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704383",
+    "gn:admin3_code":"11152926.0",
+    "gn:asciiname":"Azov",
+    "gn:country_code":"UA",
+    "gn:dem":62,
+    "gn:elevation":"60.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713071,
+    "gn:latitude":45.32072,
+    "gn:longitude":34.33976,
+    "gn:modification_date":"2016-07-27",
+    "gn:name":"Azov",
+    "gn:population":94,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Azov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0437\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713071
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"276884fefdbecec79f8f5ba4f620b16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1242755227,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":1242755227,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1242755227,
+    "wof:lastmodified":1537711386,
+    "wof:name":"Azov",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33976,
+    45.32072,
+    34.33976,
+    45.32072
+],
+  "geometry": {"coordinates":[34.33976,45.32072],"type":"Point"}
+}

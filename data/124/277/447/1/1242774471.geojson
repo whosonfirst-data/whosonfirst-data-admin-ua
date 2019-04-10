@@ -1,0 +1,76 @@
+{
+  "id": 1242774471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16712,47.0087,33.16712,47.0087",
+    "geom:latitude":47.0087,
+    "geom:longitude":33.16712,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dmytrenka",
+    "gn:country_code":"UA",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710016,
+    "gn:latitude":47.0087,
+    "gn:longitude":33.16712,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dmytrenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dmytrenka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043c\u0438\u0442\u0440\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dmitrenko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710016
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"abdcf743a25e9bd3e75032ad7bb92b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088131,
+            "locality_id":1242774471,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1242774471,
+    "wof:lastmodified":1537711235,
+    "wof:name":"Dmytrenka",
+    "wof:parent_id":102088131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16712,
+    47.0087,
+    33.16712,
+    47.0087
+],
+  "geometry": {"coordinates":[33.16712,47.0087],"type":"Point"}
+}

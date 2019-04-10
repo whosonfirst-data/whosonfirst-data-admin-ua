@@ -1,0 +1,86 @@
+{
+  "id": 1210014755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80249,47.77792,36.80249,47.77792",
+    "geom:latitude":47.77792,
+    "geom:longitude":36.80249,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Makarivka",
+    "gn:country_code":"UA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114394,
+    "gn:latitude":47.77792,
+    "gn:longitude":36.80249,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Makarivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Makarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043a\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makarovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114394
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22c4b3f111ae6f49809d1f39ffd44ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1210014755,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1210014755,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1210014755,
+    "wof:lastmodified":1537711858,
+    "wof:name":"Makarivka",
+    "wof:parent_id":102088519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80249,
+    47.77792,
+    36.80249,
+    47.77792
+],
+  "geometry": {"coordinates":[36.80249,47.77792],"type":"Point"}
+}

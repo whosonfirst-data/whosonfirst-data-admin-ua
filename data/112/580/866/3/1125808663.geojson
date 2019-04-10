@@ -1,0 +1,102 @@
+{
+  "id": 1125808663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54773,49.84252,36.54773,49.84252",
+    "geom:latitude":49.84252,
+    "geom:longitude":36.54773,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4841,
+    "gn:population":4841,
+    "iso:country":"UA",
+    "lbl:latitude":49.84252,
+    "lbl:longitude":36.54773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novo Pokrovzkoye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699328,
+    "qs_pg:gn_pop":4841,
+    "qs_pg:name":"Novopokrovka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Kharkivs\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":220687,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":928904,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Kharkivs\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        1108815749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699328,
+        "gp:id":928904,
+        "qs_pg:id":220687
+    },
+    "wof:country":"UA",
+    "wof:created":1497291566,
+    "wof:geomhash":"ad029738ee63822f061db7efaee3ff25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815749,
+            "locality_id":1125808663,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125808663,
+    "wof:lastmodified":1509393422,
+    "wof:name":"Novopokrovka",
+    "wof:parent_id":1108815749,
+    "wof:placetype":"locality",
+    "wof:population":4841,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54773,
+    49.84252,
+    36.54773,
+    49.84252
+],
+  "geometry": {"coordinates":[36.54773,49.84252],"type":"Point"}
+}

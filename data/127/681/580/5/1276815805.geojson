@@ -1,0 +1,75 @@
+{
+  "id": 1276815805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96599,46.68071,35.96599,46.68071",
+    "geom:latitude":46.68071,
+    "geom:longitude":35.96599,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Raynivka",
+    "gn:country_code":"UA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695751,
+    "gn:latitude":46.68071,
+    "gn:longitude":35.96599,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Raynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Raynovka",
+        "Raykovka",
+        "Raynivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695751
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c4ac6eb274abc83e2db23035ecc657ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088235,
+            "locality_id":1276815805,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1276815805,
+    "wof:lastmodified":1537710525,
+    "wof:name":"Raynivka",
+    "wof:parent_id":102088235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96599000000001,
+    46.68071,
+    35.96599000000001,
+    46.68071
+],
+  "geometry": {"coordinates":[35.96599000000001,46.68071],"type":"Point"}
+}

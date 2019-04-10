@@ -1,0 +1,83 @@
+{
+  "id": 1243060491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24723,48.70351,37.24723,48.70351",
+    "geom:latitude":48.70351,
+    "geom:longitude":37.24723,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yakovlivka",
+    "gn:country_code":"UA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9111417,
+    "gn:latitude":48.70351,
+    "gn:longitude":37.24723,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Yakovlivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yakovlivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u043a\u043e\u0432\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yakovlevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9111417
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2e3cacfc2c45f521fb89dd173a167a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1243060491,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1243060491,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243060491,
+    "wof:lastmodified":1537711838,
+    "wof:name":"Yakovlivka",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24723,
+    48.70351,
+    37.24723,
+    48.70351
+],
+  "geometry": {"coordinates":[37.24723,48.70351],"type":"Point"}
+}

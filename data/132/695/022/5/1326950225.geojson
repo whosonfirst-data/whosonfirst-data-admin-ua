@@ -1,0 +1,77 @@
+{
+  "id": 1326950225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64175,49.20144,35.64175,49.20144",
+    "geom:latitude":49.20144,
+    "geom:longitude":35.64175,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zemlyanky",
+    "gn:country_code":"UA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689889,
+    "gn:latitude":49.20144,
+    "gn:longitude":35.64175,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Zemlyanky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zemlyanky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0435\u043c\u043b\u044f\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Verkhne-Zemlyanki",
+        "Zemlyanki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689889
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6d8c074cf806e66afbd6697162275eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088763,
+            "locality_id":1326950225,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1326950225,
+    "wof:lastmodified":1537710248,
+    "wof:name":"Zemlyanky",
+    "wof:parent_id":102088763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64175,
+    49.20144000000001,
+    35.64175,
+    49.20144000000001
+],
+  "geometry": {"coordinates":[35.64175,49.20144000000001],"type":"Point"}
+}

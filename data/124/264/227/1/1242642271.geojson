@@ -1,0 +1,76 @@
+{
+  "id": 1242642271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41146,51.35543,26.41146,51.35543",
+    "geom:latitude":51.35543,
+    "geom:longitude":26.41146,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Vysove",
+    "gn:country_code":"UA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345940,
+    "gn:latitude":51.35543,
+    "gn:longitude":26.41146,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Vysove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vysove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0441\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Visovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345940
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7cd3a776b3cf5b3cd9abf33c936faa86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088833,
+            "locality_id":1242642271,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1242642271,
+    "wof:lastmodified":1537711616,
+    "wof:name":"Vysove",
+    "wof:parent_id":102088833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41146,
+    51.35543,
+    26.41146,
+    51.35543
+],
+  "geometry": {"coordinates":[26.41146,51.35543],"type":"Point"}
+}

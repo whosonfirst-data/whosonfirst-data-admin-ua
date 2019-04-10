@@ -1,0 +1,77 @@
+{
+  "id": 1360283609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.465,48.1625,38.465,48.1625",
+    "geom:latitude":48.1625,
+    "geom:longitude":38.465,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Imeni Voroshilova",
+    "gn:country_code":"UA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":809817,
+    "gn:latitude":48.1625,
+    "gn:longitude":38.465,
+    "gn:modification_date":"1996-03-25",
+    "gn:name":"Imeni Voroshilova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":809817
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9cf17b381e93cd19f0cfdb93c8a2c139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1360283609,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1360283609,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1360283609,
+    "wof:lastmodified":1536659354,
+    "wof:name":"Imeni Voroshilova",
+    "wof:parent_id":1108815735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.465,
+    48.1625,
+    38.465,
+    48.1625
+],
+  "geometry": {"coordinates":[38.465,48.1625],"type":"Point"}
+}

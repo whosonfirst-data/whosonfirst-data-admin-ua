@@ -1,0 +1,76 @@
+{
+  "id": 1209871599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17545,51.66231,25.17545,51.66231",
+    "geom:latitude":51.66231,
+    "geom:longitude":25.17545,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Krymne",
+    "gn:country_code":"UA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703872,
+    "gn:latitude":51.66231,
+    "gn:longitude":25.17545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krymne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Krymne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u043c\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krymno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703872
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"38eb022eb1b3ec072e868dcea0af1fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088837,
+            "locality_id":1209871599,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1209871599,
+    "wof:lastmodified":1537710937,
+    "wof:name":"Krymne",
+    "wof:parent_id":102088837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17545,
+    51.66231,
+    25.17545,
+    51.66231
+],
+  "geometry": {"coordinates":[25.17545,51.66231],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1125900599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24775,48.40514,29.24775,48.40514",
+    "geom:latitude":48.40514,
+    "geom:longitude":29.24775,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3378,
+    "gn:population":3378,
+    "iso:country":"UA",
+    "lbl:latitude":48.40514,
+    "lbl:longitude":29.24775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Obodovka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":698807,
+    "qs_pg:gn_pop":3378,
+    "qs_pg:name":"Obodivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028497,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698807,
+        "qs_pg:id":1028497
+    },
+    "wof:country":"UA",
+    "wof:created":1497295786,
+    "wof:geomhash":"b0ac1ab81d4585e990e8484d029684c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088955,
+            "locality_id":1125900599,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1125900599,
+    "wof:lastmodified":1509399379,
+    "wof:name":"Obodivka",
+    "wof:parent_id":102088955,
+    "wof:placetype":"locality",
+    "wof:population":3378,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24775,
+    48.40514,
+    29.24775,
+    48.40514
+],
+  "geometry": {"coordinates":[29.24775,48.40514],"type":"Point"}
+}

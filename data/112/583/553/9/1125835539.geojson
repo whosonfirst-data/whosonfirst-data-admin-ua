@@ -1,0 +1,110 @@
+{
+  "id": 1125835539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21694,44.51726,34.21694,44.51726",
+    "geom:latitude":44.51726,
+    "geom:longitude":34.21694,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":462,
+    "gn:population":466,
+    "iso:country":"UA",
+    "lbl:latitude":44.51726,
+    "lbl:longitude":34.21694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u6c83\u65af\u970d\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Voskhod"
+    ],
+    "name:eng_x_preferred":[
+        "Voskhod"
+    ],
+    "name:epo_x_preferred":[
+        "Vos\u0125odo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0445\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0441\u0445\u043e\u0434"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":688952,
+    "qs_pg:gn_pop":462,
+    "qs_pg:name":"Voskhod",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":82686,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738659,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688952,
+        "qs_pg:id":82686,
+        "wd:id":"Q3891214"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292701,
+    "wof:geomhash":"b1c6611e47cccaaa1d9b5306d7a53f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125835539,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "locality_id":1125835539,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125835539,
+    "wof:lastmodified":1530299611,
+    "wof:name":"Voskhod",
+    "wof:parent_id":1108738659,
+    "wof:placetype":"locality",
+    "wof:population":466,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21694,
+    44.51726,
+    34.21694,
+    44.51726
+],
+  "geometry": {"coordinates":[34.21694,44.51726],"type":"Point"}
+}

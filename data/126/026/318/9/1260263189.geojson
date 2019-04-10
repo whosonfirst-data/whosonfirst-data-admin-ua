@@ -1,0 +1,95 @@
+{
+  "id": 1260263189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15456,45.2387,34.15456,45.2387",
+    "geom:latitude":45.2387,
+    "geom:longitude":34.15456,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704383",
+    "gn:admin3_code":"11152908",
+    "gn:asciiname":"Novozuyevka",
+    "gn:country_code":"UA",
+    "gn:dem":101,
+    "gn:elevation":"102.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":517270,
+    "gn:latitude":45.2387,
+    "gn:longitude":34.15456,
+    "gn:modification_date":"2016-07-21",
+    "gn:name":"Novozuyevka",
+    "gn:population":501,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novozuyevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0437\u0443\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0437\u0443\u0457\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":517270
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"419cddf473177904ebea95cfe2f464f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1260263189,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":1260263189,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1260263189,
+    "wof:lastmodified":1537710075,
+    "wof:name":"Novozuyevka",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:population":501,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15456,
+    45.2387,
+    34.15456,
+    45.2387
+],
+  "geometry": {"coordinates":[34.15456,45.2387],"type":"Point"}
+}

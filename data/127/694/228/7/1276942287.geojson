@@ -1,0 +1,77 @@
+{
+  "id": 1276942287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71666,50.6304,26.71666,50.6304",
+    "geom:latitude":50.6304,
+    "geom:longitude":26.71666,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Vytkiv",
+    "gn:country_code":"UA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689450,
+    "gn:latitude":50.6304,
+    "gn:longitude":26.71666,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Vytkiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vytkiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0442\u043a\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Vitkuv",
+        "Vitkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689450
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d228fa2cf05bcee40970dc7471a283d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088659,
+            "locality_id":1276942287,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1276942287,
+    "wof:lastmodified":1537710223,
+    "wof:name":"Vytkiv",
+    "wof:parent_id":102088659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71666,
+    50.6304,
+    26.71666,
+    50.6304
+],
+  "geometry": {"coordinates":[26.71666,50.6304],"type":"Point"}
+}

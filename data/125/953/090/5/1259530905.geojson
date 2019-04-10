@@ -1,0 +1,76 @@
+{
+  "id": 1259530905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.11051,49.96135,29.11051,49.96135",
+    "geom:latitude":49.96135,
+    "geom:longitude":29.11051,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Harapivka",
+    "gn:country_code":"UA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713231,
+    "gn:latitude":49.96135,
+    "gn:longitude":29.11051,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Harapivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Harapivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0440\u0430\u043f\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Arapovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713231
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"09e1bbe20006e69d573835fe73fba86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088599,
+            "locality_id":1259530905,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1259530905,
+    "wof:lastmodified":1537711393,
+    "wof:name":"Harapivka",
+    "wof:parent_id":102088599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.11051,
+    49.96135,
+    29.11051,
+    49.96135
+],
+  "geometry": {"coordinates":[29.11051,49.96135],"type":"Point"}
+}

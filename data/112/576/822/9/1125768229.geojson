@@ -1,0 +1,100 @@
+{
+  "id": 1125768229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03898,45.29568,33.03898,45.29568",
+    "geom:latitude":45.29568,
+    "geom:longitude":33.03898,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":160,
+    "gn:population":292,
+    "iso:country":"UA",
+    "lbl:latitude":45.29568,
+    "lbl:longitude":33.03898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Popovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0456\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":696539,
+    "qs_pg:gn_pop":160,
+    "qs_pg:name":"Popivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":82863,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696539,
+        "qs_pg:id":82863
+    },
+    "wof:country":"UA",
+    "wof:created":1497289972,
+    "wof:geomhash":"bb22c1fe2ed03a2a72d861f89e3fe48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125768229,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1125768229,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125768229,
+    "wof:lastmodified":1530299609,
+    "wof:name":"Popivka",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03898,
+    45.29568,
+    33.03898,
+    45.29568
+],
+  "geometry": {"coordinates":[33.03898,45.29568],"type":"Point"}
+}

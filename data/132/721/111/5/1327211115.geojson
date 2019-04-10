@@ -1,0 +1,95 @@
+{
+  "id": 1327211115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07367,45.63354,33.07367,45.63354",
+    "geom:latitude":45.63354,
+    "geom:longitude":33.07367,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"710690",
+    "gn:admin3_code":"11153133.0",
+    "gn:asciiname":"Zhuravlevka",
+    "gn:country_code":"UA",
+    "gn:dem":46,
+    "gn:elevation":"45.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7026772,
+    "gn:latitude":45.63354,
+    "gn:longitude":33.07367,
+    "gn:modification_date":"2016-08-15",
+    "gn:name":"Zhuravlevka",
+    "gn:population":145,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhuravlevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u0432\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u0440\u0430\u0432\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738655,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7026772
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"32cf780593a25cbe0fb164b4dda850d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327211115,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "locality_id":1327211115,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327211115,
+    "wof:lastmodified":1537711535,
+    "wof:name":"Zhuravlevka",
+    "wof:parent_id":1108738655,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07367,
+    45.63354,
+    33.07367,
+    45.63354
+],
+  "geometry": {"coordinates":[33.07367,45.63354],"type":"Point"}
+}

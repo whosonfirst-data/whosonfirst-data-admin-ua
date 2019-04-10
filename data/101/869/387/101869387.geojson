@@ -1,0 +1,136 @@
+{
+  "id": 101869387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.114669,50.177875,30.114669,50.177875",
+    "geom:latitude":50.177875,
+    "geom:longitude":30.114669,
+    "gn:population":7315,
+    "iso:country":"UA",
+    "lbl:latitude":50.177875,
+    "lbl:longitude":30.114669,
+    "mps:latitude":50.177875,
+    "mps:longitude":30.114669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0641\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u7f85\u74e6"
+    ],
+    "name:crh_x_preferred":[
+        "Borova"
+    ],
+    "name:deu_x_preferred":[
+        "Borowa"
+    ],
+    "name:eng_x_preferred":[
+        "Borova"
+    ],
+    "name:ger_x_preferred":[
+        "Borowa"
+    ],
+    "name:ita_x_preferred":[
+        "Borova"
+    ],
+    "name:pol_x_preferred":[
+        "Borowa"
+    ],
+    "name:ron_x_preferred":[
+        "Borova"
+    ],
+    "name:rum_x_preferred":[
+        "Borova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Borovaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7f85\u74e6"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0424\u0430\u0441\u0442\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Fastivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u043e\u0440\u043e\u0432\u0430",
+    "qs:loc_alt":"Borova",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        1108815645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711621,
+        "gp:id":917431,
+        "qs:id":128793,
+        "qs_pg:id":128793,
+        "wd:id":"Q780732",
+        "wk:page":"Borova, Kiev Oblast"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2429b78aa5b4cf7c6adbee249b7e50ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815645,
+            "locality_id":101869387,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101869387,
+    "wof:lastmodified":1544750268,
+    "wof:name":"\u0411\u043e\u0440\u043e\u0432\u0430",
+    "wof:parent_id":1108815645,
+    "wof:placetype":"locality",
+    "wof:population":7315,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.114669,
+    50.177875,
+    30.114669,
+    50.177875
+],
+  "geometry": {"coordinates":[30.114669,50.177875],"type":"Point"}
+}

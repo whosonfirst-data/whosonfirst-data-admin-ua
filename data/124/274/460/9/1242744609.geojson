@@ -1,0 +1,76 @@
+{
+  "id": 1242744609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24713,50.87355,28.24713,50.87355",
+    "geom:latitude":50.87355,
+    "geom:longitude":28.24713,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ushytsya",
+    "gn:country_code":"UA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690646,
+    "gn:latitude":50.87355,
+    "gn:longitude":28.24713,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ushytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ushytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u0448\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Ushitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690646
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"313d508a8c5195e074ca8af9e83210ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815631,
+            "locality_id":1242744609,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1242744609,
+    "wof:lastmodified":1537710288,
+    "wof:name":"Ushytsya",
+    "wof:parent_id":1108815631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24713,
+    50.87355,
+    28.24713,
+    50.87355
+],
+  "geometry": {"coordinates":[28.24713,50.87355],"type":"Point"}
+}

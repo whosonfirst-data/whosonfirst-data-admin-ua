@@ -1,0 +1,84 @@
+{
+  "id": 1259587745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3463,48.00215,37.3463,48.00215",
+    "geom:latitude":48.00215,
+    "geom:longitude":37.3463,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ostrivs'ke",
+    "gn:country_code":"UA",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698194,
+    "gn:latitude":48.00215,
+    "gn:longitude":37.3463,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Ostrivs\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ostrivs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ostroye",
+        "Ostrovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698194
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"214bd7ff7651e63eee59ab41f072777b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1259587745,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1259587745,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259587745,
+    "wof:lastmodified":1537710648,
+    "wof:name":"Ostrivs'ke",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3463,
+    48.00215,
+    37.3463,
+    48.00215
+],
+  "geometry": {"coordinates":[37.3463,48.00215],"type":"Point"}
+}

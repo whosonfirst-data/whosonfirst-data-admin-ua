@@ -1,0 +1,85 @@
+{
+  "id": 101859555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.706465,48.076819,23.706465,48.076819",
+    "geom:latitude":48.076819,
+    "geom:longitude":23.706465,
+    "iso:country":"UA",
+    "lbl:latitude":48.076819,
+    "lbl:longitude":23.706465,
+    "mps:latitude":48.076819,
+    "mps:longitude":23.706465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u044f\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "N\u2019yagova"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0422\u044f\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tiachivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u0431\u0440\u044f\u043d\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Dobrians'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709855,
+        "gp:id":935957,
+        "qs:id":4
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7995a378631d183de1582abbb9e7dd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088039,
+            "locality_id":101859555,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859555,
+    "wof:lastmodified":1544744973,
+    "wof:name":"\u0414\u043e\u0431\u0440\u044f\u043d\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.706465,
+    48.076819,
+    23.706465,
+    48.076819
+],
+  "geometry": {"coordinates":[23.706465,48.076819],"type":"Point"}
+}

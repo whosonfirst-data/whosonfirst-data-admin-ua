@@ -1,0 +1,87 @@
+{
+  "id": 1126024179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76871,48.58337,25.76871,48.58337",
+    "geom:latitude":48.58337,
+    "geom:longitude":25.76871,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3161,
+    "gn:population":3161,
+    "iso:country":"UA",
+    "lbl:latitude":48.58337,
+    "lbl:longitude":25.76871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0443\u0431\u0456\u0432\u0446\u0456"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0434\u0443\u0431\u0456\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Kadobovtsy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":707257,
+    "qs_pg:gn_pop":3161,
+    "qs_pg:name":"Kadubivtsi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128685,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707257,
+        "qs_pg:id":128685
+    },
+    "wof:country":"UA",
+    "wof:created":1497301023,
+    "wof:geomhash":"be6f4e2393064522110e34d0d1b3d810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088111,
+            "locality_id":1126024179,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":1126024179,
+    "wof:lastmodified":1509407425,
+    "wof:name":"Kadubivtsi",
+    "wof:parent_id":102088111,
+    "wof:placetype":"locality",
+    "wof:population":3161,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76871,
+    48.58337,
+    25.76871,
+    48.58337
+],
+  "geometry": {"coordinates":[25.76871,48.58337],"type":"Point"}
+}

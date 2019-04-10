@@ -1,0 +1,67 @@
+{
+  "id": 1293738221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55,46.8,35.55,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":35.55,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Vinogradovka",
+    "gn:country_code":"UA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689539,
+    "gn:latitude":46.8,
+    "gn:longitude":35.55,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Vinogradovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689539
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e6a1653f5f129fc5c9c03280df6c15ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815655,
+            "locality_id":1293738221,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1293738221,
+    "wof:lastmodified":1536923576,
+    "wof:name":"Vinogradovka",
+    "wof:parent_id":1108815655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55,
+    46.8,
+    35.55,
+    46.8
+],
+  "geometry": {"coordinates":[35.55,46.8],"type":"Point"}
+}

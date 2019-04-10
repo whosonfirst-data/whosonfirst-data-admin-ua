@@ -1,0 +1,91 @@
+{
+  "id": 101864545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.164557,51.728297,25.164557,51.728297",
+    "geom:latitude":51.728297,
+    "geom:longitude":25.164557,
+    "iso:country":"UA",
+    "lbl:latitude":51.728297,
+    "lbl:longitude":25.164557,
+    "mps:latitude":51.728297,
+    "mps:longitude":25.164557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zalaz\u2019ye"
+    ],
+    "name:ukr_x_preferred":[
+        "Zalazzya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u043b\u0430\u0437\u0437\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Zalaze"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Volyns'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u044e\u0431\u0435\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Liubeshivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0430\u043b\u0430\u0437\u0437\u044f",
+    "qs:loc_alt":"Zalazzia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687832,
+        "gp:id":931005,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8865c97aa89015e3cf617f444daa4859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088883,
+            "locality_id":101864545,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":101864545,
+    "wof:lastmodified":1544747582,
+    "wof:name":"\u0417\u0430\u043b\u0430\u0437\u0437\u044f",
+    "wof:parent_id":102088883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.164557,
+    51.728297,
+    25.164557,
+    51.728297
+],
+  "geometry": {"coordinates":[25.164557,51.728297],"type":"Point"}
+}

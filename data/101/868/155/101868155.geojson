@@ -1,0 +1,94 @@
+{
+  "id": 101868155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.897292,47.971148,35.897292,47.971148",
+    "geom:latitude":47.971148,
+    "geom:longitude":35.897292,
+    "gn:population":5568,
+    "iso:country":"UA",
+    "lbl:latitude":47.971148,
+    "lbl:longitude":35.897292,
+    "mps:latitude":47.971148,
+    "mps:longitude":35.897292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novonikolayevka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novomykolaivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Novomykolaivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699413,
+        "gp:id":928869,
+        "qs:id":128418,
+        "wd:id":"Q1001478"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"40c2f2f43c75da4493069b02e2af70f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088443,
+            "locality_id":101868155,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101868155,
+    "wof:lastmodified":1544749576,
+    "wof:name":"\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102088443,
+    "wof:placetype":"locality",
+    "wof:population":5568,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.897292,
+    47.971148,
+    35.897292,
+    47.971148
+],
+  "geometry": {"coordinates":[35.897292,47.971148],"type":"Point"}
+}

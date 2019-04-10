@@ -1,0 +1,88 @@
+{
+  "id": 101869287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.616679,49.666323,30.616679,49.666323",
+    "geom:latitude":49.666323,
+    "geom:longitude":30.616679,
+    "iso:country":"UA",
+    "lbl:latitude":49.666323,
+    "lbl:longitude":30.616679,
+    "mps:latitude":49.666323,
+    "mps:longitude":30.616679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ol'shanitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ol\u2019shanitsa"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u043a\u0438\u0442\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rokytnians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u044f",
+    "qs:loc_alt":"Ol'shanytsia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698528,
+        "gp:id":929549,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0b7284110010ea2ffd350b2ecef6252c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088587,
+            "locality_id":101869287,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101869287,
+    "wof:lastmodified":1544750210,
+    "wof:name":"\u041e\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u044f",
+    "wof:parent_id":102088587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.616679,
+    49.666323,
+    30.616679,
+    49.666323
+],
+  "geometry": {"coordinates":[30.616679,49.666323],"type":"Point"}
+}

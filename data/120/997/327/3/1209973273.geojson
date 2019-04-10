@@ -1,0 +1,76 @@
+{
+  "id": 1209973273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32313,51.12323,33.32313,51.12323",
+    "geom:latitude":51.12323,
+    "geom:longitude":33.32313,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bilozerka",
+    "gn:country_code":"UA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8409198,
+    "gn:latitude":51.12323,
+    "gn:longitude":33.32313,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Bilozerka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bilozerka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Belozerka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8409198
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9622e5a55a5202aac32151f5e24c864e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815701,
+            "locality_id":1209973273,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1209973273,
+    "wof:lastmodified":1537711659,
+    "wof:name":"Bilozerka",
+    "wof:parent_id":1108815701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32313,
+    51.12323,
+    33.32313,
+    51.12323
+],
+  "geometry": {"coordinates":[33.32313,51.12323],"type":"Point"}
+}

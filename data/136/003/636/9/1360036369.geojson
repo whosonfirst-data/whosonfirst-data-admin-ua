@@ -1,0 +1,76 @@
+{
+  "id": 1360036369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61949,50.5358,28.61949,50.5358",
+    "geom:latitude":50.5358,
+    "geom:longitude":28.61949,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Korytyshche",
+    "gn:country_code":"UA",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704849,
+    "gn:latitude":50.5358,
+    "gn:longitude":28.61949,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Korytyshche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Korytyshche"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0440\u0438\u0442\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Korytishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704849
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"90eadd7713be948431f92348f8038498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088713,
+            "locality_id":1360036369,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1360036369,
+    "wof:lastmodified":1537710986,
+    "wof:name":"Korytyshche",
+    "wof:parent_id":102088713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61949000000001,
+    50.5358,
+    28.61949000000001,
+    50.5358
+],
+  "geometry": {"coordinates":[28.61949000000001,50.5358],"type":"Point"}
+}

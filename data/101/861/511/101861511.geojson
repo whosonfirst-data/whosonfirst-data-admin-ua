@@ -1,0 +1,82 @@
+{
+  "id": 101861511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90292,48.791768,24.90292,48.791768",
+    "geom:latitude":48.791768,
+    "geom:longitude":24.90292,
+    "iso:country":"UA",
+    "lbl:latitude":48.791768,
+    "lbl:longitude":24.90292,
+    "mps:latitude":48.791768,
+    "mps:longitude":24.90292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kshivotuly Nove"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0422\u0438\u0441\u043c\u0435\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tysmenyts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u0456 \u041a\u0440\u0438\u0432\u043e\u0442\u0443\u043b\u0438",
+    "qs:loc_alt":"Novi Kryvotuly",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698936,
+        "gp:id":921237,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8e494e48a9888b4736586b46a122cb29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088175,
+            "locality_id":101861511,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101861511,
+    "wof:lastmodified":1544746001,
+    "wof:name":"\u041d\u043e\u0432\u0456 \u041a\u0440\u0438\u0432\u043e\u0442\u0443\u043b\u0438",
+    "wof:parent_id":102088175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90292,
+    48.791768,
+    24.90292,
+    48.791768
+],
+  "geometry": {"coordinates":[24.90292,48.791768],"type":"Point"}
+}

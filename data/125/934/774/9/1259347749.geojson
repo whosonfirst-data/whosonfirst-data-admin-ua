@@ -1,0 +1,77 @@
+{
+  "id": 1259347749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28695,51.25284,26.28695,51.25284",
+    "geom:latitude":51.25284,
+    "geom:longitude":26.28695,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Velykhiv",
+    "gn:country_code":"UA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690201,
+    "gn:latitude":51.25284,
+    "gn:longitude":26.28695,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Velykhiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Velykhiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u043b\u0438\u0445\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Velikhuv",
+        "Velikhov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690201
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"911ca0c02dac84d7388e92c336535913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088841,
+            "locality_id":1259347749,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1259347749,
+    "wof:lastmodified":1537710265,
+    "wof:name":"Velykhiv",
+    "wof:parent_id":102088841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28695,
+    51.25284,
+    26.28695,
+    51.25284
+],
+  "geometry": {"coordinates":[26.28695,51.25284],"type":"Point"}
+}

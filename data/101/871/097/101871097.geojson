@@ -1,0 +1,94 @@
+{
+  "id": 101871097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.811578,49.775698,36.811578,49.775698",
+    "geom:latitude":49.775698,
+    "geom:longitude":36.811578,
+    "iso:country":"UA",
+    "lbl:latitude":49.775698,
+    "lbl:longitude":36.811578,
+    "mps:latitude":49.775698,
+    "mps:longitude":36.811578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korobochkino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0431\u043e\u0447\u043a\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0431\u043e\u0447\u043a\u0438\u043d\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "Korobochkyne"
+    ],
+    "name:unk_x_variant":[
+        "Korobochkyne"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u0443\u0433\u0443\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Chuhuivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0440\u043e\u0431\u043e\u0447\u043a\u0438\u043d\u0435",
+    "qs:loc_alt":"Korobochkyne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        1108815749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704940,
+        "gp:id":923575,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bdd5d3fe3b7fa3869fb55a618cceadc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815749,
+            "locality_id":101871097,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101871097,
+    "wof:lastmodified":1544750950,
+    "wof:name":"\u041a\u043e\u0440\u043e\u0431\u043e\u0447\u043a\u0438\u043d\u0435",
+    "wof:parent_id":1108815749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.811578,
+    49.775698,
+    36.811578,
+    49.775698
+],
+  "geometry": {"coordinates":[36.811578,49.775698],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125857697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21948,49.85279,36.21948,49.85279",
+    "geom:latitude":49.85279,
+    "geom:longitude":36.21948,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4432,
+    "gn:population":4432,
+    "iso:country":"UA",
+    "lbl:latitude":49.85279,
+    "lbl:longitude":36.21948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Khorosheve"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0448\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u043e\u0440\u043e\u0448\u0435\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0448\u0435\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Khoroshevo"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":706281,
+    "qs_pg:gn_pop":4432,
+    "qs_pg:name":"Khorosheve",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275536,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706281,
+        "qs_pg:id":275536
+    },
+    "wof:country":"UA",
+    "wof:created":1497293688,
+    "wof:geomhash":"e83bdb99639fbc0d3fe0f25baac722cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088941,
+            "locality_id":1125857697,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125857697,
+    "wof:lastmodified":1509396340,
+    "wof:name":"Khorosheve",
+    "wof:parent_id":102088941,
+    "wof:placetype":"locality",
+    "wof:population":4432,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21948,
+    49.85279,
+    36.21948,
+    49.85279
+],
+  "geometry": {"coordinates":[36.21948,49.85279],"type":"Point"}
+}

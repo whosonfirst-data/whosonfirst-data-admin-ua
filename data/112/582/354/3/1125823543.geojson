@@ -1,0 +1,93 @@
+{
+  "id": 1125823543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74757,49.51473,31.74757,49.51473",
+    "geom:latitude":49.51473,
+    "geom:longitude":31.74757,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4629,
+    "gn:population":4629,
+    "iso:country":"UA",
+    "lbl:latitude":49.51473,
+    "lbl:longitude":31.74757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Moshny"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0448\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u0448\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0448\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dudnitskoye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":700730,
+    "qs_pg:gn_pop":4629,
+    "qs_pg:name":"Moshny",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128456,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        1108815743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700730,
+        "qs_pg:id":128456
+    },
+    "wof:country":"UA",
+    "wof:created":1497292175,
+    "wof:geomhash":"16de4a0007273218afa6f6e342ff5f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815743,
+            "locality_id":1125823543,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1125823543,
+    "wof:lastmodified":1509394264,
+    "wof:name":"Moshny",
+    "wof:parent_id":1108815743,
+    "wof:placetype":"locality",
+    "wof:population":4629,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74757,
+    49.51473,
+    31.74757,
+    49.51473
+],
+  "geometry": {"coordinates":[31.74757,49.51473],"type":"Point"}
+}

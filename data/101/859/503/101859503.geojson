@@ -1,0 +1,106 @@
+{
+  "id": 101859503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.855725,48.250473,25.855725,48.250473",
+    "geom:latitude":48.250473,
+    "geom:longitude":25.855725,
+    "iso:country":"UA",
+    "lbl:latitude":48.250473,
+    "lbl:longitude":25.855725,
+    "mps:latitude":48.250473,
+    "mps:longitude":25.855725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0544\u056b\u056d\u0561\u056c\u0579\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Mikhalcha"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056d\u0561\u056c\u0579\u0561"
+    ],
+    "name:ron_x_preferred":[
+        "Mihalcea"
+    ],
+    "name:rum_x_preferred":[
+        "Mihalcea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u044c\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u044c\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mikhal\u2019chi"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernivets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u043e\u0440\u043e\u0436\u0438\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Storozhynets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0438\u0445\u0430\u043b\u044c\u0447\u0430",
+    "qs:loc_alt":"Mykhal'cha",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701273,
+        "gp:id":918247,
+        "qs:id":5,
+        "wd:id":"Q2089946",
+        "wk:page":"Mykhalcha"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e23f053567d4cd7a899262f3cd7afa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088037,
+            "locality_id":101859503,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":101859503,
+    "wof:lastmodified":1544744947,
+    "wof:name":"\u041c\u0438\u0445\u0430\u043b\u044c\u0447\u0430",
+    "wof:parent_id":102088037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.855725,
+    48.250473,
+    25.855725,
+    48.250473
+],
+  "geometry": {"coordinates":[25.855725,48.250473],"type":"Point"}
+}

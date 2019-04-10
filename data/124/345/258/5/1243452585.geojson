@@ -1,0 +1,89 @@
+{
+  "id": 1243452585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.24126,48.37845,38.24126,48.37845",
+    "geom:latitude":48.37845,
+    "geom:longitude":38.24126,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lozove",
+    "gn:country_code":"UA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702738,
+    "gn:latitude":48.37845,
+    "gn:longitude":38.24126,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Lozove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lozevskoy",
+        "Lozovskoy",
+        "Lozove",
+        "Lozovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702738
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ac7f78ac5a8a7da83dd1b499b8b991e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1243452585,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1243452585,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243452585,
+    "wof:lastmodified":1537710884,
+    "wof:name":"Lozove",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.24126,
+    48.37845,
+    38.24126,
+    48.37845
+],
+  "geometry": {"coordinates":[38.24126,48.37845],"type":"Point"}
+}

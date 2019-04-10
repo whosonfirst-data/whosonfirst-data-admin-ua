@@ -1,0 +1,87 @@
+{
+  "id": 101868757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.445399,48.033191,39.445399,48.033191",
+    "geom:latitude":48.033191,
+    "geom:longitude":39.445399,
+    "iso:country":"UA",
+    "lbl:latitude":48.033191,
+    "lbl:longitude":39.445399,
+    "mps:latitude":48.033191,
+    "mps:longitude":39.445399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0443 \u043c\u0456\u0441\u0442\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e02\u8f96\u533a"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0410\u043d\u0442\u0440\u0430\u0446\u0438\u0442\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Antratsytivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:loc_alt":"Dzerzhyns'kyi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108730793,
+        1175613737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":928754,
+        "qs:id":1,
+        "wd:id":"Q3565075"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2655200bcaa91f863443409a996f157e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730793,
+            "locality_id":101868757,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101868757,
+    "wof:lastmodified":1544749914,
+    "wof:name":"\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "wof:parent_id":1175613737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.445399,
+    48.033191,
+    39.445399,
+    48.033191
+],
+  "geometry": {"coordinates":[39.445399,48.033191],"type":"Point"}
+}

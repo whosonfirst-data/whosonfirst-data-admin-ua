@@ -1,0 +1,101 @@
+{
+  "id": 1360265513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47198,45.69238,33.47198,45.69238",
+    "geom:latitude":45.69238,
+    "geom:longitude":33.47198,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"695741",
+    "gn:admin3_code":"11153029",
+    "gn:asciiname":"Volochayevka",
+    "gn:country_code":"UA",
+    "gn:dem":72,
+    "gn:elevation":"72.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689161,
+    "gn:latitude":45.69238,
+    "gn:longitude":33.47198,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Volochayevka",
+    "gn:population":279,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Volochayevka"
+    ],
+    "name:rus_x_historical":[
+        "\u0421\u043c\u0430\u0438\u0301\u043b-\u0411\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0447\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043c\u0430\u0438\u0301\u043b-\u0411\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0447\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689161
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e37e1aafe21caf96676681bac7d7af05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1360265513,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1360265513,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1360265513,
+    "wof:lastmodified":1537710204,
+    "wof:name":"Volochayevka",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:population":279,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47198,
+    45.69238,
+    33.47198,
+    45.69238
+],
+  "geometry": {"coordinates":[33.47198,45.69238],"type":"Point"}
+}

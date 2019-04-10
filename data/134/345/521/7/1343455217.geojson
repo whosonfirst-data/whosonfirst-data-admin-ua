@@ -1,0 +1,84 @@
+{
+  "id": 1343455217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10078,49.28616,35.10078,49.28616",
+    "geom:latitude":49.28616,
+    "geom:longitude":35.10078,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cherneshchyna",
+    "gn:country_code":"UA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710751,
+    "gn:latitude":49.28616,
+    "gn:longitude":35.10078,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Cherneshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cherneshchina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435\u0449\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Cherneshchyna"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0435\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Orchikovka-Chernetchina",
+        "Orchikovo-Chernetchino",
+        "Cherneshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710751
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"685558f870a8d90bbdc25d6bfe4e7c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088705,
+            "locality_id":1343455217,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1343455217,
+    "wof:lastmodified":1537711271,
+    "wof:name":"Cherneshchyna",
+    "wof:parent_id":102088705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10078,
+    49.28616,
+    35.10078,
+    49.28616
+],
+  "geometry": {"coordinates":[35.10078,49.28616],"type":"Point"}
+}

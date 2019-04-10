@@ -1,0 +1,73 @@
+{
+  "id": 1360041369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.19888,48.33609,28.19888,48.33609",
+    "geom:latitude":48.33609,
+    "geom:longitude":28.19888,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Khmelivshchyna",
+    "gn:country_code":"UA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7414197,
+    "gn:latitude":48.33609,
+    "gn:longitude":28.19888,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khmelivshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khmel\u00ebvshchina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u0456\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102089023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7414197
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2557e5ff5e611c8ba4a827150911b5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089023,
+            "locality_id":1360041369,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1360041369,
+    "wof:lastmodified":1537711547,
+    "wof:name":"Khmelivshchyna",
+    "wof:parent_id":102089023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.19888,
+    48.33609000000001,
+    28.19888,
+    48.33609000000001
+],
+  "geometry": {"coordinates":[28.19888,48.33609000000001],"type":"Point"}
+}

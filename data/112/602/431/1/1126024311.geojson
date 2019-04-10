@@ -1,0 +1,100 @@
+{
+  "id": 1126024311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.99987,48.59559,37.99987,48.59559",
+    "geom:latitude":48.59559,
+    "geom:longitude":37.99987,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":80500,
+    "gn:population":80500,
+    "iso:country":"UA",
+    "lbl:latitude":48.59559,
+    "lbl:longitude":37.99987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Artemivs'k"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0435\u043c\u043e\u0432\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0442\u0435\u043c\u0456\u0432\u0441\u044c\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Bakhmut"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":713174,
+    "qs_pg:gn_pop":80500,
+    "qs_pg:name":"Artemivs\u2019k",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":275618,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713174,
+        "qs_pg:id":275618
+    },
+    "wof:country":"UA",
+    "wof:created":1497301032,
+    "wof:geomhash":"749c0e619f18f85733639c2775920cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815889,
+            "disputed_id":1159339531,
+            "locality_id":1126024311,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815889,
+            "disputed_id":1159339531,
+            "locality_id":1126024311,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1126024311,
+    "wof:lastmodified":1530298011,
+    "wof:name":"Artemivs\u2019k",
+    "wof:parent_id":1108815889,
+    "wof:placetype":"locality",
+    "wof:population":80500,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.99987,
+    48.59559,
+    37.99987,
+    48.59559
+],
+  "geometry": {"coordinates":[37.99987,48.59559],"type":"Point"}
+}

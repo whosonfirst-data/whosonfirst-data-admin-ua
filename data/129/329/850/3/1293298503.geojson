@@ -1,0 +1,83 @@
+{
+  "id": 1293298503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92492,48.5633,33.92492,48.5633",
+    "geom:latitude":48.5633,
+    "geom:longitude":33.92492,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Motronivka",
+    "gn:country_code":"UA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701608,
+    "gn:latitude":48.5633,
+    "gn:longitude":33.92492,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Motronivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matr\u00ebnovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0442\u0440\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Motronivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0442\u0440\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Matr\u00ebnovka",
+        "Mortonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701608
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7aa9dfa30b2cb0d164a676c2a9843ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088525,
+            "locality_id":1293298503,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1293298503,
+    "wof:lastmodified":1537710829,
+    "wof:name":"Motronivka",
+    "wof:parent_id":102088525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92492,
+    48.5633,
+    33.92492,
+    48.5633
+],
+  "geometry": {"coordinates":[33.92492,48.5633],"type":"Point"}
+}

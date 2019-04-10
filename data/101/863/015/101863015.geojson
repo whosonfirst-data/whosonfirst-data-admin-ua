@@ -1,0 +1,103 @@
+{
+  "id": 101863015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.071172,50.495662,28.071172,50.495662",
+    "geom:latitude":50.495662,
+    "geom:longitude":28.071172,
+    "iso:country":"UA",
+    "lbl:latitude":50.495662,
+    "lbl:longitude":28.071172,
+    "mps:latitude":50.495662,
+    "mps:longitude":28.071172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u0578\u056f\u0578\u056c\u0578\u057e"
+    ],
+    "name:eng_x_preferred":[
+        "Sokoliv"
+    ],
+    "name:ger_x_preferred":[
+        "Sokoliw"
+    ],
+    "name:rum_x_preferred":[
+        "Sokoliv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "Sokoliv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043e\u043a\u043e\u043b\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Sokolov"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zhytomyrs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Chervonoarmiis'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043e\u043a\u043e\u043b\u0456\u0432",
+    "qs:loc_alt":"Sokoliv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693265,
+        "wd:id":"Q4427266"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"79e3e70164ef4a92b9a18fa064ba642e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088673,
+            "locality_id":101863015,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":101863015,
+    "wof:lastmodified":1544746784,
+    "wof:name":"\u0421\u043e\u043a\u043e\u043b\u0456\u0432",
+    "wof:parent_id":102088673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.071172,
+    50.495662,
+    28.071172,
+    50.495662
+],
+  "geometry": {"coordinates":[28.071172,50.495662],"type":"Point"}
+}

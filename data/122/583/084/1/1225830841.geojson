@@ -1,0 +1,74 @@
+{
+  "id": 1225830841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68715,49.73119,35.68715,49.73119",
+    "geom:latitude":49.73119,
+    "geom:longitude":35.68715,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Peresol",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":697674,
+    "gn:latitude":49.73119,
+    "gn:longitude":35.68715,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Peresol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0441\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Khutor Peresel",
+        "Peresol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697674
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6b39c3b869ac8df0f94fd957edb1ee7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088839,
+            "locality_id":1225830841,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1225830841,
+    "wof:lastmodified":1537710624,
+    "wof:name":"Peresol",
+    "wof:parent_id":102088839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68715,
+    49.73119000000001,
+    35.68715,
+    49.73119000000001
+],
+  "geometry": {"coordinates":[35.68715,49.73119000000001],"type":"Point"}
+}

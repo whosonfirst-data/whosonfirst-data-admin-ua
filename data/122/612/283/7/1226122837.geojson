@@ -1,0 +1,101 @@
+{
+  "id": 1226122837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88625,45.46737,32.88625,45.46737",
+    "geom:latitude":45.46737,
+    "geom:longitude":32.88625,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"710690",
+    "gn:admin3_code":"11153135.0",
+    "gn:asciiname":"Kuznetskoye",
+    "gn:country_code":"UA",
+    "gn:dem":69,
+    "gn:elevation":"68.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703468,
+    "gn:latitude":45.46737,
+    "gn:longitude":32.88625,
+    "gn:modification_date":"2016-08-15",
+    "gn:name":"Kuznetskoye",
+    "gn:population":391,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuznetskoye"
+    ],
+    "name:rus_x_historical":[
+        "\u0427\u0435\u0433\u0435\u043b\u0435\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u0433\u0435\u043b\u0435\u0301\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u044c\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738655,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703468
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6cda2d82c60e0a5d6f08b6838121cdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1226122837,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "locality_id":1226122837,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1226122837,
+    "wof:lastmodified":1537710918,
+    "wof:name":"Kuznetskoye",
+    "wof:parent_id":1108738655,
+    "wof:placetype":"locality",
+    "wof:population":391,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88625,
+    45.46737,
+    32.88625,
+    45.46737
+],
+  "geometry": {"coordinates":[32.88625,45.46737],"type":"Point"}
+}

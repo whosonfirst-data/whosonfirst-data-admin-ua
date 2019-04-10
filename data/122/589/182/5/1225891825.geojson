@@ -1,0 +1,76 @@
+{
+  "id": 1225891825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95543,50.45648,28.95543,50.45648",
+    "geom:latitude":50.45648,
+    "geom:longitude":28.95543,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Smykivka",
+    "gn:country_code":"UA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693390,
+    "gn:latitude":50.45648,
+    "gn:longitude":28.95543,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Smykivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Smykivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043c\u0438\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Smykovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693390
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9c14b998c8f6e52c051f216663bda7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088679,
+            "locality_id":1225891825,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1225891825,
+    "wof:lastmodified":1537710412,
+    "wof:name":"Smykivka",
+    "wof:parent_id":102088679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95543,
+    50.45648,
+    28.95543,
+    50.45648
+],
+  "geometry": {"coordinates":[28.95543,50.45648],"type":"Point"}
+}

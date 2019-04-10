@@ -1,0 +1,101 @@
+{
+  "id": 1242758121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2276,44.92281,34.2276,44.92281",
+    "geom:latitude":44.92281,
+    "geom:longitude":34.2276,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152621.0",
+    "gn:asciiname":"Denisovka",
+    "gn:country_code":"UA",
+    "gn:dem":364,
+    "gn:elevation":"369.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710141,
+    "gn:latitude":44.92281,
+    "gn:longitude":34.2276,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Denisovka",
+    "gn:population":972,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Denisovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0421\u0443\u0438\u0301\u043d-\u0410\u0434\u0436\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u0438\u0301\u043d-\u0410\u0434\u0436\u0438\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0438\u0441\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710141
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1ffd4a4a1603f08c9e55a9f7547f2ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1242758121,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1242758121,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1242758121,
+    "wof:lastmodified":1537711242,
+    "wof:name":"Denisovka",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":972,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2276,
+    44.92281,
+    34.2276,
+    44.92281
+],
+  "geometry": {"coordinates":[34.2276,44.92281],"type":"Point"}
+}

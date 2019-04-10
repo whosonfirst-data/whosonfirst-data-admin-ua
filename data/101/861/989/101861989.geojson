@@ -1,0 +1,91 @@
+{
+  "id": 101861989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.839978,48.902414,27.839978,48.902414",
+    "geom:latitude":48.902414,
+    "geom:longitude":27.839978,
+    "iso:country":"UA",
+    "lbl:latitude":48.902414,
+    "lbl:longitude":27.839978,
+    "mps:latitude":48.902414,
+    "mps:longitude":27.839978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:pol_x_preferred":[
+        "Popowce"
+    ],
+    "name:ron_x_preferred":[
+        "Popiv\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0456\u0432\u0446\u0456"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Vinnyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bars'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u043f\u0456\u0432\u0446\u0456",
+    "qs:loc_alt":"Popivtsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":923488,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e3dbb60df9229e09c2b3c7cbd752646c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088309,
+            "locality_id":101861989,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":101861989,
+    "wof:lastmodified":1544746252,
+    "wof:name":"\u041f\u043e\u043f\u0456\u0432\u0446\u0456",
+    "wof:parent_id":102088309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.839978,
+    48.902414,
+    27.839978,
+    48.902414
+],
+  "geometry": {"coordinates":[27.839978,48.902414],"type":"Point"}
+}

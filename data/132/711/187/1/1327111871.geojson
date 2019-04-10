@@ -1,0 +1,101 @@
+{
+  "id": 1327111871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92098,44.82448,33.92098,44.82448",
+    "geom:latitude":44.82448,
+    "geom:longitude":33.92098,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712968",
+    "gn:admin3_code":"11152820.0",
+    "gn:asciiname":"Samokhvalovo",
+    "gn:country_code":"UA",
+    "gn:dem":157,
+    "gn:elevation":"157.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040016,
+    "gn:latitude":44.82448,
+    "gn:longitude":33.92098,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Samokhvalovo",
+    "gn:population":545,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samokhvalovo"
+    ],
+    "name:rus_x_historical":[
+        "\u0428\u0430\u043a\u0443\u0301\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0445\u0432\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0430\u043a\u0443\u0301\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0445\u0432\u0430\u043b\u043e\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040016
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8ea243ed7e4b0269de9171e5aca65c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327111871,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1327111871,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327111871,
+    "wof:lastmodified":1537711538,
+    "wof:name":"Samokhvalovo",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":545,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92098,
+    44.82448,
+    33.92098,
+    44.82448
+],
+  "geometry": {"coordinates":[33.92098,44.82448],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125839795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.59516,44.7718,34.59516,44.7718",
+    "geom:latitude":44.7718,
+    "geom:longitude":34.59516,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1273,
+    "gn:population":1414,
+    "iso:country":"UA",
+    "lbl:latitude":44.7718,
+    "lbl:longitude":34.59516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rybach\u2019e"
+    ],
+    "name:rus_x_historical":[
+        "\u0422\u0443\u0430\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0430\u0301\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u044b\u0431\u0430\u0447\u044c\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u0430\u0447\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695053,
+    "qs_pg:gn_pop":1273,
+    "qs_pg:name":"Rybache",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":82829,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738679,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695053,
+        "qs_pg:id":82829
+    },
+    "wof:country":"UA",
+    "wof:created":1497292881,
+    "wof:geomhash":"89f557d97bcdcde281843fd3e166f214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125839795,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "locality_id":1125839795,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125839795,
+    "wof:lastmodified":1530299614,
+    "wof:name":"Rybache",
+    "wof:parent_id":1108738679,
+    "wof:placetype":"locality",
+    "wof:population":1414,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.59516,
+    44.7718,
+    34.59516,
+    44.7718
+],
+  "geometry": {"coordinates":[34.59516,44.7718],"type":"Point"}
+}

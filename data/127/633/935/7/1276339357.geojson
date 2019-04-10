@@ -1,0 +1,77 @@
+{
+  "id": 1276339357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11971,48.57615,37.11971,48.57615",
+    "geom:latitude":48.57615,
+    "geom:longitude":37.11971,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Blagodat'",
+    "gn:country_code":"UA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712101,
+    "gn:latitude":48.57615,
+    "gn:longitude":37.11971,
+    "gn:modification_date":"2011-01-23",
+    "gn:name":"Blagodat\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712101
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"141ad96f50c7d4dbc8360d0d91e82ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1276339357,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1276339357,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276339357,
+    "wof:lastmodified":1536770853,
+    "wof:name":"Blagodat'",
+    "wof:parent_id":1108815755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11971,
+    48.57615,
+    37.11971,
+    48.57615
+],
+  "geometry": {"coordinates":[37.11971,48.57615],"type":"Point"}
+}

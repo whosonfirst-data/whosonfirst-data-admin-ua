@@ -1,0 +1,92 @@
+{
+  "id": 101866331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.889157,47.01293,34.889157,47.01293",
+    "geom:latitude":47.01293,
+    "geom:longitude":34.889157,
+    "gn:population":10683,
+    "iso:country":"UA",
+    "lbl:latitude":47.01293,
+    "lbl:longitude":34.889157,
+    "mps:latitude":47.01293,
+    "mps:longitude":34.889157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ves\u00ebloye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0435\u0441\u0435\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Veselivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u0441\u0435\u043b\u0435",
+    "qs:loc_alt":"Vesele",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689736,
+        "gp:id":937730,
+        "qs:id":1028366
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c03f9f9ace6391b651af6064578f2f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":101866331,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101866331,
+    "wof:lastmodified":1544748546,
+    "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:population":10683,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.889157,
+    47.01293,
+    34.889157,
+    47.01293
+],
+  "geometry": {"coordinates":[34.889157,47.01293],"type":"Point"}
+}

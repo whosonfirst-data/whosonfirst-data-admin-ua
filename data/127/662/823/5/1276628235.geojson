@@ -1,0 +1,75 @@
+{
+  "id": 1276628235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.62558,49.33218,39.62558,49.33218",
+    "geom:latitude":49.33218,
+    "geom:longitude":39.62558,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kononivka",
+    "gn:country_code":"UA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705145,
+    "gn:latitude":49.33218,
+    "gn:longitude":39.62558,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Kononivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kononovak",
+        "Kononovka",
+        "Kononivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705145
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ef3de1880e287af5a6741267c1116e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088933,
+            "locality_id":1276628235,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1276628235,
+    "wof:lastmodified":1537710998,
+    "wof:name":"Kononivka",
+    "wof:parent_id":102088933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.62558,
+    49.33218,
+    39.62558,
+    49.33218
+],
+  "geometry": {"coordinates":[39.62558,49.33218],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360058001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35,49.55,24.35,49.55",
+    "geom:latitude":49.55,
+    "geom:longitude":24.35,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zhabokruki",
+    "gn:country_code":"UA",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687263,
+    "gn:latitude":49.55,
+    "gn:longitude":24.35,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Zhabokruki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687263
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"123c18ce820f714699037d5171191f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088289,
+            "locality_id":1360058001,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1360058001,
+    "wof:lastmodified":1536984080,
+    "wof:name":"Zhabokruki",
+    "wof:parent_id":102088289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35,
+    49.55,
+    24.35,
+    49.55
+],
+  "geometry": {"coordinates":[24.35,49.55],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 101866517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.942113,48.269858,29.942113,48.269858",
+    "geom:latitude":48.269858,
+    "geom:longitude":29.942113,
+    "iso:country":"UA",
+    "lbl:latitude":48.269858,
+    "lbl:longitude":29.942113,
+    "mps:latitude":48.269858,
+    "mps:longitude":29.942113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kazavehin"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kirovohrads'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u0430\u0439\u0432\u043e\u0440\u043e\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Haivorons'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u0437\u0430\u0432\u0447\u0438\u043d",
+    "qs:loc_alt":"Kazavchyn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706562,
+        "gp:id":922146,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5839fabc7344919855a58a9018bb6f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088229,
+            "locality_id":101866517,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":101866517,
+    "wof:lastmodified":1544748651,
+    "wof:name":"\u041a\u0430\u0437\u0430\u0432\u0447\u0438\u043d",
+    "wof:parent_id":102088229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.942113,
+    48.269858,
+    29.942113,
+    48.269858
+],
+  "geometry": {"coordinates":[29.942113,48.269858],"type":"Point"}
+}

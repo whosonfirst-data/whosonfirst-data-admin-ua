@@ -1,0 +1,74 @@
+{
+  "id": 1226407261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9588,50.69195,25.9588,50.69195",
+    "geom:latitude":50.69195,
+    "geom:longitude":25.9588,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Starozhukiv",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692767,
+    "gn:latitude":50.69195,
+    "gn:longitude":25.9588,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Starozhukiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0436\u0443\u043a\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Staryy Zhukov",
+        "Starozhukov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692767
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c8d8428758e26907aecf29ee24dca2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":1226407261,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1226407261,
+    "wof:lastmodified":1537710382,
+    "wof:name":"Starozhukiv",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9588,
+    50.69195,
+    25.9588,
+    50.69195
+],
+  "geometry": {"coordinates":[25.9588,50.69195],"type":"Point"}
+}

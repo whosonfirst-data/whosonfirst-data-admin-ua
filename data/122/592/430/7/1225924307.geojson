@@ -1,0 +1,98 @@
+{
+  "id": 1225924307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65572,45.70166,33.65572,45.70166",
+    "geom:latitude":45.70166,
+    "geom:longitude":33.65572,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"697572",
+    "gn:admin3_code":"11153019.0",
+    "gn:asciiname":"Krylovka",
+    "gn:country_code":"UA",
+    "gn:dem":43,
+    "gn:elevation":"45.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703889,
+    "gn:latitude":45.70166,
+    "gn:longitude":33.65572,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Krylovka",
+    "gn:population":171,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krylovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u044b\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kara-Nayman"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738643,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703889
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1095490c13c702ace1ef7b5405bb0f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1225924307,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "locality_id":1225924307,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1225924307,
+    "wof:lastmodified":1537710937,
+    "wof:name":"Krylovka",
+    "wof:parent_id":1108738643,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65572,
+    45.70166,
+    33.65572,
+    45.70166
+],
+  "geometry": {"coordinates":[33.65572,45.70166],"type":"Point"}
+}

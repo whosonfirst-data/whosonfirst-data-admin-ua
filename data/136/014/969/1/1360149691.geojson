@@ -1,0 +1,67 @@
+{
+  "id": 1360149691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85,51.8,25.85,51.8",
+    "geom:latitude":51.8,
+    "geom:longitude":25.85,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zapeka",
+    "gn:country_code":"UA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687712,
+    "gn:latitude":51.8,
+    "gn:longitude":25.85,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Zapeka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687712
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1e401651dc609a1402018cbbec26947a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088891,
+            "locality_id":1360149691,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1360149691,
+    "wof:lastmodified":1536851491,
+    "wof:name":"Zapeka",
+    "wof:parent_id":102088891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85,
+    51.8,
+    25.85,
+    51.8
+],
+  "geometry": {"coordinates":[25.85,51.8],"type":"Point"}
+}

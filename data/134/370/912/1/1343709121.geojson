@@ -1,0 +1,76 @@
+{
+  "id": 1343709121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6859,51.25983,27.6859,51.25983",
+    "geom:latitude":51.25983,
+    "geom:longitude":27.6859,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Khmelivka",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374722,
+    "gn:latitude":51.25983,
+    "gn:longitude":27.6859,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Khmelivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Khmelivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043c\u0435\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khmelevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374722
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3cf2d6a0989a86b20859383415ba7e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088885,
+            "locality_id":1343709121,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1343709121,
+    "wof:lastmodified":1537711620,
+    "wof:name":"Khmelivka",
+    "wof:parent_id":102088885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6859,
+    51.25983,
+    27.6859,
+    51.25983
+],
+  "geometry": {"coordinates":[27.6859,51.25983],"type":"Point"}
+}

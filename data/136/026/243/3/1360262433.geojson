@@ -1,0 +1,95 @@
+{
+  "id": 1360262433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15603,44.99695,34.15603,44.99695",
+    "geom:latitude":44.99695,
+    "geom:longitude":34.15603,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152621.0",
+    "gn:asciiname":"Aykavan",
+    "gn:country_code":"UA",
+    "gn:dem":320,
+    "gn:elevation":"295.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8996612,
+    "gn:latitude":44.99695,
+    "gn:longitude":34.15603,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Aykavan",
+    "gn:population":692,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aykavan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043a\u0430\u0432\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043a\u0430\u0432\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8996612
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"04d64c1e99c4088a7411e1ba424a5ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1360262433,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1360262433,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1360262433,
+    "wof:lastmodified":1537711832,
+    "wof:name":"Aykavan",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":692,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15603,
+    44.99695,
+    34.15603,
+    44.99695
+],
+  "geometry": {"coordinates":[34.15603,44.99695],"type":"Point"}
+}

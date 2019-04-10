@@ -1,0 +1,77 @@
+{
+  "id": 1327127065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18472,48.85972,38.18472,48.85972",
+    "geom:latitude":48.85972,
+    "geom:longitude":38.18472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Figurovka",
+    "gn:country_code":"UA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811703,
+    "gn:latitude":48.85972,
+    "gn:longitude":38.18472,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Figurovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811703
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"22f62ee7e7ac077c391eed1fb2ee90b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1327127065,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1327127065,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1327127065,
+    "wof:lastmodified":1536621765,
+    "wof:name":"Figurovka",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18472,
+    48.85972,
+    38.18472,
+    48.85972
+],
+  "geometry": {"coordinates":[38.18472,48.85972],"type":"Point"}
+}

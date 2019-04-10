@@ -1,0 +1,78 @@
+{
+  "id": 1293100823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03946,52.10529,33.03946,52.10529",
+    "geom:latitude":52.10529,
+    "geom:longitude":33.03946,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Klevino",
+    "gn:country_code":"UA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705658,
+    "gn:latitude":52.10529,
+    "gn:longitude":33.03946,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klevino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Klevyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043b\u0435\u0432\u0438\u043d",
+        "Klevin"
+    ],
+    "name:und_x_variant":[
+        "Klevin",
+        "Klevino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705658
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"604cff87146fd36049d1e6a18132959e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089027,
+            "locality_id":1293100823,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293100823,
+    "wof:lastmodified":1537711024,
+    "wof:name":"Klevino",
+    "wof:parent_id":102089027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03946,
+    52.10529,
+    33.03946,
+    52.10529
+],
+  "geometry": {"coordinates":[33.03946,52.10529],"type":"Point"}
+}

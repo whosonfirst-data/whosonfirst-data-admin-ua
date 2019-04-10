@@ -1,0 +1,76 @@
+{
+  "id": 1343313041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3,51.35,28.3,51.35",
+    "geom:latitude":51.35,
+    "geom:longitude":28.3,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Zadorozhok",
+    "gn:country_code":"UA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687915,
+    "gn:latitude":51.35,
+    "gn:longitude":28.3,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Zadorozhok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zadorozhok"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u0434\u043e\u0440\u043e\u0436\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zadorozh\u2019ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687915
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5e926eb9d29ccb3420635e2e0108541d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":1343313041,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1343313041,
+    "wof:lastmodified":1537710136,
+    "wof:name":"Zadorozhok",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3,
+    51.35,
+    28.3,
+    51.35
+],
+  "geometry": {"coordinates":[28.3,51.35],"type":"Point"}
+}

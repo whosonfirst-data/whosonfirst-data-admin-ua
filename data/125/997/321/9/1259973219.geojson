@@ -1,0 +1,77 @@
+{
+  "id": 1259973219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94744,48.40533,31.94744,48.40533",
+    "geom:latitude":48.40533,
+    "geom:longitude":31.94744,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dymino",
+    "gn:country_code":"UA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709369,
+    "gn:latitude":48.40533,
+    "gn:longitude":31.94744,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dymino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dymino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u043c\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mikhaylivka",
+        "Dymino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709369
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"aa376b5291c4c428719f4ae83fd93492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088319,
+            "locality_id":1259973219,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1259973219,
+    "wof:lastmodified":1537711204,
+    "wof:name":"Dymino",
+    "wof:parent_id":102088319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94744,
+    48.40533,
+    31.94744,
+    48.40533
+],
+  "geometry": {"coordinates":[31.94744,48.40533],"type":"Point"}
+}

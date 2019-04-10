@@ -1,0 +1,120 @@
+{
+  "id": 101855915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.875051,44.852013,34.875051,44.852013",
+    "geom:latitude":44.852013,
+    "geom:longitude":34.875051,
+    "iso:country":"UA",
+    "lbl:latitude":44.852013,
+    "lbl:longitude":34.875051,
+    "mps:latitude":44.852013,
+    "mps:longitude":34.875051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0412\u0451\u0441\u043a\u0430 \u0412\u044f\u0441\u0451\u043b\u0430\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Veseloye"
+    ],
+    "name:ger_x_preferred":[
+        "Wessele"
+    ],
+    "name:rum_x_preferred":[
+        "Vesele"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0443\u0442\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u043b\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0441\u0451\u043b\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kutlak"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0443\u0434\u0430\u043a",
+    "qs:a2_alt":"Sudak",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u0441\u0435\u043b\u0435",
+    "qs:loc_alt":"Vesele",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738661,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689740,
+        "gp:id":937729,
+        "qs:id":6,
+        "wd:id":"Q3920760"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e427a4ba226594f00c52c25493a82a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738661,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101855915,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738661,
+            "disputed_id":1159339547,
+            "locality_id":101855915,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101855915,
+    "wof:lastmodified":1544743137,
+    "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435",
+    "wof:parent_id":1108738661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.875051,
+    44.852013,
+    34.875051,
+    44.852013
+],
+  "geometry": {"coordinates":[34.875051,44.852013],"type":"Point"}
+}

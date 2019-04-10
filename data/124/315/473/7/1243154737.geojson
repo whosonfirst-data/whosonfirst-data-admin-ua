@@ -1,0 +1,76 @@
+{
+  "id": 1243154737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17327,49.23641,23.17327,49.23641",
+    "geom:latitude":49.23641,
+    "geom:longitude":23.17327,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Svydnyk",
+    "gn:country_code":"UA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692076,
+    "gn:latitude":49.23641,
+    "gn:longitude":23.17327,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Svydnyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Svydnyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u0438\u0434\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Svidnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692076
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"975694ccadbb44006429fe8943e6deee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088171,
+            "locality_id":1243154737,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1243154737,
+    "wof:lastmodified":1537710351,
+    "wof:name":"Svydnyk",
+    "wof:parent_id":102088171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17327,
+    49.23641,
+    23.17327,
+    49.23641
+],
+  "geometry": {"coordinates":[23.17327,49.23641],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1125864159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20462,50.29712,24.20462,50.29712",
+    "geom:latitude":50.29712,
+    "geom:longitude":24.20462,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3641,
+    "gn:population":3641,
+    "iso:country":"UA",
+    "lbl:latitude":50.29712,
+    "lbl:longitude":24.20462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ukr_x_preferred":[
+        "Silets\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0456\u043b\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Sielec Be\u0142ski"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":694691,
+    "qs_pg:gn_pop":3641,
+    "qs_pg:name":"Silets\u2019",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128291,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694691,
+        "qs_pg:id":128291
+    },
+    "wof:country":"UA",
+    "wof:created":1497293956,
+    "wof:geomhash":"f2f2715daa2eadbae77436e66b6a1d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088549,
+            "locality_id":1125864159,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125864159,
+    "wof:lastmodified":1509396850,
+    "wof:name":"Silets\u2019",
+    "wof:parent_id":102088549,
+    "wof:placetype":"locality",
+    "wof:population":3641,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20462,
+    50.29712,
+    24.20462,
+    50.29712
+],
+  "geometry": {"coordinates":[24.20462,50.29712],"type":"Point"}
+}

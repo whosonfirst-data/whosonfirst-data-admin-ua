@@ -1,0 +1,98 @@
+{
+  "id": 101871183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.795583,50.542761,33.795583,50.542761",
+    "geom:latitude":50.542761,
+    "geom:longitude":33.795583,
+    "gn:population":5199,
+    "iso:country":"UA",
+    "lbl:latitude":50.542761,
+    "lbl:longitude":33.795583,
+    "mps:latitude":50.542761,
+    "mps:longitude":33.795583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lypova Dolyna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lipovaya Dolina"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Sums'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u0438\u043f\u043e\u0432\u043e\u0434\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Lypovodolyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0438\u043f\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430",
+    "qs:loc_alt":"Lypova Dolyna",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703015,
+        "gp:id":925332,
+        "qs:id":275505
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b7f630fd09fe8281f7001f3e950c31d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088923,
+            "locality_id":101871183,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":101871183,
+    "wof:lastmodified":1544750987,
+    "wof:name":"\u041b\u0438\u043f\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430",
+    "wof:parent_id":102088923,
+    "wof:placetype":"locality",
+    "wof:population":5199,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.795583,
+    50.542761,
+    33.795583,
+    50.542761
+],
+  "geometry": {"coordinates":[33.795583,50.542761],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1259365567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42189,50.04747,23.42189,50.04747",
+    "geom:latitude":50.04747,
+    "geom:longitude":23.42189,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Verblyany",
+    "gn:country_code":"UA",
+    "gn:dem":240,
+    "gn:elevation":"244.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689993,
+    "gn:latitude":50.04747,
+    "gn:longitude":23.42189,
+    "gn:modification_date":"2013-02-18",
+    "gn:name":"Verblyany",
+    "gn:population":2000,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Wierzbiany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0431\u043b\u044f\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0431\u043b\u044f\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vezhbyany",
+        "Verbyany",
+        "Verblyany"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689993
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"89f761e43777662891efc7d62afc77a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088411,
+            "locality_id":1259365567,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1259365567,
+    "wof:lastmodified":1537710253,
+    "wof:name":"Verblyany",
+    "wof:parent_id":102088411,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42189,
+    50.04747,
+    23.42189,
+    50.04747
+],
+  "geometry": {"coordinates":[23.42189,50.04747],"type":"Point"}
+}

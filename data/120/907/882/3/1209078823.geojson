@@ -1,0 +1,65 @@
+{
+  "id": 1209078823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59817,49.64703,23.59817,49.64703",
+    "geom:latitude":49.64703,
+    "geom:longitude":23.59817,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kryukovets",
+    "gn:country_code":"UA",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703852,
+    "gn:latitude":49.64703,
+    "gn:longitude":23.59817,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kryukovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krukavets",
+        "Kryukovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703852
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"09628e2728d3286324f900703abd731b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209078823
+        }
+    ],
+    "wof:id":1209078823,
+    "wof:lastmodified":1537710936,
+    "wof:name":"Kryukovets",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59817,
+    49.64703,
+    23.59817,
+    49.64703
+],
+  "geometry": {"coordinates":[23.59817,49.64703],"type":"Point"}
+}

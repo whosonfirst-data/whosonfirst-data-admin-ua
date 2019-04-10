@@ -1,0 +1,87 @@
+{
+  "id": 1125779435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,51.68333,25.86667,51.68333",
+    "geom:latitude":51.68333,
+    "geom:longitude":25.86667,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":40000,
+    "gn:population":40000,
+    "iso:country":"UA",
+    "lbl:latitude":51.68333,
+    "lbl:longitude":25.86667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kuznetsovsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u044c\u043a"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":703464,
+    "qs_pg:gn_pop":40000,
+    "qs_pg:name":"Kuznetsovs\u2019k",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":128572,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703464,
+        "qs_pg:id":128572
+    },
+    "wof:country":"UA",
+    "wof:created":1497290405,
+    "wof:geomhash":"b4c918ba7558fbc7fcf934ebfe40671b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088891,
+            "locality_id":1125779435,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1125779435,
+    "wof:lastmodified":1509391464,
+    "wof:name":"Kuznetsovs\u2019k",
+    "wof:parent_id":102088891,
+    "wof:placetype":"locality",
+    "wof:population":40000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667,
+    51.68333,
+    25.86667,
+    51.68333
+],
+  "geometry": {"coordinates":[25.86667,51.68333],"type":"Point"}
+}

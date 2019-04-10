@@ -1,0 +1,100 @@
+{
+  "id": 1125978411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91018,51.54628,24.91018,51.54628",
+    "geom:latitude":51.54628,
+    "geom:longitude":24.91018,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1681,
+    "gn:population":1681,
+    "iso:country":"UA",
+    "lbl:latitude":51.54628,
+    "lbl:longitude":24.91018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u0439\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "Nuyno"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0443\u0439\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Nuyno"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":698840,
+    "qs_pg:gn_pop":1681,
+    "qs_pg:name":"Nujno",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Volyns\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1283284,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":929301,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Volyns\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698840,
+        "gp:id":929301,
+        "qs_pg:id":1283284
+    },
+    "wof:country":"UA",
+    "wof:created":1497298445,
+    "wof:geomhash":"57b4ff37dc75022dff4a2f03ce86865b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088837,
+            "locality_id":1125978411,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1125978411,
+    "wof:lastmodified":1509404603,
+    "wof:name":"Nujno",
+    "wof:parent_id":102088837,
+    "wof:placetype":"locality",
+    "wof:population":1681,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91018,
+    51.54628,
+    24.91018,
+    51.54628
+],
+  "geometry": {"coordinates":[24.91018,51.54628],"type":"Point"}
+}

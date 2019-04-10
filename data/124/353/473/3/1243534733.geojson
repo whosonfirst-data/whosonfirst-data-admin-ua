@@ -1,0 +1,101 @@
+{
+  "id": 1243534733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14121,45.25118,33.14121,45.25118",
+    "geom:latitude":45.25118,
+    "geom:longitude":33.14121,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"694905",
+    "gn:admin3_code":"11153114.0",
+    "gn:asciiname":"Khutorok",
+    "gn:country_code":"UA",
+    "gn:dem":15,
+    "gn:elevation":"17.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033460,
+    "gn:latitude":45.25118,
+    "gn:longitude":33.14121,
+    "gn:modification_date":"2016-08-12",
+    "gn:name":"Khutorok",
+    "gn:population":193,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khutorok"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u0434\u0436\u0438\u0301-\u0411\u0430\u0439\u0447\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0442\u043e\u0440\u043e\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0434\u0436\u0438\u0301-\u0411\u0430\u0439\u0447\u0438\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0442\u043e\u0440\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033460
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"391762dd8c2334179731834d8039a5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1243534733,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1243534733,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1243534733,
+    "wof:lastmodified":1537711537,
+    "wof:name":"Khutorok",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14121,
+    45.25118,
+    33.14121,
+    45.25118
+],
+  "geometry": {"coordinates":[33.14121,45.25118],"type":"Point"}
+}

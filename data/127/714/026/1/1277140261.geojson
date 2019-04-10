@@ -1,0 +1,77 @@
+{
+  "id": 1277140261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25611,47.75889,29.25611,47.75889",
+    "geom:latitude":47.75889,
+    "geom:longitude":29.25611,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kruhlyak",
+    "gn:cc2":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617959,
+    "gn:latitude":47.75889,
+    "gn:longitude":29.25611,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Kruhlyak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kruhlyak"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0443\u0433\u043b\u044f\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kruglyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617959
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"013f36bc469aa4b7c13f20ad81a0b671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088079,
+            "locality_id":1277140261,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1277140261,
+    "wof:lastmodified":1537710078,
+    "wof:name":"Kruhlyak",
+    "wof:parent_id":102088079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25611,
+    47.75889,
+    29.25611,
+    47.75889
+],
+  "geometry": {"coordinates":[29.25611,47.75889],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1293581959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44172,47.40647,37.44172,47.40647",
+    "geom:latitude":47.40647,
+    "geom:longitude":37.44172,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnivka",
+    "gn:country_code":"UA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704300,
+    "gn:latitude":47.40647,
+    "gn:longitude":37.44172,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Krasnivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Krasnivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krasnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704300
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"703f87a60b12de53ca9fa25d0e6e2cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1293581959,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1293581959,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293581959,
+    "wof:lastmodified":1537710959,
+    "wof:name":"Krasnivka",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44172,
+    47.40647,
+    37.44172,
+    47.40647
+],
+  "geometry": {"coordinates":[37.44172,47.40647],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209763031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62962,50.86042,28.62962,50.86042",
+    "geom:latitude":50.86042,
+    "geom:longitude":28.62962,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kholosne",
+    "gn:country_code":"UA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706321,
+    "gn:latitude":50.86042,
+    "gn:longitude":28.62962,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kholosne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kholosne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043e\u043b\u043e\u0441\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kholosno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706321
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fae0c30e83918db684dc9a1184253d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815631,
+            "locality_id":1209763031,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1209763031,
+    "wof:lastmodified":1537711060,
+    "wof:name":"Kholosne",
+    "wof:parent_id":1108815631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62962000000001,
+    50.86042,
+    28.62962000000001,
+    50.86042
+],
+  "geometry": {"coordinates":[28.62962000000001,50.86042],"type":"Point"}
+}

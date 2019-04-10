@@ -1,0 +1,73 @@
+{
+  "id": 1310014849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.12163,49.67706,32.12163,49.67706",
+    "geom:latitude":49.67706,
+    "geom:longitude":32.12163,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hryshkivka",
+    "gn:country_code":"UA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290354,
+    "gn:latitude":49.67706,
+    "gn:longitude":32.12163,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Hryshkivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hryshkivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0438\u0448\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        1108815815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290354
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5eedbfd96d78dba8a7a506363780cc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815815,
+            "locality_id":1310014849,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1310014849,
+    "wof:lastmodified":1537711873,
+    "wof:name":"Hryshkivka",
+    "wof:parent_id":1108815815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.12163,
+    49.67706,
+    32.12163,
+    49.67706
+],
+  "geometry": {"coordinates":[32.12163,49.67706],"type":"Point"}
+}

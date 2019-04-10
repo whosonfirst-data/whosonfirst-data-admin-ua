@@ -1,0 +1,77 @@
+{
+  "id": 1310153407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40136,47.2314,35.40136,47.2314",
+    "geom:latitude":47.2314,
+    "geom:longitude":35.40136,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Vysoke",
+    "gn:country_code":"UA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688681,
+    "gn:latitude":47.2314,
+    "gn:longitude":35.40136,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Vysoke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Hochst\u00e4dt",
+        "Vysokoye",
+        "Gokhshlet",
+        "Gokhshtet",
+        "Vysoke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688681
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3bed164df18d28ccba5bb5d12db12945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088247,
+            "locality_id":1310153407,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1310153407,
+    "wof:lastmodified":1537710177,
+    "wof:name":"Vysoke",
+    "wof:parent_id":102088247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40136,
+    47.2314,
+    35.40136,
+    47.2314
+],
+  "geometry": {"coordinates":[35.40136,47.2314],"type":"Point"}
+}

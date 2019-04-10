@@ -1,0 +1,83 @@
+{
+  "id": 1343654477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68145,48.14824,37.68145,48.14824",
+    "geom:latitude":48.14824,
+    "geom:longitude":37.68145,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lastochkyne",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113130,
+    "gn:latitude":48.14824,
+    "gn:longitude":37.68145,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Lastochkyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lastochkyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0430\u0441\u0442\u043e\u0447\u043a\u0438\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113130
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5a465ded65a77794e6694518932dd8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1343654477,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1343654477,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343654477,
+    "wof:lastmodified":1537711849,
+    "wof:name":"Lastochkyne",
+    "wof:parent_id":1108815751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68145,
+    48.14824,
+    37.68145,
+    48.14824
+],
+  "geometry": {"coordinates":[37.68145,48.14824],"type":"Point"}
+}

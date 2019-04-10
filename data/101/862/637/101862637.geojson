@@ -1,0 +1,108 @@
+{
+  "id": 101862637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.074827,49.979334,24.074827,49.979334",
+    "geom:latitude":49.979334,
+    "geom:longitude":24.074827,
+    "gn:population":3963,
+    "iso:country":"UA",
+    "lbl:latitude":49.979334,
+    "lbl:longitude":24.074827,
+    "mps:latitude":49.979334,
+    "mps:longitude":24.074827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5eab\u5229\u57fa\u592b"
+    ],
+    "name:eng_x_preferred":[
+        "Kulykiv"
+    ],
+    "name:ger_x_preferred":[
+        "Kulykiw"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d9\u05e7\u05d9\u05d1"
+    ],
+    "name:pol_x_preferred":[
+        "Kulik\u00f3w"
+    ],
+    "name:rum_x_preferred":[
+        "Kul\u00eekiv"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u0456\u0432"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"L'vivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0416\u043e\u0432\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Zhovkivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0443\u043b\u0438\u043a\u0456\u0432",
+    "qs:loc_alt":"Kulykiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8468687,
+        "gp:id":924943,
+        "qs:id":8,
+        "wd:id":"Q1020037"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"30b57582c58649842bf230dc0848dbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088445,
+            "locality_id":101862637,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":101862637,
+    "wof:lastmodified":1544746586,
+    "wof:name":"\u041a\u0443\u043b\u0438\u043a\u0456\u0432",
+    "wof:parent_id":102088445,
+    "wof:placetype":"locality",
+    "wof:population":3963,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.074827,
+    49.979334,
+    24.074827,
+    49.979334
+],
+  "geometry": {"coordinates":[24.074827,49.979334],"type":"Point"}
+}

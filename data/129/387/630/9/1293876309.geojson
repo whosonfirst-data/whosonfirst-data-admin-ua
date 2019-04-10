@@ -1,0 +1,83 @@
+{
+  "id": 1293876309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04075,47.94773,39.04075,47.94773",
+    "geom:latitude":47.94773,
+    "geom:longitude":39.04075,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Verkhniy Kut",
+    "gn:country_code":"UA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9291406,
+    "gn:latitude":47.94773,
+    "gn:longitude":39.04075,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Verkhniy Kut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Verkhniy Kut"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0440\u0445\u043d\u0456\u0439 \u041a\u0443\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9291406
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"11aa124d1346f05a206da0e447714741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1293876309,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1293876309,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293876309,
+    "wof:lastmodified":1537711875,
+    "wof:name":"Verkhniy Kut",
+    "wof:parent_id":1108815735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04075,
+    47.94773,
+    39.04075,
+    47.94773
+],
+  "geometry": {"coordinates":[39.04075,47.94773],"type":"Point"}
+}

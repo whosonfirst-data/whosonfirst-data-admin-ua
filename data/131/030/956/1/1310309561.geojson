@@ -1,0 +1,83 @@
+{
+  "id": 1310309561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08269,48.65089,37.08269,48.65089",
+    "geom:latitude":48.65089,
+    "geom:longitude":37.08269,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fedorivka",
+    "gn:country_code":"UA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709201,
+    "gn:latitude":48.65089,
+    "gn:longitude":37.08269,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Fedorivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "F\u00ebdorovka"
+    ],
+    "name:ukr_x_preferred":[
+        "Fedorivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u0435\u0434\u043e\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709201
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"10105e8529c9681160f9e774ed0aec89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1310309561,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1310309561,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310309561,
+    "wof:lastmodified":1537711197,
+    "wof:name":"Fedorivka",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08269,
+    48.65089,
+    37.08269,
+    48.65089
+],
+  "geometry": {"coordinates":[37.08269,48.65089],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243522721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.70773,50.96279,25.70773,50.96279",
+    "geom:latitude":50.96279,
+    "geom:longitude":25.70773,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mykove",
+    "gn:country_code":"UA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342724,
+    "gn:latitude":50.96279,
+    "gn:longitude":25.70773,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Mykove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Mykove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mykovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342724
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4bca5bdf0eeec45924e6307e6c649858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088699,
+            "locality_id":1243522721,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1243522721,
+    "wof:lastmodified":1537711615,
+    "wof:name":"Mykove",
+    "wof:parent_id":102088699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.70773,
+    50.96279000000001,
+    25.70773,
+    50.96279000000001
+],
+  "geometry": {"coordinates":[25.70773,50.96279000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326798785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3,50.65,25.3,50.65",
+    "geom:latitude":50.65,
+    "geom:longitude":25.3,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Promin'",
+    "gn:country_code":"UA",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696057,
+    "gn:latitude":50.65,
+    "gn:longitude":25.3,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Promin\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Promin\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u043e\u043c\u0456\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Pulkhanuv",
+        "Pulkanuv",
+        "Pulganov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696057
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"25b3ca219777b2d27e8c8cc08d1ae179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088627,
+            "locality_id":1326798785,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1326798785,
+    "wof:lastmodified":1537710540,
+    "wof:name":"Promin'",
+    "wof:parent_id":102088627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3,
+    50.65,
+    25.3,
+    50.65
+],
+  "geometry": {"coordinates":[25.3,50.65],"type":"Point"}
+}

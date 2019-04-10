@@ -1,0 +1,82 @@
+{
+  "id": 1259450227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04544,47.10638,36.04544,47.10638",
+    "geom:latitude":47.10638,
+    "geom:longitude":36.04544,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bohdanivka",
+    "gn:country_code":"UA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711942,
+    "gn:latitude":47.10638,
+    "gn:longitude":36.04544,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Bohdanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bogdanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Bohdanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dobropol\u2019ye",
+        "Gnadenfel\u2019d",
+        "Bogdanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711942
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"91af1cb6fc78cf64b6b4174a4fd37ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":1259450227,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1259450227,
+    "wof:lastmodified":1537711333,
+    "wof:name":"Bohdanivka",
+    "wof:parent_id":85688851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04544,
+    47.10638,
+    36.04544,
+    47.10638
+],
+  "geometry": {"coordinates":[36.04544,47.10638],"type":"Point"}
+}

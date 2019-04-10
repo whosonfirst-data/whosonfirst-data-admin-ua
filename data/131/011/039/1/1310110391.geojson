@@ -1,0 +1,86 @@
+{
+  "id": 1310110391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77359,48.73743,37.77359,48.73743",
+    "geom:latitude":48.73743,
+    "geom:longitude":37.77359,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Malynivka",
+    "gn:country_code":"UA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702102,
+    "gn:latitude":48.73743,
+    "gn:longitude":37.77359,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Malynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Malynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702102
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"972247046b278f6a8240fc67d5a7ef0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1310110391,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1310110391,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310110391,
+    "wof:lastmodified":1537710852,
+    "wof:name":"Malynivka",
+    "wof:parent_id":102088767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77359000000001,
+    48.73743,
+    37.77359000000001,
+    48.73743
+],
+  "geometry": {"coordinates":[37.77359000000001,48.73743],"type":"Point"}
+}

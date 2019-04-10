@@ -1,0 +1,93 @@
+{
+  "id": 1125854297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87078,49.7185,35.87078,49.7185",
+    "geom:latitude":49.7185,
+    "geom:longitude":35.87078,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13112,
+    "gn:population":13112,
+    "iso:country":"UA",
+    "lbl:latitude":49.7185,
+    "lbl:longitude":35.87078,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Nova Vodolaha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432.\u0412\u043e\u0434\u043e\u043b\u0430\u0433\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u0430 \u0412\u043e\u0434\u043e\u043b\u0430\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u043e\u0434\u043e\u043b\u0430\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novaya Vodolaga"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699777,
+    "qs_pg:gn_pop":13112,
+    "qs_pg:name":"Nova Vodolaha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":128433,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699777,
+        "qs_pg:id":128433
+    },
+    "wof:country":"UA",
+    "wof:created":1497293544,
+    "wof:geomhash":"37bbac2c907db390c9e93b82c51f0c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088839,
+            "locality_id":1125854297,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125854297,
+    "wof:lastmodified":1509396129,
+    "wof:name":"Nova Vodolaha",
+    "wof:parent_id":102088839,
+    "wof:placetype":"locality",
+    "wof:population":13112,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87078,
+    49.7185,
+    35.87078,
+    49.7185
+],
+  "geometry": {"coordinates":[35.87078,49.7185],"type":"Point"}
+}

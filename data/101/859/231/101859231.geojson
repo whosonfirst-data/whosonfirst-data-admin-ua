@@ -1,0 +1,88 @@
+{
+  "id": 101859231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.530191,48.356999,23.530191,48.356999",
+    "geom:latitude":48.356999,
+    "geom:longitude":23.530191,
+    "iso:country":"UA",
+    "lbl:latitude":48.356999,
+    "lbl:longitude":23.530191,
+    "mps:latitude":48.356999,
+    "mps:longitude":23.530191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Nyzhniy Bystryy"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0438\u0436\u043d\u0456\u0439 \u0411\u0438\u0441\u0442\u0440\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Nizhne-Bystryy"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0425\u0443\u0441\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Khusts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u0438\u0436\u043d\u0456\u0439 \u0411\u0438\u0441\u0442\u0440\u0438\u0439",
+    "qs:loc_alt":"Nyzhnii Bystryi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700023,
+        "gp:id":936939,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fbdd834a09f17c210e553f7ccac5aa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088013,
+            "locality_id":101859231,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859231,
+    "wof:lastmodified":1544744807,
+    "wof:name":"\u041d\u0438\u0436\u043d\u0456\u0439 \u0411\u0438\u0441\u0442\u0440\u0438\u0439",
+    "wof:parent_id":102088013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.530191,
+    48.356999,
+    23.530191,
+    48.356999
+],
+  "geometry": {"coordinates":[23.530191,48.356999],"type":"Point"}
+}

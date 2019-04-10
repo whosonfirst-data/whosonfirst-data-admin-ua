@@ -1,0 +1,103 @@
+{
+  "id": 1125839921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4817,48.96515,23.4817,48.96515",
+    "geom:latitude":48.96515,
+    "geom:longitude":23.4817,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":600,
+    "gn:population":600,
+    "iso:country":"UA",
+    "lbl:latitude":48.96515,
+    "lbl:longitude":23.4817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u683c\u5217\u5225\u5c3c\u592b"
+    ],
+    "name:eng_x_preferred":[
+        "Grebenuv"
+    ],
+    "name:pol_x_preferred":[
+        "Hreben\u00f3w"
+    ],
+    "name:rum_x_preferred":[
+        "Hrebeniv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0431\u0435\u043d\u0435\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "Hrebeniv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0435\u0431\u0435\u043d\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Hreben\u00f3w"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":708176,
+    "qs_pg:gn_pop":600,
+    "qs_pg:name":"Hrebeniv",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83111,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708176,
+        "qs_pg:id":83111,
+        "wd:id":"Q4148268"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292889,
+    "wof:geomhash":"b1133f6162d80f9827d3d26ff7ddc8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088167,
+            "locality_id":1125839921,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125839921,
+    "wof:lastmodified":1514509329,
+    "wof:name":"Hrebeniv",
+    "wof:parent_id":102088167,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4817,
+    48.96515,
+    23.4817,
+    48.96515
+],
+  "geometry": {"coordinates":[23.4817,48.96515],"type":"Point"}
+}

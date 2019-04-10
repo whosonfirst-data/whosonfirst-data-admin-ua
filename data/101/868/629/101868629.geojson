@@ -1,0 +1,94 @@
+{
+  "id": 101868629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.983382,48.701931,35.983382,48.701931",
+    "geom:latitude":48.701931,
+    "geom:longitude":35.983382,
+    "iso:country":"UA",
+    "lbl:latitude":48.701931,
+    "lbl:longitude":35.983382,
+    "mps:latitude":48.701931,
+    "mps:longitude":35.983382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Varvarovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Varvarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0440\u0432\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Varvarovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u042e\u0440'\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Yuryivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0430\u0440\u0432\u0430\u0440\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Varvarivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690454,
+        "gp:id":937479
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c2e641344512eff992f5a977e06a1258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088655,
+            "locality_id":101868629,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101868629,
+    "wof:lastmodified":1544749842,
+    "wof:name":"\u0412\u0430\u0440\u0432\u0430\u0440\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.983382,
+    48.701931,
+    35.983382,
+    48.701931
+],
+  "geometry": {"coordinates":[35.983382,48.701931],"type":"Point"}
+}

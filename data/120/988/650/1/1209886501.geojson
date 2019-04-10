@@ -1,0 +1,76 @@
+{
+  "id": 1209886501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.14119,48.30547,39.14119,48.30547",
+    "geom:latitude":48.30547,
+    "geom:longitude":39.14119,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kruhlyk",
+    "gn:country_code":"UA",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703966,
+    "gn:latitude":48.30547,
+    "gn:longitude":39.14119,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kruhlyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kruhlyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0443\u0433\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kruglik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703966
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6999b70bbcc98dd44ddfbb8a22b748b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088749,
+            "locality_id":1209886501,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1209886501,
+    "wof:lastmodified":1537710941,
+    "wof:name":"Kruhlyk",
+    "wof:parent_id":102088749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.14119,
+    48.30547,
+    39.14119,
+    48.30547
+],
+  "geometry": {"coordinates":[39.14119,48.30547],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1125778863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4141,45.3392,36.4141,45.3392",
+    "geom:latitude":45.3392,
+    "geom:longitude":36.4141,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6557,
+    "iso:country":"UA",
+    "lbl:latitude":45.3392,
+    "lbl:longitude":36.4141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":688951,
+    "qs_pg:gn_pop":6557,
+    "qs_pg:name":"Voskhod",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128180,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738639,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688951,
+        "qs_pg:id":128180
+    },
+    "wof:country":"UA",
+    "wof:created":1497290382,
+    "wof:geomhash":"0e99c35ae484dcfe84cff262f1147106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125778863,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "locality_id":1125778863,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125778863,
+    "wof:lastmodified":1530299613,
+    "wof:name":"Voskhod",
+    "wof:parent_id":1108738639,
+    "wof:placetype":"locality",
+    "wof:population":6557,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4141,
+    45.3392,
+    36.4141,
+    45.3392
+],
+  "geometry": {"coordinates":[36.4141,45.3392],"type":"Point"}
+}

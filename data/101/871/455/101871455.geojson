@@ -1,0 +1,104 @@
+{
+  "id": 101871455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31117,49.627949,38.31117,49.627949",
+    "geom:latitude":49.627949,
+    "geom:longitude":38.31117,
+    "iso:country":"UA",
+    "lbl:latitude":49.627949,
+    "lbl:longitude":38.31117,
+    "mps:latitude":49.627949,
+    "mps:longitude":38.31117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Novochervonoye"
+    ],
+    "name:ger_x_preferred":[
+        "Nowotscherwone"
+    ],
+    "name:lav_x_preferred":[
+        "Novo\u010dervone"
+    ],
+    "name:rum_x_preferred":[
+        "Novocervone"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u0432\u043e\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Novochervone"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u0432\u043e\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Novo-Krasnoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Troits'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u0432\u043e\u043d\u0435",
+    "qs:loc_alt":"Novochervone",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699643,
+        "gp:id":928150,
+        "qs:id":4,
+        "wd:id":"Q4326198"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c843fa6bb93e183147d3b420439239ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088967,
+            "locality_id":101871455,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101871455,
+    "wof:lastmodified":1544751109,
+    "wof:name":"\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u0432\u043e\u043d\u0435",
+    "wof:parent_id":102088967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31117,
+    49.627949,
+    38.31117,
+    49.627949
+],
+  "geometry": {"coordinates":[38.31117,49.627949],"type":"Point"}
+}

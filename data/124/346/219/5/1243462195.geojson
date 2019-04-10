@@ -1,0 +1,76 @@
+{
+  "id": 1243462195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00281,51.00258,32.00281,51.00258",
+    "geom:latitude":51.00258,
+    "geom:longitude":32.00281,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Palyvoda",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403029,
+    "gn:latitude":51.00258,
+    "gn:longitude":32.00281,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Palyvoda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Palyvoda"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u043b\u0438\u0432\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Palivoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403029
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e90eb9cea19428a637ccceca54193ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815725,
+            "locality_id":1243462195,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1243462195,
+    "wof:lastmodified":1537711647,
+    "wof:name":"Palyvoda",
+    "wof:parent_id":1108815725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00281,
+    51.00258,
+    32.00281,
+    51.00258
+],
+  "geometry": {"coordinates":[32.00281,51.00258],"type":"Point"}
+}

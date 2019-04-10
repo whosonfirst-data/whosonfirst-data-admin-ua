@@ -1,0 +1,76 @@
+{
+  "id": 1293766303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47875,50.52416,24.47875,50.52416",
+    "geom:latitude":50.52416,
+    "geom:longitude":24.47875,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hanivka",
+    "gn:country_code":"UA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8424042,
+    "gn:latitude":50.52416,
+    "gn:longitude":24.47875,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Hanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Annovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8424042
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"84ac4bf9702afeede0222c107e92f1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088549,
+            "locality_id":1293766303,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1293766303,
+    "wof:lastmodified":1537711675,
+    "wof:name":"Hanivka",
+    "wof:parent_id":102088549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47875,
+    50.52416,
+    24.47875,
+    50.52416
+],
+  "geometry": {"coordinates":[24.47875,50.52416],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101865095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.808466,47.071443,34.808466,47.071443",
+    "geom:latitude":47.071443,
+    "geom:longitude":34.808466,
+    "iso:country":"UA",
+    "lbl:latitude":47.071443,
+    "lbl:longitude":34.808466,
+    "mps:latitude":47.071443,
+    "mps:longitude":34.808466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7dec\u5947\u5eab\u91cc"
+    ],
+    "name:eng_x_preferred":[
+        "Menchykury"
+    ],
+    "name:ger_x_preferred":[
+        "Mentschykury"
+    ],
+    "name:lav_x_preferred":[
+        "Men\u010dikuri"
+    ],
+    "name:rum_x_preferred":[
+        "Menci\u00eekur\u00ee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u0447\u0438\u043a\u0443\u0440\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u0447\u0438\u043a\u0443\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Menchikur"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0435\u0441\u0435\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Veselivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0435\u043d\u0447\u0438\u043a\u0443\u0440\u0438",
+    "qs:loc_alt":"Menchykury",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701370,
+        "gp:id":937730,
+        "qs:id":7,
+        "wd:id":"Q7225008"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2841fe4143f0e2c021bbbfd16d18968d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":101865095,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865095,
+    "wof:lastmodified":1544747867,
+    "wof:name":"\u041c\u0435\u043d\u0447\u0438\u043a\u0443\u0440\u0438",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.808466,
+    47.071443,
+    34.808466,
+    47.071443
+],
+  "geometry": {"coordinates":[34.808466,47.071443],"type":"Point"}
+}

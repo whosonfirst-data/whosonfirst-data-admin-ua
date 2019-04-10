@@ -1,0 +1,75 @@
+{
+  "id": 1226204967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70805,48.96564,33.70805,48.96564",
+    "geom:latitude":48.96564,
+    "geom:longitude":33.70805,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Keleberda",
+    "gn:country_code":"UA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706542,
+    "gn:latitude":48.96564,
+    "gn:longitude":33.70805,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Keleberda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043b\u0435\u0431\u0435\u0440\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kaliberda",
+        "Koleberda",
+        "Keleberda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        1108815685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706542
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"12d8f8f40596d4f7e72af475a52caeea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815685,
+            "locality_id":1226204967,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1226204967,
+    "wof:lastmodified":1537711071,
+    "wof:name":"Keleberda",
+    "wof:parent_id":1108815685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70805,
+    48.96564,
+    33.70805,
+    48.96564
+],
+  "geometry": {"coordinates":[33.70805,48.96564],"type":"Point"}
+}

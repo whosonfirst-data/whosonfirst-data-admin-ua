@@ -1,0 +1,106 @@
+{
+  "id": 1125900339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9398,46.36957,32.9398,46.36957",
+    "geom:latitude":46.36957,
+    "geom:longitude":32.9398,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4422,
+    "gn:population":4422,
+    "iso:country":"UA",
+    "lbl:latitude":46.36957,
+    "lbl:longitude":32.9398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0646\u0648\u0647\u0631\u0627\u062f\u0648\u0641\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Vynohradove"
+    ],
+    "name:ger_x_preferred":[
+        "Wynohradowe"
+    ],
+    "name:lav_x_preferred":[
+        "Vinohradove"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00eenohradove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Chalbasy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689531,
+    "qs_pg:gn_pop":4422,
+    "qs_pg:name":"Vynohradove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028359,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689531,
+        "qs_pg:id":1028359,
+        "wd:id":"Q4111842"
+    },
+    "wof:country":"UA",
+    "wof:created":1497295776,
+    "wof:geomhash":"6d95f767712cecb2dbbdc6f9ffb5cafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088007,
+            "locality_id":1125900339,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1125900339,
+    "wof:lastmodified":1514510063,
+    "wof:name":"Vynohradove",
+    "wof:parent_id":102088007,
+    "wof:placetype":"locality",
+    "wof:population":4422,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9398,
+    46.36957,
+    32.9398,
+    46.36957
+],
+  "geometry": {"coordinates":[32.9398,46.36957],"type":"Point"}
+}

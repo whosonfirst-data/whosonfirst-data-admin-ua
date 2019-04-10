@@ -1,0 +1,87 @@
+{
+  "id": 1125856317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84831,50.22022,24.84831,50.22022",
+    "geom:latitude":50.22022,
+    "geom:longitude":24.84831,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3418,
+    "gn:population":3418,
+    "iso:country":"UA",
+    "lbl:latitude":50.22022,
+    "lbl:longitude":24.84831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ukr_x_preferred":[
+        "Lopatyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u043e\u043f\u0430\u0442\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Lopatin"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":702844,
+    "qs_pg:gn_pop":3418,
+    "qs_pg:name":"Lopatyn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128533,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702844,
+        "qs_pg:id":128533
+    },
+    "wof:country":"UA",
+    "wof:created":1497293635,
+    "wof:geomhash":"3f480f9f7b947bd9fefc59d3c8dfd055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088501,
+            "locality_id":1125856317,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125856317,
+    "wof:lastmodified":1509396241,
+    "wof:name":"Lopatyn",
+    "wof:parent_id":102088501,
+    "wof:placetype":"locality",
+    "wof:population":3418,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84831,
+    50.22022,
+    24.84831,
+    50.22022
+],
+  "geometry": {"coordinates":[24.84831,50.22022],"type":"Point"}
+}

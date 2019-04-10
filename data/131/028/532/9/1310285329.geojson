@@ -1,0 +1,101 @@
+{
+  "id": 1310285329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02355,44.93581,34.02355,44.93581",
+    "geom:latitude":44.93581,
+    "geom:longitude":34.02355,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152617.0",
+    "gn:asciiname":"Dubki",
+    "gn:country_code":"UA",
+    "gn:dem":282,
+    "gn:elevation":"269.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699016,
+    "gn:latitude":44.93581,
+    "gn:longitude":34.02355,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Dubki",
+    "gn:population":2256,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dubki"
+    ],
+    "name:rus_x_historical":[
+        "\u041d\u043e\u0301\u0432\u043e\u0435 \u0411\u0443\u0434\u043a\u0435\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0301\u0432\u043e\u0435 \u0411\u0443\u0434\u043a\u0435\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699016
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"395605a00442ea48619395906f5cf328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1310285329,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1310285329,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1310285329,
+    "wof:lastmodified":1537710692,
+    "wof:name":"Dubki",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":2256,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02355,
+    44.93581,
+    34.02355,
+    44.93581
+],
+  "geometry": {"coordinates":[34.02355,44.93581],"type":"Point"}
+}

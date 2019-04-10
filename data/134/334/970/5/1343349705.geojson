@@ -1,0 +1,95 @@
+{
+  "id": 1343349705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9007,44.9227,33.9007,44.9227",
+    "geom:latitude":44.9227,
+    "geom:longitude":33.9007,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152618.0",
+    "gn:asciiname":"Demyanovka",
+    "gn:country_code":"UA",
+    "gn:dem":157,
+    "gn:elevation":"158.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699870,
+    "gn:latitude":44.9227,
+    "gn:longitude":33.9007,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Demyanovka",
+    "gn:population":382,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Demyanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u2019\u044f\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699870
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6a9f2f038070458d2ab3ec9a03577259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1343349705,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1343349705,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1343349705,
+    "wof:lastmodified":1537710742,
+    "wof:name":"Demyanovka",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9007,
+    44.9227,
+    33.9007,
+    44.9227
+],
+  "geometry": {"coordinates":[33.9007,44.9227],"type":"Point"}
+}

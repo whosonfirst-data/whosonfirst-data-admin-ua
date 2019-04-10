@@ -1,0 +1,77 @@
+{
+  "id": 1259439421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06333,50.84222,35.06333,50.84222",
+    "geom:latitude":50.84222,
+    "geom:longitude":35.06333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Khvoyne",
+    "gn:country_code":"UA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807388,
+    "gn:latitude":50.84222,
+    "gn:longitude":35.06333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Khvoyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Khvoyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u0432\u043e\u0439\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pervomayskiy",
+        "Khvoynoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807388
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f750373d14f4a22012c0111b2d3b6dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088993,
+            "locality_id":1259439421,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1259439421,
+    "wof:lastmodified":1537711456,
+    "wof:name":"Khvoyne",
+    "wof:parent_id":102088993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06333,
+    50.84222000000001,
+    35.06333,
+    50.84222000000001
+],
+  "geometry": {"coordinates":[35.06333,50.84222000000001],"type":"Point"}
+}

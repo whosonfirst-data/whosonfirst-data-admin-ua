@@ -1,0 +1,101 @@
+{
+  "id": 101860489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.833768,48.213727,25.833768,48.213727",
+    "geom:latitude":48.213727,
+    "geom:longitude":25.833768,
+    "iso:country":"UA",
+    "lbl:latitude":48.213727,
+    "lbl:longitude":25.833768,
+    "mps:latitude":48.213727,
+    "mps:longitude":25.833768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0574\u0565\u0576\u0561\u0575\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Kamiana"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0574\u0565\u0576\u0561\u0575\u0561"
+    ],
+    "name:ron_x_preferred":[
+        "Camena"
+    ],
+    "name:rum_x_preferred":[
+        "Camena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c'\u044f\u043d\u0430"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernivets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u043e\u0440\u043e\u0436\u0438\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Storozhynets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u043c'\u044f\u043d\u0430",
+    "qs:loc_alt":"Kamiana",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":937308,
+        "qs:id":6,
+        "wd:id":"Q4211101"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d1d9ae45d9ef3d60f43dcfadba33e58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088037,
+            "locality_id":101860489,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":101860489,
+    "wof:lastmodified":1544745463,
+    "wof:name":"\u041a\u0430\u043c'\u044f\u043d\u0430",
+    "wof:parent_id":102088037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.833768,
+    48.213727,
+    25.833768,
+    48.213727
+],
+  "geometry": {"coordinates":[25.833768,48.213727],"type":"Point"}
+}

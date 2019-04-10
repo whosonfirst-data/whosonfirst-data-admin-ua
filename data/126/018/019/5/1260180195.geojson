@@ -1,0 +1,86 @@
+{
+  "id": 1260180195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.69089,48.93339,37.69089,48.93339",
+    "geom:latitude":48.93339,
+    "geom:longitude":37.69089,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Donets'ke",
+    "gn:country_code":"UA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709711,
+    "gn:latitude":48.93339,
+    "gn:longitude":37.69089,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Donets\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Donets\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Donetskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709711
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"eb19e10c23adc8346e60235ab3e59162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1260180195,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088767,
+            "disputed_id":1159339531,
+            "locality_id":1260180195,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1260180195,
+    "wof:lastmodified":1537711219,
+    "wof:name":"Donets'ke",
+    "wof:parent_id":102088767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.69089,
+    48.93339,
+    37.69089,
+    48.93339
+],
+  "geometry": {"coordinates":[37.69089,48.93339],"type":"Point"}
+}

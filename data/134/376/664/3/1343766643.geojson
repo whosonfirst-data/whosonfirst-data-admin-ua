@@ -1,0 +1,77 @@
+{
+  "id": 1343766643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.05,47.48333,38.05,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":38.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Marksfel'd",
+    "gn:country_code":"UA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701776,
+    "gn:latitude":47.48333,
+    "gn:longitude":38.05,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Marksfel\u2019d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701776
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d08feb7948156df6ea060046af601d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1343766643,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1343766643,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343766643,
+    "wof:lastmodified":1536802011,
+    "wof:name":"Marksfel'd",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.05,
+    47.48333,
+    38.05,
+    47.48333
+],
+  "geometry": {"coordinates":[38.05,47.48333],"type":"Point"}
+}

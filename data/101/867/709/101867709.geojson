@@ -1,0 +1,112 @@
+{
+  "id": 101867709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.607207,48.059096,34.607207,48.059096",
+    "geom:latitude":48.059096,
+    "geom:longitude":34.607207,
+    "gn:population":2092,
+    "iso:country":"UA",
+    "lbl:latitude":48.059096,
+    "lbl:longitude":34.607207,
+    "mps:latitude":48.059096,
+    "mps:longitude":34.607207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u057a\u0578\u056f\u0580\u0578\u057e\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u8afe\u6c83\u6ce2\u514b\u7f85\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:fre_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:ger_x_preferred":[
+        "Nowopokrowka"
+    ],
+    "name:lav_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Pokrovskaya"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043e\u043b\u043e\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Solonians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430",
+    "qs:loc_alt":"Novopokrovka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":454,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699329,
+        "gp:id":930246,
+        "qs:id":275487,
+        "wd:id":"Q3345538"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c5643323c46c0f0046303c1302daa200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088437,
+            "locality_id":101867709,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101867709,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430",
+    "wof:parent_id":102088437,
+    "wof:placetype":"locality",
+    "wof:population":2092,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.607207,
+    48.059096,
+    34.607207,
+    48.059096
+],
+  "geometry": {"coordinates":[34.607207,48.059096],"type":"Point"}
+}

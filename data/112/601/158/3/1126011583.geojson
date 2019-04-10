@@ -1,0 +1,103 @@
+{
+  "id": 1126011583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53906,48.48522,31.53906,48.48522",
+    "geom:latitude":48.48522,
+    "geom:longitude":31.53906,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4981,
+    "gn:population":4981,
+    "iso:country":"UA",
+    "lbl:latitude":48.48522,
+    "lbl:longitude":31.53906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Zlynka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u044b\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novoukrainsk"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":686932,
+    "qs_pg:gn_pop":4981,
+    "qs_pg:name":"Zlynka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Kirovohrads\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128155,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":940339,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Kirovohrads\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":686932,
+        "gp:id":940339,
+        "qs_pg:id":128155
+    },
+    "wof:country":"UA",
+    "wof:created":1497300307,
+    "wof:geomhash":"83bc5bccc97380dbe7a820d10a64c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088367,
+            "locality_id":1126011583,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1126011583,
+    "wof:lastmodified":1509406712,
+    "wof:name":"Zlynka",
+    "wof:parent_id":102088367,
+    "wof:placetype":"locality",
+    "wof:population":4981,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53906,
+    48.48522,
+    31.53906,
+    48.48522
+],
+  "geometry": {"coordinates":[31.53906,48.48522],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1193006237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93034,45.26927,34.93034,45.26927",
+    "geom:latitude":45.26927,
+    "geom:longitude":34.93034,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"693058",
+    "gn:admin3_code":"11153130.0",
+    "gn:asciiname":"Nikolayevka",
+    "gn:country_code":"UA",
+    "gn:dem":27,
+    "gn:elevation":"29.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237891,
+    "gn:latitude":45.26927,
+    "gn:longitude":34.93034,
+    "gn:modification_date":"2016-08-15",
+    "gn:name":"Nikolayevka",
+    "gn:population":433,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nikolayevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738653,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237891
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"eb4775665e143a83000fec5118fff648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1193006237,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "locality_id":1193006237,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1193006237,
+    "wof:lastmodified":1537712032,
+    "wof:name":"Nikolayevka",
+    "wof:parent_id":1108738653,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93034,
+    45.26927,
+    34.93034,
+    45.26927
+],
+  "geometry": {"coordinates":[34.93034,45.26927],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1126022435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68858,49.12265,23.68858,49.12265",
+    "geom:latitude":49.12265,
+    "geom:longitude":23.68858,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":566,
+    "gn:population":566,
+    "iso:country":"UA",
+    "lbl:latitude":49.12265,
+    "lbl:longitude":23.68858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rozgirche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0433\u0438\u0440\u0447\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6930544,
+    "qs_pg:gn_pop":566,
+    "qs_pg:name":"\u0420\u043e\u0437\u0433\u0438\u0440\u0447\u0435",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":652881,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930544,
+        "qs_pg:id":652881
+    },
+    "wof:country":"UA",
+    "wof:created":1497300916,
+    "wof:geomhash":"7ef800aefa74b8d6605505e803d5ee7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088221,
+            "locality_id":1126022435,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1126022435,
+    "wof:lastmodified":1509407304,
+    "wof:name":"\u0420\u043e\u0437\u0433\u0438\u0440\u0447\u0435",
+    "wof:parent_id":102088221,
+    "wof:placetype":"locality",
+    "wof:population":566,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68858,
+    49.12265,
+    23.68858,
+    49.12265
+],
+  "geometry": {"coordinates":[23.68858,49.12265],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276171483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87138,47.02662,36.87138,47.02662",
+    "geom:latitude":47.02662,
+    "geom:longitude":36.87138,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Mykolayivka",
+    "gn:country_code":"UA",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700167,
+    "gn:latitude":47.02662,
+    "gn:longitude":36.87138,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Mykolayivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nikolayevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Mykolayivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nikolaevka",
+        "Nikolayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700167
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8832de930cd04e09269a91e898e43746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815641,
+            "locality_id":1276171483,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1276171483,
+    "wof:lastmodified":1537710759,
+    "wof:name":"Mykolayivka",
+    "wof:parent_id":1108815641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87138,
+    47.02662,
+    36.87138,
+    47.02662
+],
+  "geometry": {"coordinates":[36.87138,47.02662],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1126035825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02667,47.71583,38.02667,47.71583",
+    "geom:latitude":47.71583,
+    "geom:longitude":38.02667,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":192,
+    "gn:population":192,
+    "iso:country":"UA",
+    "lbl:latitude":47.71583,
+    "lbl:longitude":38.02667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":816683,
+    "qs_pg:gn_pop":192,
+    "qs_pg:name":"Gora Yargin-Khara-Aba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":83823,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":816683,
+        "qs_pg:id":83823
+    },
+    "wof:country":"UA",
+    "wof:created":1497301776,
+    "wof:geomhash":"e9191aac39a3712b02f50872bd0a0365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1126035825,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1126035825,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1126035825,
+    "wof:lastmodified":1530298012,
+    "wof:name":"Gora Yargin-Khara-Aba",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:population":192,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02667,
+    47.71583,
+    38.02667,
+    47.71583
+],
+  "geometry": {"coordinates":[38.02667,47.71583],"type":"Point"}
+}

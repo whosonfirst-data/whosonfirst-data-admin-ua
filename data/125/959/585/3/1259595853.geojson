@@ -1,0 +1,76 @@
+{
+  "id": 1259595853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55127,51.16087,31.55127,51.16087",
+    "geom:latitude":51.16087,
+    "geom:longitude":31.55127,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khotynivka",
+    "gn:country_code":"UA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706239,
+    "gn:latitude":51.16087,
+    "gn:longitude":31.55127,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Khotynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Khotynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043e\u0442\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khotinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706239
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"603ca89c5571abd8d6a21e8c060be7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088913,
+            "locality_id":1259595853,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1259595853,
+    "wof:lastmodified":1537711055,
+    "wof:name":"Khotynivka",
+    "wof:parent_id":102088913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55127,
+    51.16087,
+    31.55127,
+    51.16087
+],
+  "geometry": {"coordinates":[31.55127,51.16087],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125825313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50439,50.82854,31.50439,50.82854",
+    "geom:latitude":50.82854,
+    "geom:longitude":31.50439,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4332,
+    "gn:population":4332,
+    "iso:country":"UA",
+    "lbl:latitude":50.82854,
+    "lbl:longitude":31.50439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0562\u056b\u056a\u0579\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u6bd4\u65e5\u6070"
+    ],
+    "name:eng_x_preferred":[
+        "Kobyzhcha"
+    ],
+    "name:ger_x_preferred":[
+        "Kobyschtscha"
+    ],
+    "name:rum_x_preferred":[
+        "Kob\u00eejcea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u044b\u0436\u0447\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0431\u0438\u0436\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u0436\u0447\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kobyzhchi"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705524,
+    "qs_pg:gn_pop":4332,
+    "qs_pg:name":"Kobyzhcha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128649,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705524,
+        "qs_pg:id":128649,
+        "wd:id":"Q4225230"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292249,
+    "wof:geomhash":"c4bb806e8d00cfde0e7ce320f8816af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088869,
+            "locality_id":1125825313,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1125825313,
+    "wof:lastmodified":1553816556,
+    "wof:name":"Kobyzhcha",
+    "wof:parent_id":102088869,
+    "wof:placetype":"locality",
+    "wof:population":4332,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50439,
+    50.82854,
+    31.50439,
+    50.82854
+],
+  "geometry": {"coordinates":[31.50439,50.82854],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125864025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60695,51.19806,33.60695,51.19806",
+    "geom:latitude":51.19806,
+    "geom:longitude":33.60695,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2949,
+    "gn:population":2949,
+    "iso:country":"UA",
+    "lbl:latitude":51.19806,
+    "lbl:longitude":33.60695,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u056c\u0578\u0562\u0578\u0564\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u6d1b\u5e03\u9054"
+    ],
+    "name:eng_x_preferred":[
+        "Sloboda"
+    ],
+    "name:ger_x_preferred":[
+        "Sloboda"
+    ],
+    "name:rum_x_preferred":[
+        "Sloboda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Popova Sloboda"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":693546,
+    "qs_pg:gn_pop":2949,
+    "qs_pg:name":"Sloboda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128283,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693546,
+        "qs_pg:id":128283,
+        "wd:id":"Q4423515"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293954,
+    "wof:geomhash":"19a334a8b8f1f95b7409fb4393b897a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088985,
+            "locality_id":1125864025,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1125864025,
+    "wof:lastmodified":1514509806,
+    "wof:name":"Sloboda",
+    "wof:parent_id":102088985,
+    "wof:placetype":"locality",
+    "wof:population":2949,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60695,
+    51.19806,
+    33.60695,
+    51.19806
+],
+  "geometry": {"coordinates":[33.60695,51.19806],"type":"Point"}
+}

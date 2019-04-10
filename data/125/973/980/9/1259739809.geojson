@@ -1,0 +1,76 @@
+{
+  "id": 1259739809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89408,51.28256,33.89408,51.28256",
+    "geom:latitude":51.28256,
+    "geom:longitude":33.89408,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kharivka",
+    "gn:country_code":"UA",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8416877,
+    "gn:latitude":51.28256,
+    "gn:longitude":33.89408,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Kharivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kharivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kharevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102089001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8416877
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"025735323f4634bee89c3f4a501fb599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089001,
+            "locality_id":1259739809,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1259739809,
+    "wof:lastmodified":1537711664,
+    "wof:name":"Kharivka",
+    "wof:parent_id":102089001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89408,
+    51.28256,
+    33.89408,
+    51.28256
+],
+  "geometry": {"coordinates":[33.89408,51.28256],"type":"Point"}
+}

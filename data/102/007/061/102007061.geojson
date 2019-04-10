@@ -1,0 +1,108 @@
+{
+  "id": 102007061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000432,
+    "geom:area_square_m":3582763.934393,
+    "geom:bbox":"39.7994995007,47.9240264893,39.8281402588,47.9533348213",
+    "geom:latitude":47.934473,
+    "geom:longitude":39.815091,
+    "gn:latitude":47.93444,
+    "gn:longitude":39.81611,
+    "iso:country":"UA",
+    "lbl:latitude":47.933809,
+    "lbl:longitude":39.815309,
+    "mps:latitude":47.933809,
+    "mps:longitude":39.815309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pavlovka"
+    ],
+    "name:ger_x_preferred":[
+        "Pawliwka"
+    ],
+    "name:lav_x_preferred":[
+        "Pav\u013civka"
+    ],
+    "name:nor_x_preferred":[
+        "Pavlovka"
+    ],
+    "name:rum_x_preferred":[
+        "Pavlivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1_lc":"6101900005000",
+    "qs:a1r":"*",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0443\u043b\u0438\u043d\u0441\u043a\u0438\u0439",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"PAVLOVKA",
+    "qs:loc_alt":"\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "qs:type":"\u0441",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        85688033,
+        102191581,
+        85632685,
+        874393555,
+        1108734737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697841,
+        "gp:id":90611987,
+        "qs_pg:id":1028486,
+        "wd:id":"Q4341679"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bb4a93e099c219a99cbc9da9d800b927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108734737,
+            "empire_id":874393555,
+            "locality_id":102007061,
+            "region_id":85688033
+        }
+    ],
+    "wof:id":102007061,
+    "wof:lastmodified":1527637037,
+    "wof:name":"Pavlovka",
+    "wof:parent_id":1108734737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79949950074754,
+    47.92402648925781,
+    39.82814025878906,
+    47.95333482134228
+],
+  "geometry": {"coordinates":[[[39.82814025878906,47.92436218261719],[39.82725143432617,47.92449951171875],[39.82733154296875,47.92402648925781],[39.81375122070312,47.92405700683594],[39.80208206176758,47.92552947998047],[39.79949951171875,47.92622375488281],[39.79949950074754,47.9262237578462],[39.79949958,47.92622382338379],[39.7999458,47.92658238338379],[39.80211264,47.92991634338379],[39.81744373938401,47.95333482134228],[39.81744384765625,47.95333480834961],[39.81919479370117,47.95302963256836],[39.82049942016602,47.94939041137695],[39.820556640625,47.94449996948242],[39.82636260986328,47.92908477783203],[39.82749938964844,47.92605590820312],[39.82814025878906,47.92436218261719]]],"type":"Polygon"}
+}

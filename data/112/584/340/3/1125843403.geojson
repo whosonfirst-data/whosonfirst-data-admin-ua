@@ -1,0 +1,103 @@
+{
+  "id": 1125843403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95861,50.82902,34.95861,50.82902",
+    "geom:latitude":50.82902,
+    "geom:longitude":34.95861,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3669,
+    "gn:population":3669,
+    "iso:country":"UA",
+    "lbl:latitude":50.82902,
+    "lbl:longitude":34.95861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Verkhnyaya Syrovatka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445.\u0421\u044b\u0440\u043e\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f \u0421\u0438\u0440\u043e\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f \u0421\u0438\u0440\u043e\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Verkhnya Syrovatka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689830,
+    "qs_pg:gn_pop":3669,
+    "qs_pg:name":"Verkhnyaya Syrovatka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Sums\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1283373,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":937624,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Sums\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689830,
+        "gp:id":937624,
+        "qs_pg:id":1283373
+    },
+    "wof:country":"UA",
+    "wof:created":1497293035,
+    "wof:geomhash":"e57108a6e7b829eeee88b75766460697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088997,
+            "locality_id":1125843403,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1125843403,
+    "wof:lastmodified":1509395434,
+    "wof:name":"Verkhnyaya Syrovatka",
+    "wof:parent_id":102088997,
+    "wof:placetype":"locality",
+    "wof:population":3669,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95861,
+    50.82902,
+    34.95861,
+    50.82902
+],
+  "geometry": {"coordinates":[34.95861,50.82902],"type":"Point"}
+}

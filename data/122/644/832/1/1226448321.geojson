@@ -1,0 +1,77 @@
+{
+  "id": 1226448321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43004,48.20485,34.43004,48.20485",
+    "geom:latitude":48.20485,
+    "geom:longitude":34.43004,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shmakove",
+    "gn:country_code":"UA",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693880,
+    "gn:latitude":48.20485,
+    "gn:longitude":34.43004,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Shmakove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shmakove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u043c\u0430\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shmakovo",
+        "Shumakovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693880
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a7b63ec34cdc28f310fcdec6348f2f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088477,
+            "locality_id":1226448321,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1226448321,
+    "wof:lastmodified":1537710434,
+    "wof:name":"Shmakove",
+    "wof:parent_id":102088477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43004000000001,
+    48.20485,
+    34.43004000000001,
+    48.20485
+],
+  "geometry": {"coordinates":[34.43004000000001,48.20485],"type":"Point"}
+}

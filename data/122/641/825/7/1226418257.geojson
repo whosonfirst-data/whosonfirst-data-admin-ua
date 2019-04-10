@@ -1,0 +1,77 @@
+{
+  "id": 1226418257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30186,49.70354,34.30186,49.70354",
+    "geom:latitude":49.70354,
+    "geom:longitude":34.30186,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lozivka",
+    "gn:country_code":"UA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703320,
+    "gn:latitude":49.70354,
+    "gn:longitude":34.30186,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Lozivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lozivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u043e\u0437\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lozovskiye",
+        "Lazovskiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        1108815691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703320
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"eb0b0c2c45e148c5fe7b5151854084d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815691,
+            "locality_id":1226418257,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1226418257,
+    "wof:lastmodified":1537710912,
+    "wof:name":"Lozivka",
+    "wof:parent_id":1108815691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30186,
+    49.70354,
+    34.30186,
+    49.70354
+],
+  "geometry": {"coordinates":[34.30186,49.70354],"type":"Point"}
+}

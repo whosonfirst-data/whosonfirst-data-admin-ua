@@ -1,0 +1,82 @@
+{
+  "id": 1125855591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.762237,48.777322,38.762237,48.777322",
+    "geom:latitude":48.777322,
+    "geom:longitude":38.762237,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":48.777322,
+    "lbl:longitude":38.762237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Krymskaya",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1098958,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":924566,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":924566,
+        "qs_pg:id":1098958
+    },
+    "wof:country":"UA",
+    "wof:created":1497293604,
+    "wof:geomhash":"2171118c4ec6b161c03a4e73af71d92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088867,
+            "locality_id":1125855591,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125855591,
+    "wof:lastmodified":1509396192,
+    "wof:name":"Krymskaya",
+    "wof:parent_id":102088867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.762237,
+    48.777322,
+    38.762237,
+    48.777322
+],
+  "geometry": {"coordinates":[38.762237,48.777322],"type":"Point"}
+}

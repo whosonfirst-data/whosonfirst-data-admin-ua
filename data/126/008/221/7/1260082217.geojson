@@ -1,0 +1,76 @@
+{
+  "id": 1260082217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61658,50.79425,31.61658,50.79425",
+    "geom:latitude":50.79425,
+    "geom:longitude":31.61658,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Horbachi",
+    "gn:country_code":"UA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527419,
+    "gn:latitude":50.79425,
+    "gn:longitude":31.61658,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Horbachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Horbachi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u0440\u0431\u0430\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Gorbachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527419
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"32b1d608a00b166febcefbc7c88946fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088869,
+            "locality_id":1260082217,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1260082217,
+    "wof:lastmodified":1537711738,
+    "wof:name":"Horbachi",
+    "wof:parent_id":102088869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61658,
+    50.79425,
+    31.61658,
+    50.79425
+],
+  "geometry": {"coordinates":[31.61658,50.79425],"type":"Point"}
+}

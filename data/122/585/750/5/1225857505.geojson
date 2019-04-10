@@ -1,0 +1,73 @@
+{
+  "id": 1225857505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92319,52.16967,32.92319,52.16967",
+    "geom:latitude":52.16967,
+    "geom:longitude":32.92319,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hazoprovidne",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036186,
+    "gn:latitude":52.16967,
+    "gn:longitude":32.92319,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hazoprovidne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hazoprovidne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0437\u043e\u043f\u0440\u043e\u0432\u0456\u0434\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036186
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8a06b8911197f73ade81a89245d01efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088677,
+            "locality_id":1225857505,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1225857505,
+    "wof:lastmodified":1537711557,
+    "wof:name":"Hazoprovidne",
+    "wof:parent_id":102088677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92319000000001,
+    52.16967,
+    32.92319000000001,
+    52.16967
+],
+  "geometry": {"coordinates":[32.92319000000001,52.16967],"type":"Point"}
+}

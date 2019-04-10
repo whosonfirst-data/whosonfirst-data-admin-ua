@@ -1,0 +1,87 @@
+{
+  "id": 1125881573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43003,48.57152,24.43003,48.57152",
+    "geom:latitude":48.57152,
+    "geom:longitude":24.43003,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4530,
+    "gn:population":4530,
+    "iso:country":"UA",
+    "lbl:latitude":48.57152,
+    "lbl:longitude":24.43003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0456\u0447\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u0456\u0447\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Pasechna"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697945,
+    "qs_pg:gn_pop":4530,
+    "qs_pg:name":"Pasichna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028488,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697945,
+        "qs_pg:id":1028488
+    },
+    "wof:country":"UA",
+    "wof:created":1497294837,
+    "wof:geomhash":"e7e5e1c4cbbf1dc838a0bfa1136912b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088099,
+            "locality_id":1125881573,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125881573,
+    "wof:lastmodified":1509398194,
+    "wof:name":"Pasichna",
+    "wof:parent_id":102088099,
+    "wof:placetype":"locality",
+    "wof:population":4530,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43003,
+    48.57152,
+    24.43003,
+    48.57152
+],
+  "geometry": {"coordinates":[24.43003,48.57152],"type":"Point"}
+}

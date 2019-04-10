@@ -1,0 +1,84 @@
+{
+  "id": 1125779615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31601,50.58561,26.31601,50.58561",
+    "geom:latitude":50.58561,
+    "geom:longitude":26.31601,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3052,
+    "gn:population":3052,
+    "iso:country":"UA",
+    "lbl:latitude":50.58561,
+    "lbl:longitude":26.31601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705431,
+    "qs_pg:gn_pop":3052,
+    "qs_pg:name":"Kolodenka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128643,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705431,
+        "qs_pg:id":128643
+    },
+    "wof:country":"UA",
+    "wof:created":1497290411,
+    "wof:geomhash":"24116d629058727e3846aaf5b46ba55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":1125779615,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1125779615,
+    "wof:lastmodified":1509391475,
+    "wof:name":"Kolodenka",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:population":3052,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31601,
+    50.58561,
+    26.31601,
+    50.58561
+],
+  "geometry": {"coordinates":[26.31601,50.58561],"type":"Point"}
+}

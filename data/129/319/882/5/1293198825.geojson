@@ -1,0 +1,83 @@
+{
+  "id": 1293198825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.58012,47.76722,37.58012,47.76722",
+    "geom:latitude":47.76722,
+    "geom:longitude":37.58012,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Berezove",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9644093,
+    "gn:latitude":47.76722,
+    "gn:longitude":37.58012,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Berezove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Berezove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Berezovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9644093
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ebb32b0dbbb860ab76bc838f05a861f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1293198825,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1293198825,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293198825,
+    "wof:lastmodified":1537711889,
+    "wof:name":"Berezove",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.58012,
+    47.76722,
+    37.58012,
+    47.76722
+],
+  "geometry": {"coordinates":[37.58012,47.76722],"type":"Point"}
+}

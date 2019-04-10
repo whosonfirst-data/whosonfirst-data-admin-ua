@@ -1,0 +1,76 @@
+{
+  "id": 1360053755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55919,50.90441,25.55919,50.90441",
+    "geom:latitude":50.90441,
+    "geom:longitude":25.55919,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Hayove",
+    "gn:country_code":"UA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345255,
+    "gn:latitude":50.90441,
+    "gn:longitude":25.55919,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Hayove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hayove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0439\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gayevoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345255
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e12b99e76eb2ea98f6737c25fbc1bf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088699,
+            "locality_id":1360053755,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1360053755,
+    "wof:lastmodified":1537711616,
+    "wof:name":"Hayove",
+    "wof:parent_id":102088699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55919,
+    50.90441,
+    25.55919,
+    50.90441
+],
+  "geometry": {"coordinates":[25.55919,50.90441],"type":"Point"}
+}

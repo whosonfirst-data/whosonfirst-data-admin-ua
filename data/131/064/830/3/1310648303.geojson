@@ -1,0 +1,83 @@
+{
+  "id": 1310648303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14833,47.37267,36.14833,47.37267",
+    "geom:latitude":47.37267,
+    "geom:longitude":36.14833,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Shevchenkove",
+    "gn:country_code":"UA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":694145,
+    "gn:latitude":47.37267,
+    "gn:longitude":36.14833,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Shevchenkove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shevchenkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "Shevchenkove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shevchenko",
+        "Shevchenkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694145
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"718cd85b8e9dbed647c7d47a2c708081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088369,
+            "locality_id":1310648303,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1310648303,
+    "wof:lastmodified":1537710447,
+    "wof:name":"Shevchenkove",
+    "wof:parent_id":102088369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14833,
+    47.37267,
+    36.14833,
+    47.37267
+],
+  "geometry": {"coordinates":[36.14833,47.37267],"type":"Point"}
+}

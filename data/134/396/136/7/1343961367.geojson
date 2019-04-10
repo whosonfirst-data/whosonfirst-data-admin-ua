@@ -1,0 +1,80 @@
+{
+  "id": 1343961367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57772,49.03287,30.57772,49.03287",
+    "geom:latitude":49.03287,
+    "geom:longitude":30.57772,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lisove",
+    "gn:country_code":"UA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688486,
+    "gn:latitude":49.03287,
+    "gn:longitude":30.57772,
+    "gn:modification_date":"2017-05-28",
+    "gn:name":"Lisove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_historical":[
+        "\u042f\u043d\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0441\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "\u0418\u0432\u0430\u043d\u044c\u043a\u043e\u0432\u043a\u0430",
+        "\u0418\u0432\u0430\u043d\u044c\u043a\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688486
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7f265e57581d8931754086c979d2596d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088407,
+            "locality_id":1343961367,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1343961367,
+    "wof:lastmodified":1537710166,
+    "wof:name":"Lisove",
+    "wof:parent_id":102088407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57772000000001,
+    49.03287,
+    30.57772000000001,
+    49.03287
+],
+  "geometry": {"coordinates":[30.57772000000001,49.03287],"type":"Point"}
+}

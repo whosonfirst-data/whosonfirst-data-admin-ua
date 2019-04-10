@@ -1,0 +1,76 @@
+{
+  "id": 1243359201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88222,49.9023,26.88222,49.9023",
+    "geom:latitude":49.9023,
+    "geom:longitude":26.88222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Svyrydy",
+    "gn:country_code":"UA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692103,
+    "gn:latitude":49.9023,
+    "gn:longitude":26.88222,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Svyrydy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Svyrydy"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u0438\u0440\u0438\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sveridy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692103
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6b4ca3dfaeeded607764b26cbac34da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088547,
+            "locality_id":1243359201,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1243359201,
+    "wof:lastmodified":1537710352,
+    "wof:name":"Svyrydy",
+    "wof:parent_id":102088547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88222,
+    49.9023,
+    26.88222,
+    49.9023
+],
+  "geometry": {"coordinates":[26.88222,49.9023],"type":"Point"}
+}

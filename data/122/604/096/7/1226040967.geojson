@@ -1,0 +1,87 @@
+{
+  "id": 1226040967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35029,48.43154,38.35029,48.43154",
+    "geom:latitude":48.43154,
+    "geom:longitude":38.35029,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rozsadky",
+    "gn:country_code":"UA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695301,
+    "gn:latitude":48.43154,
+    "gn:longitude":38.35029,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Rozsadky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rozsadky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u0437\u0441\u0430\u0434\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rossadka",
+        "Rozsadka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695301
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3be2c8e0ca87be4d7e0350cb61f3669d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1226040967,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1226040967,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226040967,
+    "wof:lastmodified":1537710501,
+    "wof:name":"Rozsadky",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35029,
+    48.43154000000001,
+    38.35029,
+    48.43154000000001
+],
+  "geometry": {"coordinates":[38.35029,48.43154000000001],"type":"Point"}
+}

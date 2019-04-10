@@ -1,0 +1,76 @@
+{
+  "id": 1260345223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29389,50.68694,35.29389,50.68694",
+    "geom:latitude":50.68694,
+    "geom:longitude":35.29389,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Zemlyane",
+    "gn:country_code":"UA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807569,
+    "gn:latitude":50.68694,
+    "gn:longitude":35.29389,
+    "gn:modification_date":"2013-11-11",
+    "gn:name":"Zemlyane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zemlyane"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0435\u043c\u043b\u044f\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gryaznoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807569
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"038b458f1629d74df127a1caf04125d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088993,
+            "locality_id":1260345223,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1260345223,
+    "wof:lastmodified":1537711460,
+    "wof:name":"Zemlyane",
+    "wof:parent_id":102088993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29389000000001,
+    50.68694,
+    35.29389000000001,
+    50.68694
+],
+  "geometry": {"coordinates":[35.29389000000001,50.68694],"type":"Point"}
+}

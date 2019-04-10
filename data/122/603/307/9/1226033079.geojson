@@ -1,0 +1,101 @@
+{
+  "id": 1226033079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.50163,45.52695,34.50163,45.52695",
+    "geom:latitude":45.52695,
+    "geom:longitude":34.50163,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704383",
+    "gn:admin3_code":"11152909.0",
+    "gn:asciiname":"Nakhimovo",
+    "gn:country_code":"UA",
+    "gn:dem":26,
+    "gn:elevation":"25.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019626,
+    "gn:latitude":45.52695,
+    "gn:longitude":34.50163,
+    "gn:modification_date":"2016-07-21",
+    "gn:name":"Nakhimovo",
+    "gn:population":90,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nakhimovo"
+    ],
+    "name:rus_x_historical":[
+        "\u041c\u0435\u0448\u0435\u0301\u043d\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0445\u0438\u043c\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0448\u0435\u0301\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0445\u0456\u043c\u043e\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019626
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0c3e0e73c481db1e255ac00a71fcf7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1226033079,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":1226033079,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1226033079,
+    "wof:lastmodified":1537711526,
+    "wof:name":"Nakhimovo",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.50163,
+    45.52695,
+    34.50163,
+    45.52695
+],
+  "geometry": {"coordinates":[34.50163,45.52695],"type":"Point"}
+}

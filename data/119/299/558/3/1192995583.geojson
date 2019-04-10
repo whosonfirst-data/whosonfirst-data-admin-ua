@@ -1,0 +1,103 @@
+{
+  "id": 1192995583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33104,45.87198,34.33104,45.87198",
+    "geom:latitude":45.87198,
+    "geom:longitude":34.33104,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152847.0",
+    "gn:asciiname":"Martynovka",
+    "gn:country_code":"UA",
+    "gn:dem":4,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701754,
+    "gn:latitude":45.87198,
+    "gn:longitude":34.33104,
+    "gn:modification_date":"2016-06-07",
+    "gn:name":"Martynovka",
+    "gn:population":585,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Martynovka"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u0301",
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0438\u0301-\u0411\u0430\u0433\u0430\u043b\u0430\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u0301",
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0438\u0301-\u0411\u0430\u0433\u0430\u043b\u0430\u0301\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701754
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e0d48ccd4dbc3187dd225fc2f7fd68ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1192995583,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1192995583,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1192995583,
+    "wof:lastmodified":1537710834,
+    "wof:name":"Martynovka",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":585,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33104,
+    45.87198,
+    34.33104,
+    45.87198
+],
+  "geometry": {"coordinates":[34.33104,45.87198],"type":"Point"}
+}

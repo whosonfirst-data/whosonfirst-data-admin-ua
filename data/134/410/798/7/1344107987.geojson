@@ -1,0 +1,76 @@
+{
+  "id": 1344107987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63422,50.23657,27.63422,50.23657",
+    "geom:latitude":50.23657,
+    "geom:longitude":27.63422,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Markivka",
+    "gn:country_code":"UA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701791,
+    "gn:latitude":50.23657,
+    "gn:longitude":27.63422,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Markivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Markivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0440\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Markovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701791
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b950e2ee210fb2df3c9b133215fd094f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088619,
+            "locality_id":1344107987,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1344107987,
+    "wof:lastmodified":1537710835,
+    "wof:name":"Markivka",
+    "wof:parent_id":102088619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63422000000001,
+    50.23657,
+    27.63422000000001,
+    50.23657
+],
+  "geometry": {"coordinates":[27.63422000000001,50.23657],"type":"Point"}
+}

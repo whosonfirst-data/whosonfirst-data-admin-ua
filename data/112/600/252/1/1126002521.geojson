@@ -1,0 +1,103 @@
+{
+  "id": 1126002521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47398,48.62968,24.47398,48.62968",
+    "geom:latitude":48.62968,
+    "geom:longitude":24.47398,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4112,
+    "gn:population":4112,
+    "iso:country":"UA",
+    "lbl:latitude":48.62968,
+    "lbl:longitude":24.47398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u6bd4\u7279\u57fa\u592b"
+    ],
+    "name:eng_x_preferred":[
+        "Bytkiv"
+    ],
+    "name:ger_x_preferred":[
+        "Bytkiw"
+    ],
+    "name:pol_x_preferred":[
+        "Bitk\u00f3w"
+    ],
+    "name:rum_x_preferred":[
+        "B\u00eetkiv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0442\u043a\u0456\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0442\u043a\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Bitkov"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":710981,
+    "qs_pg:gn_pop":4112,
+    "qs_pg:name":"Bytkiv",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128781,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710981,
+        "qs_pg:id":128781,
+        "wd:id":"Q4101248"
+    },
+    "wof:country":"UA",
+    "wof:created":1497299737,
+    "wof:geomhash":"16c5419831dd82467613eb2dd6e5459b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088099,
+            "locality_id":1126002521,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1126002521,
+    "wof:lastmodified":1514509093,
+    "wof:name":"Bytkiv",
+    "wof:parent_id":102088099,
+    "wof:placetype":"locality",
+    "wof:population":4112,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47398,
+    48.62968,
+    24.47398,
+    48.62968
+],
+  "geometry": {"coordinates":[24.47398,48.62968],"type":"Point"}
+}

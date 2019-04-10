@@ -1,0 +1,100 @@
+{
+  "id": 1125857253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99138,45.8699,33.99138,45.8699",
+    "geom:latitude":45.8699,
+    "geom:longitude":33.99138,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4221,
+    "gn:population":4089,
+    "iso:country":"UA",
+    "lbl:latitude":45.8699,
+    "lbl:longitude":33.99138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Voinka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0438\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0457\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689307,
+    "qs_pg:gn_pop":4221,
+    "qs_pg:name":"Voyinka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275413,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738619,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689307,
+        "qs_pg:id":275413
+    },
+    "wof:country":"UA",
+    "wof:created":1497293672,
+    "wof:geomhash":"8b46ce858b94ce5ca0dfcbd287c6df3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125857253,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "locality_id":1125857253,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125857253,
+    "wof:lastmodified":1530299612,
+    "wof:name":"Voyinka",
+    "wof:parent_id":1108738619,
+    "wof:placetype":"locality",
+    "wof:population":4089,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99138,
+    45.8699,
+    33.99138,
+    45.8699
+],
+  "geometry": {"coordinates":[33.99138,45.8699],"type":"Point"}
+}

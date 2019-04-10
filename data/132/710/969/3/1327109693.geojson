@@ -1,0 +1,76 @@
+{
+  "id": 1327109693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8415,50.4734,25.8415,50.4734",
+    "geom:latitude":50.4734,
+    "geom:longitude":25.8415,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dibrivka",
+    "gn:country_code":"UA",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438368,
+    "gn:latitude":50.4734,
+    "gn:longitude":25.8415,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Dibrivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dibrivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0456\u0431\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dubrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438368
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"aabd922e33988b18ad57cf6d0459fe74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088585,
+            "locality_id":1327109693,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1327109693,
+    "wof:lastmodified":1537711693,
+    "wof:name":"Dibrivka",
+    "wof:parent_id":102088585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8415,
+    50.4734,
+    25.8415,
+    50.4734
+],
+  "geometry": {"coordinates":[25.8415,50.4734],"type":"Point"}
+}

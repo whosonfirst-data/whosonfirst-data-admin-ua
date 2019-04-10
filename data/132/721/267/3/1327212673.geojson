@@ -1,0 +1,78 @@
+{
+  "id": 1327212673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48948,50.125,30.48948,50.125",
+    "geom:latitude":50.125,
+    "geom:longitude":30.48948,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kopachev",
+    "gn:country_code":"UA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705062,
+    "gn:latitude":50.125,
+    "gn:longitude":30.48948,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kopach\u00ebv",
+    "gn:population":477,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kopachiv"
+    ],
+    "name:und_x_variant":[
+        "Kopachiv",
+        "Kopachi",
+        "Kopach\u00ebv"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705062
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6ab2d354582b0cc9c0945c703871d4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088691,
+            "locality_id":1327212673,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1327212673,
+    "wof:lastmodified":1537710994,
+    "wof:name":"Kopachev",
+    "wof:parent_id":102088691,
+    "wof:placetype":"locality",
+    "wof:population":477,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48948,
+    50.125,
+    30.48948,
+    50.125
+],
+  "geometry": {"coordinates":[30.48948,50.125],"type":"Point"}
+}

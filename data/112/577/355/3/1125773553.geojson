@@ -1,0 +1,100 @@
+{
+  "id": 1125773553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78938,47.16302,29.78938,47.16302",
+    "geom:latitude":47.16302,
+    "geom:longitude":29.78938,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3183,
+    "gn:population":3183,
+    "iso:country":"UA",
+    "lbl:latitude":47.16302,
+    "lbl:longitude":29.78938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0447\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0447\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "Kuchurhan"
+    ],
+    "name:unk_x_variant":[
+        "Kuchurgan"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":864871,
+    "qs_pg:gn_pop":3183,
+    "qs_pg:name":"Kucurhan",
+    "qs_pg:name_adm0":"Moldova",
+    "qs_pg:name_adm1":"Stinga Nistrul",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1213455,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424885,
+    "qs_pg:woe_id":480810,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424885,
+    "woe:name_adm0":"Moldova",
+    "woe:name_adm1":"Stinga Nistrul",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864871,
+        "gp:id":480810,
+        "qs_pg:id":1213455
+    },
+    "wof:country":"UA",
+    "wof:created":1497290157,
+    "wof:geomhash":"9d8dee4f589547de3fc7b3e12e69f4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088003,
+            "locality_id":1125773553,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1125773553,
+    "wof:lastmodified":1509391132,
+    "wof:name":"Kucurhan",
+    "wof:parent_id":102088003,
+    "wof:placetype":"locality",
+    "wof:population":3183,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78938,
+    47.16302,
+    29.78938,
+    47.16302
+],
+  "geometry": {"coordinates":[29.78938,47.16302],"type":"Point"}
+}

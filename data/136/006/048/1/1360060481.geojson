@@ -1,0 +1,76 @@
+{
+  "id": 1360060481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48432,51.56327,26.48432,51.56327",
+    "geom:latitude":51.56327,
+    "geom:longitude":26.48432,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Krupove",
+    "gn:country_code":"UA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703936,
+    "gn:latitude":51.56327,
+    "gn:longitude":26.48432,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krupove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Krupove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0443\u043f\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krupovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703936
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"081d1210554362fc25605446151c1dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088889,
+            "locality_id":1360060481,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1360060481,
+    "wof:lastmodified":1537710940,
+    "wof:name":"Krupove",
+    "wof:parent_id":102088889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48432,
+    51.56327,
+    26.48432,
+    51.56327
+],
+  "geometry": {"coordinates":[26.48432,51.56327],"type":"Point"}
+}

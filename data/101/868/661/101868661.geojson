@@ -1,0 +1,107 @@
+{
+  "id": 101868661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.815176,49.466628,32.815176,49.466628",
+    "geom:latitude":49.466628,
+    "geom:longitude":32.815176,
+    "iso:country":"UA",
+    "lbl:latitude":49.466628,
+    "lbl:longitude":32.815176,
+    "mps:latitude":49.466628,
+    "mps:longitude":32.815176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u057e\u0575\u0561\u057f\u056b\u056c\u0578\u057e\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u7dad\u4e9e\u5b63\u5229\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Svyatilovka"
+    ],
+    "name:ger_x_preferred":[
+        "Swjatyliwka"
+    ],
+    "name:rum_x_preferred":[
+        "Sveat\u00eelivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u044f\u0442\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Svyatylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u044f\u0442\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Svyatilovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Poltavs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u043b\u043e\u0431\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Hlobyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0432\u044f\u0442\u0438\u043b\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Sviatylivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692019,
+        "gp:id":935644,
+        "qs:id":4,
+        "wd:id":"Q4411335"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b98596a1f5f354203b8aa1217345c3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088667,
+            "locality_id":101868661,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":101868661,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u0421\u0432\u044f\u0442\u0438\u043b\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.815176,
+    49.466628,
+    32.815176,
+    49.466628
+],
+  "geometry": {"coordinates":[32.815176,49.466628],"type":"Point"}
+}

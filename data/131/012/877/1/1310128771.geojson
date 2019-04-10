@@ -1,0 +1,76 @@
+{
+  "id": 1310128771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.06667,48.2,34.06667,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":34.06667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hruzynivka",
+    "gn:country_code":"UA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693322,
+    "gn:latitude":48.2,
+    "gn:longitude":34.06667,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Hruzynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hruzynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0443\u0437\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sofiyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693322
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c2392fb7ed464308b7e13802e49b2df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088477,
+            "locality_id":1310128771,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1310128771,
+    "wof:lastmodified":1537710409,
+    "wof:name":"Hruzynivka",
+    "wof:parent_id":102088477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.06667,
+    48.2,
+    34.06667,
+    48.2
+],
+  "geometry": {"coordinates":[34.06667,48.2],"type":"Point"}
+}

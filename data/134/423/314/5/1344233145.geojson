@@ -1,0 +1,76 @@
+{
+  "id": 1344233145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.82329,46.9926,29.82329,46.9926",
+    "geom:latitude":46.9926,
+    "geom:longitude":29.82329,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yurkivka",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864128,
+    "gn:latitude":46.9926,
+    "gn:longitude":29.82329,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Yurkivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yurkivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u042e\u0440\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yurkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864128
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f5b7dd800764b434c6489f397f25a939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088003,
+            "locality_id":1344233145,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1344233145,
+    "wof:lastmodified":1537711515,
+    "wof:name":"Yurkivka",
+    "wof:parent_id":102088003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.82329,
+    46.9926,
+    29.82329,
+    46.9926
+],
+  "geometry": {"coordinates":[29.82329,46.9926],"type":"Point"}
+}

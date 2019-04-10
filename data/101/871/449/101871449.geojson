@@ -1,0 +1,98 @@
+{
+  "id": 101871449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.717578,49.599515,38.717578,49.599515",
+    "geom:latitude":49.599515,
+    "geom:longitude":38.717578,
+    "gn:population":1135,
+    "iso:country":"UA",
+    "lbl:latitude":49.599515,
+    "lbl:longitude":38.717578,
+    "mps:latitude":49.599515,
+    "mps:longitude":38.717578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pavlivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Pavlovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0456\u043b\u043e\u043a\u0443\u0440\u0430\u043a\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bilokurakyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Pavlivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697839,
+        "gp:id":924833,
+        "qs:id":1028485,
+        "wd:id":"Q4165026"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c7ef4f02812b3a5fea09a806cf63b4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088961,
+            "locality_id":101871449,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101871449,
+    "wof:lastmodified":1544751106,
+    "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088961,
+    "wof:placetype":"locality",
+    "wof:population":1135,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.717578,
+    49.599515,
+    38.717578,
+    49.599515
+],
+  "geometry": {"coordinates":[38.717578,49.599515],"type":"Point"}
+}

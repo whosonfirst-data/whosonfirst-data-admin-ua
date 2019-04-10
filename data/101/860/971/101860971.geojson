@@ -1,0 +1,82 @@
+{
+  "id": 101860971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17305,48.64284,26.17305,48.64284",
+    "geom:latitude":48.64284,
+    "geom:longitude":26.17305,
+    "iso:country":"UA",
+    "lbl:latitude":48.64284,
+    "lbl:longitude":26.17305,
+    "mps:latitude":48.64284,
+    "mps:longitude":26.17305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ivan Puste"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ternopil's'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u043e\u0440\u0449\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Borschivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0406\u0432\u0430\u043d\u0435-\u041f\u0443\u0441\u0442\u0435",
+    "qs:loc_alt":"Ivane-Puste",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707510,
+        "gp:id":926826,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a181d00ffb9e024a7b3363d5fe4ee575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088181,
+            "locality_id":101860971,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":101860971,
+    "wof:lastmodified":1544745719,
+    "wof:name":"\u0406\u0432\u0430\u043d\u0435-\u041f\u0443\u0441\u0442\u0435",
+    "wof:parent_id":102088181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17305,
+    48.64284,
+    26.17305,
+    48.64284
+],
+  "geometry": {"coordinates":[26.17305,48.64284],"type":"Point"}
+}

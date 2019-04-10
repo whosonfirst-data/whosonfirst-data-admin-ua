@@ -1,0 +1,86 @@
+{
+  "id": 1293782261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.15222,47.92056,38.15222,47.92056",
+    "geom:latitude":47.92056,
+    "geom:longitude":38.15222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Prydorozhnye",
+    "gn:country_code":"UA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":803230,
+    "gn:latitude":47.92056,
+    "gn:longitude":38.15222,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Prydorozhnye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Prydorozhnye"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0438\u0434\u043e\u0440\u043e\u0436\u043d\u0454"
+    ],
+    "name:und_x_variant":[
+        "Archadinskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":803230
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"26092cfe48435758f073b11e6242226d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1293782261,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1293782261,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293782261,
+    "wof:lastmodified":1537711427,
+    "wof:name":"Prydorozhnye",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.15222,
+    47.92056,
+    38.15222,
+    47.92056
+],
+  "geometry": {"coordinates":[38.15222,47.92056],"type":"Point"}
+}

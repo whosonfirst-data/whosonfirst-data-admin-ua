@@ -1,0 +1,77 @@
+{
+  "id": 1260351615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70781,50.04468,34.70781,50.04468",
+    "geom:latitude":50.04468,
+    "geom:longitude":34.70781,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mlynky",
+    "gn:country_code":"UA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700954,
+    "gn:latitude":50.04468,
+    "gn:longitude":34.70781,
+    "gn:modification_date":"2014-02-09",
+    "gn:name":"Mlynky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Mlynky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043b\u0438\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mlinki",
+        "Mlynki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700954
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c4165e379ebce4284f5813a8fc05cd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088853,
+            "locality_id":1260351615,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1260351615,
+    "wof:lastmodified":1537710798,
+    "wof:name":"Mlynky",
+    "wof:parent_id":102088853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70780999999999,
+    50.04468,
+    34.70780999999999,
+    50.04468
+],
+  "geometry": {"coordinates":[34.70780999999999,50.04468],"type":"Point"}
+}

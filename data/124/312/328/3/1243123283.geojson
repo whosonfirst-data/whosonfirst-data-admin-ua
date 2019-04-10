@@ -1,0 +1,77 @@
+{
+  "id": 1243123283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79963,50.47919,28.79963,50.47919",
+    "geom:latitude":50.47919,
+    "geom:longitude":28.79963,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bezhiv",
+    "gn:country_code":"UA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712203,
+    "gn:latitude":50.47919,
+    "gn:longitude":28.79963,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Bezhiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bezhiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0436\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Bezhev",
+        "Bezhov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712203
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8b60c3704906b4d40209b6695c3ca4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088709,
+            "locality_id":1243123283,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243123283,
+    "wof:lastmodified":1537711348,
+    "wof:name":"Bezhiv",
+    "wof:parent_id":102088709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79963,
+    50.47919,
+    28.79963,
+    50.47919
+],
+  "geometry": {"coordinates":[28.79963,50.47919],"type":"Point"}
+}

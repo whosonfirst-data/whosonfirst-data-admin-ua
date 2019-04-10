@@ -1,0 +1,73 @@
+{
+  "id": 1243608493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.96869,48.08253,34.96869,48.08253",
+    "geom:latitude":48.08253,
+    "geom:longitude":34.96869,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dolynivka",
+    "gn:country_code":"UA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125182,
+    "gn:latitude":48.08253,
+    "gn:longitude":34.96869,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Dolynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dolynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125182
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"769cc1d722ee691f5c6602ce18ad846d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815653,
+            "locality_id":1243608493,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1243608493,
+    "wof:lastmodified":1537711974,
+    "wof:name":"Dolynivka",
+    "wof:parent_id":1108815653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.96869,
+    48.08253,
+    34.96869,
+    48.08253
+],
+  "geometry": {"coordinates":[34.96869,48.08253],"type":"Point"}
+}

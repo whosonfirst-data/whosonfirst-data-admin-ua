@@ -1,0 +1,76 @@
+{
+  "id": 1343269619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54872,51.0894,32.54872,51.0894",
+    "geom:latitude":51.0894,
+    "geom:longitude":32.54872,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hrushivka",
+    "gn:country_code":"UA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8402669,
+    "gn:latitude":51.0894,
+    "gn:longitude":32.54872,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Hrushivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hrushivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0443\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grushevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8402669
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"72100da9e48ffdacbd5b2a08de075240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088979,
+            "locality_id":1343269619,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1343269619,
+    "wof:lastmodified":1537711646,
+    "wof:name":"Hrushivka",
+    "wof:parent_id":102088979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54872,
+    51.0894,
+    32.54872,
+    51.0894
+],
+  "geometry": {"coordinates":[32.54872,51.0894],"type":"Point"}
+}

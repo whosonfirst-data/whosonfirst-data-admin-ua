@@ -1,0 +1,76 @@
+{
+  "id": 1226755461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42613,51.90479,31.42613,51.90479",
+    "geom:latitude":51.90479,
+    "geom:longitude":31.42613,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lyutizh",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702378,
+    "gn:latitude":51.90479,
+    "gn:longitude":31.42613,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lyutizh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lyutizh"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u044e\u0442\u0456\u0436"
+    ],
+    "name:und_x_variant":[
+        "Lyutezh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702378
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7053634a5bbacf024f8f5eba9ec9d1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1226755461,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1226755461,
+    "wof:lastmodified":1537710867,
+    "wof:name":"Lyutizh",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42613,
+    51.90479000000001,
+    31.42613,
+    51.90479000000001
+],
+  "geometry": {"coordinates":[31.42613,51.90479000000001],"type":"Point"}
+}

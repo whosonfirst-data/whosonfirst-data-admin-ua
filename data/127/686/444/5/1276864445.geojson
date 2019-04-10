@@ -1,0 +1,86 @@
+{
+  "id": 1276864445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2779,48.50881,37.2779,48.50881",
+    "geom:latitude":48.50881,
+    "geom:longitude":37.2779,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kucheriv Yar",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9111883,
+    "gn:latitude":48.50881,
+    "gn:longitude":37.2779,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Kucheriv Yar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kucheriv Yar"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u0447\u0435\u0440\u0456\u0432 \u042f\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kucherov Yar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9111883
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0da2c016dae406f470058abeed8f1e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1276864445,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815755,
+            "disputed_id":1159339531,
+            "locality_id":1276864445,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276864445,
+    "wof:lastmodified":1537711839,
+    "wof:name":"Kucheriv Yar",
+    "wof:parent_id":1108815755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2779,
+    48.50881,
+    37.2779,
+    48.50881
+],
+  "geometry": {"coordinates":[37.2779,48.50881],"type":"Point"}
+}

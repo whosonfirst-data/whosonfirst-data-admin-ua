@@ -1,0 +1,86 @@
+{
+  "id": 1343838293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7174,45.20282,34.7174,45.20282",
+    "geom:latitude":45.20282,
+    "geom:longitude":34.7174,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zarichchya",
+    "gn:country_code":"UA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":687650,
+    "gn:latitude":45.20282,
+    "gn:longitude":34.7174,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Zarichchya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Budanovka",
+        "Monay",
+        "Zarech\u2019ye",
+        "Zarichchya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738527,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687650
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a39276549fee20d9f6f9c1b0b5ffb7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738527,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1343838293,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738527,
+            "disputed_id":1159339547,
+            "locality_id":1343838293,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1343838293,
+    "wof:lastmodified":1537710123,
+    "wof:name":"Zarichchya",
+    "wof:parent_id":1108738527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7174,
+    45.20282,
+    34.7174,
+    45.20282
+],
+  "geometry": {"coordinates":[34.7174,45.20282],"type":"Point"}
+}

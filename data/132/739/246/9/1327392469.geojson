@@ -1,0 +1,76 @@
+{
+  "id": 1327392469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48144,51.51627,33.48144,51.51627",
+    "geom:latitude":51.51627,
+    "geom:longitude":33.48144,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bezkrovne",
+    "gn:country_code":"UA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220546,
+    "gn:latitude":51.51627,
+    "gn:longitude":33.48144,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Bezkrovne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bezkrovne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0437\u043a\u0440\u043e\u0432\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Beskrovnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102089003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220546
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5fad4360c4d89f63ee20d4922a4ea2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089003,
+            "locality_id":1327392469,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1327392469,
+    "wof:lastmodified":1537711581,
+    "wof:name":"Bezkrovne",
+    "wof:parent_id":102089003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48144,
+    51.51627,
+    33.48144,
+    51.51627
+],
+  "geometry": {"coordinates":[33.48144,51.51627],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243142565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15165,48.10724,39.15165,48.10724",
+    "geom:latitude":48.10724,
+    "geom:longitude":39.15165,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nahirnyy",
+    "gn:country_code":"UA",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9265815,
+    "gn:latitude":48.10724,
+    "gn:longitude":39.15165,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Nahirnyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Nahirnyy"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0433\u0456\u0440\u043d\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Nagornyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108730809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9265815
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5316c9862bcc3faee54dddcff8858ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730809,
+            "locality_id":1243142565,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1243142565,
+    "wof:lastmodified":1537711870,
+    "wof:name":"Nahirnyy",
+    "wof:parent_id":1108730809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15165,
+    48.10724,
+    39.15165,
+    48.10724
+],
+  "geometry": {"coordinates":[39.15165,48.10724],"type":"Point"}
+}

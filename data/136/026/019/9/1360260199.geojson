@@ -1,0 +1,76 @@
+{
+  "id": 1360260199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13218,50.7009,26.13218,50.7009",
+    "geom:latitude":50.7009,
+    "geom:longitude":26.13218,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rohachiv",
+    "gn:country_code":"UA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441458,
+    "gn:latitude":50.7009,
+    "gn:longitude":26.13218,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Rohachiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rohachiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u0433\u0430\u0447\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Rogachev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441458
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"df2600cfd7d6928365aa86735b265543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":1360260199,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1360260199,
+    "wof:lastmodified":1537711696,
+    "wof:name":"Rohachiv",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13218,
+    50.7009,
+    26.13218,
+    50.7009
+],
+  "geometry": {"coordinates":[26.13218,50.7009],"type":"Point"}
+}

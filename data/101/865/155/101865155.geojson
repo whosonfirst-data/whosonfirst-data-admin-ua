@@ -1,0 +1,88 @@
+{
+  "id": 101865155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4192,47.412114,34.4192,47.412114",
+    "geom:latitude":47.412114,
+    "geom:longitude":34.4192,
+    "iso:country":"UA",
+    "lbl:latitude":47.412114,
+    "lbl:longitude":34.4192,
+    "mps:latitude":47.412114,
+    "mps:longitude":34.4192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0417\u043d\u0430\u043c\u2019\u044f\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shaya Znamenka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0430\u043c'\u044f\u043d\u0441\u044c\u043a\u043e-\u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kamyans'ko-Dniprovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u043b\u0438\u043a\u0430 \u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430",
+    "qs:loc_alt":"Velyka Znamianka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690203,
+        "gp:id":937280,
+        "qs:id":9
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1049922d0ba2544cf260ef7ad9b089d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088255,
+            "locality_id":101865155,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865155,
+    "wof:lastmodified":1544747899,
+    "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430",
+    "wof:parent_id":102088255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4192,
+    47.412114,
+    34.4192,
+    47.412114
+],
+  "geometry": {"coordinates":[34.4192,47.412114],"type":"Point"}
+}

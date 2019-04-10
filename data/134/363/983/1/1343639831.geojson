@@ -1,0 +1,73 @@
+{
+  "id": 1343639831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00681,48.64194,32.00681,48.64194",
+    "geom:latitude":48.64194,
+    "geom:longitude":32.00681,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Vladimirovka",
+    "gn:country_code":"UA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689392,
+    "gn:latitude":48.64194,
+    "gn:longitude":32.00681,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vladimirovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vladimirovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689392
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8c780343f863a1fd70ec504566cf975a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815667,
+            "locality_id":1343639831,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1343639831,
+    "wof:lastmodified":1537710219,
+    "wof:name":"Vladimirovka",
+    "wof:parent_id":1108815667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00680999999999,
+    48.64194000000001,
+    32.00680999999999,
+    48.64194000000001
+],
+  "geometry": {"coordinates":[32.00680999999999,48.64194000000001],"type":"Point"}
+}

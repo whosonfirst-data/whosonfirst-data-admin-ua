@@ -1,0 +1,67 @@
+{
+  "id": 1226332133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41667,46.75,32.41667,46.75",
+    "geom:latitude":46.75,
+    "geom:longitude":32.41667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kurilovka",
+    "gn:country_code":"UA",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703614,
+    "gn:latitude":46.75,
+    "gn:longitude":32.41667,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Kurilovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703614
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"54fd990230a90cad148a835b4d4f6827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088019,
+            "locality_id":1226332133,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1226332133,
+    "wof:lastmodified":1536808765,
+    "wof:name":"Kurilovka",
+    "wof:parent_id":102088019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41667,
+    46.75,
+    32.41667,
+    46.75
+],
+  "geometry": {"coordinates":[32.41667,46.75],"type":"Point"}
+}

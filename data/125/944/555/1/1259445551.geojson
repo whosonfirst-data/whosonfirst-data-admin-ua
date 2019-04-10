@@ -1,0 +1,77 @@
+{
+  "id": 1259445551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.10384,49.50523,34.10384,49.50523",
+    "geom:latitude":49.50523,
+    "geom:longitude":34.10384,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hanzhi",
+    "gn:country_code":"UA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708981,
+    "gn:latitude":49.50523,
+    "gn:longitude":34.10384,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Hanzhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hanzhi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043d\u0436\u0456"
+    ],
+    "name:und_x_variant":[
+        "Isachki",
+        "Ganzhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708981
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"658022a88304b17189e6683f0c51ddea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088731,
+            "locality_id":1259445551,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1259445551,
+    "wof:lastmodified":1537711186,
+    "wof:name":"Hanzhi",
+    "wof:parent_id":102088731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.10384000000001,
+    49.50523,
+    34.10384000000001,
+    49.50523
+],
+  "geometry": {"coordinates":[34.10384000000001,49.50523],"type":"Point"}
+}

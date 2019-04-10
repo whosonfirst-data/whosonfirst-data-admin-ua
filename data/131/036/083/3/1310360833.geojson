@@ -1,0 +1,77 @@
+{
+  "id": 1310360833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29251,51.51629,25.29251,51.51629",
+    "geom:latitude":51.51629,
+    "geom:longitude":25.29251,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Borovne",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711604,
+    "gn:latitude":51.51629,
+    "gn:longitude":25.29251,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borovne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Borovne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u0440\u043e\u0432\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Borowno",
+        "Borovno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711604
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"03413ffa00854f4cbe1554d080fce457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088837,
+            "locality_id":1310360833,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1310360833,
+    "wof:lastmodified":1537711315,
+    "wof:name":"Borovne",
+    "wof:parent_id":102088837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29251,
+    51.51629000000001,
+    25.29251,
+    51.51629000000001
+],
+  "geometry": {"coordinates":[25.29251,51.51629000000001],"type":"Point"}
+}

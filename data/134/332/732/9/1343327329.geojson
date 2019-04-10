@@ -1,0 +1,76 @@
+{
+  "id": 1343327329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95715,49.89334,32.95715,49.89334",
+    "geom:latitude":49.89334,
+    "geom:longitude":32.95715,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Matskivtsi",
+    "gn:country_code":"UA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701596,
+    "gn:latitude":49.89334,
+    "gn:longitude":32.95715,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Matskivtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Matskivtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0446\u043a\u0456\u0432\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Matskovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701596
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a35b7144556834d311394b4b148396a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088799,
+            "locality_id":1343327329,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1343327329,
+    "wof:lastmodified":1537710829,
+    "wof:name":"Matskivtsi",
+    "wof:parent_id":102088799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95715,
+    49.89334,
+    32.95715,
+    49.89334
+],
+  "geometry": {"coordinates":[32.95715,49.89334],"type":"Point"}
+}

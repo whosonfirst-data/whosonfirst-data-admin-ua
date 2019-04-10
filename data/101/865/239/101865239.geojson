@@ -1,0 +1,105 @@
+{
+  "id": 101865239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.047116,47.625395,35.047116,47.625395",
+    "geom:latitude":47.625395,
+    "geom:longitude":35.047116,
+    "iso:country":"UA",
+    "lbl:latitude":47.625395,
+    "lbl:longitude":35.047116,
+    "mps:latitude":47.625395,
+    "mps:longitude":35.047116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u0646\u0643\u064a\u060c \u0632\u0627\u0628\u0648\u0631\u064a\u0632\u0643\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Bilenke"
+    ],
+    "name:ger_x_preferred":[
+        "Bilenke"
+    ],
+    "name:lav_x_preferred":[
+        "Bile\u0146ke"
+    ],
+    "name:rum_x_preferred":[
+        "Bilenke"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d\u044c\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0435\u043d\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Belen\u2019koye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Zaporiz'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0456\u043b\u0435\u043d\u044c\u043a\u0435",
+    "qs:loc_alt":"Bilen'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712642,
+        "gp:id":916481,
+        "qs:id":6,
+        "wd:id":"Q4081842"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2a8a2aef5f7693aeec395d21b405d73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815653,
+            "locality_id":101865239,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865239,
+    "wof:lastmodified":1553815556,
+    "wof:name":"\u0411\u0456\u043b\u0435\u043d\u044c\u043a\u0435",
+    "wof:parent_id":1108815653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.047116,
+    47.625395,
+    35.047116,
+    47.625395
+],
+  "geometry": {"coordinates":[35.047116,47.625395],"type":"Point"}
+}

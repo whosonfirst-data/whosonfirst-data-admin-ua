@@ -1,0 +1,88 @@
+{
+  "id": 101862995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.522898,50.698256,26.522898,50.698256",
+    "geom:latitude":50.698256,
+    "geom:longitude":26.522898,
+    "iso:country":"UA",
+    "lbl:latitude":50.698256,
+    "lbl:longitude":26.522898,
+    "mps:latitude":50.698256,
+    "mps:longitude":26.522898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shubkiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0443\u0431\u043a\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Shubkov"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rivnens'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0428\u0443\u0431\u043a\u0456\u0432",
+    "qs:loc_alt":"Shubkiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441766,
+        "gp:id":915511,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7631d43fff131cd01afab25adcec94e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":101862995,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101862995,
+    "wof:lastmodified":1544746773,
+    "wof:name":"\u0428\u0443\u0431\u043a\u0456\u0432",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.522898,
+    50.698256,
+    26.522898,
+    50.698256
+],
+  "geometry": {"coordinates":[26.522898,50.698256],"type":"Point"}
+}

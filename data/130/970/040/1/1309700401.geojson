@@ -1,0 +1,95 @@
+{
+  "id": 1309700401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31858,45.59334,34.31858,45.59334",
+    "geom:latitude":45.59334,
+    "geom:longitude":34.31858,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152870",
+    "gn:asciiname":"Vesyoloye",
+    "gn:country_code":"UA",
+    "gn:dem":37,
+    "gn:elevation":"37.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689738,
+    "gn:latitude":45.59334,
+    "gn:longitude":34.31858,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Vesyoloye",
+    "gn:population":203,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vesyoloye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0451\u043b\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689738
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"67d1d96e3027a97ceb9bdcd9dbf8a583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1309700401,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1309700401,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1309700401,
+    "wof:lastmodified":1537710239,
+    "wof:name":"Vesyoloye",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31858,
+    45.59334000000001,
+    34.31858,
+    45.59334000000001
+],
+  "geometry": {"coordinates":[34.31858,45.59334000000001],"type":"Point"}
+}

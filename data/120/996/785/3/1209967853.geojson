@@ -1,0 +1,76 @@
+{
+  "id": 1209967853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21905,50.64116,28.21905,50.64116",
+    "geom:latitude":50.64116,
+    "geom:longitude":28.21905,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Antonivka",
+    "gn:country_code":"UA",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466954,
+    "gn:latitude":50.64116,
+    "gn:longitude":28.21905,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Antonivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Antonivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u0442\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Antonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466954
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f61977dd69107b0c13317b2a2d2cd80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1209967853,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1209967853,
+    "wof:lastmodified":1537711713,
+    "wof:name":"Antonivka",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21905,
+    50.64116,
+    28.21905,
+    50.64116
+],
+  "geometry": {"coordinates":[28.21905,50.64116],"type":"Point"}
+}

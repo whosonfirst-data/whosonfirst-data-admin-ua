@@ -1,0 +1,73 @@
+{
+  "id": 1226208007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88733,49.08531,33.88733,49.08531",
+    "geom:latitude":49.08531,
+    "geom:longitude":33.88733,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Oleksandriya",
+    "gn:country_code":"UA",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11141035,
+    "gn:latitude":49.08531,
+    "gn:longitude":33.88733,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Oleksandriya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Oleksandriya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11141035
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4bea36fa4a8f18411beef32712c31760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088641,
+            "locality_id":1226208007,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1226208007,
+    "wof:lastmodified":1537711990,
+    "wof:name":"Oleksandriya",
+    "wof:parent_id":102088641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88733,
+    49.08531,
+    33.88733,
+    49.08531
+],
+  "geometry": {"coordinates":[33.88733,49.08531],"type":"Point"}
+}

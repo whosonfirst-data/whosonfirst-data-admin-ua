@@ -1,0 +1,87 @@
+{
+  "id": 1126024095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18486,50.60145,26.18486,50.60145",
+    "geom:latitude":50.60145,
+    "geom:longitude":26.18486,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4123,
+    "gn:population":4123,
+    "iso:country":"UA",
+    "lbl:latitude":50.60145,
+    "lbl:longitude":26.18486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u043d\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Tynnoye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":690890,
+    "qs_pg:gn_pop":4123,
+    "qs_pg:name":"Tynne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128228,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690890,
+        "qs_pg:id":128228
+    },
+    "wof:country":"UA",
+    "wof:created":1497301015,
+    "wof:geomhash":"8284361328c623538d314cb7380226e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815835,
+            "locality_id":1126024095,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1126024095,
+    "wof:lastmodified":1509407418,
+    "wof:name":"Tynne",
+    "wof:parent_id":1108815835,
+    "wof:placetype":"locality",
+    "wof:population":4123,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18486,
+    50.60145,
+    26.18486,
+    50.60145
+],
+  "geometry": {"coordinates":[26.18486,50.60145],"type":"Point"}
+}

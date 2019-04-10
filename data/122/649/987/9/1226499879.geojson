@@ -1,0 +1,76 @@
+{
+  "id": 1226499879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.95277,51.0328,23.95277,51.0328",
+    "geom:latitude":51.0328,
+    "geom:longitude":23.95277,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kladniv",
+    "gn:country_code":"UA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705692,
+    "gn:latitude":51.0328,
+    "gn:longitude":23.95277,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kladniv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kladn\u00ebv"
+    ],
+    "name:ukr_x_preferred":[
+        "Kladniv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043b\u0430\u0434\u043d\u0456\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        1108815769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705692
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"989d825818c8e8e4c89bab8de0a3aeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815769,
+            "locality_id":1226499879,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1226499879,
+    "wof:lastmodified":1537711026,
+    "wof:name":"Kladniv",
+    "wof:parent_id":1108815769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.95277,
+    51.0328,
+    23.95277,
+    51.0328
+],
+  "geometry": {"coordinates":[23.95277,51.0328],"type":"Point"}
+}

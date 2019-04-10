@@ -1,0 +1,145 @@
+{
+  "id": 101870997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.739939,50.4906,32.739939,50.4906",
+    "geom:latitude":50.4906,
+    "geom:longitude":32.739939,
+    "gn:population":8549,
+    "iso:country":"UA",
+    "lbl:latitude":50.4906,
+    "lbl:longitude":32.739939,
+    "mps:latitude":50.4906,
+    "mps:longitude":32.739939,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0631\u0641\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u0430\u0440\u0432\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u723e\u74e6"
+    ],
+    "name:crh_x_preferred":[
+        "Varva"
+    ],
+    "name:deu_x_preferred":[
+        "Warwa"
+    ],
+    "name:eng_x_preferred":[
+        "Varva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0648\u0627\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:ger_x_preferred":[
+        "Warwa"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u0648\u0627\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Warwa"
+    ],
+    "name:ron_x_preferred":[
+        "Varva"
+    ],
+    "name:rum_x_preferred":[
+        "Varva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Varva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Varva"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u74e6"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernihivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0430\u0440\u0432\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Varvyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0430\u0440\u0432\u0430",
+    "qs:loc_alt":"Varva",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690469,
+        "gp:id":937005,
+        "qs:id":128214,
+        "qs_pg:id":128214,
+        "wd:id":"Q1973753",
+        "wk:page":"Varva, Chernihiv Oblast"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4c5a7f0b061faab6bb00e047ef98931f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088849,
+            "locality_id":101870997,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":101870997,
+    "wof:lastmodified":1544750905,
+    "wof:name":"\u0412\u0430\u0440\u0432\u0430",
+    "wof:parent_id":102088849,
+    "wof:placetype":"locality",
+    "wof:population":8549,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.739939,
+    50.4906,
+    32.739939,
+    50.4906
+],
+  "geometry": {"coordinates":[32.739939,50.4906],"type":"Point"}
+}

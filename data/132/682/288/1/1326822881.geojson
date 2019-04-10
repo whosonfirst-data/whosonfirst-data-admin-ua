@@ -1,0 +1,81 @@
+{
+  "id": 1326822881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21583,47.28111,38.21583,47.28111",
+    "geom:latitude":47.28111,
+    "geom:longitude":38.21583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Brantov",
+    "gn:country_code":"UA",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711479,
+    "gn:latitude":47.28111,
+    "gn:longitude":38.21583,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Brantov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brandt",
+        "Brantov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711479
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6ab5afd1fd3ad6938ed2b2a6e68cae5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1326822881,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1326822881,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1326822881,
+    "wof:lastmodified":1537711308,
+    "wof:name":"Brantov",
+    "wof:parent_id":102088405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21583,
+    47.28111,
+    38.21583,
+    47.28111
+],
+  "geometry": {"coordinates":[38.21583,47.28111],"type":"Point"}
+}

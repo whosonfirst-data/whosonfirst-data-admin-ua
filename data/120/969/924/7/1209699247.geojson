@@ -1,0 +1,76 @@
+{
+  "id": 1209699247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11455,48.19952,39.11455,48.19952",
+    "geom:latitude":48.19952,
+    "geom:longitude":39.11455,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kovpakove",
+    "gn:country_code":"UA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705290,
+    "gn:latitude":48.19952,
+    "gn:longitude":39.11455,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Kovpakove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kovpakove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0432\u043f\u0430\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kolpakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705290
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"15d7e922d39314ea0a7411e2442c1ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088695,
+            "locality_id":1209699247,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1209699247,
+    "wof:lastmodified":1537711006,
+    "wof:name":"Kovpakove",
+    "wof:parent_id":102088695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11455,
+    48.19952,
+    39.11455,
+    48.19952
+],
+  "geometry": {"coordinates":[39.11455,48.19952],"type":"Point"}
+}

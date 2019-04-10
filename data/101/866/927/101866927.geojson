@@ -1,0 +1,108 @@
+{
+  "id": 101866927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.325817,48.600267,35.325817,48.600267",
+    "geom:latitude":48.600267,
+    "geom:longitude":35.325817,
+    "iso:country":"UA",
+    "lbl:latitude":48.600267,
+    "lbl:longitude":35.325817,
+    "mps:latitude":48.600267,
+    "mps:longitude":35.325817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0565\u057d\u0579\u0561\u0576\u056f\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Peschanka"
+    ],
+    "name:ger_x_preferred":[
+        "Pischtschanka"
+    ],
+    "name:lav_x_preferred":[
+        "Pi\u0161\u010danka"
+    ],
+    "name:rum_x_preferred":[
+        "Pi\u0219ceanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Pishanka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0456\u0448\u0430\u043d\u043a\u0430",
+        "\u041f\u0456\u0449\u0430\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Peschanka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novomoskovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0456\u0449\u0430\u043d\u043a\u0430",
+    "qs:loc_alt":"Pischanka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697536,
+        "gp:id":930539,
+        "qs:id":8,
+        "wd:id":"Q4360020"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3312f15a42d6b34522d1c0a2968404b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815619,
+            "locality_id":101866927,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101866927,
+    "wof:lastmodified":1544748883,
+    "wof:name":"\u041f\u0456\u0449\u0430\u043d\u043a\u0430",
+    "wof:parent_id":1108815619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.325817,
+    48.600267,
+    35.325817,
+    48.600267
+],
+  "geometry": {"coordinates":[35.325817,48.600267],"type":"Point"}
+}

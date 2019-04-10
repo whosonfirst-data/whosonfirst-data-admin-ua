@@ -1,0 +1,94 @@
+{
+  "id": 1125990619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.90043,48.4976,38.90043,48.4976",
+    "geom:latitude":48.4976,
+    "geom:longitude":38.90043,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"UA",
+    "lbl:latitude":48.4976,
+    "lbl:longitude":38.90043,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ukr_x_preferred":[
+        "Mykhaylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":701205,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mikhaylovka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1351834,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":927013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701205,
+        "gp:id":927013,
+        "qs_pg:id":1351834
+    },
+    "wof:country":"UA",
+    "wof:created":1497299038,
+    "wof:geomhash":"528f563b84eed4d401279efc017a4641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088715,
+            "locality_id":1125990619,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125990619,
+    "wof:lastmodified":1509405365,
+    "wof:name":"Mikhaylovka",
+    "wof:parent_id":102088715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.90043,
+    48.4976,
+    38.90043,
+    48.4976
+],
+  "geometry": {"coordinates":[38.90043,48.4976],"type":"Point"}
+}

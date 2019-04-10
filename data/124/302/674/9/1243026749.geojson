@@ -1,0 +1,76 @@
+{
+  "id": 1243026749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.24419,51.70236,34.24419,51.70236",
+    "geom:latitude":51.70236,
+    "geom:longitude":34.24419,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kharkivka",
+    "gn:country_code":"UA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706480,
+    "gn:latitude":51.70236,
+    "gn:longitude":34.24419,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kharkivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khar\u2019kovka"
+    ],
+    "name:ukr_x_preferred":[
+        "Kharkivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u0430\u0440\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706480
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"baf5148470558d8caa1c348958f21642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815699,
+            "locality_id":1243026749,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1243026749,
+    "wof:lastmodified":1537711070,
+    "wof:name":"Kharkivka",
+    "wof:parent_id":1108815699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.24419,
+    51.70236,
+    34.24419,
+    51.70236
+],
+  "geometry": {"coordinates":[34.24419,51.70236],"type":"Point"}
+}

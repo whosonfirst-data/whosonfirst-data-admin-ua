@@ -1,0 +1,76 @@
+{
+  "id": 1310548745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.37427,51.32217,28.37427,51.32217",
+    "geom:latitude":51.32217,
+    "geom:longitude":28.37427,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Koshechky",
+    "gn:country_code":"UA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377071,
+    "gn:latitude":51.32217,
+    "gn:longitude":28.37427,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Koshechky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Koshechky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0448\u0435\u0447\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Koshechki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377071
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"acb4dcae8ce42231ae90af60b4ad74a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":1310548745,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1310548745,
+    "wof:lastmodified":1537711622,
+    "wof:name":"Koshechky",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.37427000000001,
+    51.32217,
+    28.37427000000001,
+    51.32217
+],
+  "geometry": {"coordinates":[28.37427000000001,51.32217],"type":"Point"}
+}

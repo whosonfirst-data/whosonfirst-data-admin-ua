@@ -1,0 +1,95 @@
+{
+  "id": 1343541569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9956,44.84196,33.9956,44.84196",
+    "geom:latitude":44.84196,
+    "geom:longitude":33.9956,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712968",
+    "gn:admin3_code":"11152820.0",
+    "gn:asciiname":"Topoli",
+    "gn:country_code":"UA",
+    "gn:dem":202,
+    "gn:elevation":"245.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040002,
+    "gn:latitude":44.84196,
+    "gn:longitude":33.9956,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Topoli",
+    "gn:population":609,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Topoli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0456"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040002
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"36832899bbb909ccf04e39564ca85f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1343541569,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1343541569,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1343541569,
+    "wof:lastmodified":1537711538,
+    "wof:name":"Topoli",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":609,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9956,
+    44.84196,
+    33.9956,
+    44.84196
+],
+  "geometry": {"coordinates":[33.9956,44.84196],"type":"Point"}
+}

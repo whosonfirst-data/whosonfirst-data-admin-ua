@@ -1,0 +1,110 @@
+{
+  "id": 1125954835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93661,47.93611,38.93661,47.93611",
+    "geom:latitude":47.93611,
+    "geom:longitude":38.93661,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3170,
+    "gn:population":3170,
+    "iso:country":"UA",
+    "lbl:latitude":47.93611,
+    "lbl:longitude":38.93661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0534\u0574\u056b\u057f\u0580\u0578\u057e\u056f\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Dmytrivka"
+    ],
+    "name:ger_x_preferred":[
+        "Dmytriwka"
+    ],
+    "name:lav_x_preferred":[
+        "Dmitrivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dmitrievka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":710007,
+    "qs_pg:gn_pop":3170,
+    "qs_pg:name":"Dmytrivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275563,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710007,
+        "qs_pg:id":275563,
+        "wd:id":"Q4162983"
+    },
+    "wof:country":"UA",
+    "wof:created":1497297584,
+    "wof:geomhash":"eb06cc97d837e094e4c6dd4686268f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1125954835,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1125954835,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125954835,
+    "wof:lastmodified":1553816654,
+    "wof:name":"Dmytrivka",
+    "wof:parent_id":1108815735,
+    "wof:placetype":"locality",
+    "wof:population":3170,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93661,
+    47.93611,
+    38.93661,
+    47.93611
+],
+  "geometry": {"coordinates":[38.93661,47.93611],"type":"Point"}
+}

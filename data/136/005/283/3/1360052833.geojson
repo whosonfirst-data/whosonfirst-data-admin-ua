@@ -1,0 +1,77 @@
+{
+  "id": 1360052833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24057,46.82078,35.24057,46.82078",
+    "geom:latitude":46.82078,
+    "geom:longitude":35.24057,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Udachne",
+    "gn:country_code":"UA",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951591,
+    "gn:latitude":46.82078,
+    "gn:longitude":35.24057,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Udachne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Udachne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u0434\u0430\u0447\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Udachnoye",
+        "Udachnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951591
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"86f042c46447cdbb927e033c67421b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815655,
+            "locality_id":1360052833,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1360052833,
+    "wof:lastmodified":1537711933,
+    "wof:name":"Udachne",
+    "wof:parent_id":1108815655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24057,
+    46.82078,
+    35.24057,
+    46.82078
+],
+  "geometry": {"coordinates":[35.24057,46.82078],"type":"Point"}
+}

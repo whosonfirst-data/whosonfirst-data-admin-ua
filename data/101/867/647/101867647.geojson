@@ -1,0 +1,82 @@
+{
+  "id": 101867647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19462,49.250264,29.19462,49.250264",
+    "geom:latitude":49.250264,
+    "geom:longitude":29.19462,
+    "iso:country":"UA",
+    "lbl:latitude":49.250264,
+    "lbl:longitude":29.19462,
+    "mps:latitude":49.250264,
+    "mps:longitude":29.19462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rososhe"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Vinnyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u0438\u043f\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Lypovets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u043e\u0441\u043e\u0448\u0430",
+    "qs:loc_alt":"Rososha",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695426,
+        "gp:id":932472
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8a4b219af235796673cd0e45f15f098e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088421,
+            "locality_id":101867647,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":101867647,
+    "wof:lastmodified":1544749293,
+    "wof:name":"\u0420\u043e\u0441\u043e\u0448\u0430",
+    "wof:parent_id":102088421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19462,
+    49.250264,
+    29.19462,
+    49.250264
+],
+  "geometry": {"coordinates":[29.19462,49.250264],"type":"Point"}
+}

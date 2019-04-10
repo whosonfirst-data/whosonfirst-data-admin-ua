@@ -1,0 +1,73 @@
+{
+  "id": 1293169305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66574,49.7478,28.66574,49.7478",
+    "geom:latitude":49.7478,
+    "geom:longitude":28.66574,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Medvedivka",
+    "gn:country_code":"UA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701444,
+    "gn:latitude":49.7478,
+    "gn:longitude":28.66574,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Medvedivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Medvedovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        1108815605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701444
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e2f77be6e344e2a93e6de70b111d5f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815605,
+            "locality_id":1293169305,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1293169305,
+    "wof:lastmodified":1537710822,
+    "wof:name":"Medvedivka",
+    "wof:parent_id":1108815605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66574,
+    49.7478,
+    28.66574,
+    49.7478
+],
+  "geometry": {"coordinates":[28.66574,49.7478],"type":"Point"}
+}

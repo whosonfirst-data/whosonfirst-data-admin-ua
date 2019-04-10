@@ -1,0 +1,76 @@
+{
+  "id": 1360036381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21367,50.37437,28.21367,50.37437",
+    "geom:latitude":50.37437,
+    "geom:longitude":28.21367,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Neborivka",
+    "gn:country_code":"UA",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700394,
+    "gn:latitude":50.37437,
+    "gn:longitude":28.21367,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Neborivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Neborivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0435\u0431\u043e\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Neborovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700394
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"80a8c478eec508ffdb57583bfb2a7453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088673,
+            "locality_id":1360036381,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1360036381,
+    "wof:lastmodified":1537710770,
+    "wof:name":"Neborivka",
+    "wof:parent_id":102088673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21367,
+    50.37437,
+    28.21367,
+    50.37437
+],
+  "geometry": {"coordinates":[28.21367,50.37437],"type":"Point"}
+}

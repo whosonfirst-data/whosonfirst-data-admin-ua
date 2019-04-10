@@ -1,0 +1,67 @@
+{
+  "id": 1343425881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2,51.4,26.2,51.4",
+    "geom:latitude":51.4,
+    "geom:longitude":26.2,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Khoromtsy",
+    "gn:country_code":"UA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706285,
+    "gn:latitude":51.4,
+    "gn:longitude":26.2,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Khoromtsy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706285
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4244c502ef786ca8fb11e9d515114efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088841,
+            "locality_id":1343425881,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1343425881,
+    "wof:lastmodified":1536796509,
+    "wof:name":"Khoromtsy",
+    "wof:parent_id":102088841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2,
+    51.4,
+    26.2,
+    51.4
+],
+  "geometry": {"coordinates":[26.2,51.4],"type":"Point"}
+}

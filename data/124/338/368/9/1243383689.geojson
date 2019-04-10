@@ -1,0 +1,84 @@
+{
+  "id": 1243383689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78357,49.17394,35.78357,49.17394",
+    "geom:latitude":49.17394,
+    "geom:longitude":35.78357,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chornolozka",
+    "gn:country_code":"UA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710699,
+    "gn:latitude":49.17394,
+    "gn:longitude":35.78357,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Chornolozka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043b\u043e\u0437\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Chornolozka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u043e\u0440\u043d\u043e\u043b\u043e\u0437\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Losse",
+        "Chernolozki",
+        "Chermalose",
+        "Chernaloza",
+        "Chomoloze",
+        "Chernolozka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710699
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4abd2f81eed7c81d3d21d3c68f467a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088717,
+            "locality_id":1243383689,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1243383689,
+    "wof:lastmodified":1537711268,
+    "wof:name":"Chornolozka",
+    "wof:parent_id":102088717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78357000000001,
+    49.17394,
+    35.78357000000001,
+    49.17394
+],
+  "geometry": {"coordinates":[35.78357000000001,49.17394],"type":"Point"}
+}

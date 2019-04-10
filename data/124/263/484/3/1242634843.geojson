@@ -1,0 +1,76 @@
+{
+  "id": 1242634843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47915,50.89204,24.47915,50.89204",
+    "geom:latitude":50.89204,
+    "geom:longitude":24.47915,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Krasnostav",
+    "gn:country_code":"UA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704308,
+    "gn:latitude":50.89204,
+    "gn:longitude":24.47915,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Krasnostav",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0442\u0430\u0432"
+    ],
+    "name:und_x_variant":[
+        "Gnojno",
+        "Gnoyno",
+        "Gniyne",
+        "Krasnostav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        1108815769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704308
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fcb410a9d5550d4bee75f7db707018b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815769,
+            "locality_id":1242634843,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1242634843,
+    "wof:lastmodified":1537710960,
+    "wof:name":"Krasnostav",
+    "wof:parent_id":1108815769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47915,
+    50.89204,
+    24.47915,
+    50.89204
+],
+  "geometry": {"coordinates":[24.47915,50.89204],"type":"Point"}
+}

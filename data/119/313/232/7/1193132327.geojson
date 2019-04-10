@@ -1,0 +1,73 @@
+{
+  "id": 1193132327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0156,48.96978,33.0156,48.96978",
+    "geom:latitude":48.96978,
+    "geom:longitude":33.0156,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kobzarivka",
+    "gn:country_code":"UA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11183787,
+    "gn:latitude":48.96978,
+    "gn:longitude":33.0156,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kobzarivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kobzarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0431\u0437\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11183787
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6eee94cc9eaabb51b02d7d9774e4a3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815665,
+            "locality_id":1193132327,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1193132327,
+    "wof:lastmodified":1537712019,
+    "wof:name":"Kobzarivka",
+    "wof:parent_id":1108815665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0156,
+    48.96978,
+    33.0156,
+    48.96978
+],
+  "geometry": {"coordinates":[33.0156,48.96978],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1260276023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52375,47.43908,37.52375,47.43908",
+    "geom:latitude":47.43908,
+    "geom:longitude":37.52375,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Polkove",
+    "gn:country_code":"UA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696683,
+    "gn:latitude":47.43908,
+    "gn:longitude":37.52375,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Polkove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Polkove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Polkovaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696683
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a3530321edf171655792d5f708c26fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1260276023,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1260276023,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1260276023,
+    "wof:lastmodified":1537710570,
+    "wof:name":"Polkove",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52375,
+    47.43908,
+    37.52375,
+    47.43908
+],
+  "geometry": {"coordinates":[37.52375,47.43908],"type":"Point"}
+}

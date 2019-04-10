@@ -1,0 +1,86 @@
+{
+  "id": 1226742535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3293,48.33225,37.3293,48.33225",
+    "geom:latitude":48.33225,
+    "geom:longitude":37.3293,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novoekonomichne",
+    "gn:country_code":"UA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699609,
+    "gn:latitude":48.33225,
+    "gn:longitude":37.3293,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Novoekonomichne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novoekonomichne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0435\u043a\u043e\u043d\u043e\u043c\u0456\u0447\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novoekonomicheskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699609
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"09387c824a5b6b9f99f3e56ca4a98908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1226742535,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1226742535,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226742535,
+    "wof:lastmodified":1537710727,
+    "wof:name":"Novoekonomichne",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3293,
+    48.33225,
+    37.3293,
+    48.33225
+],
+  "geometry": {"coordinates":[37.3293,48.33225],"type":"Point"}
+}

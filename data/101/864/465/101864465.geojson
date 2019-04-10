@@ -1,0 +1,91 @@
+{
+  "id": 101864465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.815797,51.447569,25.815797,51.447569",
+    "geom:latitude":51.447569,
+    "geom:longitude":25.815797,
+    "iso:country":"UA",
+    "lbl:latitude":51.447569,
+    "lbl:longitude":25.815797,
+    "mps:latitude":51.447569,
+    "mps:longitude":25.815797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bel\u2019skaya Volya"
+    ],
+    "name:ukr_x_preferred":[
+        "Bil\u2019s\u2019ka Volya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0412\u043e\u043b\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Bielska Wola"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Volodymyrets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0412\u043e\u043b\u044f",
+    "qs:loc_alt":"Bil's'ka Volia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712497,
+        "gp:id":934394,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"85cc1aaa6ed9b4be43fc154f6e969d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088841,
+            "locality_id":101864465,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101864465,
+    "wof:lastmodified":1544747540,
+    "wof:name":"\u0411\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0412\u043e\u043b\u044f",
+    "wof:parent_id":102088841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.815797,
+    51.447569,
+    25.815797,
+    51.447569
+],
+  "geometry": {"coordinates":[25.815797,51.447569],"type":"Point"}
+}

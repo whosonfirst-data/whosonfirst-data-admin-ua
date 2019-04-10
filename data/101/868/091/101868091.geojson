@@ -1,0 +1,111 @@
+{
+  "id": 101868091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.270968,48.489819,39.270968,48.489819",
+    "geom:latitude":48.489819,
+    "geom:longitude":39.270968,
+    "gn:population":6205,
+    "iso:country":"UA",
+    "lbl:latitude":48.489819,
+    "lbl:longitude":39.270968,
+    "mps:latitude":48.489819,
+    "mps:longitude":39.270968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Roskoshnoye"
+    ],
+    "name:ger_x_preferred":[
+        "Roskischne"
+    ],
+    "name:lav_x_preferred":[
+        "Rozki\u0161ne"
+    ],
+    "name:rum_x_preferred":[
+        "Rozki\u0219ne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u043a\u043e\u0448\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u043e\u0437\u043a\u0456\u0448\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Rozkishnie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u043a\u0456\u0448\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Tel\u2019mana"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u0443\u0442\u0443\u0433\u0438\u043d\u0441\u043a\u0438\u0439",
+    "qs:a2_alt":"Lutuhynskyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u043e\u0437\u043a\u0456\u0448\u043d\u0435",
+    "qs:loc_alt":"Rozkishne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695441,
+        "gp:id":932460,
+        "qs:id":275457,
+        "wd:id":"Q4397788"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c61edf35a2430e6e50cf8e911d8326e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088749,
+            "locality_id":101868091,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101868091,
+    "wof:lastmodified":1544749541,
+    "wof:name":"\u0420\u043e\u0437\u043a\u0456\u0448\u043d\u0435",
+    "wof:parent_id":102088749,
+    "wof:placetype":"locality",
+    "wof:population":6205,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.270968,
+    48.489819,
+    39.270968,
+    48.489819
+],
+  "geometry": {"coordinates":[39.270968,48.489819],"type":"Point"}
+}

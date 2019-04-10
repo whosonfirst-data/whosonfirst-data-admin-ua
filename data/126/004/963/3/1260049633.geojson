@@ -1,0 +1,80 @@
+{
+  "id": 1260049633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40474,49.18331,23.40474,49.18331",
+    "geom:latitude":49.18331,
+    "geom:longitude":23.40474,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Urych",
+    "gn:country_code":"UA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690650,
+    "gn:latitude":49.18331,
+    "gn:longitude":23.40474,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Urych",
+    "gn:population":305,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Urycz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0438\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0438\u0447"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690650,
+        "wk:page":"Urych"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c739df8a053fd02c44e8eb5e41cfa8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088167,
+            "locality_id":1260049633,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1260049633,
+    "wof:lastmodified":1537574890,
+    "wof:name":"Urych",
+    "wof:parent_id":102088167,
+    "wof:placetype":"locality",
+    "wof:population":305,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40474,
+    49.18331,
+    23.40474,
+    49.18331
+],
+  "geometry": {"coordinates":[23.40474,49.18331],"type":"Point"}
+}

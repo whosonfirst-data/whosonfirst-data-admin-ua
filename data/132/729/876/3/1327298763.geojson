@@ -1,0 +1,76 @@
+{
+  "id": 1327298763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68261,50.40765,25.68261,50.40765",
+    "geom:latitude":50.40765,
+    "geom:longitude":25.68261,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kryvukha",
+    "gn:country_code":"UA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440226,
+    "gn:latitude":50.40765,
+    "gn:longitude":25.68261,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kryvukha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kryvukha"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0443\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Krivukha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440226
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2528c13a2319662212b5d010c72355e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088585,
+            "locality_id":1327298763,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1327298763,
+    "wof:lastmodified":1537711694,
+    "wof:name":"Kryvukha",
+    "wof:parent_id":102088585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68261,
+    50.40765,
+    25.68261,
+    50.40765
+],
+  "geometry": {"coordinates":[25.68261,50.40765],"type":"Point"}
+}

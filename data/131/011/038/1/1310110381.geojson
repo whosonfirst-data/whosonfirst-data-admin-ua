@@ -1,0 +1,77 @@
+{
+  "id": 1310110381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21917,47.72611,38.21917,47.72611",
+    "geom:latitude":47.72611,
+    "geom:longitude":38.21917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Protsenko",
+    "gn:country_code":"UA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":802277,
+    "gn:latitude":47.72611,
+    "gn:longitude":38.21917,
+    "gn:modification_date":"1996-03-20",
+    "gn:name":"Protsenko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":802277
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e5a142e40d2d4dbe6839533fd641210e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1310110381,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1310110381,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310110381,
+    "wof:lastmodified":1536988580,
+    "wof:name":"Protsenko",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21917,
+    47.72611,
+    38.21917,
+    47.72611
+],
+  "geometry": {"coordinates":[38.21917,47.72611],"type":"Point"}
+}

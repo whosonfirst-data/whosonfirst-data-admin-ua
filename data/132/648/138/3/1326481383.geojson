@@ -1,0 +1,76 @@
+{
+  "id": 1326481383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51096,49.99603,28.51096,49.99603",
+    "geom:latitude":49.99603,
+    "geom:longitude":28.51096,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Shvaykivka",
+    "gn:country_code":"UA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693849,
+    "gn:latitude":49.99603,
+    "gn:longitude":28.51096,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shvaykivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shvaykivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0432\u0430\u0439\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shvaykovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693849
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3efdfe446ecfabf386ea9e733de04608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815761,
+            "locality_id":1326481383,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1326481383,
+    "wof:lastmodified":1537710433,
+    "wof:name":"Shvaykivka",
+    "wof:parent_id":1108815761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51096,
+    49.99603,
+    28.51096,
+    49.99603
+],
+  "geometry": {"coordinates":[28.51096,49.99603],"type":"Point"}
+}

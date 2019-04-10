@@ -1,0 +1,77 @@
+{
+  "id": 1360050393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98443,50.40146,25.98443,50.40146",
+    "geom:latitude":50.40146,
+    "geom:longitude":25.98443,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lystvyn",
+    "gn:country_code":"UA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":702937,
+    "gn:latitude":50.40146,
+    "gn:longitude":25.98443,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Lystvyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lystvyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0438\u0441\u0442\u0432\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Listwin",
+        "Listvin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702937
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6e776773c7908d3cf5feb8a2ed3c957b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088585,
+            "locality_id":1360050393,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1360050393,
+    "wof:lastmodified":1537710893,
+    "wof:name":"Lystvyn",
+    "wof:parent_id":102088585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98443,
+    50.40146,
+    25.98443,
+    50.40146
+],
+  "geometry": {"coordinates":[25.98443,50.40146],"type":"Point"}
+}

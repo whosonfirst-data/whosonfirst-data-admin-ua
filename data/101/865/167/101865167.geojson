@@ -1,0 +1,78 @@
+{
+  "id": 101865167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.920139,47.536333,33.920139,47.536333",
+    "geom:latitude":47.536333,
+    "geom:longitude":33.920139,
+    "iso:country":"UA",
+    "lbl:latitude":47.536333,
+    "lbl:longitude":33.920139,
+    "mps:latitude":47.536333,
+    "mps:longitude":33.920139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0410\u043f\u043e\u0441\u0442\u043e\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Apostolivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u0440'\u044f\u043d\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Marians'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":926397,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a2c4c193760914d8dad70024727b1dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088271,
+            "locality_id":101865167,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101865167,
+    "wof:lastmodified":1544747905,
+    "wof:name":"\u041c\u0430\u0440'\u044f\u043d\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.920139,
+    47.536333,
+    33.920139,
+    47.536333
+],
+  "geometry": {"coordinates":[33.920139,47.536333],"type":"Point"}
+}

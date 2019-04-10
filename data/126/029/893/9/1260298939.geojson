@@ -1,0 +1,73 @@
+{
+  "id": 1260298939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.30342,48.66081,30.30342,48.66081",
+    "geom:latitude":48.66081,
+    "geom:longitude":30.30342,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Stepkivka",
+    "gn:country_code":"UA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692562,
+    "gn:latitude":48.66081,
+    "gn:longitude":30.30342,
+    "gn:modification_date":"2018-02-13",
+    "gn:name":"Stepkivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stepkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692562
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a6878d917fd235fa29de4f51d09e807c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088345,
+            "locality_id":1260298939,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1260298939,
+    "wof:lastmodified":1537710372,
+    "wof:name":"Stepkivka",
+    "wof:parent_id":102088345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.30342000000001,
+    48.66081,
+    30.30342000000001,
+    48.66081
+],
+  "geometry": {"coordinates":[30.30342000000001,48.66081],"type":"Point"}
+}

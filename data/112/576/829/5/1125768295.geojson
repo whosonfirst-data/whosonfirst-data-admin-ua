@@ -1,0 +1,93 @@
+{
+  "id": 1125768295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43908,48.34929,24.43908,48.34929",
+    "geom:latitude":48.34929,
+    "geom:longitude":24.43908,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":615,
+    "gn:population":615,
+    "iso:country":"UA",
+    "lbl:latitude":48.34929,
+    "lbl:longitude":24.43908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:pol_x_preferred":[
+        "Polanica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Palyanytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u043b\u044f\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Polyanitsa"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":696605,
+    "qs_pg:gn_pop":615,
+    "qs_pg:name":"Palyanytsya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":82867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        1108730825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696605,
+        "qs_pg:id":82867
+    },
+    "wof:country":"UA",
+    "wof:created":1497289974,
+    "wof:geomhash":"29c64686b31ff56dffec5773a730b9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730825,
+            "locality_id":1125768295,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125768295,
+    "wof:lastmodified":1509390831,
+    "wof:name":"Palyanytsya",
+    "wof:parent_id":1108730825,
+    "wof:placetype":"locality",
+    "wof:population":615,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43908,
+    48.34929,
+    24.43908,
+    48.34929
+],
+  "geometry": {"coordinates":[24.43908,48.34929],"type":"Point"}
+}

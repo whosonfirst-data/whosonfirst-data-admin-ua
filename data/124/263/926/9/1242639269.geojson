@@ -1,0 +1,76 @@
+{
+  "id": 1242639269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59434,50.59121,25.59434,50.59121",
+    "geom:latitude":50.59121,
+    "geom:longitude":25.59434,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Moskovshchyna",
+    "gn:country_code":"UA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438181,
+    "gn:latitude":50.59121,
+    "gn:longitude":25.59434,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Moskovshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Moskovshchyna"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0441\u043a\u043e\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Moskovshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438181
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e44334ec14505a84ed4dab842d38ae24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088609,
+            "locality_id":1242639269,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1242639269,
+    "wof:lastmodified":1537711692,
+    "wof:name":"Moskovshchyna",
+    "wof:parent_id":102088609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59434,
+    50.59121,
+    25.59434,
+    50.59121
+],
+  "geometry": {"coordinates":[25.59434,50.59121],"type":"Point"}
+}

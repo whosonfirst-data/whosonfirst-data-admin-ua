@@ -1,0 +1,77 @@
+{
+  "id": 1310398285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09194,47.28417,38.09194,47.28417",
+    "geom:latitude":47.28417,
+    "geom:longitude":38.09194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kurlyandskiy",
+    "gn:country_code":"UA",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801897,
+    "gn:latitude":47.28417,
+    "gn:longitude":38.09194,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kurlyandskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801897
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"91ec19901a9f510bdc88e0828aff7295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1310398285,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1310398285,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310398285,
+    "wof:lastmodified":1537068693,
+    "wof:name":"Kurlyandskiy",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09194,
+    47.28417,
+    38.09194,
+    47.28417
+],
+  "geometry": {"coordinates":[38.09194,47.28417],"type":"Point"}
+}

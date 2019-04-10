@@ -1,0 +1,82 @@
+{
+  "id": 1226544443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16667,48.25,37.16667,48.25",
+    "geom:latitude":48.25,
+    "geom:longitude":37.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vozdvizhenskiy",
+    "gn:cc2":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688874,
+    "gn:latitude":48.25,
+    "gn:longitude":37.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vozdvizhenskiy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khutor Vozdvizhenskiy",
+        "Vozdvizhenskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688874
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b7d5ffee3eba45c33264d58b8df25f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1226544443,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1226544443,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226544443,
+    "wof:lastmodified":1537710188,
+    "wof:name":"Vozdvizhenskiy",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16667,
+    48.25,
+    37.16667,
+    48.25
+],
+  "geometry": {"coordinates":[37.16667,48.25],"type":"Point"}
+}

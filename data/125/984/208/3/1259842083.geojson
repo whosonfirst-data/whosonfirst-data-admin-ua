@@ -1,0 +1,75 @@
+{
+  "id": 1259842083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92317,50.25883,32.92317,50.25883",
+    "geom:latitude":50.25883,
+    "geom:longitude":32.92317,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kizlivka",
+    "gn:country_code":"UA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705699,
+    "gn:latitude":50.25883,
+    "gn:longitude":32.92317,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kizlivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0437\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kizlevka",
+        "Kizlovka",
+        "Kizilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705699
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7ce31817bd18caf42f58c0c41837d7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088825,
+            "locality_id":1259842083,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1259842083,
+    "wof:lastmodified":1537711026,
+    "wof:name":"Kizlivka",
+    "wof:parent_id":102088825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92317,
+    50.25883,
+    32.92317,
+    50.25883
+],
+  "geometry": {"coordinates":[32.92317,50.25883],"type":"Point"}
+}

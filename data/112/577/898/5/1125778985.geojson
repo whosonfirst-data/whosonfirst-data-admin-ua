@@ -1,0 +1,90 @@
+{
+  "id": 1125778985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47303,48.91218,23.47303,48.91218",
+    "geom:latitude":48.91218,
+    "geom:longitude":23.47303,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1826,
+    "gn:population":1826,
+    "iso:country":"UA",
+    "lbl:latitude":48.91218,
+    "lbl:longitude":23.47303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tukhlya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0445\u043b\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0445\u043b\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Tuchla"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":691019,
+    "qs_pg:gn_pop":1826,
+    "qs_pg:name":"Tukhlya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691019,
+        "qs_pg:id":128232
+    },
+    "wof:country":"UA",
+    "wof:created":1497290387,
+    "wof:geomhash":"a1c86b45a82ec0ab59f0f2f78b14d224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088167,
+            "locality_id":1125778985,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125778985,
+    "wof:lastmodified":1509391439,
+    "wof:name":"Tukhlya",
+    "wof:parent_id":102088167,
+    "wof:placetype":"locality",
+    "wof:population":1826,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47303,
+    48.91218,
+    23.47303,
+    48.91218
+],
+  "geometry": {"coordinates":[23.47303,48.91218],"type":"Point"}
+}

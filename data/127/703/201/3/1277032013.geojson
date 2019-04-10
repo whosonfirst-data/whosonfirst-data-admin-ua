@@ -1,0 +1,75 @@
+{
+  "id": 1277032013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52049,51.84746,24.52049,51.84746",
+    "geom:latitude":51.84746,
+    "geom:longitude":24.52049,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Vyzhichno",
+    "gn:country_code":"UA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688703,
+    "gn:latitude":51.84746,
+    "gn:longitude":24.52049,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vyzhichno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0436\u0438\u0447\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vysochintsy",
+        "Vyzhichno",
+        "Vysochnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688703
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0768a13ab28808de3679443555e7e63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088855,
+            "locality_id":1277032013,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1277032013,
+    "wof:lastmodified":1537710178,
+    "wof:name":"Vyzhichno",
+    "wof:parent_id":102088855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52049,
+    51.84746,
+    24.52049,
+    51.84746
+],
+  "geometry": {"coordinates":[24.52049,51.84746],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293572841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13056,49.84833,39.13056,49.84833",
+    "geom:latitude":49.84833,
+    "geom:longitude":39.13056,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zalisne",
+    "gn:country_code":"UA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":809441,
+    "gn:latitude":49.84833,
+    "gn:longitude":39.13056,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Zalisne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zalisne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u043b\u0456\u0441\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zalesnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":809441
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a20442fd9452ce233f8dd3d2e378d3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088973,
+            "locality_id":1293572841,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1293572841,
+    "wof:lastmodified":1537711477,
+    "wof:name":"Zalisne",
+    "wof:parent_id":102088973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13056,
+    49.84833,
+    39.13056,
+    49.84833
+],
+  "geometry": {"coordinates":[39.13056,49.84833],"type":"Point"}
+}

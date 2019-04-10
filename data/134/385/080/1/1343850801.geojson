@@ -1,0 +1,81 @@
+{
+  "id": 1343850801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.97434,47.34769,37.97434,47.34769",
+    "geom:latitude":47.34769,
+    "geom:longitude":37.97434,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dolina",
+    "gn:country_code":"UA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709798,
+    "gn:latitude":47.34769,
+    "gn:longitude":37.97434,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dolina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fridrikhstal\u2019",
+        "Dolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709798
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e8db834034f4506570152a2a5dd585d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1343850801,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1343850801,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343850801,
+    "wof:lastmodified":1537711224,
+    "wof:name":"Dolina",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.97434000000001,
+    47.34769,
+    37.97434000000001,
+    47.34769
+],
+  "geometry": {"coordinates":[37.97434000000001,47.34769],"type":"Point"}
+}

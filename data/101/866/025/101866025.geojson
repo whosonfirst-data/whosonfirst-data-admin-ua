@@ -1,0 +1,127 @@
+{
+  "id": 101866025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.156206,47.017079,32.156206,47.017079",
+    "geom:latitude":47.017079,
+    "geom:longitude":32.156206,
+    "iso:country":"UA",
+    "lbl:latitude":47.017079,
+    "lbl:longitude":32.156206,
+    "mps:latitude":47.017079,
+    "mps:longitude":32.156206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0633\u0643\u0631\u064a\u0633\u064a\u0646\u0633\u0643\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u0578\u057d\u056f\u0580\u0565\u057d\u0565\u0576\u057d\u056f\u0578\u0565"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a\u0435"
+    ],
+    "name:crh_x_preferred":[
+        "Voskresenske"
+    ],
+    "name:deu_x_preferred":[
+        "Woskressenske"
+    ],
+    "name:eng_x_preferred":[
+        "Voskresenskoye"
+    ],
+    "name:eng_x_variant":[
+        "Voskresens\u2019ke",
+        "Voskresenske"
+    ],
+    "name:ger_x_preferred":[
+        "Woskressenske"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0578\u057d\u056f\u0580\u0565\u057d\u0565\u0576\u057d\u056f\u0578\u0565"
+    ],
+    "name:lav_x_preferred":[
+        "Voskresenske"
+    ],
+    "name:ron_x_preferred":[
+        "Voskresenske"
+    ],
+    "name:rum_x_preferred":[
+        "Voskresenske"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Gorokhovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Mykolaivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0438\u0439",
+    "qs:a2_alt":"Zhovtnevyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Voskresens'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":453,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688933,
+        "gp:id":927589,
+        "qs:id":1,
+        "wd:id":"Q3656126"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3ff59d4f3caef803d4b026d240a49070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088055,
+            "locality_id":101866025,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":101866025,
+    "wof:lastmodified":1544748373,
+    "wof:name":"\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.156206,
+    47.017079,
+    32.156206,
+    47.017079
+],
+  "geometry": {"coordinates":[32.156206,47.017079],"type":"Point"}
+}

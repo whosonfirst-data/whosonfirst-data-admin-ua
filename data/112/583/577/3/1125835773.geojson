@@ -1,0 +1,97 @@
+{
+  "id": 1125835773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13494,48.91917,38.13494,48.91917",
+    "geom:latitude":48.91917,
+    "geom:longitude":38.13494,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1111,
+    "gn:population":1111,
+    "iso:country":"UA",
+    "lbl:latitude":48.91917,
+    "lbl:longitude":38.13494,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Serebryanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":694494,
+    "qs_pg:gn_pop":1111,
+    "qs_pg:name":"Serebryanka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":82816,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694494,
+        "qs_pg:id":82816
+    },
+    "wof:country":"UA",
+    "wof:created":1497292709,
+    "wof:geomhash":"3b14feeb27a42eaeab04220d8cb0e1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1125835773,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1125835773,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125835773,
+    "wof:lastmodified":1530298011,
+    "wof:name":"Serebryanka",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:population":1111,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13494,
+    48.91917,
+    38.13494,
+    48.91917
+],
+  "geometry": {"coordinates":[38.13494,48.91917],"type":"Point"}
+}

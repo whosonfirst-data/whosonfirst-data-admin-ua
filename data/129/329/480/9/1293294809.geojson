@@ -1,0 +1,76 @@
+{
+  "id": 1293294809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11415,50.83293,31.11415,50.83293",
+    "geom:latitude":50.83293,
+    "geom:longitude":31.11415,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Korniyiv",
+    "gn:country_code":"UA",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8525860,
+    "gn:latitude":50.83293,
+    "gn:longitude":31.11415,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Korniyiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Korniyiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0440\u043d\u0456\u0457\u0432"
+    ],
+    "name:und_x_variant":[
+        "Korneyev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8525860
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b8406ebd46a475bdebba12e1f80a930f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088907,
+            "locality_id":1293294809,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293294809,
+    "wof:lastmodified":1537711733,
+    "wof:name":"Korniyiv",
+    "wof:parent_id":102088907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11415,
+    50.83293,
+    31.11415,
+    50.83293
+],
+  "geometry": {"coordinates":[31.11415,50.83293],"type":"Point"}
+}

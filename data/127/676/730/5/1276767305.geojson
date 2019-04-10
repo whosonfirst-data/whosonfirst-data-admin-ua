@@ -1,0 +1,80 @@
+{
+  "id": 1276767305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57695,47.80513,37.57695,47.80513",
+    "geom:latitude":47.80513,
+    "geom:longitude":37.57695,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taramchuk",
+    "gn:country_code":"UA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":691914,
+    "gn:latitude":47.80513,
+    "gn:longitude":37.57695,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Taramchuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Taramchuk"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u0440\u0430\u043c\u0447\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691914
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2b1fe3e11b0bf0fea8e02c216b4bc972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1276767305,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1276767305,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276767305,
+    "wof:lastmodified":1537710343,
+    "wof:name":"Taramchuk",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57695,
+    47.80513,
+    37.57695,
+    47.80513
+],
+  "geometry": {"coordinates":[37.57695,47.80513],"type":"Point"}
+}

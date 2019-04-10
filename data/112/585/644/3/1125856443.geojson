@@ -1,0 +1,104 @@
+{
+  "id": 1125856443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16565,48.16928,39.16565,48.16928",
+    "geom:latitude":48.16928,
+    "geom:longitude":39.16565,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3116,
+    "gn:population":3116,
+    "iso:country":"UA",
+    "lbl:latitude":48.16928,
+    "lbl:longitude":39.16565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5361\u7c73\u4e9e\u6d85"
+    ],
+    "name:eng_x_preferred":[
+        "Kamiane"
+    ],
+    "name:ger_x_preferred":[
+        "Kamjane"
+    ],
+    "name:lav_x_preferred":[
+        "Kamjane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Kam\u201dyane"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043c\u2019\u044f\u043d\u0435",
+        "\u041a\u0430\u043c'\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Millerovo"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":707002,
+    "qs_pg:gn_pop":3116,
+    "qs_pg:name":"Kamennoye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128677,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108730809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707002,
+        "qs_pg:id":128677,
+        "wd:id":"Q4211181"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293642,
+    "wof:geomhash":"48d8ed571ee8348a12d8dfa34346d8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730809,
+            "locality_id":1125856443,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125856443,
+    "wof:lastmodified":1514509384,
+    "wof:name":"Kamennoye",
+    "wof:parent_id":1108730809,
+    "wof:placetype":"locality",
+    "wof:population":3116,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16565,
+    48.16928,
+    39.16565,
+    48.16928
+],
+  "geometry": {"coordinates":[39.16565,48.16928],"type":"Point"}
+}

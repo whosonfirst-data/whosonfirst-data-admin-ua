@@ -1,0 +1,84 @@
+{
+  "id": 1225948837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11069,47.53944,38.11069,47.53944",
+    "geom:latitude":47.53944,
+    "geom:longitude":38.11069,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Krasnopillya",
+    "gn:country_code":"UA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704348,
+    "gn:latitude":47.53944,
+    "gn:longitude":38.11069,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Krasnopillya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0456\u043b\u043b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Krasnopol\u2019ye",
+        "Krasnopillya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704348
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a14515d61e7124d158984bd05d00839e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1225948837,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1225948837,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1225948837,
+    "wof:lastmodified":1537710962,
+    "wof:name":"Krasnopillya",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11069000000001,
+    47.53944,
+    38.11069000000001,
+    47.53944
+],
+  "geometry": {"coordinates":[38.11069000000001,47.53944],"type":"Point"}
+}

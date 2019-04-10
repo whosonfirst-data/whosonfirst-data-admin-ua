@@ -1,0 +1,87 @@
+{
+  "id": 1125839881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69624,48.19516,24.69624,48.19516",
+    "geom:latitude":48.19516,
+    "geom:longitude":24.69624,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"UA",
+    "lbl:latitude":48.19516,
+    "lbl:longitude":24.69624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e\u043f\u0456\u043b\u043b\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Kryvopillya"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704028,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Krivopol\u2019ye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83016,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704028,
+        "qs_pg:id":83016
+    },
+    "wof:country":"UA",
+    "wof:created":1497292887,
+    "wof:geomhash":"30b438388726c2b2452782b923cf77cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088011,
+            "locality_id":1125839881,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125839881,
+    "wof:lastmodified":1509395226,
+    "wof:name":"Krivopol\u2019ye",
+    "wof:parent_id":102088011,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69624,
+    48.19516,
+    24.69624,
+    48.19516
+],
+  "geometry": {"coordinates":[24.69624,48.19516],"type":"Point"}
+}

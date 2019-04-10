@@ -1,0 +1,76 @@
+{
+  "id": 1243030643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.44105,50.46268,33.44105,50.46268",
+    "geom:latitude":50.46268,
+    "geom:longitude":33.44105,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shevchenkove",
+    "gn:country_code":"UA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572493,
+    "gn:latitude":50.46268,
+    "gn:longitude":33.44105,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Shevchenkove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shevchenkove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shevchenkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572493
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1555fffd8fbdfbac05310225920d1303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088865,
+            "locality_id":1243030643,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1243030643,
+    "wof:lastmodified":1537711775,
+    "wof:name":"Shevchenkove",
+    "wof:parent_id":102088865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.44105,
+    50.46268,
+    33.44105,
+    50.46268
+],
+  "geometry": {"coordinates":[33.44105,50.46268],"type":"Point"}
+}

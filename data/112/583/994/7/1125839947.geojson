@@ -1,0 +1,96 @@
+{
+  "id": 1125839947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35737,48.62436,23.35737,48.62436",
+    "geom:latitude":48.62436,
+    "geom:longitude":23.35737,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":480,
+    "gn:population":480,
+    "iso:country":"UA",
+    "lbl:latitude":48.62436,
+    "lbl:longitude":23.35737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "Bukovets\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Bukovtse"
+    ],
+    "name:yid_x_historical":[
+        "\u05d1\u05d9\u05e7\u05d1\u05e2\u05e5"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d9\u05e7\u05d1\u05e2\u05e5"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":711206,
+    "qs_pg:gn_pop":480,
+    "qs_pg:name":"Bukovets\u2019",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83188,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711206,
+        "qs_pg:id":83188
+    },
+    "wof:country":"UA",
+    "wof:created":1497292890,
+    "wof:geomhash":"364ff6d5cc35cbd0bd88b0e0bd86efd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088069,
+            "locality_id":1125839947,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1125839947,
+    "wof:lastmodified":1509395229,
+    "wof:name":"Bukovets\u2019",
+    "wof:parent_id":102088069,
+    "wof:placetype":"locality",
+    "wof:population":480,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35737,
+    48.62436,
+    23.35737,
+    48.62436
+],
+  "geometry": {"coordinates":[23.35737,48.62436],"type":"Point"}
+}

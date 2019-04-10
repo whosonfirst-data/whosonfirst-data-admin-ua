@@ -1,0 +1,89 @@
+{
+  "id": 1225948829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.28669,47.70584,38.28669,47.70584",
+    "geom:latitude":47.70584,
+    "geom:longitude":38.28669,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Obrizne",
+    "gn:country_code":"UA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":802285,
+    "gn:latitude":47.70584,
+    "gn:longitude":38.28669,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Obrizne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Blagodat\u2019"
+    ],
+    "name:ukr_x_preferred":[
+        "Obrizne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0431\u0440\u0456\u0437\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Obreznoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":802285
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b620c147a4a27e9c61cc64e1aacc5b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1225948829,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1225948829,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1225948829,
+    "wof:lastmodified":1537711426,
+    "wof:name":"Obrizne",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.28669,
+    47.70584,
+    38.28669,
+    47.70584
+],
+  "geometry": {"coordinates":[38.28669,47.70584],"type":"Point"}
+}

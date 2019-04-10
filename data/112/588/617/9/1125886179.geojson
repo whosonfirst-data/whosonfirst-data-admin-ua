@@ -1,0 +1,82 @@
+{
+  "id": 1125886179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.870018,48.521038,35.870018,48.521038",
+    "geom:latitude":48.521038,
+    "geom:longitude":35.870018,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":48.521038,
+    "lbl:longitude":35.870018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pavlogi",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Dnipropetrovs\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":104,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":104,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":981417,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":930205,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Dnipropetrovs\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":930205,
+        "qs_pg:id":981417
+    },
+    "wof:country":"UA",
+    "wof:created":1497295089,
+    "wof:geomhash":"ee9fe6d26696907c915017dd133438bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815905,
+            "locality_id":1125886179,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1125886179,
+    "wof:lastmodified":1509398514,
+    "wof:name":"Pavlogi",
+    "wof:parent_id":1108815905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.870018,
+    48.521038,
+    35.870018,
+    48.521038
+],
+  "geometry": {"coordinates":[35.870018,48.521038],"type":"Point"}
+}

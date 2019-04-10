@@ -1,0 +1,102 @@
+{
+  "id": 101868553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.260168,47.964376,38.260168,47.964376",
+    "geom:latitude":47.964376,
+    "geom:longitude":38.260168,
+    "iso:country":"UA",
+    "lbl:latitude":47.964376,
+    "lbl:longitude":38.260168,
+    "mps:latitude":47.964376,
+    "mps:longitude":38.260168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Troyits'ko-Khartsyz'k"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0438\u0446\u043a\u043e-\u0425\u0430\u0440\u0446\u044b\u0437\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u043e-\u0425\u0430\u0440\u0446\u0438\u0437\u044c\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Khartsyzsk"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Shakhtars'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u043e-\u0425\u0430\u0440\u0446\u0438\u0437\u044c\u043a",
+    "qs:loc_alt":"Troits'ko-Khartsyz'k",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815959,
+        1175613765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691293,
+        "gp:id":936288
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c24300e28d0c8d4278fbfb9fa79e23fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815959,
+            "disputed_id":1159339531,
+            "locality_id":101868553,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815959,
+            "disputed_id":1159339531,
+            "locality_id":101868553,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101868553,
+    "wof:lastmodified":1544749799,
+    "wof:name":"\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u043e-\u0425\u0430\u0440\u0446\u0438\u0437\u044c\u043a",
+    "wof:parent_id":1175613765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.260168,
+    47.964376,
+    38.260168,
+    47.964376
+],
+  "geometry": {"coordinates":[38.260168,47.964376],"type":"Point"}
+}

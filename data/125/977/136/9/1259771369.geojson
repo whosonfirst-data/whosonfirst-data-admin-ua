@@ -1,0 +1,101 @@
+{
+  "id": 1259771369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.44702,45.57965,34.44702,45.57965",
+    "geom:latitude":45.57965,
+    "geom:longitude":34.44702,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152850.0",
+    "gn:asciiname":"Rubinovka",
+    "gn:country_code":"UA",
+    "gn:dem":25,
+    "gn:elevation":"26.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712680,
+    "gn:latitude":45.57965,
+    "gn:longitude":34.44702,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Rubinovka",
+    "gn:population":360,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rubinovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u0435\u043a\u043a\u0430\u0437\u044b\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0431\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043a\u043a\u0430\u0437\u044b\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0431\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712680
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4dda06313417499bd8d36baf73aa86bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1259771369,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1259771369,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1259771369,
+    "wof:lastmodified":1537711372,
+    "wof:name":"Rubinovka",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":360,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.44702,
+    45.57965,
+    34.44702,
+    45.57965
+],
+  "geometry": {"coordinates":[34.44702,45.57965],"type":"Point"}
+}

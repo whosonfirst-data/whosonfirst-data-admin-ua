@@ -1,0 +1,106 @@
+{
+  "id": 1125823505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16379,48.93576,24.16379,48.93576",
+    "geom:latitude":48.93576,
+    "geom:longitude":24.16379,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3983,
+    "gn:population":3983,
+    "iso:country":"UA",
+    "lbl:latitude":48.93576,
+    "lbl:longitude":24.16379,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u7f85\u65e5\u5c3c\u4e9e\u5b63\u592b"
+    ],
+    "name:eng_x_preferred":[
+        "Rozhniativ"
+    ],
+    "name:ger_x_preferred":[
+        "Roschnjatiw"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d6'\u05e0\u05d9\u05d0\u05d8\u05d9\u05d1"
+    ],
+    "name:pol_x_preferred":[
+        "Ro\u017cniat\u00f3w"
+    ],
+    "name:rum_x_preferred":[
+        "Rojneativ"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0436\u043d\u044f\u0442\u0456\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0436\u043d\u044f\u0442\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Roznatov"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695315,
+    "qs_pg:gn_pop":3983,
+    "qs_pg:name":"Rozhnyativ",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275453,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695315,
+        "qs_pg:id":275453,
+        "wd:id":"Q1899345"
+    },
+    "wof:country":"UA",
+    "wof:created":1497292174,
+    "wof:geomhash":"1d6d34bd8a1f24f731c4ac194cfbf919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088135,
+            "locality_id":1125823505,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125823505,
+    "wof:lastmodified":1514509786,
+    "wof:name":"Rozhnyativ",
+    "wof:parent_id":102088135,
+    "wof:placetype":"locality",
+    "wof:population":3983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16379,
+    48.93576,
+    24.16379,
+    48.93576
+],
+  "geometry": {"coordinates":[24.16379,48.93576],"type":"Point"}
+}

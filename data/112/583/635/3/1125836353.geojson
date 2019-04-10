@@ -1,0 +1,100 @@
+{
+  "id": 1125836353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.00979,44.72617,34.00979,44.72617",
+    "geom:latitude":44.72617,
+    "geom:longitude":34.00979,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":926,
+    "gn:population":723,
+    "iso:country":"UA",
+    "lbl:latitude":44.72617,
+    "lbl:longitude":34.00979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Nauchny"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u0447\u043d\u044b\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0443\u0447\u043d\u0438\u0439"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":700416,
+    "qs_pg:gn_pop":926,
+    "qs_pg:name":"Nauchnyy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552591,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700416,
+        "qs_pg:id":552591
+    },
+    "wof:country":"UA",
+    "wof:created":1497292732,
+    "wof:geomhash":"983d635273907b4efa9c93a195cf84ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125836353,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1125836353,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125836353,
+    "wof:lastmodified":1530299612,
+    "wof:name":"Nauchnyy",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":723,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.00979,
+    44.72617,
+    34.00979,
+    44.72617
+],
+  "geometry": {"coordinates":[34.00979,44.72617],"type":"Point"}
+}

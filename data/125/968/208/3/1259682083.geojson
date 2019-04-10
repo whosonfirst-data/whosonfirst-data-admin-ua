@@ -1,0 +1,77 @@
+{
+  "id": 1259682083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1,47.48333,38.1,47.48333",
+    "geom:latitude":47.48333,
+    "geom:longitude":38.1,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Resh-Khreshchatik",
+    "gn:country_code":"UA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695638,
+    "gn:latitude":47.48333,
+    "gn:longitude":38.1,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Resh-Khreshchatik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695638
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3db7e2e57b90cc57869c63819a7b96dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1259682083,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1259682083,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259682083,
+    "wof:lastmodified":1537066153,
+    "wof:name":"Resh-Khreshchatik",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1,
+    47.48333,
+    38.1,
+    47.48333
+],
+  "geometry": {"coordinates":[38.1,47.48333],"type":"Point"}
+}

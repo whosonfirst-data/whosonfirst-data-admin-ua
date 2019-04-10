@@ -1,0 +1,74 @@
+{
+  "id": 1343442957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53123,47.42177,31.53123,47.42177",
+    "geom:latitude":47.42177,
+    "geom:longitude":31.53123,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Belousovka",
+    "gn:country_code":"UA",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712535,
+    "gn:latitude":47.42177,
+    "gn:longitude":31.53123,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belousovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u044c\u0441\u044c\u043a"
+    ],
+    "name:und_x_variant":[
+        "Voznesensk",
+        "Belousovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        1108815677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712535
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"960bca729cfdf0d47fa78dab26cbb9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815677,
+            "locality_id":1343442957,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":1343442957,
+    "wof:lastmodified":1537711364,
+    "wof:name":"Belousovka",
+    "wof:parent_id":1108815677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53123,
+    47.42177,
+    31.53123,
+    47.42177
+],
+  "geometry": {"coordinates":[31.53123,47.42177],"type":"Point"}
+}

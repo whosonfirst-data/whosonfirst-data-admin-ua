@@ -1,0 +1,87 @@
+{
+  "id": 1225837761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1029,48.14818,38.1029,48.14818",
+    "geom:latitude":48.14818,
+    "geom:longitude":38.1029,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novyy Svit",
+    "gn:country_code":"UA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":809780,
+    "gn:latitude":48.14818,
+    "gn:longitude":38.1029,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Novyy Svit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novyy Svit"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u0438\u0439 \u0421\u0432\u0456\u0442"
+    ],
+    "name:und_x_variant":[
+        "Novyy Svet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730723,
+        1175613751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":809780
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"862f36e8274c62a0bbdd68a0f0921915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730723,
+            "disputed_id":1159339531,
+            "locality_id":1225837761,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730723,
+            "disputed_id":1159339531,
+            "locality_id":1225837761,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1225837761,
+    "wof:lastmodified":1537711482,
+    "wof:name":"Novyy Svit",
+    "wof:parent_id":1175613751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1029,
+    48.14818,
+    38.1029,
+    48.14818
+],
+  "geometry": {"coordinates":[38.1029,48.14818],"type":"Point"}
+}

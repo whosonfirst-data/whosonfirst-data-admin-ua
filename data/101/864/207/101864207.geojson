@@ -1,0 +1,85 @@
+{
+  "id": 101864207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.095624,50.826854,26.095624,50.826854",
+    "geom:latitude":50.826854,
+    "geom:longitude":26.095624,
+    "iso:country":"UA",
+    "lbl:latitude":50.826854,
+    "lbl:longitude":26.095624,
+    "mps:latitude":50.826854,
+    "mps:longitude":26.095624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0414\u044e\u043a\u0441\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Diuksyn"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0441\u0442\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kostopil's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u044e\u043a\u0441\u0438\u043d",
+    "qs:loc_alt":"Diuksyn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709363,
+        "gp:id":932520,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a081f93454599074eceb068077a25e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088725,
+            "locality_id":101864207,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101864207,
+    "wof:lastmodified":1544747406,
+    "wof:name":"\u0414\u044e\u043a\u0441\u0438\u043d",
+    "wof:parent_id":102088725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.095624,
+    50.826854,
+    26.095624,
+    50.826854
+],
+  "geometry": {"coordinates":[26.095624,50.826854],"type":"Point"}
+}

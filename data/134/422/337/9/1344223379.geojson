@@ -1,0 +1,77 @@
+{
+  "id": 1344223379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49451,47.41801,29.49451,47.41801",
+    "geom:latitude":47.41801,
+    "geom:longitude":29.49451,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vyzhyne",
+    "gn:country_code":"UA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688647,
+    "gn:latitude":47.41801,
+    "gn:longitude":29.49451,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Vyzhyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vyzhyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0436\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vyzhina",
+        "Vyzhino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688647
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"619e0a98192e300e87838ef12f474efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088029,
+            "locality_id":1344223379,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1344223379,
+    "wof:lastmodified":1537710175,
+    "wof:name":"Vyzhyne",
+    "wof:parent_id":102088029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49451,
+    47.41801,
+    29.49451,
+    47.41801
+],
+  "geometry": {"coordinates":[29.49451,47.41801],"type":"Point"}
+}

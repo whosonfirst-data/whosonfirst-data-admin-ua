@@ -1,0 +1,86 @@
+{
+  "id": 1209713721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75658,47.08977,37.75658,47.08977",
+    "geom:latitude":47.08977,
+    "geom:longitude":37.75658,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sopyne",
+    "gn:country_code":"UA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317856,
+    "gn:latitude":47.08977,
+    "gn:longitude":37.75658,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Sopyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sopyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043e\u043f\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sopino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317856
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"13f916013b61f44461f5b7baa1dfbaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1209713721,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1209713721,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1209713721,
+    "wof:lastmodified":1537711909,
+    "wof:name":"Sopyne",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75658,
+    47.08977,
+    37.75658,
+    47.08977
+],
+  "geometry": {"coordinates":[37.75658,47.08977],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1259396233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13727,49.20811,32.13727,49.20811",
+    "geom:latitude":49.20811,
+    "geom:longitude":32.13727,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pleskachivka",
+    "gn:country_code":"UA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697085,
+    "gn:latitude":49.20811,
+    "gn:longitude":32.13727,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Pleskachivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pliskachevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0441\u043a\u0430\u0447\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Pleskachivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043b\u0435\u0441\u043a\u0430\u0447\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pliskachovka",
+        "Pliskachevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        1108815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697085
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a6a07962959ffc993213b599144f7f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815713,
+            "locality_id":1259396233,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1259396233,
+    "wof:lastmodified":1537710592,
+    "wof:name":"Pleskachivka",
+    "wof:parent_id":1108815713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13727,
+    49.20811,
+    32.13727,
+    49.20811
+],
+  "geometry": {"coordinates":[32.13727,49.20811],"type":"Point"}
+}

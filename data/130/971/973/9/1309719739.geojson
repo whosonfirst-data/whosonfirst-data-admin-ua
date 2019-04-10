@@ -1,0 +1,76 @@
+{
+  "id": 1309719739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32179,50.77136,32.32179,50.77136",
+    "geom:latitude":50.77136,
+    "geom:longitude":32.32179,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dzyubivka",
+    "gn:country_code":"UA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8530038,
+    "gn:latitude":50.77136,
+    "gn:longitude":32.32179,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Dzyubivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dzyubivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0437\u044e\u0431\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzyubovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8530038
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6c64acd6c4117e7ab7b280cffc359092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088931,
+            "locality_id":1309719739,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1309719739,
+    "wof:lastmodified":1537711747,
+    "wof:name":"Dzyubivka",
+    "wof:parent_id":102088931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32179,
+    50.77136,
+    32.32179,
+    50.77136
+],
+  "geometry": {"coordinates":[32.32179,50.77136],"type":"Point"}
+}

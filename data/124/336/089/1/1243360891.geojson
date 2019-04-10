@@ -1,0 +1,67 @@
+{
+  "id": 1243360891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85,48.8,24.85,48.8",
+    "geom:latitude":48.8,
+    "geom:longitude":24.85,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Levada",
+    "gn:country_code":"UA",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703129,
+    "gn:latitude":48.8,
+    "gn:longitude":24.85,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Levada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703129
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fd933e3069398940cbbbefd04fa7988b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088175,
+            "locality_id":1243360891,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1243360891,
+    "wof:lastmodified":1536929683,
+    "wof:name":"Levada",
+    "wof:parent_id":102088175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85,
+    48.8,
+    24.85,
+    48.8
+],
+  "geometry": {"coordinates":[24.85,48.8],"type":"Point"}
+}

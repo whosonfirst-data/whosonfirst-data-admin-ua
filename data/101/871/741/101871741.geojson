@@ -1,0 +1,120 @@
+{
+  "id": 101871741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.399324,50.03712,37.399324,50.03712",
+    "geom:latitude":50.03712,
+    "geom:longitude":37.399324,
+    "gn:population":4821,
+    "iso:country":"UA",
+    "lbl:latitude":50.03712,
+    "lbl:longitude":37.399324,
+    "mps:latitude":50.03712,
+    "mps:longitude":37.399324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0643\u064a\u064a \u0628\u0648\u0631\u0644\u0648\u0643\u060c \u0643\u0627\u0631\u0643\u064a\u0641\u0633\u0643\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u0565\u056c\u056b\u056f\u056b\u0575 \u0532\u0578\u0582\u0580\u056c\u0578\u0582\u056f"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u5e03\u723e\u76e7\u514b"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u0441\u043b\u0103 \u0411\u0443\u0440\u043b\u0443\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Velykyi Burluk"
+    ],
+    "name:eng_x_preferred":[
+        "Velykyy Burluk"
+    ],
+    "name:ger_x_preferred":[
+        "Welykyj Burluk"
+    ],
+    "name:pol_x_preferred":[
+        "We\u0142ykyj Bur\u0142uk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0443\u0440\u043b\u0443\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Velykyi Burluk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0443\u0440\u043b\u0443\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Bolshoi Burlak"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0443\u0440\u043b\u0443\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Velykoburluts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0443\u0440\u043b\u0443\u043a",
+    "qs:loc_alt":"Velykyi Burluk",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690193,
+        "gp:id":937292,
+        "qs:id":128204,
+        "wd:id":"Q1965817"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5495ea1e9dbc588b106f4a79ce2dc06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088975,
+            "locality_id":101871741,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101871741,
+    "wof:lastmodified":1544751236,
+    "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0443\u0440\u043b\u0443\u043a",
+    "wof:parent_id":102088975,
+    "wof:placetype":"locality",
+    "wof:population":4821,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.399324,
+    50.03712,
+    37.399324,
+    50.03712
+],
+  "geometry": {"coordinates":[37.399324,50.03712],"type":"Point"}
+}

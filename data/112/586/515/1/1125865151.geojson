@@ -1,0 +1,100 @@
+{
+  "id": 1125865151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6318,45.12944,33.6318,45.12944",
+    "geom:latitude":45.12944,
+    "geom:longitude":33.6318,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3000,
+    "gn:population":3049,
+    "iso:country":"UA",
+    "lbl:latitude":45.12944,
+    "lbl:longitude":33.6318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Orekhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0456\u0445\u043e\u0432\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":832394,
+    "qs_pg:gn_pop":3000,
+    "qs_pg:name":"Orikhove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":129737,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":832394,
+        "qs_pg:id":129737
+    },
+    "wof:country":"UA",
+    "wof:created":1497294001,
+    "wof:geomhash":"814ec17769f314d625f4615849a82370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125865151,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1125865151,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125865151,
+    "wof:lastmodified":1530299611,
+    "wof:name":"Orikhove",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:population":3049,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6318,
+    45.12944,
+    33.6318,
+    45.12944
+],
+  "geometry": {"coordinates":[33.6318,45.12944],"type":"Point"}
+}

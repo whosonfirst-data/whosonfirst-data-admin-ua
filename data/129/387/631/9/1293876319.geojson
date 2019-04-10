@@ -1,0 +1,77 @@
+{
+  "id": 1293876319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9723,47.2526,37.9723,47.2526",
+    "geom:latitude":47.2526,
+    "geom:longitude":37.9723,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ivchenko",
+    "gn:country_code":"UA",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707328,
+    "gn:latitude":47.2526,
+    "gn:longitude":37.9723,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Ivchenko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707328
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8338c790f365cf2a38ff65c28e8b15d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1293876319,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1293876319,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293876319,
+    "wof:lastmodified":1536724064,
+    "wof:name":"Ivchenko",
+    "wof:parent_id":102088405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9723,
+    47.2526,
+    37.9723,
+    47.2526
+],
+  "geometry": {"coordinates":[37.9723,47.2526],"type":"Point"}
+}

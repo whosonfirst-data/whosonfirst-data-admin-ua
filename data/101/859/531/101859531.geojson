@@ -1,0 +1,116 @@
+{
+  "id": 101859531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.910799,48.339151,23.910799,48.339151",
+    "geom:latitude":48.339151,
+    "geom:longitude":23.910799,
+    "iso:country":"UA",
+    "lbl:latitude":48.339151,
+    "lbl:longitude":23.910799,
+    "mps:latitude":48.339151,
+    "mps:longitude":23.910799,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054c\u0578\u0582\u057d\u056f\u0561\u0575\u0561 \u0544\u0578\u056f\u0580\u0561\u0575\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u9b6f\u897f\u5361\u83ab\u514b\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Mokra Ruska"
+    ],
+    "name:eng_x_preferred":[
+        "Rus'ka Mokra"
+    ],
+    "name:epo_x_preferred":[
+        "Ruska Mokra"
+    ],
+    "name:ger_x_preferred":[
+        "Ruska Mokra"
+    ],
+    "name:hun_x_preferred":[
+        "Oroszmokra"
+    ],
+    "name:pol_x_preferred":[
+        "Mokra Ruska"
+    ],
+    "name:rum_x_preferred":[
+        "Ruska Mokra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041c\u043e\u043a\u0440\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u044c\u043a\u0430 \u041c\u043e\u043a\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Russkaya Mokraya"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0422\u044f\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tiachivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0443\u0441\u044c\u043a\u0430 \u041c\u043e\u043a\u0440\u0430",
+    "qs:loc_alt":"Rus'ka Mokra",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695105,
+        "gp:id":919346,
+        "qs:id":8,
+        "wd:id":"Q842523"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a0a043a185a7c4b745c09d8890655d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088039,
+            "locality_id":101859531,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859531,
+    "wof:lastmodified":1553815552,
+    "wof:name":"\u0420\u0443\u0441\u044c\u043a\u0430 \u041c\u043e\u043a\u0440\u0430",
+    "wof:parent_id":102088039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.910799,
+    48.339151,
+    23.910799,
+    48.339151
+],
+  "geometry": {"coordinates":[23.910799,48.339151],"type":"Point"}
+}

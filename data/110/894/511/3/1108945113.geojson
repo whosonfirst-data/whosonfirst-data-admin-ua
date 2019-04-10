@@ -1,0 +1,70 @@
+{
+  "id": 1108945113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5423944521,50.3591672175,30.5423944521,50.3591672175",
+    "geom:latitude":50.359167,
+    "geom:longitude":30.542394,
+    "iso:country":"UA",
+    "lbl:latitude":50.359167,
+    "lbl:longitude":30.542394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":14.0,
+    "mz:min_zoom":11.0,
+    "mz:tier_metro":30,
+    "name:eng_x_variant":[
+        "Holosiivskyi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        101752489,
+        1108730705,
+        85688801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"UA",
+    "wof:created":1491364820,
+    "wof:geomhash":"7071b7d55b7513e2a03e4aa5b23af198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730705,
+            "locality_id":101752489,
+            "neighbourhood_id":1108945113,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1108945113,
+    "wof:lastmodified":1500072243,
+    "wof:name":"Holosiiv",
+    "wof:parent_id":101752489,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54239445207196,
+    50.35916721749133,
+    30.54239445207196,
+    50.35916721749133
+],
+  "geometry": {"coordinates":[30.54239445207196,50.35916721749133],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310168085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23961,50.32949,33.23961,50.32949",
+    "geom:latitude":50.32949,
+    "geom:longitude":33.23961,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Krynytsya",
+    "gn:country_code":"UA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572776,
+    "gn:latitude":50.32949,
+    "gn:longitude":33.23961,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Krynytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Krynytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_variant":[
+        "Krinitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572776
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0d2e20c851caaf400578b759b60e3d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088865,
+            "locality_id":1310168085,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1310168085,
+    "wof:lastmodified":1537711776,
+    "wof:name":"Krynytsya",
+    "wof:parent_id":102088865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23961,
+    50.32949,
+    33.23961,
+    50.32949
+],
+  "geometry": {"coordinates":[33.23961,50.32949],"type":"Point"}
+}

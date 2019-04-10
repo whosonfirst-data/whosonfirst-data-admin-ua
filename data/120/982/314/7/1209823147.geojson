@@ -1,0 +1,76 @@
+{
+  "id": 1209823147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92005,51.0174,30.92005,51.0174",
+    "geom:latitude":51.0174,
+    "geom:longitude":30.92005,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bilyky",
+    "gn:country_code":"UA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712627,
+    "gn:latitude":51.0174,
+    "gn:longitude":30.92005,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Bilyky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bilyky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Beliki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712627
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"34db13ca49f5fd5183d0471a3af4db29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088907,
+            "locality_id":1209823147,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1209823147,
+    "wof:lastmodified":1537711369,
+    "wof:name":"Bilyky",
+    "wof:parent_id":102088907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92005,
+    51.0174,
+    30.92005,
+    51.0174
+],
+  "geometry": {"coordinates":[30.92005,51.0174],"type":"Point"}
+}

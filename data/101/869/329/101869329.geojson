@@ -1,0 +1,88 @@
+{
+  "id": 101869329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.290357,49.877746,29.290357,49.877746",
+    "geom:latitude":49.877746,
+    "geom:longitude":29.290357,
+    "iso:country":"UA",
+    "lbl:latitude":49.877746,
+    "lbl:longitude":29.290357,
+    "mps:latitude":49.877746,
+    "mps:longitude":29.290357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Makarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043a\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Makarovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zhytomyrs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u043e\u043f\u0456\u043b\u044c\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Popil'nians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u043a\u0430\u0440\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Makarivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702333,
+        "gp:id":934712,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9e4ceacdd73138f33f6991bf1397c8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088623,
+            "locality_id":101869329,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":101869329,
+    "wof:lastmodified":1544750235,
+    "wof:name":"\u041c\u0430\u043a\u0430\u0440\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.290357,
+    49.877746,
+    29.290357,
+    49.877746
+],
+  "geometry": {"coordinates":[29.290357,49.877746],"type":"Point"}
+}

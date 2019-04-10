@@ -1,0 +1,107 @@
+{
+  "id": 1126045813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3957,48.69343,22.3957,48.69343",
+    "geom:latitude":48.69343,
+    "geom:longitude":22.3957,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1886,
+    "gn:population":1886,
+    "iso:country":"UA",
+    "lbl:latitude":48.69343,
+    "lbl:longitude":22.3957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0574\u0565\u0576\u056b\u0581\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u7c73\u4e9e\u5c3c\u9f4a\u4e9e"
+    ],
+    "name:eng_x_preferred":[
+        "Kam'ianitsia"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d3kemence"
+    ],
+    "name:rum_x_preferred":[
+        "Kamean\u00ee\u021bea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Kam\u201dyanytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043c\u2019\u044f\u043d\u0438\u0446\u044f",
+        "\u041a\u0430\u043c'\u044f\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Okementse"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":707073,
+    "qs_pg:gn_pop":1886,
+    "qs_pg:name":"Kamianytsia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":552625,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        1108815639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707073,
+        "qs_pg:id":552625,
+        "wd:id":"Q263907"
+    },
+    "wof:country":"UA",
+    "wof:created":1497302426,
+    "wof:geomhash":"6dfe91948a05e2ade156105294910588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815639,
+            "locality_id":1126045813,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1126045813,
+    "wof:lastmodified":1514509399,
+    "wof:name":"Kamianytsia",
+    "wof:parent_id":1108815639,
+    "wof:placetype":"locality",
+    "wof:population":1886,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3957,
+    48.69343,
+    22.3957,
+    48.69343
+],
+  "geometry": {"coordinates":[22.3957,48.69343],"type":"Point"}
+}

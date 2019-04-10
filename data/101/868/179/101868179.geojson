@@ -1,0 +1,97 @@
+{
+  "id": 101868179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.749107,48.783675,32.749107,48.783675",
+    "geom:latitude":48.783675,
+    "geom:longitude":32.749107,
+    "gn:population":4070,
+    "iso:country":"UA",
+    "lbl:latitude":48.783675,
+    "lbl:longitude":32.749107,
+    "mps:latitude":48.783675,
+    "mps:longitude":32.749107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dmytrivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dmitrovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kirovohrads'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0417\u043d\u0430\u043c'\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Znamyans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Dmytrivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709983,
+        "gp:id":918939,
+        "qs:id":275562
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a74a5b1d17f6770ad3c78f4d594c6e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088479,
+            "locality_id":101868179,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":101868179,
+    "wof:lastmodified":1544749590,
+    "wof:name":"\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088479,
+    "wof:placetype":"locality",
+    "wof:population":4070,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.749107,
+    48.783675,
+    32.749107,
+    48.783675
+],
+  "geometry": {"coordinates":[32.749107,48.783675],"type":"Point"}
+}

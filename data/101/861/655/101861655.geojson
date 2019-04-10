@@ -1,0 +1,82 @@
+{
+  "id": 101861655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.042823,49.060101,25.042823,49.060101",
+    "geom:latitude":49.060101,
+    "geom:longitude":25.042823,
+    "iso:country":"UA",
+    "lbl:latitude":49.060101,
+    "lbl:longitude":25.042823,
+    "mps:latitude":49.060101,
+    "mps:longitude":25.042823,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Zadaruv"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ternopil's'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Monastyrys'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0430\u0434\u0430\u0440\u0456\u0432",
+    "qs:loc_alt":"Zadariv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687929,
+        "gp:id":921237,
+        "qs:id":4
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"94865782307248e1f050cf19b40cb2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088211,
+            "locality_id":101861655,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":101861655,
+    "wof:lastmodified":1544746077,
+    "wof:name":"\u0417\u0430\u0434\u0430\u0440\u0456\u0432",
+    "wof:parent_id":102088211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.042823,
+    49.060101,
+    25.042823,
+    49.060101
+],
+  "geometry": {"coordinates":[25.042823,49.060101],"type":"Point"}
+}

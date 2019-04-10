@@ -1,0 +1,78 @@
+{
+  "id": 101868487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.50977,50.047077,29.50977,50.047077",
+    "geom:latitude":50.047077,
+    "geom:longitude":29.50977,
+    "iso:country":"UA",
+    "lbl:latitude":50.047077,
+    "lbl:longitude":29.50977,
+    "mps:latitude":50.047077,
+    "mps:longitude":29.50977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zhytomyrs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u043e\u043f\u0456\u043b\u044c\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Popil'nians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0430\u0434\u0433\u043e\u0441\u043f\u043d\u0435",
+    "qs:loc_alt":"Radhospne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":924434,
+        "qs:id":7
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"344b4ca9638a90531b5d758a8ebe3d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088623,
+            "locality_id":101868487,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":101868487,
+    "wof:lastmodified":1544749762,
+    "wof:name":"\u0420\u0430\u0434\u0433\u043e\u0441\u043f\u043d\u0435",
+    "wof:parent_id":102088623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.50977,
+    50.047077,
+    29.50977,
+    50.047077
+],
+  "geometry": {"coordinates":[29.50977,50.047077],"type":"Point"}
+}

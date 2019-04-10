@@ -1,0 +1,111 @@
+{
+  "id": 101865533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.943827,46.361142,32.943827,46.361142",
+    "geom:latitude":46.361142,
+    "geom:longitude":32.943827,
+    "gn:population":4422,
+    "iso:country":"UA",
+    "lbl:latitude":46.361142,
+    "lbl:longitude":32.943827,
+    "mps:latitude":46.361142,
+    "mps:longitude":32.943827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0646\u0648\u0647\u0631\u0627\u062f\u0648\u0641\u064a"
+    ],
+    "name:eng_x_preferred":[
+        "Vynohradove"
+    ],
+    "name:ger_x_preferred":[
+        "Wynohradowe"
+    ],
+    "name:lav_x_preferred":[
+        "Vinohradove"
+    ],
+    "name:rum_x_preferred":[
+        "V\u00eenohradove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Chalbasy"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Khersons'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0426\u044e\u0440\u0443\u043f\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tsiurupyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0435",
+    "qs:loc_alt":"Vynohradove",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689531,
+        "gp:id":937911,
+        "qs:id":1028359,
+        "wd:id":"Q4111842"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e310a7936fb40cbbc20280fe6f492163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088007,
+            "locality_id":101865533,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":101865533,
+    "wof:lastmodified":1544748094,
+    "wof:name":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0435",
+    "wof:parent_id":102088007,
+    "wof:placetype":"locality",
+    "wof:population":4422,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.943827,
+    46.361142,
+    32.943827,
+    46.361142
+],
+  "geometry": {"coordinates":[32.943827,46.361142],"type":"Point"}
+}

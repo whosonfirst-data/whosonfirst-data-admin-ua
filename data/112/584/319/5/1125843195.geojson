@@ -1,0 +1,97 @@
+{
+  "id": 1125843195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97042,50.61838,34.97042,50.61838",
+    "geom:latitude":50.61838,
+    "geom:longitude":34.97042,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4070,
+    "gn:population":4070,
+    "iso:country":"UA",
+    "lbl:latitude":50.61838,
+    "lbl:longitude":34.97042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Boromlya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u043c\u043b\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u043c\u043b\u044f"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":711629,
+    "qs_pg:gn_pop":4070,
+    "qs_pg:name":"Boromlya",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Sums\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1283143,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":917428,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Sums\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711629,
+        "gp:id":917428,
+        "qs_pg:id":1283143
+    },
+    "wof:country":"UA",
+    "wof:created":1497293026,
+    "wof:geomhash":"f0de7f80292b9ebf25fe8d1dd86e9445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088249,
+            "locality_id":1125843195,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1125843195,
+    "wof:lastmodified":1509395415,
+    "wof:name":"Boromlya",
+    "wof:parent_id":102088249,
+    "wof:placetype":"locality",
+    "wof:population":4070,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97042,
+    50.61838,
+    34.97042,
+    50.61838
+],
+  "geometry": {"coordinates":[34.97042,50.61838],"type":"Point"}
+}

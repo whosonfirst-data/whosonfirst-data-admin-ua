@@ -1,0 +1,67 @@
+{
+  "id": 1326778205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2,47.8,36.2,47.8",
+    "geom:latitude":47.8,
+    "geom:longitude":36.2,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Sich",
+    "gn:country_code":"UA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693839,
+    "gn:latitude":47.8,
+    "gn:longitude":36.2,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Sich",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693839
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2d64e3ea668efbfc90dd11f464268869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088425,
+            "locality_id":1326778205,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1326778205,
+    "wof:lastmodified":1536627723,
+    "wof:name":"Sich",
+    "wof:parent_id":102088425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2,
+    47.8,
+    36.2,
+    47.8
+],
+  "geometry": {"coordinates":[36.2,47.8],"type":"Point"}
+}

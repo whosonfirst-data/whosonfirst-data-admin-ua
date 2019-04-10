@@ -1,0 +1,76 @@
+{
+  "id": 1293831183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36667,50.33333,28.36667,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":28.36667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bolyarka",
+    "gn:country_code":"UA",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692915,
+    "gn:latitude":50.33333,
+    "gn:longitude":28.36667,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Bolyarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bolyarka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u043b\u044f\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Staraya Bolyarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692915
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9cd39b0e10dca402baf08c02286e6063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815629,
+            "locality_id":1293831183,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1293831183,
+    "wof:lastmodified":1537710391,
+    "wof:name":"Bolyarka",
+    "wof:parent_id":1108815629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36667000000001,
+    50.33333,
+    28.36667000000001,
+    50.33333
+],
+  "geometry": {"coordinates":[28.36667000000001,50.33333],"type":"Point"}
+}

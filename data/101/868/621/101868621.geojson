@@ -1,0 +1,123 @@
+{
+  "id": 101868621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.902581,49.237199,33.902581,49.237199",
+    "geom:latitude":49.237199,
+    "geom:longitude":33.902581,
+    "gn:population":2000,
+    "iso:country":"UA",
+    "lbl:latitude":49.237199,
+    "lbl:longitude":33.902581,
+    "mps:latitude":49.237199,
+    "mps:longitude":33.902581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0582\u057f\u0578\u057e\u056b\u0576\u0578\u057e\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u76e7\u6258\u7dad\u5c3c\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Lutovinovka"
+    ],
+    "name:eng_x_variant":[
+        "Lutovynivka"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u057f\u0578\u057e\u056b\u0576\u0578\u057e\u056f\u0561"
+    ],
+    "name:ron_x_preferred":[
+        "Lutov\u00eenivka"
+    ],
+    "name:rum_x_preferred":[
+        "Lutov\u00eenivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0442\u043e\u0432\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0442\u043e\u0432\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Lutovynivka"
+    ],
+    "name:unk_x_variant":[
+        "Lutovinovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u6258\u7dad\u5c3c\u592b\u5361"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Poltavs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kozel'schyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0443\u0442\u043e\u0432\u0438\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Lutovynivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702574,
+        "gp:id":923911,
+        "qs:id":82983,
+        "wd:id":"Q4269840",
+        "wk:page":"Lutovynivka"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7e48d77fc054e3de6beda96deb2e6972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088651,
+            "locality_id":101868621,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":101868621,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u041b\u0443\u0442\u043e\u0432\u0438\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088651,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.902581,
+    49.237199,
+    33.902581,
+    49.237199
+],
+  "geometry": {"coordinates":[33.902581,49.237199],"type":"Point"}
+}

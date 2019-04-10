@@ -1,0 +1,86 @@
+{
+  "id": 1344061511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.30271,47.16629,37.30271,47.16629",
+    "geom:latitude":47.16629,
+    "geom:longitude":37.30271,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lisne",
+    "gn:country_code":"UA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529268,
+    "gn:latitude":47.16629,
+    "gn:longitude":37.30271,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Lisne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lisne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0441\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lesnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529268
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2d95fafa34eccc1463c9462bb2db5e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1344061511,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1344061511,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1344061511,
+    "wof:lastmodified":1537711877,
+    "wof:name":"Lisne",
+    "wof:parent_id":102088371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.30271,
+    47.16629,
+    37.30271,
+    47.16629
+],
+  "geometry": {"coordinates":[37.30271,47.16629],"type":"Point"}
+}

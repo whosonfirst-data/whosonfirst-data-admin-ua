@@ -1,0 +1,100 @@
+{
+  "id": 1125857307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03464,49.99682,36.03464,49.99682",
+    "geom:latitude":49.99682,
+    "geom:longitude":36.03464,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12378,
+    "gn:population":12378,
+    "iso:country":"UA",
+    "lbl:latitude":49.99682,
+    "lbl:longitude":36.03464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u0578\u056c\u0578\u0576\u056b\u0581\u0587\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d22\u6d1b\u5c3c\u9f4a\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Solonytsivka"
+    ],
+    "name:ger_x_preferred":[
+        "Solonyziwka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u0438\u0446\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u0438\u0446\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sinelitsovka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":693194,
+    "qs_pg:gn_pop":12378,
+    "qs_pg:name":"Solonytsivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":275435,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693194,
+        "qs_pg:id":275435,
+        "wd:id":"Q4428376"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293674,
+    "wof:geomhash":"97c71f62c406518c7e960d2799b6e983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088945,
+            "locality_id":1125857307,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125857307,
+    "wof:lastmodified":1514509810,
+    "wof:name":"Solonytsivka",
+    "wof:parent_id":102088945,
+    "wof:placetype":"locality",
+    "wof:population":12378,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03464,
+    49.99682,
+    36.03464,
+    49.99682
+],
+  "geometry": {"coordinates":[36.03464,49.99682],"type":"Point"}
+}

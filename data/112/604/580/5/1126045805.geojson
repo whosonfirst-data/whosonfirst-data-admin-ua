@@ -1,0 +1,90 @@
+{
+  "id": 1126045805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16275,50.06602,35.16275,50.06602",
+    "geom:latitude":50.06602,
+    "geom:longitude":35.16275,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8008,
+    "gn:population":8008,
+    "iso:country":"UA",
+    "lbl:latitude":50.06602,
+    "lbl:longitude":35.16275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Krasnokutsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "Krasnokuts\u2019k"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704376,
+    "qs_pg:gn_pop":8008,
+    "qs_pg:name":"Krasnokutsk",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":552606,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        1108815731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704376,
+        "qs_pg:id":552606
+    },
+    "wof:country":"UA",
+    "wof:created":1497302426,
+    "wof:geomhash":"3592bb9a0d40fcb92dae61a15112474e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815731,
+            "locality_id":1126045805,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1126045805,
+    "wof:lastmodified":1509408849,
+    "wof:name":"Krasnokutsk",
+    "wof:parent_id":1108815731,
+    "wof:placetype":"locality",
+    "wof:population":8008,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16275,
+    50.06602,
+    35.16275,
+    50.06602
+],
+  "geometry": {"coordinates":[35.16275,50.06602],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193123323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88863,49.78797,30.88863,49.78797",
+    "geom:latitude":49.78797,
+    "geom:longitude":30.88863,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lipovets",
+    "gn:country_code":"UA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703011,
+    "gn:latitude":49.78797,
+    "gn:longitude":30.88863,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Lipovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703011
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8b94564bf52ee088f62454177f3d1b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088663,
+            "locality_id":1193123323,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1193123323,
+    "wof:lastmodified":1536383607,
+    "wof:name":"Lipovets",
+    "wof:parent_id":102088663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88863,
+    49.78797,
+    30.88863,
+    49.78797
+],
+  "geometry": {"coordinates":[30.88863,49.78797],"type":"Point"}
+}

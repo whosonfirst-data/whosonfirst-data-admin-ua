@@ -1,0 +1,77 @@
+{
+  "id": 1226338091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55555,50.23547,27.55555,50.23547",
+    "geom:latitude":50.23547,
+    "geom:longitude":27.55555,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lypivka",
+    "gn:country_code":"UA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703002,
+    "gn:latitude":50.23547,
+    "gn:longitude":27.55555,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lypivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lypivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0438\u043f\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koloniya Lipovka",
+        "Lipovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703002
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8a97cb507024b6468180b34976c436cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088571,
+            "locality_id":1226338091,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1226338091,
+    "wof:lastmodified":1537710896,
+    "wof:name":"Lypivka",
+    "wof:parent_id":102088571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55555,
+    50.23547,
+    27.55555,
+    50.23547
+],
+  "geometry": {"coordinates":[27.55555,50.23547],"type":"Point"}
+}

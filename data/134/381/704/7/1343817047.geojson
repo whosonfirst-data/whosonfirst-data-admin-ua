@@ -1,0 +1,101 @@
+{
+  "id": 1343817047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88403,44.47693,33.88403,44.47693",
+    "geom:latitude":44.47693,
+    "geom:longitude":33.88403,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"712927",
+    "gn:admin3_code":"11153387.0",
+    "gn:asciiname":"Kolkhoznoye",
+    "gn:country_code":"UA",
+    "gn:dem":383,
+    "gn:elevation":"360.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705440,
+    "gn:latitude":44.47693,
+    "gn:longitude":33.88403,
+    "gn:modification_date":"2016-05-24",
+    "gn:name":"Kolkhoznoye",
+    "gn:population":5,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolkhoznoye"
+    ],
+    "name:rus_x_historical":[
+        "\u0423\u0437\u0443\u043d\u0434\u0436\u0430\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0445\u043e\u0437\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0437\u0443\u043d\u0434\u0436\u0430\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0445\u043e\u0437\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738657,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705440
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9ce47773e5fa9c51108926103d20d7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738657,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1343817047,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738657,
+            "disputed_id":1159339547,
+            "locality_id":1343817047,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1343817047,
+    "wof:lastmodified":1537711012,
+    "wof:name":"Kolkhoznoye",
+    "wof:parent_id":1108738657,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88403,
+    44.47693,
+    33.88403,
+    44.47693
+],
+  "geometry": {"coordinates":[33.88403,44.47693],"type":"Point"}
+}

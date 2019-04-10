@@ -1,0 +1,88 @@
+{
+  "id": 101867173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.136838,47.640746,38.136838,47.640746",
+    "geom:latitude":47.640746,
+    "geom:longitude":38.136838,
+    "iso:country":"UA",
+    "lbl:latitude":47.640746,
+    "lbl:longitude":38.136838,
+    "mps:latitude":47.640746,
+    "mps:longitude":38.136838,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u0430\u0440\u043e\u0431\u0435\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Starobeshivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u0437\u0430\u0440'\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Novozarivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":923348,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"013fe0b64a3905a108e5a0fb018847eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":101867173,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":101867173,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101867173,
+    "wof:lastmodified":1544749024,
+    "wof:name":"\u041d\u043e\u0432\u043e\u0437\u0430\u0440'\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.136838,
+    47.640746,
+    38.136838,
+    47.640746
+],
+  "geometry": {"coordinates":[38.136838,47.640746],"type":"Point"}
+}

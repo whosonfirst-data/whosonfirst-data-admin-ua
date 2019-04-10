@@ -1,0 +1,76 @@
+{
+  "id": 1243322115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30949,51.80146,33.30949,51.80146",
+    "geom:latitude":51.80146,
+    "geom:longitude":33.30949,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Solotvyne",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220720,
+    "gn:latitude":51.80146,
+    "gn:longitude":33.30949,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Solotvyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Solotvyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043e\u043b\u043e\u0442\u0432\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Solotvino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220720
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"aea48e7e80e46602c75ec060973a848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815709,
+            "locality_id":1243322115,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1243322115,
+    "wof:lastmodified":1537711583,
+    "wof:name":"Solotvyne",
+    "wof:parent_id":1108815709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30949,
+    51.80146,
+    33.30949,
+    51.80146
+],
+  "geometry": {"coordinates":[33.30949,51.80146],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101863019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.940827,50.554137,26.940827,50.554137",
+    "geom:latitude":50.554137,
+    "geom:longitude":26.940827,
+    "iso:country":"UA",
+    "lbl:latitude":50.554137,
+    "lbl:longitude":26.940827,
+    "mps:latitude":50.554137,
+    "mps:longitude":26.940827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Powstanie \u017bmaj\u0142y"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435 \u0416\u043c\u0430\u0439\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0432\u0441\u0442\u0430\u043d\u043d\u044f \u0416\u043c\u0430\u0439\u043b\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Kryliv",
+        "\u041a\u0440\u0438\u043b\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Kry\u0142\u00f3w"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0440\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Korets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0438\u043b\u0456\u0432",
+    "qs:loc_alt":"Kryliv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":615,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703892,
+        "gp:id":934003,
+        "wd:id":"Q3544088"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"95eb26bec9c034d17a87d9a8ada82a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088689,
+            "locality_id":101863019,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101863019,
+    "wof:lastmodified":1544746785,
+    "wof:name":"\u041a\u0440\u0438\u043b\u0456\u0432",
+    "wof:parent_id":102088689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.940827,
+    50.554137,
+    26.940827,
+    50.554137
+],
+  "geometry": {"coordinates":[26.940827,50.554137],"type":"Point"}
+}

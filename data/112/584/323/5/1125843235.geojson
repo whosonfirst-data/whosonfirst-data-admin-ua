@@ -1,0 +1,97 @@
+{
+  "id": 1125843235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7969,48.85917,27.7969,48.85917",
+    "geom:latitude":48.85917,
+    "geom:longitude":27.7969,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1437,
+    "gn:population":1437,
+    "iso:country":"UA",
+    "lbl:latitude":48.85917,
+    "lbl:longitude":27.7969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u0439\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u0439\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Kopayhorod"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705034,
+    "qs_pg:gn_pop":1437,
+    "qs_pg:name":"Kopaygorod",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Vinnyts\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1283211,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":923488,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Vinnyts\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705034,
+        "gp:id":923488,
+        "qs_pg:id":1283211
+    },
+    "wof:country":"UA",
+    "wof:created":1497293028,
+    "wof:geomhash":"9e1e30a6fb513fd753457d85fac165c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088309,
+            "locality_id":1125843235,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1125843235,
+    "wof:lastmodified":1509395417,
+    "wof:name":"Kopaygorod",
+    "wof:parent_id":102088309,
+    "wof:placetype":"locality",
+    "wof:population":1437,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7969,
+    48.85917,
+    27.7969,
+    48.85917
+],
+  "geometry": {"coordinates":[27.7969,48.85917],"type":"Point"}
+}

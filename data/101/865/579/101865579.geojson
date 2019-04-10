@@ -1,0 +1,79 @@
+{
+  "id": 101865579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.470571,46.58568,32.470571,46.58568",
+    "geom:latitude":46.58568,
+    "geom:longitude":32.470571,
+    "iso:country":"UA",
+    "lbl:latitude":46.58568,
+    "lbl:longitude":32.470571,
+    "mps:latitude":46.58568,
+    "mps:longitude":32.470571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Khersons'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bilozers'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Dniprovs'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":916601,
+        "qs:id":9
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"927c2d5cd35ed464682f966d5fa0b650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088019,
+            "locality_id":101865579,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":101865579,
+    "wof:lastmodified":1544748121,
+    "wof:name":"\u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.470571,
+    46.58568,
+    32.470571,
+    46.58568
+],
+  "geometry": {"coordinates":[32.470571,46.58568],"type":"Point"}
+}

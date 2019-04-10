@@ -1,0 +1,76 @@
+{
+  "id": 1242830915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42368,50.7878,33.42368,50.7878",
+    "geom:latitude":50.7878,
+    "geom:longitude":33.42368,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Zhytne",
+    "gn:country_code":"UA",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563436,
+    "gn:latitude":50.7878,
+    "gn:longitude":33.42368,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Zhytne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zhytne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0416\u0438\u0442\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zhitnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563436
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"188334dbac1224925902f7f53c51d68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815707,
+            "locality_id":1242830915,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1242830915,
+    "wof:lastmodified":1537711765,
+    "wof:name":"Zhytne",
+    "wof:parent_id":1108815707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42368,
+    50.7878,
+    33.42368,
+    50.7878
+],
+  "geometry": {"coordinates":[33.42368,50.7878],"type":"Point"}
+}

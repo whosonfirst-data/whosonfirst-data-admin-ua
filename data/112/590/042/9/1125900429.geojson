@@ -1,0 +1,113 @@
+{
+  "id": 1125900429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4925,48.11333,38.4925,48.11333",
+    "geom:latitude":48.11333,
+    "geom:longitude":38.4925,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4480,
+    "gn:population":4480,
+    "iso:country":"UA",
+    "lbl:latitude":48.11333,
+    "lbl:longitude":38.4925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u65af\u5b63\u65e5\u57fa\u592b\u897f\u514b"
+    ],
+    "name:eng_x_preferred":[
+        "Stizhkivske"
+    ],
+    "name:ger_x_preferred":[
+        "Stischkiwske"
+    ],
+    "name:lav_x_preferred":[
+        "Sti\u017ekivske"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Stizhkivs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0456\u0436\u043a\u0456\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Stozhkovo"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":692468,
+    "qs_pg:gn_pop":4480,
+    "qs_pg:name":"Stozhkovskoye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028398,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692468,
+        "qs_pg:id":1028398,
+        "wd:id":"Q4442750"
+    },
+    "wof:country":"UA",
+    "wof:created":1497295779,
+    "wof:geomhash":"2be190ccda39646c5f1d0f94ae49b531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1125900429,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1125900429,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125900429,
+    "wof:lastmodified":1530297961,
+    "wof:name":"Stozhkovskoye",
+    "wof:parent_id":1108815735,
+    "wof:placetype":"locality",
+    "wof:population":4480,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4925,
+    48.11333,
+    38.4925,
+    48.11333
+],
+  "geometry": {"coordinates":[38.4925,48.11333],"type":"Point"}
+}

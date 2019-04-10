@@ -1,0 +1,88 @@
+{
+  "id": 101869729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.138101,50.417877,30.138101,50.417877",
+    "geom:latitude":50.417877,
+    "geom:longitude":30.138101,
+    "iso:country":"UA",
+    "lbl:latitude":50.417877,
+    "lbl:longitude":30.138101,
+    "mps:latitude":50.417877,
+    "mps:longitude":30.138101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shpit\u2019ki"
+    ],
+    "name:ukr_x_preferred":[
+        "Shpyt\u2019ky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u043f\u0438\u0442\u044c\u043a\u0438"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0438\u0454\u0432\u043e-\u0421\u0432\u044f\u0442\u043e\u0448\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kyievo-Sviatoshyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0428\u043f\u0438\u0442\u044c\u043a\u0438",
+    "qs:loc_alt":"Shpyt'ky",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516294,
+        "gp:id":12518221,
+        "qs:id":9
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bf0955d90c8586dd99db031e15ca594b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088769,
+            "locality_id":101869729,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101869729,
+    "wof:lastmodified":1544750430,
+    "wof:name":"\u0428\u043f\u0438\u0442\u044c\u043a\u0438",
+    "wof:parent_id":102088769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.138101,
+    50.417877,
+    30.138101,
+    50.417877
+],
+  "geometry": {"coordinates":[30.138101,50.417877],"type":"Point"}
+}

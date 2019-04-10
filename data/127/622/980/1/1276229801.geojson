@@ -1,0 +1,82 @@
+{
+  "id": 1276229801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85101,51.26976,31.85101,51.26976",
+    "geom:latitude":51.26976,
+    "geom:longitude":31.85101,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Drimaylivka",
+    "gn:country_code":"UA",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709622,
+    "gn:latitude":51.26976,
+    "gn:longitude":31.85101,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Drimaylivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dremaylovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0435\u043c\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Drimaylivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0440\u0456\u043c\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dremaylovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709622
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1578f9d4bfb586c2f5a39c40b0a21cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088959,
+            "locality_id":1276229801,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1276229801,
+    "wof:lastmodified":1537711214,
+    "wof:name":"Drimaylivka",
+    "wof:parent_id":102088959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85101,
+    51.26976,
+    31.85101,
+    51.26976
+],
+  "geometry": {"coordinates":[31.85101,51.26976],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260142097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95706,50.49197,25.95706,50.49197",
+    "geom:latitude":50.49197,
+    "geom:longitude":25.95706,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kryliv",
+    "gn:country_code":"UA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703885,
+    "gn:latitude":50.49197,
+    "gn:longitude":25.95706,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kryliv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kryliv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u043b\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Kryluv",
+        "Krylov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703885
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a35b5504cdd64d36c96c1176e426c9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088585,
+            "locality_id":1260142097,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1260142097,
+    "wof:lastmodified":1537710937,
+    "wof:name":"Kryliv",
+    "wof:parent_id":102088585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95706,
+    50.49197,
+    25.95706,
+    50.49197
+],
+  "geometry": {"coordinates":[25.95706,50.49197],"type":"Point"}
+}

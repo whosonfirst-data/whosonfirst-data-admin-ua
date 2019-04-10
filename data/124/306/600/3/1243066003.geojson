@@ -1,0 +1,86 @@
+{
+  "id": 1243066003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06212,47.36357,38.06212,47.36357",
+    "geom:latitude":47.36357,
+    "geom:longitude":38.06212,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Svobodne",
+    "gn:country_code":"UA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692033,
+    "gn:latitude":47.36357,
+    "gn:longitude":38.06212,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Svobodne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Rozenfel\u2019d",
+        "Svobodnoye",
+        "Rozental\u2019",
+        "Svobodne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692033
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"516b1f69af9959ac925164dbfb98321a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1243066003,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1243066003,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243066003,
+    "wof:lastmodified":1537710348,
+    "wof:name":"Svobodne",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06212,
+    47.36357,
+    38.06212,
+    47.36357
+],
+  "geometry": {"coordinates":[38.06212,47.36357],"type":"Point"}
+}

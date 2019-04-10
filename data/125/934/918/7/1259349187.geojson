@@ -1,0 +1,76 @@
+{
+  "id": 1259349187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.72609,47.41214,29.72609,47.41214",
+    "geom:latitude":47.41214,
+    "geom:longitude":29.72609,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Davydivka",
+    "gn:country_code":"UA",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710234,
+    "gn:latitude":47.41214,
+    "gn:longitude":29.72609,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Davydivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Davydivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0430\u0432\u0438\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Davydovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710234
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ed04cddc9339748195bc86e9d20e4d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088023,
+            "locality_id":1259349187,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1259349187,
+    "wof:lastmodified":1537711246,
+    "wof:name":"Davydivka",
+    "wof:parent_id":102088023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.72609000000001,
+    47.41214,
+    29.72609000000001,
+    47.41214
+],
+  "geometry": {"coordinates":[29.72609000000001,47.41214],"type":"Point"}
+}

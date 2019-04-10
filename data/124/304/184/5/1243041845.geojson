@@ -1,0 +1,76 @@
+{
+  "id": 1243041845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.71775,50.85651,34.71775,50.85651",
+    "geom:latitude":50.85651,
+    "geom:longitude":34.71775,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Lyubacheve",
+    "gn:country_code":"UA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8420301,
+    "gn:latitude":50.85651,
+    "gn:longitude":34.71775,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Lyubacheve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lyubacheve"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u044e\u0431\u0430\u0447\u0435\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lyubachevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8420301
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a33744b89afd4896d87dd6c5c1e1cad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088997,
+            "locality_id":1243041845,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1243041845,
+    "wof:lastmodified":1537711669,
+    "wof:name":"Lyubacheve",
+    "wof:parent_id":102088997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.71775,
+    50.85651,
+    34.71775,
+    50.85651
+],
+  "geometry": {"coordinates":[34.71775,50.85651],"type":"Point"}
+}

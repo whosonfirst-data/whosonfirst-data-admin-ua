@@ -1,0 +1,95 @@
+{
+  "id": 1310182445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.12006,45.31223,34.12006,45.31223",
+    "geom:latitude":45.31223,
+    "geom:longitude":34.12006,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704383",
+    "gn:admin3_code":"11152908.0",
+    "gn:asciiname":"Novoivanovka",
+    "gn:country_code":"UA",
+    "gn:dem":82,
+    "gn:elevation":"81.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983811,
+    "gn:latitude":45.31223,
+    "gn:longitude":34.12006,
+    "gn:modification_date":"2016-07-21",
+    "gn:name":"Novoivanovka",
+    "gn:population":141,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoivanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0438\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0456\u0432\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983811
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7888c9c07ab677832e502d5dd46f876f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1310182445,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":1310182445,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1310182445,
+    "wof:lastmodified":1537711521,
+    "wof:name":"Novoivanovka",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.12006,
+    45.31223,
+    34.12006,
+    45.31223
+],
+  "geometry": {"coordinates":[34.12006,45.31223],"type":"Point"}
+}

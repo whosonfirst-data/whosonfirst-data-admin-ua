@@ -1,0 +1,67 @@
+{
+  "id": 1310632687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25,48.0,34.25,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":34.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kolteby",
+    "gn:country_code":"UA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705286,
+    "gn:latitude":48.0,
+    "gn:longitude":34.25,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Kolteby",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705286
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ea95841bd2f79b96a046ce35e23784d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088437,
+            "locality_id":1310632687,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1310632687,
+    "wof:lastmodified":1536733689,
+    "wof:name":"Kolteby",
+    "wof:parent_id":102088437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25,
+    48.0,
+    34.25,
+    48.0
+],
+  "geometry": {"coordinates":[34.25,48.0],"type":"Point"}
+}

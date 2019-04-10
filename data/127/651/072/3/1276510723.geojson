@@ -1,0 +1,67 @@
+{
+  "id": 1276510723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,47.75,31.85,47.75",
+    "geom:latitude":47.75,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Novo-Kiyevka",
+    "gn:country_code":"UA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699514,
+    "gn:latitude":47.75,
+    "gn:longitude":31.85,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Novo-Kiyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699514
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"348431a993f78c887fc99ec013034ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088157,
+            "locality_id":1276510723,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":1276510723,
+    "wof:lastmodified":1537036931,
+    "wof:name":"Novo-Kiyevka",
+    "wof:parent_id":102088157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    47.75,
+    31.85,
+    47.75
+],
+  "geometry": {"coordinates":[31.85,47.75],"type":"Point"}
+}

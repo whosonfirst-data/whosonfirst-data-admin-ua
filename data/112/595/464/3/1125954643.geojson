@@ -1,0 +1,87 @@
+{
+  "id": 1125954643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50719,46.63716,32.50719,46.63716",
+    "geom:latitude":46.63716,
+    "geom:longitude":32.50719,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6978,
+    "gn:population":6978,
+    "iso:country":"UA",
+    "lbl:latitude":46.63716,
+    "lbl:longitude":32.50719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u0448\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u0448\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Arnautka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":706945,
+    "qs_pg:gn_pop":6978,
+    "qs_pg:name":"Komyshany",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275540,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        1108730653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706945,
+        "qs_pg:id":275540
+    },
+    "wof:country":"UA",
+    "wof:created":1497297578,
+    "wof:geomhash":"6f7da7e16cc1305f84d0bd8a0bbda7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730653,
+            "locality_id":1125954643,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1125954643,
+    "wof:lastmodified":1509402913,
+    "wof:name":"Komyshany",
+    "wof:parent_id":1108730653,
+    "wof:placetype":"locality",
+    "wof:population":6978,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50719,
+    46.63716,
+    32.50719,
+    46.63716
+],
+  "geometry": {"coordinates":[32.50719,46.63716],"type":"Point"}
+}

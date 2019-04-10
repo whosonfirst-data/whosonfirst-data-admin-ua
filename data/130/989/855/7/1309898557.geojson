@@ -1,0 +1,83 @@
+{
+  "id": 1309898557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75899,48.63336,36.75899,48.63336",
+    "geom:latitude":48.63336,
+    "geom:longitude":36.75899,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Buzynivka",
+    "gn:country_code":"UA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112174,
+    "gn:latitude":48.63336,
+    "gn:longitude":36.75899,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Buzynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Buzynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0437\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Buzinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112174
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3576d4104294748bd28cd471209a0a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1309898557,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1309898557,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1309898557,
+    "wof:lastmodified":1537711841,
+    "wof:name":"Buzynivka",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75899,
+    48.63336,
+    36.75899,
+    48.63336
+],
+  "geometry": {"coordinates":[36.75899,48.63336],"type":"Point"}
+}

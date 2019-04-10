@@ -1,0 +1,77 @@
+{
+  "id": 1360083185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02944,48.40889,38.02944,48.40889",
+    "geom:latitude":48.40889,
+    "geom:longitude":38.02944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhovanyy",
+    "gn:country_code":"UA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":810391,
+    "gn:latitude":48.40889,
+    "gn:longitude":38.02944,
+    "gn:modification_date":"1996-03-25",
+    "gn:name":"Zhovanyy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":810391
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c26e7ab20cf28fcb5dcc49db3d21ea0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1360083185,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1360083185,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1360083185,
+    "wof:lastmodified":1536948737,
+    "wof:name":"Zhovanyy",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02944,
+    48.40889,
+    38.02944,
+    48.40889
+],
+  "geometry": {"coordinates":[38.02944,48.40889],"type":"Point"}
+}

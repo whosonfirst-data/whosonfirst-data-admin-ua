@@ -1,0 +1,76 @@
+{
+  "id": 1310389279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06772,50.01305,27.06772,50.01305",
+    "geom:latitude":50.01305,
+    "geom:longitude":27.06772,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lenkivtsi",
+    "gn:country_code":"UA",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703216,
+    "gn:latitude":50.01305,
+    "gn:longitude":27.06772,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lenkivtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lenkivtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0435\u043d\u043a\u0456\u0432\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Lenkovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        1108815721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703216
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6d112b8b15a093dd02cade370a6d50cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815721,
+            "locality_id":1310389279,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1310389279,
+    "wof:lastmodified":1537710907,
+    "wof:name":"Lenkivtsi",
+    "wof:parent_id":1108815721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06772,
+    50.01305,
+    27.06772,
+    50.01305
+],
+  "geometry": {"coordinates":[27.06772,50.01305],"type":"Point"}
+}

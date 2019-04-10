@@ -1,0 +1,76 @@
+{
+  "id": 1226089547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42178,46.5724,35.42178,46.5724",
+    "geom:latitude":46.5724,
+    "geom:longitude":35.42178,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dunayivka",
+    "gn:country_code":"UA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709431,
+    "gn:latitude":46.5724,
+    "gn:longitude":35.42178,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Dunayivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dunayivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0443\u043d\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dunayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709431
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7ab138b8569e8efcd14bc79d1db5ccac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088205,
+            "locality_id":1226089547,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1226089547,
+    "wof:lastmodified":1537711206,
+    "wof:name":"Dunayivka",
+    "wof:parent_id":102088205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42178,
+    46.5724,
+    35.42178,
+    46.5724
+],
+  "geometry": {"coordinates":[35.42178,46.5724],"type":"Point"}
+}

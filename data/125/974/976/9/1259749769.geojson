@@ -1,0 +1,77 @@
+{
+  "id": 1259749769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19765,50.22913,29.19765,50.22913",
+    "geom:latitude":50.22913,
+    "geom:longitude":29.19765,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Vydumka",
+    "gn:country_code":"UA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705943,
+    "gn:latitude":50.22913,
+    "gn:longitude":29.19765,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Vydumka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vydumka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0434\u0443\u043c\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koloniya Vydumka",
+        "Khutor Vydumka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705943
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"13e4dffccf157c254c8d0384c545d79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088679,
+            "locality_id":1259749769,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1259749769,
+    "wof:lastmodified":1537711038,
+    "wof:name":"Vydumka",
+    "wof:parent_id":102088679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19765,
+    50.22913,
+    29.19765,
+    50.22913
+],
+  "geometry": {"coordinates":[29.19765,50.22913],"type":"Point"}
+}

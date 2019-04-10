@@ -1,0 +1,93 @@
+{
+  "id": 1125856421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79002,49.64237,30.79002,49.64237",
+    "geom:latitude":49.64237,
+    "geom:longitude":30.79002,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2960,
+    "gn:population":2960,
+    "iso:country":"UA",
+    "lbl:latitude":49.64237,
+    "lbl:longitude":30.79002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Karapyshi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043f\u044b\u0448\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043f\u0438\u0448\u0456"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043f\u0438\u0448\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Karapishi"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":706803,
+    "qs_pg:gn_pop":2960,
+    "qs_pg:name":"Karapyshi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128672,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706803,
+        "qs_pg:id":128672
+    },
+    "wof:country":"UA",
+    "wof:created":1497293641,
+    "wof:geomhash":"57ae85221282c7b672131b3f61a09b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088649,
+            "locality_id":1125856421,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1125856421,
+    "wof:lastmodified":1509396246,
+    "wof:name":"Karapyshi",
+    "wof:parent_id":102088649,
+    "wof:placetype":"locality",
+    "wof:population":2960,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79002,
+    49.64237,
+    30.79002,
+    49.64237
+],
+  "geometry": {"coordinates":[30.79002,49.64237],"type":"Point"}
+}

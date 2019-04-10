@@ -1,0 +1,76 @@
+{
+  "id": 1226545643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4,48.31667,34.4,48.31667",
+    "geom:latitude":48.31667,
+    "geom:longitude":34.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Odarivka",
+    "gn:country_code":"UA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699260,
+    "gn:latitude":48.31667,
+    "gn:longitude":34.4,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Odarivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Odarivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0434\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novos\u00eblka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699260
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0069731d8f43cda604b017b9e636ba8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088477,
+            "locality_id":1226545643,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1226545643,
+    "wof:lastmodified":1537710707,
+    "wof:name":"Odarivka",
+    "wof:parent_id":102088477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4,
+    48.31667,
+    34.4,
+    48.31667
+],
+  "geometry": {"coordinates":[34.4,48.31667],"type":"Point"}
+}

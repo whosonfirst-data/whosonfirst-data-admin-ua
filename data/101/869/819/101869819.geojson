@@ -1,0 +1,78 @@
+{
+  "id": 101869819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.494466,49.642073,35.494466,49.642073",
+    "geom:latitude":49.642073,
+    "geom:longitude":35.494466,
+    "iso:country":"UA",
+    "lbl:latitude":49.642073,
+    "lbl:longitude":35.494466,
+    "mps:latitude":49.642073,
+    "mps:longitude":35.494466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnohrads'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0438\u043a\u043e\u043b\u043e-\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0442\u0430",
+    "qs:loc_alt":"Mykolo-Komyshuvata",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":930464,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"db94346c7943110ecf4e37ca22d76e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088787,
+            "locality_id":101869819,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101869819,
+    "wof:lastmodified":1544750470,
+    "wof:name":"\u041c\u0438\u043a\u043e\u043b\u043e-\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0442\u0430",
+    "wof:parent_id":102088787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.494466,
+    49.642073,
+    35.494466,
+    49.642073
+],
+  "geometry": {"coordinates":[35.494466,49.642073],"type":"Point"}
+}

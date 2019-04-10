@@ -1,0 +1,76 @@
+{
+  "id": 1343568919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72112,50.67167,31.72112,50.67167",
+    "geom:latitude":50.67167,
+    "geom:longitude":31.72112,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mykolayiv",
+    "gn:country_code":"UA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527344,
+    "gn:latitude":50.67167,
+    "gn:longitude":31.72112,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Mykolayiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Mykolayiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432"
+    ],
+    "name:und_x_variant":[
+        "Nikolayev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527344
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8cbe80e08d21ede994b480545e775469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088869,
+            "locality_id":1343568919,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1343568919,
+    "wof:lastmodified":1537711737,
+    "wof:name":"Mykolayiv",
+    "wof:parent_id":102088869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72112000000001,
+    50.67167,
+    31.72112000000001,
+    50.67167
+],
+  "geometry": {"coordinates":[31.72112000000001,50.67167],"type":"Point"}
+}

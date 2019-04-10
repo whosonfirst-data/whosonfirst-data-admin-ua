@@ -1,0 +1,76 @@
+{
+  "id": 1225806959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27268,50.72995,26.27268,50.72995",
+    "geom:latitude":50.72995,
+    "geom:longitude":26.27268,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Voloshky",
+    "gn:country_code":"UA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689132,
+    "gn:latitude":50.72995,
+    "gn:longitude":26.27268,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Voloshky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Voloshky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u043b\u043e\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Voloshki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689132
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c6ae67948a1c2efe685da1f1c596222b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":1225806959,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1225806959,
+    "wof:lastmodified":1537710203,
+    "wof:name":"Voloshky",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27268,
+    50.72995,
+    26.27268,
+    50.72995
+],
+  "geometry": {"coordinates":[26.27268,50.72995],"type":"Point"}
+}

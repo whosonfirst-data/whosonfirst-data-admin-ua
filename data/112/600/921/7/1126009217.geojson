@@ -1,0 +1,106 @@
+{
+  "id": 1126009217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06248,45.39379,36.06248,45.39379",
+    "geom:latitude":45.39379,
+    "geom:longitude":36.06248,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":240,
+    "gn:population":158,
+    "iso:country":"UA",
+    "lbl:latitude":45.39379,
+    "lbl:longitude":36.06248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Novootradnoye"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u0434\u0436\u0438\u0301-\u0411\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0436\u0438\u0301-\u0411\u0430\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0432\u0456\u0434\u0440\u0430\u0434\u043d\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699391,
+    "qs_pg:gn_pop":240,
+    "qs_pg:name":"Novovidradne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":552586,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738639,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699391,
+        "qs_pg:id":552586
+    },
+    "wof:country":"UA",
+    "wof:created":1497300165,
+    "wof:geomhash":"a55b38a1ebff85b9d0d65d2a472a0fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1126009217,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "locality_id":1126009217,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1126009217,
+    "wof:lastmodified":1530299614,
+    "wof:name":"Novovidradne",
+    "wof:parent_id":1108738639,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06248,
+    45.39379,
+    36.06248,
+    45.39379
+],
+  "geometry": {"coordinates":[36.06248,45.39379],"type":"Point"}
+}

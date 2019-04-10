@@ -1,0 +1,86 @@
+{
+  "id": 1125855785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.483299,49.232956,28.483299,49.232956",
+    "geom:latitude":49.232956,
+    "geom:longitude":28.483299,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":49.232956,
+    "lbl:longitude":28.483299,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vinnytsya",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Vinnyts\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":376,
+    "qs_pg:photos_1k":76,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":376,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1099363,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":937883,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Vinnyts\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        1108815863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":937883,
+        "qs_pg:id":1099363
+    },
+    "wof:country":"UA",
+    "wof:created":1497293612,
+    "wof:geomhash":"18b1523daa13c86fcb4ee7128f69c7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815863,
+            "locality_id":1125855785,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1125855785,
+    "wof:lastmodified":1534379470,
+    "wof:name":"Vinnytsya",
+    "wof:parent_id":1108815863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[
+        1125900325
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.483299,
+    49.232956,
+    28.483299,
+    49.232956
+],
+  "geometry": {"coordinates":[28.483299,49.232956],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209180577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33333,47.8,30.33333,47.8",
+    "geom:latitude":47.8,
+    "geom:longitude":30.33333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bernatskaya",
+    "gn:country_code":"UA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701715,
+    "gn:latitude":47.8,
+    "gn:longitude":30.33333,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Bernatskaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u2019yanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701715
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e19d27593e96244f4dfea2a0a1db699d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209180577
+        }
+    ],
+    "wof:id":1209180577,
+    "wof:lastmodified":1537710833,
+    "wof:name":"Bernatskaya",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33333,
+    47.8,
+    30.33333,
+    47.8
+],
+  "geometry": {"coordinates":[30.33333,47.8],"type":"Point"}
+}

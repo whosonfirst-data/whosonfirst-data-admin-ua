@@ -1,0 +1,87 @@
+{
+  "id": 1293103275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59065,47.88882,36.59065,47.88882",
+    "geom:latitude":47.88882,
+    "geom:longitude":36.59065,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Komyshuvakha",
+    "gn:country_code":"UA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706939,
+    "gn:latitude":47.88882,
+    "gn:longitude":36.59065,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Komyshuvakha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Komyshuvakha"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kamshevakha",
+        "Kamyshevakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706939
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a1ec750068deb990063d975c334dac93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1293103275,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1293103275,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293103275,
+    "wof:lastmodified":1537711089,
+    "wof:name":"Komyshuvakha",
+    "wof:parent_id":102088519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59065,
+    47.88882,
+    36.59065,
+    47.88882
+],
+  "geometry": {"coordinates":[36.59065,47.88882],"type":"Point"}
+}

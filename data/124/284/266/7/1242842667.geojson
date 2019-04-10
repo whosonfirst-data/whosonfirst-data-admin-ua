@@ -1,0 +1,77 @@
+{
+  "id": 1242842667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22693,50.73077,24.22693,50.73077",
+    "geom:latitude":50.73077,
+    "geom:longitude":24.22693,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Hryady",
+    "gn:country_code":"UA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707951,
+    "gn:latitude":50.73077,
+    "gn:longitude":24.22693,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Hryady",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hryady"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u044f\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kalusiv",
+        "Gryady"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707951
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ce3ebddb31f927d983fcca0d64db261a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088581,
+            "locality_id":1242842667,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1242842667,
+    "wof:lastmodified":1537711135,
+    "wof:name":"Hryady",
+    "wof:parent_id":102088581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22693,
+    50.73077,
+    24.22693,
+    50.73077
+],
+  "geometry": {"coordinates":[24.22693,50.73077],"type":"Point"}
+}

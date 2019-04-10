@@ -1,0 +1,123 @@
+{
+  "id": 101868119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.277172,46.953872,37.277172,46.953872",
+    "geom:latitude":46.953872,
+    "geom:longitude":37.277172,
+    "gn:population":5519,
+    "iso:country":"UA",
+    "lbl:latitude":46.953872,
+    "lbl:longitude":37.277172,
+    "mps:latitude":46.953872,
+    "mps:longitude":37.277172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0545\u0561\u056c\u057f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u723e\u5854"
+    ],
+    "name:eng_x_preferred":[
+        "Yalta"
+    ],
+    "name:ger_x_preferred":[
+        "Jalta"
+    ],
+    "name:lav_x_preferred":[
+        "Jalta"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043b\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043b\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Yalta"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0438\u0439",
+    "qs:a2_alt":"Pershotravnevyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042f\u043b\u0442\u0430",
+    "qs:loc_alt":"Yalta",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":40.0,
+    "wd:latitude":44.499444,
+    "wd:longitude":34.155278,
+    "wd:wordcount":1564,
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688532,
+        "gp:id":938849,
+        "qs:id":1028345,
+        "wd:id":"Q4537455"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"815de6d811e9e55ea39666725361c502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":101868119,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":101868119,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101868119,
+    "wof:lastmodified":1544749557,
+    "wof:name":"\u042f\u043b\u0442\u0430",
+    "wof:parent_id":102088329,
+    "wof:placetype":"locality",
+    "wof:population":5519,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.277172,
+    46.953872,
+    37.277172,
+    46.953872
+],
+  "geometry": {"coordinates":[37.277172,46.953872],"type":"Point"}
+}

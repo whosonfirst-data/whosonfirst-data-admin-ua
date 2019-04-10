@@ -1,0 +1,76 @@
+{
+  "id": 1277152079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93639,50.65122,26.93639,50.65122",
+    "geom:latitude":50.65122,
+    "geom:longitude":26.93639,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Berezivka",
+    "gn:country_code":"UA",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456551,
+    "gn:latitude":50.65122,
+    "gn:longitude":26.93639,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Berezivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Berezivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0437\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Berezovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456551
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ee70c5776b8f003bbc27d1d998182bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088689,
+            "locality_id":1277152079,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1277152079,
+    "wof:lastmodified":1537711702,
+    "wof:name":"Berezivka",
+    "wof:parent_id":102088689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93639000000001,
+    50.65122,
+    26.93639000000001,
+    50.65122
+],
+  "geometry": {"coordinates":[26.93639000000001,50.65122],"type":"Point"}
+}

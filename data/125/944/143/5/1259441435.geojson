@@ -1,0 +1,77 @@
+{
+  "id": 1259441435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75841,50.83985,34.75841,50.83985",
+    "geom:latitude":50.83985,
+    "geom:longitude":34.75841,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Hirne",
+    "gn:country_code":"UA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807420,
+    "gn:latitude":50.83985,
+    "gn:longitude":34.75841,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hirne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hirne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0456\u0440\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy",
+        "Gornoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807420
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"16774a30346ff041dd167da964c2c76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088997,
+            "locality_id":1259441435,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1259441435,
+    "wof:lastmodified":1537711456,
+    "wof:name":"Hirne",
+    "wof:parent_id":102088997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75841,
+    50.83985,
+    34.75841,
+    50.83985
+],
+  "geometry": {"coordinates":[34.75841,50.83985],"type":"Point"}
+}

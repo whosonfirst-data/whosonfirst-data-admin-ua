@@ -1,0 +1,83 @@
+{
+  "id": 1292908065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99388,48.56324,36.99388,48.56324",
+    "geom:latitude":48.56324,
+    "geom:longitude":36.99388,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kurytsyne",
+    "gn:country_code":"UA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112129,
+    "gn:latitude":48.56324,
+    "gn:longitude":36.99388,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kurytsyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kurytsyne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u0440\u0438\u0446\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kuritsyno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688779,
+        1159339531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112129
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cdc996033af4333303ce3afc820a981e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "disputed_id":1159339531,
+            "locality_id":1292908065,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339531,
+            "locality_id":1292908065,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1292908065,
+    "wof:lastmodified":1537711841,
+    "wof:name":"Kurytsyne",
+    "wof:parent_id":85688779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99388,
+    48.56324,
+    36.99388,
+    48.56324
+],
+  "geometry": {"coordinates":[36.99388,48.56324],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101862379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.467004,49.748751,27.467004,49.748751",
+    "geom:latitude":49.748751,
+    "geom:longitude":27.467004,
+    "iso:country":"UA",
+    "lbl:latitude":49.748751,
+    "lbl:longitude":27.467004,
+    "mps:latitude":49.748751,
+    "mps:longitude":27.467004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Khmel'nyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Starokostiantynivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0430\u0434\u0438\u0433\u0438",
+    "qs:loc_alt":"Ladyhy",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        1108815717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":925048,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d6b8b8040d4ee066ce5a364bc397bb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815717,
+            "locality_id":101862379,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":101862379,
+    "wof:lastmodified":1544746455,
+    "wof:name":"\u041b\u0430\u0434\u0438\u0433\u0438",
+    "wof:parent_id":1108815717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.467004,
+    49.748751,
+    27.467004,
+    49.748751
+],
+  "geometry": {"coordinates":[27.467004,49.748751],"type":"Point"}
+}

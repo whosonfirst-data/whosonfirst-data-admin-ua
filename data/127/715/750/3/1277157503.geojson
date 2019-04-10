@@ -1,0 +1,91 @@
+{
+  "id": 1277157503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93543,45.48281,34.93543,45.48281",
+    "geom:latitude":45.48281,
+    "geom:longitude":34.93543,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Barsove",
+    "gn:country_code":"UA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712820,
+    "gn:latitude":45.48281,
+    "gn:longitude":34.93543,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Barsove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Barsove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0440\u0441\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Barasanovka",
+        "Barsovo",
+        "Barasonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738653,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712820
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5e1df09d5bef27b499a2e7cbed5246ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1277157503,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "locality_id":1277157503,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1277157503,
+    "wof:lastmodified":1537711378,
+    "wof:name":"Barsove",
+    "wof:parent_id":1108738653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93543,
+    45.48281,
+    34.93543,
+    45.48281
+],
+  "geometry": {"coordinates":[34.93543,45.48281],"type":"Point"}
+}

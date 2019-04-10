@@ -1,0 +1,76 @@
+{
+  "id": 1259355565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49806,49.96417,23.49806,49.96417",
+    "geom:latitude":49.96417,
+    "geom:longitude":23.49806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Novy Yar",
+    "gn:country_code":"UA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8468751,
+    "gn:latitude":49.96417,
+    "gn:longitude":23.49806,
+    "gn:modification_date":"2013-02-18",
+    "gn:name":"Novy Yar",
+    "gn:population":65,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u042f\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u042f\u0440"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8468751
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6f9d55c5bf00552535f2ca1eb91e1cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088411,
+            "locality_id":1259355565,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1259355565,
+    "wof:lastmodified":1537558528,
+    "wof:name":"Novy Yar",
+    "wof:parent_id":102088411,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49806,
+    49.96417,
+    23.49806,
+    49.96417
+],
+  "geometry": {"coordinates":[23.49806,49.96417],"type":"Point"}
+}

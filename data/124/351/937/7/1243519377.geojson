@@ -1,0 +1,77 @@
+{
+  "id": 1243519377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.16803,51.83902,26.16803,51.83902",
+    "geom:latitude":51.83902,
+    "geom:longitude":26.16803,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ivanchytsi",
+    "gn:country_code":"UA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707513,
+    "gn:latitude":51.83902,
+    "gn:longitude":26.16803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ivanchytsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ivanchytsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u0432\u0430\u043d\u0447\u0438\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Ivan\u2019chitse",
+        "Ivanchitsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707513
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"627b67cc28f655844aa04d46341253ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088891,
+            "locality_id":1243519377,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1243519377,
+    "wof:lastmodified":1537711112,
+    "wof:name":"Ivanchytsi",
+    "wof:parent_id":102088891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.16803,
+    51.83902,
+    26.16803,
+    51.83902
+],
+  "geometry": {"coordinates":[26.16803,51.83902],"type":"Point"}
+}

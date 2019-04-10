@@ -1,0 +1,77 @@
+{
+  "id": 1259758291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90594,50.63649,26.90594,50.63649",
+    "geom:latitude":50.63649,
+    "geom:longitude":26.90594,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Stovpyn",
+    "gn:country_code":"UA",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692498,
+    "gn:latitude":50.63649,
+    "gn:longitude":26.90594,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Stovpyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Stovpyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u043e\u0432\u043f\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Stovpin",
+        "Stolpin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692498
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6cbfa9b0811e8332ac298b96c1b619f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088689,
+            "locality_id":1259758291,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1259758291,
+    "wof:lastmodified":1537710369,
+    "wof:name":"Stovpyn",
+    "wof:parent_id":102088689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90594,
+    50.63649,
+    26.90594,
+    50.63649
+],
+  "geometry": {"coordinates":[26.90594,50.63649],"type":"Point"}
+}

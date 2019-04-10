@@ -1,0 +1,94 @@
+{
+  "id": 101869669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.483946,50.194914,32.483946,50.194914",
+    "geom:latitude":50.194914,
+    "geom:longitude":32.483946,
+    "iso:country":"UA",
+    "lbl:latitude":50.194914,
+    "lbl:longitude":32.483946,
+    "mps:latitude":50.194914,
+    "mps:longitude":32.483946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tarasovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0441\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Tarasivka"
+    ],
+    "name:unk_x_variant":[
+        "Tarasovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Poltavs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u0440\u0435\u0431\u0456\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Hrebinkivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0430\u0440\u0430\u0441\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Tarasivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691858,
+        "gp:id":12518384,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"236dca8f50f1fab52f79235f00b24ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088759,
+            "locality_id":101869669,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":101869669,
+    "wof:lastmodified":1544750403,
+    "wof:name":"\u0422\u0430\u0440\u0430\u0441\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.483946,
+    50.194914,
+    32.483946,
+    50.194914
+],
+  "geometry": {"coordinates":[32.483946,50.194914],"type":"Point"}
+}

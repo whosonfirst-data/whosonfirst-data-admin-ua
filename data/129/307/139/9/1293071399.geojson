@@ -1,0 +1,76 @@
+{
+  "id": 1293071399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.40578,49.20375,39.40578,49.20375",
+    "geom:latitude":49.20375,
+    "geom:longitude":39.40578,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Parneve",
+    "gn:country_code":"UA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":809889,
+    "gn:latitude":49.20375,
+    "gn:longitude":39.40578,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Parneve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Parneve"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0440\u043d\u0435\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Parnevoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":809889
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fc87a619ed169096ddea6a41abf684e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088933,
+            "locality_id":1293071399,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1293071399,
+    "wof:lastmodified":1537711483,
+    "wof:name":"Parneve",
+    "wof:parent_id":102088933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.40578,
+    49.20375,
+    39.40578,
+    49.20375
+],
+  "geometry": {"coordinates":[39.40578,49.20375],"type":"Point"}
+}

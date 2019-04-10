@@ -1,0 +1,84 @@
+{
+  "id": 1343565719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08197,48.75388,38.08197,48.75388",
+    "geom:latitude":48.75388,
+    "geom:longitude":38.08197,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rozdolivka",
+    "gn:country_code":"UA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695735,
+    "gn:latitude":48.75388,
+    "gn:longitude":38.08197,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Rozdolivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u0434\u043e\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Razdolevka",
+        "Razdolovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695735
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d137d55b6540cff5bfbfa83c23ec4e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1343565719,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1343565719,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343565719,
+    "wof:lastmodified":1537710524,
+    "wof:name":"Rozdolivka",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08197,
+    48.75388,
+    38.08197,
+    48.75388
+],
+  "geometry": {"coordinates":[38.08197,48.75388],"type":"Point"}
+}

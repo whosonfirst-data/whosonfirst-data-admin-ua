@@ -1,0 +1,81 @@
+{
+  "id": 1243242503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.819,51.15979,29.819,51.15979",
+    "geom:latitude":51.15979,
+    "geom:longitude":29.819,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Romanivka",
+    "gn:country_code":"UA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698435,
+    "gn:latitude":51.15979,
+    "gn:longitude":29.819,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Romanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "Romanivka",
+        "\u0420\u043e\u043c\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rudnya",
+        "Ordzhonikidze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698435
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"453b74c8c34c3ede1f156c50eb5599a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088915,
+            "locality_id":1243242503,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1243242503,
+    "wof:lastmodified":1537710660,
+    "wof:name":"Romanivka",
+    "wof:parent_id":102088915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81900000000001,
+    51.15979,
+    29.81900000000001,
+    51.15979
+],
+  "geometry": {"coordinates":[29.81900000000001,51.15979],"type":"Point"}
+}

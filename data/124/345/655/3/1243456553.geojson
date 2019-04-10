@@ -1,0 +1,77 @@
+{
+  "id": 1243456553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44125,52.01996,31.44125,52.01996",
+    "geom:latitude":52.01996,
+    "geom:longitude":31.44125,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vahanychi",
+    "gn:country_code":"UA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690530,
+    "gn:latitude":52.01996,
+    "gn:longitude":31.44125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vahanychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vahanychi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0433\u0430\u043d\u0438\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Vaganychi",
+        "Vaganichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690530
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2b75bc044a20e0b1cfa7299680f963dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1243456553,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1243456553,
+    "wof:lastmodified":1537710283,
+    "wof:name":"Vahanychi",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44125,
+    52.01996,
+    31.44125,
+    52.01996
+],
+  "geometry": {"coordinates":[31.44125,52.01996],"type":"Point"}
+}

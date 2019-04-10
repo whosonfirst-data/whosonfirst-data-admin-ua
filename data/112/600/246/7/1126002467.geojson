@@ -1,0 +1,93 @@
+{
+  "id": 1126002467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.86688,49.44308,34.86688,49.44308",
+    "geom:latitude":49.44308,
+    "geom:longitude":34.86688,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3999,
+    "gn:population":3999,
+    "iso:country":"UA",
+    "lbl:latitude":49.44308,
+    "lbl:longitude":34.86688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mashivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mashevka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":701637,
+    "qs_pg:gn_pop":3999,
+    "qs_pg:name":"Mashivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128485,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701637,
+        "qs_pg:id":128485
+    },
+    "wof:country":"UA",
+    "wof:created":1497299735,
+    "wof:geomhash":"276e80e7dc7175c835b8de611c58982c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088733,
+            "locality_id":1126002467,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1126002467,
+    "wof:lastmodified":1509406228,
+    "wof:name":"Mashivka",
+    "wof:parent_id":102088733,
+    "wof:placetype":"locality",
+    "wof:population":3999,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.86688,
+    49.44308,
+    34.86688,
+    49.44308
+],
+  "geometry": {"coordinates":[34.86688,49.44308],"type":"Point"}
+}

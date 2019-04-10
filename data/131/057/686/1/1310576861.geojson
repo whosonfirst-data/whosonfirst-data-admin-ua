@@ -1,0 +1,73 @@
+{
+  "id": 1310576861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75816,49.75127,34.75816,49.75127",
+    "geom:latitude":49.75127,
+    "geom:longitude":34.75816,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Vasyl'tsi",
+    "gn:country_code":"UA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8699016,
+    "gn:latitude":49.75127,
+    "gn:longitude":34.75816,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Vasyl\u2019tsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vasyl\u2019tsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u0446\u0456"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        1108815691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8699016
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bd2d33eb7117929f2ba94c23baedbf34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815691,
+            "locality_id":1310576861,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1310576861,
+    "wof:lastmodified":1537711807,
+    "wof:name":"Vasyl'tsi",
+    "wof:parent_id":1108815691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75816,
+    49.75127,
+    34.75816,
+    49.75127
+],
+  "geometry": {"coordinates":[34.75816,49.75127],"type":"Point"}
+}

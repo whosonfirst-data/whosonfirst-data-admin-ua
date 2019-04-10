@@ -1,0 +1,76 @@
+{
+  "id": 1293375713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57916,50.05151,35.57916,50.05151",
+    "geom:latitude":50.05151,
+    "geom:longitude":35.57916,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pavlove",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697826,
+    "gn:latitude":50.05151,
+    "gn:longitude":35.57916,
+    "gn:modification_date":"2014-01-12",
+    "gn:name":"Pavlove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pavlove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pavlovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697826
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ad60f06bd2b4eb9605aa139c055c02eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088919,
+            "locality_id":1293375713,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1293375713,
+    "wof:lastmodified":1537710631,
+    "wof:name":"Pavlove",
+    "wof:parent_id":102088919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57915999999999,
+    50.05151,
+    35.57915999999999,
+    50.05151
+],
+  "geometry": {"coordinates":[35.57915999999999,50.05151],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101870017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.295586,50.456518,33.295586,50.456518",
+    "geom:latitude":50.456518,
+    "geom:longitude":33.295586,
+    "iso:country":"UA",
+    "lbl:latitude":50.456518,
+    "lbl:longitude":33.295586,
+    "mps:latitude":50.456518,
+    "mps:longitude":33.295586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0582\u056f\u0561"
+    ],
+    "name:bos_x_preferred":[
+        "Holija\u010dka Luka"
+    ],
+    "name:eng_x_preferred":[
+        "Luka"
+    ],
+    "name:fra_x_preferred":[
+        "Holija\u010dka Luka"
+    ],
+    "name:hbs_x_preferred":[
+        "Holija\u010dka Luka"
+    ],
+    "name:rum_x_preferred":[
+        "Luka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Luka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043b\u0438\u0458\u0430\u0447\u043a\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Luka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Poltavs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u043e\u0445\u0432\u0438\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Lokhvyts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0443\u043a\u0430",
+    "qs:loc_alt":"Luka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702648,
+        "gp:id":935570,
+        "wd:id":"Q4268658"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f6d5639b194b40c2068af4f47eb30020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088865,
+            "locality_id":101870017,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":101870017,
+    "wof:lastmodified":1553815559,
+    "wof:name":"\u041b\u0443\u043a\u0430",
+    "wof:parent_id":102088865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.295586,
+    50.456518,
+    33.295586,
+    50.456518
+],
+  "geometry": {"coordinates":[33.295586,50.456518],"type":"Point"}
+}

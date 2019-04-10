@@ -1,0 +1,77 @@
+{
+  "id": 1210018601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46427,51.72642,31.46427,51.72642",
+    "geom:latitude":51.72642,
+    "geom:longitude":31.46427,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kulykivka",
+    "gn:country_code":"UA",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703712,
+    "gn:latitude":51.72642,
+    "gn:longitude":31.46427,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kulykivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kulykivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u043b\u0438\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kulakovik",
+        "Kulikovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703712
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f7479eaed9e5091d36be79d1fd619afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1210018601,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1210018601,
+    "wof:lastmodified":1537710930,
+    "wof:name":"Kulykivka",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46427000000001,
+    51.72642000000001,
+    31.46427000000001,
+    51.72642000000001
+],
+  "geometry": {"coordinates":[31.46427000000001,51.72642000000001],"type":"Point"}
+}

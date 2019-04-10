@@ -1,0 +1,106 @@
+{
+  "id": 1125779255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55789,44.75888,34.55789,44.75888",
+    "geom:latitude":44.75888,
+    "geom:longitude":34.55789,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1251,
+    "gn:population":1313,
+    "iso:country":"UA",
+    "lbl:latitude":44.75888,
+    "lbl:longitude":34.55789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Malorechenskoye"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0443\u0447\u0443\u0301\u043a-\u0423\u0437\u0435\u0301\u043d\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0447\u0443\u0301\u043a-\u0423\u0437\u0435\u0301\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043b\u043e\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0440\u0456\u0447\u0435\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":702061,
+    "qs_pg:gn_pop":1251,
+    "qs_pg:name":"Malorichens\u2019ke",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128491,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738679,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702061,
+        "qs_pg:id":128491
+    },
+    "wof:country":"UA",
+    "wof:created":1497290396,
+    "wof:geomhash":"b26dbfd054f942813319258742e0689d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125779255,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "locality_id":1125779255,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125779255,
+    "wof:lastmodified":1530299613,
+    "wof:name":"Malorichens\u2019ke",
+    "wof:parent_id":1108738679,
+    "wof:placetype":"locality",
+    "wof:population":1313,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55789,
+    44.75888,
+    34.55789,
+    44.75888
+],
+  "geometry": {"coordinates":[34.55789,44.75888],"type":"Point"}
+}

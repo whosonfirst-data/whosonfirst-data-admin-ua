@@ -1,0 +1,83 @@
+{
+  "id": 1226047085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.83259,48.76425,37.83259,48.76425",
+    "geom:latitude":48.76425,
+    "geom:longitude":37.83259,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dibrova",
+    "gn:country_code":"UA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113801,
+    "gn:latitude":48.76425,
+    "gn:longitude":37.83259,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Dibrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dibrova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0456\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113801
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"61a0596fe607310cc0b9b5817fadc255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1226047085,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1226047085,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226047085,
+    "wof:lastmodified":1537711851,
+    "wof:name":"Dibrova",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.83259,
+    48.76425,
+    37.83259,
+    48.76425
+],
+  "geometry": {"coordinates":[37.83259,48.76425],"type":"Point"}
+}

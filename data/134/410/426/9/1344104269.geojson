@@ -1,0 +1,76 @@
+{
+  "id": 1344104269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.90813,49.8976,27.90813,49.8976",
+    "geom:latitude":49.8976,
+    "geom:longitude":27.90813,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kovalenky",
+    "gn:country_code":"UA",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704646,
+    "gn:latitude":49.8976,
+    "gn:longitude":27.90813,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kovalenky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kovalenky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0432\u0430\u043b\u0435\u043d\u043a\u0443"
+    ],
+    "name:und_x_variant":[
+        "Koval\u00ebnki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704646
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2350f9c73a0aae7508cd33ebeef880b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088531,
+            "locality_id":1344104269,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1344104269,
+    "wof:lastmodified":1537710976,
+    "wof:name":"Kovalenky",
+    "wof:parent_id":102088531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90813,
+    49.8976,
+    27.90813,
+    49.8976
+],
+  "geometry": {"coordinates":[27.90813,49.8976],"type":"Point"}
+}

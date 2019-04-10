@@ -1,0 +1,95 @@
+{
+  "id": 1326818417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18729,44.53409,34.18729,44.53409",
+    "geom:latitude":44.53409,
+    "geom:longitude":34.18729,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8449687",
+    "gn:asciiname":"Sovetskoye",
+    "gn:country_code":"UA",
+    "gn:dem":461,
+    "gn:elevation":"458.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693056,
+    "gn:latitude":44.53409,
+    "gn:longitude":34.18729,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Sovetskoye",
+    "gn:population":670,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sovetskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0432\u0454\u0442\u0441\u044c\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738659,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693056,
+        "wk:page":"Sovietske"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dcac632b02121b8115083dca8c939c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1326818417,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738659,
+            "disputed_id":1159339547,
+            "locality_id":1326818417,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1326818417,
+    "wof:lastmodified":1537710396,
+    "wof:name":"Sovetskoye",
+    "wof:parent_id":1108738659,
+    "wof:placetype":"locality",
+    "wof:population":670,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18729,
+    44.53409,
+    34.18729,
+    44.53409
+],
+  "geometry": {"coordinates":[34.18729,44.53409],"type":"Point"}
+}

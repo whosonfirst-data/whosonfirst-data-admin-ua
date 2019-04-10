@@ -1,0 +1,76 @@
+{
+  "id": 1242639267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79445,50.32757,25.79445,50.32757",
+    "geom:latitude":50.32757,
+    "geom:longitude":25.79445,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ploska",
+    "gn:country_code":"UA",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697073,
+    "gn:latitude":50.32757,
+    "gn:longitude":25.79445,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ploska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ploska"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043b\u043e\u0441\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ploskaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697073
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bd3756afd484524d9d5e1212612eb37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088585,
+            "locality_id":1242639267,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1242639267,
+    "wof:lastmodified":1537710591,
+    "wof:name":"Ploska",
+    "wof:parent_id":102088585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79445,
+    50.32757,
+    25.79445,
+    50.32757
+],
+  "geometry": {"coordinates":[25.79445,50.32757],"type":"Point"}
+}

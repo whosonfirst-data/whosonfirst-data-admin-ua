@@ -1,0 +1,77 @@
+{
+  "id": 1259776033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.05556,47.11139,38.05556,47.11139",
+    "geom:latitude":47.11139,
+    "geom:longitude":38.05556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yelanchik",
+    "gn:country_code":"UA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801844,
+    "gn:latitude":47.11139,
+    "gn:longitude":38.05556,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Yelanchik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801844
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0f33dccf76eb144d6e41b6a7e28b0240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1259776033,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":1259776033,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259776033,
+    "wof:lastmodified":1536934677,
+    "wof:name":"Yelanchik",
+    "wof:parent_id":102088405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.05556,
+    47.11139,
+    38.05556,
+    47.11139
+],
+  "geometry": {"coordinates":[38.05556,47.11139],"type":"Point"}
+}

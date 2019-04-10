@@ -1,0 +1,82 @@
+{
+  "id": 101862411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.614428,49.908681,25.614428,49.908681",
+    "geom:latitude":49.908681,
+    "geom:longitude":25.614428,
+    "iso:country":"UA",
+    "lbl:latitude":49.908681,
+    "lbl:longitude":25.614428,
+    "mps:latitude":49.908681,
+    "mps:longitude":25.614428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rydoml\u2019"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ternopil's'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kremenets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0438\u0434\u043e\u043c\u0438\u043b\u044c",
+    "qs:loc_alt":"Rydomyl",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695028,
+        "gp:id":937938,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0083688f962d21b6ca0b23d7b4cabe42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088483,
+            "locality_id":101862411,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":101862411,
+    "wof:lastmodified":1544746471,
+    "wof:name":"\u0420\u0438\u0434\u043e\u043c\u0438\u043b\u044c",
+    "wof:parent_id":102088483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.614428,
+    49.908681,
+    25.614428,
+    49.908681
+],
+  "geometry": {"coordinates":[25.614428,49.908681],"type":"Point"}
+}

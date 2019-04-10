@@ -1,0 +1,107 @@
+{
+  "id": 101858621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.242898,45.503505,34.242898,45.503505",
+    "geom:latitude":45.503505,
+    "geom:longitude":34.242898,
+    "iso:country":"UA",
+    "lbl:latitude":45.503505,
+    "lbl:longitude":34.242898,
+    "mps:latitude":45.503505,
+    "mps:longitude":34.242898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novoestoniya"
+    ],
+    "name:rus_x_historical":[
+        "\u041d\u043e\u0301\u0432\u0430\u044f \u042d\u0441\u0442\u043e\u0301\u043d\u0438\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0301\u0432\u0430\u044f \u042d\u0441\u0442\u043e\u0301\u043d\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0435\u0441\u0442\u043e\u043d\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Novaya Estoniya"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnohvardiis'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u0435\u0441\u0442\u043e\u043d\u0456\u044f",
+    "qs:loc_alt":"Novoestoniia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699862,
+        "gp:id":924087,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"217dfc381c259c4f534a6db6cd12bbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858621,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":101858621,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858621,
+    "wof:lastmodified":1544744498,
+    "wof:name":"\u041d\u043e\u0432\u043e\u0435\u0441\u0442\u043e\u043d\u0456\u044f",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.242898,
+    45.503505,
+    34.242898,
+    45.503505
+],
+  "geometry": {"coordinates":[34.242898,45.503505],"type":"Point"}
+}

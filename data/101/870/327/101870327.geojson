@@ -1,0 +1,94 @@
+{
+  "id": 101870327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.437778,50.611769,33.437778,50.611769",
+    "geom:latitude":50.611769,
+    "geom:longitude":33.437778,
+    "iso:country":"UA",
+    "lbl:latitude":50.611769,
+    "lbl:longitude":33.437778,
+    "mps:latitude":50.611769,
+    "mps:longitude":33.437778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Perekopovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u043a\u043e\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Perekopivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0440\u0435\u043a\u043e\u043f\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Perekopovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Sums'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u043c\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Romens'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0435\u0440\u0435\u043a\u043e\u043f\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Perekopivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697725,
+        "gp:id":12518404
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"721d5ea2652f04766b1555f8c50429f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815707,
+            "locality_id":101870327,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":101870327,
+    "wof:lastmodified":1544750635,
+    "wof:name":"\u041f\u0435\u0440\u0435\u043a\u043e\u043f\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108815707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.437778,
+    50.611769,
+    33.437778,
+    50.611769
+],
+  "geometry": {"coordinates":[33.437778,50.611769],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226293807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19485,50.56089,29.19485,50.56089",
+    "geom:latitude":50.56089,
+    "geom:longitude":29.19485,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Filonivka",
+    "gn:country_code":"UA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709136,
+    "gn:latitude":50.56089,
+    "gn:longitude":29.19485,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Filonivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Filonivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u0456\u043b\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Filonovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709136
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"212832955c46ea2874139d53c0cd3714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088751,
+            "locality_id":1226293807,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1226293807,
+    "wof:lastmodified":1537711194,
+    "wof:name":"Filonivka",
+    "wof:parent_id":102088751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19485,
+    50.56089,
+    29.19485,
+    50.56089
+],
+  "geometry": {"coordinates":[29.19485,50.56089],"type":"Point"}
+}

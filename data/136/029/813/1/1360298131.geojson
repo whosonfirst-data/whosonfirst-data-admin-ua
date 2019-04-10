@@ -1,0 +1,76 @@
+{
+  "id": 1360298131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36544,51.71243,32.36544,51.71243",
+    "geom:latitude":51.71243,
+    "geom:longitude":32.36544,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khovdiyivka",
+    "gn:country_code":"UA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198471,
+    "gn:latitude":51.71243,
+    "gn:longitude":32.36544,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Khovdiyivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Khovdiyivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043e\u0432\u0434\u0456\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khovdiyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198471
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ce99383e275f697dc539a711a8306ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089015,
+            "locality_id":1360298131,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1360298131,
+    "wof:lastmodified":1537711574,
+    "wof:name":"Khovdiyivka",
+    "wof:parent_id":102089015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36544,
+    51.71243,
+    32.36544,
+    51.71243
+],
+  "geometry": {"coordinates":[32.36544,51.71243],"type":"Point"}
+}

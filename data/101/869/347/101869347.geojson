@@ -1,0 +1,88 @@
+{
+  "id": 101869347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.406792,50.211975,28.406792,50.211975",
+    "geom:latitude":50.211975,
+    "geom:longitude":28.406792,
+    "gn:population":1164,
+    "iso:country":"UA",
+    "lbl:latitude":50.211975,
+    "lbl:longitude":28.406792,
+    "mps:latitude":50.211975,
+    "mps:longitude":28.406792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u044b\u0448\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0438\u0448\u0456"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zhytomyrs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Zhytomyrs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0435\u043d\u0438\u0448\u0456",
+    "qs:loc_alt":"Denyshi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280677,
+        "qs:id":671088
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7785046200384c4aa3f111773154cb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815629,
+            "locality_id":101869347,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":101869347,
+    "wof:lastmodified":1544750245,
+    "wof:name":"\u0414\u0435\u043d\u0438\u0448\u0456",
+    "wof:parent_id":1108815629,
+    "wof:placetype":"locality",
+    "wof:population":1164,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.406792,
+    50.211975,
+    28.406792,
+    50.211975
+],
+  "geometry": {"coordinates":[28.406792,50.211975],"type":"Point"}
+}

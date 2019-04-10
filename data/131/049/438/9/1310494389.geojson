@@ -1,0 +1,83 @@
+{
+  "id": 1310494389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62971,48.17843,37.62971,48.17843",
+    "geom:latitude":48.17843,
+    "geom:longitude":37.62971,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Semenivka",
+    "gn:country_code":"UA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112920,
+    "gn:latitude":48.17843,
+    "gn:longitude":37.62971,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Semenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Semenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112920
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"954b2302833c432e644c3fe07c03d9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1310494389,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815751,
+            "disputed_id":1159339531,
+            "locality_id":1310494389,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310494389,
+    "wof:lastmodified":1537711847,
+    "wof:name":"Semenivka",
+    "wof:parent_id":1108815751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62971,
+    48.17843,
+    37.62971,
+    48.17843
+],
+  "geometry": {"coordinates":[37.62971,48.17843],"type":"Point"}
+}

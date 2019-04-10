@@ -1,0 +1,87 @@
+{
+  "id": 1125900695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21657,48.81526,24.21657,48.81526",
+    "geom:latitude":48.81526,
+    "geom:longitude":24.21657,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3282,
+    "gn:population":3282,
+    "iso:country":"UA",
+    "lbl:latitude":48.81526,
+    "lbl:longitude":24.21657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0431\u0438\u043b\u0456\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0431\u0438\u043b\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Nebyluv"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":700391,
+    "qs_pg:gn_pop":3282,
+    "qs_pg:name":"Nebyliv",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028513,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700391,
+        "qs_pg:id":1028513
+    },
+    "wof:country":"UA",
+    "wof:created":1497295789,
+    "wof:geomhash":"28e5001f2e2a4067abe5d6bdfbda2e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088135,
+            "locality_id":1125900695,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125900695,
+    "wof:lastmodified":1509399383,
+    "wof:name":"Nebyliv",
+    "wof:parent_id":102088135,
+    "wof:placetype":"locality",
+    "wof:population":3282,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21657,
+    48.81526,
+    24.21657,
+    48.81526
+],
+  "geometry": {"coordinates":[24.21657,48.81526],"type":"Point"}
+}

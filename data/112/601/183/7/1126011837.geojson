@@ -1,0 +1,97 @@
+{
+  "id": 1126011837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53542,48.54244,32.53542,48.54244",
+    "geom:latitude":48.54244,
+    "geom:longitude":32.53542,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3859,
+    "gn:population":3859,
+    "iso:country":"UA",
+    "lbl:latitude":48.54244,
+    "lbl:longitude":32.53542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Adzhamka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0436\u0430\u043c\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0436\u0430\u043c\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":713784,
+    "qs_pg:gn_pop":3859,
+    "qs_pg:name":"Adzhamka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Kirovohrads\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128864,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":915433,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Kirovohrads\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713784,
+        "gp:id":915433,
+        "qs_pg:id":128864
+    },
+    "wof:country":"UA",
+    "wof:created":1497300319,
+    "wof:geomhash":"12cb023ccdff0fa4701f65733d719ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815667,
+            "locality_id":1126011837,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1126011837,
+    "wof:lastmodified":1509406723,
+    "wof:name":"Adzhamka",
+    "wof:parent_id":1108815667,
+    "wof:placetype":"locality",
+    "wof:population":3859,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53542,
+    48.54244,
+    32.53542,
+    48.54244
+],
+  "geometry": {"coordinates":[32.53542,48.54244],"type":"Point"}
+}

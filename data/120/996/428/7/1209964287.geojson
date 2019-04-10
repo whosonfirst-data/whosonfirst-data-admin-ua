@@ -1,0 +1,83 @@
+{
+  "id": 1209964287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2305,46.65671,36.2305,46.65671",
+    "geom:latitude":46.65671,
+    "geom:longitude":36.2305,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"696287",
+    "gn:admin3_code":"11875693.0",
+    "gn:asciiname":"Naberezhne",
+    "gn:country_code":"UA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801902,
+    "gn:latitude":46.65671,
+    "gn:longitude":36.2305,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Naberezhne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naberezhne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vol\u2019nyy",
+        "Naberezhnoye",
+        "Naberezhne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801902
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cda5bbc4a4b91ab5c9a2bf7ec142d91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088235,
+            "locality_id":1209964287,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1209964287,
+    "wof:lastmodified":1537711425,
+    "wof:name":"Naberezhne",
+    "wof:parent_id":102088235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2305,
+    46.65671,
+    36.2305,
+    46.65671
+],
+  "geometry": {"coordinates":[36.2305,46.65671],"type":"Point"}
+}

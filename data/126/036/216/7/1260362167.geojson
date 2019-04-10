@@ -1,0 +1,80 @@
+{
+  "id": 1260362167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4741,49.52997,23.4741,49.52997",
+    "geom:latitude":49.52997,
+    "geom:longitude":23.4741,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Velyka Bilyna",
+    "gn:country_code":"UA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690282,
+    "gn:latitude":49.52997,
+    "gn:longitude":23.4741,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Velyka Bilyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u0411\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0456\u043b\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shaya Belina",
+        "Bilina Vel\u2019ka",
+        "Velyka Bilyna",
+        "Bilina Velikaya",
+        "Velikaya Belina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        1108815683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690282
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"607f31020e86bb701cd4862a886f41e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815683,
+            "locality_id":1260362167,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1260362167,
+    "wof:lastmodified":1537710271,
+    "wof:name":"Velyka Bilyna",
+    "wof:parent_id":1108815683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4741,
+    49.52997,
+    23.4741,
+    49.52997
+],
+  "geometry": {"coordinates":[23.4741,49.52997],"type":"Point"}
+}

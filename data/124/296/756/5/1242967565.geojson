@@ -1,0 +1,76 @@
+{
+  "id": 1242967565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44859,50.21692,35.44859,50.21692",
+    "geom:latitude":50.21692,
+    "geom:longitude":35.44859,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Horbanivka",
+    "gn:country_code":"UA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708462,
+    "gn:latitude":50.21692,
+    "gn:longitude":35.44859,
+    "gn:modification_date":"2013-11-09",
+    "gn:name":"Horbanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Horbanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u0440\u0431\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gorbanevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708462
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4b57ee96636ddb135b103ea7517aec60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088919,
+            "locality_id":1242967565,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1242967565,
+    "wof:lastmodified":1537711162,
+    "wof:name":"Horbanivka",
+    "wof:parent_id":102088919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44859,
+    50.21692,
+    35.44859,
+    50.21692
+],
+  "geometry": {"coordinates":[35.44859,50.21692],"type":"Point"}
+}

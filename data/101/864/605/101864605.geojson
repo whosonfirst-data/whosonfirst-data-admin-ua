@@ -1,0 +1,88 @@
+{
+  "id": 101864605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.292812,51.39275,28.292812,51.39275",
+    "geom:latitude":51.39275,
+    "geom:longitude":28.292812,
+    "iso:country":"UA",
+    "lbl:latitude":51.39275,
+    "lbl:longitude":28.292812,
+    "mps:latitude":51.39275,
+    "mps:longitude":28.292812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Begun\u2019"
+    ],
+    "name:ukr_x_preferred":[
+        "Bihun\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u0433\u0443\u043d\u044c"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zhytomyrs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041e\u0432\u0440\u0443\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Ovruts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0456\u0433\u0443\u043d\u044c",
+    "qs:loc_alt":"Bihun",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712691,
+        "gp:id":934290,
+        "qs:id":4
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c63c6e5e22dded209043f6ffe9ac967f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":101864605,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":101864605,
+    "wof:lastmodified":1544747612,
+    "wof:name":"\u0411\u0456\u0433\u0443\u043d\u044c",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.292812,
+    51.39275,
+    28.292812,
+    51.39275
+],
+  "geometry": {"coordinates":[28.292812,51.39275],"type":"Point"}
+}

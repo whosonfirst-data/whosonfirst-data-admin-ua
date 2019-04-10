@@ -1,0 +1,88 @@
+{
+  "id": 101864525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.625569,51.516346,27.625569,51.516346",
+    "geom:latitude":51.516346,
+    "geom:longitude":27.625569,
+    "iso:country":"UA",
+    "lbl:latitude":51.516346,
+    "lbl:longitude":27.625569,
+    "mps:latitude":51.516346,
+    "mps:longitude":27.625569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kam\u201dyane"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043c\u2019\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Voytkovichi"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u043a\u0438\u0442\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rokytnivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u043c'\u044f\u043d\u0435",
+    "qs:loc_alt":"Kamiane",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706998,
+        "gp:id":828404,
+        "qs:id":4
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e7fd344f091001ea2177f5c725a64c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088879,
+            "locality_id":101864525,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101864525,
+    "wof:lastmodified":1544747572,
+    "wof:name":"\u041a\u0430\u043c'\u044f\u043d\u0435",
+    "wof:parent_id":102088879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.625569,
+    51.516346,
+    27.625569,
+    51.516346
+],
+  "geometry": {"coordinates":[27.625569,51.516346],"type":"Point"}
+}

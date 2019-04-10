@@ -1,0 +1,95 @@
+{
+  "id": 1276206755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39419,45.82796,34.39419,45.82796",
+    "geom:latitude":45.82796,
+    "geom:longitude":34.39419,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152855.0",
+    "gn:asciiname":"Subbotnik",
+    "gn:country_code":"UA",
+    "gn:dem":6,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705081,
+    "gn:latitude":45.82796,
+    "gn:longitude":34.39419,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Subbotnik",
+    "gn:population":361,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Subbotnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0431\u0431\u043e\u0442\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0431\u043e\u0442\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705081
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2d8fa0fd061c56074b5bdd40920cca87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1276206755,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1276206755,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1276206755,
+    "wof:lastmodified":1537710994,
+    "wof:name":"Subbotnik",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":361,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39419,
+    45.82796,
+    34.39419,
+    45.82796
+],
+  "geometry": {"coordinates":[34.39419,45.82796],"type":"Point"}
+}

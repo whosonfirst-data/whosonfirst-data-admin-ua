@@ -1,0 +1,101 @@
+{
+  "id": 1259771495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91115,44.57429,33.91115,44.57429",
+    "geom:latitude":44.57429,
+    "geom:longitude":33.91115,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712968",
+    "gn:admin3_code":"11152806.0",
+    "gn:asciiname":"Novopolye",
+    "gn:country_code":"UA",
+    "gn:dem":230,
+    "gn:elevation":"234.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699318,
+    "gn:latitude":44.57429,
+    "gn:longitude":33.91115,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Novopolye",
+    "gn:population":313,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novopolye"
+    ],
+    "name:rus_x_historical":[
+        "\u042f\u043d\u0438\u0301-\u0421\u0430\u043b\u0430\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u042f\u043d\u0438\u0301-\u0421\u0430\u043b\u0430\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u0456\u043b\u043b\u044f"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699318
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"917fb819872feb532a35c8a949da2f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1259771495,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1259771495,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1259771495,
+    "wof:lastmodified":1537710710,
+    "wof:name":"Novopolye",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":313,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91115,
+    44.57429000000001,
+    33.91115,
+    44.57429000000001
+],
+  "geometry": {"coordinates":[33.91115,44.57429000000001],"type":"Point"}
+}

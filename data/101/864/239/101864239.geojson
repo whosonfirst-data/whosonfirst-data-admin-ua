@@ -1,0 +1,88 @@
+{
+  "id": 101864239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.802382,51.240629,24.802382,51.240629",
+    "geom:latitude":51.240629,
+    "geom:longitude":24.802382,
+    "iso:country":"UA",
+    "lbl:latitude":51.240629,
+    "lbl:longitude":24.802382,
+    "mps:latitude":51.240629,
+    "mps:longitude":24.802382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bilyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Belin"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Volyns'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0432\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kovel's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0456\u043b\u0438\u043d",
+    "qs:loc_alt":"Bilyn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712620,
+        "gp:id":923866,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c5b6457da8617b0db371e91f42a46e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088743,
+            "locality_id":101864239,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":101864239,
+    "wof:lastmodified":1544747424,
+    "wof:name":"\u0411\u0456\u043b\u0438\u043d",
+    "wof:parent_id":102088743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.802382,
+    51.240629,
+    24.802382,
+    51.240629
+],
+  "geometry": {"coordinates":[24.802382,51.240629],"type":"Point"}
+}

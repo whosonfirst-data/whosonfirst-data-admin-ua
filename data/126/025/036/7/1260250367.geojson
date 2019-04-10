@@ -1,0 +1,75 @@
+{
+  "id": 1260250367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95185,50.82746,24.95185,50.82746",
+    "geom:latitude":50.82746,
+    "geom:longitude":24.95185,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Khorokhoryn",
+    "gn:country_code":"UA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706290,
+    "gn:latitude":50.82746,
+    "gn:longitude":24.95185,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Khorokhoryn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0445\u043e\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chorochoryn",
+        "Khorokhoryn",
+        "Khorokhorin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706290
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a6cb4db66db1d55d32ed8b0161f2ff39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088627,
+            "locality_id":1260250367,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1260250367,
+    "wof:lastmodified":1537711058,
+    "wof:name":"Khorokhoryn",
+    "wof:parent_id":102088627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95185,
+    50.82746,
+    24.95185,
+    50.82746
+],
+  "geometry": {"coordinates":[24.95185,50.82746],"type":"Point"}
+}

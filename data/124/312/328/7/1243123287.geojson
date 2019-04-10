@@ -1,0 +1,76 @@
+{
+  "id": 1243123287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03616,50.57257,29.03616,50.57257",
+    "geom:latitude":50.57257,
+    "geom:longitude":29.03616,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Teklyanivka",
+    "gn:country_code":"UA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":691756,
+    "gn:latitude":50.57257,
+    "gn:longitude":29.03616,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Teklyanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Teklyanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0435\u043a\u043b\u044f\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Teklyanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691756
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"238611fda0da6cbce27df590d29180aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088751,
+            "locality_id":1243123287,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243123287,
+    "wof:lastmodified":1537710337,
+    "wof:name":"Teklyanivka",
+    "wof:parent_id":102088751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03616,
+    50.57257,
+    29.03616,
+    50.57257
+],
+  "geometry": {"coordinates":[29.03616,50.57257],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125779203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59274,48.16579,30.59274,48.16579",
+    "geom:latitude":48.16579,
+    "geom:longitude":30.59274,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5716,
+    "gn:population":5716,
+    "iso:country":"UA",
+    "lbl:latitude":48.16579,
+    "lbl:longitude":30.59274,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Pobugskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0443\u0433\u0441\u043a\u043e\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697018,
+    "qs_pg:gn_pop":5716,
+    "qs_pg:name":"Pobugskoye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128357,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697018,
+        "qs_pg:id":128357
+    },
+    "wof:country":"UA",
+    "wof:created":1497290394,
+    "wof:geomhash":"02b1f62e5e5ce94d5b5b97fa888dfc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088275,
+            "locality_id":1125779203,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1125779203,
+    "wof:lastmodified":1509391450,
+    "wof:name":"Pobugskoye",
+    "wof:parent_id":102088275,
+    "wof:placetype":"locality",
+    "wof:population":5716,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59274,
+    48.16579,
+    30.59274,
+    48.16579
+],
+  "geometry": {"coordinates":[30.59274,48.16579],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276278001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94545,50.95457,27.94545,50.95457",
+    "geom:latitude":50.95457,
+    "geom:longitude":27.94545,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"L'onivka",
+    "gn:country_code":"UA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376262,
+    "gn:latitude":50.95457,
+    "gn:longitude":27.94545,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"L\u2019onivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "L\u2019onivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u044c\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lenevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376262
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"11699229fa2a4d072a642f21582f1f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1276278001,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1276278001,
+    "wof:lastmodified":1537711621,
+    "wof:name":"L'onivka",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94545,
+    50.95457,
+    27.94545,
+    50.95457
+],
+  "geometry": {"coordinates":[27.94545,50.95457],"type":"Point"}
+}

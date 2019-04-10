@@ -1,0 +1,76 @@
+{
+  "id": 1310709571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42371,51.74969,31.42371,51.74969",
+    "geom:latitude":51.74969,
+    "geom:longitude":31.42371,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Topolivka",
+    "gn:country_code":"UA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8186127,
+    "gn:latitude":51.74969,
+    "gn:longitude":31.42371,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Topolivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Topolivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043f\u043e\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Topolevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8186127
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"12a123bf919e8080bae0d75cc4362eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1310709571,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1310709571,
+    "wof:lastmodified":1537711570,
+    "wof:name":"Topolivka",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42371,
+    51.74969,
+    31.42371,
+    51.74969
+],
+  "geometry": {"coordinates":[31.42371,51.74969],"type":"Point"}
+}

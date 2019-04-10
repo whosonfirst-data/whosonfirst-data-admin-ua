@@ -1,0 +1,76 @@
+{
+  "id": 1343523395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19315,50.66287,27.19315,50.66287",
+    "geom:latitude":50.66287,
+    "geom:longitude":27.19315,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Morozivka",
+    "gn:country_code":"UA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700757,
+    "gn:latitude":50.66287,
+    "gn:longitude":27.19315,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Morozivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Morozivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0440\u043e\u0437\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Morozovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700757
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7d07bf6ba973e171648e8f6c713d3ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088689,
+            "locality_id":1343523395,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1343523395,
+    "wof:lastmodified":1537710790,
+    "wof:name":"Morozivka",
+    "wof:parent_id":102088689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19315,
+    50.66287,
+    27.19315,
+    50.66287
+],
+  "geometry": {"coordinates":[27.19315,50.66287],"type":"Point"}
+}

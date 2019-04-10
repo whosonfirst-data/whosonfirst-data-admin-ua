@@ -1,0 +1,76 @@
+{
+  "id": 1310118601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31153,51.95003,33.31153,51.95003",
+    "geom:latitude":51.95003,
+    "geom:longitude":33.31153,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Arapovychi",
+    "gn:country_code":"UA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713233,
+    "gn:latitude":51.95003,
+    "gn:longitude":33.31153,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Arapovychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Arapovychi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u0440\u0430\u043f\u043e\u0432\u0438\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Arapovichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713233
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d02f57a5f987f40fd39c6e0a3fb2d133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089027,
+            "locality_id":1310118601,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1310118601,
+    "wof:lastmodified":1537711393,
+    "wof:name":"Arapovychi",
+    "wof:parent_id":102089027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31153,
+    51.95003,
+    33.31153,
+    51.95003
+],
+  "geometry": {"coordinates":[33.31153,51.95003],"type":"Point"}
+}

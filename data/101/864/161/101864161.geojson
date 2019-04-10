@@ -1,0 +1,85 @@
+{
+  "id": 101864161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.176248,50.968552,25.176248,50.968552",
+    "geom:latitude":50.968552,
+    "geom:longitude":25.176248,
+    "iso:country":"UA",
+    "lbl:latitude":50.968552,
+    "lbl:longitude":25.176248,
+    "mps:latitude":50.968552,
+    "mps:longitude":25.176248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Perespa"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0440\u0435\u0441\u043f\u0430"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Volyns'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u0436\u0438\u0449\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rozhyschens'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0435\u0440\u0435\u0441\u043f\u0430",
+    "qs:loc_alt":"Perespa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697662,
+        "gp:id":932572,
+        "qs:id":9
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f3becdebc118505b58bd5002a8d4bfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088697,
+            "locality_id":101864161,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":101864161,
+    "wof:lastmodified":1544747383,
+    "wof:name":"\u041f\u0435\u0440\u0435\u0441\u043f\u0430",
+    "wof:parent_id":102088697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.176248,
+    50.968552,
+    25.176248,
+    50.968552
+],
+  "geometry": {"coordinates":[25.176248,50.968552],"type":"Point"}
+}

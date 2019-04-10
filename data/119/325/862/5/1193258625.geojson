@@ -1,0 +1,95 @@
+{
+  "id": 1193258625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79662,45.71047,34.79662,45.71047",
+    "geom:latitude":45.71047,
+    "geom:longitude":34.79662,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152861",
+    "gn:asciiname":"Stefanovka",
+    "gn:country_code":"UA",
+    "gn:dem":7,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692626,
+    "gn:latitude":45.71047,
+    "gn:longitude":34.79662,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Stefanovka",
+    "gn:population":384,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stefanovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692626
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"04ce31c7fcebc29ccaf379bcc74fa31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1193258625,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1193258625,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1193258625,
+    "wof:lastmodified":1537710376,
+    "wof:name":"Stefanovka",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79662,
+    45.71047,
+    34.79662,
+    45.71047
+],
+  "geometry": {"coordinates":[34.79662,45.71047],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 101860987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.306388,48.99669,24.306388,48.99669",
+    "geom:latitude":48.99669,
+    "geom:longitude":24.306388,
+    "iso:country":"UA",
+    "lbl:latitude":48.99669,
+    "lbl:longitude":24.306388,
+    "mps:latitude":48.99669,
+    "mps:longitude":24.306388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0439\u043b\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Puylo"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0430\u043b\u0443\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kalus'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0456\u0439\u043b\u043e",
+    "qs:loc_alt":"Piilo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697132,
+        "gp:id":921592
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e86187a35e4a00a30c302aef980076f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088203,
+            "locality_id":101860987,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101860987,
+    "wof:lastmodified":1544745727,
+    "wof:name":"\u041f\u0456\u0439\u043b\u043e",
+    "wof:parent_id":102088203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.306388,
+    48.99669,
+    24.306388,
+    48.99669
+],
+  "geometry": {"coordinates":[24.306388,48.99669],"type":"Point"}
+}

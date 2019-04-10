@@ -1,0 +1,76 @@
+{
+  "id": 1343813559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26064,50.86472,25.26064,50.86472",
+    "geom:latitude":50.86472,
+    "geom:longitude":25.26064,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Pidlisky",
+    "gn:country_code":"UA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341754,
+    "gn:latitude":50.86472,
+    "gn:longitude":25.26064,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Pidlisky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pidlisky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0456\u0434\u043b\u0456\u0441\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Podleski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341754
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4a35b7b5217b983631a3425fa94bb786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088697,
+            "locality_id":1343813559,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1343813559,
+    "wof:lastmodified":1537711614,
+    "wof:name":"Pidlisky",
+    "wof:parent_id":102088697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26064,
+    50.86472,
+    25.26064,
+    50.86472
+],
+  "geometry": {"coordinates":[25.26064,50.86472],"type":"Point"}
+}

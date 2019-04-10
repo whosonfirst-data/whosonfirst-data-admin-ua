@@ -1,0 +1,76 @@
+{
+  "id": 1243184993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58193,51.00539,31.58193,51.00539",
+    "geom:latitude":51.00539,
+    "geom:longitude":31.58193,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Debreve",
+    "gn:country_code":"UA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8401389,
+    "gn:latitude":51.00539,
+    "gn:longitude":31.58193,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Debreve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Debreve"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0435\u0431\u0440\u0435\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Debrevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8401389
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"87797cb306b88a312c7a79121c20dbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088913,
+            "locality_id":1243184993,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1243184993,
+    "wof:lastmodified":1537711643,
+    "wof:name":"Debreve",
+    "wof:parent_id":102088913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58193,
+    51.00539000000001,
+    31.58193,
+    51.00539000000001
+],
+  "geometry": {"coordinates":[31.58193,51.00539000000001],"type":"Point"}
+}

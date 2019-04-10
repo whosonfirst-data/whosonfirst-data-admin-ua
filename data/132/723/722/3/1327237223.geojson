@@ -1,0 +1,75 @@
+{
+  "id": 1327237223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92867,48.90081,35.92867,48.90081",
+    "geom:latitude":48.90081,
+    "geom:longitude":35.92867,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Alekseyevka",
+    "gn:country_code":"UA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713556,
+    "gn:latitude":48.90081,
+    "gn:longitude":35.92867,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Alekseyevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Alekseyevskaya",
+        "Alekseyevka",
+        "Alekceyevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713556
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9a27908307ed3689d3bc4712ab77ed17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088655,
+            "locality_id":1327237223,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1327237223,
+    "wof:lastmodified":1537711410,
+    "wof:name":"Alekseyevka",
+    "wof:parent_id":102088655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92867000000001,
+    48.90081,
+    35.92867000000001,
+    48.90081
+],
+  "geometry": {"coordinates":[35.92867000000001,48.90081],"type":"Point"}
+}

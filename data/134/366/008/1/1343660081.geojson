@@ -1,0 +1,88 @@
+{
+  "id": 1343660081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.05886,48.01599,38.05886,48.01599",
+    "geom:latitude":48.01599,
+    "geom:longitude":38.05886,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vuhlyar",
+    "gn:country_code":"UA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688828,
+    "gn:latitude":48.01599,
+    "gn:longitude":38.05886,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vuhlyar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vuhlyar"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0443\u0433\u043b\u044f\u0440"
+    ],
+    "name:und_x_variant":[
+        "Ugol\u2019shchik",
+        "Vuglyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730723,
+        1175613751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688828
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ad5b1b95609eb02d7e0d487d8b43eed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730723,
+            "disputed_id":1159339531,
+            "locality_id":1343660081,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730723,
+            "disputed_id":1159339531,
+            "locality_id":1343660081,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343660081,
+    "wof:lastmodified":1537710186,
+    "wof:name":"Vuhlyar",
+    "wof:parent_id":1175613751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.05886,
+    48.01599,
+    38.05886,
+    48.01599
+],
+  "geometry": {"coordinates":[38.05886,48.01599],"type":"Point"}
+}

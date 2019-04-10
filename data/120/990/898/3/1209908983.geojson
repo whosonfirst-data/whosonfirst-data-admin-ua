@@ -1,0 +1,85 @@
+{
+  "id": 1209908983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.14345,47.46137,38.14345,47.46137",
+    "geom:latitude":47.46137,
+    "geom:longitude":38.14345,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cherevkivs'ke",
+    "gn:country_code":"UA",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710805,
+    "gn:latitude":47.46137,
+    "gn:longitude":38.14345,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Cherevkivs\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0432\u043a\u0456\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Cherevkivs\u2019ke",
+        "Cherevkovskiy",
+        "Cherevkovkoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710805
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0a36dbc8fcad7a2bf5fab19e5b1981d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1209908983,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1209908983,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1209908983,
+    "wof:lastmodified":1537711274,
+    "wof:name":"Cherevkivs'ke",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.14345,
+    47.46137,
+    38.14345,
+    47.46137
+],
+  "geometry": {"coordinates":[38.14345,47.46137],"type":"Point"}
+}

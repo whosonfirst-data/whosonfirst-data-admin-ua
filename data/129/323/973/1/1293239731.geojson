@@ -1,0 +1,76 @@
+{
+  "id": 1293239731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.00638,51.40081,29.00638,51.40081",
+    "geom:latitude":51.40081,
+    "geom:longitude":29.00638,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kolesnyky",
+    "gn:country_code":"UA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388502,
+    "gn:latitude":51.40081,
+    "gn:longitude":29.00638,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kolesnyky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kolesnyky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043b\u0435\u0441\u043d\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kolesniki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388502
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c8519eb6039e297928bc5fdd57d50cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":1293239731,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1293239731,
+    "wof:lastmodified":1537711629,
+    "wof:name":"Kolesnyky",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00638,
+    51.40081,
+    29.00638,
+    51.40081
+],
+  "geometry": {"coordinates":[29.00638,51.40081],"type":"Point"}
+}

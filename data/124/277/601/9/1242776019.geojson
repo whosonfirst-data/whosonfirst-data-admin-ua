@@ -1,0 +1,77 @@
+{
+  "id": 1242776019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13833,47.63889,38.13833,47.63889",
+    "geom:latitude":47.63889,
+    "geom:longitude":38.13833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zhuki",
+    "gn:country_code":"UA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687046,
+    "gn:latitude":47.63889,
+    "gn:longitude":38.13833,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zhuki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687046
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"af09f0d102b8a743ed588de3d3c61f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1242776019,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1242776019,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1242776019,
+    "wof:lastmodified":1536778412,
+    "wof:name":"Zhuki",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13833,
+    47.63889,
+    38.13833,
+    47.63889
+],
+  "geometry": {"coordinates":[38.13833,47.63889],"type":"Point"}
+}

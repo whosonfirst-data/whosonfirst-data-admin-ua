@@ -1,0 +1,76 @@
+{
+  "id": 1343227693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.33414,49.6193,33.33414,49.6193",
+    "geom:latitude":49.6193,
+    "geom:longitude":33.33414,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bakumivka",
+    "gn:country_code":"UA",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712941,
+    "gn:latitude":49.6193,
+    "gn:longitude":33.33414,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Bakumivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bakumivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u043a\u0443\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bakumovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102089019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712941
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"96af8cc95fe8598dc3ab74887f0c3d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089019,
+            "locality_id":1343227693,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1343227693,
+    "wof:lastmodified":1537711382,
+    "wof:name":"Bakumivka",
+    "wof:parent_id":102089019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33414,
+    49.6193,
+    33.33414,
+    49.6193
+],
+  "geometry": {"coordinates":[33.33414,49.6193],"type":"Point"}
+}

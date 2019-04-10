@@ -1,0 +1,89 @@
+{
+  "id": 1293280399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3557,46.01685,34.3557,46.01685",
+    "geom:latitude":46.01685,
+    "geom:longitude":34.3557,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nayman",
+    "gn:country_code":"UA",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":712105,
+    "gn:latitude":46.01685,
+    "gn:longitude":34.3557,
+    "gn:modification_date":"2017-03-28",
+    "gn:name":"Nayman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:crh_x_historical":[
+        "Najman"
+    ],
+    "name:crh_x_preferred":[
+        "Najman"
+    ],
+    "name:und_x_variant":[
+        "Biyuk-Nayman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712105
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0605e04c2c88bdf5f7c26718470daa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1293280399,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1293280399,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1293280399,
+    "wof:lastmodified":1537711343,
+    "wof:name":"Nayman",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3557,
+    46.01685,
+    34.3557,
+    46.01685
+],
+  "geometry": {"coordinates":[34.3557,46.01685],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1259867665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6841,45.64299,34.6841,45.64299",
+    "geom:latitude":45.64299,
+    "geom:longitude":34.6841,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"709333",
+    "gn:admin3_code":"11152861.0",
+    "gn:asciiname":"Borodino",
+    "gn:country_code":"UA",
+    "gn:dem":10,
+    "gn:elevation":"7.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020287,
+    "gn:latitude":45.64299,
+    "gn:longitude":34.6841,
+    "gn:modification_date":"2016-06-09",
+    "gn:name":"Borodino",
+    "gn:population":568,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borodino"
+    ],
+    "name:rus_x_historical":[
+        "\u041c\u0438\u0445\u0430\u0301\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0445\u0430\u0301\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0434\u0456\u043d\u043e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020287
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ddce59278c3e36257183fae3f2616e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1259867665,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":1259867665,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1259867665,
+    "wof:lastmodified":1537711528,
+    "wof:name":"Borodino",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:population":568,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6841,
+    45.64299000000001,
+    34.6841,
+    45.64299000000001
+],
+  "geometry": {"coordinates":[34.6841,45.64299000000001],"type":"Point"}
+}

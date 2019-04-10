@@ -1,0 +1,76 @@
+{
+  "id": 1343861675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3911,48.79307,30.3911,48.79307",
+    "geom:latitude":48.79307,
+    "geom:longitude":30.3911,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tanske",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497093,
+    "gn:latitude":48.79307,
+    "gn:longitude":30.3911,
+    "gn:modification_date":"2017-03-30",
+    "gn:name":"Tanske",
+    "gn:population":980,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043d\u0441\u044c\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497093
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b56e22b79e881edce5b34a884e05f53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088345,
+            "locality_id":1343861675,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1343861675,
+    "wof:lastmodified":1537712046,
+    "wof:name":"Tanske",
+    "wof:parent_id":102088345,
+    "wof:placetype":"locality",
+    "wof:population":980,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3911,
+    48.79307,
+    30.3911,
+    48.79307
+],
+  "geometry": {"coordinates":[30.3911,48.79307],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125820145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38395,48.83969,25.38395,48.83969",
+    "geom:latitude":48.83969,
+    "geom:longitude":25.38395,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"UA",
+    "lbl:latitude":48.83969,
+    "lbl:longitude":25.38395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kopachynitse"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":705056,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kopychintsy",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Ternopil\u00b4s\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167789,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":923502,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Ternopil\u00b4s\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705056,
+        "gp:id":923502,
+        "qs_pg:id":1167789
+    },
+    "wof:country":"UA",
+    "wof:created":1497292009,
+    "wof:geomhash":"0e4e87f67b6014f3615bc0813e3aa531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088137,
+            "locality_id":1125820145,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125820145,
+    "wof:lastmodified":1509394039,
+    "wof:name":"Kopychintsy",
+    "wof:parent_id":102088137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38395,
+    48.83969,
+    25.38395,
+    48.83969
+],
+  "geometry": {"coordinates":[25.38395,48.83969],"type":"Point"}
+}

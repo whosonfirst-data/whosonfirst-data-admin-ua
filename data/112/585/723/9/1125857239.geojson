@@ -1,0 +1,90 @@
+{
+  "id": 1125857239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73794,48.64331,25.73794,48.64331",
+    "geom:latitude":48.64331,
+    "geom:longitude":25.73794,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9749,
+    "gn:population":9749,
+    "iso:country":"UA",
+    "lbl:latitude":48.64331,
+    "lbl:longitude":25.73794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:pol_x_preferred":[
+        "Zaleszczyki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0456\u0449\u0438\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043b\u0456\u0449\u0438\u043a\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Zalishchiki"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":687826,
+    "qs_pg:gn_pop":9749,
+    "qs_pg:name":"Zalishchyky",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275405,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687826,
+        "qs_pg:id":275405
+    },
+    "wof:country":"UA",
+    "wof:created":1497293670,
+    "wof:geomhash":"afa9ec655f6b0487484db2134e3e1ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088159,
+            "locality_id":1125857239,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":1125857239,
+    "wof:lastmodified":1509396306,
+    "wof:name":"Zalishchyky",
+    "wof:parent_id":102088159,
+    "wof:placetype":"locality",
+    "wof:population":9749,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73794,
+    48.64331,
+    25.73794,
+    48.64331
+],
+  "geometry": {"coordinates":[25.73794,48.64331],"type":"Point"}
+}

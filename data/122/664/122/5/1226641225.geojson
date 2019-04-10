@@ -1,0 +1,84 @@
+{
+  "id": 1226641225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46072,48.62951,31.46072,48.62951",
+    "geom:latitude":48.62951,
+    "geom:longitude":31.46072,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Myrolyubivka",
+    "gn:country_code":"UA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705820,
+    "gn:latitude":48.62951,
+    "gn:longitude":31.46072,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Myrolyubivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kirovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Myrolyubivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u0456\u0432\u043a\u0430",
+        "Kirovka",
+        "\u041a\u0456\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705820
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b303c5e9ee9895c02eeb46f8124c6431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088367,
+            "locality_id":1226641225,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1226641225,
+    "wof:lastmodified":1537711031,
+    "wof:name":"Myrolyubivka",
+    "wof:parent_id":102088367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46072,
+    48.62951,
+    31.46072,
+    48.62951
+],
+  "geometry": {"coordinates":[31.46072,48.62951],"type":"Point"}
+}

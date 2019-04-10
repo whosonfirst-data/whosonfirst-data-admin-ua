@@ -1,0 +1,89 @@
+{
+  "id": 1243447127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69686,47.75443,38.69686,47.75443",
+    "geom:latitude":47.75443,
+    "geom:longitude":38.69686,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalynove",
+    "gn:country_code":"UA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707187,
+    "gn:latitude":47.75443,
+    "gn:longitude":38.69686,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Kalynove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kalinovo",
+        "Kalinova",
+        "Kalynove",
+        "Kalinovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707187
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5e16066064504019c515dd5cca21bf75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1243447127,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":1243447127,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243447127,
+    "wof:lastmodified":1537711096,
+    "wof:name":"Kalynove",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69686,
+    47.75443,
+    38.69686,
+    47.75443
+],
+  "geometry": {"coordinates":[38.69686,47.75443],"type":"Point"}
+}

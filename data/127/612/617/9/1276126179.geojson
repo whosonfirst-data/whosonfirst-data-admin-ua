@@ -1,0 +1,76 @@
+{
+  "id": 1276126179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93659,51.40248,32.93659,51.40248",
+    "geom:latitude":51.40248,
+    "geom:longitude":32.93659,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Veselivka",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403525,
+    "gn:latitude":51.40248,
+    "gn:longitude":32.93659,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Veselivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Veselivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0441\u0435\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Veselovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403525
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4dd3e6db60ede7c1378af42e00e8d657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088979,
+            "locality_id":1276126179,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1276126179,
+    "wof:lastmodified":1537711650,
+    "wof:name":"Veselivka",
+    "wof:parent_id":102088979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93659,
+    51.40248,
+    32.93659,
+    51.40248
+],
+  "geometry": {"coordinates":[32.93659,51.40248],"type":"Point"}
+}

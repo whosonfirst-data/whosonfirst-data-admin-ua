@@ -1,0 +1,78 @@
+{
+  "id": 1277138743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3284,50.82164,26.3284,50.82164",
+    "geom:latitude":50.82164,
+    "geom:longitude":26.3284,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hlazhova",
+    "gn:country_code":"UA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708798,
+    "gn:latitude":50.82164,
+    "gn:longitude":26.3284,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Hlazhova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hlazhova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043b\u0430\u0436\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khlazova",
+        "Glazheva",
+        "Glazhova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708798
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b35c528d8dee66208588a1cb16380c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088725,
+            "locality_id":1277138743,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1277138743,
+    "wof:lastmodified":1537711177,
+    "wof:name":"Hlazhova",
+    "wof:parent_id":102088725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3284,
+    50.82164,
+    26.3284,
+    50.82164
+],
+  "geometry": {"coordinates":[26.3284,50.82164],"type":"Point"}
+}

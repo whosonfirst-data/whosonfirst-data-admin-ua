@@ -1,0 +1,86 @@
+{
+  "id": 1276859289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71385,45.89249,33.71385,45.89249",
+    "geom:latitude":45.89249,
+    "geom:longitude":33.71385,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sredneye",
+    "gn:country_code":"UA",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":692989,
+    "gn:latitude":45.89249,
+    "gn:longitude":33.71385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sredneye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Vorontsova",
+        "Sredniy Saray",
+        "Srednyaya",
+        "Sredneye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738619,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692989
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6df20a49988a442c1eca3dc8e9f96409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1276859289,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "locality_id":1276859289,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1276859289,
+    "wof:lastmodified":1537710393,
+    "wof:name":"Sredneye",
+    "wof:parent_id":1108738619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71385,
+    45.89249,
+    33.71385,
+    45.89249
+],
+  "geometry": {"coordinates":[33.71385,45.89249],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344266005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.07203,48.55008,30.07203,48.55008",
+    "geom:latitude":48.55008,
+    "geom:longitude":30.07203,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Posukhivka",
+    "gn:country_code":"UA",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11550212,
+    "gn:latitude":48.55008,
+    "gn:longitude":30.07203,
+    "gn:modification_date":"2017-05-28",
+    "gn:name":"Posukhivka",
+    "gn:population":413,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0443\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u0443\u0445\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11550212
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"eac717d8ce29084084fe3fe06cdb88fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088345,
+            "locality_id":1344266005,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1344266005,
+    "wof:lastmodified":1537712049,
+    "wof:name":"Posukhivka",
+    "wof:parent_id":102088345,
+    "wof:placetype":"locality",
+    "wof:population":413,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.07203,
+    48.55008,
+    30.07203,
+    48.55008
+],
+  "geometry": {"coordinates":[30.07203,48.55008],"type":"Point"}
+}

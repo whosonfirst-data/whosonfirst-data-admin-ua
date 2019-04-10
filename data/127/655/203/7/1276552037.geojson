@@ -1,0 +1,83 @@
+{
+  "id": 1276552037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77028,48.57012,37.77028,48.57012",
+    "geom:latitude":48.57012,
+    "geom:longitude":37.77028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Podil's'ke",
+    "gn:country_code":"UA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113819,
+    "gn:latitude":48.57012,
+    "gn:longitude":37.77028,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Podil\u2019s\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Podil\u2019s\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113819
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"dcd95e45a0c4cdd8d6333f36c3010cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815753,
+            "disputed_id":1159339531,
+            "locality_id":1276552037,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815753,
+            "disputed_id":1159339531,
+            "locality_id":1276552037,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276552037,
+    "wof:lastmodified":1537711852,
+    "wof:name":"Podil's'ke",
+    "wof:parent_id":1108815753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77028,
+    48.57012,
+    37.77028,
+    48.57012
+],
+  "geometry": {"coordinates":[37.77028,48.57012],"type":"Point"}
+}

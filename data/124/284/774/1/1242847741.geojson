@@ -1,0 +1,73 @@
+{
+  "id": 1242847741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.462,48.39379,38.462,48.39379",
+    "geom:latitude":48.39379,
+    "geom:longitude":38.462,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Borzhykivka",
+    "gn:country_code":"UA",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9115520,
+    "gn:latitude":48.39379,
+    "gn:longitude":38.462,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Borzhykivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Borzhykivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u0440\u0436\u0438\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9115520
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c4c984e4904d049e4f0db4e2ebf4a027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088715,
+            "locality_id":1242847741,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1242847741,
+    "wof:lastmodified":1537711860,
+    "wof:name":"Borzhykivka",
+    "wof:parent_id":102088715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.462,
+    48.39379,
+    38.462,
+    48.39379
+],
+  "geometry": {"coordinates":[38.462,48.39379],"type":"Point"}
+}

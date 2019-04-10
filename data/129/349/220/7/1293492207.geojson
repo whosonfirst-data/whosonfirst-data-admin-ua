@@ -1,0 +1,87 @@
+{
+  "id": 1293492207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.69305,47.83895,37.69305,47.83895",
+    "geom:latitude":47.83895,
+    "geom:longitude":37.69305,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novomykolayivka",
+    "gn:country_code":"UA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699006,
+    "gn:latitude":47.83895,
+    "gn:longitude":37.69305,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Novomykolayivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novomykolayivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novo-Yelenovka",
+        "Novonikolayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699006
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c7411d931e2b11847a0b6c95ea3cc706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1293492207,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1293492207,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293492207,
+    "wof:lastmodified":1537710692,
+    "wof:name":"Novomykolayivka",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.69305,
+    47.83895,
+    37.69305,
+    47.83895
+],
+  "geometry": {"coordinates":[37.69305,47.83895],"type":"Point"}
+}

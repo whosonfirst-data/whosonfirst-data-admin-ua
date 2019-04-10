@@ -1,0 +1,76 @@
+{
+  "id": 1259838033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.62789,51.10906,33.62789,51.10906",
+    "geom:latitude":51.10906,
+    "geom:longitude":33.62789,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Korenivka",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8408340,
+    "gn:latitude":51.10906,
+    "gn:longitude":33.62789,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Korenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Korenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0440\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korenevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8408340
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ecc3ca4088d4dc4de9bbcb02e3419aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088985,
+            "locality_id":1259838033,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1259838033,
+    "wof:lastmodified":1537711658,
+    "wof:name":"Korenivka",
+    "wof:parent_id":102088985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.62789,
+    51.10906,
+    33.62789,
+    51.10906
+],
+  "geometry": {"coordinates":[33.62789,51.10906],"type":"Point"}
+}

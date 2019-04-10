@@ -1,0 +1,98 @@
+{
+  "id": 101865649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.181822,46.476833,34.181822,46.476833",
+    "geom:latitude":46.476833,
+    "geom:longitude":34.181822,
+    "iso:country":"UA",
+    "lbl:latitude":46.476833,
+    "lbl:longitude":34.181822,
+    "mps:latitude":46.476833,
+    "mps:longitude":34.181822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chkalove"
+    ],
+    "name:ger_x_preferred":[
+        "Tschkalowe"
+    ],
+    "name:lav_x_preferred":[
+        "\u010ckalove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Chkalovo"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Khersons'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0457\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novotroits'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u043a\u0430\u043b\u043e\u0432\u0435",
+    "qs:loc_alt":"Chkalove",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710436,
+        "gp:id":919179,
+        "qs:id":1,
+        "wd:id":"Q4516875"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"aac56fb3a8661d945028ccc3ac1a44ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088045,
+            "locality_id":101865649,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":101865649,
+    "wof:lastmodified":1544748163,
+    "wof:name":"\u0427\u043a\u0430\u043b\u043e\u0432\u0435",
+    "wof:parent_id":102088045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.181822,
+    46.476833,
+    34.181822,
+    46.476833
+],
+  "geometry": {"coordinates":[34.181822,46.476833],"type":"Point"}
+}

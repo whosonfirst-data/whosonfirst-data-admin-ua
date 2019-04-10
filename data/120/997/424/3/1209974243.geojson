@@ -1,0 +1,76 @@
+{
+  "id": 1209974243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44968,50.80091,25.44968,50.80091",
+    "geom:latitude":50.80091,
+    "geom:longitude":25.44968,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Sapohove",
+    "gn:country_code":"UA",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8436985,
+    "gn:latitude":50.80091,
+    "gn:longitude":25.44968,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Sapohove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sapohove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043f\u043e\u0433\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sapogovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436985
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c1231dca8dd530c3bff00dcb0d0194dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088699,
+            "locality_id":1209974243,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1209974243,
+    "wof:lastmodified":1537711687,
+    "wof:name":"Sapohove",
+    "wof:parent_id":102088699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44968,
+    50.80091,
+    25.44968,
+    50.80091
+],
+  "geometry": {"coordinates":[25.44968,50.80091],"type":"Point"}
+}

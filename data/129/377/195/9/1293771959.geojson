@@ -1,0 +1,83 @@
+{
+  "id": 1293771959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66052,46.19899,33.66052,46.19899",
+    "geom:latitude":46.19899,
+    "geom:longitude":33.66052,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Iskhodne",
+    "gn:country_code":"UA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7021071,
+    "gn:latitude":46.19899,
+    "gn:longitude":33.66052,
+    "gn:modification_date":"2016-08-09",
+    "gn:name":"Iskhodne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ukr_x_preferred":[
+        "I\u0441\u0445\u043e\u0434\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738667,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021071
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4617e8bcb1f404b47d5c3708da95f605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738667,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1293771959,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738667,
+            "disputed_id":1159339547,
+            "locality_id":1293771959,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1293771959,
+    "wof:lastmodified":1537711530,
+    "wof:name":"Iskhodne",
+    "wof:parent_id":1108738667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66052,
+    46.19899,
+    33.66052,
+    46.19899
+],
+  "geometry": {"coordinates":[33.66052,46.19899],"type":"Point"}
+}

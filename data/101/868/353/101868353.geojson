@@ -1,0 +1,115 @@
+{
+  "id": 101868353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.300269,47.803539,38.300269,47.803539",
+    "geom:latitude":47.803539,
+    "geom:longitude":38.300269,
+    "gn:population":2076,
+    "iso:country":"UA",
+    "lbl:latitude":47.803539,
+    "lbl:longitude":38.300269,
+    "mps:latitude":47.803539,
+    "mps:longitude":38.300269,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5eab\u6377\u4f0a\u5c3c\u79d1\u97cb"
+    ],
+    "name:eng_x_preferred":[
+        "Kuteinykove"
+    ],
+    "name:ger_x_preferred":[
+        "Kutejnykowe"
+    ],
+    "name:lav_x_preferred":[
+        "Kutejnikove"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u0435\u0439\u043d\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0442\u0435\u0439\u043d\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kuteinikowo"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Amvrosiivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0443\u0442\u0435\u0439\u043d\u0438\u043a\u043e\u0432\u0435",
+    "qs:loc_alt":"Kuteinykove",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703537,
+        "gp:id":924863,
+        "qs:id":128575,
+        "wd:id":"Q4249460"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ec2d00720c4643cede145cacf03c800d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":101868353,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088577,
+            "disputed_id":1159339531,
+            "locality_id":101868353,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101868353,
+    "wof:lastmodified":1544749687,
+    "wof:name":"\u041a\u0443\u0442\u0435\u0439\u043d\u0438\u043a\u043e\u0432\u0435",
+    "wof:parent_id":102088577,
+    "wof:placetype":"locality",
+    "wof:population":2076,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.300269,
+    47.803539,
+    38.300269,
+    47.803539
+],
+  "geometry": {"coordinates":[38.300269,47.803539],"type":"Point"}
+}

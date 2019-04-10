@@ -1,0 +1,77 @@
+{
+  "id": 1344159073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,52.01667,31.1,52.01667",
+    "geom:latitude":52.01667,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chyzhivka",
+    "gn:country_code":"UA",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705241,
+    "gn:latitude":52.01667,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chyzhivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chyzhivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u0436\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Komarovka",
+        "Chizhovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705241
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"05b89619b0a987c9d038a7101fed6072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088999,
+            "locality_id":1344159073,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1344159073,
+    "wof:lastmodified":1537711004,
+    "wof:name":"Chyzhivka",
+    "wof:parent_id":102088999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    52.01667,
+    31.1,
+    52.01667
+],
+  "geometry": {"coordinates":[31.1,52.01667],"type":"Point"}
+}

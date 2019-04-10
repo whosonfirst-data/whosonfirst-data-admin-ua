@@ -1,0 +1,75 @@
+{
+  "id": 1209188159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5444,52.06291,33.5444,52.06291",
+    "geom:latitude":52.06291,
+    "geom:longitude":33.5444,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kaliyivka",
+    "gn:country_code":"UA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707205,
+    "gn:latitude":52.06291,
+    "gn:longitude":33.5444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaliyivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u0457\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Koleyevka",
+        "Kaliyevka",
+        "Kaleyevka"
+    ],
+    "name:und_x_variant":[
+        "Koleyevka",
+        "Kaleyevka",
+        "Kaliyevka",
+        "Kaliyivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707205
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"00aa8d7e743cf98f0b02e230c7d60f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209188159
+        }
+    ],
+    "wof:id":1209188159,
+    "wof:lastmodified":1537711098,
+    "wof:name":"Kaliyivka",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5444,
+    52.06291,
+    33.5444,
+    52.06291
+],
+  "geometry": {"coordinates":[33.5444,52.06291],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1125984653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.058,48.0771,39.058,48.0771",
+    "geom:latitude":48.0771,
+    "geom:longitude":39.058,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7487,
+    "gn:population":7487,
+    "iso:country":"UA",
+    "lbl:latitude":48.0771,
+    "lbl:longitude":39.058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u514b\u91cc\u7247\u897f\u57fa"
+    ],
+    "name:eng_x_preferred":[
+        "Krepenskiy"
+    ],
+    "name:ger_x_preferred":[
+        "Kripenskyj"
+    ],
+    "name:lav_x_preferred":[
+        "Kripenska"
+    ],
+    "name:rum_x_preferred":[
+        "Kripensk\u00eei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0435\u043f\u0435\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "Kripens\u2019kyy"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0456\u043f\u0435\u043d\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704118,
+    "qs_pg:gn_pop":7487,
+    "qs_pg:name":"Krepenskiy",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275514,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108730809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704118,
+        "qs_pg:id":275514,
+        "wd:id":"Q4240238"
+    },
+    "wof:country":"UA",
+    "wof:created":1497298746,
+    "wof:geomhash":"61d6e5030cd55eb51df6e2368426f8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730809,
+            "locality_id":1125984653,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125984653,
+    "wof:lastmodified":1514509664,
+    "wof:name":"Krepenskiy",
+    "wof:parent_id":1108730809,
+    "wof:placetype":"locality",
+    "wof:population":7487,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.058,
+    48.0771,
+    39.058,
+    48.0771
+],
+  "geometry": {"coordinates":[39.058,48.0771],"type":"Point"}
+}

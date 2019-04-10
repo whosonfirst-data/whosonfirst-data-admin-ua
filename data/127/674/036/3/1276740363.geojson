@@ -1,0 +1,86 @@
+{
+  "id": 1276740363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57017,45.10357,33.57017,45.10357",
+    "geom:latitude":45.10357,
+    "geom:longitude":33.57017,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Fedorivka",
+    "gn:country_code":"UA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258885,
+    "gn:latitude":45.10357,
+    "gn:longitude":33.57017,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Fedorivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Fedorivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u0435\u0434\u043e\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258885
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1f09facb09675068e3a7b8af0b85294e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1276740363,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1276740363,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1276740363,
+    "wof:lastmodified":1537712032,
+    "wof:name":"Fedorivka",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57017,
+    45.10357,
+    33.57017,
+    45.10357
+],
+  "geometry": {"coordinates":[33.57017,45.10357],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1293198823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22097,48.08695,37.22097,48.08695",
+    "geom:latitude":48.08695,
+    "geom:longitude":37.22097,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novodmytrivka",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112478,
+    "gn:latitude":48.08695,
+    "gn:longitude":37.22097,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Novodmytrivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novodmytrivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0434\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novodmitrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112478
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"39ac0d0d3cb9230b84ec47e81f5cf409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1293198823,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1293198823,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293198823,
+    "wof:lastmodified":1537711843,
+    "wof:name":"Novodmytrivka",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22097,
+    48.08695,
+    37.22097,
+    48.08695
+],
+  "geometry": {"coordinates":[37.22097,48.08695],"type":"Point"}
+}

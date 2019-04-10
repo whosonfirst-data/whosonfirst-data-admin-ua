@@ -1,0 +1,87 @@
+{
+  "id": 1125779575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65478,46.30495,30.65478,46.30495",
+    "geom:latitude":46.30495,
+    "geom:longitude":30.65478,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":54102,
+    "gn:population":54102,
+    "iso:country":"UA",
+    "lbl:latitude":46.30495,
+    "lbl:longitude":30.65478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c\u0438\u0447\u0435\u0432\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u043b\u0456\u0447\u0456\u0432\u0441\u044c\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Il\u2019ich\u00ebvsk"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":707688,
+    "qs_pg:gn_pop":54102,
+    "qs_pg:name":"Illichivs\u2019k",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":128713,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        1108730699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707688,
+        "qs_pg:id":128713
+    },
+    "wof:country":"UA",
+    "wof:created":1497290410,
+    "wof:geomhash":"551581fff4aec79ebd2220d8a10b5765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730699,
+            "locality_id":1125779575,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1125779575,
+    "wof:lastmodified":1509391473,
+    "wof:name":"Illichivs\u2019k",
+    "wof:parent_id":1108730699,
+    "wof:placetype":"locality",
+    "wof:population":54102,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65478,
+    46.30495,
+    30.65478,
+    46.30495
+],
+  "geometry": {"coordinates":[30.65478,46.30495],"type":"Point"}
+}

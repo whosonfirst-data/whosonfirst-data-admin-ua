@@ -1,0 +1,84 @@
+{
+  "id": 1293888145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37154,48.56298,37.37154,48.56298",
+    "geom:latitude":48.56298,
+    "geom:longitude":37.37154,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novonikolayevka",
+    "gn:country_code":"UA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699409,
+    "gn:latitude":48.56298,
+    "gn:longitude":37.37154,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Novonikolayevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novonikolayevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730721,
+        1175613745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699409
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b73845cafc57bf71731d7f719109d597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730721,
+            "disputed_id":1159339531,
+            "locality_id":1293888145,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730721,
+            "disputed_id":1159339531,
+            "locality_id":1293888145,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293888145,
+    "wof:lastmodified":1537710716,
+    "wof:name":"Novonikolayevka",
+    "wof:parent_id":1175613745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37154,
+    48.56298,
+    37.37154,
+    48.56298
+],
+  "geometry": {"coordinates":[37.37154,48.56298],"type":"Point"}
+}

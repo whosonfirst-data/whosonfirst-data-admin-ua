@@ -1,0 +1,112 @@
+{
+  "id": 101871677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.176697,49.591493,38.176697,49.591493",
+    "geom:latitude":49.591493,
+    "geom:longitude":38.176697,
+    "gn:population":2353,
+    "iso:country":"UA",
+    "lbl:latitude":49.591493,
+    "lbl:longitude":38.176697,
+    "mps:latitude":49.591493,
+    "mps:longitude":38.176697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5c3c\u65e5\u5c3c\u4e9e\u675c\u842c\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Nyzhnya Duvanka"
+    ],
+    "name:ger_x_preferred":[
+        "Nyschnja Duwanka"
+    ],
+    "name:lav_x_preferred":[
+        "Ni\u017e\u0146a Duvanka"
+    ],
+    "name:rum_x_preferred":[
+        "N\u00eejnea Duvanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0438\u0436\u043d\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nishnjaja Duwanka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0432\u0430\u0442\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Svativs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u0438\u0436\u043d\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430",
+    "qs:loc_alt":"Nyzhnia Duvanka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699963,
+        "gp:id":928150,
+        "qs:id":128453,
+        "wd:id":"Q4319285"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"fd324c7659727e7470366e718bbdb46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088909,
+            "locality_id":101871677,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101871677,
+    "wof:lastmodified":1544751207,
+    "wof:name":"\u041d\u0438\u0436\u043d\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430",
+    "wof:parent_id":102088909,
+    "wof:placetype":"locality",
+    "wof:population":2353,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.176697,
+    49.591493,
+    38.176697,
+    49.591493
+],
+  "geometry": {"coordinates":[38.176697,49.591493],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242886759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01344,50.96909,32.01344,50.96909",
+    "geom:latitude":50.96909,
+    "geom:longitude":32.01344,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pashkivka",
+    "gn:country_code":"UA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403282,
+    "gn:latitude":50.96909,
+    "gn:longitude":32.01344,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Pashkivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pashkivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0448\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pashkovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403282
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b282fe5175c0e8e9b444d00e19f695f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815725,
+            "locality_id":1242886759,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1242886759,
+    "wof:lastmodified":1537711649,
+    "wof:name":"Pashkivka",
+    "wof:parent_id":1108815725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01344,
+    50.96909,
+    32.01344,
+    50.96909
+],
+  "geometry": {"coordinates":[32.01344,50.96909],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125794513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.148535,47.770242,35.148535,47.770242",
+    "geom:latitude":47.770242,
+    "geom:longitude":35.148535,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":47.770242,
+    "lbl:longitude":35.148535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Razumovka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Zaporiz\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":981421,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":932223,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Zaporiz\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        1108815653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":932223,
+        "qs_pg:id":981421
+    },
+    "wof:country":"UA",
+    "wof:created":1497290995,
+    "wof:geomhash":"5e2ec240c9e22c8dde2322a696a30b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815653,
+            "locality_id":1125794513,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1125794513,
+    "wof:lastmodified":1509392525,
+    "wof:name":"Razumovka",
+    "wof:parent_id":1108815653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.148535,
+    47.770242,
+    35.148535,
+    47.770242
+],
+  "geometry": {"coordinates":[35.148535,47.770242],"type":"Point"}
+}

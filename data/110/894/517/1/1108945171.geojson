@@ -1,0 +1,75 @@
+{
+  "id": 1108945171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4533307629,50.3690226606,30.4533307629,50.3690226606",
+    "geom:latitude":50.369023,
+    "geom:longitude":30.453331,
+    "iso:country":"UA",
+    "lbl:latitude":50.369023,
+    "lbl:longitude":30.453331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Teremky"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043c\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043c\u043a\u0438"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85688801,
+        102191581,
+        85633805,
+        101752489,
+        1108730705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4455577"
+    },
+    "wof:country":"UA",
+    "wof:created":1491364864,
+    "wof:geomhash":"d498161d9711278ad17a9d32985d01a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730705,
+            "locality_id":101752489,
+            "neighbourhood_id":1108945171,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1108945171,
+    "wof:lastmodified":1514509861,
+    "wof:name":"Teremky",
+    "wof:parent_id":101752489,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45333076285038,
+    50.36902266055769,
+    30.45333076285038,
+    50.36902266055769
+],
+  "geometry": {"coordinates":[30.45333076285038,50.36902266055769],"type":"Point"}
+}

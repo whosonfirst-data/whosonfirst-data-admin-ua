@@ -1,0 +1,101 @@
+{
+  "id": 101867691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.717074,48.886289,31.717074,48.886289",
+    "geom:latitude":48.886289,
+    "geom:longitude":31.717074,
+    "iso:country":"UA",
+    "lbl:latitude":48.886289,
+    "lbl:longitude":31.717074,
+    "mps:latitude":48.886289,
+    "mps:longitude":31.717074,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054f\u056b\u0577\u056f\u0578\u057e\u056f\u0561"
+    ],
+    "name:eng_x_preferred":[
+        "Tishkovka"
+    ],
+    "name:ger_x_preferred":[
+        "Tyschkiwka"
+    ],
+    "name:rum_x_preferred":[
+        "T\u00ee\u0219kivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0448\u043a\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0448\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tishkovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kirovohrads'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u043c\u0438\u0440\u0433\u043e\u0440\u043e\u0434\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novomyrhorods'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0438\u0448\u043a\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Tyshkivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691509,
+        "gp:id":921787,
+        "qs:id":1,
+        "wd:id":"Q2463426"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f128be3bfc566cba8b45a21f49bac24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088427,
+            "locality_id":101867691,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":101867691,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u0422\u0438\u0448\u043a\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.717074,
+    48.886289,
+    31.717074,
+    48.886289
+],
+  "geometry": {"coordinates":[31.717074,48.886289],"type":"Point"}
+}

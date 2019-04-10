@@ -1,0 +1,86 @@
+{
+  "id": 1243552753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06929,47.31093,38.06929,47.31093",
+    "geom:latitude":47.31093,
+    "geom:longitude":38.06929,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bila Krynytsya",
+    "gn:country_code":"UA",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712660,
+    "gn:latitude":47.31093,
+    "gn:longitude":38.06929,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Bila Krynytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Balaya Krinitsa"
+    ],
+    "name:rus_x_variant":[
+        "Belaya Krinitsa"
+    ],
+    "name:und_x_variant":[
+        "\u0411\u0456\u043b\u0430 \u041a\u0440\u0438\u043d\u0438\u0446\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712660
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9a3f6f5ee6b04d6998beed08930baf6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1243552753,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1243552753,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243552753,
+    "wof:lastmodified":1537711371,
+    "wof:name":"Bila Krynytsya",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06929,
+    47.31093,
+    38.06929,
+    47.31093
+],
+  "geometry": {"coordinates":[38.06929,47.31093],"type":"Point"}
+}

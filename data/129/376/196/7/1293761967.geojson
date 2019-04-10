@@ -1,0 +1,73 @@
+{
+  "id": 1293761967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16496,48.25444,30.16496,48.25444",
+    "geom:latitude":48.25444,
+    "geom:longitude":30.16496,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kamennyy Brod",
+    "gn:country_code":"UA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706994,
+    "gn:latitude":48.25444,
+    "gn:longitude":30.16496,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamennyy Brod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamennyy Brod"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u0439_\u0431\u0440\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706994
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6566cf81999a5c0bd88a6315ed95dec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088241,
+            "locality_id":1293761967,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1293761967,
+    "wof:lastmodified":1537711090,
+    "wof:name":"Kamennyy Brod",
+    "wof:parent_id":102088241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16496,
+    48.25444,
+    30.16496,
+    48.25444
+],
+  "geometry": {"coordinates":[30.16496,48.25444],"type":"Point"}
+}

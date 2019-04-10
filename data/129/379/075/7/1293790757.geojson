@@ -1,0 +1,75 @@
+{
+  "id": 1293790757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07596,47.82417,25.07596,47.82417",
+    "geom:latitude":47.82417,
+    "geom:longitude":25.07596,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"696009",
+    "gn:asciiname":"Verkhniy Yalovets'",
+    "gn:country_code":"UA",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689861,
+    "gn:latitude":47.82417,
+    "gn:longitude":25.07596,
+    "gn:modification_date":"2018-07-09",
+    "gn:name":"Verkhniy Yalovets\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Verkhniy Yalovets\u2019"
+    ],
+    "name:und_x_variant":[
+        "Yalovichera Verkhnyaya",
+        "Yalovichiuara de Sus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689861
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e9b171007499bf99b71e1f89254f1b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088015,
+            "locality_id":1293790757,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":1293790757,
+    "wof:lastmodified":1537710247,
+    "wof:name":"Verkhniy Yalovets'",
+    "wof:parent_id":102088015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07596,
+    47.82417,
+    25.07596,
+    47.82417
+],
+  "geometry": {"coordinates":[25.07596,47.82417],"type":"Point"}
+}

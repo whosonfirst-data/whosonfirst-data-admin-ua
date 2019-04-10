@@ -1,0 +1,74 @@
+{
+  "id": 1343551033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2244,46.26306,34.2244,46.26306",
+    "geom:latitude":46.26306,
+    "geom:longitude":34.2244,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Voznesenka",
+    "gn:country_code":"UA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688868,
+    "gn:latitude":46.26306,
+    "gn:longitude":34.2244,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Voznesenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Terpugi",
+        "Voznesenka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688868
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"10bdc87f5e89750d17cc3d9fe83ec48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088045,
+            "locality_id":1343551033,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1343551033,
+    "wof:lastmodified":1537710188,
+    "wof:name":"Voznesenka",
+    "wof:parent_id":102088045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2244,
+    46.26306,
+    34.2244,
+    46.26306
+],
+  "geometry": {"coordinates":[34.2244,46.26306],"type":"Point"}
+}

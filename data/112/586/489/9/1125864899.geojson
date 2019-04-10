@@ -1,0 +1,106 @@
+{
+  "id": 1125864899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43385,45.0947,35.43385,45.0947",
+    "geom:latitude":45.0947,
+    "geom:longitude":35.43385,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2421,
+    "gn:population":2377,
+    "iso:country":"UA",
+    "lbl:latitude":45.0947,
+    "lbl:longitude":35.43385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Beregovoye"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043d\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0433\u043e\u0432\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":712427,
+    "qs_pg:gn_pop":2421,
+    "qs_pg:name":"Berehove",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128812,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738663,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712427,
+        "qs_pg:id":128812
+    },
+    "wof:country":"UA",
+    "wof:created":1497293987,
+    "wof:geomhash":"0b81c72e162fdd89b074dc0f8f652197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738663,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125864899,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738663,
+            "disputed_id":1159339547,
+            "locality_id":1125864899,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125864899,
+    "wof:lastmodified":1530299610,
+    "wof:name":"Berehove",
+    "wof:parent_id":1108738663,
+    "wof:placetype":"locality",
+    "wof:population":2377,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43385,
+    45.0947,
+    35.43385,
+    45.0947
+],
+  "geometry": {"coordinates":[35.43385,45.0947],"type":"Point"}
+}

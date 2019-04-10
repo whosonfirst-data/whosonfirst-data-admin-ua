@@ -1,0 +1,76 @@
+{
+  "id": 1226297063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64675,46.68106,35.64675,46.68106",
+    "geom:latitude":46.68106,
+    "geom:longitude":35.64675,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hamivka",
+    "gn:country_code":"UA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":709001,
+    "gn:latitude":46.68106,
+    "gn:longitude":35.64675,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Hamivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hamivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gamovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709001
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"89f5ebcfb630d448f74da9406d754171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088205,
+            "locality_id":1226297063,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1226297063,
+    "wof:lastmodified":1537711187,
+    "wof:name":"Hamivka",
+    "wof:parent_id":102088205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64675,
+    46.68106,
+    35.64675,
+    46.68106
+],
+  "geometry": {"coordinates":[35.64675,46.68106],"type":"Point"}
+}

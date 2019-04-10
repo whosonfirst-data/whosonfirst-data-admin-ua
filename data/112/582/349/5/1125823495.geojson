@@ -1,0 +1,94 @@
+{
+  "id": 1125823495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81387,47.63646,34.81387,47.63646",
+    "geom:latitude":47.63646,
+    "geom:longitude":34.81387,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5432,
+    "gn:population":5432,
+    "iso:country":"UA",
+    "lbl:latitude":47.63646,
+    "lbl:longitude":34.81387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u044f\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u043e\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u044f\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Vil\u2019ne",
+        "\u0412\u0456\u043b\u044c\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Prosyana"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689190,
+    "qs_pg:gn_pop":5432,
+    "qs_pg:name":"Vol\u2019noye",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":275411,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689190,
+        "qs_pg:id":275411
+    },
+    "wof:country":"UA",
+    "wof:created":1497292174,
+    "wof:geomhash":"983bf629ab33bb8a8ec37ee8b0457073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088361,
+            "locality_id":1125823495,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1125823495,
+    "wof:lastmodified":1509394262,
+    "wof:name":"Vol\u2019noye",
+    "wof:parent_id":102088361,
+    "wof:placetype":"locality",
+    "wof:population":5432,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81387,
+    47.63646,
+    34.81387,
+    47.63646
+],
+  "geometry": {"coordinates":[34.81387,47.63646],"type":"Point"}
+}

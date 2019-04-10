@@ -1,0 +1,83 @@
+{
+  "id": 1276209187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21261,49.15096,23.21261,49.15096",
+    "geom:latitude":49.15096,
+    "geom:longitude":23.21261,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Holovs'ke",
+    "gn:country_code":"UA",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708573,
+    "gn:latitude":49.15096,
+    "gn:longitude":23.21261,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Holovs\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0432\u0435\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Holovs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u043b\u043e\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Goloves\u2019ke",
+        "Golovska",
+        "Golovskaya",
+        "Golovetskoye",
+        "Goloveskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708573
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7a1de97b5d575635d748f8a1cda96692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088171,
+            "locality_id":1276209187,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1276209187,
+    "wof:lastmodified":1537711166,
+    "wof:name":"Holovs'ke",
+    "wof:parent_id":102088171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21261,
+    49.15096,
+    23.21261,
+    49.15096
+],
+  "geometry": {"coordinates":[23.21261,49.15096],"type":"Point"}
+}

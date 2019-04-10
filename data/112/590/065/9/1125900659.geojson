@@ -1,0 +1,87 @@
+{
+  "id": 1125900659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75615,47.54135,30.75615,47.54135",
+    "geom:latitude":47.54135,
+    "geom:longitude":30.75615,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3629,
+    "gn:population":3629,
+    "iso:country":"UA",
+    "lbl:latitude":47.54135,
+    "lbl:longitude":30.75615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nikolayevka Vtoraya"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":700159,
+    "qs_pg:gn_pop":3629,
+    "qs_pg:name":"Mykolayivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028508,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700159,
+        "qs_pg:id":1028508
+    },
+    "wof:country":"UA",
+    "wof:created":1497295788,
+    "wof:geomhash":"d5e51e825d25a0b49d1a041ada05e0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088075,
+            "locality_id":1125900659,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1125900659,
+    "wof:lastmodified":1509399381,
+    "wof:name":"Mykolayivka",
+    "wof:parent_id":102088075,
+    "wof:placetype":"locality",
+    "wof:population":3629,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75615,
+    47.54135,
+    30.75615,
+    47.54135
+],
+  "geometry": {"coordinates":[30.75615,47.54135],"type":"Point"}
+}

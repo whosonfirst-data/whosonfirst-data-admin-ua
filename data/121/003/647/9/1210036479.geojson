@@ -1,0 +1,76 @@
+{
+  "id": 1210036479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37636,50.27706,37.37636,50.27706",
+    "geom:latitude":50.27706,
+    "geom:longitude":37.37636,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Buzove",
+    "gn:country_code":"UA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891625,
+    "gn:latitude":50.27706,
+    "gn:longitude":37.37636,
+    "gn:modification_date":"2013-11-13",
+    "gn:name":"Buzove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Buzove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0437\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Buzovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891625
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a7c77fe782291aed60ca86d9ac3f45a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088983,
+            "locality_id":1210036479,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1210036479,
+    "wof:lastmodified":1537711555,
+    "wof:name":"Buzove",
+    "wof:parent_id":102088983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37636,
+    50.27706,
+    37.37636,
+    50.27706
+],
+  "geometry": {"coordinates":[37.37636,50.27706],"type":"Point"}
+}

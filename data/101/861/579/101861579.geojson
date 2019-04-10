@@ -1,0 +1,106 @@
+{
+  "id": 101861579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.870655,48.774613,25.870655,48.774613",
+    "geom:latitude":48.774613,
+    "geom:longitude":25.870655,
+    "iso:country":"UA",
+    "lbl:latitude":48.774613,
+    "lbl:longitude":25.870655,
+    "mps:latitude":48.774613,
+    "mps:longitude":25.870655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bilche Zolote"
+    ],
+    "name:pol_x_preferred":[
+        "Bilcze Z\u0142ote"
+    ],
+    "name:ron_x_preferred":[
+        "Bilce-Zolote"
+    ],
+    "name:rum_x_preferred":[
+        "Bilce-Zolote"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u044c\u0447\u0435-\u0417\u043e\u043b\u043e\u0442\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Blicze Zlote"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u044c\u0447\u0435-\u0417\u043e\u043b\u043e\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Z\u0142ote"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ternopil's'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u043e\u0440\u0449\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Borschivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0456\u043b\u044c\u0447\u0435-\u0417\u043e\u043b\u043e\u0442\u0435",
+    "qs:loc_alt":"Bil'che-Zolote",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3066,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712161,
+        "gp:id":12518217,
+        "qs:id":2,
+        "wd:id":"Q4086793",
+        "wk:page":"Bilche Zolote"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5d7dad5a47b59d2cef79d3f330e19e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088181,
+            "locality_id":101861579,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":101861579,
+    "wof:lastmodified":1553815554,
+    "wof:name":"\u0411\u0456\u043b\u044c\u0447\u0435-\u0417\u043e\u043b\u043e\u0442\u0435",
+    "wof:parent_id":102088181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.870655,
+    48.774613,
+    25.870655,
+    48.774613
+],
+  "geometry": {"coordinates":[25.870655,48.774613],"type":"Point"}
+}

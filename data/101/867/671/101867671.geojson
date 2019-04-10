@@ -1,0 +1,78 @@
+{
+  "id": 101867671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.497409,49.036325,30.497409,49.036325",
+    "geom:latitude":49.036325,
+    "geom:longitude":30.497409,
+    "iso:country":"UA",
+    "lbl:latitude":49.036325,
+    "lbl:longitude":30.497409,
+    "mps:latitude":49.036325,
+    "mps:longitude":30.497409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Cherkas'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u0430\u043d\u044c\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Man'kivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u043e\u0440\u043d\u0430 \u041a\u0430\u043c'\u044f\u043d\u043a\u0430",
+    "qs:loc_alt":"Chorna Kamianka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":921188,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5bf34d000be3c92763ed8959886051d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088423,
+            "locality_id":101867671,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":101867671,
+    "wof:lastmodified":1544749307,
+    "wof:name":"\u0427\u043e\u0440\u043d\u0430 \u041a\u0430\u043c'\u044f\u043d\u043a\u0430",
+    "wof:parent_id":102088423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.497409,
+    49.036325,
+    30.497409,
+    49.036325
+],
+  "geometry": {"coordinates":[30.497409,49.036325],"type":"Point"}
+}

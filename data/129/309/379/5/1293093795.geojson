@@ -1,0 +1,86 @@
+{
+  "id": 1293093795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4688,48.18029,37.4688,48.18029",
+    "geom:latitude":48.18029,
+    "geom:longitude":37.4688,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Komyshivka",
+    "gn:country_code":"UA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706922,
+    "gn:latitude":48.18029,
+    "gn:longitude":37.4688,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Komyshivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Komyshivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043c\u0438\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kamyshevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706922
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9d626b6d7c0f22af0d0112e57355613b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1293093795,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1293093795,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293093795,
+    "wof:lastmodified":1537711088,
+    "wof:name":"Komyshivka",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4688,
+    48.18029,
+    37.4688,
+    48.18029
+],
+  "geometry": {"coordinates":[37.4688,48.18029],"type":"Point"}
+}

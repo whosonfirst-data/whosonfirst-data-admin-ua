@@ -1,0 +1,75 @@
+{
+  "id": 1360293225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38574,51.06388,32.38574,51.06388",
+    "geom:latitude":51.06388,
+    "geom:longitude":32.38574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Petrivka",
+    "gn:country_code":"UA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697337,
+    "gn:latitude":51.06388,
+    "gn:longitude":32.38574,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Petrivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makhnovka",
+        "Petrovka",
+        "Petrivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697337
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"88e5824aafabca995ffb0e12b72e26cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088977,
+            "locality_id":1360293225,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1360293225,
+    "wof:lastmodified":1537710605,
+    "wof:name":"Petrivka",
+    "wof:parent_id":102088977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38574000000001,
+    51.06388,
+    32.38574000000001,
+    51.06388
+],
+  "geometry": {"coordinates":[32.38574000000001,51.06388],"type":"Point"}
+}

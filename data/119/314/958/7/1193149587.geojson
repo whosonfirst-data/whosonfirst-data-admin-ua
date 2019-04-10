@@ -1,0 +1,76 @@
+{
+  "id": 1193149587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28075,51.08319,31.28075,51.08319",
+    "geom:latitude":51.08319,
+    "geom:longitude":31.28075,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rozivka",
+    "gn:country_code":"UA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393018,
+    "gn:latitude":51.08319,
+    "gn:longitude":31.28075,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Rozivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rozivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u0437\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rozovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393018
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9bf935ced155430a2fd875f32fa6d4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088907,
+            "locality_id":1193149587,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1193149587,
+    "wof:lastmodified":1537711639,
+    "wof:name":"Rozivka",
+    "wof:parent_id":102088907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28075,
+    51.08319,
+    31.28075,
+    51.08319
+],
+  "geometry": {"coordinates":[31.28075,51.08319],"type":"Point"}
+}

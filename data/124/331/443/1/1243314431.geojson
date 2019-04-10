@@ -1,0 +1,76 @@
+{
+  "id": 1243314431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.90481,50.80618,27.90481,50.80618",
+    "geom:latitude":50.80618,
+    "geom:longitude":27.90481,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Narayivka",
+    "gn:country_code":"UA",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700452,
+    "gn:latitude":50.80618,
+    "gn:longitude":27.90481,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Narayivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Narayivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0440\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Narayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700452
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c6a0ece79f767594c74b1cde71f89aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1243314431,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243314431,
+    "wof:lastmodified":1537710773,
+    "wof:name":"Narayivka",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90481,
+    50.80618,
+    27.90481,
+    50.80618
+],
+  "geometry": {"coordinates":[27.90481,50.80618],"type":"Point"}
+}

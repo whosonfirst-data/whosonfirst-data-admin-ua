@@ -1,0 +1,101 @@
+{
+  "id": 1260370623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.29667,44.95231,34.29667,44.95231",
+    "geom:latitude":44.95231,
+    "geom:longitude":34.29667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152608",
+    "gn:asciiname":"Solovyovka",
+    "gn:country_code":"UA",
+    "gn:dem":459,
+    "gn:elevation":"453.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693165,
+    "gn:latitude":44.95231,
+    "gn:longitude":34.29667,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Solovyovka",
+    "gn:population":66,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Solovyovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u0442\u0430\u043b\u044b\u0301\u043a-\u042d\u043b\u0438\u0301"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u0432\u044c\u0451\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0442\u0430\u043b\u044b\u0301\u043a-\u042d\u043b\u0438\u0301"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u0432\u2019\u0457\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693165
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8b82034fd413c78c471b0ee3da24aef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1260370623,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1260370623,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1260370623,
+    "wof:lastmodified":1537710401,
+    "wof:name":"Solovyovka",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.29667,
+    44.95231,
+    34.29667,
+    44.95231
+],
+  "geometry": {"coordinates":[34.29667,44.95231],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343716195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17534,46.78297,36.17534,46.78297",
+    "geom:latitude":46.78297,
+    "geom:longitude":36.17534,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Lozuvatka",
+    "gn:country_code":"UA",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801904,
+    "gn:latitude":46.78297,
+    "gn:longitude":36.17534,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Lozuvatka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u0443\u0432\u0430\u0442\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lozovatka",
+        "Lozuvatka",
+        "Dianovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801904
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bdfb6aaad65d0a6d6abb0b0b2eb2b6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088235,
+            "locality_id":1343716195,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1343716195,
+    "wof:lastmodified":1537711425,
+    "wof:name":"Lozuvatka",
+    "wof:parent_id":102088235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17534000000001,
+    46.78297,
+    36.17534000000001,
+    46.78297
+],
+  "geometry": {"coordinates":[36.17534000000001,46.78297],"type":"Point"}
+}

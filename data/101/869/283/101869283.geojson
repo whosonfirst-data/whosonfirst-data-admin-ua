@@ -1,0 +1,87 @@
+{
+  "id": 101869283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.288626,49.633844,30.288626,49.633844",
+    "geom:latitude":49.633844,
+    "geom:longitude":30.288626,
+    "iso:country":"UA",
+    "lbl:latitude":49.633844,
+    "lbl:longitude":30.288626,
+    "mps:latitude":49.633844,
+    "mps:longitude":30.288626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nastashka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u0442\u0430\u0448\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nastashka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u043a\u0438\u0442\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rokytnians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u0430\u0441\u0442\u0430\u0448\u043a\u0430",
+    "qs:loc_alt":"Nastashka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700439,
+        "qs:id":7
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b735e4a5bb878d86fd49c8902a75c3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088587,
+            "locality_id":101869283,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101869283,
+    "wof:lastmodified":1544750208,
+    "wof:name":"\u041d\u0430\u0441\u0442\u0430\u0448\u043a\u0430",
+    "wof:parent_id":102088587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.288626,
+    49.633844,
+    30.288626,
+    49.633844
+],
+  "geometry": {"coordinates":[30.288626,49.633844],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125925791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.650745,48.510122,38.650745,48.510122",
+    "geom:latitude":48.510122,
+    "geom:longitude":38.650745,
+    "gn:gn_country":null,
+    "iso:country":"UA",
+    "lbl:latitude":48.510122,
+    "lbl:longitude":38.650745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kadijewka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218838,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":921446,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108730807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":921446,
+        "qs_pg:id":218838
+    },
+    "wof:country":"UA",
+    "wof:created":1497296634,
+    "wof:geomhash":"5759cef333ae82f1c43a89ab6196b590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730807,
+            "locality_id":1125925791,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125925791,
+    "wof:lastmodified":1509401077,
+    "wof:name":"Kadijewka",
+    "wof:parent_id":1108730807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.650745,
+    48.510122,
+    38.650745,
+    48.510122
+],
+  "geometry": {"coordinates":[38.650745,48.510122],"type":"Point"}
+}

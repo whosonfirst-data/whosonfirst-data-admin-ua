@@ -1,0 +1,109 @@
+{
+  "id": 101860651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.944618,48.456034,24.944618,48.456034",
+    "geom:latitude":48.456034,
+    "geom:longitude":24.944618,
+    "gn:population":3290,
+    "iso:country":"UA",
+    "lbl:latitude":48.456034,
+    "lbl:longitude":24.944618,
+    "mps:latitude":48.456034,
+    "mps:longitude":24.944618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0643\u064a\u064a \u0643\u0644\u064a\u0648\u062a\u0634\u064a\u0641\u060c \u0625\u0641\u0627\u0646\u0648-\u0641\u0631\u0627\u0646\u0643\u064a\u0641\u0633\u0643\u0627"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u514b\u67f3\u5947\u592b"
+    ],
+    "name:eng_x_preferred":[
+        "Velykyi Klyuchiv"
+    ],
+    "name:pol_x_preferred":[
+        "Klucz\u00f3w Wielki"
+    ],
+    "name:rum_x_preferred":[
+        "Vel\u00eek\u00eei Kliuciv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043b\u044e\u0447\u0456\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043b\u044e\u0447\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Klyuchev Vel\u2019kiy"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u043b\u043e\u043c\u0438\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kolomyis'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043b\u044e\u0447\u0456\u0432",
+    "qs:loc_alt":"Velykyi Kliuchiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        1108815661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690132,
+        "gp:id":930287,
+        "qs:id":128199,
+        "wd:id":"Q4106519"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4efbeb6574ac64973c58c74560f00e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815661,
+            "locality_id":101860651,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101860651,
+    "wof:lastmodified":1544745548,
+    "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043b\u044e\u0447\u0456\u0432",
+    "wof:parent_id":1108815661,
+    "wof:placetype":"locality",
+    "wof:population":3290,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.944618,
+    48.456034,
+    24.944618,
+    48.456034
+],
+  "geometry": {"coordinates":[24.944618,48.456034],"type":"Point"}
+}

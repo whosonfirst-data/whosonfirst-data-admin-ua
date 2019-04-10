@@ -1,0 +1,93 @@
+{
+  "id": 101859661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.257773,48.292511,25.257773,48.292511",
+    "geom:latitude":48.292511,
+    "geom:longitude":25.257773,
+    "gn:population":4278,
+    "iso:country":"UA",
+    "lbl:latitude":48.292511,
+    "lbl:longitude":25.257773,
+    "mps:latitude":48.292511,
+    "mps:longitude":25.257773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043f\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0418\u0441\u043f\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Ispas"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernivets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0438\u0436\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Vyzhnyts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0406\u0441\u043f\u0430\u0441",
+    "qs:loc_alt":"Ispas",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707529,
+        "gp:id":924885,
+        "qs:id":128702
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c3d5884ff758af2fdc82c335953a78a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088051,
+            "locality_id":101859661,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":101859661,
+    "wof:lastmodified":1544745030,
+    "wof:name":"\u0406\u0441\u043f\u0430\u0441",
+    "wof:parent_id":102088051,
+    "wof:placetype":"locality",
+    "wof:population":4278,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.257773,
+    48.292511,
+    25.257773,
+    48.292511
+],
+  "geometry": {"coordinates":[25.257773,48.292511],"type":"Point"}
+}

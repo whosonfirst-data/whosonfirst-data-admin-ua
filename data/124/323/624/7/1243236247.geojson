@@ -1,0 +1,77 @@
+{
+  "id": 1243236247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57032,50.31021,24.57032,50.31021",
+    "geom:latitude":50.31021,
+    "geom:longitude":24.57032,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Polove",
+    "gn:country_code":"UA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":697049,
+    "gn:latitude":50.31021,
+    "gn:longitude":24.57032,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Polove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Polove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u043b\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Plove",
+        "Polovoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697049
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"35f39aeafb8b99e5f8009654d212b8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088501,
+            "locality_id":1243236247,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1243236247,
+    "wof:lastmodified":1537710590,
+    "wof:name":"Polove",
+    "wof:parent_id":102088501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57032,
+    50.31021,
+    24.57032,
+    50.31021
+],
+  "geometry": {"coordinates":[24.57032,50.31021],"type":"Point"}
+}

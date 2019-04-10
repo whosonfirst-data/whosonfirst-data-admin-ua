@@ -1,0 +1,77 @@
+{
+  "id": 1344254407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10605,48.80425,25.10605,48.80425",
+    "geom:latitude":48.80425,
+    "geom:longitude":25.10605,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ozeryany",
+    "gn:country_code":"UA",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698086,
+    "gn:latitude":48.80425,
+    "gn:longitude":25.10605,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ozeryany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041e\u0437\u0435\u0440\u044f\u043d\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "Ozeryany"
+    ],
+    "name:und_x_variant":[
+        "Yezezhany",
+        "Jezierzany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698086
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1d780c9a46c8711d52467ca7e9872aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088155,
+            "locality_id":1344254407,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1344254407,
+    "wof:lastmodified":1537710643,
+    "wof:name":"Ozeryany",
+    "wof:parent_id":102088155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10605,
+    48.80425,
+    25.10605,
+    48.80425
+],
+  "geometry": {"coordinates":[25.10605,48.80425],"type":"Point"}
+}

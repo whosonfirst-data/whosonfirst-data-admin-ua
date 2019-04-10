@@ -1,0 +1,89 @@
+{
+  "id": 1226440765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44511,47.01863,37.44511,47.01863",
+    "geom:latitude":47.01863,
+    "geom:longitude":37.44511,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chervone",
+    "gn:country_code":"UA",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704240,
+    "gn:latitude":47.01863,
+    "gn:longitude":37.44511,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Chervone",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chervone"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Chervonyy Orach",
+        "Samarina Balka",
+        "Krasnyy",
+        "Chervonoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704240
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e4731640fa3cb6f0cebf6e670da0d61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1226440765,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088329,
+            "disputed_id":1159339531,
+            "locality_id":1226440765,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226440765,
+    "wof:lastmodified":1537710955,
+    "wof:name":"Chervone",
+    "wof:parent_id":102088329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44511,
+    47.01863,
+    37.44511,
+    47.01863
+],
+  "geometry": {"coordinates":[37.44511,47.01863],"type":"Point"}
+}

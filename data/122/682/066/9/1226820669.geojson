@@ -1,0 +1,76 @@
+{
+  "id": 1226820669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96043,47.40926,32.96043,47.40926",
+    "geom:latitude":47.40926,
+    "geom:longitude":32.96043,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vitrove",
+    "gn:country_code":"UA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689649,
+    "gn:latitude":47.40926,
+    "gn:longitude":32.96043,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Vitrove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vitrove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0456\u0442\u0440\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vetrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689649
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5e37b0609e5f16a3e36b5aaa9ebc00a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088141,
+            "locality_id":1226820669,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":1226820669,
+    "wof:lastmodified":1537710233,
+    "wof:name":"Vitrove",
+    "wof:parent_id":102088141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96043,
+    47.40926,
+    32.96043,
+    47.40926
+],
+  "geometry": {"coordinates":[32.96043,47.40926],"type":"Point"}
+}

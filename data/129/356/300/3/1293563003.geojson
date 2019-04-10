@@ -1,0 +1,76 @@
+{
+  "id": 1293563003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12793,50.7275,35.12793,50.7275",
+    "geom:latitude":50.7275,
+    "geom:longitude":35.12793,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ivakhnivka",
+    "gn:country_code":"UA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807580,
+    "gn:latitude":50.7275,
+    "gn:longitude":35.12793,
+    "gn:modification_date":"2013-11-11",
+    "gn:name":"Ivakhnivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ivakhnivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u0432\u0430\u0445\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ivakhnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807580
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cdeb13d1ba7f510f4eee2c33db8d97d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088993,
+            "locality_id":1293563003,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1293563003,
+    "wof:lastmodified":1537711461,
+    "wof:name":"Ivakhnivka",
+    "wof:parent_id":102088993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12793,
+    50.7275,
+    35.12793,
+    50.7275
+],
+  "geometry": {"coordinates":[35.12793,50.7275],"type":"Point"}
+}

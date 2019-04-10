@@ -1,0 +1,80 @@
+{
+  "id": 1226290025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03957,50.9145,29.03957,50.9145",
+    "geom:latitude":50.9145,
+    "geom:longitude":29.03957,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"702091",
+    "gn:asciiname":"Vladivka",
+    "gn:country_code":"UA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689370,
+    "gn:latitude":50.9145,
+    "gn:longitude":29.03957,
+    "gn:modification_date":"2018-07-08",
+    "gn:name":"Vladivka",
+    "gn:population":236,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vladovka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Vladivka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689370
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"62d00015f4959ef5e6857a9442078632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088815,
+            "locality_id":1226290025,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1226290025,
+    "wof:lastmodified":1537710218,
+    "wof:name":"Vladivka",
+    "wof:parent_id":102088815,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03957,
+    50.9145,
+    29.03957,
+    50.9145
+],
+  "geometry": {"coordinates":[29.03957,50.9145],"type":"Point"}
+}

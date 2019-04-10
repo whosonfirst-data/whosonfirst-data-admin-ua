@@ -1,0 +1,76 @@
+{
+  "id": 1243386479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31901,48.11398,34.31901,48.11398",
+    "geom:latitude":48.11398,
+    "geom:longitude":34.31901,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tomakivka",
+    "gn:country_code":"UA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":691434,
+    "gn:latitude":48.11398,
+    "gn:longitude":34.31901,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Tomakivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Tomakivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043c\u0430\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tomakovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691434
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ad8deda5ceea2fc58d45a74e216b2ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088437,
+            "locality_id":1243386479,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1243386479,
+    "wof:lastmodified":1537710324,
+    "wof:name":"Tomakivka",
+    "wof:parent_id":102088437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31901,
+    48.11398,
+    34.31901,
+    48.11398
+],
+  "geometry": {"coordinates":[34.31901,48.11398],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101865081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.847802,46.583746,34.847802,46.583746",
+    "geom:latitude":46.583746,
+    "geom:longitude":34.847802,
+    "iso:country":"UA",
+    "lbl:latitude":46.583746,
+    "lbl:longitude":34.847802,
+    "mps:latitude":46.583746,
+    "mps:longitude":34.847802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tavriiske"
+    ],
+    "name:ger_x_preferred":[
+        "Tawrijske"
+    ],
+    "name:lav_x_preferred":[
+        "Tavrijske"
+    ],
+    "name:rum_x_preferred":[
+        "Cervonoarmiiske"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Pos\u00eblok"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u042f\u043a\u0438\u043c\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Yakymivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Chervonoarmiis'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704413,
+        "gp:id":12518434,
+        "qs:id":5,
+        "wd:id":"Q4512191"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bd7b8aa5b304d05d337411e224905ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088091,
+            "locality_id":101865081,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865081,
+    "wof:lastmodified":1544747860,
+    "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.847802,
+    46.583746,
+    34.847802,
+    46.583746
+],
+  "geometry": {"coordinates":[34.847802,46.583746],"type":"Point"}
+}

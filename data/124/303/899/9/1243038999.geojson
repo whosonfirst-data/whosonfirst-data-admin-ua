@@ -1,0 +1,76 @@
+{
+  "id": 1243038999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55415,50.24558,30.55415,50.24558",
+    "geom:latitude":50.24558,
+    "geom:longitude":30.55415,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Romankiv",
+    "gn:country_code":"UA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8519955,
+    "gn:latitude":50.24558,
+    "gn:longitude":30.55415,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"Romankiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Romankiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u043c\u0430\u043d\u043a\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Romankov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8519955
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0560b7394bed1c710ec2ca702b216c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088691,
+            "locality_id":1243038999,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1243038999,
+    "wof:lastmodified":1537711731,
+    "wof:name":"Romankiv",
+    "wof:parent_id":102088691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55415,
+    50.24558,
+    30.55415,
+    50.24558
+],
+  "geometry": {"coordinates":[30.55415,50.24558],"type":"Point"}
+}

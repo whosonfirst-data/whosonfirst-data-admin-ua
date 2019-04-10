@@ -1,0 +1,87 @@
+{
+  "id": 1125864179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7882,48.56603,24.7882,48.56603",
+    "geom:latitude":48.56603,
+    "geom:longitude":24.7882,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3278,
+    "gn:population":3278,
+    "iso:country":"UA",
+    "lbl:latitude":48.56603,
+    "lbl:longitude":24.7882,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u0436\u0430\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0434\u0436\u0430\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sadzavka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":694934,
+    "qs_pg:gn_pop":3278,
+    "qs_pg:name":"Sadzhavka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128310,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694934,
+        "qs_pg:id":128310
+    },
+    "wof:country":"UA",
+    "wof:created":1497293960,
+    "wof:geomhash":"f89107406b2d41a12a4e626a914c0647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088099,
+            "locality_id":1125864179,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125864179,
+    "wof:lastmodified":1509396851,
+    "wof:name":"Sadzhavka",
+    "wof:parent_id":102088099,
+    "wof:placetype":"locality",
+    "wof:population":3278,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7882,
+    48.56603,
+    24.7882,
+    48.56603
+],
+  "geometry": {"coordinates":[24.7882,48.56603],"type":"Point"}
+}

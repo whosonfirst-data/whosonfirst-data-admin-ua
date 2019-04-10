@@ -1,0 +1,83 @@
+{
+  "id": 1327029259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85907,48.94064,35.85907,48.94064",
+    "geom:latitude":48.94064,
+    "geom:longitude":35.85907,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chernyavshchyna",
+    "gn:country_code":"UA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710640,
+    "gn:latitude":48.94064,
+    "gn:longitude":35.85907,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Chernyavshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chernyavshchina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u044f\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Chernyavshchyna"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0440\u043d\u044f\u0432\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Cherchyavshchina",
+        "Chernyavshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710640
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"23de2e6de598e1d11b0297f139a68436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088655,
+            "locality_id":1327029259,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1327029259,
+    "wof:lastmodified":1537711266,
+    "wof:name":"Chernyavshchyna",
+    "wof:parent_id":102088655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85907,
+    48.94064,
+    35.85907,
+    48.94064
+],
+  "geometry": {"coordinates":[35.85907,48.94064],"type":"Point"}
+}

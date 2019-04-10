@@ -1,0 +1,88 @@
+{
+  "id": 101860793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.256752,48.900008,24.256752,48.900008",
+    "geom:latitude":48.900008,
+    "geom:longitude":24.256752,
+    "iso:country":"UA",
+    "lbl:latitude":48.900008,
+    "lbl:longitude":24.256752,
+    "mps:latitude":48.900008,
+    "mps:longitude":24.256752,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Verbivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0440\u0431\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ldzyany"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u0436\u043d\u044f\u0442\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rozhniativs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u0440\u0431\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Verbivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689975,
+        "gp:id":932583,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f7f9ec708fa21d6ee4bdeafc34e1e782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088135,
+            "locality_id":101860793,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101860793,
+    "wof:lastmodified":1544745624,
+    "wof:name":"\u0412\u0435\u0440\u0431\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.256752,
+    48.900008,
+    24.256752,
+    48.900008
+],
+  "geometry": {"coordinates":[24.256752,48.900008],"type":"Point"}
+}

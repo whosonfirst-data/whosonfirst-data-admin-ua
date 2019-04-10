@@ -1,0 +1,76 @@
+{
+  "id": 1276278011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88027,50.71173,27.88027,50.71173",
+    "geom:latitude":50.71173,
+    "geom:longitude":27.88027,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Marynivka",
+    "gn:country_code":"UA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462394,
+    "gn:latitude":50.71173,
+    "gn:longitude":27.88027,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Marynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Marynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u0440\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Marinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462394
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1d1aa66051f33a778f68e4f753953e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1276278011,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1276278011,
+    "wof:lastmodified":1537711706,
+    "wof:name":"Marynivka",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88027,
+    50.71173,
+    27.88027,
+    50.71173
+],
+  "geometry": {"coordinates":[27.88027,50.71173],"type":"Point"}
+}

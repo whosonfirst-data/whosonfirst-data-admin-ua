@@ -1,0 +1,103 @@
+{
+  "id": 101868077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.349775,48.482183,36.349775,48.482183",
+    "geom:latitude":48.482183,
+    "geom:longitude":36.349775,
+    "iso:country":"UA",
+    "lbl:latitude":48.482183,
+    "lbl:longitude":36.349775,
+    "mps:latitude":48.482183,
+    "mps:longitude":36.349775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Liste der Rajone der Oblast Dnipropetrowsk"
+    ],
+    "name:eng_x_preferred":[
+        "Braginovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u043e-\u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0430\u0433\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0439 \u0443\u0441\u0442\u0440\u0456\u0439 \u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u043e\u0457 \u043e\u0431\u043b\u0430\u0441\u0442\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "Brahynivka",
+        "\u0411\u0440\u0430\u0433\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Braginovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Petropavlivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0440\u0430\u0433\u0438\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Brahynivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":586,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711488,
+        "gp:id":917551,
+        "qs:id":3,
+        "wd:id":"Q1850577"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"05963604025eab8f1d4058bc5a93be0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088615,
+            "locality_id":101868077,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101868077,
+    "wof:lastmodified":1544749532,
+    "wof:name":"\u0411\u0440\u0430\u0433\u0438\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.349775,
+    48.482183,
+    36.349775,
+    48.482183
+],
+  "geometry": {"coordinates":[36.349775,48.482183],"type":"Point"}
+}

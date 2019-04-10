@@ -1,0 +1,77 @@
+{
+  "id": 1243219107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20038,51.24362,25.20038,51.24362",
+    "geom:latitude":51.24362,
+    "geom:longitude":25.20038,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ozerne",
+    "gn:country_code":"UA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707742,
+    "gn:latitude":51.24362,
+    "gn:longitude":25.20038,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ozerne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ozerne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0437\u0435\u0440\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Iezerno",
+        "Ozerno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707742
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7e2cc6eb297e76455aa1c629cd5db1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088743,
+            "locality_id":1243219107,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1243219107,
+    "wof:lastmodified":1537711123,
+    "wof:name":"Ozerne",
+    "wof:parent_id":102088743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20038,
+    51.24362,
+    25.20038,
+    51.24362
+],
+  "geometry": {"coordinates":[25.20038,51.24362],"type":"Point"}
+}

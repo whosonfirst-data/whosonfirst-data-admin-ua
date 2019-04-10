@@ -1,0 +1,75 @@
+{
+  "id": 1310181279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95431,47.14161,30.95431,47.14161",
+    "geom:latitude":47.14161,
+    "geom:longitude":30.95431,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Stepanivka",
+    "gn:country_code":"UA",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692600,
+    "gn:latitude":47.14161,
+    "gn:longitude":30.95431,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Stepanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Stepanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ostepanovka",
+        "Stepanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692600
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2194a666bfdd1257a5645bf8de110601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":1310181279,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1310181279,
+    "wof:lastmodified":1537710374,
+    "wof:name":"Stepanivka",
+    "wof:parent_id":85688877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95431,
+    47.14161,
+    30.95431,
+    47.14161
+],
+  "geometry": {"coordinates":[30.95431,47.14161],"type":"Point"}
+}

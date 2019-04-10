@@ -1,0 +1,76 @@
+{
+  "id": 1226304671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19445,50.88328,26.19445,50.88328",
+    "geom:latitude":50.88328,
+    "geom:longitude":26.19445,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Korchyn",
+    "gn:country_code":"UA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8346946,
+    "gn:latitude":50.88328,
+    "gn:longitude":26.19445,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Korchyn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Korchyn"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0440\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Korchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8346946
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e3d6834abe0d1f861be7e65afc461865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088725,
+            "locality_id":1226304671,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1226304671,
+    "wof:lastmodified":1537711619,
+    "wof:name":"Korchyn",
+    "wof:parent_id":102088725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19445,
+    50.88328,
+    26.19445,
+    50.88328
+],
+  "geometry": {"coordinates":[26.19445,50.88328],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 101868531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.07778,48.893809,34.07778,48.893809",
+    "geom:latitude":48.893809,
+    "geom:longitude":34.07778,
+    "iso:country":"UA",
+    "lbl:latitude":48.893809,
+    "lbl:longitude":34.07778,
+    "mps:latitude":48.893809,
+    "mps:longitude":34.07778,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u057e\u0565\u057f\u056c\u0578\u0563\u0578\u0580\u057d\u056f\u0578\u0565"
+    ],
+    "name:eng_x_preferred":[
+        "Svetlogorskoye"
+    ],
+    "name:ger_x_preferred":[
+        "Switlohirske"
+    ],
+    "name:lav_x_preferred":[
+        "Svitlohirske"
+    ],
+    "name:rum_x_preferred":[
+        "Svitlohirske"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Svitlohirs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u0456\u0442\u043b\u043e\u0433\u0456\u0440\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Perevolochnaya"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Poltavs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0431\u0435\u043b\u044f\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kobeliats'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0432\u0456\u0442\u043b\u043e\u0433\u0456\u0440\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Svitlohirs'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692089,
+        "gp:id":935583,
+        "wd:id":"Q4410390"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2722f1dba6b9052c40ce37ded8853440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088641,
+            "locality_id":101868531,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":101868531,
+    "wof:lastmodified":1553815558,
+    "wof:name":"\u0421\u0432\u0456\u0442\u043b\u043e\u0433\u0456\u0440\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.07778,
+    48.893809,
+    34.07778,
+    48.893809
+],
+  "geometry": {"coordinates":[34.07778,48.893809],"type":"Point"}
+}

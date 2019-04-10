@@ -1,0 +1,101 @@
+{
+  "id": 1343938085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4864,45.84901,33.4864,45.84901",
+    "geom:latitude":45.84901,
+    "geom:longitude":33.4864,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"695741",
+    "gn:admin3_code":"11153041.0",
+    "gn:asciiname":"Portovoye",
+    "gn:country_code":"UA",
+    "gn:dem":1,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696471,
+    "gn:latitude":45.84901,
+    "gn:longitude":33.4864,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Portovoye",
+    "gn:population":67,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Portovoye"
+    ],
+    "name:rus_x_historical":[
+        "\u0421\u0430\u0440\u044b\u0301-\u0411\u0443\u043b\u0430\u0301\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e\u0432\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0440\u044b\u0301-\u0411\u0443\u043b\u0430\u0301\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696471
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cd1c3a71c12dbc701e626052b600ee99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1343938085,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1343938085,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1343938085,
+    "wof:lastmodified":1537710561,
+    "wof:name":"Portovoye",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4864,
+    45.84901,
+    33.4864,
+    45.84901
+],
+  "geometry": {"coordinates":[33.4864,45.84901],"type":"Point"}
+}

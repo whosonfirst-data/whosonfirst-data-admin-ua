@@ -1,0 +1,67 @@
+{
+  "id": 1193136573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35,48.95,34.35,48.95",
+    "geom:latitude":48.95,
+    "geom:longitude":34.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karlovka",
+    "gn:country_code":"UA",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706750,
+    "gn:latitude":48.95,
+    "gn:longitude":34.35,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Karlovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706750
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"14b18c149e4d4456e8b4ea55c3a0a088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088613,
+            "locality_id":1193136573,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1193136573,
+    "wof:lastmodified":1536370054,
+    "wof:name":"Karlovka",
+    "wof:parent_id":102088613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35,
+    48.95,
+    34.35,
+    48.95
+],
+  "geometry": {"coordinates":[34.35,48.95],"type":"Point"}
+}

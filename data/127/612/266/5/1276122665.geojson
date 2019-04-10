@@ -1,0 +1,83 @@
+{
+  "id": 1276122665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10284,48.19292,37.10284,48.19292",
+    "geom:latitude":48.19292,
+    "geom:longitude":37.10284,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novopustynka",
+    "gn:country_code":"UA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112195,
+    "gn:latitude":48.19292,
+    "gn:longitude":37.10284,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Novopustynka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novopustynka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043f\u0443\u0441\u0442\u0438\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112195
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3eac822bbd221fabd7b702f21fbf4085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1276122665,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1276122665,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276122665,
+    "wof:lastmodified":1537711842,
+    "wof:name":"Novopustynka",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10284,
+    48.19292,
+    37.10284,
+    48.19292
+],
+  "geometry": {"coordinates":[37.10284,48.19292],"type":"Point"}
+}

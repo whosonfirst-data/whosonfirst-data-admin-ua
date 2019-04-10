@@ -1,0 +1,76 @@
+{
+  "id": 1327341209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9594,50.68101,32.9594,50.68101",
+    "geom:latitude":50.68101,
+    "geom:longitude":32.9594,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oleksyntsi",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559731,
+    "gn:latitude":50.68101,
+    "gn:longitude":32.9594,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Oleksyntsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Oleksyntsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043b\u0435\u043a\u0441\u0438\u043d\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Aleksintsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559731
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"46d0ae2aa9ff0ff4116406c4144b524d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088893,
+            "locality_id":1327341209,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1327341209,
+    "wof:lastmodified":1537711757,
+    "wof:name":"Oleksyntsi",
+    "wof:parent_id":102088893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9594,
+    50.68101,
+    32.9594,
+    50.68101
+],
+  "geometry": {"coordinates":[32.9594,50.68101],"type":"Point"}
+}

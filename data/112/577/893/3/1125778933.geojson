@@ -1,0 +1,87 @@
+{
+  "id": 1125778933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.74533,48.54653,25.74533,48.54653",
+    "geom:latitude":48.54653,
+    "geom:longitude":25.74533,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3560,
+    "gn:population":3560,
+    "iso:country":"UA",
+    "lbl:latitude":48.54653,
+    "lbl:longitude":25.74533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u043d\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0435\u043d\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Varentsyantsa"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":689945,
+    "qs_pg:gn_pop":3560,
+    "qs_pg:name":"Verenchanka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128194,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689945,
+        "qs_pg:id":128194
+    },
+    "wof:country":"UA",
+    "wof:created":1497290385,
+    "wof:geomhash":"d2dece62369e2bf677f880e59d2d3f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088111,
+            "locality_id":1125778933,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":1125778933,
+    "wof:lastmodified":1509391437,
+    "wof:name":"Verenchanka",
+    "wof:parent_id":102088111,
+    "wof:placetype":"locality",
+    "wof:population":3560,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74533,
+    48.54653,
+    25.74533,
+    48.54653
+],
+  "geometry": {"coordinates":[25.74533,48.54653],"type":"Point"}
+}

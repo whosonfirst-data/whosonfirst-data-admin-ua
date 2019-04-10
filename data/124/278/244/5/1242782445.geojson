@@ -1,0 +1,83 @@
+{
+  "id": 1242782445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09485,48.09879,38.09485,48.09879",
+    "geom:latitude":48.09879,
+    "geom:longitude":38.09485,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Orikhove",
+    "gn:country_code":"UA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9116259,
+    "gn:latitude":48.09879,
+    "gn:longitude":38.09485,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Orikhove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Orikhove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0440\u0456\u0445\u043e\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9116259
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"542ce227479d22daa0ab21f69aa5b535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1242782445,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815735,
+            "disputed_id":1159339531,
+            "locality_id":1242782445,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1242782445,
+    "wof:lastmodified":1537711861,
+    "wof:name":"Orikhove",
+    "wof:parent_id":1108815735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09485,
+    48.09879,
+    38.09485,
+    48.09879
+],
+  "geometry": {"coordinates":[38.09485,48.09879],"type":"Point"}
+}

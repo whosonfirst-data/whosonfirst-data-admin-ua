@@ -1,0 +1,77 @@
+{
+  "id": 1293158219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7,51.05,25.7,51.05",
+    "geom:latitude":51.05,
+    "geom:longitude":25.7,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kalynivka",
+    "gn:country_code":"UA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705373,
+    "gn:latitude":51.05,
+    "gn:longitude":25.7,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kalynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kalynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koloniya Golodnitsa",
+        "Kalinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705373
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"06cb048e33012be548d308e6ea583e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088807,
+            "locality_id":1293158219,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1293158219,
+    "wof:lastmodified":1537711009,
+    "wof:name":"Kalynivka",
+    "wof:parent_id":102088807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7,
+    51.05,
+    25.7,
+    51.05
+],
+  "geometry": {"coordinates":[25.7,51.05],"type":"Point"}
+}

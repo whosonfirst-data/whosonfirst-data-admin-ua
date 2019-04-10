@@ -1,0 +1,76 @@
+{
+  "id": 1344232735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96245,49.52749,32.96245,49.52749",
+    "geom:latitude":49.52749,
+    "geom:longitude":32.96245,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Burimka",
+    "gn:country_code":"UA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711138,
+    "gn:latitude":49.52749,
+    "gn:longitude":32.96245,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Burimka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Burimka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0440\u0456\u043c\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Buromka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102089019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711138
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cb2ab83297feb9eb257bf0a88b5d0fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089019,
+            "locality_id":1344232735,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1344232735,
+    "wof:lastmodified":1537711290,
+    "wof:name":"Burimka",
+    "wof:parent_id":102089019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96245,
+    49.52749,
+    32.96245,
+    49.52749
+],
+  "geometry": {"coordinates":[32.96245,49.52749],"type":"Point"}
+}

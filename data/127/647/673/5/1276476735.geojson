@@ -1,0 +1,77 @@
+{
+  "id": 1276476735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6,47.65,33.6,47.65",
+    "geom:latitude":47.65,
+    "geom:longitude":33.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shevchenko",
+    "gn:country_code":"UA",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710530,
+    "gn:latitude":47.65,
+    "gn:longitude":33.6,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Shevchenko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shevchenko"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chervony",
+        "Chervonyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710530
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"782cc964bbc4d2c540ab140ff63627f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088271,
+            "locality_id":1276476735,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1276476735,
+    "wof:lastmodified":1537711260,
+    "wof:name":"Shevchenko",
+    "wof:parent_id":102088271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6,
+    47.65,
+    33.6,
+    47.65
+],
+  "geometry": {"coordinates":[33.6,47.65],"type":"Point"}
+}

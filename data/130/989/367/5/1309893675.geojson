@@ -1,0 +1,101 @@
+{
+  "id": 1309893675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64084,45.31209,33.64084,45.31209",
+    "geom:latitude":45.31209,
+    "geom:longitude":33.64084,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"694905",
+    "gn:admin3_code":"11153103.0",
+    "gn:asciiname":"Naumovka",
+    "gn:country_code":"UA",
+    "gn:dem":45,
+    "gn:elevation":"43.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711050,
+    "gn:latitude":45.31209,
+    "gn:longitude":33.64084,
+    "gn:modification_date":"2016-08-12",
+    "gn:name":"Naumovka",
+    "gn:population":96,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naumovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u043e\u0437-\u041e\u0433\u043b\u0443\u0301-\u0414\u0436\u0430\u043d\u043a\u043e\u0301\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0437-\u041e\u0433\u043b\u0443\u0301-\u0414\u0436\u0430\u043d\u043a\u043e\u0301\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0443\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711050
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"beae50d3dfb6796a147462b29919cf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1309893675,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1309893675,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1309893675,
+    "wof:lastmodified":1537711285,
+    "wof:name":"Naumovka",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64084,
+    45.31209000000001,
+    33.64084,
+    45.31209000000001
+],
+  "geometry": {"coordinates":[33.64084,45.31209000000001],"type":"Point"}
+}

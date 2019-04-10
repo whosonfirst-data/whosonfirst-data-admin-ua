@@ -1,0 +1,73 @@
+{
+  "id": 1293362985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51693,49.52305,23.51693,49.52305",
+    "geom:latitude":49.52305,
+    "geom:longitude":23.51693,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Velyka Khvoroshcha",
+    "gn:country_code":"UA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234747,
+    "gn:latitude":49.52305,
+    "gn:longitude":23.51693,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Velyka Khvoroshcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Velyka Khvoroshcha"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0425\u0432\u043e\u0440\u043e\u0449\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        1108815683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234747
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"420cf399009ebf82f5b0125267e92812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815683,
+            "locality_id":1293362985,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1293362985,
+    "wof:lastmodified":1537712031,
+    "wof:name":"Velyka Khvoroshcha",
+    "wof:parent_id":1108815683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51693,
+    49.52305,
+    23.51693,
+    49.52305
+],
+  "geometry": {"coordinates":[23.51693,49.52305],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125856103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73086,48.12918,29.73086,48.12918",
+    "geom:latitude":48.12918,
+    "geom:longitude":29.73086,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3094,
+    "gn:population":3094,
+    "iso:country":"UA",
+    "lbl:latitude":48.12918,
+    "lbl:longitude":29.73086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697543,
+    "qs_pg:gn_pop":3094,
+    "qs_pg:name":"Peschana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102088151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697543,
+        "qs_pg:id":128364
+    },
+    "wof:country":"UA",
+    "wof:created":1497293626,
+    "wof:geomhash":"32c65ac67497f1b1b100aa8025e87880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088151,
+            "locality_id":1125856103,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1125856103,
+    "wof:lastmodified":1509396226,
+    "wof:name":"Peschana",
+    "wof:parent_id":102088151,
+    "wof:placetype":"locality",
+    "wof:population":3094,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73086,
+    48.12918,
+    29.73086,
+    48.12918
+],
+  "geometry": {"coordinates":[29.73086,48.12918],"type":"Point"}
+}

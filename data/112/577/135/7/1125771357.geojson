@@ -1,0 +1,107 @@
+{
+  "id": 1125771357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16564,50.06354,36.16564,50.06354",
+    "geom:latitude":50.06354,
+    "geom:longitude":36.16564,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7211,
+    "gn:population":7211,
+    "iso:country":"UA",
+    "lbl:latitude":50.06354,
+    "lbl:longitude":36.16564,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mala Danylivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b.\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043b\u0430 \u0414\u0430\u043d\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0414\u0430\u043d\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Mala Danylivka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":702231,
+    "qs_pg:gn_pop":7211,
+    "qs_pg:name":"Malaya Danilovka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Kharkivs\u00b4ka Oblast\u00b4",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":266818,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":926059,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Kharkivs\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702231,
+        "gp:id":926059,
+        "qs_pg:id":266818
+    },
+    "wof:country":"UA",
+    "wof:created":1497290077,
+    "wof:geomhash":"0b8a2c875f886705f494af14591392e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088945,
+            "locality_id":1125771357,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1125771357,
+    "wof:lastmodified":1509390992,
+    "wof:name":"Malaya Danilovka",
+    "wof:parent_id":102088945,
+    "wof:placetype":"locality",
+    "wof:population":7211,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16564,
+    50.06354,
+    36.16564,
+    50.06354
+],
+  "geometry": {"coordinates":[36.16564,50.06354],"type":"Point"}
+}

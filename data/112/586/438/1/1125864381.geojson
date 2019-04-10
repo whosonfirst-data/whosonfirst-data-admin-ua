@@ -1,0 +1,84 @@
+{
+  "id": 1125864381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.82813,48.98113,29.82813,48.98113",
+    "geom:latitude":48.98113,
+    "geom:longitude":29.82813,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3619,
+    "gn:population":3619,
+    "iso:country":"UA",
+    "lbl:latitude":48.98113,
+    "lbl:longitude":29.82813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u041c\u0456\u0441\u0442\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u041c\u0456\u0441\u0442\u043e"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699761,
+    "qs_pg:gn_pop":3619,
+    "qs_pg:name":"Nove-Misto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128432,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699761,
+        "qs_pg:id":128432
+    },
+    "wof:country":"UA",
+    "wof:created":1497293967,
+    "wof:geomhash":"afba3e36243e2f4b24b4913c8c8c3029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088403,
+            "locality_id":1125864381,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1125864381,
+    "wof:lastmodified":1509396861,
+    "wof:name":"Nove-Misto",
+    "wof:parent_id":102088403,
+    "wof:placetype":"locality",
+    "wof:population":3619,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.82813,
+    48.98113,
+    29.82813,
+    48.98113
+],
+  "geometry": {"coordinates":[29.82813,48.98113],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 101861195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.965184,49.489089,22.965184,49.489089",
+    "geom:latitude":49.489089,
+    "geom:longitude":22.965184,
+    "iso:country":"UA",
+    "lbl:latitude":49.489089,
+    "lbl:longitude":22.965184,
+    "mps:latitude":49.489089,
+    "mps:longitude":22.965184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u820a\u897f\u5229"
+    ],
+    "name:eng_x_preferred":[
+        "Stara Sil"
+    ],
+    "name:ger_x_preferred":[
+        "Stara Sil"
+    ],
+    "name:pol_x_preferred":[
+        "Stara S\u00f3l"
+    ],
+    "name:rum_x_preferred":[
+        "Stara Sil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0421\u043e\u043b\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "Stara Sil\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0421\u0456\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Stara Sul\u2019"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"L'vivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u0430\u0440\u043e\u0441\u0430\u043c\u0431\u0456\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Starosambirs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u0440\u0430 \u0421\u0456\u043b\u044c",
+    "qs:loc_alt":"Stara Sil",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692865,
+        "gp:id":935008,
+        "qs:id":7,
+        "wd:id":"Q1019877"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1f869d74bdc89cc23f0edf11eb793672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088273,
+            "locality_id":101861195,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":101861195,
+    "wof:lastmodified":1544745838,
+    "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0421\u0456\u043b\u044c",
+    "wof:parent_id":102088273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.965184,
+    49.489089,
+    22.965184,
+    49.489089
+],
+  "geometry": {"coordinates":[22.965184,49.489089],"type":"Point"}
+}

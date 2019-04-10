@@ -1,0 +1,104 @@
+{
+  "id": 101865197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.278958,47.488596,35.278958,47.488596",
+    "geom:latitude":47.488596,
+    "geom:longitude":35.278958,
+    "iso:country":"UA",
+    "lbl:latitude":47.488596,
+    "lbl:longitude":35.278958,
+    "mps:latitude":47.488596,
+    "mps:longitude":35.278958,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e0a\u514b\u91cc\u5c3c\u9f4a\u4e9e"
+    ],
+    "name:eng_x_preferred":[
+        "Verkhnia Krynytsia"
+    ],
+    "name:ger_x_preferred":[
+        "Werchnja Krynyzja"
+    ],
+    "name:lav_x_preferred":[
+        "Verh\u0146a Krinicja"
+    ],
+    "name:rum_x_preferred":[
+        "Verhnea Kr\u00een\u00ee\u021bea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u041a\u0440\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f \u041a\u0440\u0438\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Nizhnyaya Krini"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Vasylivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0435\u0440\u0445\u043d\u044f \u041a\u0440\u0438\u043d\u0438\u0446\u044f",
+    "qs:loc_alt":"Verkhnia Krynytsia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689845,
+        "gp:id":937125,
+        "qs:id":4,
+        "wd:id":"Q4108865"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ba062e3ab3dc99742a02470ea4d7c003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088303,
+            "locality_id":101865197,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101865197,
+    "wof:lastmodified":1544747920,
+    "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u041a\u0440\u0438\u043d\u0438\u0446\u044f",
+    "wof:parent_id":102088303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.278958,
+    47.488596,
+    35.278958,
+    47.488596
+],
+  "geometry": {"coordinates":[35.278958,47.488596],"type":"Point"}
+}

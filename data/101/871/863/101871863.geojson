@@ -1,0 +1,108 @@
+{
+  "id": 101871863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.303211,52.323567,33.303211,52.323567",
+    "geom:latitude":52.323567,
+    "geom:longitude":33.303211,
+    "iso:country":"UA",
+    "lbl:latitude":52.323567,
+    "lbl:longitude":33.303211,
+    "mps:latitude":52.323567,
+    "mps:longitude":33.303211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0533\u0580\u0565\u0574\u0575\u0561\u0579"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u5217\u7c73\u4e9e\u5947"
+    ],
+    "name:eng_x_preferred":[
+        "Gremyach"
+    ],
+    "name:ger_x_preferred":[
+        "Hremjatsch"
+    ],
+    "name:rum_x_preferred":[
+        "Hremeaci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u043c\u044f\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "Hrem\u2019yach"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0435\u043c\u2019\u044f\u0447",
+        "\u0413\u0440\u0435\u043c'\u044f\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Gremyach"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernihivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novhorod-Sivers'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u0440\u0435\u043c'\u044f\u0447",
+    "qs:loc_alt":"Hremiach",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708146,
+        "gp:id":920584,
+        "qs:id":9,
+        "wd:id":"Q4148562"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"58bfa72fb6000a1d87072349b90677e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089027,
+            "locality_id":101871863,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":101871863,
+    "wof:lastmodified":1553815560,
+    "wof:name":"\u0413\u0440\u0435\u043c'\u044f\u0447",
+    "wof:parent_id":102089027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.303211,
+    52.323567,
+    33.303211,
+    52.323567
+],
+  "geometry": {"coordinates":[33.303211,52.323567],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293803983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89412,48.87699,35.89412,48.87699",
+    "geom:latitude":48.87699,
+    "geom:longitude":35.89412,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Novomoskovs'ke",
+    "gn:country_code":"UA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069327,
+    "gn:latitude":48.87699,
+    "gn:longitude":35.89412,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Novomoskovs\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Novomoskovs\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novomoskovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069327
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"833238e0ca557c6dbc1c28805c760873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088655,
+            "locality_id":1293803983,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1293803983,
+    "wof:lastmodified":1537711942,
+    "wof:name":"Novomoskovs'ke",
+    "wof:parent_id":102088655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89412,
+    48.87699,
+    35.89412,
+    48.87699
+],
+  "geometry": {"coordinates":[35.89412,48.87699],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327148101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31266,49.53519,32.31266,49.53519",
+    "geom:latitude":49.53519,
+    "geom:longitude":32.31266,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Skorodystyk",
+    "gn:country_code":"UA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180485,
+    "gn:latitude":49.53519,
+    "gn:longitude":32.31266,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Skorodystyk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Skorodystyk"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043a\u043e\u0440\u043e\u0434\u0438\u0441\u0442\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180485
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"327df676eae5d4dbe8961ded10641e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088669,
+            "locality_id":1327148101,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1327148101,
+    "wof:lastmodified":1537712011,
+    "wof:name":"Skorodystyk",
+    "wof:parent_id":102088669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31266,
+    49.53519,
+    32.31266,
+    49.53519
+],
+  "geometry": {"coordinates":[32.31266,49.53519],"type":"Point"}
+}

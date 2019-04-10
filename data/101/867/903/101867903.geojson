@@ -1,0 +1,78 @@
+{
+  "id": 101867903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.081802,48.541721,35.081802,48.541721",
+    "geom:latitude":48.541721,
+    "geom:longitude":35.081802,
+    "iso:country":"UA",
+    "lbl:latitude":48.541721,
+    "lbl:longitude":35.081802,
+    "mps:latitude":48.541721,
+    "mps:longitude":35.081802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Dnipropetrovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042e\u0432\u0456\u043b\u0435\u0439\u043d\u0435",
+    "qs:loc_alt":"Yuvileine",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":918981,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ebb943cca284ba26e9891efe30c189ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815737,
+            "locality_id":101867903,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101867903,
+    "wof:lastmodified":1544749435,
+    "wof:name":"\u042e\u0432\u0456\u043b\u0435\u0439\u043d\u0435",
+    "wof:parent_id":1108815737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.081802,
+    48.541721,
+    35.081802,
+    48.541721
+],
+  "geometry": {"coordinates":[35.081802,48.541721],"type":"Point"}
+}

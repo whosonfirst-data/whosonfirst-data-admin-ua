@@ -1,0 +1,89 @@
+{
+  "id": 101864251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.810067,50.845701,26.810067,50.845701",
+    "geom:latitude":50.845701,
+    "geom:longitude":26.810067,
+    "iso:country":"UA",
+    "lbl:latitude":50.845701,
+    "lbl:longitude":26.810067,
+    "mps:latitude":50.845701,
+    "mps:longitude":26.810067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ukr_x_preferred":[
+        "Polis\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u043b\u0456\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Pohoretowka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Rivnens'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0435\u0440\u0435\u0437\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bereznivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u043b\u0456\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Polis'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":672,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696786,
+        "gp:id":932520,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a19c82c2da8da524e9c87e7dc87e9f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815693,
+            "locality_id":101864251,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":101864251,
+    "wof:lastmodified":1544747430,
+    "wof:name":"\u041f\u043e\u043b\u0456\u0441\u044c\u043a\u0435",
+    "wof:parent_id":1108815693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.810067,
+    50.845701,
+    26.810067,
+    50.845701
+],
+  "geometry": {"coordinates":[26.810067,50.845701],"type":"Point"}
+}

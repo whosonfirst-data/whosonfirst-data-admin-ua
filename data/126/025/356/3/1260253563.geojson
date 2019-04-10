@@ -1,0 +1,76 @@
+{
+  "id": 1260253563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05142,50.45049,31.05142,50.45049",
+    "geom:latitude":50.45049,
+    "geom:longitude":31.05142,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Perehudy",
+    "gn:country_code":"UA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526663,
+    "gn:latitude":50.45049,
+    "gn:longitude":31.05142,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Perehudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Perehudy"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0440\u0435\u0433\u0443\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Peregudy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        1108815647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526663
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"de9a9a7c969a301bde5e21adc1ea5d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815647,
+            "locality_id":1260253563,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1260253563,
+    "wof:lastmodified":1537711735,
+    "wof:name":"Perehudy",
+    "wof:parent_id":1108815647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05142,
+    50.45049,
+    31.05142,
+    50.45049
+],
+  "geometry": {"coordinates":[31.05142,50.45049],"type":"Point"}
+}

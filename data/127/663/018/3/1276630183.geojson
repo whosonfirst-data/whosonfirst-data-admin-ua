@@ -1,0 +1,76 @@
+{
+  "id": 1276630183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82868,50.62856,26.82868,50.62856",
+    "geom:latitude":50.62856,
+    "geom:longitude":26.82868,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Svitanok",
+    "gn:country_code":"UA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692042,
+    "gn:latitude":50.62856,
+    "gn:longitude":26.82868,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Svitanok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u0442\u0430\u043d\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bludov",
+        "Bludiv",
+        "Bluduv",
+        "Svitanok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692042
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"76cd74d973f7ca40ad03be9b0edf34e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088689,
+            "locality_id":1276630183,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1276630183,
+    "wof:lastmodified":1537710349,
+    "wof:name":"Svitanok",
+    "wof:parent_id":102088689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82868,
+    50.62856,
+    26.82868,
+    50.62856
+],
+  "geometry": {"coordinates":[26.82868,50.62856],"type":"Point"}
+}

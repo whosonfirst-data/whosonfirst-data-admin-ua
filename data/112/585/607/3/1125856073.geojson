@@ -1,0 +1,100 @@
+{
+  "id": 1125856073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57901,49.53122,25.57901,49.53122",
+    "geom:latitude":49.53122,
+    "geom:longitude":25.57901,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3033,
+    "gn:population":3033,
+    "iso:country":"UA",
+    "lbl:latitude":49.53122,
+    "lbl:longitude":25.57901,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u4f69\u7279\u91cc\u57fa\u592b"
+    ],
+    "name:eng_x_preferred":[
+        "Petrykiv"
+    ],
+    "name:pol_x_preferred":[
+        "Petryk\u00f3w"
+    ],
+    "name:rum_x_preferred":[
+        "Petr\u00eekiv"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Petrykiv"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697457,
+    "qs_pg:gn_pop":3033,
+    "qs_pg:name":"Petrikov",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128361,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        1108815697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697457,
+        "qs_pg:id":128361,
+        "wd:id":"Q4360546"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293624,
+    "wof:geomhash":"6a8ecb9d36a9db225b3ba55029d04f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815697,
+            "locality_id":1125856073,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":1125856073,
+    "wof:lastmodified":1514509778,
+    "wof:name":"Petrikov",
+    "wof:parent_id":1108815697,
+    "wof:placetype":"locality",
+    "wof:population":3033,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57901,
+    49.53122,
+    25.57901,
+    49.53122
+],
+  "geometry": {"coordinates":[25.57901,49.53122],"type":"Point"}
+}

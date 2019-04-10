@@ -1,0 +1,79 @@
+{
+  "id": 101861637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.629732,48.513387,27.629732,48.513387",
+    "geom:latitude":48.513387,
+    "geom:longitude":27.629732,
+    "iso:country":"UA",
+    "lbl:latitude":48.513387,
+    "lbl:longitude":27.629732,
+    "mps:latitude":48.513387,
+    "mps:longitude":27.629732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Vinnyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u043e\u0433\u0438\u043b\u0456\u0432-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Mohyliv-Podil's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042f\u0440\u0438\u0448\u0456\u0432",
+    "qs:loc_alt":"Yaryshiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        1108815765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688402,
+        "gp:id":924315,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5b494b7d36b510ceac2c47f0120053ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815765,
+            "locality_id":101861637,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":101861637,
+    "wof:lastmodified":1544746068,
+    "wof:name":"\u042f\u0440\u0438\u0448\u0456\u0432",
+    "wof:parent_id":1108815765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.629732,
+    48.513387,
+    27.629732,
+    48.513387
+],
+  "geometry": {"coordinates":[27.629732,48.513387],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242632247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,48.2,24.31667,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":24.31667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Surdok",
+    "gn:country_code":"UA",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692179,
+    "gn:latitude":48.2,
+    "gn:longitude":24.31667,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Surdok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Uzhgorod",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692179
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a4f713208205056615e6fbd75bfcfd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088021,
+            "locality_id":1242632247,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1242632247,
+    "wof:lastmodified":1536984418,
+    "wof:name":"Surdok",
+    "wof:parent_id":102088021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    48.2,
+    24.31667,
+    48.2
+],
+  "geometry": {"coordinates":[24.31667,48.2],"type":"Point"}
+}

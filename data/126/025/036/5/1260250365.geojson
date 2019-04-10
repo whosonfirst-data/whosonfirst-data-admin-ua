@@ -1,0 +1,73 @@
+{
+  "id": 1260250365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45043,50.90852,25.45043,50.90852",
+    "geom:latitude":50.90852,
+    "geom:longitude":25.45043,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Konopel'ka",
+    "gn:country_code":"UA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8345265,
+    "gn:latitude":50.90852,
+    "gn:longitude":25.45043,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Konopel\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Konopel\u2019ka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043d\u043e\u043f\u0435\u043b\u044c\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8345265
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d4bdb5d20d945c5b72df5f4e565c6ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088699,
+            "locality_id":1260250365,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1260250365,
+    "wof:lastmodified":1537711616,
+    "wof:name":"Konopel'ka",
+    "wof:parent_id":102088699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45043,
+    50.90852,
+    25.45043,
+    50.90852
+],
+  "geometry": {"coordinates":[25.45043,50.90852],"type":"Point"}
+}

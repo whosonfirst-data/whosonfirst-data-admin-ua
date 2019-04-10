@@ -1,0 +1,110 @@
+{
+  "id": 101866951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.220624,46.972857,36.220624,46.972857",
+    "geom:latitude":46.972857,
+    "geom:longitude":36.220624,
+    "iso:country":"UA",
+    "lbl:latitude":46.972857,
+    "lbl:longitude":36.220624,
+    "mps:latitude":46.972857,
+    "mps:longitude":36.220624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u6fa4\u5217\u5c3c\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Zelenivka"
+    ],
+    "name:ger_x_preferred":[
+        "Seleniwka"
+    ],
+    "name:lav_x_preferred":[
+        "Zele\u0146ivka"
+    ],
+    "name:rum_x_preferred":[
+        "Zelenivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0435\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Zelenovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
+    "qs:a1_alt":"Zaporiz'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Prymors'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0435\u043b\u0435\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Zelenivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687382,
+        "gp:id":939930,
+        "qs:id":4,
+        "wd:id":"Q4190300"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"042206c243e872cb868ab590d00ecc06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088235,
+            "locality_id":101866951,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":101866951,
+    "wof:lastmodified":1553815557,
+    "wof:name":"\u0417\u0435\u043b\u0435\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.220624,
+    46.972857,
+    36.220624,
+    46.972857
+],
+  "geometry": {"coordinates":[36.220624,46.972857],"type":"Point"}
+}

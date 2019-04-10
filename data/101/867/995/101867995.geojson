@@ -1,0 +1,104 @@
+{
+  "id": 101867995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.566916,48.828796,34.566916,48.828796",
+    "geom:latitude":48.828796,
+    "geom:longitude":34.566916,
+    "iso:country":"UA",
+    "lbl:latitude":48.828796,
+    "lbl:longitude":34.566916,
+    "mps:latitude":48.828796,
+    "mps:longitude":34.566916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Novo-Podkryazh"
+    ],
+    "name:ger_x_preferred":[
+        "Nowopidkrjasch"
+    ],
+    "name:lav_x_preferred":[
+        "Novopidkrja\u017ea"
+    ],
+    "name:rum_x_preferred":[
+        "Novopidkreaj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u0434\u043a\u0440\u044f\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "Novopidkryazh"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043f\u0456\u0434\u043a\u0440\u044f\u0436"
+    ],
+    "name:unk_x_variant":[
+        "Mogilevskiye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0426\u0430\u0440\u0438\u0447\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tsarychans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u043f\u0456\u0434\u043a\u0440\u044f\u0436",
+    "qs:loc_alt":"Novopidkriazh",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699337,
+        "gp:id":928597,
+        "qs:id":9,
+        "wd:id":"Q4324960"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"463c719bf8dff6dd7bebc9092f836712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088613,
+            "locality_id":101867995,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101867995,
+    "wof:lastmodified":1544749487,
+    "wof:name":"\u041d\u043e\u0432\u043e\u043f\u0456\u0434\u043a\u0440\u044f\u0436",
+    "wof:parent_id":102088613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.566916,
+    48.828796,
+    34.566916,
+    48.828796
+],
+  "geometry": {"coordinates":[34.566916,48.828796],"type":"Point"}
+}

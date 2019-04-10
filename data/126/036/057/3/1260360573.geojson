@@ -1,0 +1,73 @@
+{
+  "id": 1260360573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94719,50.20759,31.94719,50.20759",
+    "geom:latitude":50.20759,
+    "geom:longitude":31.94719,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koptevychivka",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9289937,
+    "gn:latitude":50.20759,
+    "gn:longitude":31.94719,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Koptevychivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Koptevychivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043f\u0442\u0435\u0432\u0438\u0447\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9289937
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1a5c90e9186b4fb05401b8b727d5da7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088781,
+            "locality_id":1260360573,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1260360573,
+    "wof:lastmodified":1537711871,
+    "wof:name":"Koptevychivka",
+    "wof:parent_id":102088781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94719000000001,
+    50.20759,
+    31.94719000000001,
+    50.20759
+],
+  "geometry": {"coordinates":[31.94719000000001,50.20759],"type":"Point"}
+}

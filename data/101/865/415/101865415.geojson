@@ -1,0 +1,105 @@
+{
+  "id": 101865415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35287,46.358186,32.35287,46.358186",
+    "geom:latitude":46.358186,
+    "geom:longitude":32.35287,
+    "gn:population":2938,
+    "iso:country":"UA",
+    "lbl:latitude":46.358186,
+    "lbl:longitude":32.35287,
+    "mps:latitude":46.358186,
+    "mps:longitude":32.35287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chulakivka"
+    ],
+    "name:ger_x_preferred":[
+        "Tschulakiwka"
+    ],
+    "name:lav_x_preferred":[
+        "\u010culakivka"
+    ],
+    "name:rum_x_preferred":[
+        "Ciulakivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u0430\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043b\u0430\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Chulakovka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Khersons'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u043e\u043b\u043e\u043f\u0440\u0438\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Holoprystans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0443\u043b\u0430\u043a\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Chulakivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102087989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710368,
+        "gp:id":918562,
+        "qs:id":181524,
+        "wd:id":"Q4517892"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bac5fd44903de92fbf40ed314ec971e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087989,
+            "locality_id":101865415,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":101865415,
+    "wof:lastmodified":1544748034,
+    "wof:name":"\u0427\u0443\u043b\u0430\u043a\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102087989,
+    "wof:placetype":"locality",
+    "wof:population":2938,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35287,
+    46.358186,
+    32.35287,
+    46.358186
+],
+  "geometry": {"coordinates":[32.35287,46.358186],"type":"Point"}
+}

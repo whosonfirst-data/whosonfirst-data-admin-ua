@@ -1,0 +1,79 @@
+{
+  "id": 101861747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.284084,48.814913,27.284084,48.814913",
+    "geom:latitude":48.814913,
+    "geom:longitude":27.284084,
+    "iso:country":"UA",
+    "lbl:latitude":48.814913,
+    "lbl:longitude":27.284084,
+    "mps:latitude":48.814913,
+    "mps:longitude":27.284084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Khmel'nyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u0443\u0448\u0438\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novoushyts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u0441\u043a\u0430\u0434\u0430",
+    "qs:loc_alt":"Kaskada",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706656,
+        "gp:id":928204,
+        "qs:id":6
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"da54ef81360b9e781044964f2a8bc5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088227,
+            "locality_id":101861747,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":101861747,
+    "wof:lastmodified":1544746125,
+    "wof:name":"\u041a\u0430\u0441\u043a\u0430\u0434\u0430",
+    "wof:parent_id":102088227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.284084,
+    48.814913,
+    27.284084,
+    48.814913
+],
+  "geometry": {"coordinates":[27.284084,48.814913],"type":"Point"}
+}

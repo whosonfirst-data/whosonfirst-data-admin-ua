@@ -1,0 +1,66 @@
+{
+  "id": 1209610183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21667,48.9,33.21667,48.9",
+    "geom:latitude":48.9,
+    "geom:longitude":33.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Molchanika",
+    "gn:cc2":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700859,
+    "gn:latitude":48.9,
+    "gn:longitude":33.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Molchanika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molchanovka",
+        "Molchanika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700859
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b9b8c5483a17a8c51bb7a154ca62fa8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209610183
+        }
+    ],
+    "wof:id":1209610183,
+    "wof:lastmodified":1537710794,
+    "wof:name":"Molchanika",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21667,
+    48.9,
+    33.21667,
+    48.9
+],
+  "geometry": {"coordinates":[33.21667,48.9],"type":"Point"}
+}

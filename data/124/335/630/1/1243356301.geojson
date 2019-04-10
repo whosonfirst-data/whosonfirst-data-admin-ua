@@ -1,0 +1,77 @@
+{
+  "id": 1243356301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31667,48.71667,37.31667,48.71667",
+    "geom:latitude":48.71667,
+    "geom:longitude":37.31667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pravda",
+    "gn:country_code":"UA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696369,
+    "gn:latitude":48.71667,
+    "gn:longitude":37.31667,
+    "gn:modification_date":"1994-03-08",
+    "gn:name":"Pravda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696369
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"40a7db9c79e7542d856d26efab24cf42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730729,
+            "disputed_id":1159339531,
+            "locality_id":1243356301,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730729,
+            "disputed_id":1159339531,
+            "locality_id":1243356301,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243356301,
+    "wof:lastmodified":1536936306,
+    "wof:name":"Pravda",
+    "wof:parent_id":1108730729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31667,
+    48.71667,
+    37.31667,
+    48.71667
+],
+  "geometry": {"coordinates":[37.31667,48.71667],"type":"Point"}
+}

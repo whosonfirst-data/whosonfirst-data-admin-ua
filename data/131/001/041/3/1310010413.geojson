@@ -1,0 +1,77 @@
+{
+  "id": 1310010413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16583,47.75389,38.16583,47.75389",
+    "geom:latitude":47.75389,
+    "geom:longitude":38.16583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kashperovka",
+    "gn:country_code":"UA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706664,
+    "gn:latitude":47.75389,
+    "gn:longitude":38.16583,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kashperovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706664
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e6de61ea14df53273c9e8cf77d34e64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1310010413,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1310010413,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310010413,
+    "wof:lastmodified":1536634919,
+    "wof:name":"Kashperovka",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16583,
+    47.75389000000001,
+    38.16583,
+    47.75389000000001
+],
+  "geometry": {"coordinates":[38.16583,47.75389000000001],"type":"Point"}
+}

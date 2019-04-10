@@ -1,0 +1,86 @@
+{
+  "id": 1344255353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13437,48.51606,38.13437,48.51606",
+    "geom:latitude":48.51606,
+    "geom:longitude":38.13437,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vershyna",
+    "gn:country_code":"UA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689791,
+    "gn:latitude":48.51606,
+    "gn:longitude":38.13437,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Vershyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vershyna"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0440\u0448\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vershina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689791
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8af7549ee0990ebf5ea8657311605521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1344255353,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1344255353,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1344255353,
+    "wof:lastmodified":1537710242,
+    "wof:name":"Vershyna",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13437,
+    48.51606,
+    38.13437,
+    48.51606
+],
+  "geometry": {"coordinates":[38.13437,48.51606],"type":"Point"}
+}

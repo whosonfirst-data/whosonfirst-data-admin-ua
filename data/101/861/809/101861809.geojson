@@ -1,0 +1,82 @@
+{
+  "id": 101861809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36514,49.051224,26.36514,49.051224",
+    "geom:latitude":49.051224,
+    "geom:longitude":26.36514,
+    "iso:country":"UA",
+    "lbl:latitude":49.051224,
+    "lbl:longitude":26.36514,
+    "mps:latitude":49.051224,
+    "mps:longitude":26.36514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Svirshkovtsy"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Khmel'nyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u0435\u043c\u0435\u0440\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Chemerovets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0432\u0456\u0440\u0448\u043a\u0456\u0432\u0446\u0456",
+    "qs:loc_alt":"Svirshkivtsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692053,
+        "gp:id":918111,
+        "qs:id":4
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2eab9d11850a42612db0b5014bed76e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088243,
+            "locality_id":101861809,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":101861809,
+    "wof:lastmodified":1544746158,
+    "wof:name":"\u0421\u0432\u0456\u0440\u0448\u043a\u0456\u0432\u0446\u0456",
+    "wof:parent_id":102088243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36514,
+    49.051224,
+    26.36514,
+    49.051224
+],
+  "geometry": {"coordinates":[26.36514,49.051224],"type":"Point"}
+}

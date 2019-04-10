@@ -1,0 +1,80 @@
+{
+  "id": 1225815785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85276,49.30367,39.85276,49.30367",
+    "geom:latitude":49.30367,
+    "geom:longitude":39.85276,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Stril'tsivka",
+    "gn:country_code":"UA",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":692433,
+    "gn:latitude":49.30367,
+    "gn:longitude":39.85276,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Stril\u2019tsivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stril'tsivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043b\u044c\u0446\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0456\u043b\u044c\u0446\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Strel\u2019tsovka",
+        "Stril\u2019tsivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692433
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1c5f8c56d5b51f9fddbdcbd2350993fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088969,
+            "locality_id":1225815785,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1225815785,
+    "wof:lastmodified":1537710366,
+    "wof:name":"Stril'tsivka",
+    "wof:parent_id":102088969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85276,
+    49.30367,
+    39.85276,
+    49.30367
+],
+  "geometry": {"coordinates":[39.85276,49.30367],"type":"Point"}
+}

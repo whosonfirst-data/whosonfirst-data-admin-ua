@@ -1,0 +1,78 @@
+{
+  "id": 101868817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.560877,48.038395,39.560877,48.038395",
+    "geom:latitude":48.038395,
+    "geom:longitude":39.560877,
+    "iso:country":"UA",
+    "lbl:latitude":48.038395,
+    "lbl:longitude":39.560877,
+    "mps:latitude":48.038395,
+    "mps:longitude":39.560877,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Luhans'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Sverdlovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Shakhtars'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108815675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":925128,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4f9d62c7b5b384829b7f4249fb62a20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815675,
+            "locality_id":101868817,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":101868817,
+    "wof:lastmodified":1544749948,
+    "wof:name":"\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a\u0435",
+    "wof:parent_id":1108815675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.560877,
+    48.038395,
+    39.560877,
+    48.038395
+],
+  "geometry": {"coordinates":[39.560877,48.038395],"type":"Point"}
+}

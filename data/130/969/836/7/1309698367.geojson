@@ -1,0 +1,76 @@
+{
+  "id": 1309698367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.94825,50.4519,29.94825,50.4519",
+    "geom:latitude":50.4519,
+    "geom:longitude":29.94825,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kolonshchyna",
+    "gn:country_code":"UA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705303,
+    "gn:latitude":50.4519,
+    "gn:longitude":29.94825,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kolonshchyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kolonshchyna"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u043b\u043e\u043d\u0449\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kolonshchina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705303
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e5a6b02773d838cf3e5885f6f68201a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088721,
+            "locality_id":1309698367,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1309698367,
+    "wof:lastmodified":1537711007,
+    "wof:name":"Kolonshchyna",
+    "wof:parent_id":102088721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.94825,
+    50.4519,
+    29.94825,
+    50.4519
+],
+  "geometry": {"coordinates":[29.94825,50.4519],"type":"Point"}
+}

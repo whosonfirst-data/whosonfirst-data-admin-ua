@@ -1,0 +1,77 @@
+{
+  "id": 1327326317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.29833,47.66167,38.29833,47.66167",
+    "geom:latitude":47.66167,
+    "geom:longitude":38.29833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bad'ya",
+    "gn:country_code":"UA",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712995,
+    "gn:latitude":47.66167,
+    "gn:longitude":38.29833,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Bad\u2019ya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712995
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"457dbf5b231e011156da90c6fef230bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1327326317,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1327326317,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1327326317,
+    "wof:lastmodified":1536833020,
+    "wof:name":"Bad'ya",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.29833,
+    47.66167,
+    38.29833,
+    47.66167
+],
+  "geometry": {"coordinates":[38.29833,47.66167],"type":"Point"}
+}

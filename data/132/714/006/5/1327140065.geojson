@@ -1,0 +1,77 @@
+{
+  "id": 1327140065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57885,47.83761,33.57885,47.83761",
+    "geom:latitude":47.83761,
+    "geom:longitude":33.57885,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vesele",
+    "gn:country_code":"UA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689731,
+    "gn:latitude":47.83761,
+    "gn:longitude":33.57885,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Vesele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vesele"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0441\u0435\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Veselyy",
+        "Ves\u00ebloye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689731
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"473cae340b67943fea496d7cedef73e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815739,
+            "locality_id":1327140065,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1327140065,
+    "wof:lastmodified":1537710239,
+    "wof:name":"Vesele",
+    "wof:parent_id":1108815739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57885,
+    47.83761,
+    33.57885,
+    47.83761
+],
+  "geometry": {"coordinates":[33.57885,47.83761],"type":"Point"}
+}

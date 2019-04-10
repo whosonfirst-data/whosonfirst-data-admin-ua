@@ -1,0 +1,93 @@
+{
+  "id": 1125864793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77012,50.58264,32.77012,50.58264",
+    "geom:latitude":50.58264,
+    "geom:longitude":32.77012,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1289,
+    "gn:population":1289,
+    "iso:country":"UA",
+    "lbl:latitude":50.58264,
+    "lbl:longitude":32.77012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Degtyari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0433\u0442\u044f\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "Dihtyari"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0456\u0433\u0442\u044f\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Degtyary"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":710214,
+    "qs_pg:gn_pop":1289,
+    "qs_pg:name":"Degtyari",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128762,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710214,
+        "qs_pg:id":128762
+    },
+    "wof:country":"UA",
+    "wof:created":1497293983,
+    "wof:geomhash":"4e150faf84c73e77b05bccd2931f4354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088893,
+            "locality_id":1125864793,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1125864793,
+    "wof:lastmodified":1509396892,
+    "wof:name":"Degtyari",
+    "wof:parent_id":102088893,
+    "wof:placetype":"locality",
+    "wof:population":1289,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77012,
+    50.58264,
+    32.77012,
+    50.58264
+],
+  "geometry": {"coordinates":[32.77012,50.58264],"type":"Point"}
+}

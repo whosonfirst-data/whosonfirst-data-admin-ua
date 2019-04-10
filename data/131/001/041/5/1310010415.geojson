@@ -1,0 +1,87 @@
+{
+  "id": 1310010415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.93055,48.30341,37.93055,48.30341",
+    "geom:latitude":48.30341,
+    "geom:longitude":37.93055,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shyroka Balka",
+    "gn:country_code":"UA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":694060,
+    "gn:latitude":48.30341,
+    "gn:longitude":37.93055,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Shyroka Balka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shyroka Balka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0438\u0440\u043e\u043a\u0430 \u0411\u0430\u043b\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shirokaya Balka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730733,
+        1175613755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694060
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d39baa1e14903c6cdb6cce8013e282b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1310010415,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1310010415,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1310010415,
+    "wof:lastmodified":1537710442,
+    "wof:name":"Shyroka Balka",
+    "wof:parent_id":1175613755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.93055,
+    48.30341,
+    37.93055,
+    48.30341
+],
+  "geometry": {"coordinates":[37.93055,48.30341],"type":"Point"}
+}

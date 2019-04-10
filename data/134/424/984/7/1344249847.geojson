@@ -1,0 +1,83 @@
+{
+  "id": 1344249847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62783,47.4426,37.62783,47.4426",
+    "geom:latitude":47.4426,
+    "geom:longitude":37.62783,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Druzhne",
+    "gn:country_code":"UA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529705,
+    "gn:latitude":47.4426,
+    "gn:longitude":37.62783,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Druzhne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Druzhne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0440\u0443\u0436\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529705
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cbc323fb393b3e7ac823b4d04cf10cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1344249847,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088509,
+            "disputed_id":1159339531,
+            "locality_id":1344249847,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1344249847,
+    "wof:lastmodified":1537711879,
+    "wof:name":"Druzhne",
+    "wof:parent_id":102088509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62783,
+    47.4426,
+    37.62783,
+    47.4426
+],
+  "geometry": {"coordinates":[37.62783,47.4426],"type":"Point"}
+}

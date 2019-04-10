@@ -1,0 +1,95 @@
+{
+  "id": 1242641857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55118,44.73953,33.55118,44.73953",
+    "geom:latitude":44.73953,
+    "geom:longitude":33.55118,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"700468",
+    "gn:admin3_code":"11153383.0",
+    "gn:asciiname":"Osipenko",
+    "gn:country_code":"UA",
+    "gn:dem":34,
+    "gn:elevation":"8.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040063,
+    "gn:latitude":44.73953,
+    "gn:longitude":33.55118,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Osipenko",
+    "gn:population":476,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Osipenko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0438\u043f\u0435\u043d\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0438\u043f\u0435\u043d\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738685,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040063
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d2acbc9ef15d7015dd96e2350a8520f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738685,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1242641857,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738685,
+            "disputed_id":1159339547,
+            "locality_id":1242641857,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1242641857,
+    "wof:lastmodified":1537711539,
+    "wof:name":"Osipenko",
+    "wof:parent_id":1108738685,
+    "wof:placetype":"locality",
+    "wof:population":476,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55118,
+    44.73953,
+    33.55118,
+    44.73953
+],
+  "geometry": {"coordinates":[33.55118,44.73953],"type":"Point"}
+}

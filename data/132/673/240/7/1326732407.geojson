@@ -1,0 +1,82 @@
+{
+  "id": 1326732407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14348,51.64699,32.14348,51.64699",
+    "geom:latitude":51.64699,
+    "geom:longitude":32.14348,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oleksandrivka",
+    "gn:country_code":"UA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713598,
+    "gn:latitude":51.64699,
+    "gn:longitude":32.14348,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Oleksandrivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aleksandrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Oleksandrivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aleksandrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713598
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f00c7826bf6c20cc7da444d0cbc39f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089015,
+            "locality_id":1326732407,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1326732407,
+    "wof:lastmodified":1537711413,
+    "wof:name":"Oleksandrivka",
+    "wof:parent_id":102089015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14348,
+    51.64699,
+    32.14348,
+    51.64699
+],
+  "geometry": {"coordinates":[32.14348,51.64699],"type":"Point"}
+}

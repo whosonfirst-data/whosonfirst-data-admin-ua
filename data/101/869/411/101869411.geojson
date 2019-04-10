@@ -1,0 +1,78 @@
+{
+  "id": 101869411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.016798,48.745837,36.016798,48.745837",
+    "geom:latitude":48.745837,
+    "geom:longitude":36.016798,
+    "iso:country":"UA",
+    "lbl:latitude":48.745837,
+    "lbl:longitude":36.016798,
+    "mps:latitude":48.745837,
+    "mps:longitude":36.016798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Dnipropetrovs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u042e\u0440'\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Yuryivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042e\u0440'\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Yurivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":939268,
+        "qs:id":7
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1cb58b0ef86cb01641ed7ba6a466d164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088655,
+            "locality_id":101869411,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":101869411,
+    "wof:lastmodified":1544750281,
+    "wof:name":"\u042e\u0440'\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102088655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.016798,
+    48.745837,
+    36.016798,
+    48.745837
+],
+  "geometry": {"coordinates":[36.016798,48.745837],"type":"Point"}
+}

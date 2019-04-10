@@ -1,0 +1,87 @@
+{
+  "id": 1259381033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9732,47.37342,37.9732,47.37342",
+    "geom:latitude":47.37342,
+    "geom:longitude":37.9732,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zaporozhets'",
+    "gn:country_code":"UA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687698,
+    "gn:latitude":47.37342,
+    "gn:longitude":37.9732,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Zaporozhets\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zaporozhets\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0435\u0446\u044c"
+    ],
+    "name:und_x_variant":[
+        "Zaporozh\u2019ye",
+        "Zaporozhets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687698
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a6ce237c1a17e494bc840321a7a16138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1259381033,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088451,
+            "disputed_id":1159339531,
+            "locality_id":1259381033,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259381033,
+    "wof:lastmodified":1537710126,
+    "wof:name":"Zaporozhets'",
+    "wof:parent_id":102088451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9732,
+    47.37342,
+    37.9732,
+    47.37342
+],
+  "geometry": {"coordinates":[37.9732,47.37342],"type":"Point"}
+}

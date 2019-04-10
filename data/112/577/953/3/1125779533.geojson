@@ -1,0 +1,100 @@
+{
+  "id": 1125779533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79765,48.20138,38.79765,48.20138",
+    "geom:latitude":48.20138,
+    "geom:longitude":38.79765,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2983,
+    "gn:population":2983,
+    "iso:country":"UA",
+    "lbl:latitude":48.20138,
+    "lbl:longitude":38.79765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u514b\u62c9\u65af\u5c3c\u5eab\u7279"
+    ],
+    "name:eng_x_preferred":[
+        "Krasnyi Kut"
+    ],
+    "name:ger_x_preferred":[
+        "Krasnyj Kut"
+    ],
+    "name:lav_x_preferred":[
+        "Krasnijkuta"
+    ],
+    "name:rum_x_preferred":[
+        "Krasn\u00eei Kut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041a\u0443\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041a\u0443\u0442"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704207,
+    "qs_pg:gn_pop":2983,
+    "qs_pg:name":"Krasnyy Kut",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128587,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704207,
+        "qs_pg:id":128587,
+        "wd:id":"Q4239502"
+    },
+    "wof:country":"UA",
+    "wof:created":1497290408,
+    "wof:geomhash":"8dc08fa6d7fdb5119fb1606e4afc56a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088695,
+            "locality_id":1125779533,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1125779533,
+    "wof:lastmodified":1514509661,
+    "wof:name":"Krasnyy Kut",
+    "wof:parent_id":102088695,
+    "wof:placetype":"locality",
+    "wof:population":2983,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79765,
+    48.20138,
+    38.79765,
+    48.20138
+],
+  "geometry": {"coordinates":[38.79765,48.20138],"type":"Point"}
+}

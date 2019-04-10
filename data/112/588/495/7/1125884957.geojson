@@ -1,0 +1,90 @@
+{
+  "id": 1125884957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2627,45.28669,36.2627,45.28669",
+    "geom:latitude":45.28669,
+    "geom:longitude":36.2627,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3352,
+    "iso:country":"UA",
+    "lbl:latitude":45.28669,
+    "lbl:longitude":36.2627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":796868,
+    "qs_pg:gn_pop":3352,
+    "qs_pg:name":"Mykhaylivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1029169,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738639,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":796868,
+        "qs_pg:id":1029169
+    },
+    "wof:country":"UA",
+    "wof:created":1497295030,
+    "wof:geomhash":"e6c690ab709e04ca0f50408696e90f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125884957,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738639,
+            "disputed_id":1159339547,
+            "locality_id":1125884957,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125884957,
+    "wof:lastmodified":1530299611,
+    "wof:name":"Mykhaylivka",
+    "wof:parent_id":1108738639,
+    "wof:placetype":"locality",
+    "wof:population":3352,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2627,
+    45.28669,
+    36.2627,
+    45.28669
+],
+  "geometry": {"coordinates":[36.2627,45.28669],"type":"Point"}
+}

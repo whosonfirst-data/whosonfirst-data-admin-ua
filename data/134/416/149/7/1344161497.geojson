@@ -1,0 +1,77 @@
+{
+  "id": 1344161497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56135,47.27196,37.56135,47.27196",
+    "geom:latitude":47.27196,
+    "geom:longitude":37.56135,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ternovoye",
+    "gn:country_code":"UA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9643038,
+    "gn:latitude":47.27196,
+    "gn:longitude":37.56135,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Ternovoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643038
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"20594297806e4a62e8a528d94ef33fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1344161497,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088371,
+            "disputed_id":1159339531,
+            "locality_id":1344161497,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1344161497,
+    "wof:lastmodified":1536730135,
+    "wof:name":"Ternovoye",
+    "wof:parent_id":102088371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56135,
+    47.27196,
+    37.56135,
+    47.27196
+],
+  "geometry": {"coordinates":[37.56135,47.27196],"type":"Point"}
+}

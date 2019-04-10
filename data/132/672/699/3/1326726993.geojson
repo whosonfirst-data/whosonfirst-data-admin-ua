@@ -1,0 +1,76 @@
+{
+  "id": 1326726993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67982,49.33817,36.67982,49.33817",
+    "geom:latitude":49.33817,
+    "geom:longitude":36.67982,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Polivka",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696529,
+    "gn:latitude":49.33817,
+    "gn:longitude":36.67982,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Polivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Polivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Popovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696529
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1c9b5b0169302bd3191787841f27c1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088843,
+            "locality_id":1326726993,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1326726993,
+    "wof:lastmodified":1537710564,
+    "wof:name":"Polivka",
+    "wof:parent_id":102088843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67982,
+    49.33817,
+    36.67982,
+    49.33817
+],
+  "geometry": {"coordinates":[36.67982,49.33817],"type":"Point"}
+}

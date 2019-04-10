@@ -1,0 +1,117 @@
+{
+  "id": 101857035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.785047,44.641235,33.785047,44.641235",
+    "geom:latitude":44.641235,
+    "geom:longitude":33.785047,
+    "iso:country":"UA",
+    "lbl:latitude":44.641235,
+    "lbl:longitude":33.785047,
+    "mps:latitude":44.641235,
+    "mps:longitude":33.785047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0580\u0561\u057d\u0576\u056b\u0575 \u0544\u0561\u056f"
+    ],
+    "name:dut_x_preferred":[
+        "Krasnyi Mak"
+    ],
+    "name:eng_x_preferred":[
+        "Krasnyi Mak"
+    ],
+    "name:rum_x_preferred":[
+        "Krasn\u00eei Mak"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u0438\u044e\u0301\u043a-\u041a\u0430\u0440\u0430\u043b\u0435\u0301\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u044e\u0301\u043a-\u041a\u0430\u0440\u0430\u043b\u0435\u0301\u0437"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041c\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041c\u0430\u043a"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bakhchysarais'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041c\u0430\u043a",
+    "qs:loc_alt":"Krasnyi Mak",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704201,
+        "gp:id":924902,
+        "qs:id":4,
+        "wd:id":"Q4239532"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"66ad385b9af08f113bd3d0659211d90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101857035,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":101857035,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101857035,
+    "wof:lastmodified":1553815550,
+    "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041c\u0430\u043a",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.785047,
+    44.641235,
+    33.785047,
+    44.641235
+],
+  "geometry": {"coordinates":[33.785047,44.641235],"type":"Point"}
+}

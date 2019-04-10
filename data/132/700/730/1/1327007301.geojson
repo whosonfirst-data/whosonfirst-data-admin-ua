@@ -1,0 +1,92 @@
+{
+  "id": 1327007301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0676,45.59437,33.0676,45.59437",
+    "geom:latitude":45.59437,
+    "geom:longitude":33.0676,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zoryzne",
+    "gn:country_code":"UA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708030,
+    "gn:latitude":45.59437,
+    "gn:longitude":33.0676,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Zoryzne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zoryzne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u043e\u0440\u044f\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dauldzhar",
+        "Douldzhar",
+        "Groznoye",
+        "Zoryanoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738655,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708030
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5213a1d77ebb95459dc88b1f74b28bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327007301,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738655,
+            "disputed_id":1159339547,
+            "locality_id":1327007301,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327007301,
+    "wof:lastmodified":1537711139,
+    "wof:name":"Zoryzne",
+    "wof:parent_id":1108738655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0676,
+    45.59437,
+    33.0676,
+    45.59437
+],
+  "geometry": {"coordinates":[33.0676,45.59437],"type":"Point"}
+}

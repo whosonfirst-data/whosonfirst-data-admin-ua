@@ -1,0 +1,76 @@
+{
+  "id": 1243401911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85131,47.76382,35.85131,47.76382",
+    "geom:latitude":47.76382,
+    "geom:longitude":35.85131,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Obshche",
+    "gn:country_code":"UA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9187131,
+    "gn:latitude":47.76382,
+    "gn:longitude":35.85131,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Obshche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Obshche"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0431\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Obshches"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9187131
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b79bd986ac46f8506cb1e3dbe593604e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088375,
+            "locality_id":1243401911,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1243401911,
+    "wof:lastmodified":1537711869,
+    "wof:name":"Obshche",
+    "wof:parent_id":102088375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85131,
+    47.76382,
+    35.85131,
+    47.76382
+],
+  "geometry": {"coordinates":[35.85131,47.76382],"type":"Point"}
+}

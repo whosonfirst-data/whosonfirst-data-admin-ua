@@ -1,0 +1,103 @@
+{
+  "id": 1327010095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.12859,45.47379,34.12859,45.47379",
+    "geom:latitude":45.47379,
+    "geom:longitude":34.12859,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"704383",
+    "gn:admin3_code":"11152924.0",
+    "gn:asciiname":"Krasnaya Polyana",
+    "gn:country_code":"UA",
+    "gn:dem":50,
+    "gn:elevation":"50.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704455,
+    "gn:latitude":45.47379,
+    "gn:longitude":34.12859,
+    "gn:modification_date":"2016-07-22",
+    "gn:name":"Krasnaya Polyana",
+    "gn:population":828,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krasnaya Polyana"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u0440\u0443\u0441\u0438\u0301\u043b\u043e\u0432\u043e",
+        "\u041a\u0430\u0440\u0430\u0301-\u0427\u0430\u043a\u043c\u0430\u0301\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0440\u0443\u0441\u0438\u0301\u043b\u043e\u0432\u043e",
+        "\u041a\u0430\u0440\u0430\u0301-\u0427\u0430\u043a\u043c\u0430\u0301\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738579,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704455
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1db3be3b31df22f77ed5f1b6fb50abc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327010095,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738579,
+            "disputed_id":1159339547,
+            "locality_id":1327010095,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327010095,
+    "wof:lastmodified":1537710968,
+    "wof:name":"Krasnaya Polyana",
+    "wof:parent_id":1108738579,
+    "wof:placetype":"locality",
+    "wof:population":828,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.12859,
+    45.47379,
+    34.12859,
+    45.47379
+],
+  "geometry": {"coordinates":[34.12859,45.47379],"type":"Point"}
+}

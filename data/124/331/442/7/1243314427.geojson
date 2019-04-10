@@ -1,0 +1,77 @@
+{
+  "id": 1243314427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.34989,50.48568,27.34989,50.48568",
+    "geom:latitude":50.48568,
+    "geom:longitude":27.34989,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Zholobne",
+    "gn:country_code":"UA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687208,
+    "gn:latitude":50.48568,
+    "gn:longitude":27.34989,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Zholobne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zholobne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0416\u043e\u043b\u043e\u0431\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zholobnoye",
+        "Zh\u00eblobnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687208
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"34277911f6ba149a1ae6177ef10ba971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815763,
+            "locality_id":1243314427,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243314427,
+    "wof:lastmodified":1537710101,
+    "wof:name":"Zholobne",
+    "wof:parent_id":1108815763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.34989,
+    50.48568,
+    27.34989,
+    50.48568
+],
+  "geometry": {"coordinates":[27.34989,50.48568],"type":"Point"}
+}

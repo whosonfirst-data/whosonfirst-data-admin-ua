@@ -1,0 +1,76 @@
+{
+  "id": 1276708051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39849,50.73233,28.39849,50.73233",
+    "geom:latitude":50.73233,
+    "geom:longitude":28.39849,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Omelivka",
+    "gn:country_code":"UA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8465650,
+    "gn:latitude":50.73233,
+    "gn:longitude":28.39849,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Omelivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Omelivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u043c\u0435\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Emelevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8465650
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"50703da3cf7da3d08c09cc3f17661be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088713,
+            "locality_id":1276708051,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1276708051,
+    "wof:lastmodified":1537711711,
+    "wof:name":"Omelivka",
+    "wof:parent_id":102088713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39849,
+    50.73233,
+    28.39849,
+    50.73233
+],
+  "geometry": {"coordinates":[28.39849,50.73233],"type":"Point"}
+}

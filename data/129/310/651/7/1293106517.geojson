@@ -1,0 +1,77 @@
+{
+  "id": 1293106517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15136,51.01537,32.15136,51.01537",
+    "geom:latitude":51.01537,
+    "geom:longitude":32.15136,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dibrova",
+    "gn:country_code":"UA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706102,
+    "gn:latitude":51.01537,
+    "gn:longitude":32.15136,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dibrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dibrova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0456\u0431\u0440\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dubrovy",
+        "Khutor Dubrovy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        1108815725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706102
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d69dcc4b9a0baef4b3bd727c9c2a1151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815725,
+            "locality_id":1293106517,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1293106517,
+    "wof:lastmodified":1537711047,
+    "wof:name":"Dibrova",
+    "wof:parent_id":1108815725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15136,
+    51.01537,
+    32.15136,
+    51.01537
+],
+  "geometry": {"coordinates":[32.15136,51.01537],"type":"Point"}
+}

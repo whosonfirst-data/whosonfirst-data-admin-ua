@@ -1,0 +1,85 @@
+{
+  "id": 101859217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.392655,48.043771,23.392655,48.043771",
+    "geom:latitude":48.043771,
+    "geom:longitude":23.392655,
+    "iso:country":"UA",
+    "lbl:latitude":48.043771,
+    "lbl:longitude":23.392655,
+    "mps:latitude":48.043771,
+    "mps:longitude":23.392655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Rakosh"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0430\u043a\u043e\u0448"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0425\u0443\u0441\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Khusts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0430\u043a\u043e\u0448",
+    "qs:loc_alt":"Rakosh",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282242,
+        "gp:id":938675,
+        "qs:id":7
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"07ea0cda2cd9efb7fec5ca7ae8687c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088013,
+            "locality_id":101859217,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859217,
+    "wof:lastmodified":1544744800,
+    "wof:name":"\u0420\u0430\u043a\u043e\u0448",
+    "wof:parent_id":102088013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.392655,
+    48.043771,
+    23.392655,
+    48.043771
+],
+  "geometry": {"coordinates":[23.392655,48.043771],"type":"Point"}
+}

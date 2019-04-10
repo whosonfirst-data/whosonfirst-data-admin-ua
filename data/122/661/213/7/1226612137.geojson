@@ -1,0 +1,77 @@
+{
+  "id": 1226612137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1,51.38333,29.1,51.38333",
+    "geom:latitude":51.38333,
+    "geom:longitude":29.1,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Sosnivka",
+    "gn:country_code":"UA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":694010,
+    "gn:latitude":51.38333,
+    "gn:longitude":29.1,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Sosnivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ukr_x_preferred":[
+        "Sosnivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043e\u0441\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shishalovka",
+        "Sosnovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694010
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6f7ef64c76440a2c2693fffa064c0540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088925,
+            "locality_id":1226612137,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1226612137,
+    "wof:lastmodified":1537710439,
+    "wof:name":"Sosnivka",
+    "wof:parent_id":102088925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1,
+    51.38333,
+    29.1,
+    51.38333
+],
+  "geometry": {"coordinates":[29.1,51.38333],"type":"Point"}
+}

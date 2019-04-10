@@ -1,0 +1,84 @@
+{
+  "id": 1125767795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35769,50.80156,32.35769,50.80156",
+    "geom:latitude":50.80156,
+    "geom:longitude":32.35769,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":793,
+    "gn:population":793,
+    "iso:country":"UA",
+    "lbl:latitude":50.80156,
+    "lbl:longitude":32.35769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ukr_x_preferred":[
+        "Druzhba"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0440\u0443\u0436\u0431\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":709586,
+    "qs_pg:gn_pop":793,
+    "qs_pg:name":"Druzhba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":83144,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709586,
+        "qs_pg:id":83144
+    },
+    "wof:country":"UA",
+    "wof:created":1497289960,
+    "wof:geomhash":"fd544fe8745166cffb0d7fd53e45cb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088931,
+            "locality_id":1125767795,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1125767795,
+    "wof:lastmodified":1509390802,
+    "wof:name":"Druzhba",
+    "wof:parent_id":102088931,
+    "wof:placetype":"locality",
+    "wof:population":793,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35769,
+    50.80156,
+    32.35769,
+    50.80156
+],
+  "geometry": {"coordinates":[32.35769,50.80156],"type":"Point"}
+}

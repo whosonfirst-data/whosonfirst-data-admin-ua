@@ -1,0 +1,76 @@
+{
+  "id": 1225938293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20961,49.88286,37.20961,49.88286",
+    "geom:latitude":49.88286,
+    "geom:longitude":37.20961,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Krasne",
+    "gn:country_code":"UA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":813028,
+    "gn:latitude":49.88286,
+    "gn:longitude":37.20961,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Krasne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Krasne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krasnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":813028
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3b6a9cb3b8be8b81214eece84cbde9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088975,
+            "locality_id":1225938293,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1225938293,
+    "wof:lastmodified":1537711498,
+    "wof:name":"Krasne",
+    "wof:parent_id":102088975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20961,
+    49.88286,
+    37.20961,
+    49.88286
+],
+  "geometry": {"coordinates":[37.20961,49.88286],"type":"Point"}
+}

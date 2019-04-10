@@ -1,0 +1,76 @@
+{
+  "id": 1226350083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51597,50.91433,31.51597,50.91433",
+    "geom:latitude":50.91433,
+    "geom:longitude":31.51597,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lukashivka",
+    "gn:country_code":"UA",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8401413,
+    "gn:latitude":50.91433,
+    "gn:longitude":31.51597,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Lukashivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lukashivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u043a\u0430\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lukashovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8401413
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4f8159188722ab46f3639cf62a39c322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088913,
+            "locality_id":1226350083,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1226350083,
+    "wof:lastmodified":1537711645,
+    "wof:name":"Lukashivka",
+    "wof:parent_id":102088913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51597000000001,
+    50.91433,
+    31.51597000000001,
+    50.91433
+],
+  "geometry": {"coordinates":[31.51597000000001,50.91433],"type":"Point"}
+}

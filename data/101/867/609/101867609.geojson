@@ -1,0 +1,78 @@
+{
+  "id": 101867609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.757423,49.1022,29.757423,49.1022",
+    "geom:latitude":49.1022,
+    "geom:longitude":29.757423,
+    "iso:country":"UA",
+    "lbl:latitude":49.1022,
+    "lbl:longitude":29.757423,
+    "mps:latitude":49.1022,
+    "mps:longitude":29.757423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Cherkas'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0449\u0435\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Monastyryschens'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043d\u044f\u0436\u0430 \u041a\u0440\u0438\u043d\u0438\u0446\u044f",
+    "qs:loc_alt":"Kniazha Krynytsia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":936503,
+        "qs:id":4
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"58377bffbb42bad7dfb4d0c0a691b7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088403,
+            "locality_id":101867609,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":101867609,
+    "wof:lastmodified":1544749272,
+    "wof:name":"\u041a\u043d\u044f\u0436\u0430 \u041a\u0440\u0438\u043d\u0438\u0446\u044f",
+    "wof:parent_id":102088403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.757423,
+    49.1022,
+    29.757423,
+    49.1022
+],
+  "geometry": {"coordinates":[29.757423,49.1022],"type":"Point"}
+}

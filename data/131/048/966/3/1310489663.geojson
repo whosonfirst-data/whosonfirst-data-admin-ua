@@ -1,0 +1,101 @@
+{
+  "id": 1310489663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04483,45.00077,34.04483,45.00077",
+    "geom:latitude":45.00077,
+    "geom:longitude":34.04483,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"693803",
+    "gn:admin3_code":"11152609.0",
+    "gn:asciiname":"Grushevoye",
+    "gn:country_code":"UA",
+    "gn:dem":205,
+    "gn:elevation":"205.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8997509,
+    "gn:latitude":45.00077,
+    "gn:longitude":34.04483,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Grushevoye",
+    "gn:population":96,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grushevoye"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0430\u0440\u0430\u0301-\u041a\u0438\u044f\u0301\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0448\u0435\u0432\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0301-\u041a\u0438\u044f\u0301\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0443\u0448\u0435\u0432\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738651,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8997509
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"adbccf84c98ee652981a1f68c38e7c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1310489663,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738651,
+            "disputed_id":1159339547,
+            "locality_id":1310489663,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1310489663,
+    "wof:lastmodified":1537711832,
+    "wof:name":"Grushevoye",
+    "wof:parent_id":1108738651,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04483,
+    45.00077,
+    34.04483,
+    45.00077
+],
+  "geometry": {"coordinates":[34.04483,45.00077],"type":"Point"}
+}

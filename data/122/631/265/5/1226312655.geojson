@@ -1,0 +1,76 @@
+{
+  "id": 1226312655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36277,50.44,24.36277,50.44",
+    "geom:latitude":50.44,
+    "geom:longitude":24.36277,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Romanivka",
+    "gn:country_code":"UA",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695481,
+    "gn:latitude":50.44,
+    "gn:longitude":24.36277,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Romanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ksawer\u00f3wka",
+        "Romanivka",
+        "Ksaveruvka",
+        "Romanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695481
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"54fe16563b15c046c7850574d0ae298d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088549,
+            "locality_id":1226312655,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1226312655,
+    "wof:lastmodified":1537710510,
+    "wof:name":"Romanivka",
+    "wof:parent_id":102088549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36277,
+    50.44,
+    24.36277,
+    50.44
+],
+  "geometry": {"coordinates":[24.36277,50.44],"type":"Point"}
+}

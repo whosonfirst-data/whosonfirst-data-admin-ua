@@ -1,0 +1,122 @@
+{
+  "id": 101858775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.654556,45.637534,34.654556,45.637534",
+    "geom:latitude":45.637534,
+    "geom:longitude":34.654556,
+    "iso:country":"UA",
+    "lbl:latitude":45.637534,
+    "lbl:longitude":34.654556,
+    "mps:latitude":45.637534,
+    "mps:longitude":34.654556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u057e\u0565\u057f\u056c\u0578\u0565"
+    ],
+    "name:eng_x_preferred":[
+        "Svetloye"
+    ],
+    "name:ger_x_preferred":[
+        "Switle"
+    ],
+    "name:lav_x_preferred":[
+        "Svitle"
+    ],
+    "name:rum_x_preferred":[
+        "Svitle"
+    ],
+    "name:rus_x_historical":[
+        "\u042f\u0301\u043d\u0446\u0435\u0432\u043e",
+        "\u0422\u0430\u043c\u0430\u0301\u043a-\u041a\u0438\u0440\u0433\u0438\u0301\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0301\u043d\u0446\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0432\u0435\u0442\u043b\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u0442\u043b\u0435"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Dzhankois'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0432\u0456\u0442\u043b\u0435",
+    "qs:loc_alt":"Svitle",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738531,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692085,
+        "gp:id":916119,
+        "wd:id":"Q4410413"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3bc2e1a41dfd4aae03e62389415d6c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858775,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738531,
+            "disputed_id":1159339547,
+            "locality_id":101858775,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858775,
+    "wof:lastmodified":1553815551,
+    "wof:name":"\u0421\u0432\u0456\u0442\u043b\u0435",
+    "wof:parent_id":1108738531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.654556,
+    45.637534,
+    34.654556,
+    45.637534
+],
+  "geometry": {"coordinates":[34.654556,45.637534],"type":"Point"}
+}

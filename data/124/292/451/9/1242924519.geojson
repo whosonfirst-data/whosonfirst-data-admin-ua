@@ -1,0 +1,75 @@
+{
+  "id": 1242924519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0065,50.16598,28.0065,50.16598",
+    "geom:latitude":50.16598,
+    "geom:longitude":28.0065,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Yasnohorod",
+    "gn:country_code":"UA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688343,
+    "gn:latitude":50.16598,
+    "gn:longitude":28.0065,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yasnohorod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yasnohorod"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0441\u043d\u043e\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:und_x_variant":[
+        "Yasnograd",
+        "Yasnogorod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688343
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e155ebef778d448953c1a68a759d93ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":1242924519,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1242924519,
+    "wof:lastmodified":1537710160,
+    "wof:name":"Yasnohorod",
+    "wof:parent_id":85688791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0065,
+    50.16598,
+    28.0065,
+    50.16598
+],
+  "geometry": {"coordinates":[28.0065,50.16598],"type":"Point"}
+}

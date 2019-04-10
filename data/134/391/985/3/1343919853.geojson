@@ -1,0 +1,76 @@
+{
+  "id": 1343919853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99951,50.5639,26.99951,50.5639",
+    "geom:latitude":50.5639,
+    "geom:longitude":26.99951,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Chernytsya",
+    "gn:country_code":"UA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":710722,
+    "gn:latitude":50.5639,
+    "gn:longitude":26.99951,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Chernytsya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ch\u00ebrnitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "Chernytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0438\u0446\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710722
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ea2ece873a6802722d214044657f7e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088689,
+            "locality_id":1343919853,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1343919853,
+    "wof:lastmodified":1537711270,
+    "wof:name":"Chernytsya",
+    "wof:parent_id":102088689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99951,
+    50.5639,
+    26.99951,
+    50.5639
+],
+  "geometry": {"coordinates":[26.99951,50.5639],"type":"Point"}
+}

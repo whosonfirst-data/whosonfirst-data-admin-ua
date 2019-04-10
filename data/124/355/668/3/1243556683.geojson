@@ -1,0 +1,76 @@
+{
+  "id": 1243556683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66872,51.91959,31.66872,51.91959",
+    "geom:latitude":51.91959,
+    "geom:longitude":31.66872,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yasenivka",
+    "gn:country_code":"UA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8185260,
+    "gn:latitude":51.91959,
+    "gn:longitude":31.66872,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yasenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yasenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0441\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yasenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8185260
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"cab44b9189837862b5679739508a3390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089013,
+            "locality_id":1243556683,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1243556683,
+    "wof:lastmodified":1537711569,
+    "wof:name":"Yasenivka",
+    "wof:parent_id":102089013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66872,
+    51.91959,
+    31.66872,
+    51.91959
+],
+  "geometry": {"coordinates":[31.66872,51.91959],"type":"Point"}
+}

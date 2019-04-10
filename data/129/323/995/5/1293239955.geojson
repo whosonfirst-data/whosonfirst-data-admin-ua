@@ -1,0 +1,76 @@
+{
+  "id": 1293239955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50788,48.0571,35.50788,48.0571",
+    "geom:latitude":48.0571,
+    "geom:longitude":35.50788,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Solone",
+    "gn:country_code":"UA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870889,
+    "gn:latitude":48.0571,
+    "gn:longitude":35.50788,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Solone",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Solone"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043e\u043b\u043e\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Solenoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870889
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"29d6afb36abcb704078616a5b6279281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088439,
+            "locality_id":1293239955,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1293239955,
+    "wof:lastmodified":1537711922,
+    "wof:name":"Solone",
+    "wof:parent_id":102088439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50788,
+    48.0571,
+    35.50788,
+    48.0571
+],
+  "geometry": {"coordinates":[35.50788,48.0571],"type":"Point"}
+}

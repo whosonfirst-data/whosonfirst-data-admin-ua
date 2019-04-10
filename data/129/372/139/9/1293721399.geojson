@@ -1,0 +1,73 @@
+{
+  "id": 1293721399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.19621,48.73725,34.19621,48.73725",
+    "geom:latitude":48.73725,
+    "geom:longitude":34.19621,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pravoberezhne",
+    "gn:country_code":"UA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11145120,
+    "gn:latitude":48.73725,
+    "gn:longitude":34.19621,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Pravoberezhne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pravoberezhne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0430\u0432\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11145120
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3e668977f1ed021ff289e8b913b0b424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088525,
+            "locality_id":1293721399,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1293721399,
+    "wof:lastmodified":1537711996,
+    "wof:name":"Pravoberezhne",
+    "wof:parent_id":102088525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.19621,
+    48.73725,
+    34.19621,
+    48.73725
+],
+  "geometry": {"coordinates":[34.19621,48.73725],"type":"Point"}
+}

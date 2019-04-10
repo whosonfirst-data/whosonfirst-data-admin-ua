@@ -1,0 +1,73 @@
+{
+  "id": 1260375313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33227,46.55154,34.33227,46.55154",
+    "geom:latitude":46.55154,
+    "geom:longitude":34.33227,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Novoznamenka",
+    "gn:country_code":"UA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7044512,
+    "gn:latitude":46.55154,
+    "gn:longitude":34.33227,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Novoznamenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novoznamenka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0437\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7044512
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"acf3cbc64b7421eba73f008b9bff62e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088081,
+            "locality_id":1260375313,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1260375313,
+    "wof:lastmodified":1537711540,
+    "wof:name":"Novoznamenka",
+    "wof:parent_id":102088081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33227,
+    46.55154,
+    34.33227,
+    46.55154
+],
+  "geometry": {"coordinates":[34.33227,46.55154],"type":"Point"}
+}

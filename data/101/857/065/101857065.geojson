@@ -1,0 +1,91 @@
+{
+  "id": 101857065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.362104,44.610415,34.362104,44.610415",
+    "geom:latitude":44.610415,
+    "geom:longitude":34.362104,
+    "iso:country":"UA",
+    "lbl:latitude":44.610415,
+    "lbl:longitude":34.362104,
+    "mps:latitude":44.610415,
+    "mps:longitude":34.362104,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0410\u043b\u0443\u0448\u0442\u0430",
+    "qs:a2_alt":"Alushta",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u043b\u0438\u0439 \u041c\u0430\u044f\u043a",
+    "qs:loc_alt":"Malyi Maiak",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738679,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":926278,
+        "qs:id":3
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3ebb425e3742783537826c6f37963737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101857065,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "locality_id":101857065,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101857065,
+    "wof:lastmodified":1544743704,
+    "wof:name":"\u041c\u0430\u043b\u0438\u0439 \u041c\u0430\u044f\u043a",
+    "wof:parent_id":1108738679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.362104,
+    44.610415,
+    34.362104,
+    44.610415
+],
+  "geometry": {"coordinates":[34.362104,44.610415],"type":"Point"}
+}

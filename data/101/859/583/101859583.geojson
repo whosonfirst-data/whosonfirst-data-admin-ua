@@ -1,0 +1,87 @@
+{
+  "id": 101859583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.755954,48.161797,23.755954,48.161797",
+    "geom:latitude":48.161797,
+    "geom:longitude":23.755954,
+    "iso:country":"UA",
+    "lbl:latitude":48.161797,
+    "lbl:longitude":23.755954,
+    "mps:latitude":48.161797,
+    "mps:longitude":23.755954,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Vizhnya Novoselitsa"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0422\u044f\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tiachivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
+    "qs:loc_alt":"Novoselytsia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699286,
+        "gp:id":919346,
+        "wd:id":"Q149030"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0e44eef39adb2e4a8123c076ce2dcc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088039,
+            "locality_id":101859583,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859583,
+    "wof:lastmodified":1544744987,
+    "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
+    "wof:parent_id":102088039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.755954,
+    48.161797,
+    23.755954,
+    48.161797
+],
+  "geometry": {"coordinates":[23.755954,48.161797],"type":"Point"}
+}

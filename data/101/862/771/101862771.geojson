@@ -1,0 +1,88 @@
+{
+  "id": 101862771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.882096,50.182855,26.882096,50.182855",
+    "geom:latitude":50.182855,
+    "geom:longitude":26.882096,
+    "iso:country":"UA",
+    "lbl:latitude":50.182855,
+    "lbl:longitude":26.882096,
+    "mps:latitude":50.182855,
+    "mps:longitude":26.882096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Radoshivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0430\u0434\u043e\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Radosh\u00ebvka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Khmel'nyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0406\u0437\u044f\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Iziaslavs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0430\u0434\u043e\u0448\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Radoshivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695908,
+        "gp:id":921410,
+        "qs:id":9
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"81e2940a6d12288e261b50834243f1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088547,
+            "locality_id":101862771,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":101862771,
+    "wof:lastmodified":1544746654,
+    "wof:name":"\u0420\u0430\u0434\u043e\u0448\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.882096,
+    50.182855,
+    26.882096,
+    50.182855
+],
+  "geometry": {"coordinates":[26.882096,50.182855],"type":"Point"}
+}

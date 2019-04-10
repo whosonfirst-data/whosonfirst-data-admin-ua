@@ -1,0 +1,73 @@
+{
+  "id": 1344266003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99889,49.65492,31.99889,49.65492",
+    "geom:latitude":49.65492,
+    "geom:longitude":31.99889,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kholodne",
+    "gn:country_code":"UA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11179687,
+    "gn:latitude":49.65492,
+    "gn:longitude":31.99889,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kholodne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kholodne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u043e\u043b\u043e\u0434\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        1108815745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11179687
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e1d4ebd2d1f801242bc6e49ea89fd43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815745,
+            "locality_id":1344266003,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1344266003,
+    "wof:lastmodified":1537712010,
+    "wof:name":"Kholodne",
+    "wof:parent_id":1108815745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99889000000001,
+    49.65492,
+    31.99889000000001,
+    49.65492
+],
+  "geometry": {"coordinates":[31.99889000000001,49.65492],"type":"Point"}
+}

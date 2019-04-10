@@ -1,0 +1,75 @@
+{
+  "id": 1243360893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28113,48.58015,25.28113,48.58015",
+    "geom:latitude":48.58015,
+    "geom:longitude":25.28113,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gvozdets",
+    "gn:country_code":"UA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707769,
+    "gn:latitude":48.58015,
+    "gn:longitude":25.28113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gvozdets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gvozdzets",
+        "Gwo\u017adziec",
+        "Gvozhdziyets",
+        "Gwozdziec Miasto",
+        "Gvozdets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        1108815661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707769,
+        "wk:page":"Hvizdets"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d86ef5650907497a3d9eed2546540fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815661,
+            "locality_id":1243360893,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1243360893,
+    "wof:lastmodified":1537711124,
+    "wof:name":"Gvozdets",
+    "wof:parent_id":1108815661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28113,
+    48.58015,
+    25.28113,
+    48.58015
+],
+  "geometry": {"coordinates":[25.28113,48.58015],"type":"Point"}
+}

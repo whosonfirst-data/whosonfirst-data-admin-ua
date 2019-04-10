@@ -1,0 +1,91 @@
+{
+  "id": 1125856565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66015,48.17732,32.66015,48.17732",
+    "geom:latitude":48.17732,
+    "geom:longitude":32.66015,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1541,
+    "gn:population":1541,
+    "iso:country":"UA",
+    "lbl:latitude":48.17732,
+    "lbl:longitude":32.66015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Molodizhne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u0435\u0436\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043b\u043e\u0434\u0456\u0436\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0434\u0456\u0436\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Molod\u00ebzhnoye"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":700834,
+    "qs_pg:gn_pop":1541,
+    "qs_pg:name":"Molodizhne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":128461,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700834,
+        "qs_pg:id":128461
+    },
+    "wof:country":"UA",
+    "wof:created":1497293647,
+    "wof:geomhash":"f02196a1ee8799380ad914e0bdcd3822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "locality_id":1125856565,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1125856565,
+    "wof:lastmodified":1509396259,
+    "wof:name":"Molodizhne",
+    "wof:parent_id":85688881,
+    "wof:placetype":"locality",
+    "wof:population":1541,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66015,
+    48.17732,
+    32.66015,
+    48.17732
+],
+  "geometry": {"coordinates":[32.66015,48.17732],"type":"Point"}
+}

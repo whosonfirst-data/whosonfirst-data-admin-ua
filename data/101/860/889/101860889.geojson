@@ -1,0 +1,90 @@
+{
+  "id": 101860889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.946593,49.017074,23.946593,49.017074",
+    "geom:latitude":49.017074,
+    "geom:longitude":23.946593,
+    "iso:country":"UA",
+    "lbl:latitude":49.017074,
+    "lbl:longitude":23.946593,
+    "mps:latitude":49.017074,
+    "mps:longitude":23.946593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yavoriv"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0432\u043e\u0440\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Yavorov"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ivano-Frankivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Dolyns'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u042f\u0432\u043e\u0440\u0456\u0432",
+    "qs:loc_alt":"Yavoriv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":448,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        1108815659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322886,
+        "gp:id":919099,
+        "qs:id":1,
+        "wd:id":"Q997392"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3de6a465817d03cb6216eccbe3aa0359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815659,
+            "locality_id":101860889,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":101860889,
+    "wof:lastmodified":1544745675,
+    "wof:name":"\u042f\u0432\u043e\u0440\u0456\u0432",
+    "wof:parent_id":1108815659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.946593,
+    49.017074,
+    23.946593,
+    49.017074
+],
+  "geometry": {"coordinates":[23.946593,49.017074],"type":"Point"}
+}

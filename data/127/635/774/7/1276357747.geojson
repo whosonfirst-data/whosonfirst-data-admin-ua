@@ -1,0 +1,77 @@
+{
+  "id": 1276357747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96661,48.13188,24.96661,48.13188",
+    "geom:latitude":48.13188,
+    "geom:longitude":24.96661,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vyhoda",
+    "gn:country_code":"UA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688771,
+    "gn:latitude":48.13188,
+    "gn:longitude":24.96661,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Vyhoda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Vyhoda"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0433\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Wygoda",
+        "Vygoda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688771
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"72aa05d65c966b74d896ba993c2b65b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088011,
+            "locality_id":1276357747,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1276357747,
+    "wof:lastmodified":1537710183,
+    "wof:name":"Vyhoda",
+    "wof:parent_id":102088011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96661,
+    48.13188,
+    24.96661,
+    48.13188
+],
+  "geometry": {"coordinates":[24.96661,48.13188],"type":"Point"}
+}

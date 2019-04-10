@@ -1,0 +1,103 @@
+{
+  "id": 1125857299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01028,49.75621,24.01028,49.75621",
+    "geom:latitude":49.75621,
+    "geom:longitude":24.01028,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3391,
+    "gn:population":3391,
+    "iso:country":"UA",
+    "lbl:latitude":49.75621,
+    "lbl:longitude":24.01028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u7d22\u9686\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Solonka"
+    ],
+    "name:ger_x_preferred":[
+        "Solonka"
+    ],
+    "name:pol_x_preferred":[
+        "So\u0142onka"
+    ],
+    "name:rum_x_preferred":[
+        "Solonka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Solonka Vel'ka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":693193,
+    "qs_pg:gn_pop":3391,
+    "qs_pg:name":"Solonka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":275434,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693193,
+        "qs_pg:id":275434,
+        "wd:id":"Q4428384"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293674,
+    "wof:geomhash":"f9d99330688027efdbc0e7f86af24dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088357,
+            "locality_id":1125857299,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125857299,
+    "wof:lastmodified":1553816576,
+    "wof:name":"Solonka",
+    "wof:parent_id":102088357,
+    "wof:placetype":"locality",
+    "wof:population":3391,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01028,
+    49.75621,
+    24.01028,
+    49.75621
+],
+  "geometry": {"coordinates":[24.01028,49.75621],"type":"Point"}
+}

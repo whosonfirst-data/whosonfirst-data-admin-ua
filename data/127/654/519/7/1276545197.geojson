@@ -1,0 +1,83 @@
+{
+  "id": 1276545197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.40178,48.37091,37.40178,48.37091",
+    "geom:latitude":48.37091,
+    "geom:longitude":37.40178,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shevchenko Pershe",
+    "gn:country_code":"UA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113210,
+    "gn:latitude":48.37091,
+    "gn:longitude":37.40178,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Shevchenko Pershe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Shevchenko Pershe"
+    ],
+    "name:ukr_x_variant":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e \u041f\u0435\u0440\u0448\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113210
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"66793f9b248298a93477d96ac6014520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1276545197,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1276545197,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276545197,
+    "wof:lastmodified":1537711850,
+    "wof:name":"Shevchenko Pershe",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.40178,
+    48.37091,
+    37.40178,
+    48.37091
+],
+  "geometry": {"coordinates":[37.40178,48.37091],"type":"Point"}
+}

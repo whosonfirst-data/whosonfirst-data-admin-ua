@@ -1,0 +1,113 @@
+{
+  "id": 101860549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.285292,48.741756,23.285292,48.741756",
+    "geom:latitude":48.741756,
+    "geom:longitude":23.285292,
+    "iso:country":"UA",
+    "lbl:latitude":48.741756,
+    "lbl:longitude":23.285292,
+    "mps:latitude":48.741756,
+    "mps:longitude":23.285292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u056f\u0578\u057f\u0561\u0580\u057d\u056f\u0578\u0565"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u79d1\u5854\u723e\u897f\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Skotarske"
+    ],
+    "name:eng_x_preferred":[
+        "Skotarske"
+    ],
+    "name:epo_x_preferred":[
+        "Skotarske"
+    ],
+    "name:ger_x_preferred":[
+        "Skotarske"
+    ],
+    "name:hun_x_preferred":[
+        "Kisszolyva"
+    ],
+    "name:rum_x_preferred":[
+        "Skotarske"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0442\u0430\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u0442\u0430\u0440\u0441\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Skotarsko"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0412\u043e\u043b\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Volovets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043a\u043e\u0442\u0430\u0440\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Skotars'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693637,
+        "gp:id":938311,
+        "qs:id":3,
+        "wd:id":"Q743021"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0402edb372710067972b5f1212ed34ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088085,
+            "locality_id":101860549,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101860549,
+    "wof:lastmodified":1553815553,
+    "wof:name":"\u0421\u043a\u043e\u0442\u0430\u0440\u0441\u044c\u043a\u0435",
+    "wof:parent_id":102088085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.285292,
+    48.741756,
+    23.285292,
+    48.741756
+],
+  "geometry": {"coordinates":[23.285292,48.741756],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 101873157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.323206,48.751632,28.323206,48.751632",
+    "geom:latitude":48.751632,
+    "geom:longitude":28.323206,
+    "iso:country":"UA",
+    "lbl:latitude":48.751632,
+    "lbl:longitude":28.323206,
+    "mps:latitude":48.751632,
+    "mps:longitude":28.323206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Derebchyn"
+    ],
+    "name:unk_x_variant":[
+        "Derebchin"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Vinnyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0428\u0430\u0440\u0433\u043e\u0440\u043e\u0434\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Sharhorods'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0435\u0440\u0435\u0431\u0447\u0438\u043d",
+    "qs:loc_alt":"Derebchyn",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710127,
+        "gp:id":927006,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a99d30ff760f4aa3acb920851fcab955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088263,
+            "locality_id":101873157,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":101873157,
+    "wof:lastmodified":1544751502,
+    "wof:name":"\u0414\u0435\u0440\u0435\u0431\u0447\u0438\u043d",
+    "wof:parent_id":102088263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.323206,
+    48.751632,
+    28.323206,
+    48.751632
+],
+  "geometry": {"coordinates":[28.323206,48.751632],"type":"Point"}
+}

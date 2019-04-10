@@ -1,0 +1,87 @@
+{
+  "id": 1125779509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81757,50.31424,24.81757,50.31424",
+    "geom:latitude":50.31424,
+    "geom:longitude":24.81757,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3763,
+    "gn:population":3763,
+    "iso:country":"UA",
+    "lbl:latitude":50.31424,
+    "lbl:longitude":24.81757,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u0456\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043a\u0456\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Kulikuv"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":703716,
+    "qs_pg:gn_pop":3763,
+    "qs_pg:name":"Kulykiv",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128582,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703716,
+        "qs_pg:id":128582
+    },
+    "wof:country":"UA",
+    "wof:created":1497290407,
+    "wof:geomhash":"68f956f70ee97ae27bea57bfde42633c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088501,
+            "locality_id":1125779509,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1125779509,
+    "wof:lastmodified":1509391470,
+    "wof:name":"Kulykiv",
+    "wof:parent_id":102088501,
+    "wof:placetype":"locality",
+    "wof:population":3763,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81757,
+    50.31424,
+    24.81757,
+    50.31424
+],
+  "geometry": {"coordinates":[24.81757,50.31424],"type":"Point"}
+}

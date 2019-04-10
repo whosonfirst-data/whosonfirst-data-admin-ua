@@ -1,0 +1,77 @@
+{
+  "id": 1243228663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21521,50.29596,25.21521,50.29596",
+    "geom:latitude":50.29596,
+    "geom:longitude":25.21521,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ridkiv",
+    "gn:country_code":"UA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695684,
+    "gn:latitude":50.29596,
+    "gn:longitude":25.21521,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Ridkiv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ridkiv"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0456\u0434\u043a\u0456\u0432"
+    ],
+    "name:und_x_variant":[
+        "Redkuv",
+        "Redkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695684
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"624a145679f00f2fd3927c116859cf0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088507,
+            "locality_id":1243228663,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1243228663,
+    "wof:lastmodified":1537710521,
+    "wof:name":"Ridkiv",
+    "wof:parent_id":102088507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21521,
+    50.29596,
+    25.21521,
+    50.29596
+],
+  "geometry": {"coordinates":[25.21521,50.29596],"type":"Point"}
+}

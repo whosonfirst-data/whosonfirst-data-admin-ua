@@ -1,0 +1,77 @@
+{
+  "id": 1293881817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.00634,47.51904,38.00634,47.51904",
+    "geom:latitude":47.51904,
+    "geom:longitude":38.00634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koshkino",
+    "gn:country_code":"UA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704796,
+    "gn:latitude":47.51904,
+    "gn:longitude":38.00634,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Koshkino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704796
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a5cddfe72cdc52db77ff436363ae3750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1293881817,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1293881817,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293881817,
+    "wof:lastmodified":1536716123,
+    "wof:name":"Koshkino",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.00634,
+    47.51904,
+    38.00634,
+    47.51904
+],
+  "geometry": {"coordinates":[38.00634,47.51904],"type":"Point"}
+}

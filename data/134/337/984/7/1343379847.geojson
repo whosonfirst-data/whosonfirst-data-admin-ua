@@ -1,0 +1,67 @@
+{
+  "id": 1343379847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13303,48.83881,27.13303,48.83881",
+    "geom:latitude":48.83881,
+    "geom:longitude":27.13303,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Antonovka",
+    "gn:country_code":"UA",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713285,
+    "gn:latitude":48.83881,
+    "gn:longitude":27.13303,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Antonovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713285
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"bc86cd7171c4f9e94e4073082659e219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088227,
+            "locality_id":1343379847,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1343379847,
+    "wof:lastmodified":1536861120,
+    "wof:name":"Antonovka",
+    "wof:parent_id":102088227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13303,
+    48.83881,
+    27.13303,
+    48.83881
+],
+  "geometry": {"coordinates":[27.13303,48.83881],"type":"Point"}
+}

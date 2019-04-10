@@ -1,0 +1,87 @@
+{
+  "id": 1126002509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13764,50.80595,30.13764,50.80595",
+    "geom:latitude":50.80595,
+    "geom:longitude":30.13764,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4046,
+    "gn:population":4046,
+    "iso:country":"UA",
+    "lbl:latitude":50.80595,
+    "lbl:longitude":30.13764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Katiuzhanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u044e\u0436\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u044e\u0436\u0430\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":706612,
+    "qs_pg:gn_pop":4046,
+    "qs_pg:name":"Katyuzhanka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128669,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706612,
+        "qs_pg:id":128669
+    },
+    "wof:country":"UA",
+    "wof:created":1497299737,
+    "wof:geomhash":"41a6d6e98bb81ae39d9a782fe5b1a85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088851,
+            "locality_id":1126002509,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":1126002509,
+    "wof:lastmodified":1509406234,
+    "wof:name":"Katyuzhanka",
+    "wof:parent_id":102088851,
+    "wof:placetype":"locality",
+    "wof:population":4046,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13764,
+    50.80595,
+    30.13764,
+    50.80595
+],
+  "geometry": {"coordinates":[30.13764,50.80595],"type":"Point"}
+}

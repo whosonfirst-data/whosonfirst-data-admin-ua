@@ -1,0 +1,94 @@
+{
+  "id": 101871807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.808514,51.490891,32.808514,51.490891",
+    "geom:latitude":51.490891,
+    "geom:longitude":32.808514,
+    "iso:country":"UA",
+    "lbl:latitude":51.490891,
+    "lbl:longitude":32.808514,
+    "mps:latitude":51.490891,
+    "mps:longitude":32.808514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nekhayevka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0445\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Nekhayivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0435\u0445\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nekhayevka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernihivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0440\u043e\u043f\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Korops'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u0435\u0445\u0430\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Nekhaivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700356,
+        "gp:id":927785,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"f7cc2495e6dc6afa031f1ab38b282cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089009,
+            "locality_id":101871807,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":101871807,
+    "wof:lastmodified":1544751265,
+    "wof:name":"\u041d\u0435\u0445\u0430\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102089009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.808514,
+    51.490891,
+    32.808514,
+    51.490891
+],
+  "geometry": {"coordinates":[32.808514,51.490891],"type":"Point"}
+}

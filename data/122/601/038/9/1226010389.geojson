@@ -1,0 +1,73 @@
+{
+  "id": 1226010389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.64122,49.99736,34.64122,49.99736",
+    "geom:latitude":49.99736,
+    "geom:longitude":34.64122,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Khyzhnyakivka",
+    "gn:country_code":"UA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8696055,
+    "gn:latitude":49.99736,
+    "gn:longitude":34.64122,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Khyzhnyakivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Khyzhnyakivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u0438\u0436\u043d\u044f\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8696055
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"81e6607bc4c2d39f6981b281ab7959a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088873,
+            "locality_id":1226010389,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1226010389,
+    "wof:lastmodified":1537711803,
+    "wof:name":"Khyzhnyakivka",
+    "wof:parent_id":102088873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.64122,
+    49.99736,
+    34.64122,
+    49.99736
+],
+  "geometry": {"coordinates":[34.64122,49.99736],"type":"Point"}
+}

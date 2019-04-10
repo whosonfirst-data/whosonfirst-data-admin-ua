@@ -1,0 +1,76 @@
+{
+  "id": 1309862267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51631,51.72832,33.51631,51.72832",
+    "geom:latitude":51.72832,
+    "geom:longitude":33.51631,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kurdyumivka",
+    "gn:country_code":"UA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703632,
+    "gn:latitude":51.72832,
+    "gn:longitude":33.51631,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kurdyumivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kurdyumivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u0440\u0434\u044e\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kurdyumovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        1108815709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703632
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1cce92c2506426becbf123c0af91bafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815709,
+            "locality_id":1309862267,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1309862267,
+    "wof:lastmodified":1537710926,
+    "wof:name":"Kurdyumivka",
+    "wof:parent_id":1108815709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51631,
+    51.72832,
+    33.51631,
+    51.72832
+],
+  "geometry": {"coordinates":[33.51631,51.72832],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 101870113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.002151,50.113083,35.002151,50.113083",
+    "geom:latitude":50.113083,
+    "geom:longitude":35.002151,
+    "iso:country":"UA",
+    "lbl:latitude":50.113083,
+    "lbl:longitude":35.002151,
+    "mps:latitude":50.113083,
+    "mps:longitude":35.002151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0561\u0580\u056d\u0578\u0574\u0578\u057e\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u723e\u970d\u7c73\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Parkhomovka"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u056d\u0578\u0574\u0578\u057e\u056f\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Parchomiwka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0445\u043e\u043c\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0445\u043e\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Parkhomivka"
+    ],
+    "name:unk_x_variant":[
+        "Parkhomovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u723e\u970d\u7c73\u592b\u5361"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kharkivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnokuts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0430\u0440\u0445\u043e\u043c\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Parkhomivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        1108815731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697971,
+        "gp:id":930124,
+        "qs:id":9,
+        "wd:id":"Q4346255"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"e27b089bf13bb4d05892733ce4a5fe8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815731,
+            "locality_id":101870113,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":101870113,
+    "wof:lastmodified":1544750589,
+    "wof:name":"\u041f\u0430\u0440\u0445\u043e\u043c\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108815731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.002151,
+    50.113083,
+    35.002151,
+    50.113083
+],
+  "geometry": {"coordinates":[35.002151,50.113083],"type":"Point"}
+}

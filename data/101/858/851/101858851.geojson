@@ -1,0 +1,91 @@
+{
+  "id": 101858851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.023004,45.996556,34.023004,45.996556",
+    "geom:latitude":45.996556,
+    "geom:longitude":34.023004,
+    "iso:country":"UA",
+    "lbl:latitude":45.996556,
+    "lbl:longitude":34.023004,
+    "mps:latitude":45.996556,
+    "mps:longitude":34.023004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Krasnoperekops'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u0435",
+    "qs:loc_alt":"Krasnoarmiis'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738619,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518472,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2a1090766b8c94c5869f91f7ce655bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858851,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738619,
+            "disputed_id":1159339547,
+            "locality_id":101858851,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858851,
+    "wof:lastmodified":1544744616,
+    "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u0435",
+    "wof:parent_id":1108738619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.023004,
+    45.996556,
+    34.023004,
+    45.996556
+],
+  "geometry": {"coordinates":[34.023004,45.996556],"type":"Point"}
+}

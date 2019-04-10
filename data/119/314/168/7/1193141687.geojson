@@ -1,0 +1,86 @@
+{
+  "id": 1193141687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85387,48.7032,37.85387,48.7032",
+    "geom:latitude":48.7032,
+    "geom:longitude":37.85387,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Min'kivka",
+    "gn:country_code":"UA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":701085,
+    "gn:latitude":48.7032,
+    "gn:longitude":37.85387,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Min\u2019kivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Min\u2019kovka"
+    ],
+    "name:ukr_x_preferred":[
+        "Min\u2019kivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0456\u043d\u044c\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":701085
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"efd6c8ef21a5c4a7974ffd0b6c2499fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1193141687,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1193141687,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1193141687,
+    "wof:lastmodified":1537710806,
+    "wof:name":"Min'kivka",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85387,
+    48.7032,
+    37.85387,
+    48.7032
+],
+  "geometry": {"coordinates":[37.85387,48.7032],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1125901039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11473,48.54226,28.11473,48.54226",
+    "geom:latitude":48.54226,
+    "geom:longitude":28.11473,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3065,
+    "gn:population":3065,
+    "iso:country":"UA",
+    "lbl:latitude":48.54226,
+    "lbl:longitude":28.11473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5207\u723e\u5c3c\u592b\u9f4a"
+    ],
+    "name:eng_x_preferred":[
+        "Chernivtsi"
+    ],
+    "name:ger_x_preferred":[
+        "Tscherniwzi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05e0\u05d9\u05d1\u05e6\u05d9"
+    ],
+    "name:pol_x_preferred":[
+        "Czerniejowce"
+    ],
+    "name:rum_x_preferred":[
+        "Cerniv\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
+    ],
+    "name:sah_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0435\u0432\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Chernevtsy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":710741,
+    "qs_pg:gn_pop":3065,
+    "qs_pg:name":"Chernivtsi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1028622,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        1108815609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":710741,
+        "qs_pg:id":1028622,
+        "wd:id":"Q1999900"
+    },
+    "wof:country":"UA",
+    "wof:created":1497295804,
+    "wof:geomhash":"a1a5222f20d939f479efe7155dd560f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815609,
+            "locality_id":1125901039,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1125901039,
+    "wof:lastmodified":1553816612,
+    "wof:name":"Chernivtsi",
+    "wof:parent_id":1108815609,
+    "wof:placetype":"locality",
+    "wof:population":3065,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11473,
+    48.54226,
+    28.11473,
+    48.54226
+],
+  "geometry": {"coordinates":[28.11473,48.54226],"type":"Point"}
+}

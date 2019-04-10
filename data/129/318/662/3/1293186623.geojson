@@ -1,0 +1,73 @@
+{
+  "id": 1293186623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83359,49.85682,35.83359,49.85682",
+    "geom:latitude":49.85682,
+    "geom:longitude":35.83359,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Plastynivka",
+    "gn:country_code":"UA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8677267,
+    "gn:latitude":49.85682,
+    "gn:longitude":35.83359,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Plastynivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Plastynivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043b\u0430\u0441\u0442\u0443\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688873,
+        102088839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8677267
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"39fdc855a3beb7e493346a31edaca390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088839,
+            "locality_id":1293186623,
+            "region_id":85688873
+        }
+    ],
+    "wof:id":1293186623,
+    "wof:lastmodified":1537711795,
+    "wof:name":"Plastynivka",
+    "wof:parent_id":102088839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83359,
+    49.85682,
+    35.83359,
+    49.85682
+],
+  "geometry": {"coordinates":[35.83359,49.85682],"type":"Point"}
+}

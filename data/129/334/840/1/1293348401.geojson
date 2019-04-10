@@ -1,0 +1,74 @@
+{
+  "id": 1293348401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6816,48.54509,28.6816,48.54509",
+    "geom:latitude":48.54509,
+    "geom:longitude":28.6816,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kyslyts'ke",
+    "gn:country_code":"UA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705756,
+    "gn:latitude":48.54509,
+    "gn:longitude":28.6816,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kyslyts\u2019ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u043b\u0438\u0446\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kyslyts\u2019ke",
+        "Kislitskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688783,
+        102088209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705756
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"120dcdd499500adf2c92cdb09754998c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088209,
+            "locality_id":1293348401,
+            "region_id":85688783
+        }
+    ],
+    "wof:id":1293348401,
+    "wof:lastmodified":1537711028,
+    "wof:name":"Kyslyts'ke",
+    "wof:parent_id":102088209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6816,
+    48.54509,
+    28.6816,
+    48.54509
+],
+  "geometry": {"coordinates":[28.6816,48.54509],"type":"Point"}
+}

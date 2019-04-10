@@ -1,0 +1,86 @@
+{
+  "id": 1276232411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01942,48.20001,37.01942,48.20001",
+    "geom:latitude":48.20001,
+    "geom:longitude":37.01942,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Uspenivka",
+    "gn:country_code":"UA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112309,
+    "gn:latitude":48.20001,
+    "gn:longitude":37.01942,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Uspenivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Uspenivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u0441\u043f\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Uspenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112309
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"b017fd1d08cb3a4dbc7b3d4c759f9137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1276232411,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1276232411,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276232411,
+    "wof:lastmodified":1537711842,
+    "wof:name":"Uspenivka",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01942,
+    48.20001,
+    37.01942,
+    48.20001
+],
+  "geometry": {"coordinates":[37.01942,48.20001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260136627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.24895,51.25268,34.24895,51.25268",
+    "geom:latitude":51.25268,
+    "geom:longitude":34.24895,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ryzhivka",
+    "gn:country_code":"UA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695005,
+    "gn:latitude":51.25268,
+    "gn:longitude":34.24895,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ryzhivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0436\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ryzhovka",
+        "Ryzhevka",
+        "Ryzhivka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695005
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d0a2762c4038ac76a378900b442b8bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088995,
+            "locality_id":1260136627,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1260136627,
+    "wof:lastmodified":1537710487,
+    "wof:name":"Ryzhivka",
+    "wof:parent_id":102088995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.24895,
+    51.25268,
+    34.24895,
+    51.25268
+],
+  "geometry": {"coordinates":[34.24895,51.25268],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209773059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08938,51.04049,24.08938,51.04049",
+    "geom:latitude":51.04049,
+    "geom:longitude":24.08938,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mosyr",
+    "gn:country_code":"UA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700680,
+    "gn:latitude":51.04049,
+    "gn:longitude":24.08938,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mosyr",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0441\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Masur",
+        "Mosur",
+        "Mosir",
+        "Mosyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700680
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a217027a7c49e4e87edb0799549ec78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088727,
+            "locality_id":1209773059,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1209773059,
+    "wof:lastmodified":1537710784,
+    "wof:name":"Mosyr",
+    "wof:parent_id":102088727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08938,
+    51.04049000000001,
+    24.08938,
+    51.04049000000001
+],
+  "geometry": {"coordinates":[24.08938,51.04049000000001],"type":"Point"}
+}

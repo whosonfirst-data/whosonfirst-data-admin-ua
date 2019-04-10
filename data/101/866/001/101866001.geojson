@@ -1,0 +1,101 @@
+{
+  "id": 101866001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.198585,46.858026,32.198585,46.858026",
+    "geom:latitude":46.858026,
+    "geom:longitude":32.198585,
+    "gn:population":3031,
+    "iso:country":"UA",
+    "lbl:latitude":46.858026,
+    "lbl:longitude":32.198585,
+    "mps:latitude":46.858026,
+    "mps:longitude":32.198585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shevchenkovo"
+    ],
+    "name:eng_x_variant":[
+        "Shevchenkove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Shevchenko"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Mykolaivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0438\u0439",
+    "qs:a2_alt":"Zhovtnevyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435",
+    "qs:loc_alt":"Shevchenkove",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688819,
+        102088055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694148,
+        "gp:id":931534,
+        "qs:id":128288,
+        "wd:id":"Q1002607"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ba8bae17ed01d1d6e4a12c4d38255113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088055,
+            "locality_id":101866001,
+            "region_id":85688819
+        }
+    ],
+    "wof:id":101866001,
+    "wof:lastmodified":1544748360,
+    "wof:name":"\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435",
+    "wof:parent_id":102088055,
+    "wof:placetype":"locality",
+    "wof:population":3031,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.198585,
+    46.858026,
+    32.198585,
+    46.858026
+],
+  "geometry": {"coordinates":[32.198585,46.858026],"type":"Point"}
+}

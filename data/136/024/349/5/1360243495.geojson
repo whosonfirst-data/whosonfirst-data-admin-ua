@@ -1,0 +1,76 @@
+{
+  "id": 1360243495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05269,50.67931,35.05269,50.67931",
+    "geom:latitude":50.67931,
+    "geom:longitude":35.05269,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mozkove",
+    "gn:country_code":"UA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":807615,
+    "gn:latitude":50.67931,
+    "gn:longitude":35.05269,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Mozkove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Mozkove"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u0437\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mozgovoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":807615
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"57e45eb52b44c730c68226e680acb29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088249,
+            "locality_id":1360243495,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1360243495,
+    "wof:lastmodified":1537711461,
+    "wof:name":"Mozkove",
+    "wof:parent_id":102088249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05269000000001,
+    50.67931,
+    35.05269000000001,
+    50.67931
+],
+  "geometry": {"coordinates":[35.05269000000001,50.67931],"type":"Point"}
+}

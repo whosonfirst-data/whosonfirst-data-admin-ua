@@ -1,0 +1,76 @@
+{
+  "id": 1242876121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01582,50.73307,33.01582,50.73307",
+    "geom:latitude":50.73307,
+    "geom:longitude":33.01582,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Spivakove",
+    "gn:country_code":"UA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559819,
+    "gn:latitude":50.73307,
+    "gn:longitude":33.01582,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Spivakove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Spivakove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u043f\u0456\u0432\u0430\u043a\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Spivakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559819
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d22be7539bd1485040ed9a0d60a65c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088937,
+            "locality_id":1242876121,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1242876121,
+    "wof:lastmodified":1537711758,
+    "wof:name":"Spivakove",
+    "wof:parent_id":102088937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01582,
+    50.73307,
+    33.01582,
+    50.73307
+],
+  "geometry": {"coordinates":[33.01582,50.73307],"type":"Point"}
+}

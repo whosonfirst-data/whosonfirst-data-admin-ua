@@ -1,0 +1,109 @@
+{
+  "id": 1125864563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71316,48.65455,25.71316,48.65455",
+    "geom:latitude":48.65455,
+    "geom:longitude":25.71316,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2768,
+    "gn:population":2768,
+    "iso:country":"UA",
+    "lbl:latitude":48.65455,
+    "lbl:longitude":25.71316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u057d\u057f\u0580\u056b\u056a\u0587\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u65af\u7279\u91cc\u65e5\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Kostryzhivka"
+    ],
+    "name:ger_x_preferred":[
+        "Kostryschiwka"
+    ],
+    "name:ita_x_preferred":[
+        "Kostry\u017eivka"
+    ],
+    "name:pol_x_preferred":[
+        "Kostry\u017ciwka"
+    ],
+    "name:rum_x_preferred":[
+        "Costrijeni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0438\u0436\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0440\u0438\u0436\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Costrijeni"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":704730,
+    "qs_pg:gn_pop":2768,
+    "qs_pg:name":"Kostryzhivka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128624,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704730,
+        "qs_pg:id":128624,
+        "wd:id":"Q1785337"
+    },
+    "wof:country":"UA",
+    "wof:created":1497293975,
+    "wof:geomhash":"302feb33a7d882e9e330c3320d835fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088111,
+            "locality_id":1125864563,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":1125864563,
+    "wof:lastmodified":1514509654,
+    "wof:name":"Kostryzhivka",
+    "wof:parent_id":102088111,
+    "wof:placetype":"locality",
+    "wof:population":2768,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71316,
+    48.65455,
+    25.71316,
+    48.65455
+],
+  "geometry": {"coordinates":[25.71316,48.65455],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1293382641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12882,48.34707,38.12882,48.34707",
+    "geom:latitude":48.34707,
+    "geom:longitude":38.12882,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalininsk",
+    "gn:country_code":"UA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":707194,
+    "gn:latitude":48.34707,
+    "gn:longitude":38.12882,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalininsk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayrak",
+        "Kalinino",
+        "Gosudarev Bayrak",
+        "Gosudarev Buyarak\u2019",
+        "Kalininsk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108730733,
+        1175613755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":707194
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"932747c6676cfbe6452b5d044d8b975a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1293382641,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108730733,
+            "disputed_id":1159339531,
+            "locality_id":1293382641,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1293382641,
+    "wof:lastmodified":1537711097,
+    "wof:name":"Kalininsk",
+    "wof:parent_id":1175613755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12882000000001,
+    48.34707,
+    38.12882000000001,
+    48.34707
+],
+  "geometry": {"coordinates":[38.12882000000001,48.34707],"type":"Point"}
+}

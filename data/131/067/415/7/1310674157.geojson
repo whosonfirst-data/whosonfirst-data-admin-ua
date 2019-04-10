@@ -1,0 +1,73 @@
+{
+  "id": 1310674157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18771,49.65491,38.18771,49.65491",
+    "geom:latitude":49.65491,
+    "geom:longitude":38.18771,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sverdlovka",
+    "gn:country_code":"UA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":808566,
+    "gn:latitude":49.65491,
+    "gn:longitude":38.18771,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Sverdlovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sverdlovka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":808566
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"11b4ac67c0dcfb275ccabc41e77e1193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088909,
+            "locality_id":1310674157,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1310674157,
+    "wof:lastmodified":1537711468,
+    "wof:name":"Sverdlovka",
+    "wof:parent_id":102088909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18771,
+    49.65491,
+    38.18771,
+    49.65491
+],
+  "geometry": {"coordinates":[38.18771,49.65491],"type":"Point"}
+}

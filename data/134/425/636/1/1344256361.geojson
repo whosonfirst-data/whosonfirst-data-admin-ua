@@ -1,0 +1,77 @@
+{
+  "id": 1344256361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,47.73333,33.58333,47.73333",
+    "geom:latitude":47.73333,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sadove",
+    "gn:country_code":"UA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712976,
+    "gn:latitude":47.73333,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sadove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Sadove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u0434\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Bai",
+        "Bai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        102088271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712976
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d813720828eab9c5e1ff3cf177ef01ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088271,
+            "locality_id":1344256361,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1344256361,
+    "wof:lastmodified":1537711383,
+    "wof:name":"Sadove",
+    "wof:parent_id":102088271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    47.73333,
+    33.58333,
+    47.73333
+],
+  "geometry": {"coordinates":[33.58333,47.73333],"type":"Point"}
+}

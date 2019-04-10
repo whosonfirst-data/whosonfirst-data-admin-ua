@@ -1,0 +1,111 @@
+{
+  "id": 101858711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.053655,45.481889,35.053655,45.481889",
+    "geom:latitude":45.481889,
+    "geom:longitude":35.053655,
+    "iso:country":"UA",
+    "lbl:latitude":45.481889,
+    "lbl:longitude":35.053655,
+    "mps:latitude":45.481889,
+    "mps:longitude":35.053655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dmitrovka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0574\u056b\u057f\u0580\u0578\u057e\u056f\u0561"
+    ],
+    "name:rus_x_historical":[
+        "\u0427\u0451\u0440\u043d\u043e-\u041a\u043e\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0451\u0440\u043d\u043e-\u041a\u043e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043e\u0432\u0454\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Soviets'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Dmytrivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738653,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709995,
+        "gp:id":918951,
+        "qs:id":8
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c97ddf744532da59a82f16ac1d1c7c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858711,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738653,
+            "disputed_id":1159339547,
+            "locality_id":101858711,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858711,
+    "wof:lastmodified":1544744542,
+    "wof:name":"\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430",
+    "wof:parent_id":1108738653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.053655,
+    45.481889,
+    35.053655,
+    45.481889
+],
+  "geometry": {"coordinates":[35.053655,45.481889],"type":"Point"}
+}

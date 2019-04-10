@@ -1,0 +1,101 @@
+{
+  "id": 101869797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.282676,50.343532,31.282676,50.343532",
+    "geom:latitude":50.343532,
+    "geom:longitude":31.282676,
+    "iso:country":"UA",
+    "lbl:latitude":50.343532,
+    "lbl:longitude":31.282676,
+    "mps:latitude":50.343532,
+    "mps:longitude":31.282676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Selychivka"
+    ],
+    "name:ger_x_preferred":[
+        "Selytschiwka"
+    ],
+    "name:rum_x_preferred":[
+        "Sel\u00eecivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0447\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Selychivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043b\u0438\u0447\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Selichevka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Kyivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0430\u0440\u0438\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Baryshivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0435\u043b\u0438\u0447\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Selychivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688801,
+        102088785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526756,
+        "gp:id":916350,
+        "qs:id":7,
+        "wd:id":"Q4413835"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"96345e7f68973658436b5711bb23bd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088785,
+            "locality_id":101869797,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":101869797,
+    "wof:lastmodified":1544750460,
+    "wof:name":"\u0421\u0435\u043b\u0438\u0447\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102088785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.282676,
+    50.343532,
+    31.282676,
+    50.343532
+],
+  "geometry": {"coordinates":[31.282676,50.343532],"type":"Point"}
+}

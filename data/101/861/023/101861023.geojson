@@ -1,0 +1,78 @@
+{
+  "id": 101861023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.990534,48.935582,25.990534,48.935582",
+    "geom:latitude":48.935582,
+    "geom:longitude":25.990534,
+    "iso:country":"UA",
+    "lbl:latitude":48.935582,
+    "lbl:longitude":25.990534,
+    "mps:latitude":48.935582,
+    "mps:longitude":25.990534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Ternopil's'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u043e\u0440\u0442\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Chortkivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0430\u0432\u0438\u0434\u043a\u0456\u0432\u0446\u0456",
+    "qs:loc_alt":"Davydkivtsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688835,
+        102088219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12518217,
+        "qs:id":2
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4b1413860f7782d4c1d3436a809945ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088219,
+            "locality_id":101861023,
+            "region_id":85688835
+        }
+    ],
+    "wof:id":101861023,
+    "wof:lastmodified":1544745746,
+    "wof:name":"\u0414\u0430\u0432\u0438\u0434\u043a\u0456\u0432\u0446\u0456",
+    "wof:parent_id":102088219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.990534,
+    48.935582,
+    25.990534,
+    48.935582
+],
+  "geometry": {"coordinates":[25.990534,48.935582],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209883343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47874,47.96011,35.47874,47.96011",
+    "geom:latitude":47.96011,
+    "geom:longitude":35.47874,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zelene",
+    "gn:country_code":"UA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687363,
+    "gn:latitude":47.96011,
+    "gn:longitude":35.47874,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Zelene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zelene"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0435\u043b\u0435\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Zeleny",
+        "Zel\u00ebnyy",
+        "Zelenoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687363
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4595a94d1f950f83ce9761279158aaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088439,
+            "locality_id":1209883343,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1209883343,
+    "wof:lastmodified":1537710109,
+    "wof:name":"Zelene",
+    "wof:parent_id":102088439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47874,
+    47.96011,
+    35.47874,
+    47.96011
+],
+  "geometry": {"coordinates":[35.47874,47.96011],"type":"Point"}
+}

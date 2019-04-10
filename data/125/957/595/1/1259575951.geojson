@@ -1,0 +1,77 @@
+{
+  "id": 1259575951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71578,48.06843,36.71578,48.06843",
+    "geom:latitude":48.06843,
+    "geom:longitude":36.71578,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zaporozhskoye",
+    "gn:country_code":"UA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11058074,
+    "gn:latitude":48.06843,
+    "gn:longitude":36.71578,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Zaporozhskoye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058074
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ab987379f285a27463de2259daa19458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1259575951,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088519,
+            "disputed_id":1159339531,
+            "locality_id":1259575951,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259575951,
+    "wof:lastmodified":1536726103,
+    "wof:name":"Zaporozhskoye",
+    "wof:parent_id":102088519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71578,
+    48.06843,
+    36.71578,
+    48.06843
+],
+  "geometry": {"coordinates":[36.71578,48.06843],"type":"Point"}
+}

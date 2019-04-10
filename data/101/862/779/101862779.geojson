@@ -1,0 +1,92 @@
+{
+  "id": 101862779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.215277,50.281805,24.215277,50.281805",
+    "geom:latitude":50.281805,
+    "geom:longitude":24.215277,
+    "gn:population":3641,
+    "iso:country":"UA",
+    "lbl:latitude":50.281805,
+    "lbl:longitude":24.215277,
+    "mps:latitude":50.281805,
+    "mps:longitude":24.215277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Silets\u2019"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0456\u043b\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Sielec Be\u0142ski"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"L'vivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u043e\u043a\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Sokal's'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0456\u043b\u0435\u0446\u044c",
+    "qs:loc_alt":"Silets",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694691,
+        "gp:id":934653,
+        "qs:id":128291
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3fcb5918fda802e33e4dc48dff415885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088549,
+            "locality_id":101862779,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":101862779,
+    "wof:lastmodified":1544746658,
+    "wof:name":"\u0421\u0456\u043b\u0435\u0446\u044c",
+    "wof:parent_id":102088549,
+    "wof:placetype":"locality",
+    "wof:population":3641,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.215277,
+    50.281805,
+    24.215277,
+    50.281805
+],
+  "geometry": {"coordinates":[24.215277,50.281805],"type":"Point"}
+}

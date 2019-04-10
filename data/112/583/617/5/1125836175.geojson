@@ -1,0 +1,78 @@
+{
+  "id": 1125836175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69188,48.79487,26.69188,48.79487",
+    "geom:latitude":48.79487,
+    "geom:longitude":26.69188,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5602,
+    "gn:population":5602,
+    "iso:country":"UA",
+    "lbl:latitude":48.79487,
+    "lbl:longitude":26.69188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":702302,
+    "qs_pg:gn_pop":5602,
+    "qs_pg:name":"Makiv",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":82972,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702302,
+        "qs_pg:id":82972
+    },
+    "wof:country":"UA",
+    "wof:created":1497292725,
+    "wof:geomhash":"3859c4f943b8ba71cdfcb1aca4ab4149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088237,
+            "locality_id":1125836175,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1125836175,
+    "wof:lastmodified":1509394993,
+    "wof:name":"Makiv",
+    "wof:parent_id":102088237,
+    "wof:placetype":"locality",
+    "wof:population":5602,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69188,
+    48.79487,
+    26.69188,
+    48.79487
+],
+  "geometry": {"coordinates":[26.69188,48.79487],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 1193258621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63731,45.35655,33.63731,45.35655",
+    "geom:latitude":45.35655,
+    "geom:longitude":33.63731,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"694905",
+    "gn:admin3_code":"11153066",
+    "gn:asciiname":"Vetrovka",
+    "gn:country_code":"UA",
+    "gn:dem":64,
+    "gn:elevation":"67.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689651,
+    "gn:latitude":45.35655,
+    "gn:longitude":33.63731,
+    "gn:modification_date":"2016-08-11",
+    "gn:name":"Vetrovka",
+    "gn:population":27,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vetrovka"
+    ],
+    "name:rus_x_historical":[
+        "\u0411\u043e\u0437-\u041e\u0433\u043b\u0443-\u0413\u0440\u043e\u0441\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0437-\u041e\u0433\u043b\u0443-\u0413\u0440\u043e\u0441\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412i\u0442\u0440i\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738649,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689651
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"10ae7a1f5bdc886e9915364de6fca7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1193258621,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738649,
+            "disputed_id":1159339547,
+            "locality_id":1193258621,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1193258621,
+    "wof:lastmodified":1537710233,
+    "wof:name":"Vetrovka",
+    "wof:parent_id":1108738649,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63731,
+    45.35655,
+    33.63731,
+    45.35655
+],
+  "geometry": {"coordinates":[33.63731,45.35655],"type":"Point"}
+}

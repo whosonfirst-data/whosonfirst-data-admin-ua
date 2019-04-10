@@ -1,0 +1,84 @@
+{
+  "id": 1125856085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30347,48.90246,24.30347,48.90246",
+    "geom:latitude":48.90246,
+    "geom:longitude":24.30347,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2929,
+    "gn:population":2929,
+    "iso:country":"UA",
+    "lbl:latitude":48.90246,
+    "lbl:longitude":24.30347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0430\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":697473,
+    "qs_pg:gn_pop":2929,
+    "qs_pg:name":"Petranka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128362,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688823,
+        102088135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697473,
+        "qs_pg:id":128362
+    },
+    "wof:country":"UA",
+    "wof:created":1497293625,
+    "wof:geomhash":"44874ea3e7e619f6b167a36dcb31b38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088135,
+            "locality_id":1125856085,
+            "region_id":85688823
+        }
+    ],
+    "wof:id":1125856085,
+    "wof:lastmodified":1509396224,
+    "wof:name":"Petranka",
+    "wof:parent_id":102088135,
+    "wof:placetype":"locality",
+    "wof:population":2929,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30347,
+    48.90246,
+    24.30347,
+    48.90246
+],
+  "geometry": {"coordinates":[24.30347,48.90246],"type":"Point"}
+}

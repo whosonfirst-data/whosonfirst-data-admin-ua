@@ -1,0 +1,82 @@
+{
+  "id": 101862363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.432872,49.960698,24.432872,49.960698",
+    "geom:latitude":49.960698,
+    "geom:longitude":24.432872,
+    "iso:country":"UA",
+    "lbl:latitude":49.960698,
+    "lbl:longitude":24.432872,
+    "mps:latitude":49.960698,
+    "mps:longitude":24.432872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Neslukhiv"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"L'vivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u0430\u043c'\u044f\u043d\u043a\u0430-\u0411\u0443\u0437\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kamyanka-Buz'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u0435\u0441\u043b\u0443\u0445\u0456\u0432",
+    "qs:loc_alt":"Neslukhiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700284,
+        "gp:id":924181,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"490e0082a0f2bed13449bcbd461133f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088459,
+            "locality_id":101862363,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":101862363,
+    "wof:lastmodified":1544746447,
+    "wof:name":"\u041d\u0435\u0441\u043b\u0443\u0445\u0456\u0432",
+    "wof:parent_id":102088459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.432872,
+    49.960698,
+    24.432872,
+    49.960698
+],
+  "geometry": {"coordinates":[24.432872,49.960698],"type":"Point"}
+}

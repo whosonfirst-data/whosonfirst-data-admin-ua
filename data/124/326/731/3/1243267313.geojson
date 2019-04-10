@@ -1,0 +1,73 @@
+{
+  "id": 1243267313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71385,49.05864,32.71385,49.05864",
+    "geom:latitude":49.05864,
+    "geom:longitude":32.71385,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Halahanivka",
+    "gn:country_code":"UA",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11183481,
+    "gn:latitude":49.05864,
+    "gn:longitude":32.71385,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Halahanivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Halahanivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043b\u0430\u0433\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        102088553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11183481
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"a3841ec161c807efdeb03dba3deb7dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088553,
+            "locality_id":1243267313,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":1243267313,
+    "wof:lastmodified":1537712016,
+    "wof:name":"Halahanivka",
+    "wof:parent_id":102088553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71385,
+    49.05864,
+    32.71385,
+    49.05864
+],
+  "geometry": {"coordinates":[32.71385,49.05864],"type":"Point"}
+}

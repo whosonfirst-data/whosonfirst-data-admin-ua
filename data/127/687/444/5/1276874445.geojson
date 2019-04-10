@@ -1,0 +1,77 @@
+{
+  "id": 1276874445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73001,51.91643,32.73001,51.91643",
+    "geom:latitude":51.91643,
+    "geom:longitude":32.73001,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bobryk",
+    "gn:country_code":"UA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":712011,
+    "gn:latitude":51.91643,
+    "gn:longitude":32.73001,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bobryk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Bobryk"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u0431\u0440\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bobrik",
+        "Bobrik Pervyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712011
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ffb7c54ee32742c2356b65bfd955621a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089015,
+            "locality_id":1276874445,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1276874445,
+    "wof:lastmodified":1537711337,
+    "wof:name":"Bobryk",
+    "wof:parent_id":102089015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73001,
+    51.91643,
+    32.73001,
+    51.91643
+],
+  "geometry": {"coordinates":[32.73001,51.91643],"type":"Point"}
+}

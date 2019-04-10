@@ -1,0 +1,76 @@
+{
+  "id": 1343269615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01674,51.63599,33.01674,51.63599",
+    "geom:latitude":51.63599,
+    "geom:longitude":33.01674,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chornyavka",
+    "gn:country_code":"UA",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217376,
+    "gn:latitude":51.63599,
+    "gn:longitude":33.01674,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Chornyavka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Chornyavka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u043e\u0440\u043d\u044f\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chernyavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217376
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"51066b9bbc66c7e5ffb64c210b770a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089009,
+            "locality_id":1343269615,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1343269615,
+    "wof:lastmodified":1537711579,
+    "wof:name":"Chornyavka",
+    "wof:parent_id":102089009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01674000000001,
+    51.63599,
+    33.01674000000001,
+    51.63599
+],
+  "geometry": {"coordinates":[33.01674000000001,51.63599],"type":"Point"}
+}

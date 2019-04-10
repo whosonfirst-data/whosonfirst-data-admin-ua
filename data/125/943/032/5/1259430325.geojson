@@ -1,0 +1,77 @@
+{
+  "id": 1259430325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34496,47.47051,35.34496,47.47051",
+    "geom:latitude":47.47051,
+    "geom:longitude":35.34496,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Lisne",
+    "gn:country_code":"UA",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703158,
+    "gn:latitude":47.47051,
+    "gn:longitude":35.34496,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Lisne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Lisne"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0441\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lesnoy",
+        "Lesnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703158
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"67700603b8fe6a6dc8fff8419bbd868c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088303,
+            "locality_id":1259430325,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1259430325,
+    "wof:lastmodified":1537710904,
+    "wof:name":"Lisne",
+    "wof:parent_id":102088303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34496,
+    47.47051,
+    35.34496,
+    47.47051
+],
+  "geometry": {"coordinates":[35.34496,47.47051],"type":"Point"}
+}

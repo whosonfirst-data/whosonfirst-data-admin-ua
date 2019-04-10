@@ -1,0 +1,75 @@
+{
+  "id": 1310252403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92372,47.749,35.92372,47.749",
+    "geom:latitude":47.749,
+    "geom:longitude":35.92372,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Novosoloshyne",
+    "gn:country_code":"UA",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693207,
+    "gn:latitude":47.749,
+    "gn:longitude":35.92372,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Novosoloshyne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u043e\u043b\u043e\u0448\u0438\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novo-Soloshino",
+        "Solomino",
+        "Novosoloshyne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693207
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5ee345d46d583da71e1739c21ba48d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088375,
+            "locality_id":1310252403,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1310252403,
+    "wof:lastmodified":1537710403,
+    "wof:name":"Novosoloshyne",
+    "wof:parent_id":102088375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92372,
+    47.749,
+    35.92372,
+    47.749
+],
+  "geometry": {"coordinates":[35.92372,47.749],"type":"Point"}
+}

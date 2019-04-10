@@ -1,0 +1,77 @@
+{
+  "id": 1309803019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21938,48.27398,36.21938,48.27398",
+    "geom:latitude":48.27398,
+    "geom:longitude":36.21938,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Brovky",
+    "gn:country_code":"UA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711388,
+    "gn:latitude":48.27398,
+    "gn:longitude":36.21938,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Brovky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Brovky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0440\u043e\u0432\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Borobki",
+        "Brovki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688797,
+        1108815617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711388
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1b3408a0857c7c72ce570e21b69a64d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815617,
+            "locality_id":1309803019,
+            "region_id":85688797
+        }
+    ],
+    "wof:id":1309803019,
+    "wof:lastmodified":1537711303,
+    "wof:name":"Brovky",
+    "wof:parent_id":1108815617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21938,
+    48.27398,
+    36.21938,
+    48.27398
+],
+  "geometry": {"coordinates":[36.21938,48.27398],"type":"Point"}
+}

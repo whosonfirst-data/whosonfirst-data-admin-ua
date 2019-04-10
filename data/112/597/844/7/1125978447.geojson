@@ -1,0 +1,113 @@
+{
+  "id": 1125978447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.18111,48.40642,37.18111,48.40642",
+    "geom:latitude":48.40642,
+    "geom:longitude":37.18111,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9718,
+    "gn:population":9718,
+    "iso:country":"UA",
+    "lbl:latitude":48.40642,
+    "lbl:longitude":37.18111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Belitskoye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0446\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Bilyts\u2019ke"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u0438\u0446\u044c\u043a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Khutor Belitskiy"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":712613,
+    "qs_pg:gn_pop":9718,
+    "qs_pg:name":"Belitskoye",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Donets\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":421501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":916507,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Donets\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712613,
+        "gp:id":916507,
+        "qs_pg:id":421501
+    },
+    "wof:country":"UA",
+    "wof:created":1497298446,
+    "wof:geomhash":"44d2ce988ef3993b79d36c9ddb35cb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815865,
+            "disputed_id":1159339531,
+            "locality_id":1125978447,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815865,
+            "disputed_id":1159339531,
+            "locality_id":1125978447,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125978447,
+    "wof:lastmodified":1530298014,
+    "wof:name":"Belitskoye",
+    "wof:parent_id":1108815865,
+    "wof:placetype":"locality",
+    "wof:population":9718,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.18111,
+    48.40642,
+    37.18111,
+    48.40642
+],
+  "geometry": {"coordinates":[37.18111,48.40642],"type":"Point"}
+}

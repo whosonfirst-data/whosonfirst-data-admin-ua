@@ -1,0 +1,77 @@
+{
+  "id": 1226412851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11472,48.48667,39.11472,48.48667",
+    "geom:latitude":48.48667,
+    "geom:longitude":39.11472,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zbirne",
+    "gn:country_code":"UA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":694733,
+    "gn:latitude":48.48667,
+    "gn:longitude":39.11472,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Zbirne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zbirne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0431\u0456\u0440\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Shornaya",
+        "Sbornaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        102088749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694733
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2204966336f731a7f2e03cb7ca0923ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088749,
+            "locality_id":1226412851,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1226412851,
+    "wof:lastmodified":1537710475,
+    "wof:name":"Zbirne",
+    "wof:parent_id":102088749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11472,
+    48.48667,
+    39.11472,
+    48.48667
+],
+  "geometry": {"coordinates":[39.11472,48.48667],"type":"Point"}
+}

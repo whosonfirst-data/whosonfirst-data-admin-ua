@@ -1,0 +1,102 @@
+{
+  "id": 1125930929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51955,50.0703,27.51955,50.0703",
+    "geom:latitude":50.0703,
+    "geom:longitude":27.51955,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3185,
+    "gn:population":3185,
+    "iso:country":"UA",
+    "lbl:latitude":50.0703,
+    "lbl:longitude":27.51955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Novoselytsya"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shaya Novoselitsa"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":699272,
+    "qs_pg:gn_pop":3185,
+    "qs_pg:name":"Noveselitsya",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Zhytomyrs\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1085188,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":928371,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Zhytomyrs\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699272,
+        "gp:id":928371,
+        "qs_pg:id":1085188
+    },
+    "wof:country":"UA",
+    "wof:created":1497296802,
+    "wof:geomhash":"672985031efdda6b99893351a36f0581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088571,
+            "locality_id":1125930929,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":1125930929,
+    "wof:lastmodified":1509401397,
+    "wof:name":"Noveselitsya",
+    "wof:parent_id":102088571,
+    "wof:placetype":"locality",
+    "wof:population":3185,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51955,
+    50.0703,
+    27.51955,
+    50.0703
+],
+  "geometry": {"coordinates":[27.51955,50.0703],"type":"Point"}
+}

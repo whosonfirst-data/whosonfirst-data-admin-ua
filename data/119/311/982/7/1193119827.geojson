@@ -1,0 +1,75 @@
+{
+  "id": 1193119827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22879,48.77655,23.22879,48.77655",
+    "geom:latitude":48.77655,
+    "geom:longitude":23.22879,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Verkhniachka",
+    "gn:country_code":"UA",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689858,
+    "gn:latitude":48.77655,
+    "gn:longitude":23.22879,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"Verkhniachka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vyzlov",
+        "Vyzluv",
+        "Verkhnyachka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689858
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6baba3ee2c490f36734538a4f595abfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088167,
+            "locality_id":1193119827,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1193119827,
+    "wof:lastmodified":1537710247,
+    "wof:name":"Verkhniachka",
+    "wof:parent_id":102088167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22879,
+    48.77655,
+    23.22879,
+    48.77655
+],
+  "geometry": {"coordinates":[23.22879,48.77655],"type":"Point"}
+}

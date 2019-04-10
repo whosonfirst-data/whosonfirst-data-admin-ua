@@ -1,0 +1,65 @@
+{
+  "id": 1209581999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24611,47.53673,30.24611,47.53673",
+    "geom:latitude":47.53673,
+    "geom:longitude":30.24611,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nikolayevka",
+    "gn:country_code":"UA",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700160,
+    "gn:latitude":47.53673,
+    "gn:longitude":30.24611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nikolayevka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganskoye",
+        "Nikolayevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700160
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"42d1be736bf37bd946d5174e5a8ae8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633805,
+            "locality_id":1209581999
+        }
+    ],
+    "wof:id":1209581999,
+    "wof:lastmodified":1537710759,
+    "wof:name":"Nikolayevka",
+    "wof:parent_id":85633805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24611,
+    47.53673,
+    30.24611,
+    47.53673
+],
+  "geometry": {"coordinates":[30.24611,47.53673],"type":"Point"}
+}

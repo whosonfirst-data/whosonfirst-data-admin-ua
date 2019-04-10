@@ -1,0 +1,76 @@
+{
+  "id": 1226629707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.61937,47.86074,39.61937,47.86074",
+    "geom:latitude":47.86074,
+    "geom:longitude":39.61937,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Astakhove",
+    "gn:country_code":"UA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":713147,
+    "gn:latitude":47.86074,
+    "gn:longitude":39.61937,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Astakhove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0442\u0430\u0445\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Astakhovka",
+        "Astakhovo",
+        "Astakhove",
+        "Astachowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108815675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":713147
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"be4700a78667398f195f6dfa14db0f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815675,
+            "locality_id":1226629707,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1226629707,
+    "wof:lastmodified":1537711389,
+    "wof:name":"Astakhove",
+    "wof:parent_id":1108815675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61937,
+    47.86074,
+    39.61937,
+    47.86074
+],
+  "geometry": {"coordinates":[39.61937,47.86074],"type":"Point"}
+}

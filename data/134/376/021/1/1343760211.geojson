@@ -1,0 +1,83 @@
+{
+  "id": 1343760211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44349,48.28287,37.44349,48.28287",
+    "geom:latitude":48.28287,
+    "geom:longitude":37.44349,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Svyrydonivka",
+    "gn:country_code":"UA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112898,
+    "gn:latitude":48.28287,
+    "gn:longitude":37.44349,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Svyrydonivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Svyrydonivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u0438\u0440\u0438\u0434\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112898
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"d6b41effa8663bc49f5fb79b41b8bb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1343760211,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815625,
+            "disputed_id":1159339531,
+            "locality_id":1343760211,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1343760211,
+    "wof:lastmodified":1537711846,
+    "wof:name":"Svyrydonivka",
+    "wof:parent_id":1108815625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44349,
+    48.28287,
+    37.44349,
+    48.28287
+],
+  "geometry": {"coordinates":[37.44349,48.28287],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226327105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04137,46.29467,35.04137,46.29467",
+    "geom:latitude":46.29467,
+    "geom:longitude":35.04137,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Novyy Azov",
+    "gn:country_code":"UA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":698959,
+    "gn:latitude":46.29467,
+    "gn:longitude":35.04137,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Novyy Azov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u0410\u0437\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Novo-Azov",
+        "Novyy Azov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":698959
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"3f7bb167e479ab22d1d34e13d688d1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088043,
+            "locality_id":1226327105,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1226327105,
+    "wof:lastmodified":1537710689,
+    "wof:name":"Novyy Azov",
+    "wof:parent_id":102088043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04137,
+    46.29467,
+    35.04137,
+    46.29467
+],
+  "geometry": {"coordinates":[35.04137,46.29467],"type":"Point"}
+}

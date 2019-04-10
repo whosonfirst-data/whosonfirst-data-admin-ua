@@ -1,0 +1,77 @@
+{
+  "id": 1310470161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4628,51.416,24.4628,51.416",
+    "geom:latitude":51.416,
+    "geom:longitude":24.4628,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Borzova",
+    "gn:country_code":"UA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":711534,
+    "gn:latitude":51.416,
+    "gn:longitude":24.4628,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Borzova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Borzova"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u0440\u0437\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Borzuv",
+        "Borzovaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688815,
+        102088789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":711534
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5c8bd624179d80c07e3d34928f1227ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088789,
+            "locality_id":1310470161,
+            "region_id":85688815
+        }
+    ],
+    "wof:id":1310470161,
+    "wof:lastmodified":1537711311,
+    "wof:name":"Borzova",
+    "wof:parent_id":102088789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4628,
+    51.416,
+    24.4628,
+    51.416
+],
+  "geometry": {"coordinates":[24.4628,51.416],"type":"Point"}
+}

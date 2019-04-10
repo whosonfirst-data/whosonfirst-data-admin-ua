@@ -1,0 +1,100 @@
+{
+  "id": 1125835765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.71581,48.96108,37.71581,48.96108",
+    "geom:latitude":48.96108,
+    "geom:longitude":37.71581,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":264,
+    "gn:population":264,
+    "iso:country":"UA",
+    "lbl:latitude":48.96108,
+    "lbl:longitude":37.71581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Schyurovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u0443\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "Shchurove"
+    ],
+    "name:ukr_x_variant":[
+        "\u0429\u0443\u0440\u043e\u0432\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":694266,
+    "qs_pg:gn_pop":264,
+    "qs_pg:name":"Shchurovo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":82810,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694266,
+        "qs_pg:id":82810
+    },
+    "wof:country":"UA",
+    "wof:created":1497292709,
+    "wof:geomhash":"0a4916c0037b52d9fcc293ae89a7c29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815875,
+            "disputed_id":1159339531,
+            "locality_id":1125835765,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815875,
+            "disputed_id":1159339531,
+            "locality_id":1125835765,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125835765,
+    "wof:lastmodified":1530298011,
+    "wof:name":"Shchurovo",
+    "wof:parent_id":1108815875,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.71581,
+    48.96108,
+    37.71581,
+    48.96108
+],
+  "geometry": {"coordinates":[37.71581,48.96108],"type":"Point"}
+}

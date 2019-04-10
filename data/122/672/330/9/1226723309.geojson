@@ -1,0 +1,77 @@
+{
+  "id": 1226723309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.27194,48.67028,38.27194,48.67028",
+    "geom:latitude":48.67028,
+    "geom:longitude":38.27194,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Zaboyshchik",
+    "gn:country_code":"UA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":811268,
+    "gn:latitude":48.67028,
+    "gn:longitude":38.27194,
+    "gn:modification_date":"1996-03-25",
+    "gn:name":"Zaboyshchik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":811268
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"459a34cc3f41a5e66b8d488cf60f7735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1226723309,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815983,
+            "disputed_id":1159339531,
+            "locality_id":1226723309,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1226723309,
+    "wof:lastmodified":1536747746,
+    "wof:name":"Zaboyshchik",
+    "wof:parent_id":1108815983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.27194,
+    48.67028,
+    38.27194,
+    48.67028
+],
+  "geometry": {"coordinates":[38.27194,48.67028],"type":"Point"}
+}

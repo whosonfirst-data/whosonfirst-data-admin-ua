@@ -1,0 +1,123 @@
+{
+  "id": 1125978675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.79102,48.39489,37.79102,48.39489",
+    "geom:latitude":48.39489,
+    "geom:longitude":37.79102,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3868,
+    "gn:population":3868,
+    "iso:country":"UA",
+    "lbl:latitude":48.39489,
+    "lbl:longitude":37.79102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0547\u0579\u0565\u0580\u0562\u056b\u0576\u0578\u057e\u056f\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u8b1d\u723e\u6bd4\u5c3c\u592b\u5361"
+    ],
+    "name:eng_x_preferred":[
+        "Scherbynivka"
+    ],
+    "name:ger_x_preferred":[
+        "Schtscherbyniwka"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160\u010derbi\u0146ivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u0435\u0440\u0431\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0429\u0435\u0440\u0431\u0438\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Shcherbynivka"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":694290,
+    "qs_pg:gn_pop":3868,
+    "qs_pg:name":"Shcherbinovka",
+    "qs_pg:name_adm0":"Ukraine",
+    "qs_pg:name_adm1":"Donets\u00b4ka Oblast\u00b4",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":421834,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424976,
+    "qs_pg:woe_id":933531,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424976,
+    "woe:name_adm0":"Ukraine",
+    "woe:name_adm1":"Donets\u00b4ka Oblast\u00b4",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694290,
+        "gp:id":933531,
+        "qs_pg:id":421834,
+        "wd:id":"Q4528953"
+    },
+    "wof:country":"UA",
+    "wof:created":1497298456,
+    "wof:geomhash":"fa3d5082952b0b61c3aaa188e4bf16ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815895,
+            "disputed_id":1159339531,
+            "locality_id":1125978675,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815895,
+            "disputed_id":1159339531,
+            "locality_id":1125978675,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1125978675,
+    "wof:lastmodified":1530298014,
+    "wof:name":"Shcherbinovka",
+    "wof:parent_id":1108815895,
+    "wof:placetype":"locality",
+    "wof:population":3868,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.79102,
+    48.39489,
+    37.79102,
+    48.39489
+],
+  "geometry": {"coordinates":[37.79102,48.39489],"type":"Point"}
+}

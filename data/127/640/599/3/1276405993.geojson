@@ -1,0 +1,76 @@
+{
+  "id": 1276405993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02955,46.65696,31.02955,46.65696",
+    "geom:latitude":46.65696,
+    "geom:longitude":31.02955,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Voronivka",
+    "gn:country_code":"UA",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":689012,
+    "gn:latitude":46.65696,
+    "gn:longitude":31.02955,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Voronivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Voronivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u043e\u0440\u043e\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Voronovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688877,
+        102087995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":689012
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"27c4dc97cc13f14def730432a08073dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087995,
+            "locality_id":1276405993,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":1276405993,
+    "wof:lastmodified":1537710197,
+    "wof:name":"Voronivka",
+    "wof:parent_id":102087995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02955,
+    46.65696,
+    31.02955,
+    46.65696
+],
+  "geometry": {"coordinates":[31.02955,46.65696],"type":"Point"}
+}

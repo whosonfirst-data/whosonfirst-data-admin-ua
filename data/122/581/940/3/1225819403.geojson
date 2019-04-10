@@ -1,0 +1,76 @@
+{
+  "id": 1225819403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05567,50.52163,34.05567,50.52163",
+    "geom:latitude":50.52163,
+    "geom:longitude":34.05567,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Pidstavky",
+    "gn:country_code":"UA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":696836,
+    "gn:latitude":50.52163,
+    "gn:longitude":34.05567,
+    "gn:modification_date":"2013-10-06",
+    "gn:name":"Pidstavky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pidstavky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0456\u0434\u0441\u0442\u0430\u0432\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Podstavki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102088923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696836
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"7355493503ad6245a831a560f016f8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088923,
+            "locality_id":1225819403,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1225819403,
+    "wof:lastmodified":1537710578,
+    "wof:name":"Pidstavky",
+    "wof:parent_id":102088923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05567,
+    50.52163,
+    34.05567,
+    50.52163
+],
+  "geometry": {"coordinates":[34.05567,50.52163],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226208003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25607,49.45257,34.25607,49.45257",
+    "geom:latitude":49.45257,
+    "geom:longitude":34.25607,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hrekopavlivka",
+    "gn:country_code":"UA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140538,
+    "gn:latitude":49.45257,
+    "gn:longitude":34.25607,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Hrekopavlivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hrekopavlivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0440\u0435\u043a\u043e\u043f\u0430\u0432\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140538
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9b18546e89434b651bac245deb6c52c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088685,
+            "locality_id":1226208003,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":1226208003,
+    "wof:lastmodified":1537711987,
+    "wof:name":"Hrekopavlivka",
+    "wof:parent_id":102088685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25607,
+    49.45257,
+    34.25607,
+    49.45257
+],
+  "geometry": {"coordinates":[34.25607,49.45257],"type":"Point"}
+}

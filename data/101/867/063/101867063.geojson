@@ -1,0 +1,118 @@
+{
+  "id": 101867063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.931245,47.108294,37.931245,47.108294",
+    "geom:latitude":47.108294,
+    "geom:longitude":37.931245,
+    "gn:population":2638,
+    "iso:country":"UA",
+    "lbl:latitude":47.108294,
+    "lbl:longitude":37.931245,
+    "mps:latitude":47.108294,
+    "mps:longitude":37.931245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u0566\u056b\u0574\u0565\u0576\u0578\u0565"
+    ],
+    "name:eng_x_preferred":[
+        "Bezimenne"
+    ],
+    "name:est_x_preferred":[
+        "Bezimenne"
+    ],
+    "name:ger_x_preferred":[
+        "Besimenne"
+    ],
+    "name:lav_x_preferred":[
+        "Bezimenne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u044b\u043c\u0435\u043d\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0437\u0456\u043c\u0435\u043d\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Bezimennoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Donets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041d\u043e\u0432\u043e\u0430\u0437\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Novoazovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0435\u0437\u0456\u043c\u0435\u043d\u043d\u0435",
+    "qs:loc_alt":"Bezimenne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712181,
+        "gp:id":916882,
+        "qs:id":181496,
+        "wd:id":"Q4081092"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6e8e820d0ddb46bf6d2d7821795498e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":101867063,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088405,
+            "disputed_id":1159339531,
+            "locality_id":101867063,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":101867063,
+    "wof:lastmodified":1553815557,
+    "wof:name":"\u0411\u0435\u0437\u0456\u043c\u0435\u043d\u043d\u0435",
+    "wof:parent_id":102088405,
+    "wof:placetype":"locality",
+    "wof:population":2638,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.931245,
+    47.108294,
+    37.931245,
+    47.108294
+],
+  "geometry": {"coordinates":[37.931245,47.108294],"type":"Point"}
+}

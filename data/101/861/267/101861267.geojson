@@ -1,0 +1,95 @@
+{
+  "id": 101861267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4343,49.500129,23.4343,49.500129",
+    "geom:latitude":49.500129,
+    "geom:longitude":23.4343,
+    "gn:population":2086,
+    "iso:country":"UA",
+    "lbl:latitude":49.500129,
+    "lbl:longitude":23.4343,
+    "mps:latitude":49.500129,
+    "mps:longitude":23.4343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u044f\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u044f\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Dublany"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"L'vivs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0430\u043c\u0431\u0456\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Sambirs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0443\u0431\u043b\u044f\u043d\u0438",
+    "qs:loc_alt":"Dubliany",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":175,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        1108815683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709547,
+        "gp:id":924943,
+        "qs:id":1028598,
+        "wd:id":"Q997533"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"400fd5e396da53fe275dd2f677f294db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815683,
+            "locality_id":101861267,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":101861267,
+    "wof:lastmodified":1544745876,
+    "wof:name":"\u0414\u0443\u0431\u043b\u044f\u043d\u0438",
+    "wof:parent_id":1108815683,
+    "wof:placetype":"locality",
+    "wof:population":2086,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4343,
+    49.500129,
+    23.4343,
+    49.500129
+],
+  "geometry": {"coordinates":[23.4343,49.500129],"type":"Point"}
+}

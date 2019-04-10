@@ -1,0 +1,93 @@
+{
+  "id": 1125864739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18567,52.06314,31.18567,52.06314",
+    "geom:latitude":52.06314,
+    "geom:longitude":31.18567,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3250,
+    "gn:population":3250,
+    "iso:country":"UA",
+    "lbl:latitude":52.06314,
+    "lbl:longitude":31.18567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Dobryanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u0435\u043b\u0438\u0447\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u043e\u0431\u0440\u044f\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u0435\u043b\u0438\u0447\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u0431\u0440\u044f\u043d\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":709856,
+    "qs_pg:gn_pop":3250,
+    "qs_pg:name":"Dobryanka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":128751,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102088999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":709856,
+        "qs_pg:id":128751
+    },
+    "wof:country":"UA",
+    "wof:created":1497293982,
+    "wof:geomhash":"4fde161ff2808123e736c08ed9d212b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088999,
+            "locality_id":1125864739,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1125864739,
+    "wof:lastmodified":1509396887,
+    "wof:name":"Dobryanka",
+    "wof:parent_id":102088999,
+    "wof:placetype":"locality",
+    "wof:population":3250,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18567,
+    52.06314,
+    31.18567,
+    52.06314
+],
+  "geometry": {"coordinates":[31.18567,52.06314],"type":"Point"}
+}

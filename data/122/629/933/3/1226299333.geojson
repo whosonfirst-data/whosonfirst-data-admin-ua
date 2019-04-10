@@ -1,0 +1,77 @@
+{
+  "id": 1226299333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,51.36667,33.96667,51.36667",
+    "geom:latitude":51.36667,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Pocheptsi",
+    "gn:country_code":"UA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":690507,
+    "gn:latitude":51.36667,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Pocheptsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Pocheptsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0447\u0435\u043f\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Val\u2019kov",
+        "Pocheptsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688787,
+        102089001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":690507
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"353a8bdd70773e8b417f713341a7f9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089001,
+            "locality_id":1226299333,
+            "region_id":85688787
+        }
+    ],
+    "wof:id":1226299333,
+    "wof:lastmodified":1537710282,
+    "wof:name":"Pocheptsi",
+    "wof:parent_id":102089001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    51.36667,
+    33.96667,
+    51.36667
+],
+  "geometry": {"coordinates":[33.96667,51.36667],"type":"Point"}
+}

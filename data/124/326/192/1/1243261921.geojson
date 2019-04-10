@@ -1,0 +1,86 @@
+{
+  "id": 1243261921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.83965,47.83693,37.83965,47.83693",
+    "geom:latitude":47.83693,
+    "geom:longitude":37.83965,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Novoselivka",
+    "gn:country_code":"UA",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":699197,
+    "gn:latitude":47.83693,
+    "gn:longitude":37.83965,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Novoselivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Novos\u00eblovka"
+    ],
+    "name:ukr_x_preferred":[
+        "Novoselivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699197
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"501a96f7d7eafb878772916fbf485ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1243261921,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1243261921,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1243261921,
+    "wof:lastmodified":1537710704,
+    "wof:name":"Novoselivka",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.83965,
+    47.83693,
+    37.83965,
+    47.83693
+],
+  "geometry": {"coordinates":[37.83965,47.83693],"type":"Point"}
+}

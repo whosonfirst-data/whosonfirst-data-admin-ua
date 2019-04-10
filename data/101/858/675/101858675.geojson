@@ -1,0 +1,113 @@
+{
+  "id": 101858675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.784832,45.573836,33.784832,45.573836",
+    "geom:latitude":45.573836,
+    "geom:longitude":33.784832,
+    "iso:country":"UA",
+    "lbl:latitude":45.573836,
+    "lbl:longitude":33.784832,
+    "mps:latitude":45.573836,
+    "mps:longitude":33.784832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:crh_x_historical":[
+        "Sary Ba\u0161"
+    ],
+    "name:crh_x_preferred":[
+        "Sary Ba\u0161"
+    ],
+    "name:eng_x_preferred":[
+        "Sary-Bash"
+    ],
+    "name:rus_x_historical":[
+        "\u0422\u0430\u0301\u043d\u0438\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0301\u043d\u0438\u043d\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0440\u044b-\u0411\u0430\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0440\u0438-\u0411\u0430\u0448"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041a\u0440\u0438\u043c",
+    "qs:a1_alt":"Krym",
+    "qs:a1r":"0",
+    "qs:a2":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Pervomais'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0430\u0440\u0438-\u0411\u0430\u0448",
+    "qs:loc_alt":"Sary-Bash",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738643,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691920,
+        "gp:id":932531,
+        "qs:id":1
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6b76f8e48bfed5e5ea633d957f317843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":101858675,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738643,
+            "disputed_id":1159339547,
+            "locality_id":101858675,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":101858675,
+    "wof:lastmodified":1544744524,
+    "wof:name":"\u0421\u0430\u0440\u0438-\u0411\u0430\u0448",
+    "wof:parent_id":1108738643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.784832,
+    45.573836,
+    33.784832,
+    45.573836
+],
+  "geometry": {"coordinates":[33.784832,45.573836],"type":"Point"}
+}

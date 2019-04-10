@@ -1,0 +1,76 @@
+{
+  "id": 1343744769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29955,49.53018,23.29955,49.53018",
+    "geom:latitude":49.53018,
+    "geom:longitude":23.29955,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kruzhyky",
+    "gn:country_code":"UA",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235125,
+    "gn:latitude":49.53018,
+    "gn:longitude":23.29955,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kruzhyky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kruzhyky"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0443\u0436\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kruzhiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        1108815683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235125
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"29d1685f7a3d597928c197828dcfc255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815683,
+            "locality_id":1343744769,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1343744769,
+    "wof:lastmodified":1537712031,
+    "wof:name":"Kruzhyky",
+    "wof:parent_id":1108815683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29955,
+    49.53018,
+    23.29955,
+    49.53018
+],
+  "geometry": {"coordinates":[23.29955,49.53018],"type":"Point"}
+}

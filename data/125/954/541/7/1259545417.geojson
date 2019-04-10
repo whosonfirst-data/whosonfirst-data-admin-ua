@@ -1,0 +1,76 @@
+{
+  "id": 1259545417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41228,50.57981,26.41228,50.57981",
+    "geom:latitude":50.57981,
+    "geom:longitude":26.41228,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hlynky",
+    "gn:country_code":"UA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708772,
+    "gn:latitude":50.57981,
+    "gn:longitude":26.41228,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Hlynky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hlynky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043b\u0438\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Glinki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        1108815695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708772
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0599fd4b8d747b4ad30cb50f16e3b54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815695,
+            "locality_id":1259545417,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1259545417,
+    "wof:lastmodified":1537711175,
+    "wof:name":"Hlynky",
+    "wof:parent_id":1108815695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41228,
+    50.57981,
+    26.41228,
+    50.57981
+],
+  "geometry": {"coordinates":[26.41228,50.57981],"type":"Point"}
+}

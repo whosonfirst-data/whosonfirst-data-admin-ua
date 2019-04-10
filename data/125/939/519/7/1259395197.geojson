@@ -1,0 +1,76 @@
+{
+  "id": 1259395197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58859,51.53843,32.58859,51.53843",
+    "geom:latitude":51.53843,
+    "geom:longitude":32.58859,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yaklychi",
+    "gn:country_code":"UA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":688568,
+    "gn:latitude":51.53843,
+    "gn:longitude":32.58859,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Yaklychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Yaklychi"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u043a\u043b\u0438\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Yaklichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688825,
+        102089005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688568
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"76fc3c32b001cd0a56d70b65ce9dc31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102089005,
+            "locality_id":1259395197,
+            "region_id":85688825
+        }
+    ],
+    "wof:id":1259395197,
+    "wof:lastmodified":1537710171,
+    "wof:name":"Yaklychi",
+    "wof:parent_id":102089005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58859,
+    51.53843,
+    32.58859,
+    51.53843
+],
+  "geometry": {"coordinates":[32.58859,51.53843],"type":"Point"}
+}

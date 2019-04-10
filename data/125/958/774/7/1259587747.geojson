@@ -1,0 +1,85 @@
+{
+  "id": 1259587747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03153,47.53982,38.03153,47.53982",
+    "geom:latitude":47.53982,
+    "geom:longitude":38.03153,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sontseve",
+    "gn:country_code":"UA",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693216,
+    "gn:latitude":47.53982,
+    "gn:longitude":38.03153,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Sontseve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043d\u0446\u0435\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Staroye Solntsevo",
+        "Solntsevo",
+        "Sontseve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693216
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"9f3e2921593413666863f5576933f9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1259587747,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1259587747,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259587747,
+    "wof:lastmodified":1537710404,
+    "wof:name":"Sontseve",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03153,
+    47.53982,
+    38.03153,
+    47.53982
+],
+  "geometry": {"coordinates":[38.03153,47.53982],"type":"Point"}
+}

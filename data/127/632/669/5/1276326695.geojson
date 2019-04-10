@@ -1,0 +1,83 @@
+{
+  "id": 1276326695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70976,48.55827,37.70976,48.55827",
+    "geom:latitude":48.55827,
+    "geom:longitude":37.70976,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Molocharka",
+    "gn:country_code":"UA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113826,
+    "gn:latitude":48.55827,
+    "gn:longitude":37.70976,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Molocharka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Molocharka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u043e\u043b\u043e\u0447\u0430\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113826
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6b8a09320dd52ecf91b29ee808bcc4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815753,
+            "disputed_id":1159339531,
+            "locality_id":1276326695,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815753,
+            "disputed_id":1159339531,
+            "locality_id":1276326695,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1276326695,
+    "wof:lastmodified":1537711852,
+    "wof:name":"Molocharka",
+    "wof:parent_id":1108815753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70976,
+    48.55827,
+    37.70976,
+    48.55827
+],
+  "geometry": {"coordinates":[37.70976,48.55827],"type":"Point"}
+}

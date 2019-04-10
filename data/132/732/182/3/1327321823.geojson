@@ -1,0 +1,97 @@
+{
+  "id": 1327321823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32248,44.57606,34.32248,44.57606",
+    "geom:latitude":44.57606,
+    "geom:longitude":34.32248,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8449688",
+    "gn:asciiname":"Lavrovoye",
+    "gn:country_code":"UA",
+    "gn:dem":272,
+    "gn:elevation":"265.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8996525,
+    "gn:latitude":44.57606,
+    "gn:longitude":34.32248,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Lavrovoye",
+    "gn:population":270,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lavrovoye"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0443\u0440\u043a\u0443\u043b\u0435\u0301\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0432\u0440\u043e\u0432\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0440\u043a\u0443\u043b\u0435\u0301\u0442"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738679,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8996525
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"465ef5ea20c24a7f0cfca91d33ac5694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1327321823,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738679,
+            "disputed_id":1159339547,
+            "locality_id":1327321823,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1327321823,
+    "wof:lastmodified":1537711832,
+    "wof:name":"Lavrovoye",
+    "wof:parent_id":1108738679,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32248,
+    44.57606,
+    34.32248,
+    44.57606
+],
+  "geometry": {"coordinates":[34.32248,44.57606],"type":"Point"}
+}

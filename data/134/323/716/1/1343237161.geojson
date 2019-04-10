@@ -1,0 +1,76 @@
+{
+  "id": 1343237161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87104,50.3545,25.87104,50.3545",
+    "geom:latitude":50.3545,
+    "geom:longitude":25.87104,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ivanynychi",
+    "gn:country_code":"UA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439927,
+    "gn:latitude":50.3545,
+    "gn:longitude":25.87104,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Ivanynychi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ivanynychi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u0432\u0430\u043d\u0438\u043d\u0438\u0447\u0456"
+    ],
+    "name:und_x_variant":[
+        "Ivaninichi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688809,
+        102088585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439927
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"8314fc0ce097b8fec44083aeae40e6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088585,
+            "locality_id":1343237161,
+            "region_id":85688809
+        }
+    ],
+    "wof:id":1343237161,
+    "wof:lastmodified":1537711694,
+    "wof:name":"Ivanynychi",
+    "wof:parent_id":102088585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87104,
+    50.3545,
+    25.87104,
+    50.3545
+],
+  "geometry": {"coordinates":[25.87104,50.3545],"type":"Point"}
+}

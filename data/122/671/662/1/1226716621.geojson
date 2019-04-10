@@ -1,0 +1,76 @@
+{
+  "id": 1226716621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.25046,50.67221,28.25046,50.67221",
+    "geom:latitude":50.67221,
+    "geom:longitude":28.25046,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Synyavka",
+    "gn:country_code":"UA",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8465532,
+    "gn:latitude":50.67221,
+    "gn:longitude":28.25046,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Synyavka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Synyavka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0438\u043d\u044f\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sinyavka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8465532
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"acbad9ef86b113ca0493513152a5dc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088775,
+            "locality_id":1226716621,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1226716621,
+    "wof:lastmodified":1537711710,
+    "wof:name":"Synyavka",
+    "wof:parent_id":102088775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25046,
+    50.67221,
+    28.25046,
+    50.67221
+],
+  "geometry": {"coordinates":[28.25046,50.67221],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225927455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38707,48.03349,39.38707,48.03349",
+    "geom:latitude":48.03349,
+    "geom:longitude":39.38707,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dubova Balka",
+    "gn:country_code":"UA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9265819,
+    "gn:latitude":48.03349,
+    "gn:longitude":39.38707,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Dubova Balka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Dubova Balka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0443\u0431\u043e\u0432\u0430 \u0411\u0430\u043b\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688805,
+        1108815967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9265819
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"60cbe508a47a3770f5602596f57dd4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815967,
+            "locality_id":1225927455,
+            "region_id":85688805
+        }
+    ],
+    "wof:id":1225927455,
+    "wof:lastmodified":1537711870,
+    "wof:name":"Dubova Balka",
+    "wof:parent_id":1108815967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38707,
+    48.03349,
+    39.38707,
+    48.03349
+],
+  "geometry": {"coordinates":[39.38707,48.03349],"type":"Point"}
+}

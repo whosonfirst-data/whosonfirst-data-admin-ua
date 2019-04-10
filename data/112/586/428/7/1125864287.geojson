@@ -1,0 +1,112 @@
+{
+  "id": 1125864287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48777,45.77083,33.48777,45.77083",
+    "geom:latitude":45.77083,
+    "geom:longitude":33.48777,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8163,
+    "gn:population":7326,
+    "iso:country":"UA",
+    "lbl:latitude":45.77083,
+    "lbl:longitude":33.48777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:crh_x_historical":[
+        "Aq \u0160eji\u03c7"
+    ],
+    "name:crh_x_preferred":[
+        "Aq \u0160eji\u03c7"
+    ],
+    "name:eng_x_preferred":[
+        "Razdol\u2019noye"
+    ],
+    "name:rus_x_historical":[
+        "\u0410\u043a-\u0428\u0435\u0301\u0439\u0445"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0428\u0435\u0301\u0439\u0445"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u0434\u043e\u043b\u044c\u043d\u0435"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":695740,
+    "qs_pg:gn_pop":8163,
+    "qs_pg:name":"Rozdol\u2019ne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":128327,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738645,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695740,
+        "qs_pg:id":128327
+    },
+    "wof:country":"UA",
+    "wof:created":1497293964,
+    "wof:geomhash":"7cbc40c6e6b4286848201e08e5dc1e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1125864287,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738645,
+            "disputed_id":1159339547,
+            "locality_id":1125864287,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1125864287,
+    "wof:lastmodified":1530299610,
+    "wof:name":"Rozdol\u2019ne",
+    "wof:parent_id":1108738645,
+    "wof:placetype":"locality",
+    "wof:population":7326,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48777,
+    45.77083,
+    33.48777,
+    45.77083
+],
+  "geometry": {"coordinates":[33.48777,45.77083],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101870125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.026387,50.214276,34.026387,50.214276",
+    "geom:latitude":50.214276,
+    "geom:longitude":34.026387,
+    "iso:country":"UA",
+    "lbl:latitude":50.214276,
+    "lbl:longitude":34.026387,
+    "mps:latitude":50.214276,
+    "mps:longitude":34.026387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lyuten'ka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u0435\u043d\u044c\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0442\u0435\u043d\u044c\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lyuten\u2019ka"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Poltavs'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u0430\u0434\u044f\u0446\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Hadiats'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u044e\u0442\u0435\u043d\u044c\u043a\u0430",
+    "qs:loc_alt":"Liuten'ka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688859,
+        102088897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":702381,
+        "gp:id":925917,
+        "qs:id":5
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"692364ac8402ff1c82dde23b2af2a576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088897,
+            "locality_id":101870125,
+            "region_id":85688859
+        }
+    ],
+    "wof:id":101870125,
+    "wof:lastmodified":1544750592,
+    "wof:name":"\u041b\u044e\u0442\u0435\u043d\u044c\u043a\u0430",
+    "wof:parent_id":102088897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.026387,
+    50.214276,
+    34.026387,
+    50.214276
+],
+  "geometry": {"coordinates":[34.026387,50.214276],"type":"Point"}
+}

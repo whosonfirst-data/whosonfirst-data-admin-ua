@@ -1,0 +1,111 @@
+{
+  "id": 101859245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.422273,48.264952,23.422273,48.264952",
+    "geom:latitude":48.264952,
+    "geom:longitude":23.422273,
+    "gn:population":2959,
+    "iso:country":"UA",
+    "lbl:latitude":48.264952,
+    "lbl:longitude":23.422273,
+    "mps:latitude":48.264952,
+    "mps:longitude":23.422273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0533\u0578\u0580\u056b\u0576\u0579\u0578\u057e\u0578"
+    ],
+    "name:dut_x_preferred":[
+        "Herincse"
+    ],
+    "name:eng_x_preferred":[
+        "Gorinchovo"
+    ],
+    "name:epo_x_preferred":[
+        "Horin\u0109ovo"
+    ],
+    "name:hun_x_preferred":[
+        "Herincse"
+    ],
+    "name:rum_x_preferred":[
+        "Horinciovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u043d\u0447\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u043d\u0447\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Gorinchovo"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0425\u0443\u0441\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Khusts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u0456\u043d\u0447\u043e\u0432\u043e",
+    "qs:loc_alt":"Horinchovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708434,
+        "gp:id":936939,
+        "qs:id":275552,
+        "wd:id":"Q278842"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"384b83d725435446265f275c2e8d8562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088013,
+            "locality_id":101859245,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859245,
+    "wof:lastmodified":1553815552,
+    "wof:name":"\u0413\u043e\u0440\u0456\u043d\u0447\u043e\u0432\u043e",
+    "wof:parent_id":102088013,
+    "wof:placetype":"locality",
+    "wof:population":2959,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.422273,
+    48.264952,
+    23.422273,
+    48.264952
+],
+  "geometry": {"coordinates":[23.422273,48.264952],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1293760931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.69273,44.74653,33.69273,44.74653",
+    "geom:latitude":44.74653,
+    "geom:longitude":33.69273,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"712968",
+    "gn:admin3_code":"11152823.0",
+    "gn:asciiname":"Nekrasovka",
+    "gn:country_code":"UA",
+    "gn:dem":42,
+    "gn:elevation":"50.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":700351,
+    "gn:latitude":44.74653,
+    "gn:longitude":33.69273,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Nekrasovka",
+    "gn:population":331,
+    "gn:timezone":"Europe/Simferopol",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nekrasovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Golumbey"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85688855,
+        1159339547,
+        102191581,
+        85632685,
+        874393555,
+        1108738493,
+        85633805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":700351
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c4b8162d2ad7d257d92992a3262a4ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "empire_id":874393555,
+            "locality_id":1293760931,
+            "region_id":85688855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108738493,
+            "disputed_id":1159339547,
+            "locality_id":1293760931,
+            "region_id":85688855
+        }
+    ],
+    "wof:id":1293760931,
+    "wof:lastmodified":1537710768,
+    "wof:name":"Nekrasovka",
+    "wof:parent_id":1108738493,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.69273,
+    44.74653,
+    33.69273,
+    44.74653
+],
+  "geometry": {"coordinates":[33.69273,44.74653],"type":"Point"}
+}

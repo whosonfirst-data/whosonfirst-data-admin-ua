@@ -1,0 +1,76 @@
+{
+  "id": 1243214823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11879,49.96155,28.11879,49.96155",
+    "geom:latitude":49.96155,
+    "geom:longitude":28.11879,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Karpivtsi",
+    "gn:country_code":"UA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":706692,
+    "gn:latitude":49.96155,
+    "gn:longitude":28.11879,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Karpivtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Karpivtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0440\u043f\u0456\u0432\u0446\u0456"
+    ],
+    "name:und_x_variant":[
+        "Karpovtsy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        102088561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":706692
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"16d817c6f25af75cb3c03de4ec53b21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088561,
+            "locality_id":1243214823,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1243214823,
+    "wof:lastmodified":1537711078,
+    "wof:name":"Karpivtsi",
+    "wof:parent_id":102088561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11879,
+    49.96155,
+    28.11879,
+    49.96155
+],
+  "geometry": {"coordinates":[28.11879,49.96155],"type":"Point"}
+}

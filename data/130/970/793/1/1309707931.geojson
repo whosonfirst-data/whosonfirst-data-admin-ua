@@ -1,0 +1,76 @@
+{
+  "id": 1309707931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05,47.18333,33.05,47.18333",
+    "geom:latitude":47.18333,
+    "geom:longitude":33.05,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Andriyivka",
+    "gn:country_code":"UA",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":705108,
+    "gn:latitude":47.18333,
+    "gn:longitude":33.05,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Andriyivka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Andriyivka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u0434\u0440\u0456\u0457\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Konstantinovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705108
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"c11d83b34bfd954d43505e43f9346457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088131,
+            "locality_id":1309707931,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1309707931,
+    "wof:lastmodified":1537710996,
+    "wof:name":"Andriyivka",
+    "wof:parent_id":102088131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05,
+    47.18333,
+    33.05,
+    47.18333
+],
+  "geometry": {"coordinates":[33.05,47.18333],"type":"Point"}
+}

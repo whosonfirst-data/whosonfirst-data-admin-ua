@@ -1,0 +1,77 @@
+{
+  "id": 1276815803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.75,47.0,34.75,47.0",
+    "geom:latitude":47.0,
+    "geom:longitude":34.75,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Krasavych",
+    "gn:country_code":"UA",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":704496,
+    "gn:latitude":47.0,
+    "gn:longitude":34.75,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Krasavych",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zaporozhye",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Krasavych"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0430\u0441\u0430\u0432\u0438\u0447"
+    ],
+    "name:und_x_variant":[
+        "Krasovich",
+        "Krasavich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688851,
+        102088153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":704496
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"27eb113f3ca841cc9b6d0e741ac78c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088153,
+            "locality_id":1276815803,
+            "region_id":85688851
+        }
+    ],
+    "wof:id":1276815803,
+    "wof:lastmodified":1537710969,
+    "wof:name":"Krasavych",
+    "wof:parent_id":102088153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.75,
+    47.0,
+    34.75,
+    47.0
+],
+  "geometry": {"coordinates":[34.75,47.0],"type":"Point"}
+}

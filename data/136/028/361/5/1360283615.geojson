@@ -1,0 +1,83 @@
+{
+  "id": 1360283615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.98379,47.84397,37.98379,47.84397",
+    "geom:latitude":47.84397,
+    "geom:longitude":37.98379,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalinina",
+    "gn:country_code":"UA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9291464,
+    "gn:latitude":47.84397,
+    "gn:longitude":37.98379,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Kalinina"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043b\u0456\u043d\u0456\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        102088523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9291464
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5b1a365654e373d15d7de7d4d6d255a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1360283615,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":102088523,
+            "disputed_id":1159339531,
+            "locality_id":1360283615,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1360283615,
+    "wof:lastmodified":1537711875,
+    "wof:name":"Kalinina",
+    "wof:parent_id":102088523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.98379,
+    47.84397,
+    37.98379,
+    47.84397
+],
+  "geometry": {"coordinates":[37.98379,47.84397],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1259387185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.54403,48.0345,38.54403,48.0345",
+    "geom:latitude":48.0345,
+    "geom:longitude":38.54403,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hirne",
+    "gn:country_code":"UA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9114438,
+    "gn:latitude":48.0345,
+    "gn:longitude":38.54403,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Hirne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Hirne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0456\u0440\u043d\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688779,
+        1159339531,
+        102191581,
+        85633805,
+        1108815955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9114438
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2c6b04965d91eb2e6b4bb082b5f619e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815955,
+            "disputed_id":1159339531,
+            "locality_id":1259387185,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1108815955,
+            "disputed_id":1159339531,
+            "locality_id":1259387185,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":1259387185,
+    "wof:lastmodified":1537711858,
+    "wof:name":"Hirne",
+    "wof:parent_id":1108815955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.54403,
+    48.0345,
+    38.54403,
+    48.0345
+],
+  "geometry": {"coordinates":[38.54403,48.0345],"type":"Point"}
+}

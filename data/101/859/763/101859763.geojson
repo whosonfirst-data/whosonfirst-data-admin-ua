@@ -1,0 +1,120 @@
+{
+  "id": 101859763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.698029,48.426005,23.698029,48.426005",
+    "geom:latitude":48.426005,
+    "geom:longitude":23.698029,
+    "gn:population":4839,
+    "iso:country":"UA",
+    "lbl:latitude":48.426005,
+    "lbl:longitude":23.698029,
+    "mps:latitude":48.426005,
+    "mps:longitude":23.698029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u056c\u0578\u0579\u0561\u057e\u0561"
+    ],
+    "name:cze_x_preferred":[
+        "Kolo\u010dava"
+    ],
+    "name:dut_x_preferred":[
+        "Kolo\u0109ava"
+    ],
+    "name:eng_x_preferred":[
+        "Kolo\u0109ava"
+    ],
+    "name:epo_x_preferred":[
+        "Kolo\u0109ava"
+    ],
+    "name:ger_x_preferred":[
+        "Kolotschawa"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3kalocsa"
+    ],
+    "name:rum_x_preferred":[
+        "Koloceava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0447\u0430\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kolo\u0109ava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0447\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nizhni Kolochava"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Zakarpats'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041c\u0456\u0436\u0433\u0456\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Mizhhirs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u043b\u043e\u0447\u0430\u0432\u0430",
+    "qs:loc_alt":"Kolochava",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":705433,
+        "gp:id":936939,
+        "qs:id":128644,
+        "wd:id":"Q664774"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"6bffc927c283298490ccfa5997d1b0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088069,
+            "locality_id":101859763,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":101859763,
+    "wof:lastmodified":1553815553,
+    "wof:name":"\u041a\u043e\u043b\u043e\u0447\u0430\u0432\u0430",
+    "wof:parent_id":102088069,
+    "wof:placetype":"locality",
+    "wof:population":4839,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.698029,
+    48.426005,
+    23.698029,
+    48.426005
+],
+  "geometry": {"coordinates":[23.698029,48.426005],"type":"Point"}
+}

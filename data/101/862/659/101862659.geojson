@@ -1,0 +1,117 @@
+{
+  "id": 101862659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.636313,49.594054,27.636313,49.594054",
+    "geom:latitude":49.594054,
+    "geom:longitude":27.636313,
+    "gn:population":5771,
+    "iso:country":"UA",
+    "lbl:latitude":49.594054,
+    "lbl:longitude":27.636313,
+    "mps:latitude":49.594054,
+    "mps:longitude":27.636313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u057f\u0561\u0580\u0561\u0575\u0561 \u054d\u056b\u0576\u0575\u0561\u057e\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u820a\u897f\u5c3c\u4e9e\u74e6"
+    ],
+    "name:eng_x_preferred":[
+        "Stara Syniava"
+    ],
+    "name:ger_x_preferred":[
+        "Stara Synjawa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e8\u05d4 \u05e1\u05d9\u05e0\u05d9\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:lit_x_preferred":[
+        "Senoji Syniava"
+    ],
+    "name:pol_x_preferred":[
+        "Stara Sieniawa"
+    ],
+    "name:rum_x_preferred":[
+        "Stara S\u00eeneava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0421\u0438\u043d\u044f\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0421\u0438\u043d\u044f\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Staraya Sinyava"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Khmel'nyts'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0442\u0430\u0440\u043e\u0441\u0438\u043d\u044f\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Starosyniavs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u0440\u0430 \u0421\u0438\u043d\u044f\u0432\u043a\u0430",
+    "qs:loc_alt":"Stara Syniavka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688831,
+        102088457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692866,
+        "gp:id":934871,
+        "qs:id":128255,
+        "wd:id":"Q2391293"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"be2d711755c0142adf15fee8f2346f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088457,
+            "locality_id":101862659,
+            "region_id":85688831
+        }
+    ],
+    "wof:id":101862659,
+    "wof:lastmodified":1544746597,
+    "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0421\u0438\u043d\u044f\u0432\u043a\u0430",
+    "wof:parent_id":102088457,
+    "wof:placetype":"locality",
+    "wof:population":5771,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.636313,
+    49.594054,
+    27.636313,
+    49.594054
+],
+  "geometry": {"coordinates":[27.636313,49.594054],"type":"Point"}
+}

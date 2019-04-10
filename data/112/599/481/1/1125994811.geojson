@@ -1,0 +1,84 @@
+{
+  "id": 1125994811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71423,48.80067,22.71423,48.80067",
+    "geom:latitude":48.80067,
+    "geom:longitude":22.71423,
+    "gn:gn_country":"UA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":84,
+    "gn:population":84,
+    "iso:country":"UA",
+    "lbl:latitude":48.80067,
+    "lbl:longitude":22.71423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043c\u0448\u043e\u0440\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043c\u0448\u043e\u0440\u0438"
+    ],
+    "qs_pg:aaroncc":"UA",
+    "qs_pg:gn_country":"UA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8224631,
+    "qs_pg:gn_pop":84,
+    "qs_pg:name":"Lumshory",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":760106,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688839,
+        102088067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224631,
+        "qs_pg:id":760106
+    },
+    "wof:country":"UA",
+    "wof:created":1497299254,
+    "wof:geomhash":"5fdbf68c52e6cb37ae905e283e97a143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088067,
+            "locality_id":1125994811,
+            "region_id":85688839
+        }
+    ],
+    "wof:id":1125994811,
+    "wof:lastmodified":1509405659,
+    "wof:name":"Lumshory",
+    "wof:parent_id":102088067,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71423,
+    48.80067,
+    22.71423,
+    48.80067
+],
+  "geometry": {"coordinates":[22.71423,48.80067],"type":"Point"}
+}

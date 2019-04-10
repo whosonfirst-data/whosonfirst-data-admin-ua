@@ -1,0 +1,73 @@
+{
+  "id": 1243532805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81065,48.85256,32.81065,48.85256",
+    "geom:latitude":48.85256,
+    "geom:longitude":32.81065,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Novopokrovka",
+    "gn:country_code":"UA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11183625,
+    "gn:latitude":48.85256,
+    "gn:longitude":32.81065,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Novopokrovka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        102088479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11183625
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"5f8d55b2c200bfc3f07c5174311da0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088479,
+            "locality_id":1243532805,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1243532805,
+    "wof:lastmodified":1537712016,
+    "wof:name":"Novopokrovka",
+    "wof:parent_id":102088479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81065,
+    48.85256,
+    32.81065,
+    48.85256
+],
+  "geometry": {"coordinates":[32.81065,48.85256],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 101859609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.038283,48.255137,26.038283,48.255137",
+    "geom:latitude":48.255137,
+    "geom:longitude":26.038283,
+    "iso:country":"UA",
+    "lbl:latitude":48.255137,
+    "lbl:longitude":26.038283,
+    "mps:latitude":48.255137,
+    "mps:longitude":26.038283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
+    "qs:a1_alt":"Chernivets'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u0435\u0440\u0446\u0430\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Hertsaivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u0441\u0442\u0440\u0438\u0446\u044f",
+    "qs:loc_alt":"Ostrytsia",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688869,
+        102088041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":918247,
+        "qs:id":6,
+        "wd:id":"Q180732"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"4896854c68e9cd25abd185e30f83a1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088041,
+            "locality_id":101859609,
+            "region_id":85688869
+        }
+    ],
+    "wof:id":101859609,
+    "wof:lastmodified":1544745002,
+    "wof:name":"\u041e\u0441\u0442\u0440\u0438\u0446\u044f",
+    "wof:parent_id":102088041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[
+        1175613693
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.038283,
+    48.255137,
+    26.038283,
+    48.255137
+],
+  "geometry": {"coordinates":[26.038283,48.255137],"type":"Point"}
+}

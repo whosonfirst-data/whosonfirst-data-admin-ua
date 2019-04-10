@@ -1,0 +1,76 @@
+{
+  "id": 1209999227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97437,49.51579,22.97437,49.51579",
+    "geom:latitude":49.51579,
+    "geom:longitude":22.97437,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zasadky",
+    "gn:country_code":"UA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687589,
+    "gn:latitude":49.51579,
+    "gn:longitude":22.97437,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Zasadky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Zasadky"
+    ],
+    "name:ukr_x_variant":[
+        "\u0417\u0430\u0441\u0430\u0434\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zasadki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688887,
+        102088273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687589
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"2ad9488e891a4213662f42c9c13a0aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088273,
+            "locality_id":1209999227,
+            "region_id":85688887
+        }
+    ],
+    "wof:id":1209999227,
+    "wof:lastmodified":1537710120,
+    "wof:name":"Zasadky",
+    "wof:parent_id":102088273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97437,
+    49.51579,
+    22.97437,
+    49.51579
+],
+  "geometry": {"coordinates":[22.97437,49.51579],"type":"Point"}
+}

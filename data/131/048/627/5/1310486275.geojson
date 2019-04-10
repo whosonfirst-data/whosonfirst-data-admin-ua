@@ -1,0 +1,77 @@
+{
+  "id": 1310486275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96793,47.04285,33.96793,47.04285",
+    "geom:latitude":47.04285,
+    "geom:longitude":33.96793,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Serednye",
+    "gn:country_code":"UA",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":693003,
+    "gn:latitude":47.04285,
+    "gn:longitude":33.96793,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Serednye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Serednye"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u0440\u0435\u0434\u043d\u0454"
+    ],
+    "name:und_x_variant":[
+        "Sredniy",
+        "Sredneye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":693003
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"ef8c325d947aa39f02d56f1d5cf2fb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088145,
+            "locality_id":1310486275,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":1310486275,
+    "wof:lastmodified":1537710394,
+    "wof:name":"Serednye",
+    "wof:parent_id":102088145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96793,
+    47.04285,
+    33.96793,
+    47.04285
+],
+  "geometry": {"coordinates":[33.96793,47.04285],"type":"Point"}
+}

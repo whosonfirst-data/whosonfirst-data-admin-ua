@@ -1,0 +1,98 @@
+{
+  "id": 101867989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91055,49.502665,31.91055,49.502665",
+    "geom:latitude":49.502665,
+    "geom:longitude":31.91055,
+    "iso:country":"UA",
+    "lbl:latitude":49.502665,
+    "lbl:longitude":31.91055,
+    "mps:latitude":49.502665,
+    "mps:longitude":31.91055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Svidovok"
+    ],
+    "name:ger_x_preferred":[
+        "Swydiwok"
+    ],
+    "name:rum_x_preferred":[
+        "Sv\u00eedivok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0434\u043e\u0432\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0438\u0434\u0456\u0432\u043e\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Svidovok"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Cherkas'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Cherkas'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0432\u0438\u0434\u0456\u0432\u043e\u043a",
+    "qs:loc_alt":"Svydivok",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688863,
+        1108815743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692068,
+        "gp:id":932787,
+        "wd:id":"Q4410695"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"93c7fe61760ae87804ee0602cf348d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815743,
+            "locality_id":101867989,
+            "region_id":85688863
+        }
+    ],
+    "wof:id":101867989,
+    "wof:lastmodified":1544749483,
+    "wof:name":"\u0421\u0432\u0438\u0434\u0456\u0432\u043e\u043a",
+    "wof:parent_id":1108815743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91055,
+    49.502665,
+    31.91055,
+    49.502665
+],
+  "geometry": {"coordinates":[31.91055,49.502665],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343649917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55461,48.95567,32.55461,48.95567",
+    "geom:latitude":48.95567,
+    "geom:longitude":32.55461,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ruzhycheve",
+    "gn:country_code":"UA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":695085,
+    "gn:latitude":48.95567,
+    "gn:longitude":32.55461,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ruzhycheve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Ruzhycheve"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0443\u0436\u0438\u0447\u0435\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ruzhichevka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688881,
+        1108815663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":695085
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"725b845c4d567523ca51f26ecf375c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815663,
+            "locality_id":1343649917,
+            "region_id":85688881
+        }
+    ],
+    "wof:id":1343649917,
+    "wof:lastmodified":1537710490,
+    "wof:name":"Ruzhycheve",
+    "wof:parent_id":1108815663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55461,
+    48.95567,
+    32.55461,
+    48.95567
+],
+  "geometry": {"coordinates":[32.55461,48.95567],"type":"Point"}
+}

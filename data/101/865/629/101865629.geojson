@@ -1,0 +1,106 @@
+{
+  "id": 101865629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.758683,46.355397,34.758683,46.355397",
+    "geom:latitude":46.355397,
+    "geom:longitude":34.758683,
+    "iso:country":"UA",
+    "lbl:latitude":46.355397,
+    "lbl:longitude":34.758683,
+    "mps:latitude":46.355397,
+    "mps:longitude":34.758683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rivne"
+    ],
+    "name:ger_x_preferred":[
+        "Riwne"
+    ],
+    "name:lav_x_preferred":[
+        "Rivne"
+    ],
+    "name:rum_x_preferred":[
+        "Rivne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "Rivne"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0456\u0432\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Rovnoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Khersons'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0413\u0435\u043d\u0456\u0447\u0435\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Heniches'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0456\u0432\u043d\u0435",
+    "qs:loc_alt":"Rivne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1511,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688843,
+        102088043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046809,
+        "gp:id":930137,
+        "qs:id":7,
+        "wd:id":"Q4395303",
+        "wk:page":"Miiaste"
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"0fbcff5d1032e41e886af639af739034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088043,
+            "locality_id":101865629,
+            "region_id":85688843
+        }
+    ],
+    "wof:id":101865629,
+    "wof:lastmodified":1553815557,
+    "wof:name":"\u0420\u0456\u0432\u043d\u0435",
+    "wof:parent_id":102088043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.758683,
+    46.355397,
+    34.758683,
+    46.355397
+],
+  "geometry": {"coordinates":[34.758683,46.355397],"type":"Point"}
+}

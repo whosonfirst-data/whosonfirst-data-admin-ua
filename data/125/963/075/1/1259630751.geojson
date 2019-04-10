@@ -1,0 +1,76 @@
+{
+  "id": 1259630751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71148,50.14815,28.71148,50.14815",
+    "geom:latitude":50.14815,
+    "geom:longitude":28.71148,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Horodyshche",
+    "gn:country_code":"UA",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708354,
+    "gn:latitude":50.14815,
+    "gn:longitude":28.71148,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Horodyshche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"UA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "Horodyshche"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gorodishche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        85688791,
+        1108815629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708354
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"1a0f39b60d7b2ba6a80222c932d5b7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108815629,
+            "locality_id":1259630751,
+            "region_id":85688791
+        }
+    ],
+    "wof:id":1259630751,
+    "wof:lastmodified":1537711155,
+    "wof:name":"Horodyshche",
+    "wof:parent_id":1108815629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71148,
+    50.14815,
+    28.71148,
+    50.14815
+],
+  "geometry": {"coordinates":[28.71148,50.14815],"type":"Point"}
+}
