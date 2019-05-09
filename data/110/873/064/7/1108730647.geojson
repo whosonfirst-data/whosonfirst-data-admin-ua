@@ -10,6 +10,12 @@
     "geom:latitude":49.843145,
     "geom:longitude":24.012871,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Lvivska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":49.843676,
     "lbl:longitude":24.018267,
     "meso:admin1_en":"Lvivska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730647,
-    "wof:lastmodified":1536615630,
+    "wof:lastmodified":1555092051,
     "wof:name":"Lvivska",
     "wof:parent_id":85688887,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":758526,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ua",

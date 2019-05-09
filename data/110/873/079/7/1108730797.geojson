@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010806,
-    "geom:area_square_m":87803418.177014,
+    "geom:area_square_m":87803418.176979,
     "geom:bbox":"38.2821634266,48.8251709446,38.5076834618,49.0257887209",
     "geom:latitude":48.920812,
     "geom:longitude":38.403514,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Lysychanska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.903768,
     "lbl:longitude":38.429073,
     "meso:admin1_en":"Luhanska",
@@ -242,11 +248,13 @@
         }
     ],
     "wof:id":1108730797,
-    "wof:lastmodified":1553816500,
+    "wof:lastmodified":1555092052,
     "wof:name":"Lysychanska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":133258,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

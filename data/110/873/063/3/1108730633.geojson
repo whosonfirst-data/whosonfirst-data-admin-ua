@@ -10,6 +10,12 @@
     "geom:latitude":50.369075,
     "geom:longitude":24.227268,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Chervonohradska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":50.383319,
     "lbl:longitude":24.225179,
     "meso:admin1_en":"Lvivska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730633,
-    "wof:lastmodified":1536615629,
+    "wof:lastmodified":1555092051,
     "wof:name":"Chervonohradska",
     "wof:parent_id":85688887,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":85359,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ua",

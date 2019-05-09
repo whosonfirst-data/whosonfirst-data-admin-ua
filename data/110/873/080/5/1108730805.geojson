@@ -10,6 +10,12 @@
     "geom:latitude":48.64068,
     "geom:longitude":38.655923,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Kirovska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.63767,
     "lbl:longitude":38.638761,
     "meso:admin1_en":"Luhanska",
@@ -152,11 +158,13 @@
         }
     ],
     "wof:id":1108730805,
-    "wof:lastmodified":1536615635,
+    "wof:lastmodified":1555092052,
     "wof:name":"Kirovska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":45012,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ua",

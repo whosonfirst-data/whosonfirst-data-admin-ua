@@ -10,6 +10,12 @@
     "geom:latitude":48.466547,
     "geom:longitude":35.000028,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Dnipropetrovska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.458686,
     "lbl:longitude":35.035995,
     "meso:admin1_en":"Dnipropetrovska",
@@ -60,11 +66,13 @@
         }
     ],
     "wof:id":1108815855,
-    "wof:lastmodified":1536615877,
+    "wof:lastmodified":1555092054,
     "wof:name":"Dnipropetrovska",
     "wof:parent_id":85688797,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":1080846,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ua",

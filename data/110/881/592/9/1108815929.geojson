@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024444,
-    "geom:area_square_m":206834490.574873,
+    "geom:area_square_m":206834490.574798,
     "geom:bbox":"36.6678945281,46.6306777398,36.88001118,46.9195475551",
     "geom:latitude":46.819806,
     "geom:longitude":36.769063,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Berdianska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":46.821961,
     "lbl:longitude":36.761802,
     "meso:admin1_en":"Zaporizka",
@@ -229,11 +235,13 @@
         }
     ],
     "wof:id":1108815929,
-    "wof:lastmodified":1553816515,
+    "wof:lastmodified":1555092055,
     "wof:name":"Berdianska",
     "wof:parent_id":85688851,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":124959,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

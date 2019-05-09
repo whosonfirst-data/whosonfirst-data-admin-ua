@@ -10,6 +10,12 @@
     "geom:latitude":48.487363,
     "geom:longitude":37.081461,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Dobropilska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.471579,
     "lbl:longitude":37.087353,
     "meso:admin1_en":"Donetska",
@@ -69,11 +75,13 @@
         }
     ],
     "wof:id":1108815865,
-    "wof:lastmodified":1536615877,
+    "wof:lastmodified":1555092054,
     "wof:name":"Dobropilska",
     "wof:parent_id":85688779,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":55815,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ua",

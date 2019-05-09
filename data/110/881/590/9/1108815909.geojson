@@ -10,6 +10,12 @@
     "geom:latitude":47.932318,
     "geom:longitude":33.406205,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Kryvorizka"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":47.920908,
     "lbl:longitude":33.414726,
     "meso:admin1_en":"Dnipropetrovska",
@@ -60,11 +66,13 @@
         }
     ],
     "wof:id":1108815909,
-    "wof:lastmodified":1536615879,
+    "wof:lastmodified":1555092055,
     "wof:name":"Kryvorizka",
     "wof:parent_id":85688797,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":712507,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ua",

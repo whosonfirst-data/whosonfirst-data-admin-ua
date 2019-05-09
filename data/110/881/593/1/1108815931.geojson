@@ -10,6 +10,12 @@
     "geom:latitude":47.849602,
     "geom:longitude":35.185955,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Zaporizka"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":47.844149,
     "lbl:longitude":35.198942,
     "meso:admin1_en":"Zaporizka",
@@ -60,11 +66,13 @@
         }
     ],
     "wof:id":1108815931,
-    "wof:lastmodified":1536615880,
+    "wof:lastmodified":1555092055,
     "wof:name":"Zaporizka",
     "wof:parent_id":85688851,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":817882,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ua",

@@ -10,6 +10,12 @@
     "geom:latitude":48.563501,
     "geom:longitude":38.621593,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Stakhanovska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.56819,
     "lbl:longitude":38.636576,
     "meso:admin1_en":"Luhanska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730649,
-    "wof:lastmodified":1536615630,
+    "wof:lastmodified":1555092051,
     "wof:name":"Stakhanovska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":108266,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

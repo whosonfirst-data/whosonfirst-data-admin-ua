@@ -10,6 +10,12 @@
     "geom:latitude":50.551509,
     "geom:longitude":30.2114,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Buchanska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":50.550139,
     "lbl:longitude":30.210645,
     "meso:admin1_en":"Kyivska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730819,
-    "wof:lastmodified":1536615635,
+    "wof:lastmodified":1555092052,
     "wof:name":"Buchanska",
     "wof:parent_id":85688801,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":101761,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

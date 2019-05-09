@@ -10,6 +10,12 @@
     "geom:latitude":48.310546,
     "geom:longitude":39.723849,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Krasnodonska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.301867,
     "lbl:longitude":39.744945,
     "meso:admin1_en":"Luhanska",
@@ -60,11 +66,13 @@
         }
     ],
     "wof:id":1108815971,
-    "wof:lastmodified":1536615882,
+    "wof:lastmodified":1555092056,
     "wof:name":"Krasnodonska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":118168,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

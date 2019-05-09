@@ -10,6 +10,12 @@
     "geom:latitude":48.496478,
     "geom:longitude":38.659225,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Briankivska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.500235,
     "lbl:longitude":38.662807,
     "meso:admin1_en":"Luhanska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730807,
-    "wof:lastmodified":1536615635,
+    "wof:lastmodified":1555092052,
     "wof:name":"Briankivska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":145129,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

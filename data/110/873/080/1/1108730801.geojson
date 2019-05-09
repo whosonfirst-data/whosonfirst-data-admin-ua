@@ -10,6 +10,12 @@
     "geom:latitude":48.583895,
     "geom:longitude":39.343685,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Luhanska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.548587,
     "lbl:longitude":39.346344,
     "meso:admin1_en":"Luhanska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730801,
-    "wof:lastmodified":1536615635,
+    "wof:lastmodified":1555092052,
     "wof:name":"Luhanska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":503248,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ua",

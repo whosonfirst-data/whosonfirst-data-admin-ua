@@ -10,6 +10,12 @@
     "geom:latitude":50.308284,
     "geom:longitude":34.900158,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Okhtyrska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":50.311282,
     "lbl:longitude":34.898195,
     "meso:admin1_en":"Sumska",
@@ -148,11 +154,13 @@
         }
     ],
     "wof:id":1108815809,
-    "wof:lastmodified":1536615875,
+    "wof:lastmodified":1555092053,
     "wof:name":"Okhtyrska",
     "wof:parent_id":85688787,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":50713,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ua",

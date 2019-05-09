@@ -10,6 +10,12 @@
     "geom:latitude":49.837453,
     "geom:longitude":36.687478,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Chuhuivska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":49.840715,
     "lbl:longitude":36.685063,
     "meso:admin1_en":"Kharkivska",
@@ -60,11 +66,13 @@
         }
     ],
     "wof:id":1108815793,
-    "wof:lastmodified":1536615875,
+    "wof:lastmodified":1555092053,
     "wof:name":"Chuhuivska",
     "wof:parent_id":85688873,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":37715,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ua",

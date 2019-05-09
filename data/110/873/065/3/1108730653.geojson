@@ -10,6 +10,12 @@
     "geom:latitude":46.683816,
     "geom:longitude":32.609345,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Khersonska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":46.69045,
     "lbl:longitude":32.664208,
     "meso:admin1_en":"Khersonska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730653,
-    "wof:lastmodified":1536615630,
+    "wof:lastmodified":1555092051,
     "wof:name":"Khersonska",
     "wof:parent_id":85688843,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":367188,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ua",

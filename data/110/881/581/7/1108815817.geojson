@@ -10,6 +10,12 @@
     "geom:latitude":49.422706,
     "geom:longitude":32.044364,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Cherkaska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":49.412738,
     "lbl:longitude":32.059403,
     "meso:admin1_en":"Cherkaska",
@@ -60,11 +66,13 @@
         }
     ],
     "wof:id":1108815817,
-    "wof:lastmodified":1536615876,
+    "wof:lastmodified":1555092053,
     "wof:name":"Cherkaska",
     "wof:parent_id":85688863,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":296191,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ua",

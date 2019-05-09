@@ -10,6 +10,12 @@
     "geom:latitude":48.791809,
     "geom:longitude":29.426904,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Haisynskyi"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.794611,
     "lbl:longitude":29.421684,
     "meso:admin1_en":"Vinnytska",
@@ -89,11 +95,13 @@
         }
     ],
     "wof:id":102088325,
-    "wof:lastmodified":1536614886,
+    "wof:lastmodified":1555092050,
     "wof:name":"Haisynskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":23456,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ua",

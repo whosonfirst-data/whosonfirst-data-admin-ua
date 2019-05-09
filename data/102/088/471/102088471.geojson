@@ -10,6 +10,12 @@
     "geom:latitude":48.511738,
     "geom:longitude":34.621957,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Dniprodzerzhynska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.500895,
     "lbl:longitude":34.643988,
     "meso:admin1_en":"Dnipropetrovska",
@@ -91,11 +97,13 @@
         }
     ],
     "wof:id":102088471,
-    "wof:lastmodified":1536614892,
+    "wof:lastmodified":1555092050,
     "wof:name":"Dniprodzerzhynska",
     "wof:parent_id":85688797,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":262704,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ua",

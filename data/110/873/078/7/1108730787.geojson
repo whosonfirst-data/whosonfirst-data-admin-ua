@@ -10,6 +10,12 @@
     "geom:latitude":48.872197,
     "geom:longitude":37.61467,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Slovianska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.85546,
     "lbl:longitude":37.599685,
     "meso:admin1_en":"Donetska",
@@ -81,11 +87,13 @@
         }
     ],
     "wof:id":1108730787,
-    "wof:lastmodified":1536615634,
+    "wof:lastmodified":1555092052,
     "wof:name":"Slovianska",
     "wof:parent_id":85688779,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":146585,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ua",

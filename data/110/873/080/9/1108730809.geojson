@@ -10,6 +10,12 @@
     "geom:latitude":48.11463,
     "geom:longitude":39.076786,
     "iso:country":"UA",
+    "label:eng_x_preferred_longname":[
+        "Antratsytska"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city council"
+    ],
     "lbl:latitude":48.107766,
     "lbl:longitude":39.061073,
     "meso:admin1_en":"Luhanska",
@@ -72,11 +78,13 @@
         }
     ],
     "wof:id":1108730809,
-    "wof:lastmodified":1536615635,
+    "wof:lastmodified":1555092052,
     "wof:name":"Antratsytska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",
-    "wof:placetype_local":"mis'ka rada",
+    "wof:placetype_local":[
+        "city council"
+    ],
     "wof:population":90835,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ua",
