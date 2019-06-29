@@ -16,17 +16,14 @@
     "mps:longitude":37.767341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057a\u0561\u0580\u057f\u0561\u056f"
-    ],
     "name:cat_x_preferred":[
         "BK Spartak Sant Petersburg"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5e15\u723e\u5854\u514b"
-    ],
     "name:deu_x_preferred":[
         "BK Spartak Sankt Petersburg"
+    ],
+    "name:deu_x_variant":[
+        "Spartak"
     ],
     "name:eng_x_preferred":[
         "Spartak"
@@ -40,14 +37,14 @@
     "name:fra_x_preferred":[
         "Spartak Saint-P\u00e9tersbourg"
     ],
-    "name:ger_x_preferred":[
-        "Spartak"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e4\u05e8\u05d8\u05e7 \u05e1\u05e0\u05e7\u05d8 \u05e4\u05d8\u05e8\u05d1\u05d5\u05e8\u05d2"
     ],
     "name:hrv_x_preferred":[
         "Spartak Sankt Peterburg"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u0561\u0580\u057f\u0561\u056f"
     ],
     "name:ita_x_preferred":[
         "Basketbol'nyj klub Spartak Sankt-Peterburg"
@@ -75,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0430\u0440\u0442\u0430\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5e15\u723e\u5854\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":101867259,
-    "wof:lastmodified":1553815558,
+    "wof:lastmodified":1561776954,
     "wof:name":"\u0421\u043f\u0430\u0440\u0442\u0430\u043a",
     "wof:parent_id":1108815751,
     "wof:placetype":"locality",

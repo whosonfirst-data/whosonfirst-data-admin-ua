@@ -16,17 +16,8 @@
     "mps:longitude":22.529963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u057f\u0561\u056c\u0578\u057e\u0581\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5854\u6d1b\u592b\u9f4a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Antalovce"
-    ],
-    "name:dut_x_preferred":[
-        "Anta\u0142owce"
     ],
     "name:eng_x_preferred":[
         "Antalovtsi"
@@ -34,16 +25,22 @@
     "name:epo_x_preferred":[
         "Antalovci"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10d0\u10da\u10dd\u10d5\u10ea\u10d8"
-    ],
     "name:hun_x_preferred":[
         "Antal\u00f3c"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u0561\u056c\u0578\u057e\u0581\u056b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10d0\u10da\u10dd\u10d5\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Anta\u0142owce"
     ],
     "name:pol_x_preferred":[
         "Anta\u0142owce"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Antalov\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -53,7 +50,7 @@
         "\u0410\u043d\u0442\u043e\u043d\u043e\u0432\u043a\u0430",
         "\u0410\u043d\u0442\u0430\u043b\u043e\u0432\u0446\u044b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Antalovce"
     ],
     "name:ukr_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "Antonovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5854\u6d1b\u592b\u9f4a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":101859639,
-    "wof:lastmodified":1553815552,
+    "wof:lastmodified":1561776912,
     "wof:name":"\u0410\u043d\u0442\u0430\u043b\u043e\u0432\u0446\u0456",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

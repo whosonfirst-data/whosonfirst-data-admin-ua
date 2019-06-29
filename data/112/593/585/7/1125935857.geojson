@@ -19,20 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u7c73\u4f50\u5947"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mizo\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Misotsch"
     ],
     "name:eng_x_preferred":[
         "Mizoch"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mizotch"
-    ],
-    "name:ger_x_preferred":[
-        "Misotsch"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05d6\u05d5\u05e5'"
@@ -40,7 +37,7 @@
     "name:pol_x_preferred":[
         "Mizocz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mizoci"
     ],
     "name:rus_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Mizocz"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u4f50\u5947"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125935857,
-    "wof:lastmodified":1514509730,
+    "wof:lastmodified":1561777006,
     "wof:name":"Mizoch",
     "wof:parent_id":102088591,
     "wof:placetype":"locality",

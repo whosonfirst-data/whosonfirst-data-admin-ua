@@ -19,15 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0549\u0565\u057f\u0586\u0561\u056c\u057e\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u5207\u7279\u6cd5\u723e\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Csetfalva"
-    ],
     "name:eng_x_preferred":[
         "Chetfalva"
     ],
@@ -37,7 +28,13 @@
     "name:hun_x_preferred":[
         "Csetfalva"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0549\u0565\u057f\u0586\u0561\u056c\u057e\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Csetfalva"
+    ],
+    "name:ron_x_preferred":[
         "Cetfalva"
     ],
     "name:rus_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0442\u0444\u0430\u043b\u0432\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u7279\u6cd5\u723e\u74e6"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1126003515,
-    "wof:lastmodified":1553816691,
+    "wof:lastmodified":1561777018,
     "wof:name":"Chetfalva",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

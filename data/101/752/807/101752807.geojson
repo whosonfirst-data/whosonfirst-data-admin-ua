@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002756,
-    "geom:area_square_m":22523678.680607,
+    "geom:area_square_m":22523678.680599,
     "geom:bbox":"22.245267,48.574107,22.340991,48.651389",
     "geom:latitude":48.619705,
     "geom:longitude":22.300175,
@@ -21,17 +21,11 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062c\u0647\u0648\u0631\u0648\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u056a\u0563\u0578\u0580\u0578\u0564"
-    ],
     "name:aze_x_preferred":[
         "Ujqorod"
     ],
     "name:bak_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:baq_x_preferred":[
-        "Uzhhorod"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0436\u0433\u0430\u0440\u0430\u0434"
@@ -54,14 +48,11 @@
     "name:che_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u65e5\u970d\u7f57\u5fb7"
-    ],
     "name:crh_x_preferred":[
         "Ujgorod"
     ],
-    "name:cze_x_preferred":[
-        "U\u017ehorod"
+    "name:cym_x_preferred":[
+        "Uzhhorod"
     ],
     "name:dan_x_preferred":[
         "Uzjhorod"
@@ -69,11 +60,11 @@
     "name:deu_x_preferred":[
         "Uschhorod"
     ],
-    "name:dut_x_preferred":[
-        "Oezjhorod"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03cd\u03b6\u03c7\u03bf\u03c1\u03bf\u03bd\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03b6\u03c7\u03bf\u03c1\u03cc\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Uzhhorod"
@@ -98,18 +89,6 @@
     ],
     "name:fra_x_preferred":[
         "Oujhorod"
-    ],
-    "name:fre_x_preferred":[
-        "Oujhorod"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10df\u10d2\u10dd\u10e0\u10dd\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Uschhorod"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b6\u03c7\u03bf\u03c1\u03cc\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0a9d\u0ab9\u0acb\u0ab0\u0acb\u0aa1"
@@ -168,14 +147,8 @@
     "name:lit_x_preferred":[
         "U\u017ehorodas"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u091d\u0939\u094b\u0930\u0949\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Uzhhorod"
     ],
     "name:mhr_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
@@ -185,6 +158,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Uzhhorod"
     ],
     "name:myv_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434 \u043e\u0448"
@@ -204,9 +180,6 @@
     "name:oss_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0698\u0647\u0648\u0631\u0648\u062f"
-    ],
     "name:pol_x_preferred":[
         "U\u017chorod"
     ],
@@ -218,9 +191,6 @@
     ],
     "name:rue_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:rum_x_preferred":[
-        "Ujhorod"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
@@ -235,9 +205,6 @@
         "\u0d8b\u0dc3\u0dca\u0dc4\u0ddc\u0dbb\u0ddd\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "U\u017ehorod"
-    ],
-    "name:slo_x_preferred":[
         "U\u017ehorod"
     ],
     "name:spa_x_preferred":[
@@ -289,9 +256,6 @@
         "U\u017ehorod"
     ],
     "name:war_x_preferred":[
-        "Uzhhorod"
-    ],
-    "name:wel_x_preferred":[
         "Uzhhorod"
     ],
     "name:yid_x_preferred":[
@@ -441,7 +405,7 @@
         }
     ],
     "wof:id":101752807,
-    "wof:lastmodified":1527641660,
+    "wof:lastmodified":1561776898,
     "wof:name":"\u0423\u0436\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":1108815941,
     "wof:placetype":"locality",

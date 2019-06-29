@@ -17,11 +17,11 @@
     "mps:longitude":38.761441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5f17\u502b\u6fa4"
-    ],
     "name:deu_x_preferred":[
         "Michail Frunse"
+    ],
+    "name:deu_x_variant":[
+        "Frunse"
     ],
     "name:eng_x_preferred":[
         "Frunze"
@@ -29,16 +29,13 @@
     "name:est_x_preferred":[
         "Mihhail Frunze"
     ],
-    "name:ger_x_preferred":[
-        "Frunse"
-    ],
     "name:lav_x_preferred":[
         "Frunze"
     ],
     "name:pol_x_preferred":[
         "Frunze"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Frunze"
     ],
     "name:rus_x_preferred":[
@@ -52,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Frunze"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u502b\u6fa4"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":101869865,
-    "wof:lastmodified":1544750490,
+    "wof:lastmodified":1561776945,
     "wof:name":"\u0424\u0440\u0443\u043d\u0437\u0435",
     "wof:parent_id":102088801,
     "wof:placetype":"locality",

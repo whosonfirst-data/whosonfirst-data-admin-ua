@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000827,
-    "geom:area_square_m":6826212.440623,
+    "geom:area_square_m":6826212.440625,
     "geom:bbox":"38.8207979843,48.1273230362,38.8532383653,48.1657935648",
     "geom:latitude":48.144662,
     "geom:longitude":38.835651,
@@ -18,12 +18,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0641\u0627\u062e\u0631\u0648\u0634\u064a\u0641\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u056d\u0580\u0578\u0582\u0577\u0587\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u74e6\u8d6b\u9b6f\u820d\u6c83"
     ],
     "name:crh_x_preferred":[
         "Vahru\u015feve"
@@ -43,15 +37,6 @@
     "name:fra_x_preferred":[
         "Bokovo Khroustalne"
     ],
-    "name:fre_x_preferred":[
-        "Bokovo Khroustalne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10ee\u10e0\u10e3\u10e8\u10d4\u10d5\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Wachruschewe"
-    ],
     "name:hsb_x_preferred":[
         "Bokowo-Chrustalne"
     ],
@@ -63,6 +48,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d9\u10dd\u10d5\u10dd-\u10ee\u10e0\u10e3\u10e1\u10e2\u10d0\u10da\u10dc\u10dd\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10ee\u10e0\u10e3\u10e8\u10d4\u10d5\u10dd"
     ],
     "name:lav_x_preferred":[
         "Vahru\u0161eve"
@@ -76,16 +64,10 @@
     "name:nno_x_preferred":[
         "Vakhrusjeve"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u062e\u0631\u0648\u0634\u0641\u0647"
-    ],
     "name:pol_x_preferred":[
         "Bokowo-Chrustalne"
     ],
     "name:ron_x_preferred":[
-        "Vahru\u0219eve"
-    ],
-    "name:rum_x_preferred":[
         "Vahru\u0219eve"
     ],
     "name:rus_x_preferred":[
@@ -154,7 +136,7 @@
         }
     ],
     "wof:id":101876961,
-    "wof:lastmodified":1527714914,
+    "wof:lastmodified":1561776967,
     "wof:name":"\u0412\u0430\u0445\u0440\u0443\u0448\u0435\u0432\u0435",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

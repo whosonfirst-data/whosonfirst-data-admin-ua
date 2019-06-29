@@ -19,32 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0579\u0561\u0587"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0447\u0430\u0456\u045e"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u6070\u8036\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Po\u010dajiv"
     ],
-    "name:dut_x_preferred":[
-        "Pochaiv"
+    "name:deu_x_preferred":[
+        "Potschajiw"
     ],
     "name:eng_x_preferred":[
         "Pochaiv"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0686\u0627\u0626\u06cc\u0641"
+    ],
+    "name:fra_x_preferred":[
         "Potcha\u00efv"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e9\u10d0\u10d4\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Potschajiw"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e6'\u05d9\u05d5\u05d1"
@@ -52,22 +43,28 @@
     "name:hsb_x_preferred":[
         "Po\u010dajiw"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0579\u0561\u0587"
+    ],
     "name:ita_x_preferred":[
         "Po\u010da\u00efv"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e9\u10d0\u10d4\u10d5\u10d8"
     ],
     "name:lav_x_preferred":[
         "Po\u010dajiva"
     ],
+    "name:nld_x_preferred":[
+        "Pochaiv"
+    ],
     "name:nno_x_preferred":[
         "Potsjajiv"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0686\u0627\u0626\u06cc\u0641"
     ],
     "name:pol_x_preferred":[
         "Poczaj\u00f3w"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Poceaiv"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "Pochaiv"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u6070\u8036\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1125939733,
-    "wof:lastmodified":1514509779,
+    "wof:lastmodified":1561777006,
     "wof:name":"Pochayev",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

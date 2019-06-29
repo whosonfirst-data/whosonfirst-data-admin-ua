@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2112501.696739,
+    "geom:area_square_m":2112501.696738,
     "geom:bbox":"23.5397590833,48.1831418372,23.557060453,48.2014278249",
     "geom:latitude":48.19228,
     "geom:longitude":23.548692,
@@ -16,15 +16,6 @@
     "mps:longitude":23.548527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u0582\u0574\u0561\u056c\u0575\u0578\u057e\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u4e18\u99ac\u5229\u5967\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Csom\u00e1nfalva"
-    ],
     "name:eng_x_preferred":[
         "Chumal'ovo"
     ],
@@ -34,7 +25,13 @@
     "name:hun_x_preferred":[
         "Csom\u00e1nfalva"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0582\u0574\u0561\u056c\u0575\u0578\u057e\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Csom\u00e1nfalva"
+    ],
+    "name:ron_x_preferred":[
         "Ciumalovo"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Chumaliovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u99ac\u5229\u5967\u6c83"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101876405,
-    "wof:lastmodified":1553815565,
+    "wof:lastmodified":1561776969,
     "wof:name":"\u0427\u0443\u043c\u0430\u043b\u044c\u043e\u0432\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

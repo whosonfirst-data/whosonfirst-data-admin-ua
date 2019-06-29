@@ -16,9 +16,6 @@
     "mps:longitude":35.480178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u056b\u0574\u0578\u0580\u057d\u056f\u056b"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u043c\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -28,14 +25,11 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u91cc\u83ab\u723e\u897f\u57fa"
-    ],
     "name:deu_x_preferred":[
         "Rajon Prymorsk"
     ],
-    "name:dut_x_preferred":[
-        "Primorskiy"
+    "name:deu_x_variant":[
+        "Prymorskyj"
     ],
     "name:eng_x_preferred":[
         "Primorskiy"
@@ -43,14 +37,17 @@
     "name:epo_x_preferred":[
         "Primorsko"
     ],
-    "name:ger_x_preferred":[
-        "Prymorskyj"
-    ],
     "name:hye_x_preferred":[
         "\u054a\u0580\u056b\u0574\u0578\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u054a\u0580\u056b\u0574\u0578\u0580\u057d\u056f\u056b"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10e0\u10d8\u10db\u10dd\u10e0\u10e1\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Primorskiy"
     ],
     "name:pol_x_preferred":[
         "Rejon prymorski"
@@ -58,7 +55,7 @@
     "name:ron_x_preferred":[
         "Raionul Pr\u00eemorsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Pr\u00eemorsk\u00eei"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u83ab\u723e\u65af\u514b\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u91cc\u83ab\u723e\u897f\u57fa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
@@ -148,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743784,
+    "wof:lastmodified":1561776938,
     "wof:name":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108738663,
     "wof:placetype":"locality",

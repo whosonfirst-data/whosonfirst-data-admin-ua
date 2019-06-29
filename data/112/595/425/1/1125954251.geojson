@@ -22,29 +22,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u062a\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u056b\u0580\u0575\u0561\u057f\u056b\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u76ae\u91cc\u4e9e\u4eac"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pyrjatyn"
     ],
-    "name:dut_x_preferred":[
-        "Pyriatyn"
+    "name:deu_x_preferred":[
+        "Pyrjatyn"
     ],
     "name:eng_x_preferred":[
         "Pyryatyn"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u0627\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Pyriatyn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e0\u10d8\u10d0\u10e2\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Pyrjatyn"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e8\u05d9\u05d0\u05d8\u05d9\u05df"
@@ -52,17 +43,23 @@
     "name:hsb_x_preferred":[
         "Pyrjatyn"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u0580\u0575\u0561\u057f\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
         "Pirjatyn"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e0\u10d8\u10d0\u10e2\u10d8\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "Pirjatina"
     ],
+    "name:nld_x_preferred":[
+        "Pyriatyn"
+    ],
     "name:nno_x_preferred":[
         "Pyrjatyn"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0631\u06cc\u0627\u062a\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Pyriatyn"
@@ -70,7 +67,7 @@
     "name:por_x_preferred":[
         "Pyriatyn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "P\u00eeriat\u00een"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e4\u05d9\u05e8\u05d9\u05d0\u05d8\u05d9\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u91cc\u4e9e\u4eac"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1125954251,
-    "wof:lastmodified":1514509784,
+    "wof:lastmodified":1561777006,
     "wof:name":"Pyryatyn",
     "wof:parent_id":102088811,
     "wof:placetype":"locality",

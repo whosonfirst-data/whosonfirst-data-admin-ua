@@ -22,38 +22,29 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u064a\u062a\u064a\u0641\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0565\u057a\u0565\u057f\u0578\u057e\u056f\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0428\u044d\u043f\u044d\u0446\u0456\u045e\u043a\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0428\u0435\u043f\u0435\u0442\u043e\u0432\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u820d\u4f69\u8482\u592b\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160epetivka"
     ],
-    "name:dut_x_preferred":[
-        "Shepetivka"
+    "name:deu_x_preferred":[
+        "Schepetiwka"
     ],
     "name:eng_x_preferred":[
         "Shepetivka"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u067e\u062a\u06cc\u0641\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u0160epetivka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chepetivka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d4\u10de\u10d4\u10e2\u10dd\u10d5\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Schepetiwka"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05e4\u05d8\u05d9\u05d1\u05e7\u05d4"
@@ -64,11 +55,17 @@
     "name:hun_x_preferred":[
         "Sepetyivka"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u057a\u0565\u057f\u0578\u057e\u056f\u0561"
+    ],
     "name:ita_x_preferred":[
         "\u0160epet\u00efvka"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30a7\u30da\u30c6\u30a3\u30a6\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10de\u10d4\u10e2\u10dd\u10d5\u10d9\u10d0"
     ],
     "name:lav_x_preferred":[
         "\u0160epetivka"
@@ -76,16 +73,16 @@
     "name:lit_x_preferred":[
         "\u0160epetivka"
     ],
+    "name:nld_x_preferred":[
+        "Shepetivka"
+    ],
     "name:nno_x_preferred":[
         "Sjepetivka"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u067e\u062a\u06cc\u0641\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Szepet\u00f3wka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218epetivka"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +91,7 @@
     "name:rus_x_variant":[
         "\u0428\u0435\u043f\u0435\u0442\u043e\u0432\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160epetivka"
     ],
     "name:srp_x_preferred":[
@@ -117,6 +114,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e9\u05e2\u05e4\u05e2\u05d8\u05d9\u05d5\u05d5\u05e7\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u4f69\u8482\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1125954051,
-    "wof:lastmodified":1514509796,
+    "wof:lastmodified":1561777007,
     "wof:name":"Shepetivka",
     "wof:parent_id":1108815821,
     "wof:placetype":"locality",

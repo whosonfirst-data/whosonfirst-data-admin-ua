@@ -17,15 +17,6 @@
     "mps:longitude":22.747351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0580\u0578\u0577\u056f\u0578\u057e\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u7f85\u4ec0\u79d1\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Poro\u015dkovo"
-    ],
     "name:eng_x_preferred":[
         "Poro\u015dkovo"
     ],
@@ -35,7 +26,13 @@
     "name:hun_x_preferred":[
         "Porosk\u0151"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u0578\u0577\u056f\u0578\u057e\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Poro\u015dkovo"
+    ],
+    "name:ron_x_preferred":[
         "Poro\u0219kovo"
     ],
     "name:rus_x_preferred":[
@@ -49,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Poroshkove"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7f85\u4ec0\u79d1\u6c83"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101859745,
-    "wof:lastmodified":1553815553,
+    "wof:lastmodified":1561776914,
     "wof:name":"\u041f\u043e\u0440\u043e\u0448\u043a\u043e\u0432\u043e",
     "wof:parent_id":102088067,
     "wof:placetype":"locality",

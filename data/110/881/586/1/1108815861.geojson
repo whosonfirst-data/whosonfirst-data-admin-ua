@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u064a\u0631\u064a\u0646\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053a\u0574\u0565\u0580\u056b\u0576\u056f\u0561"
-    ],
     "name:bak_x_preferred":[
         "\u0416\u043c\u0435\u0440\u0438\u043d\u043a\u0430"
     ],
@@ -43,11 +40,11 @@
     "name:bul_x_preferred":[
         "\u0416\u043c\u0435\u0440\u0438\u043d\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u65e5\u6885\u6797\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017dmerynka"
+    ],
+    "name:deu_x_preferred":[
+        "Schmerynka"
     ],
     "name:eng_x_preferred":[
         "Zhmerynka"
@@ -55,17 +52,14 @@
     "name:est_x_preferred":[
         "\u017dmer\u00f5nka"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0645\u0631\u06cc\u0646\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u017dmerynka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jmerynka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10df\u10db\u10d4\u10e0\u10d8\u10dc\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Schmerynka"
     ],
     "name:heb_x_preferred":[
         "\u05d6'\u05de\u05e8\u05d9\u05e0\u05e7\u05d4"
@@ -73,11 +67,17 @@
     "name:hsb_x_preferred":[
         "\u017dmerynka"
     ],
+    "name:hye_x_preferred":[
+        "\u053a\u0574\u0565\u0580\u056b\u0576\u056f\u0561"
+    ],
     "name:ita_x_preferred":[
         "\u017dmerynka"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30e1\u30fc\u30eb\u30a3\u30f3\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10db\u10d4\u10e0\u10d8\u10dc\u10d9\u10d0"
     ],
     "name:lav_x_preferred":[
         "\u017dmerinka"
@@ -91,13 +91,10 @@
     "name:nno_x_preferred":[
         "Zjmerynka"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0645\u0631\u06cc\u0646\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "\u017bmerynka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jmer\u00eenka"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +103,7 @@
     "name:sah_x_preferred":[
         "\u0416\u043c\u0435\u0440\u0438\u043d\u043a\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u017dmerynka"
     ],
     "name:spa_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Zhmerynka"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u6885\u6797\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108815861,
-    "wof:lastmodified":1555047746,
+    "wof:lastmodified":1561776856,
     "wof:name":"Zhmerynska",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

@@ -34,17 +34,11 @@
     "mps:longitude":36.276028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u0580\u057e\u0578\u0574\u0561\u0575\u057d\u056f\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f69\u723e\u6c83\u9081\u897f\u57fa"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pervomajskyj"
     ],
-    "name:dut_x_preferred":[
-        "Pervomaiskyi"
+    "name:deu_x_preferred":[
+        "Perwomajskyj"
     ],
     "name:eng_x_preferred":[
         "Pervomais'kyi"
@@ -53,17 +47,14 @@
         "Pervomais'kyi",
         "Pervomaiskyi"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Pervomaiskyi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pervoma\u00efsky\u00ef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e0\u10d5\u10dd\u10db\u10d0\u10d8\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Perwomajskyj"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d1\u05d5\u05de\u05d9\u05d9\u05e1\u05e7"
@@ -71,8 +62,14 @@
     "name:hsb_x_preferred":[
         "Perwomajskyj"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0580\u057e\u0578\u0574\u0561\u0575\u057d\u056f\u056b"
+    ],
     "name:ita_x_preferred":[
         "Pervomajs'kij"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e0\u10d5\u10dd\u10db\u10d0\u10d8\u10e1\u10d9\u10d8"
     ],
     "name:lav_x_preferred":[
         "Pervomajska"
@@ -80,16 +77,16 @@
     "name:lit_x_preferred":[
         "Pervomaiskis"
     ],
+    "name:nld_x_preferred":[
+        "Pervomaiskyi"
+    ],
     "name:nno_x_preferred":[
         "Pervomajskyj"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9\u06cc\u06cc"
     ],
     "name:pol_x_preferred":[
         "Perwomajski"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pervomaisk\u00eei"
     ],
     "name:rus_x_preferred":[
@@ -109,6 +106,9 @@
     ],
     "name:vie_x_preferred":[
         "Pervomaiskyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u723e\u6c83\u9081\u897f\u57fa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":102088797,
-    "wof:lastmodified":1554317312,
+    "wof:lastmodified":1561776714,
     "wof:name":"Pervomaiskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

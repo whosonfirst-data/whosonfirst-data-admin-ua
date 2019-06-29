@@ -37,9 +37,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0574\u0561\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0645\u0627\u0646"
     ],
@@ -55,17 +52,20 @@
     "name:cat_x_preferred":[
         "Uman"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u66fc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Uma\u0148"
+    ],
+    "name:cym_x_preferred":[
+        "Uman"
     ],
     "name:dan_x_preferred":[
         "Uman"
     ],
-    "name:dut_x_preferred":[
-        "Oeman"
+    "name:deu_x_preferred":[
+        "Uman"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Umans'kyi"
@@ -77,20 +77,14 @@
     "name:est_x_preferred":[
         "Uman"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0645\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Uman"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ouman"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10db\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Uman"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03bc\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05df"
@@ -101,11 +95,17 @@
     "name:hye_x_preferred":[
         "\u0548\u0582\u0574\u0561\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u0548\u0582\u0574\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Uman'"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30fc\u30de\u30cb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10db\u10d4\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc6b0\ub9cc"
@@ -119,14 +119,14 @@
     "name:ltz_x_preferred":[
         "Uman"
     ],
+    "name:nld_x_preferred":[
+        "Oeman"
+    ],
     "name:nno_x_preferred":[
         "Uman i Ukraina"
     ],
     "name:nob_x_preferred":[
         "Uman"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0645\u0627\u0646"
     ],
     "name:pnt_x_preferred":[
         "\u039f\u03c5\u03bc\u03ac\u03bd"
@@ -140,11 +140,11 @@
     "name:ron_x_preferred":[
         "Raionul Babanka"
     ],
+    "name:ron_x_variant":[
+        "Uman"
+    ],
     "name:rue_x_preferred":[
         "\u0423\u043c\u0430\u043d\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Uman"
     ],
     "name:rus_x_preferred":[
         "\u0423\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -177,14 +177,14 @@
     "name:vie_x_preferred":[
         "Uman"
     ],
-    "name:wel_x_preferred":[
-        "Uman"
-    ],
     "name:yid_x_preferred":[
         "\u05d0\u05d5\u05de\u05d0\u05df"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u66fc\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u66fc"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
@@ -237,7 +237,7 @@
         }
     ],
     "wof:id":102088345,
-    "wof:lastmodified":1554317296,
+    "wof:lastmodified":1561776729,
     "wof:name":"Umanskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

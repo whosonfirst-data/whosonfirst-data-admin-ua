@@ -17,20 +17,17 @@
     "mps:longitude":39.114708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u057e\u0578\u057a\u057d\u056f\u0578\u057e"
-    ],
-    "name:chi_x_preferred":[
-        "\u65b0\u666e\u65af\u79d1\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Novopskov"
+    ],
+    "name:deu_x_preferred":[
+        "Nowopskow"
     ],
     "name:eng_x_preferred":[
         "Novopskov"
     ],
-    "name:ger_x_preferred":[
-        "Nowopskow"
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u057a\u057d\u056f\u0578\u057e"
     ],
     "name:lav_x_preferred":[
         "Novopskova"
@@ -38,7 +35,7 @@
     "name:pol_x_preferred":[
         "Nowopskow"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novopskov"
     ],
     "name:rus_x_preferred":[
@@ -49,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Novopskov"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u666e\u65af\u79d1\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101870435,
-    "wof:lastmodified":1544750658,
+    "wof:lastmodified":1561776962,
     "wof:name":"\u041d\u043e\u0432\u043e\u043f\u0441\u043a\u043e\u0432",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

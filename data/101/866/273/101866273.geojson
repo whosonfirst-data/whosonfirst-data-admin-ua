@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0644\u063a\u0629 \u0627\u0644\u062a\u0648\u0641\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u056c\u0563\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "T\u0131va dili"
     ],
@@ -51,9 +48,6 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u0443\u0432\u0438\u043d\u0438\u0439\u043d \u043c\u043e\u0442\u0442"
-    ],
-    "name:chi_x_preferred":[
-        "\u535a\u723e\u7518"
     ],
     "name:chv_x_preferred":[
         "\u0422\u0103\u0432\u0430 \u0447\u0115\u043b\u0445\u0438"
@@ -109,6 +103,9 @@
     "name:hun_x_preferred":[
         "Tuvai nyelv"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c\u0563\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Bahasa Tuva"
     ],
@@ -136,14 +133,14 @@
     "name:lit_x_preferred":[
         "Tuvi\u0173 kalba"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u043b\u0433\u0430\u043d"
-    ],
     "name:mhr_x_preferred":[
         "\u0422\u0443\u0432\u0430 \u0439\u044b\u043b\u043c\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0443\u0432\u0430\u043d\u0441\u043a\u0438 \u0458\u0430\u0437\u0438\u043a"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u043e\u043b\u0433\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u0432\u0430 \u0445\u044d\u043b"
@@ -169,7 +166,7 @@
     "name:por_x_preferred":[
         "L\u00edngua tuviniana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bolgan"
     ],
     "name:rus_x_preferred":[
@@ -181,7 +178,7 @@
     "name:sco_x_preferred":[
         "Tuvan leid"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bolhan"
     ],
     "name:spa_x_preferred":[
@@ -225,6 +222,9 @@
     ],
     "name:zho_x_preferred":[
         "\u56fe\u74e6\u8bed"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u723e\u7518"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":101866273,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561776915,
     "wof:name":"\u0411\u043e\u043b\u0433\u0430\u043d",
     "wof:parent_id":102088139,
     "wof:placetype":"locality",

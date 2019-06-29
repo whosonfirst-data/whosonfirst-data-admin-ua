@@ -21,9 +21,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:chi_x_preferred":[
-        "\u57fa\u8f14\u8001\u57ce"
-    ],
     "name:eng_x_preferred":[
         "Old Kyiv"
     ],
@@ -35,6 +32,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0438\u0457\u0432"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u8f14\u8001\u57ce"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1108945177,
-    "wof:lastmodified":1514509764,
+    "wof:lastmodified":1561776860,
     "wof:name":"Old Kiev",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

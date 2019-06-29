@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007439,
-    "geom:area_square_m":60931537.976561,
+    "geom:area_square_m":60931537.976565,
     "geom:bbox":"32.1934535,48.462115,32.316718,48.584346",
     "geom:latitude":48.516958,
     "geom:longitude":32.256604,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641\u0648\u0647\u0631\u0627\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0580\u0578\u057e\u0578\u0563\u0580\u0561\u0564"
-    ],
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0648\u067e\u06cc\u0648\u0646\u06cc\u0633\u06a9\u06cc"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
-    ],
-    "name:baq_x_preferred":[
-        "Kirovohrad"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0440\u0430\u0432\u0430\u0433\u0440\u0430\u0434"
@@ -58,17 +52,14 @@
     "name:ces_x_preferred":[
         "Kirovohrad"
     ],
+    "name:ces_x_variant":[
+        "Kropyvnyckyj"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u6d1b\u4f69\u592b\u5c3c\u8328\u57fa"
-    ],
     "name:crh_x_preferred":[
         "Kirovograd"
-    ],
-    "name:cze_x_preferred":[
-        "Kropyvnyckyj"
     ],
     "name:dan_x_preferred":[
         "Kirovohrad"
@@ -80,10 +71,11 @@
         "Kirowohrad"
     ],
     "name:deu_x_variant":[
-        "Jelisawetgrad"
+        "Jelisawetgrad",
+        "Kropywnyzkyj"
     ],
-    "name:dut_x_preferred":[
-        "Kirovohrad"
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03bf\u03c0\u03b9\u03b2\u03bd\u03af\u03c4\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_historical":[
         "Kirovohrad",
@@ -114,20 +106,11 @@
     "name:fra_x_preferred":[
         "Kirovohrad"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Kropyvnytsky"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10dd\u10de\u10d8\u10d5\u10dc\u10d8\u10ea\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kropywnyzkyj"
     ],
     "name:glg_x_preferred":[
         "Kirovohrad"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03bf\u03c0\u03b9\u03b2\u03bd\u03af\u03c4\u03c3\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0acb\u0aaa\u0ac0\u0ab5\u0abf\u0aa8\u0acd\u0ab8\u0acd\u0a9f\u0a95\u0ac0"
@@ -168,6 +151,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10dd\u10d5\u10dd\u10d2\u10e0\u10d0\u10d3\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e0\u10dd\u10de\u10d8\u10d5\u10dc\u10d8\u10ea\u10d9\u10d8"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -183,14 +169,8 @@
     "name:ltz_x_preferred":[
         "Kirowograd"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u094b\u092a\u0935\u093f\u0928\u0947\u0938\u094d\u0915\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Kropyvnytskyi"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
@@ -198,11 +178,17 @@
     "name:mkd_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:mkd_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
     "name:msa_x_preferred":[
         "Kirovohrad"
+    ],
+    "name:msa_x_variant":[
+        "Kropyvnytskyi"
     ],
     "name:nld_x_preferred":[
         "Kirovohrad"
@@ -215,9 +201,6 @@
     ],
     "name:nor_x_preferred":[
         "Kirovohrad"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0631\u0648\u0648\u0647\u0631\u0627\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u0631\u0648\u0648\u06c1\u0631\u0627\u062f"
@@ -242,11 +225,11 @@
     "name:ron_x_preferred":[
         "Kirovohrad"
     ],
+    "name:ron_x_variant":[
+        "Krop\u00eevn\u00ee\u021bk\u00eei"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
-    ],
-    "name:rum_x_preferred":[
-        "Krop\u00eevn\u00ee\u021bk\u00eei"
     ],
     "name:rus_x_historical":[
         "\u0415\u043b\u0438\u0441\u0430\u0432\u0435\u0442\u0433\u0440\u0430\u0434",
@@ -272,9 +255,6 @@
         "\u0d9a\u0dca\u0dbb\u0ddd\u0db4\u0dd2\u0dc0\u0dca\u0db1\u0dd2\u0da7\u0dca\u0dc3\u0dca\u0d9a\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Kirovohrad"
-    ],
-    "name:slo_x_preferred":[
         "Kirovohrad"
     ],
     "name:slv_x_preferred":[
@@ -350,6 +330,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6d1b\u6c83\u683c\u52d2"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u6d1b\u4f69\u592b\u5c3c\u8328\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
@@ -496,7 +479,7 @@
         }
     ],
     "wof:id":101752847,
-    "wof:lastmodified":1527641659,
+    "wof:lastmodified":1561776897,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434",
     "wof:parent_id":1108815977,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000758,
-    "geom:area_square_m":5957313.167941,
+    "geom:area_square_m":5957313.167939,
     "geom:bbox":"30.2156794542,50.5107322604,30.2530390628,50.542488914",
     "geom:latitude":50.524952,
     "geom:longitude":30.236528,
@@ -20,28 +20,16 @@
     "name:ara_x_preferred":[
         "\u0625\u0631\u0628\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u0580\u057a\u0565\u0576"
-    ],
     "name:bel_x_variant":[
         "\u0406\u0440\u043f\u0435\u043d\u044c"
     ],
     "name:ces_x_preferred":[
         "Irpi\u0148"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u723e\u5e73"
-    ],
     "name:crh_x_preferred":[
         "\u0130rpin"
     ],
-    "name:cze_x_preferred":[
-        "Irpi\u0148"
-    ],
     "name:deu_x_preferred":[
-        "Irpin"
-    ],
-    "name:dut_x_preferred":[
         "Irpin"
     ],
     "name:eng_x_preferred":[
@@ -56,14 +44,8 @@
     "name:fra_x_preferred":[
         "Irpin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Irpine"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e0\u10de\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Irpin"
     ],
     "name:hsb_x_preferred":[
         "Irpi\u0144"
@@ -92,8 +74,11 @@
     "name:lit_x_preferred":[
         "Irpenis"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0418\u0440\u043f\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Irpin"
     ],
     "name:nno_x_preferred":[
         "Irpin"
@@ -104,9 +89,6 @@
     "name:nor_x_preferred":[
         "Irpin"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0631\u067e\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Irpie\u0144"
     ],
@@ -114,9 +96,6 @@
         "Irpin"
     ],
     "name:ron_x_preferred":[
-        "Irpin"
-    ],
-    "name:rum_x_preferred":[
         "Irpin"
     ],
     "name:rus_x_preferred":[
@@ -191,7 +170,7 @@
         }
     ],
     "wof:id":101876991,
-    "wof:lastmodified":1527714908,
+    "wof:lastmodified":1561776963,
     "wof:name":"\u0406\u0440\u043f\u0456\u043d\u044c",
     "wof:parent_id":1108730759,
     "wof:placetype":"locality",

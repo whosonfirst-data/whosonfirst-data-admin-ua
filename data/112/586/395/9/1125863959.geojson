@@ -22,29 +22,23 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a \u0633\u0648\u0631\u0648\u062a\u0634\u064a\u0646\u062a\u0633\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u056c\u056b\u056f\u056b\u0565 \u054d\u0578\u0580\u0578\u0579\u056b\u0576\u0581\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u5927\u7d22\u7f85\u6b3d\u9f4a"
-    ],
     "name:dan_x_preferred":[
         "Velikije Sorotjintsy"
     ],
-    "name:dut_x_preferred":[
-        "Velyki Sorochyntsi"
+    "name:deu_x_preferred":[
+        "Welyki Sorotschynzi"
     ],
     "name:eng_x_preferred":[
         "Velyki Sorochyntsi"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u0633\u0631\u0686\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Velyki Sorochyntsi"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10da\u10d8\u10d9\u10d8\u10d4-\u10e1\u10dd\u10e0\u10dd\u10e9\u10d8\u10dc\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Welyki Sorotschynzi"
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u056b\u056f\u056b\u0565 \u054d\u0578\u0580\u0578\u0579\u056b\u0576\u0581\u056b"
     ],
     "name:ita_x_preferred":[
         "Velyki Soro\u010dynci"
@@ -52,16 +46,19 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a7\u30eb\u30a3\u30fc\u30ad\u30fb\u30bd\u30ed\u30fc\u30c1\u30f3\u30c4\u30a3"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d8\u10d9\u10d8\u10d4-\u10e1\u10dd\u10e0\u10dd\u10e9\u10d8\u10dc\u10ea\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Veliki Soro\u010dinci"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06cc\u06a9\u06cc \u0633\u0631\u0686\u06cc\u0646\u062a\u0633\u06cc"
+    "name:nld_x_preferred":[
+        "Velyki Sorochyntsi"
     ],
     "name:pol_x_preferred":[
         "Wielkie Soroczy\u0144ce"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vel\u00eeki Soroci\u00een\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Bol\u2019shiye Sorochintsy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u7d22\u7f85\u6b3d\u9f4a"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1125863959,
-    "wof:lastmodified":1514509969,
+    "wof:lastmodified":1561777009,
     "wof:name":"Velikiye Sorochintsy",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

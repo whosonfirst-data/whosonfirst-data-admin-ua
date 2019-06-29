@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0643\u0644\u0627\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056c\u0561\u056f\u056c\u0561\u057e\u0561"
-    ],
     "name:aze_x_preferred":[
         "Balaklava"
     ],
@@ -37,6 +34,9 @@
     "name:cat_x_preferred":[
         "Balaklava"
     ],
+    "name:ces_x_preferred":[
+        "Balaklava"
+    ],
     "name:crh_x_historical":[
         "Balyglava"
     ],
@@ -46,14 +46,8 @@
     "name:crh_x_variant":[
         "Balyglava"
     ],
-    "name:cze_x_preferred":[
-        "Balaklava"
-    ],
     "name:deu_x_preferred":[
         "Balaklawa"
-    ],
-    "name:dut_x_preferred":[
-        "Balaklava"
     ],
     "name:eng_x_preferred":[
         "Balaklava"
@@ -67,14 +61,14 @@
     "name:fra_x_preferred":[
         "Balaclava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Balaklava"
-    ],
-    "name:ger_x_preferred":[
-        "Balaklawa"
     ],
     "name:gsw_x_preferred":[
         "Balaklawa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0561\u056f\u056c\u0561\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Balaklava"
@@ -110,9 +104,6 @@
         "Balaclava"
     ],
     "name:ron_x_preferred":[
-        "Balaklava"
-    ],
-    "name:rum_x_preferred":[
         "Balaklava"
     ],
     "name:rus_x_preferred":[
@@ -151,13 +142,13 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688855,
         1159339547,
         102191581,
         85632685,
         101752787,
         874393555,
         1108738657,
+        85688855,
         85633805
     ],
     "wof:breaches":[],
@@ -191,7 +182,7 @@
         }
     ],
     "wof:id":1126064157,
-    "wof:lastmodified":1530299615,
+    "wof:lastmodified":1561777017,
     "wof:name":"Balaklava",
     "wof:parent_id":101752787,
     "wof:placetype":"neighbourhood",

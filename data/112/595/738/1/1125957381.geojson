@@ -22,11 +22,11 @@
     "name:cat_x_preferred":[
         "Starob\u00e9ixeve"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5854\u62c9\u5225\u820d\u97cb"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Starobe\u0161eve"
+    ],
+    "name:deu_x_preferred":[
+        "Starobeschewe"
     ],
     "name:eng_x_preferred":[
         "Starobesheve"
@@ -34,11 +34,8 @@
     "name:est_x_preferred":[
         "Starobe\u0161eve"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Starobecheve"
-    ],
-    "name:ger_x_preferred":[
-        "Starobeschewe"
     ],
     "name:ita_x_preferred":[
         "Starobe\u0161eve"
@@ -63,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Staroye Beshevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u62c9\u5225\u820d\u97cb"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1125957381,
-    "wof:lastmodified":1530298013,
+    "wof:lastmodified":1561777006,
     "wof:name":"Starobeshevo",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

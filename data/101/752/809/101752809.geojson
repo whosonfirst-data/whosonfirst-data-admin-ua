@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013579,
-    "geom:area_square_m":114632604.825267,
+    "geom:area_square_m":114632604.825265,
     "geom:bbox":"31.890626,46.82303,32.094539,47.0457395",
     "geom:latitude":46.945317,
     "geom:longitude":32.008699,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u0648\u0644\u0627\u064a\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u056f\u0578\u056c\u0561\u0587"
-    ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0641"
     ],
@@ -32,9 +29,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
-    ],
-    "name:baq_x_preferred":[
-        "Mykolaiv"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u043a\u0430\u043b\u0430\u0435\u045e"
@@ -45,20 +39,23 @@
     "name:cat_x_preferred":[
         "Mikol\u00e0iv"
     ],
+    "name:ces_x_preferred":[
+        "Mykolajiv"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u53e4\u62c9\u8036\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Mykolajiv"
+    "name:cym_x_preferred":[
+        "Mykolaiv"
     ],
     "name:dan_x_preferred":[
         "Mykolajiv"
     ],
-    "name:dut_x_preferred":[
-        "Mykolajiv"
+    "name:deu_x_preferred":[
+        "Mykolajiw"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03bf\u03bb\u03ac\u03b9\u03b2"
     ],
     "name:eng_x_historical":[
         "Vernoleninsk"
@@ -79,20 +76,17 @@
     "name:est_x_preferred":[
         "M\u00f5kolajiv"
     ],
+    "name:eus_x_preferred":[
+        "Mykolaiv"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0641"
+    ],
     "name:fin_x_preferred":[
         "Mykolajiv"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mykola\u00efv"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10d9\u10dd\u10da\u10d0\u10d4\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mykolajiw"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03ba\u03bf\u03bb\u03ac\u03b9\u03b2"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05e7\u05d5\u05dc\u05d0\u05d9\u05d9\u05d1"
@@ -109,6 +103,9 @@
     "name:hun_x_preferred":[
         "Mikolajiv"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u056c\u0561\u0587"
+    ],
     "name:ind_x_preferred":[
         "Mykolaiv"
     ],
@@ -120,6 +117,9 @@
     ],
     "name:kal_x_preferred":[
         "Mykolaiv"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d9\u10dd\u10da\u10d0\u10d4\u10d5\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
@@ -142,6 +142,9 @@
     "name:mon_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
     ],
+    "name:nld_x_preferred":[
+        "Mykolajiv"
+    ],
     "name:nno_x_preferred":[
         "Mykolajiv"
     ],
@@ -150,9 +153,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0641"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0641"
@@ -166,11 +166,11 @@
     "name:por_x_preferred":[
         "Mykolaiv"
     ],
+    "name:ron_x_preferred":[
+        "Nicolaev"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432"
-    ],
-    "name:rum_x_preferred":[
-        "Nicolaev"
     ],
     "name:rus_x_historical":[
         "\u0412\u0435\u0440\u043d\u043e\u043b\u0435\u043d\u0438\u043d\u0441\u043a"
@@ -187,7 +187,7 @@
     "name:sco_x_preferred":[
         "Mykolaiv"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mykolajiv"
     ],
     "name:slv_x_preferred":[
@@ -226,8 +226,8 @@
     "name:war_x_preferred":[
         "Mykolaiv"
     ],
-    "name:wel_x_preferred":[
-        "Mykolaiv"
+    "name:zho_x_preferred":[
+        "\u5c3c\u53e4\u62c9\u8036\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
@@ -370,7 +370,7 @@
         }
     ],
     "wof:id":101752809,
-    "wof:lastmodified":1530298929,
+    "wof:lastmodified":1561776898,
     "wof:name":"\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
     "wof:parent_id":1108815781,
     "wof:placetype":"locality",

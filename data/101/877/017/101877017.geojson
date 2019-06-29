@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":2366607.921192,
+    "geom:area_square_m":2366607.921188,
     "geom:bbox":"38.6558635227,48.684756788,38.6751819573,48.704075132",
     "geom:latitude":48.694489,
     "geom:longitude":38.665592,
@@ -25,11 +25,11 @@
     "name:bel_x_preferred":[
         "\u0414\u0430\u043d\u0435\u0446\u043a\u0456 \u043d\u0430\u0446\u044b\u044f\u043d\u0430\u043b\u044c\u043d\u044b \u045e\u043d\u0456\u0432\u0435\u0440\u0441\u0456\u0442\u044d\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u6d85\u9f4a\u57fa"
-    ],
     "name:deu_x_preferred":[
         "Nationale Universit\u00e4t Donezk"
+    ],
+    "name:deu_x_variant":[
+        "Donezkyj"
     ],
     "name:eng_x_preferred":[
         "Donetskiy"
@@ -40,16 +40,13 @@
     "name:fra_x_preferred":[
         "Universit\u00e9 de Donetsk"
     ],
-    "name:ger_x_preferred":[
-        "Donezkyj"
-    ],
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10dc\u10d4\u10ea\u10d9\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10e3\u10dc\u10d8\u10d5\u10d4\u10e0\u10e1\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:lav_x_preferred":[
         "Donecka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Done\u021bk\u00eei"
     ],
     "name:rus_x_preferred":[
@@ -70,6 +67,9 @@
     ],
     "name:unk_x_variant":[
         "Donetskiy"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u6d85\u9f4a\u57fa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":101877017,
-    "wof:lastmodified":1527714780,
+    "wof:lastmodified":1561776963,
     "wof:name":"\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108730805,
     "wof:placetype":"locality",

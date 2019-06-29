@@ -22,32 +22,32 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u062a\u0634\u064a\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0580\u0577\u0579\u0575\u0578\u057e"
-    ],
-    "name:chi_x_preferred":[
-        "\u535a\u723e\u66c9\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bor\u0161\u010div"
+    ],
+    "name:deu_x_preferred":[
+        "Borschtschiw"
     ],
     "name:eng_x_preferred":[
         "Borschiv"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u0686\u06cc\u0641"
+    ],
+    "name:fra_x_preferred":[
         "Borchtchiv"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e0\u10e8\u10e9\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Borschtschiw"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e8\u05e9\u05e6'\u05d9\u05d1"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0580\u0577\u0579\u0575\u0578\u057e"
+    ],
     "name:ita_x_preferred":[
         "Bor\u0161\u010div"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10e8\u10e9\u10dd\u10d5\u10d8"
     ],
     "name:lav_x_preferred":[
         "Bor\u0161\u010diva"
@@ -58,13 +58,10 @@
     "name:nno_x_preferred":[
         "Borsjtsjiv"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0631\u0634\u0686\u06cc\u0641"
-    ],
     "name:pol_x_preferred":[
         "Borszcz\u00f3w"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bor\u0219civ"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "Borschiv"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u723e\u66c9\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125984769,
-    "wof:lastmodified":1514509087,
+    "wof:lastmodified":1561777016,
     "wof:name":"Borshchiv",
     "wof:parent_id":102088181,
     "wof:placetype":"locality",

@@ -19,11 +19,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u65af\u5854\u5c3c\u9f4a\u4e9e\u76e7\u7518\u897f\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stanycja Luhanska"
+    ],
+    "name:deu_x_preferred":[
+        "Stanyzja Luhanska"
     ],
     "name:eng_x_preferred":[
         "Stanichno-Luganskoye"
@@ -31,16 +31,13 @@
     "name:est_x_preferred":[
         "Stan\u00f5tsja Luganska"
     ],
-    "name:ger_x_preferred":[
-        "Stanyzja Luhanska"
-    ],
     "name:lav_x_preferred":[
         "Stanica Luhanska"
     ],
     "name:pol_x_preferred":[
         "Stanycia \u0141uhan\u015bka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stan\u00eecino-Luhanske"
     ],
     "name:rus_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "Luganskaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u5c3c\u9f4a\u4e9e\u76e7\u7518\u897f\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125815663,
-    "wof:lastmodified":1514509810,
+    "wof:lastmodified":1561777011,
     "wof:name":"Stanichno-Luganskoye",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

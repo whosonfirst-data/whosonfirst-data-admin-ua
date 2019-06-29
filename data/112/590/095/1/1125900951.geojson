@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u0648\u063a\u0648\u0628\u064a\u062a\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0580\u0578\u0563\u0578\u0562\u056b\u0579"
-    ],
     "name:azb_x_preferred":[
         "\u062f\u0631\u0648\u0647\u0648\u0628\u06cc\u0686"
     ],
@@ -34,17 +31,14 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0447"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u7f85\u970d\u8c9d\u5947"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Drohoby\u010d"
     ],
     "name:dan_x_preferred":[
         "Drohobytj"
     ],
-    "name:dut_x_preferred":[
-        "Drohobytsj"
+    "name:deu_x_preferred":[
+        "Drohobytsch"
     ],
     "name:eng_x_preferred":[
         "Drohobych"
@@ -55,17 +49,14 @@
     "name:epo_x_variant":[
         "Drohobi\u0109o"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0648\u0647\u0648\u0628\u06cc\u0686"
+    ],
     "name:fin_x_preferred":[
         "Drohobyt\u0161"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Drohobytch"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e0\u10dd\u10d2\u10dd\u10d1\u10d8\u10e9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Drohobytsch"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d5\u05d4\u05d5\u05d1\u05d9\u05e5"
@@ -76,11 +67,17 @@
     "name:hun_x_preferred":[
         "Drohobics"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0578\u0563\u0578\u0562\u056b\u0579"
+    ],
     "name:ita_x_preferred":[
         "Drohoby\u010d"
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30ed\u30db\u30d6\u30a3\u30c1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e0\u10dd\u10d2\u10dd\u10d1\u10d8\u10e9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub4dc\ub85c\ud638\ube44\uce58"
@@ -91,7 +88,7 @@
     "name:lit_x_preferred":[
         "Drohoby\u010das"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0447"
     ],
     "name:myv_x_preferred":[
@@ -106,17 +103,14 @@
     "name:nob_x_preferred":[
         "Drohobytsj"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u0648\u0647\u0648\u0628\u06cc\u0686"
-    ],
     "name:pol_x_preferred":[
         "Drohobycz"
     ],
+    "name:ron_x_preferred":[
+        "Drogob\u00e2ci"
+    ],
     "name:rue_x_preferred":[
         "\u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0447"
-    ],
-    "name:rum_x_preferred":[
-        "Drogob\u00e2ci"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u043e\u0433\u043e\u0431\u044b\u0447"
@@ -124,7 +118,7 @@
     "name:rus_x_variant":[
         "\u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0447"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Drohoby\u010d"
     ],
     "name:spa_x_preferred":[
@@ -153,6 +147,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05e8\u05d0\u05d4\u05d1\u05d9\u05d8\u05e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u7f85\u970d\u8c9d\u5947"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -207,7 +204,7 @@
         }
     ],
     "wof:id":1125900951,
-    "wof:lastmodified":1514509316,
+    "wof:lastmodified":1561777015,
     "wof:name":"Drogobych",
     "wof:parent_id":1108815787,
     "wof:placetype":"locality",

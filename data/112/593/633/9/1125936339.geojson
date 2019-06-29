@@ -22,32 +22,26 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0646\u064a\u062a\u0634\u064a\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0565\u0576\u056b\u0579\u0565\u057d\u056f"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u0435\u043d\u0438\u0447\u0435\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u5c3c\u5947\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Heni\u010desk"
+    ],
+    "name:deu_x_preferred":[
+        "Henitschesk"
     ],
     "name:eng_x_preferred":[
         "Genichesk"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0646\u06cc\u0686\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Henit\u0161esk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Henitchesk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d4\u10dc\u10d8\u10e9\u10d4\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Henitschesk"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05e0\u05d9\u05e6'\u05e1\u05e7"
@@ -55,11 +49,17 @@
     "name:hsb_x_preferred":[
         "Heni\u010desk"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0565\u0576\u056b\u0579\u0565\u057d\u056f"
+    ],
     "name:ita_x_preferred":[
         "Heni\u010des'k"
     ],
     "name:jpn_x_preferred":[
         "\u30b2\u30cb\u30c1\u30a7\u30b9\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10dc\u10d8\u10e9\u10d4\u10e1\u10d9\u10d8"
     ],
     "name:lav_x_preferred":[
         "He\u0146i\u010deska"
@@ -70,16 +70,13 @@
     "name:nob_x_preferred":[
         "Henitsjesk"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0646\u06cc\u0686\u0633\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Heniczesk"
     ],
     "name:por_x_preferred":[
         "Henichesk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Henicesk"
     ],
     "name:rus_x_preferred":[
@@ -108,6 +105,9 @@
     ],
     "name:vie_x_preferred":[
         "Henichesk"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5c3c\u5947\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1125936339,
-    "wof:lastmodified":1514509327,
+    "wof:lastmodified":1561777005,
     "wof:name":"Heniches\u2019k",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

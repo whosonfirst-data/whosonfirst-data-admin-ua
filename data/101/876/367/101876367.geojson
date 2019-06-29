@@ -16,15 +16,6 @@
     "mps:longitude":24.306718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u057d\u057f\u0578\u056f\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u7f85\u8332\u6258\u57fa"
-    ],
-    "name:dut_x_preferred":[
-        "Nyilas"
-    ],
     "name:eng_x_preferred":[
         "Roztoki"
     ],
@@ -34,10 +25,16 @@
     "name:hun_x_preferred":[
         "Roztoki G\u00f3rne"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u057d\u057f\u0578\u056f\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Nyilas"
+    ],
     "name:pol_x_preferred":[
         "Roztoki G\u00f3rne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Roztok\u00ee"
     ],
     "name:rus_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Volchi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u8332\u6258\u57fa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101876367,
-    "wof:lastmodified":1527714915,
+    "wof:lastmodified":1561776967,
     "wof:name":"\u0420\u043e\u0437\u0442\u043e\u043a\u0438",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

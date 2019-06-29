@@ -22,17 +22,11 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0634\u0643\u0648\u0641\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0577\u056f\u0578\u057e\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u7dad\u4ec0\u79d1\u6c83"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vy\u0161kovo"
     ],
-    "name:dut_x_preferred":[
-        "Viskove"
+    "name:deu_x_preferred":[
+        "Wyschkowo"
     ],
     "name:eng_x_preferred":[
         "Vyshkovo"
@@ -40,16 +34,19 @@
     "name:epo_x_preferred":[
         "Vi\u015dkove"
     ],
-    "name:ger_x_preferred":[
-        "Wyschkowo"
-    ],
     "name:hun_x_preferred":[
         "Visk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0577\u056f\u0578\u057e\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Viskove"
     ],
     "name:pol_x_preferred":[
         "Wyszkowo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00ee\u0219kovo"
     ],
     "name:rus_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "V\u00fd\u0161kovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u4ec0\u79d1\u6c83"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125825827,
-    "wof:lastmodified":1514510064,
+    "wof:lastmodified":1561777020,
     "wof:name":"Vyshkovo",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

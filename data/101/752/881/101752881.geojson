@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005408,
-    "geom:area_square_m":43802637.230665,
+    "geom:area_square_m":43802637.230667,
     "geom:bbox":"33.376996,49.0098615,33.491208,49.149719",
     "geom:latitude":49.07805,
     "geom:longitude":33.435708,
@@ -24,17 +24,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0645\u0646\u0634\u0648\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0580\u0565\u0574\u0565\u0576\u0579\u0578\u0582\u0563"
-    ],
     "name:aze_x_preferred":[
         "Kremen\u00e7uk"
     ],
     "name:bak_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a"
-    ],
-    "name:baq_x_preferred":[
-        "Krementxuk"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0440\u0430\u043c\u044f\u043d\u0447\u0443\u0433"
@@ -55,17 +49,11 @@
     "name:ces_x_preferred":[
         "Kremen\u010duk"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5217\u7dec\u4e18\u683c"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u0435\u0440\u043c\u0435\u043d\u0447\u04f3\u043a"
     ],
     "name:crh_x_preferred":[
         "Kremen\u00e7uk"
-    ],
-    "name:cze_x_preferred":[
-        "Kremen\u010duk"
     ],
     "name:dan_x_preferred":[
         "Krementjuk"
@@ -73,8 +61,8 @@
     "name:deu_x_preferred":[
         "Krementschuk"
     ],
-    "name:dut_x_preferred":[
-        "Krementsjoek"
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b5\u03bc\u03b5\u03bd\u03c4\u03c3\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_historical":[
         "Kremenchug"
@@ -102,18 +90,6 @@
     ],
     "name:fra_x_preferred":[
         "Krementchouk"
-    ],
-    "name:fre_x_preferred":[
-        "Krementchouk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10d4\u10db\u10d4\u10dc\u10e9\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Krementschuk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03b5\u03bc\u03b5\u03bd\u03c4\u03c3\u03bf\u03cd\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Krementschuk"
@@ -157,6 +133,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10d4\u10db\u10d4\u10dc\u10e9\u10e3\u10d2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e0\u10d4\u10db\u10d4\u10dc\u10e9\u10e3\u10d9\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433"
     ],
@@ -172,14 +151,8 @@
     "name:lit_x_preferred":[
         "Kremen\u010dukas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u0947\u092e\u0947\u0928\u091a\u0941\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Kremenchuk"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433"
@@ -187,8 +160,14 @@
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a"
     ],
+    "name:mkd_x_variant":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Kremenchuk"
     ],
     "name:nld_x_preferred":[
         "Krementsjoek"
@@ -202,9 +181,6 @@
     "name:nor_x_preferred":[
         "Krementsjuk"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0645\u0646\u0686\u0648\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Krzemie\u0144czuk"
     ],
@@ -217,9 +193,6 @@
     "name:rue_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a"
     ],
-    "name:rum_x_preferred":[
-        "Kremenciuk"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433"
     ],
@@ -230,9 +203,6 @@
         "\u0d9a\u0dca\u0dbb\u0dd9\u0db8\u0dd9\u0db1\u0dca\u0da0\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Kremen\u010duk"
-    ],
-    "name:slo_x_preferred":[
         "Kremen\u010duk"
     ],
     "name:slv_x_preferred":[
@@ -424,7 +394,7 @@
         }
     ],
     "wof:id":101752881,
-    "wof:lastmodified":1527641649,
+    "wof:lastmodified":1561776894,
     "wof:name":"\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a",
     "wof:parent_id":1108815839,
     "wof:placetype":"locality",

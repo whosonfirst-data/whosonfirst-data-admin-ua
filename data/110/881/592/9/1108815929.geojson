@@ -31,12 +31,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062f\u064a\u0627\u0646\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0580\u0564\u0575\u0561\u0576\u057d\u056f"
-    ],
-    "name:baq_x_preferred":[
-        "Berdiansk"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u044d\u0440\u0434\u0437\u044f\u043d\u0441\u043a"
     ],
@@ -49,17 +43,17 @@
     "name:cat_x_preferred":[
         "Berdiansk"
     ],
-    "name:chi_x_preferred":[
-        "\u5225\u723e\u6c5f\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ber\u010fansk"
     ],
     "name:dan_x_preferred":[
         "Berdjansk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Berdjansk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03c1\u03bd\u03c4\u03b9\u03b1\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Berdians'ka"
@@ -70,20 +64,17 @@
     "name:est_x_preferred":[
         "Berdjansk"
     ],
+    "name:eus_x_preferred":[
+        "Berdiansk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062f\u06cc\u0627\u0646\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Berdjansk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Berdiansk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e0\u10d3\u10d8\u10d0\u10dc\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Berdjansk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03c1\u03bd\u03c4\u03b9\u03b1\u03bd\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab0\u0acd\u0aa1\u0ac0\u0a85\u0aa8\u0acd\u0ab8\u0acd\u0a95"
@@ -97,6 +88,9 @@
     "name:hsb_x_preferred":[
         "Berdjansk"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0564\u0575\u0561\u0576\u057d\u056f"
+    ],
     "name:ind_x_preferred":[
         "Berdyansk"
     ],
@@ -108,6 +102,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0cb0\u0ccd\u0ca1\u0cbf\u0caf\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d3\u10d8\u10d0\u10dc\u10e1\u10d9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubca0\ub974\ub320\uc2a4\ud06c"
@@ -121,8 +118,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0930\u0921\u0940\u0928\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Berdiansk"
+    ],
+    "name:nld_x_preferred":[
+        "Berdjansk"
     ],
     "name:nno_x_preferred":[
         "Berdjansk"
@@ -130,20 +130,17 @@
     "name:nob_x_preferred":[
         "Berdjansk"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u062f\u06cc\u0627\u0646\u0633\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Berdia\u0144sk"
     ],
     "name:por_x_preferred":[
         "Berdyansk"
     ],
+    "name:ron_x_preferred":[
+        "Berdiansk"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0435\u0440\u0434\u044f\u043d\u044c\u0441\u043a"
-    ],
-    "name:rum_x_preferred":[
-        "Berdiansk"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0434\u044f\u043d\u0441\u043a"
@@ -154,7 +151,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dbb\u0dca\u0da9\u0dd2\u0dba\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ber\u010fansk"
     ],
     "name:slv_x_preferred":[
@@ -199,6 +196,9 @@
     "name:war_x_preferred":[
         "Berdiansk"
     ],
+    "name:zho_x_preferred":[
+        "\u5225\u723e\u6c5f\u65af\u514b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -235,7 +235,7 @@
         }
     ],
     "wof:id":1108815929,
-    "wof:lastmodified":1555092055,
+    "wof:lastmodified":1561776855,
     "wof:name":"Berdianska",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

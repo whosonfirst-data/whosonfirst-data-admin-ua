@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":737887.054426,
+    "geom:area_square_m":737887.054427,
     "geom:bbox":"23.7414081551,47.995304917,23.7569037443,48.0046731879",
     "geom:latitude":48.000222,
     "geom:longitude":23.74849,
@@ -19,13 +19,7 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0634\u0648\u0641\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0578\u0582\u0577\u0587\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u683c\u9b6f\u7d39\u6c83"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hruschowo"
     ],
     "name:eng_x_preferred":[
@@ -34,19 +28,22 @@
     "name:epo_x_preferred":[
         "Hru\u015dovo"
     ],
-    "name:ger_x_preferred":[
-        "Hruschowo"
-    ],
     "name:hun_x_preferred":[
         "Szentmih\u00e1lyk\u00f6rtv\u00e9lyes"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0578\u0582\u0577\u0587\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Hruschowo"
+    ],
+    "name:ron_x_preferred":[
         "Peri"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0443\u0448\u043e\u0432\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hru\u0161ovo"
     ],
     "name:ukr_x_preferred":[
@@ -57,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Grusheve"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u9b6f\u7d39\u6c83"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101783333,
-    "wof:lastmodified":1514510327,
+    "wof:lastmodified":1561776959,
     "wof:name":"\u0413\u0440\u0443\u0448\u043e\u0432\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

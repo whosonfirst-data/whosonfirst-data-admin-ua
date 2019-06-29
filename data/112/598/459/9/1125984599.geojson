@@ -19,20 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u057e\u0578\u057a\u057d\u056f\u0578\u057e"
-    ],
-    "name:chi_x_preferred":[
-        "\u65b0\u666e\u65af\u79d1\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Novopskov"
+    ],
+    "name:deu_x_preferred":[
+        "Nowopskow"
     ],
     "name:eng_x_preferred":[
         "Novopskov"
     ],
-    "name:ger_x_preferred":[
-        "Nowopskow"
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u057a\u057d\u056f\u0578\u057e"
     ],
     "name:lav_x_preferred":[
         "Novopskova"
@@ -40,7 +37,7 @@
     "name:pol_x_preferred":[
         "Nowopskow"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novopskov"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043f\u0441\u043a\u043e\u0432"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u666e\u65af\u79d1\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125984599,
-    "wof:lastmodified":1514509757,
+    "wof:lastmodified":1561777017,
     "wof:name":"Novopskov",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

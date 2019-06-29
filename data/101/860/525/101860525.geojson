@@ -20,10 +20,7 @@
     "name:bel_x_preferred":[
         "\u041a\u0443\u0442\u044b"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u5b63"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kuty"
     ],
     "name:eng_x_preferred":[
@@ -32,19 +29,19 @@
     "name:epo_x_preferred":[
         "Kuti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kouty"
-    ],
-    "name:ger_x_preferred":[
-        "Kuty"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d8\u05d9"
     ],
+    "name:nld_x_preferred":[
+        "Kuty"
+    ],
     "name:pol_x_preferred":[
         "Kuty"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cuturi"
     ],
     "name:rus_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Kutty"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5b63"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101860525,
-    "wof:lastmodified":1544745482,
+    "wof:lastmodified":1561776951,
     "wof:name":"\u041a\u0443\u0442\u0438",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

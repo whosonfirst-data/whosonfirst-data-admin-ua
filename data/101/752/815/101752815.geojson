@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004164,
-    "geom:area_square_m":33836401.008077,
+    "geom:area_square_m":33836401.008086,
     "geom:bbox":"24.677522,48.872002,24.7718935,48.949123",
     "geom:latitude":48.915709,
     "geom:longitude":24.716702,
@@ -24,17 +24,11 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0641\u0627\u0646\u0648-\u0641\u0631\u0627\u0646\u0643\u064a\u0641\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u057e\u0561\u0576\u0578-\u0556\u0580\u0561\u0576\u056f\u0578\u057e\u057d\u056f"
-    ],
     "name:aze_x_preferred":[
         "\u0130vano-Frankovsk"
     ],
     "name:bak_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
-    ],
-    "name:baq_x_preferred":[
-        "Ivano-Frankivsk"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0432\u0430\u043d\u0430-\u0424\u0440\u0430\u043d\u043a\u043e\u045e\u0441\u043a"
@@ -57,13 +51,10 @@
     "name:che_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u4e07\u8bfa-\u5f17\u5170\u79d1\u592b\u65af\u514b"
-    ],
     "name:crh_x_preferred":[
         "\u0130vano-Frankivsk"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ivano-Frankivsk"
     ],
     "name:dan_x_preferred":[
@@ -72,8 +63,8 @@
     "name:deu_x_preferred":[
         "Iwano-Frankiwsk"
     ],
-    "name:dut_x_preferred":[
-        "Ivano-Frankivsk"
+    "name:ell_x_preferred":[
+        "\u0399\u03b2\u03b1\u03bd\u03cc-\u03a6\u03c1\u03b1\u03bd\u03ba\u03af\u03b2\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Ivano-Frankivsk"
@@ -95,18 +86,6 @@
     ],
     "name:fra_x_preferred":[
         "Ivano-Frankivsk"
-    ],
-    "name:fre_x_preferred":[
-        "Ivano-Frankivsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d5\u10d0\u10dc\u10dd-\u10e4\u10e0\u10d0\u10dc\u10d9\u10dd\u10d5\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Iwano-Frankiwsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03b2\u03b1\u03bd\u03cc-\u03a6\u03c1\u03b1\u03bd\u03ba\u03af\u03b2\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab5\u0abe\u0aa8\u0acb-\u0aab\u0acd\u0ab0\u0ac7\u0aa8\u0acd\u0a95\u0ac0\u0ab8\u0acd\u0a95"
@@ -165,20 +144,20 @@
     "name:lit_x_preferred":[
         "Ivano Frankivskas"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0907\u0935\u093e\u0928\u094b-\u092b\u094d\u0930\u0901\u0915\u0940\u0938\u094d\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Ivano-Frankivsk"
     ],
     "name:mhr_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
     ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Ivano-Frankivsk"
     ],
     "name:nld_x_preferred":[
         "Ivano-Frankivsk"
@@ -191,9 +170,6 @@
     ],
     "name:nor_x_preferred":[
         "Ivano-Frankivsk"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0648\u0627\u0646\u0648-\u0641\u0631\u0627\u0646\u06a9\u06cc\u0641\u0633\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u0646\u0648 \u0641\u0631\u0627\u0646\u06a9\u06cc\u0648\u0633\u06a9"
@@ -218,9 +194,6 @@
     "name:rue_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u043a"
     ],
-    "name:rum_x_preferred":[
-        "Ivano-Frankivsk"
-    ],
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
     ],
@@ -234,9 +207,6 @@
         "\u0d89\u0dc0\u0dcf\u0db1\u0ddd \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca\u0dc0\u0dd2\u0dc3\u0dca\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Ivano-Frankivsk"
-    ],
-    "name:slo_x_preferred":[
         "Ivano-Frankivsk"
     ],
     "name:slv_x_preferred":[
@@ -288,9 +258,6 @@
         "Ivano-Frankivsk"
     ],
     "name:war_x_preferred":[
-        "Ivano-Frankivsk"
-    ],
-    "name:wel_x_preferred":[
         "Ivano-Frankivsk"
     ],
     "name:yid_x_historical":[
@@ -443,7 +410,7 @@
         }
     ],
     "wof:id":101752815,
-    "wof:lastmodified":1527641659,
+    "wof:lastmodified":1561776897,
     "wof:name":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730767,
     "wof:placetype":"locality",

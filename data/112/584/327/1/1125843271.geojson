@@ -19,32 +19,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u057e\u0578\u0578\u0582\u056f\u0580\u0561\u056b\u0576\u056f\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u65b0\u70cf\u514b\u862d\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Novoukrajinka"
+    ],
+    "name:deu_x_preferred":[
+        "Nowoukrajinka"
     ],
     "name:eng_x_preferred":[
         "Novoukrayinka"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u06a9\u0631\u0627\u0626\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Novooukra\u00efnka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10d5\u10dd\u10e3\u10d9\u10e0\u10d0\u10d8\u10dc\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nowoukrajinka"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d1\u05d5\u05d0\u05d5\u05e7\u05e8\u05d0\u05d9\u05e0\u05e7\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u0578\u0582\u056f\u0580\u0561\u056b\u0576\u056f\u0561"
+    ],
     "name:ita_x_preferred":[
         "Novoukra\u00efnka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd\u10e3\u10d9\u10e0\u10d0\u10d8\u10dc\u10d9\u10d0"
     ],
     "name:lez_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0443\u043a\u0440\u0430\u0438\u043d\u043a\u0430"
@@ -52,13 +52,10 @@
     "name:nno_x_preferred":[
         "Novoukrajinka"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0648\u06a9\u0631\u0627\u0626\u06cc\u0646\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Nowoukrainka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novoukrainka"
     ],
     "name:rus_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "Novoukrainka"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u70cf\u514b\u862d\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1125843271,
-    "wof:lastmodified":1514509757,
+    "wof:lastmodified":1561777024,
     "wof:name":"Novoukrainsk",
     "wof:parent_id":102088319,
     "wof:placetype":"locality",

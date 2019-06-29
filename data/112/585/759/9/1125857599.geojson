@@ -19,41 +19,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0575\u0578\u0582\u056f\u0578\u057e\u056f\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7559\u79d1\u592b\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Korjukivka"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Koriukivka"
+    ],
+    "name:deu_x_preferred":[
+        "Korjukiwka"
     ],
     "name:eng_x_preferred":[
         "Koryukivka"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06cc\u0648\u06a9\u06cc\u0641\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Korjukivka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Korioukivka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d8\u10e3\u10d9\u10dd\u10d5\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Korjukiwka"
     ],
     "name:hsb_x_preferred":[
         "Korjukiwka"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u0575\u0578\u0582\u056f\u0578\u057e\u056f\u0561"
+    ],
     "name:ita_x_preferred":[
         "Korjukivka"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d8\u10e3\u10d9\u10dd\u10d5\u10d9\u10d0"
+    ],
     "name:lav_x_preferred":[
         "Korjukivka"
+    ],
+    "name:nld_x_preferred":[
+        "Koriukivka"
     ],
     "name:nno_x_preferred":[
         "Korjukivka"
@@ -61,13 +64,10 @@
     "name:nob_x_preferred":[
         "Korjukivka"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u06cc\u0648\u06a9\u06cc\u0641\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Koriukiwka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Koriukivka"
     ],
     "name:rus_x_preferred":[
@@ -91,8 +91,8 @@
     "name:vie_x_preferred":[
         "Koriukivka"
     ],
-    "name:wel_x_preferred":[
-        "Koriukivka"
+    "name:zho_x_preferred":[
+        "\u79d1\u7559\u79d1\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1125857599,
-    "wof:lastmodified":1514509653,
+    "wof:lastmodified":1561777023,
     "wof:name":"Koryukivka",
     "wof:parent_id":102089015,
     "wof:placetype":"locality",

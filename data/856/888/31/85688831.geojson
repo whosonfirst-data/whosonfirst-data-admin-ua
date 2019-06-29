@@ -31,17 +31,11 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u0644\u0646\u064a\u062a\u0633\u0643\u064a \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0574\u0565\u056c\u0576\u056b\u0581\u056f\u056b\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "Xmelnitski vilay\u0259ti"
     ],
     "name:bak_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439 \u04e9\u043b\u043a\u04d9\u04bb\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "Khmelnytskyko oblasta"
     ],
     "name:bel_x_preferred":[
         "\u0425\u043c\u044f\u043b\u044c\u043d\u0456\u0446\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -61,14 +55,8 @@
     "name:ces_x_preferred":[
         "Chmelnyck\u00e1 oblast"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u6885\u5229\u5c3c\u8328\u57fa\u5dde"
-    ],
     "name:crh_x_preferred":[
         "Hmeln\u0131tsk\u0131y vil\u00e2yeti"
-    ],
-    "name:cze_x_preferred":[
-        "Chmelnyck\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Khmelnytskyj oblast"
@@ -76,8 +64,8 @@
     "name:deu_x_preferred":[
         "Oblast Chmelnyzkyj"
     ],
-    "name:dut_x_preferred":[
-        "Oblast Chmelnytsky"
+    "name:ell_x_preferred":[
+        "\u039a\u03c7\u03bc\u03b5\u03bb\u03bd\u03af\u03c4\u03c3\u03ba\u03b9 \u039f\u03bc\u03c0\u03bb\u03ac\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Khmelnytskyi"
@@ -105,20 +93,11 @@
     "name:fra_x_preferred":[
         "Oblast de Khmelnitski"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "oblast de Khmelnitski"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10db\u10d4\u10da\u10dc\u10d8\u10ea\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Chmelnyzkyj"
     ],
     "name:glv_x_preferred":[
         "Queiggey Khmelnytskyi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c7\u03bc\u03b5\u03bb\u03bd\u03af\u03c4\u03c3\u03ba\u03b9 \u039f\u03bc\u03c0\u03bb\u03ac\u03c3\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0acd\u0aae\u0ac7\u0ab2\u0abf\u0aa8\u0acd\u0aa4\u0acd\u0ab8\u0acd\u0a95 \u0a93\u0aac\u0acd\u0ab2\u0abe\u0ab8\u0acd\u0a9f"
@@ -143,6 +122,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0574\u0565\u056c\u0576\u056b\u0581\u056f\u0578\u0582 \u0574\u0561\u0580\u0566"
+    ],
+    "name:hye_x_variant":[
+        "\u053d\u0574\u0565\u056c\u0576\u056b\u0581\u056f\u056b\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Oblast Khmelnytskyi"
@@ -174,20 +156,20 @@
     "name:lrc_x_preferred":[
         "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043c\u0435\u043b\u043d\u0438\u0446\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0916\u094d\u092e\u0947\u0932\u094d\u0928\u093f\u0924\u094d\u0938\u094d\u0915\u0940 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Khmelnytsky Oblast"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u043c\u0435\u043b\u043d\u0438\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:mkd_x_variant":[
+        "\u0425\u043c\u0435\u043b\u043d\u0438\u0446\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439 \u043c\u0443\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Khmelnytsky Oblast"
     ],
     "name:myv_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u043e\u0435\u043d\u044c \u0451\u043d\u043a\u0441"
@@ -198,6 +180,9 @@
     "name:nld_x_preferred":[
         "Oblast Chmelnitski"
     ],
+    "name:nld_x_variant":[
+        "Oblast Chmelnytsky"
+    ],
     "name:nno_x_preferred":[
         "Khmelnytskyj oblast"
     ],
@@ -206,9 +191,6 @@
     ],
     "name:nor_x_preferred":[
         "Khmelnytskyj oblast"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u062e\u0645\u06cc\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc \u0627\u0648\u0628\u0644\u0627\u0633\u062a"
@@ -225,9 +207,6 @@
     "name:rue_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:rum_x_preferred":[
-        "Regiunea Hmeln\u00ee\u021bk\u00eei"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -241,9 +220,6 @@
         "\u0d9a\u0dca\u0db8\u0dd9\u0dbd\u0dca\u0db1\u0dd2\u0da7\u0dca\u0dc3\u0dca\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Chme\u013enyck\u00e1 oblas\u0165"
-    ],
-    "name:slo_x_preferred":[
         "Chme\u013enyck\u00e1 oblas\u0165"
     ],
     "name:spa_x_preferred":[
@@ -423,7 +399,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1553551125,
+    "wof:lastmodified":1561776761,
     "wof:name":"Khmelnytskyi",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

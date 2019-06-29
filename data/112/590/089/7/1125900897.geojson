@@ -25,17 +25,11 @@
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u0633\u0648\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0565\u0580\u057d\u0578\u0576"
-    ],
     "name:aze_x_preferred":[
         "Herson"
     ],
     "name:bak_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Kherson"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0435\u0440\u0441\u043e\u043d"
@@ -58,22 +52,13 @@
     "name:che_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u5c14\u677e"
-    ],
     "name:crh_x_preferred":[
         "Herson"
-    ],
-    "name:cze_x_preferred":[
-        "Cherson"
     ],
     "name:dan_x_preferred":[
         "Kherson"
     ],
     "name:deu_x_preferred":[
-        "Cherson"
-    ],
-    "name:dut_x_preferred":[
         "Cherson"
     ],
     "name:ell_x_preferred":[
@@ -88,6 +73,9 @@
     "name:est_x_preferred":[
         "Herson"
     ],
+    "name:eus_x_preferred":[
+        "Kherson"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0631\u0633\u0648\u0646"
     ],
@@ -99,18 +87,6 @@
     ],
     "name:fra_x_preferred":[
         "Kherson"
-    ],
-    "name:fre_x_preferred":[
-        "Kherson"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d4\u10e0\u10e1\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cherson"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b5\u03c1\u03c3\u03ce\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac7\u0ab0\u0acd\u0ab8\u0aa8"
@@ -169,14 +145,14 @@
     "name:mar_x_preferred":[
         "\u0916\u0947\u0930\u094d\u0938\u0928"
     ],
-    "name:may_x_preferred":[
-        "Kherson"
-    ],
     "name:mhr_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Kherson"
     ],
     "name:nld_x_preferred":[
         "Cherson"
@@ -189,9 +165,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0631\u0633\u0648\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u062e\u06cc\u0631\u0633\u0648\u0646"
@@ -211,9 +184,6 @@
     "name:rue_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
-    "name:rum_x_preferred":[
-        "Herson"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
@@ -226,7 +196,7 @@
     "name:sin_x_preferred":[
         "\u0d9b\u0dda\u0dbb\u0dca\u0dc3\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cherson"
     ],
     "name:slv_x_preferred":[
@@ -319,7 +289,7 @@
         }
     ],
     "wof:id":1125900897,
-    "wof:lastmodified":1514509470,
+    "wof:lastmodified":1561777014,
     "wof:name":"Kherson",
     "wof:parent_id":1108730653,
     "wof:placetype":"locality",

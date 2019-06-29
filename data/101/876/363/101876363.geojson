@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1933879.373307,
+    "geom:area_square_m":1933879.373306,
     "geom:bbox":"24.2539791555,48.1140372156,24.2722911135,48.1323186008",
     "geom:latitude":48.122532,
     "geom:longitude":24.26251,
@@ -16,15 +16,6 @@
     "mps:longitude":24.262336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u056b\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u6797"
-    ],
-    "name:dut_x_preferred":[
-        "Bilin"
-    ],
     "name:eng_x_preferred":[
         "Bilin"
     ],
@@ -34,7 +25,13 @@
     "name:hun_x_preferred":[
         "Bilin"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u056b\u0576"
+    ],
+    "name:nld_x_preferred":[
+        "Bilin"
+    ],
+    "name:ron_x_preferred":[
         "B\u0103lini"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "B\u2019yelin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u6797"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101876363,
-    "wof:lastmodified":1514510249,
+    "wof:lastmodified":1561776964,
     "wof:name":"\u0411\u0456\u043b\u0438\u043d",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

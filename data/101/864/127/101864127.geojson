@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0648\u062f\u064a\u0645\u064a\u0631-\u0641\u0648\u0644\u064a\u0646\u0633\u0643\u064a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056c\u0561\u0564\u056b\u0574\u056b\u0580-\u054e\u0578\u056c\u056b\u0576\u057d\u056f\u056b"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u043b\u0430\u0434\u0437\u0456\u043c\u0456\u0440-\u0412\u0430\u043b\u044b\u043d\u0441\u043a\u0456"
     ],
@@ -36,26 +33,17 @@
     "name:ces_x_preferred":[
         "Volodymyr-Volynskyj"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u62c9\u57fa\u7c73\u5c14-\u6c83\u4f26\u65af\u57fa"
-    ],
     "name:chv_x_preferred":[
         "\u0423\u043b\u0430\u0442\u0438\u043c\u0115\u0440 \u0412\u043e\u043b\u044b\u043d\u0115"
     ],
     "name:crh_x_preferred":[
         "Volod\u0131m\u0131r-Vol\u0131nsk\u0131y"
     ],
-    "name:cze_x_preferred":[
-        "Volodymyr-Volynskyj"
-    ],
     "name:dan_x_preferred":[
         "Volodimir-Volinskij"
     ],
     "name:deu_x_preferred":[
         "Wolodymyr-Wolynskyj"
-    ],
-    "name:dut_x_preferred":[
-        "Volodymyr-Volynskyi"
     ],
     "name:eng_x_preferred":[
         "Volodymyr-Volynskyi"
@@ -68,15 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Volodymyr-Volynsky\u00ef"
-    ],
-    "name:fre_x_preferred":[
-        "Volodymyr-Volynsky\u00ef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10da\u10d0\u10d3\u10d8\u10db\u10d8\u10e0-\u10d5\u10dd\u10da\u10d8\u10dc\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Wolodymyr-Wolynskyj"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d3\u05de\u05d9\u05e8"
@@ -108,6 +87,9 @@
     "name:lit_x_preferred":[
         "Voluin\u0117s Vladimiras"
     ],
+    "name:nld_x_preferred":[
+        "Volodymyr-Volynskyi"
+    ],
     "name:nno_x_preferred":[
         "Volodymyr-Volynskyj"
     ],
@@ -116,9 +98,6 @@
     ],
     "name:nor_x_preferred":[
         "Volodymyr-Volynskyj"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0644\u0648\u062f\u06cc\u0645\u06cc\u0631-\u0648\u0648\u0644\u06cc\u0646\u0633\u06a9\u06cc\u06cc"
     ],
     "name:pol_x_preferred":[
         "W\u0142odzimierz Wo\u0142y\u0144ski"
@@ -129,11 +108,11 @@
     "name:ron_x_preferred":[
         "Volod\u00eem\u00eer-Vol\u00eensk\u00eei"
     ],
+    "name:ron_x_variant":[
+        "Volodimir-Volinski"
+    ],
     "name:rue_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440-\u0412\u043e\u043b\u0438\u043d\u044c\u0441\u043a\u044b\u0439"
-    ],
-    "name:rum_x_preferred":[
-        "Volodimir-Volinski"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440-\u0412\u043e\u043b\u044b\u043d\u0441\u043a\u0438\u0439"
@@ -218,7 +197,7 @@
         }
     ],
     "wof:id":101864127,
-    "wof:lastmodified":1544747365,
+    "wof:lastmodified":1561776993,
     "wof:name":"\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440-\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108815911,
     "wof:placetype":"locality",

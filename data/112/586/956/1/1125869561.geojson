@@ -22,32 +22,32 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0627\u062e\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u0580\u0561\u056d\u0578\u057e\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u5eab\u62c9\u970d\u97cb"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kurachove"
+    ],
+    "name:deu_x_preferred":[
+        "Kurachowe"
     ],
     "name:eng_x_preferred":[
         "Kurakhovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0627\u062e\u0648\u0641\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Kourakhove"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e0\u10d0\u10ee\u10dd\u10d5\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Kurachowe"
     ],
     "name:hsb_x_preferred":[
         "Kurachowe"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u0561\u056d\u0578\u057e\u0578"
+    ],
     "name:ita_x_preferred":[
         "Kurachove"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10d0\u10ee\u10dd\u10d5\u10dd"
     ],
     "name:lav_x_preferred":[
         "Kurahove"
@@ -58,13 +58,10 @@
     "name:nob_x_preferred":[
         "Kurakhove"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0627\u062e\u0648\u0641\u0647"
-    ],
     "name:pol_x_preferred":[
         "Kurachowo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kurahove"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "Kurakhove"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u62c9\u970d\u97cb"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1125869561,
-    "wof:lastmodified":1530298015,
+    "wof:lastmodified":1561777010,
     "wof:name":"Kurakhovo",
     "wof:parent_id":85688779,
     "wof:placetype":"locality",

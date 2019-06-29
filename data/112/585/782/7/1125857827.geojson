@@ -19,20 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u5207\u723e\u5c3c\u4e9e\u5e0c\u592b"
-    ],
     "name:chu_x_preferred":[
         "\u0427\u0440\u044c\u043d\ua657\u0445\u043e\u0432\u044a \u00b7 \u0416\u0438\u0442\u043e\u043c\u0438\u0440\u044c\u0441\u043a\ua651 \u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Tschernjachiw"
     ],
     "name:eng_x_preferred":[
         "Cherniakhiv"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tcherniakhiv"
-    ],
-    "name:ger_x_preferred":[
-        "Tschernjachiw"
     ],
     "name:hun_x_preferred":[
         "Csernyahiv"
@@ -40,7 +37,7 @@
     "name:pol_x_preferred":[
         "Czerniach\u00f3w"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cerneahiv"
     ],
     "name:rus_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Chernyakhov"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u723e\u5c3c\u4e9e\u5e0c\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125857827,
-    "wof:lastmodified":1514509193,
+    "wof:lastmodified":1561777022,
     "wof:name":"Chernyakhiv",
     "wof:parent_id":102088709,
     "wof:placetype":"locality",

@@ -17,20 +17,17 @@
     "mps:longitude":37.109465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0580\u0566\u0578\u0582\u0586"
-    ],
-    "name:chi_x_preferred":[
-        "\u70cf\u723e\u7956\u592b"
+    "name:deu_x_preferred":[
+        "Ursuf"
     ],
     "name:eng_x_preferred":[
         "Urzuf"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ourzouf"
     ],
-    "name:ger_x_preferred":[
-        "Ursuf"
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u0566\u0578\u0582\u0586"
     ],
     "name:lav_x_preferred":[
         "Urzufa"
@@ -43,6 +40,9 @@
     ],
     "name:unk_x_variant":[
         "Primorskoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u723e\u7956\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101866991,
-    "wof:lastmodified":1553815557,
+    "wof:lastmodified":1561776914,
     "wof:name":"\u0423\u0440\u0437\u0443\u0444",
     "wof:parent_id":102088329,
     "wof:placetype":"locality",
