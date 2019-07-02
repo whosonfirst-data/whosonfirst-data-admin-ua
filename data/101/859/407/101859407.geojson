@@ -16,28 +16,25 @@
     "mps:longitude":22.942773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0564\u0561\u0576\u0578\u057e\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u9054\u8afe\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "\u00c1rd\u00e1nh\u00e1za"
-    ],
     "name:eng_x_preferred":[
         "Ardanovo"
     ],
     "name:epo_x_preferred":[
         "Ardanovo"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d3\u10d0\u10dc\u10dd\u10d5\u10dd"
-    ],
     "name:hun_x_preferred":[
         "\u00c1rd\u00e1nh\u00e1za"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0564\u0561\u0576\u0578\u057e\u0578"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d3\u10d0\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c1rd\u00e1nh\u00e1za"
+    ],
+    "name:ron_x_preferred":[
         "Ardanovo"
     ],
     "name:rus_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Ardanove"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u9054\u8afe\u6c83"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101859407,
-    "wof:lastmodified":1553815552,
+    "wof:lastmodified":1561776908,
     "wof:name":"\u0410\u0440\u0434\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

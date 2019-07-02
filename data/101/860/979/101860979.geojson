@@ -16,22 +16,19 @@
     "mps:longitude":28.171641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0562\u0579\u056b\u0576\u0581\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5e03\u6b3d\u9f4a"
-    ],
     "name:eng_x_preferred":[
         "Babchintsi"
     ],
     "name:est_x_preferred":[
         "Babt\u0161\u00f5ntsi"
     ],
-    "name:geo_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562\u0579\u056b\u0576\u0581\u056b"
+    ],
+    "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d1\u10e9\u10d8\u10dc\u10ea\u10d8"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Babci\u00een\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Bobchintsy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5e03\u6b3d\u9f4a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101860979,
-    "wof:lastmodified":1553815553,
+    "wof:lastmodified":1561776948,
     "wof:name":"\u0411\u0430\u0431\u0447\u0438\u043d\u0446\u0456",
     "wof:parent_id":1108815609,
     "wof:placetype":"locality",

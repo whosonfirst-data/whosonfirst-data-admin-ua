@@ -19,23 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054f\u0575\u0561\u0579\u0587"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u044f\u0447\u044b\u045e"
     ],
     "name:bul_x_preferred":[
         "\u0422\u044f\u0447\u0435\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u4f73\u5207\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0164a\u010div"
     ],
-    "name:dut_x_preferred":[
-        "Tjatsjiv"
+    "name:deu_x_preferred":[
+        "Tjatschiw"
     ],
     "name:eng_x_preferred":[
         "Tiachiv"
@@ -43,14 +37,11 @@
     "name:epo_x_preferred":[
         "Ta\u0109iv"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0627\u0686\u06cc\u0641"
+    ],
+    "name:fra_x_preferred":[
         "Tiatchiv"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10d0\u10e9\u10d4\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tjatschiw"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05d0\u05e6'\u05d9\u05d1"
@@ -61,8 +52,14 @@
     "name:hun_x_preferred":[
         "T\u00e9cs\u0151"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0575\u0561\u0579\u0587"
+    ],
     "name:ita_x_preferred":[
         "Tja\u010div"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10d0\u10e9\u10d4\u10d5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud0f8\uce58\uc6b0"
@@ -70,22 +67,22 @@
     "name:lav_x_preferred":[
         "Tja\u010diva"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Tjatsjiv"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0627\u0686\u06cc\u0641"
+    "name:nno_x_preferred":[
+        "Tjatsjiv"
     ],
     "name:pol_x_preferred":[
         "Tiacziw"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Teceu Mare"
     ],
     "name:rus_x_preferred":[
         "\u0422\u044f\u0447\u0456\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0164a\u010dov"
     ],
     "name:tat_x_preferred":[
@@ -102,6 +99,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05e2\u05d8\u05e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f73\u5207\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1126002923,
-    "wof:lastmodified":1514509964,
+    "wof:lastmodified":1561777018,
     "wof:name":"Tyachev",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004949,
-    "geom:area_square_m":40759781.324507,
+    "geom:area_square_m":40759781.324518,
     "geom:bbox":"38.155275,48.187039,38.258231,48.27547",
     "geom:latitude":48.231814,
     "geom:longitude":38.21066,
@@ -17,9 +17,6 @@
     "mps:longitude":38.20288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0535\u0576\u0561\u056f\u056b\u0587\u0578"
-    ],
     "name:bel_x_preferred":[
         "\u042f\u043d\u0430\u043a\u0456\u0435\u0432\u0430"
     ],
@@ -35,14 +32,8 @@
     "name:ces_x_preferred":[
         "Jenakijeve"
     ],
-    "name:chi_x_preferred":[
-        "\u53f6\u7eb3\u57fa\u8036\u6c83"
-    ],
     "name:crh_x_preferred":[
         "Yenakiyeve"
-    ],
-    "name:cze_x_preferred":[
-        "Jenakijeve"
     ],
     "name:dan_x_preferred":[
         "Jenakijeve"
@@ -50,8 +41,8 @@
     "name:deu_x_preferred":[
         "Jenakijewe"
     ],
-    "name:dut_x_preferred":[
-        "Jenakijeve"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b5\u03bd\u03b1\u03ba\u03af\u03b5\u03b2\u03b5"
     ],
     "name:eng_x_preferred":[
         "Yenakiyeve"
@@ -73,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Ienakiieve"
-    ],
-    "name:fre_x_preferred":[
-        "Ienakiieve"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10d0\u10d9\u10d8\u10d4\u10d5\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Jenakijewe"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b5\u03bd\u03b1\u03ba\u03af\u03b5\u03b2\u03b5"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05e0\u05e7\u05d9\u05d9\u05d1\u05d5"
@@ -128,9 +107,6 @@
     "name:nor_x_preferred":[
         "Jenakijeve"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0646\u0627\u06a9\u06cc\u06cc\u0641"
-    ],
     "name:pol_x_preferred":[
         "Jenakijewe"
     ],
@@ -140,11 +116,11 @@
     "name:ron_x_preferred":[
         "Ienakieve"
     ],
+    "name:ron_x_variant":[
+        "Ienakiieve"
+    ],
     "name:rue_x_preferred":[
         "\u0404\u043d\u0430\u043a\u0456\u0454\u0432\u0435"
-    ],
-    "name:rum_x_preferred":[
-        "Ienakiieve"
     ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0430\u043a\u0438\u0435\u0432\u043e"
@@ -254,7 +230,7 @@
         }
     ],
     "wof:id":101752885,
-    "wof:lastmodified":1530297963,
+    "wof:lastmodified":1561776897,
     "wof:name":"\u0404\u043d\u0430\u043a\u0456\u0454\u0432\u0435",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -22,26 +22,23 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0632\u064a\u0631\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u0578\u0566\u0575\u0578\u0580\u056f\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u043e\u0437\u0435\u0440\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u6d1b\u6fa4\u723e\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bilozerka"
+    ],
+    "name:deu_x_preferred":[
+        "Biloserka"
     ],
     "name:eng_x_preferred":[
         "Bilozerka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bilozerka"
     ],
-    "name:ger_x_preferred":[
-        "Biloserka"
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u0578\u0566\u0575\u0578\u0580\u056f\u0561"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30ed\u30bc\u30fc\u30eb\u30ab"
@@ -52,7 +49,7 @@
     "name:pol_x_preferred":[
         "Bi\u0142ozerka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bilozerka"
     ],
     "name:rus_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Beloz\u00ebrka"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u6d1b\u6fa4\u723e\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125866571,
-    "wof:lastmodified":1514509038,
+    "wof:lastmodified":1561777009,
     "wof:name":"Belozerka",
     "wof:parent_id":102088019,
     "wof:placetype":"locality",

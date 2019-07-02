@@ -16,12 +16,6 @@
     "mps:longitude":28.617604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0574\u0561\u0580\u0563\u0578\u0580\u0578\u0564"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u99ac\u723e\u6208\u7f85\u5fb7"
-    ],
     "name:eng_x_preferred":[
         "Komarhorod"
     ],
@@ -31,7 +25,10 @@
     "name:hun_x_preferred":[
         "Komarhorod"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0574\u0561\u0580\u0563\u0578\u0580\u0578\u0564"
+    ],
+    "name:ron_x_preferred":[
         "Komarhorod"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Komargorod"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u99ac\u723e\u6208\u7f85\u5fb7"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101867329,
-    "wof:lastmodified":1544749116,
+    "wof:lastmodified":1561776958,
     "wof:name":"\u041a\u043e\u043c\u0430\u0440\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":102088209,
     "wof:placetype":"locality",

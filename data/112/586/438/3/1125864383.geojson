@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u064a\u062a\u0648\u0628\u0648\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u056c\u056b\u057f\u0578\u057a\u0578\u056c"
-    ],
     "name:aze_x_preferred":[
         "Melitopol"
     ],
@@ -46,20 +43,14 @@
     "name:che_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u5229\u6258\u6ce2\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Melitopol"
-    ],
     "name:dan_x_preferred":[
         "Melitopol"
     ],
     "name:deu_x_preferred":[
         "Melitopol"
     ],
-    "name:dut_x_preferred":[
-        "Melitopol"
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b9\u03c4\u03bf\u03c0\u03cc\u03bb\u03b7"
     ],
     "name:eng_x_preferred":[
         "Melitopol"
@@ -70,20 +61,14 @@
     "name:est_x_preferred":[
         "Melitopol"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06cc\u062a\u0648\u067e\u0648\u0644"
+    ],
     "name:fin_x_preferred":[
         "Melitopol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Melitopol"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10da\u10d8\u10e2\u10dd\u10de\u10dd\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Melitopol"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03bb\u03b9\u03c4\u03bf\u03c0\u03cc\u03bb\u03b7"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab2\u0abf\u0a9f\u0acb\u0aaa\u0acb\u0ab2"
@@ -100,6 +85,9 @@
     "name:hun_x_preferred":[
         "Melitopol"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056c\u056b\u057f\u0578\u057a\u0578\u056c"
+    ],
     "name:ind_x_preferred":[
         "Melitopol"
     ],
@@ -111,6 +99,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cc6\u0cb2\u0cbf\u0c9f\u0ccb\u0caa\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10da\u10d8\u10e2\u10dd\u10de\u10dd\u10da\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uba5c\ub9ac\ud1a0\ud3f4"
@@ -124,11 +115,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0932\u093f\u091f\u094b\u092a\u094b\u0932"
     ],
-    "name:may_x_preferred":[
-        "Melitopol"
-    ],
     "name:mhr_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:msa_x_preferred":[
+        "Melitopol"
+    ],
+    "name:nld_x_preferred":[
+        "Melitopol"
     ],
     "name:nno_x_preferred":[
         "Melitopol"
@@ -142,20 +136,17 @@
     "name:oss_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0644\u06cc\u062a\u0648\u067e\u0648\u0644"
-    ],
     "name:pol_x_preferred":[
         "Melitopol"
     ],
     "name:por_x_preferred":[
         "Melit\u00f3pol"
     ],
+    "name:ron_x_preferred":[
+        "Melitopol"
+    ],
     "name:rue_x_preferred":[
         "\u041c\u0435\u043b\u0456\u0442\u043e\u043f\u043e\u043b\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Melitopol"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0442\u043e\u043f\u043e\u043b\u044c"
@@ -169,7 +160,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0dbd\u0dd2\u0da7\u0ddd\u0db4\u0ddc\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Melitopo\u013e"
     ],
     "name:spa_x_preferred":[
@@ -214,6 +205,9 @@
     "name:war_x_preferred":[
         "Melitopol"
     ],
+    "name:zho_x_preferred":[
+        "\u6885\u5229\u6258\u6ce2\u723e"
+    ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
     "qs_pg:gn_fcode":"PPL",
@@ -253,7 +247,7 @@
         }
     ],
     "wof:id":1125864383,
-    "wof:lastmodified":1553816582,
+    "wof:lastmodified":1561777009,
     "wof:name":"Melitopol\u2019",
     "wof:parent_id":1108815927,
     "wof:placetype":"locality",

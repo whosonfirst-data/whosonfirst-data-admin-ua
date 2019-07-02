@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005085,
-    "geom:area_square_m":39892133.290288,
+    "geom:area_square_m":39892133.290287,
     "geom:bbox":"26.162346,50.572028,26.307707,50.6529345",
     "geom:latitude":50.616817,
     "geom:longitude":26.245692,
@@ -21,17 +21,11 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u0646\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u057e\u0576\u0578"
-    ],
     "name:aze_x_preferred":[
         "Rivne"
     ],
     "name:bak_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
-    ],
-    "name:baq_x_preferred":[
-        "Rivne"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u045e\u043d\u0430"
@@ -45,14 +39,11 @@
     "name:cat_x_preferred":[
         "Rivne"
     ],
+    "name:ces_x_preferred":[
+        "Rovno"
+    ],
     "name:che_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u7f85\u592b\u8afe"
-    ],
-    "name:cze_x_preferred":[
-        "Rovno"
     ],
     "name:dan_x_preferred":[
         "Rivne"
@@ -63,8 +54,8 @@
     "name:dsb_x_preferred":[
         "Riwne"
     ],
-    "name:dut_x_preferred":[
-        "Rivne"
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03b2\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Rivne"
@@ -75,23 +66,17 @@
     "name:est_x_preferred":[
         "Rivne"
     ],
+    "name:eus_x_preferred":[
+        "Rivne"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0648\u0646\u0647"
     ],
     "name:fin_x_preferred":[
         "Rivne"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rivne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10d5\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Riwne"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03af\u03b2\u03bd\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0acd\u0aa8\u0ac7"
@@ -144,9 +129,6 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0935\u094d\u0928\u0947"
     ],
-    "name:may_x_preferred":[
-        "Rivne"
-    ],
     "name:mhr_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
     ],
@@ -155,6 +137,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Rivne"
     ],
     "name:nld_x_preferred":[
         "Rivne"
@@ -168,9 +153,6 @@
     "name:nor_x_preferred":[
         "Rivne"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0648\u0646\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0648\u0646"
     ],
@@ -180,11 +162,11 @@
     "name:por_x_preferred":[
         "Rivne"
     ],
+    "name:ron_x_preferred":[
+        "Rivne"
+    ],
     "name:rue_x_preferred":[
         "\u0420\u0456\u0432\u043d\u0435"
-    ],
-    "name:rum_x_preferred":[
-        "Rivne"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
@@ -388,7 +370,7 @@
         }
     ],
     "wof:id":101752907,
-    "wof:lastmodified":1527641645,
+    "wof:lastmodified":1561776893,
     "wof:name":"\u0420\u0456\u0432\u043d\u0435",
     "wof:parent_id":1108815835,
     "wof:placetype":"locality",

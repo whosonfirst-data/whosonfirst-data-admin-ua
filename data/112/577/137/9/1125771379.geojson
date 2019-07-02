@@ -19,35 +19,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0578\u0582\u0562\u0578\u057f\u056b\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u67f3\u535a\u4eac"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ljubotyn"
     ],
-    "name:dut_x_preferred":[
-        "Liubotyn"
+    "name:deu_x_preferred":[
+        "Ljubotyn"
     ],
     "name:eng_x_preferred":[
         "Lyubotyn"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Lioubotyn"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10e3\u10d1\u10dd\u10e2\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ljubotyn"
     ],
     "name:hsb_x_preferred":[
         "Ljubotyn"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0578\u0582\u0562\u0578\u057f\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
         "Ljubotyn"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10e3\u10d1\u10dd\u10e2\u10d8\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "\u013bubotina"
@@ -55,16 +52,16 @@
     "name:lit_x_preferred":[
         "Liubotynas"
     ],
+    "name:nld_x_preferred":[
+        "Liubotyn"
+    ],
     "name:nno_x_preferred":[
         "Ljubotyn"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Lubotyn"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Liubot\u00een"
     ],
     "name:rus_x_preferred":[
@@ -87,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Liubotyn"
+    ],
+    "name:zho_x_preferred":[
+        "\u67f3\u535a\u4eac"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1125771379,
-    "wof:lastmodified":1514509723,
+    "wof:lastmodified":1561777027,
     "wof:name":"Lyubotin",
     "wof:parent_id":1108730657,
     "wof:placetype":"locality",

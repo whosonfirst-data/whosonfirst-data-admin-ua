@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006268,
-    "geom:area_square_m":50417199.8172,
+    "geom:area_square_m":50417199.817186,
     "geom:bbox":"26.910614,49.377108,27.080773,49.457543",
     "geom:latitude":49.417439,
     "geom:longitude":26.99321,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u0644\u0646\u064a\u062a\u0633\u0643\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0574\u0565\u056c\u0576\u056b\u0581\u056f\u056b"
-    ],
     "name:azb_x_preferred":[
         "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
-    ],
-    "name:baq_x_preferred":[
-        "Khmelnytsky"
     ],
     "name:bel_x_preferred":[
         "\u0425\u043c\u044f\u043b\u044c\u043d\u0456\u0446\u043a\u0456"
@@ -51,14 +45,11 @@
     "name:cat_x_preferred":[
         "Khmelnitski"
     ],
+    "name:ces_x_preferred":[
+        "Chmelnyckyj"
+    ],
     "name:che_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u6885\u5229\u5c3c\u8328\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Chmelnyckyj"
     ],
     "name:dan_x_preferred":[
         "Khmelnytskyj"
@@ -66,8 +57,8 @@
     "name:deu_x_preferred":[
         "Chmelnyzkyj"
     ],
-    "name:dut_x_preferred":[
-        "Chmelnytsky"
+    "name:ell_x_preferred":[
+        "\u03a7\u03bc\u03b5\u03bb\u03bd\u03af\u03c4\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Khmelnytskyi"
@@ -78,20 +69,17 @@
     "name:est_x_preferred":[
         "Hmeln\u00f5tsk\u00f5i"
     ],
+    "name:eus_x_preferred":[
+        "Khmelnytsky"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Hmelnytskyi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khmelnytsky\u00ef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10db\u10d4\u10da\u10dc\u10d8\u10ea\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chmelnyzkyj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bc\u03b5\u03bb\u03bd\u03af\u03c4\u03c3\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0aae\u0ac7\u0ab2\u0acd\u0aa8\u0ac0\u0aa4\u0acd\u0ab8\u0a95\u0ac0"
@@ -111,6 +99,9 @@
     "name:hun_x_preferred":[
         "Hmelnickij"
     ],
+    "name:hye_x_preferred":[
+        "\u053d\u0574\u0565\u056c\u0576\u056b\u0581\u056f\u056b"
+    ],
     "name:ind_x_preferred":[
         "Khmelnytskyi"
     ],
@@ -122,6 +113,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c96\u0ccd\u0cae\u0cc6\u0cb2\u0ccd\u0ca8\u0cbf\u0c9f\u0ccd\u0cb8\u0ccd\u0c95\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10db\u10d4\u10da\u10dc\u10d8\u10ea\u10d9\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
@@ -141,14 +135,17 @@
     "name:mar_x_preferred":[
         "\u0916\u092e\u0947\u0932\u093f\u090f\u0938\u094d\u0924\u0938\u094d\u0915\u0940"
     ],
-    "name:may_x_preferred":[
-        "Khmelnytskyi"
-    ],
     "name:mhr_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
     ],
     "name:mon_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Khmelnytskyi"
+    ],
+    "name:nld_x_preferred":[
+        "Chmelnytsky"
     ],
     "name:nno_x_preferred":[
         "Khmelnytskyj"
@@ -156,20 +153,17 @@
     "name:nob_x_preferred":[
         "Khmelnytskyj"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Chmielnicki"
     ],
     "name:por_x_preferred":[
         "Jmelnitsky"
     ],
+    "name:ron_x_preferred":[
+        "Hmelni\u021bki"
+    ],
     "name:rue_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u044b\u0439"
-    ],
-    "name:rum_x_preferred":[
-        "Hmelni\u021bki"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
@@ -186,7 +180,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0dbd\u0dca\u0db1\u0dca\u0dba\u0dd2\u0dc3\u0dca\u0d9a\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chme\u013enyckyj"
     ],
     "name:spa_x_preferred":[
@@ -227,6 +221,9 @@
     ],
     "name:war_x_preferred":[
         "Khmelnytskyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u6885\u5229\u5c3c\u8328\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
@@ -369,7 +366,7 @@
         }
     ],
     "wof:id":101752841,
-    "wof:lastmodified":1553815476,
+    "wof:lastmodified":1561776896,
     "wof:name":"\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108815833,
     "wof:placetype":"locality",

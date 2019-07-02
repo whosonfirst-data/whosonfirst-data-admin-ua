@@ -19,23 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u056d\u057f\u0575\u0578\u0580\u057d\u056f"
-    ],
     "name:bul_x_preferred":[
         "\u0428\u0430\u0445\u0442\u044c\u043e\u0440\u0441\u043a"
     ],
     "name:cat_x_preferred":[
         "Shakhtarsk"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u8d6b\u55ac\u723e\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160achtarsk"
     ],
-    "name:dut_x_preferred":[
-        "Sjachtarsk"
+    "name:deu_x_preferred":[
+        "Schachtarsk"
     ],
     "name:eng_x_preferred":[
         "Shakht\u00ebrsk"
@@ -43,26 +37,32 @@
     "name:est_x_preferred":[
         "\u0160ahtarsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u062e\u062a\u0627\u0631\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "\u0160ah\u2019tarsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chakhtarsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10ee\u10e2\u10d8\u10dd\u10e0\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Schachtarsk"
     ],
     "name:hsb_x_preferred":[
         "\u0160achtarsk"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u056d\u057f\u0575\u0578\u0580\u057d\u056f"
+    ],
     "name:ita_x_preferred":[
         "\u0160achtars'k"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10ee\u10e2\u10d8\u10dd\u10e0\u10e1\u10d9\u10d8"
+    ],
     "name:lav_x_preferred":[
         "\u0160ahtarska"
+    ],
+    "name:nld_x_preferred":[
+        "Sjachtarsk"
     ],
     "name:nno_x_preferred":[
         "Sjakhtarsk"
@@ -73,13 +73,10 @@
     "name:oci_x_preferred":[
         "Shakhtarsk"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u062e\u062a\u0627\u0631\u0633\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Szachtarsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218ahtarsk"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:vie_x_preferred":[
         "Shakhtarsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u8d6b\u55ac\u723e\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":1125857333,
-    "wof:lastmodified":1530298013,
+    "wof:lastmodified":1561777022,
     "wof:name":"Shakht\u00ebrsk",
     "wof:parent_id":1108815955,
     "wof:placetype":"locality",

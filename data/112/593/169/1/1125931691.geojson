@@ -19,35 +19,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u056c\u0578\u0564\u0578\u0563\u057e\u0561\u0580\u0564\u0565\u0575\u057d\u056f"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0434\u0430\u0433\u0432\u0430\u0440\u0434\u0437\u0435\u0439\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u9752\u5e74\u8fd1\u885b\u8ecd\u6751"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Molodohvardijsk"
+    ],
+    "name:deu_x_preferred":[
+        "Molodohwardijsk"
     ],
     "name:eng_x_preferred":[
         "Molodohvardiysk"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0648\u062f\u0648\u0647\u0648\u0627\u0631\u062f\u06cc\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Molodohvardiisk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10da\u10dd\u10d3\u10dd\u10d2\u10d5\u10d0\u10e0\u10d3\u10d4\u10d8\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Molodohwardijsk"
     ],
     "name:hsb_x_preferred":[
         "Molodohwardijsk"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u056c\u0578\u0564\u0578\u0563\u057e\u0561\u0580\u0564\u0565\u0575\u057d\u056f"
+    ],
     "name:ita_x_preferred":[
         "Molodohvardijs'k"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10dd\u10d3\u10dd\u10d2\u10d5\u10d0\u10e0\u10d3\u10d4\u10d8\u10e1\u10d9\u10d8"
     ],
     "name:lav_x_preferred":[
         "Molodohvardijska"
@@ -58,13 +58,10 @@
     "name:nno_x_preferred":[
         "Molodohvardijsk"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0644\u0648\u062f\u0648\u0647\u0648\u0627\u0631\u062f\u06cc\u0633\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Mo\u0142odohwardijsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Molodohvardiisk"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:vie_x_preferred":[
         "Molodohvardiysk"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u5e74\u8fd1\u885b\u8ecd\u6751"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1125931691,
-    "wof:lastmodified":1514509733,
+    "wof:lastmodified":1561777005,
     "wof:name":"Molodogvardeysk",
     "wof:parent_id":1108815971,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":2360224.926299,
+    "geom:area_square_m":2360224.926298,
     "geom:bbox":"38.5449066992,48.4276988227,38.5641793636,48.4467483287",
     "geom:latitude":48.43721,
     "geom:longitude":38.554519,
@@ -58,11 +58,11 @@
     "name:deu_x_preferred":[
         "Flagge der Ukraine"
     ],
+    "name:deu_x_variant":[
+        "Tscherwonyj Prapor"
+    ],
     "name:dsb_x_preferred":[
         "Ukrainska ch\u00f3rgoj"
-    ],
-    "name:dut_x_preferred":[
-        "Chervonyi Prapor"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b7\u03bc\u03b1\u03af\u03b1 \u03c4\u03b7\u03c2 \u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1\u03c2"
@@ -87,9 +87,6 @@
     ],
     "name:fra_x_preferred":[
         "Drapeau de l'Ukraine"
-    ],
-    "name:ger_x_preferred":[
-        "Tscherwonyj Prapor"
     ],
     "name:glg_x_preferred":[
         "Bandeira de Ucra\u00edna"
@@ -156,6 +153,9 @@
     ],
     "name:nld_x_preferred":[
         "Vlag van Oekra\u00efne"
+    ],
+    "name:nld_x_variant":[
+        "Chervonyi Prapor"
     ],
     "name:nor_x_preferred":[
         "Ukrainas flagg"
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":101876313,
-    "wof:lastmodified":1527714914,
+    "wof:lastmodified":1561776966,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u041f\u0440\u0430\u043f\u043e\u0440",
     "wof:parent_id":102088715,
     "wof:placetype":"locality",

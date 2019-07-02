@@ -19,26 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u056d\u0561\u0575\u056c\u0578\u057e\u056f\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0438\u0432\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u6d77\u5229\u592b\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mychajlivka"
+    ],
+    "name:deu_x_preferred":[
+        "Mychajliwka"
     ],
     "name:eng_x_preferred":[
         "Mykhailivka"
     ],
-    "name:ger_x_preferred":[
-        "Mychajliwka"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05db\u05d0\u05d9\u05dc\u05d5\u05d1\u05e7\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056d\u0561\u0575\u056c\u0578\u057e\u056f\u0561"
     ],
     "name:lav_x_preferred":[
         "Mihaj\u013civka"
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Mikhaylovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u6d77\u5229\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125888983,
-    "wof:lastmodified":1514509734,
+    "wof:lastmodified":1561777011,
     "wof:name":"Mykhaylivka",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

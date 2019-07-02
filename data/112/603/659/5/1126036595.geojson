@@ -19,14 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Vysjhorod"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0634\u0647\u0648\u0631\u0648\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0577\u0563\u0578\u0580\u0578\u0564"
     ],
     "name:bel_x_preferred":[
         "\u0412\u044b\u0448\u0433\u0430\u0440\u0430\u0434"
@@ -34,8 +28,8 @@
     "name:bre_x_preferred":[
         "Petalidi"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u4ec0\u6208\u7f85\u5fb7"
+    "name:ces_x_preferred":[
+        "Vy\u0161horod"
     ],
     "name:chv_x_preferred":[
         "\u0427\u0103\u0432\u0430\u0448-\u0445\u0443\u043b\u0430"
@@ -43,14 +37,11 @@
     "name:cos_x_preferred":[
         "Petalidi"
     ],
-    "name:cze_x_preferred":[
-        "Vy\u0161horod"
-    ],
     "name:dan_x_preferred":[
         "Petalidi"
     ],
-    "name:dut_x_preferred":[
-        "Petalidi"
+    "name:deu_x_preferred":[
+        "Wyschhorod"
     ],
     "name:eng_x_preferred":[
         "Vyshhorod"
@@ -58,20 +49,20 @@
     "name:est_x_preferred":[
         "V\u00f5\u0161gorod"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0634\u0647\u0648\u0631\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Vy\u0161horod"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vychhorod"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10e8\u10d2\u10dd\u10e0\u10dd\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Wyschhorod"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e9\u05d4\u05d5\u05e8\u05d5\u05d3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0577\u0563\u0578\u0580\u0578\u0564"
     ],
     "name:ind_x_preferred":[
         "Petalidi"
@@ -82,10 +73,16 @@
     "name:jpn_x_preferred":[
         "\u30f4\u30a3\u30fc\u30b7\u30e5\u30db\u30ed\u30c9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e8\u10d2\u10dd\u10e0\u10dd\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube44\uc288\ud638\ub85c\ub4dc"
     ],
     "name:nds_x_preferred":[
+        "Petalidi"
+    ],
+    "name:nld_x_preferred":[
         "Petalidi"
     ],
     "name:nno_x_preferred":[
@@ -94,16 +91,13 @@
     "name:nob_x_preferred":[
         "Vysjhorod"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0634\u0647\u0648\u0631\u0648\u062f"
-    ],
     "name:pol_x_preferred":[
         "Wyszogr\u00f3d"
     ],
     "name:por_x_preferred":[
         "Petalidi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00ee\u0219horod"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +111,9 @@
     ],
     "name:spa_x_preferred":[
         "Petalidi"
+    ],
+    "name:sqi_x_preferred":[
+        "Vysjhorod"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448\u0433\u043e\u0440\u043e\u0434"
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Vyshhorod"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u4ec0\u6208\u7f85\u5fb7"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":1126036595,
-    "wof:lastmodified":1514510063,
+    "wof:lastmodified":1561777008,
     "wof:name":"Vyshgorod",
     "wof:parent_id":102088851,
     "wof:placetype":"locality",

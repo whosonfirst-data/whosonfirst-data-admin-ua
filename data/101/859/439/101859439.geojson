@@ -19,15 +19,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a\u064a \u0631\u0627\u0643\u0648\u0641\u064a\u062a\u0633\u060c \u0632\u0627\u0643\u0627\u0631\u0628\u0627\u062a\u0633\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u056c\u056b\u056f\u056b\u0575 \u054c\u0561\u056f\u0578\u057e\u0565\u0581"
-    ],
-    "name:chi_x_preferred":[
-        "\u5927\u62c9\u79d1\u97cb\u9f4a"
-    ],
-    "name:dut_x_preferred":[
-        "Velykyi Rakovets"
-    ],
     "name:eng_x_preferred":[
         "Velykyi Rakovets"
     ],
@@ -40,7 +31,13 @@
     "name:hun_x_preferred":[
         "Nagyr\u00e1k\u00f3c"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u056b\u056f\u056b\u0575 \u054c\u0561\u056f\u0578\u057e\u0565\u0581"
+    ],
+    "name:nld_x_preferred":[
+        "Velykyi Rakovets"
+    ],
+    "name:ron_x_preferred":[
         "Vel\u00eek\u00eei Rakove\u021b"
     ],
     "name:rus_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Velikiy Rakovets"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u62c9\u79d1\u97cb\u9f4a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101859439,
-    "wof:lastmodified":1553815552,
+    "wof:lastmodified":1561776907,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0420\u0430\u043a\u043e\u0432\u0435\u0446\u044c",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

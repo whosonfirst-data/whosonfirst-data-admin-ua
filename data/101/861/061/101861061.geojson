@@ -16,9 +16,6 @@
     "mps:longitude":23.787534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d85\u8339\u5e0c\u592b"
-    ],
     "name:eng_x_preferred":[
         "Nezhukhiv"
     ],
@@ -26,9 +23,6 @@
         "Nie\u017cuch\u00f3w"
     ],
     "name:ron_x_preferred":[
-        "Nejuhiv"
-    ],
-    "name:rum_x_preferred":[
         "Nejuhiv"
     ],
     "name:rus_x_preferred":[
@@ -39,6 +33,9 @@
     ],
     "name:unk_x_variant":[
         "Nezhukhiv"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d85\u8339\u5e0c\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":101861061,
-    "wof:lastmodified":1553815553,
+    "wof:lastmodified":1561776926,
     "wof:name":"\u041d\u0435\u0436\u0443\u0445\u0456\u0432",
     "wof:parent_id":102088221,
     "wof:placetype":"locality",

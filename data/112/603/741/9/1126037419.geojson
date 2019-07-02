@@ -22,14 +22,8 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0633\u062a\u0627\u0641\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u057d\u057f\u0561\u057e\u0576\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u624e\u65af\u5854\u592b\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Zastavna"
+    "name:deu_x_preferred":[
+        "Sastawna"
     ],
     "name:eng_x_preferred":[
         "Zastavna"
@@ -37,34 +31,37 @@
     "name:epo_x_preferred":[
         "Zastavna"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0633\u062a\u0627\u0648\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Zastavna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10e1\u10e2\u10d0\u10d5\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sastawna"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05e1\u05d8\u05d5\u05d5\u05e0\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u057d\u057f\u0561\u057e\u0576\u0561"
+    ],
     "name:ita_x_preferred":[
         "Zastavna"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e1\u10e2\u10d0\u10d5\u10dc\u10d0"
+    ],
     "name:lav_x_preferred":[
+        "Zastavna"
+    ],
+    "name:nld_x_preferred":[
         "Zastavna"
     ],
     "name:nno_x_preferred":[
         "Zastavna"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0633\u062a\u0627\u0648\u0646\u0627"
-    ],
     "name:pol_x_preferred":[
         "Zastawna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zastavna"
     ],
     "name:rus_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "Zastavna"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u65af\u5854\u592b\u7d0d"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1126037419,
-    "wof:lastmodified":1514510104,
+    "wof:lastmodified":1561777008,
     "wof:name":"Zastazna",
     "wof:parent_id":102088111,
     "wof:placetype":"locality",

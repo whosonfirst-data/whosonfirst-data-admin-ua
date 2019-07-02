@@ -18,25 +18,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u056f\u0578\u056c\u0561\u0587\u056f\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u7c73\u79d1\u62c9\u4f0a\u592b\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Nikolaevka"
-    ],
     "name:eng_x_preferred":[
         "Mykolaivka"
     ],
     "name:epo_x_preferred":[
         "Nikolajevko"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mykola\u00efvka"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u056c\u0561\u0587\u056f\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Nikolaevka"
+    ],
+    "name:ron_x_preferred":[
         "M\u00eekolaiivka"
     ],
     "name:rus_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u79d1\u62c9\u4f0a\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125900673,
-    "wof:lastmodified":1553816612,
+    "wof:lastmodified":1561777015,
     "wof:name":"Mykolayivka",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

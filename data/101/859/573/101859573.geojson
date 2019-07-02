@@ -16,15 +16,6 @@
     "mps:longitude":23.587747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u056c\u0578\u057e\u0578"
-    ],
-    "name:chi_x_preferred":[
-        "\u675c\u6d1b\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Dulfalva"
-    ],
     "name:eng_x_preferred":[
         "Dulovo"
     ],
@@ -34,7 +25,13 @@
     "name:hun_x_preferred":[
         "Dulfalva"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u056c\u0578\u057e\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Dulfalva"
+    ],
+    "name:ron_x_preferred":[
         "Dulovo"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Dulove"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u6d1b\u6c83"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101859573,
-    "wof:lastmodified":1544744983,
+    "wof:lastmodified":1561776910,
     "wof:name":"\u0414\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

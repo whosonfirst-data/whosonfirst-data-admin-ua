@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2002788.605393,
+    "geom:area_square_m":2002788.605395,
     "geom:bbox":"29.4419874834,49.9431643488,29.4598822131,49.9618753531",
     "geom:latitude":49.952763,
     "geom:longitude":29.450665,
@@ -17,17 +17,14 @@
     "mps:longitude":29.450495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6ce2\u76ae\u5229\u5c3c\u4e9e"
+    "name:deu_x_preferred":[
+        "Popilnja"
     ],
     "name:eng_x_preferred":[
         "Popilnia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Popilnia"
-    ],
-    "name:ger_x_preferred":[
-        "Popilnja"
     ],
     "name:pol_x_preferred":[
         "Popielnia"
@@ -46,6 +43,9 @@
     ],
     "name:unk_x_variant":[
         "Poelnja"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u76ae\u5229\u5c3c\u4e9e"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101876923,
-    "wof:lastmodified":1527714913,
+    "wof:lastmodified":1561776966,
     "wof:name":"\u041f\u043e\u043f\u0456\u043b\u044c\u043d\u044f",
     "wof:parent_id":102088623,
     "wof:placetype":"locality",

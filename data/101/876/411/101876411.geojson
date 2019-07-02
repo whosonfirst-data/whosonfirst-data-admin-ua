@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2161716.012558,
+    "geom:area_square_m":2161716.012559,
     "geom:bbox":"23.8777725416,48.158463186,23.8960734213,48.1767633198",
     "geom:latitude":48.167628,
     "geom:longitude":23.886896,
@@ -20,17 +20,11 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0648\u0641\u064a\u060c \u0628\u0644\u064a\u0641\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0562\u0578\u057e\u0578\u0565"
-    ],
-    "name:chi_x_preferred":[
-        "\u675c\u535a\u97cb"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dubove"
     ],
-    "name:dut_x_preferred":[
-        "Dubove"
+    "name:deu_x_preferred":[
+        "Dubowe"
     ],
     "name:eng_x_preferred":[
         "Dubove"
@@ -38,19 +32,22 @@
     "name:epo_x_preferred":[
         "Dubove"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Doubove"
-    ],
-    "name:ger_x_preferred":[
-        "Dubowe"
     ],
     "name:hun_x_preferred":[
         "Domb\u00f3"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0562\u0578\u057e\u0578\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Dubove"
+    ],
     "name:pol_x_preferred":[
         "Dubowe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Delureni"
     ],
     "name:rus_x_preferred":[
@@ -61,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "Dubovoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u535a\u97cb"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101876411,
-    "wof:lastmodified":1553815565,
+    "wof:lastmodified":1561776968,
     "wof:name":"\u0414\u0443\u0431\u043e\u0432\u0435",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

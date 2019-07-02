@@ -22,29 +22,23 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0634\u0643\u064a\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u053a\u0561\u0577\u056f\u0578\u057e"
-    ],
-    "name:chi_x_preferred":[
-        "\u624e\u4ec0\u57fa\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017da\u0161kiv"
     ],
-    "name:dut_x_preferred":[
-        "Zhashkiv"
+    "name:deu_x_preferred":[
+        "Schaschkiw"
     ],
     "name:eng_x_preferred":[
         "Zhashkiv"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0634\u06a9\u06cc\u0641"
+    ],
+    "name:fra_x_preferred":[
         "Jachkiv"
     ],
-    "name:geo_x_preferred":[
-        "\u10df\u10d0\u10e8\u10d9\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Schaschkiw"
+    "name:hye_x_preferred":[
+        "\u053a\u0561\u0577\u056f\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "\u017da\u0161kiv"
@@ -52,11 +46,17 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30b7\u30ad\u30a6"
     ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d0\u10e8\u10d9\u10dd\u10d5\u10d8"
+    ],
     "name:lav_x_preferred":[
         "\u017da\u0161kiva"
     ],
     "name:lit_x_preferred":[
         "\u017da\u0161kivas"
+    ],
+    "name:nld_x_preferred":[
+        "Zhashkiv"
     ],
     "name:nno_x_preferred":[
         "Zjasjkiv"
@@ -64,13 +64,10 @@
     "name:nob_x_preferred":[
         "Zjasjkiv"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0627\u0634\u06a9\u06cc\u0641"
-    ],
     "name:pol_x_preferred":[
         "\u017baszk\u00f3w"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ja\u0219kiv"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "Zhashkiv"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u4ec0\u57fa\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1125911945,
-    "wof:lastmodified":1514510105,
+    "wof:lastmodified":1561777016,
     "wof:name":"Zhashkov",
     "wof:parent_id":102088447,
     "wof:placetype":"locality",

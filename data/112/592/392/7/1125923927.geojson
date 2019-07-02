@@ -21,32 +21,32 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0631\u0648\u0641\u0633\u0643\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0565\u057f\u0580\u0578\u057e\u057d\u056f\u0578\u0565"
-    ],
-    "name:chi_x_preferred":[
-        "\u5f7c\u5f97\u7f85\u592b\u65af\u79d1\u8036"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Petrovo-Krasnosele"
+    ],
+    "name:deu_x_preferred":[
+        "Petrowo-Krasnosillja"
     ],
     "name:eng_x_preferred":[
         "Petrovskoye"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0631\u0648\u0641\u0633\u06a9\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Petrovo Krasnosillia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10dd\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Petrowo-Krasnosillja"
     ],
     "name:hsb_x_preferred":[
         "Petrowo-Krasnosyllja"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u057f\u0580\u0578\u057e\u057d\u056f\u0578\u0565"
+    ],
     "name:ita_x_preferred":[
         "Petrovs'ke"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10dd\u10d4"
     ],
     "name:lav_x_preferred":[
         "Petrovske"
@@ -57,13 +57,10 @@
     "name:nno_x_preferred":[
         "Petrovske"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0631\u0648\u0641\u0633\u06a9\u0647"
-    ],
     "name:pol_x_preferred":[
         "Petrowo-Krasnosilla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Petrovske"
     ],
     "name:rus_x_preferred":[
@@ -87,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Petrovske"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5f97\u7f85\u592b\u65af\u79d1\u8036"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -138,7 +138,7 @@
         }
     ],
     "wof:id":1125923927,
-    "wof:lastmodified":1514509778,
+    "wof:lastmodified":1561777006,
     "wof:name":"Petrovskoye",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

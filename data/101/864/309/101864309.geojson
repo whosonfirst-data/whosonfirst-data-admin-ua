@@ -17,25 +17,22 @@
     "mps:longitude":23.850304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057e\u056b\u057f\u0575\u0561\u0566"
-    ],
-    "name:chi_x_preferred":[
-        "\u65af\u7dad\u5b63\u4e9e\u6fdf"
+    "name:deu_x_preferred":[
+        "Switjas"
     ],
     "name:eng_x_preferred":[
         "Svitiaz"
     ],
-    "name:ger_x_preferred":[
-        "Switjas"
-    ],
     "name:hbs_x_preferred":[
         "Bataljoni teritorijalne obrane Ukrajine"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057e\u056b\u057f\u0575\u0561\u0566"
     ],
     "name:pol_x_preferred":[
         "\u015awita\u017a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sviteaz"
     ],
     "name:rus_x_preferred":[
@@ -56,6 +53,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u514b\u5170\u5730\u65b9\u9632\u536b\u4f5c\u6218\u8425"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u7dad\u5b63\u4e9e\u6fdf"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101864309,
-    "wof:lastmodified":1544747460,
+    "wof:lastmodified":1561776991,
     "wof:name":"\u0421\u0432\u0456\u0442\u044f\u0437\u044c",
     "wof:parent_id":102088779,
     "wof:placetype":"locality",

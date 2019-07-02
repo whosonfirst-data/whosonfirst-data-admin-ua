@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":1975970.222852,
+    "geom:area_square_m":1975970.222853,
     "geom:bbox":"24.0828826659,49.8816873686,24.1012513583,49.8999266993",
     "geom:latitude":49.891211,
     "geom:longitude":24.092338,
@@ -20,14 +20,8 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0644\u064a\u0627\u0646\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0562\u056c\u0575\u0561\u0576\u056b"
-    ],
     "name:bel_x_variant":[
         "\u0414\u0443\u0431\u043b\u044f\u043d\u044b"
-    ],
-    "name:chi_x_preferred":[
-        "\u675c\u5e03\u5229\u4e9e\u5167"
     ],
     "name:crh_x_preferred":[
         "Dubl\u00e2n\u0131"
@@ -43,15 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Doubliany"
-    ],
-    "name:fre_x_preferred":[
-        "Doubliany"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10d1\u10da\u10d8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dubljany"
     ],
     "name:hsb_x_preferred":[
         "Dubljany"
@@ -71,16 +56,13 @@
     "name:nno_x_preferred":[
         "Dubljany"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0644\u06cc\u0627\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Dublany"
     ],
     "name:ron_x_preferred":[
         "Dublean\u00ee"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Dublian\u00ee"
     ],
     "name:rus_x_preferred":[
@@ -149,7 +131,7 @@
         }
     ],
     "wof:id":101876825,
-    "wof:lastmodified":1527714918,
+    "wof:lastmodified":1561776969,
     "wof:name":"\u0414\u0443\u0431\u043b\u044f\u043d\u0438",
     "wof:parent_id":102088445,
     "wof:placetype":"locality",

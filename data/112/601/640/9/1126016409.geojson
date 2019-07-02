@@ -18,20 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u65b0\u827e\u9054\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Novoajdar"
+    ],
+    "name:deu_x_preferred":[
+        "Nowoajdar"
     ],
     "name:eng_x_preferred":[
         "Novoaydar"
     ],
     "name:est_x_preferred":[
         "Novoaidar"
-    ],
-    "name:ger_x_preferred":[
-        "Nowoajdar"
     ],
     "name:lav_x_preferred":[
         "Novoajdara"
@@ -42,7 +39,7 @@
     "name:pol_x_preferred":[
         "Nowoajdar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novoaidar"
     ],
     "name:rus_x_preferred":[
@@ -50,6 +47,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0430\u0439\u0434\u0430\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u827e\u9054\u723e"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1126016409,
-    "wof:lastmodified":1514509742,
+    "wof:lastmodified":1561777018,
     "wof:name":"Novoaydar",
     "wof:parent_id":102088867,
     "wof:placetype":"locality",

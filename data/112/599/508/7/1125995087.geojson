@@ -22,16 +22,10 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0631\u0633\u0643\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0580\u057d\u056f\u0578\u0565"
-    ],
-    "name:chi_x_preferred":[
-        "\u6208\u723e\u65af\u79d1\u8036"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hirske"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hirske"
     ],
     "name:eng_x_preferred":[
@@ -40,20 +34,23 @@
     "name:est_x_preferred":[
         "Girske"
     ],
-    "name:fre_x_preferred":[
-        "Hirske"
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0631\u0633\u06a9\u0647"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10e1\u10d9\u10dd\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hirske"
     ],
     "name:hsb_x_preferred":[
         "Hirske"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0580\u057d\u056f\u0578\u0565"
+    ],
     "name:ita_x_preferred":[
         "Hirs'ke"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10e1\u10d9\u10dd\u10d4"
     ],
     "name:lav_x_preferred":[
         "Hirske"
@@ -61,16 +58,16 @@
     "name:mhr_x_preferred":[
         "\u0413\u043e\u0440\u0441\u043a\u0438\u0439"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Hirske"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u06cc\u0631\u0633\u06a9\u0647"
+    "name:nno_x_preferred":[
+        "Hirske"
     ],
     "name:pol_x_preferred":[
         "Hirskie"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hirske"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:vie_x_preferred":[
         "Hirske"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u723e\u65af\u79d1\u8036"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1125995087,
-    "wof:lastmodified":1514509326,
+    "wof:lastmodified":1561777012,
     "wof:name":"Gorskoye",
     "wof:parent_id":1108730795,
     "wof:placetype":"locality",

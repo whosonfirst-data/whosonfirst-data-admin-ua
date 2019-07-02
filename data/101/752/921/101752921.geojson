@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004575,
-    "geom:area_square_m":37794022.317191,
+    "geom:area_square_m":37794022.317194,
     "geom:bbox":"39.588631,48.008383,39.7309175,48.10849",
     "geom:latitude":48.075392,
     "geom:longitude":39.657317,
@@ -17,9 +17,6 @@
     "mps:longitude":39.652524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057e\u0565\u0580\u0564\u056c\u0578\u057e\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0631\u062f\u0644\u0648\u0641\u0633\u06a9\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
     ],
@@ -32,20 +29,14 @@
     "name:ces_x_preferred":[
         "Sverdlovsk"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7dad\u723e\u5fb7\u6d1b\u592b\u65af\u514b"
+    "name:ces_x_variant":[
+        "Dov\u017eansk"
     ],
     "name:crh_x_preferred":[
         "Sverdlovsk"
     ],
-    "name:cze_x_preferred":[
-        "Dov\u017eansk"
-    ],
     "name:deu_x_preferred":[
         "Swerdlowsk"
-    ],
-    "name:dut_x_preferred":[
-        "Sverdlovsk"
     ],
     "name:eng_x_preferred":[
         "Sverdlovs'k"
@@ -62,14 +53,8 @@
     "name:fra_x_preferred":[
         "Dovjansk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sverdlovsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d5\u10d4\u10e0\u10d3\u10da\u10dd\u10d5\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Swerdlowsk"
     ],
     "name:hsb_x_preferred":[
         "Dow\u017eansk"
@@ -86,11 +71,17 @@
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10d5\u10df\u10d0\u10dc\u10e1\u10d9\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d5\u10d4\u10e0\u10d3\u10da\u10dd\u10d5\u10e1\u10d9\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Dov\u017eanska"
     ],
     "name:lit_x_preferred":[
         "Sverdlovskas"
+    ],
+    "name:nld_x_preferred":[
+        "Sverdlovsk"
     ],
     "name:nno_x_preferred":[
         "Sverdlovsk i Ukraina"
@@ -101,9 +92,6 @@
     "name:nor_x_preferred":[
         "Sverdlovsk"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0648\u0631\u062f\u0644\u0648\u0641\u0633\u06a9\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Dow\u017can\u015bk"
     ],
@@ -112,9 +100,6 @@
     ],
     "name:rue_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a"
-    ],
-    "name:rum_x_preferred":[
-        "Sverdlovsk"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a"
@@ -201,7 +186,7 @@
         }
     ],
     "wof:id":101752921,
-    "wof:lastmodified":1527641664,
+    "wof:lastmodified":1561776899,
     "wof:name":"\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815967,
     "wof:placetype":"locality",

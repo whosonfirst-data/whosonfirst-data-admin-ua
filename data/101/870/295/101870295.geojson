@@ -16,25 +16,22 @@
     "mps:longitude":35.230908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0545\u0561\u0562\u056c\u0578\u0579\u0576\u0578\u0565"
-    ],
     "name:bul_x_preferred":[
         "\u042f\u0431\u043b\u043e\u0447\u043d\u043e\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u5e03\u76e7\u5947\u6d85"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jablo\u010dnoje"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bc\u03c0\u03bb\u03bf\u03c5\u03c4\u03c3\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Yablochnoye"
     ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03bc\u03c0\u03bb\u03bf\u03c5\u03c4\u03c3\u03bd\u03b5"
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0562\u056c\u0578\u0579\u0576\u0578\u0565"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Iablucine"
     ],
     "name:rus_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Yablochne"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5e03\u76e7\u5947\u6d85"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101870295,
-    "wof:lastmodified":1553815559,
+    "wof:lastmodified":1561776960,
     "wof:name":"\u042f\u0431\u043b\u0443\u0447\u043d\u0435",
     "wof:parent_id":102088939,
     "wof:placetype":"locality",

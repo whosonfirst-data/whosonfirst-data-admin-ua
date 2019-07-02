@@ -16,17 +16,14 @@
     "mps:longitude":37.723494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0575\u0563\u0578\u0580\u0578\u0564\u0578\u056f"
-    ],
-    "name:chi_x_preferred":[
-        "\u8cf4\u6208\u7f85\u591a\u514b"
+    "name:deu_x_preferred":[
+        "Rajhorodok"
     ],
     "name:eng_x_preferred":[
         "Raygorodok"
     ],
-    "name:ger_x_preferred":[
-        "Rajhorodok"
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0575\u0563\u0578\u0580\u0578\u0564\u0578\u056f"
     ],
     "name:lav_x_preferred":[
         "Rajhorodoka"
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Raigorodok"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cf4\u6208\u7f85\u591a\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":101869701,
-    "wof:lastmodified":1544750417,
+    "wof:lastmodified":1561776939,
     "wof:name":"\u0420\u0430\u0439\u0433\u043e\u0440\u043e\u0434\u043e\u043a",
     "wof:parent_id":102088767,
     "wof:placetype":"locality",

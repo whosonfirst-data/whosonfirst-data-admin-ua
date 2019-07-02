@@ -17,17 +17,11 @@
     "mps:longitude":22.543744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0580\u0561\u0562\u056b\u0579\u0578\u057e\u0578"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0431\u044b\u0447\u043e\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u62c9\u6bd4\u55ac\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Strabychovo"
+    "name:deu_x_preferred":[
+        "Strabytschowo"
     ],
     "name:eng_x_preferred":[
         "Strabychovo"
@@ -35,16 +29,19 @@
     "name:epo_x_preferred":[
         "Strabi\u0109ovo"
     ],
-    "name:ger_x_preferred":[
-        "Strabytschowo"
-    ],
     "name:hun_x_preferred":[
         "Mez\u0151terebes"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0580\u0561\u0562\u056b\u0579\u0578\u057e\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Strabychovo"
     ],
     "name:pol_x_preferred":[
         "Strabyczowo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Strab\u00eeciovo"
     ],
     "name:rus_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Strabichovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u62c9\u6bd4\u55ac\u6c83"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101859343,
-    "wof:lastmodified":1553815552,
+    "wof:lastmodified":1561776914,
     "wof:name":"\u0421\u0442\u0440\u0430\u0431\u0438\u0447\u043e\u0432\u043e",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

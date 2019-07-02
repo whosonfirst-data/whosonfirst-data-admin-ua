@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005197,
-    "geom:area_square_m":42531524.530804,
+    "geom:area_square_m":42531524.530805,
     "geom:bbox":"38.58295,48.531698,38.737529,48.60475",
     "geom:latitude":48.56199,
     "geom:longitude":38.647924,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u062e\u0627\u0646\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0561\u056d\u0561\u0576\u0578\u057e"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0434\u0437\u0456\u0456\u045e\u043a\u0430"
     ],
@@ -36,20 +33,14 @@
     "name:ces_x_preferred":[
         "Stachanov"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u9054\u6f22\u8afe\u592b"
+    "name:ces_x_variant":[
+        "Kadijivka"
     ],
     "name:crh_x_preferred":[
         "Stahanov"
     ],
-    "name:cze_x_preferred":[
-        "Kadijivka"
-    ],
     "name:deu_x_preferred":[
         "Stachanow"
-    ],
-    "name:dut_x_preferred":[
-        "Stachanov"
     ],
     "name:eng_x_preferred":[
         "Stakhanov"
@@ -67,16 +58,8 @@
         "Kadyvka"
     ],
     "name:fra_x_variant":[
-        "Stakhanov"
-    ],
-    "name:fre_x_preferred":[
+        "Stakhanov",
         "Kad\u00efvka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10d0\u10ee\u10d0\u10dc\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Stachanow"
     ],
     "name:hsb_x_preferred":[
         "Kadijiwka"
@@ -114,9 +97,6 @@
     "name:nor_x_preferred":[
         "Stakhanov"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u062e\u0627\u0646\u0648\u0641\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Kadijiwka"
     ],
@@ -132,9 +112,6 @@
     ],
     "name:rue_x_preferred":[
         "\u0421\u0442\u0430\u0445\u0430\u043d\u043e\u0432"
-    ],
-    "name:rum_x_preferred":[
-        "Stahanov"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0445\u0430\u043d\u043e\u0432"
@@ -224,7 +201,7 @@
         }
     ],
     "wof:id":101752945,
-    "wof:lastmodified":1527641664,
+    "wof:lastmodified":1561776899,
     "wof:name":"\u0421\u0442\u0430\u0445\u0430\u043d\u043e\u0432",
     "wof:parent_id":1108730649,
     "wof:placetype":"locality",

@@ -16,14 +16,8 @@
     "mps:longitude":28.443101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u056c\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u0430 \u0410\u0440\u043c\u0438\u0440\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u7dad\u62c9"
     ],
     "name:deu_x_preferred":[
         "Villa Armira"
@@ -37,10 +31,13 @@
     "name:fra_x_preferred":[
         "Villa Armira"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u056b"
+    ],
     "name:ita_x_preferred":[
         "Villa Armira"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00eela"
     ],
     "name:rus_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:unk_x_variant":[
         "Vily-Tomashpol\u2019skiye"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u62c9"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":101867317,
-    "wof:lastmodified":1544749109,
+    "wof:lastmodified":1561776958,
     "wof:name":"\u0412\u0438\u043b\u0430",
     "wof:parent_id":102088209,
     "wof:placetype":"locality",

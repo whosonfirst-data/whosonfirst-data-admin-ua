@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006949,
-    "geom:area_square_m":56107731.152403,
+    "geom:area_square_m":56107731.152405,
     "geom:bbox":"28.3814995,49.191852,28.556208,49.2825615",
     "geom:latitude":49.232263,
     "geom:longitude":28.475229,
@@ -24,17 +24,11 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u064a\u062a\u0633\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0576\u0576\u056b\u0581\u0561"
-    ],
     "name:aze_x_preferred":[
         "Vinni\u00e7ya"
     ],
     "name:bak_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Vinnytsia"
     ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043d\u043d\u0456\u0446\u0430"
@@ -48,20 +42,23 @@
     "name:cat_x_preferred":[
         "V\u00ednnytsia"
     ],
+    "name:ces_x_preferred":[
+        "Vinnycja"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6587\u5c3c\u5bdf"
-    ],
-    "name:cze_x_preferred":[
-        "Vinnycja"
+    "name:cym_x_preferred":[
+        "Vinnytsia"
     ],
     "name:dan_x_preferred":[
         "V\u00ednnitsja"
     ],
-    "name:dut_x_preferred":[
-        "Vinnytsja"
+    "name:deu_x_preferred":[
+        "Winnyzja"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vinnytsia"
@@ -72,20 +69,17 @@
     "name:est_x_preferred":[
         "Vinn\u00f5tsja"
     ],
+    "name:eus_x_preferred":[
+        "Vinnytsia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0646\u06cc\u062a\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Vinnytsja"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vinnytsia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10dc\u10d8\u10ea\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Winnyzja"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0aa8\u0abf\u0aa4\u0ab8\u0abf\u0aaf\u0abe"
@@ -105,6 +99,9 @@
     "name:hun_x_preferred":[
         "Vinnicja"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0576\u0576\u056b\u0581\u0561"
+    ],
     "name:ile_x_preferred":[
         "Vinnytsia"
     ],
@@ -122,6 +119,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cbf\u0ca8\u0ccd\u0ca8\u0cbf\u0ca4\u0ccd\u0cb8\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10dc\u10d8\u10ea\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u0430"
@@ -141,23 +141,26 @@
     "name:lit_x_preferred":[
         "Vinycia"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u043d\u0438\u0446\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u093f\u0928\u093f\u0924\u0938\u093f\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Vinnytsia"
     ],
     "name:mhr_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u0435"
     ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446"
     ],
+    "name:msa_x_preferred":[
+        "Vinnytsia"
+    ],
     "name:myv_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u0430 \u043e\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Vinnytsja"
     ],
     "name:nno_x_preferred":[
         "Vinnytsia"
@@ -168,9 +171,6 @@
     "name:oss_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646\u06cc\u062a\u0633\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u06cc\u0646\u06cc\u062a\u0633\u06cc\u0627"
     ],
@@ -180,11 +180,11 @@
     "name:por_x_preferred":[
         "Vinnytsia"
     ],
+    "name:ron_x_preferred":[
+        "Vini\u021ba"
+    ],
     "name:rue_x_preferred":[
         "\u0412\u0456\u043d\u0438\u0446\u044f"
-    ],
-    "name:rum_x_preferred":[
-        "Vini\u021ba"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u0446\u0430"
@@ -198,7 +198,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dd2\u0db1\u0dd2\u0da7\u0dca\u0dc3\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vinnycia"
     ],
     "name:slv_x_preferred":[
@@ -249,11 +249,11 @@
     "name:war_x_preferred":[
         "Vinnytsia"
     ],
-    "name:wel_x_preferred":[
-        "Vinnytsia"
-    ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d9\u05e0\u05d9\u05e6\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u5c3c\u5bdf"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
@@ -393,7 +393,7 @@
         }
     ],
     "wof:id":101752843,
-    "wof:lastmodified":1527641649,
+    "wof:lastmodified":1561776894,
     "wof:name":"\u0412\u0456\u043d\u043d\u0438\u0446\u044f",
     "wof:parent_id":1108815863,
     "wof:placetype":"locality",

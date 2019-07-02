@@ -16,22 +16,19 @@
     "mps:longitude":28.457336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0579\u056f\u0578\u057e\u056f\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u5947\u57fa\u592b\u5361"
-    ],
     "name:eng_x_preferred":[
         "Kachkivka"
     ],
     "name:est_x_preferred":[
         "Kat\u0161kivka"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0579\u056f\u0578\u057e\u056f\u0561"
+    ],
     "name:pol_x_preferred":[
         "Kaczk\u00f3wka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kacikivka"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Kachkivka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5947\u57fa\u592b\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101866307,
-    "wof:lastmodified":1544748533,
+    "wof:lastmodified":1561776914,
     "wof:name":"\u041a\u0430\u0447\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102089023,
     "wof:placetype":"locality",

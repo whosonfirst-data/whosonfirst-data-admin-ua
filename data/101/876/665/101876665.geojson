@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2105662.315594,
+    "geom:area_square_m":2105662.315592,
     "geom:bbox":"24.7077215508,49.0981531445,24.7260920434,49.1165244317",
     "geom:latitude":49.107209,
     "geom:longitude":24.717007,
@@ -19,12 +19,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0644\u064a\u062a\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0561\u056c\u056b\u0579"
-    ],
-    "name:baq_x_preferred":[
-        "Halytx"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u043b\u0456\u0447"
     ],
@@ -37,14 +31,8 @@
     "name:ces_x_preferred":[
         "Haly\u010d"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5229\u5947"
-    ],
     "name:crh_x_preferred":[
         "Gal\u0131\u00e7"
-    ],
-    "name:cze_x_preferred":[
-        "Haly\u010d"
     ],
     "name:dan_x_preferred":[
         "Halych"
@@ -54,9 +42,6 @@
     ],
     "name:deu_x_variant":[
         "Halitsch"
-    ],
-    "name:dut_x_preferred":[
-        "Halytsj"
     ],
     "name:eng_x_preferred":[
         "Halych"
@@ -69,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Halytch"
-    ],
-    "name:fre_x_preferred":[
-        "Halytch"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10d8\u10e9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Halytsch"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05dc\u05d9\u05e5'"
@@ -93,6 +69,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u056c\u056b\u0579"
+    ],
+    "name:hye_x_variant":[
+        "\u0533\u0561\u056c\u056b\u0579"
     ],
     "name:ita_x_preferred":[
         "Haly\u010d"
@@ -118,9 +97,6 @@
     "name:nno_x_preferred":[
         "Halytsj"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u0644\u06cc\u0686"
-    ],
     "name:pol_x_preferred":[
         "Halicz"
     ],
@@ -130,7 +106,7 @@
     "name:ron_x_preferred":[
         "Hal\u00eeci"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Halici"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +183,7 @@
         }
     ],
     "wof:id":101876665,
-    "wof:lastmodified":1527714919,
+    "wof:lastmodified":1561776969,
     "wof:name":"\u0413\u0430\u043b\u0438\u0447",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

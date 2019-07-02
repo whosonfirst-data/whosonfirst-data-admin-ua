@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004295,
-    "geom:area_square_m":34449470.222039,
+    "geom:area_square_m":34449470.222035,
     "geom:bbox":"25.543104,49.5048525,25.654637,49.593582",
     "geom:latitude":49.554887,
     "geom:longitude":25.602093,
@@ -24,17 +24,11 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0646\u0648\u0628\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0565\u0580\u0576\u0578\u057a\u0578\u056c"
-    ],
     "name:aze_x_preferred":[
         "Ternopil"
     ],
     "name:bak_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
-    ],
-    "name:baq_x_preferred":[
-        "Ternopil"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u044f\u0440\u043d\u043e\u043f\u0430\u043b\u044c"
@@ -61,13 +55,7 @@
     "name:che_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u6377\u5c14\u8bfa\u6ce2\u5c14"
-    ],
     "name:crh_x_preferred":[
-        "Ternopil"
-    ],
-    "name:cze_x_preferred":[
         "Ternopil"
     ],
     "name:dan_x_preferred":[
@@ -82,8 +70,8 @@
     "name:dsb_x_preferred":[
         "Ternopil"
     ],
-    "name:dut_x_preferred":[
-        "Ternopil"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bc\u03bf\u03c0\u03af\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ternopil"
@@ -105,18 +93,6 @@
     ],
     "name:fra_x_preferred":[
         "Ternopil"
-    ],
-    "name:fre_x_preferred":[
-        "Ternopil"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10e0\u10dc\u10dd\u10de\u10dd\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ternopil"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03bf\u03c0\u03af\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0ab0\u0aa8\u0acb\u0aaa\u0abf\u0ab2"
@@ -178,14 +154,14 @@
     "name:mar_x_preferred":[
         "\u091f\u0947\u0930\u094b\u0928\u094b\u092a\u093f\u0932"
     ],
-    "name:may_x_preferred":[
-        "Ternopil"
-    ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:msa_x_preferred":[
+        "Ternopil"
     ],
     "name:nld_x_preferred":[
         "Ternopil"
@@ -199,9 +175,6 @@
     "name:nor_x_preferred":[
         "Ternopil"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0646\u0648\u067e\u06cc\u0644"
-    ],
     "name:pol_x_preferred":[
         "Tarnopol"
     ],
@@ -213,9 +186,6 @@
     ],
     "name:rue_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Ternopil"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
@@ -230,9 +200,6 @@
         "\u0da7\u0dbb\u0dca\u0db1\u0ddc\u0db4\u0dd2\u0dbd\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Ternopi\u013e"
-    ],
-    "name:slo_x_preferred":[
         "Ternopi\u013e"
     ],
     "name:slv_x_preferred":[
@@ -427,7 +394,7 @@
         }
     ],
     "wof:id":101752835,
-    "wof:lastmodified":1527641650,
+    "wof:lastmodified":1561776895,
     "wof:name":"\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c",
     "wof:parent_id":1108815797,
     "wof:placetype":"locality",

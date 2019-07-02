@@ -43,9 +43,6 @@
     "name:ces_x_preferred":[
         "Smetana"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5229\u592b\u57fa"
-    ],
     "name:cym_x_preferred":[
         "Hufen"
     ],
@@ -54,6 +51,9 @@
     ],
     "name:deu_x_preferred":[
         "Rahm"
+    ],
+    "name:deu_x_variant":[
+        "Slywky"
     ],
     "name:eng_x_preferred":[
         "Slyvky"
@@ -72,9 +72,6 @@
     ],
     "name:fra_x_preferred":[
         "Cr\u00e8me"
-    ],
-    "name:ger_x_preferred":[
-        "Slywky"
     ],
     "name:gla_x_preferred":[
         "B\u00e0rr a' bhainne"
@@ -160,7 +157,7 @@
     "name:ron_x_preferred":[
         "Sm\u00e2nt\u00e2n\u0103"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Sl\u00eevk\u00ee"
     ],
     "name:rus_x_preferred":[
@@ -224,6 +221,9 @@
     "name:zho_x_preferred":[
         "\u9bae\u5976\u6cb9"
     ],
+    "name:zho_x_variant":[
+        "\u65af\u5229\u592b\u57fa"
+    ],
     "name:zho_yue_x_preferred":[
         "\u5fcc\u5ec9"
     ],
@@ -273,7 +273,7 @@
         }
     ],
     "wof:id":101860777,
-    "wof:lastmodified":1544745615,
+    "wof:lastmodified":1561776949,
     "wof:name":"\u0421\u043b\u0438\u0432\u043a\u0438",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

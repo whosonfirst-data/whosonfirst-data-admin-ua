@@ -16,19 +16,16 @@
     "mps:longitude":25.012808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0564\u0565\u0580\u057f\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5091\u723e\u5854"
-    ],
     "name:eng_x_preferred":[
         "Vyderta"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0564\u0565\u0580\u057f\u0561"
     ],
     "name:pol_x_preferred":[
         "Wyderta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u00eederta"
     ],
     "name:rus_x_preferred":[
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Wyderta"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5091\u723e\u5854"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101864441,
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561776992,
     "wof:name":"\u0412\u0438\u0434\u0435\u0440\u0442\u0430",
     "wof:parent_id":102088837,
     "wof:placetype":"locality",

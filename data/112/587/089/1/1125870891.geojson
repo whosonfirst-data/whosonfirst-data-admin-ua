@@ -19,11 +19,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054d\u0579\u0561\u057d\u057f\u056b\u0565"
-    ],
-    "name:chi_x_preferred":[
-        "\u590f\u65af\u5b63\u8036"
+    "name:deu_x_preferred":[
+        "Schtschastja"
     ],
     "name:eng_x_preferred":[
         "Schast'ye"
@@ -31,23 +28,26 @@
     "name:est_x_preferred":[
         "\u0160t\u0161astja"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0633\u062a\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u0160t\u0161astja"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chtchastia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e9\u10d0\u10e1\u10e2\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Schtschastja"
     ],
     "name:hsb_x_preferred":[
         "\u0160\u0107astja"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0579\u0561\u057d\u057f\u056b\u0565"
+    ],
     "name:ita_x_preferred":[
         "\u0160\u010dastja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e9\u10d0\u10e1\u10e2\u10d8\u10d4"
     ],
     "name:lav_x_preferred":[
         "\u0160\u010dastja"
@@ -58,13 +58,10 @@
     "name:nno_x_preferred":[
         "Sjtsjastja"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0633\u062a\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Szczastia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218ceastia"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "Schastia"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u65af\u5b63\u8036"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":1125870891,
-    "wof:lastmodified":1514509788,
+    "wof:lastmodified":1561777012,
     "wof:name":"Schast'ye",
     "wof:parent_id":1108730801,
     "wof:placetype":"locality",

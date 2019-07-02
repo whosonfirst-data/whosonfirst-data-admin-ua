@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1933633.439666,
+    "geom:area_square_m":1933633.439667,
     "geom:bbox":"24.2623388875,48.1229133983,24.2806507399,48.1411954451",
     "geom:latitude":48.1327,
     "geom:longitude":24.27212,
@@ -17,15 +17,6 @@
     "mps:longitude":24.272294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u057e\u0561\u057d\u056b"
-    ],
-    "name:chi_x_preferred":[
-        "\u514b\u74e6\u897f"
-    ],
-    "name:dut_x_preferred":[
-        "Tiszabork\u00fat"
-    ],
     "name:eng_x_preferred":[
         "Kvasy"
     ],
@@ -35,7 +26,13 @@
     "name:hun_x_preferred":[
         "Tiszabork\u00fat"
     ],
-    "name:rum_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u053f\u057e\u0561\u057d\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Tiszabork\u00fat"
+    ],
+    "name:ron_x_preferred":[
         "Borcut"
     ],
     "name:rus_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:unk_x_variant":[
         "Kvasi"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u74e6\u897f"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101876369,
-    "wof:lastmodified":1553815565,
+    "wof:lastmodified":1561776967,
     "wof:name":"\u041a\u0432\u0430\u0441\u0438",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

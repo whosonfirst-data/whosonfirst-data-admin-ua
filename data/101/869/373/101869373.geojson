@@ -16,11 +16,8 @@
     "mps:longitude":28.655676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0582\u0575\u057e\u0561"
-    ],
-    "name:chi_x_preferred":[
-        "\u572d\u74e6"
+    "name:deu_x_preferred":[
+        "Hujwa"
     ],
     "name:eng_x_preferred":[
         "Huiva"
@@ -28,11 +25,11 @@
     "name:fra_x_preferred":[
         "Houyva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Hou\u00efva"
     ],
-    "name:ger_x_preferred":[
-        "Hujwa"
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u0575\u057e\u0561"
     ],
     "name:nno_x_preferred":[
         "Huyva"
@@ -40,7 +37,7 @@
     "name:pol_x_preferred":[
         "Hujwa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Huiva"
     ],
     "name:rus_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:zho_x_preferred":[
         "\u572d\u74e6\u6cb3"
+    ],
+    "name:zho_x_variant":[
+        "\u572d\u74e6"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":101869373,
-    "wof:lastmodified":1544750259,
+    "wof:lastmodified":1561776946,
     "wof:name":"\u0413\u0443\u0439\u0432\u0430",
     "wof:parent_id":1108815629,
     "wof:placetype":"locality",

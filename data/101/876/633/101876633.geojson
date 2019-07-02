@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1779821.151523,
+    "geom:area_square_m":1779821.151522,
     "geom:bbox":"24.2739101691,49.024087668,24.2907216955,49.0424344259",
     "geom:latitude":49.0338,
     "geom:longitude":24.281822,
@@ -16,16 +16,13 @@
     "mps:longitude":24.281141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u514b\u7f85\u76ae\u592b\u5c3c\u514b"
-    ],
     "name:eng_x_preferred":[
         "Kropyvnyk"
     ],
     "name:pol_x_preferred":[
         "Kropiwnik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krop\u00eevn\u00eek"
     ],
     "name:rus_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:unk_x_variant":[
         "Kropivnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7f85\u76ae\u592b\u5c3c\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101876633,
-    "wof:lastmodified":1553815565,
+    "wof:lastmodified":1561776965,
     "wof:name":"\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u043a",
     "wof:parent_id":1108730761,
     "wof:placetype":"locality",

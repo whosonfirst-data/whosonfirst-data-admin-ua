@@ -40,9 +40,6 @@
     "name:ara_x_preferred":[
         "\u062e\u0627\u0631\u0643\u064a\u0641 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0561\u0580\u056f\u0578\u057e\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "Xarkov vilay\u0259ti"
     ],
@@ -65,9 +62,6 @@
     "name:ces_x_preferred":[
         "Charkovsk\u00e1 oblast"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u723e\u79d1\u592b\u5340"
-    ],
     "name:crh_x_preferred":[
         "Harkiv vil\u00e2yeti"
     ],
@@ -76,6 +70,9 @@
     ],
     "name:deu_x_preferred":[
         "Oblast Charkiw"
+    ],
+    "name:deu_x_variant":[
+        "Rajon Charkiw"
     ],
     "name:eng_x_preferred":[
         "Vovchans'kyi"
@@ -102,14 +99,8 @@
     "name:fra_x_preferred":[
         "Oblast de Kharkiv"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Raion de Kharkiv"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d0\u10e0\u10d9\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Charkiw"
     ],
     "name:glv_x_preferred":[
         "Queiggey Kharkiv"
@@ -129,6 +120,9 @@
     "name:hye_x_preferred":[
         "\u053d\u0561\u0580\u056f\u0578\u057e\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:hye_x_variant":[
+        "\u053d\u0561\u0580\u056f\u0578\u057e\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Oblast Kharkiv"
     ],
@@ -140,6 +134,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10d0\u10e0\u10d9\u10dd\u10d5\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10ee\u10d0\u10e0\u10d9\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud558\ub974\ud0a4\uc6b0 \uc8fc"
@@ -250,6 +247,9 @@
     "name:zho_x_preferred":[
         "\u54c8\u723e\u79d1\u592b\u5dde"
     ],
+    "name:zho_x_variant":[
+        "\u54c8\u723e\u79d1\u592b\u5340"
+    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
     "qs:a1":"\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -300,7 +300,7 @@
         }
     ],
     "wof:id":102088983,
-    "wof:lastmodified":1554317319,
+    "wof:lastmodified":1561776723,
     "wof:name":"Vovchanskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

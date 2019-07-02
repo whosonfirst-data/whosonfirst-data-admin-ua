@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005324,
-    "geom:area_square_m":44017439.6306,
+    "geom:area_square_m":44017439.630597,
     "geom:bbox":"38.553689,47.9823,38.6922215,48.084839",
     "geom:latitude":48.03585,
     "geom:longitude":38.628799,
@@ -17,9 +17,6 @@
     "mps:longitude":38.633445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0580\u0565\u0566"
-    ],
     "name:bel_x_variant":[
         "\u0427\u044b\u0441\u044c\u0446\u044f\u043a\u043e\u0432\u0430"
     ],
@@ -32,17 +29,11 @@
     "name:ces_x_preferred":[
         "Torez"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u5217\u58eb"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "\u010cistjakovo"
     ],
     "name:deu_x_preferred":[
         "Tores"
-    ],
-    "name:dut_x_preferred":[
-        "Torez"
     ],
     "name:eng_x_preferred":[
         "Torez"
@@ -58,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Tchystiakove"
-    ],
-    "name:fre_x_preferred":[
-        "Tchystiakove"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10e0\u10d4\u10d6\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tores"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e2\u05e5"
@@ -92,9 +74,6 @@
     "name:lit_x_preferred":[
         "Torezas"
     ],
-    "name:may_x_preferred":[
-        "Torez"
-    ],
     "name:msa_x_preferred":[
         "Torez"
     ],
@@ -110,9 +89,6 @@
     "name:nor_x_preferred":[
         "Torez"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u0632"
-    ],
     "name:pol_x_preferred":[
         "Czystiakowe"
     ],
@@ -123,13 +99,11 @@
         "Torez"
     ],
     "name:ron_x_variant":[
-        "Thorez"
+        "Thorez",
+        "Ci\u00eesteakove"
     ],
     "name:rue_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0437"
-    ],
-    "name:rum_x_preferred":[
-        "Ci\u00eesteakove"
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0437"
@@ -240,7 +214,7 @@
         }
     ],
     "wof:id":101752897,
-    "wof:lastmodified":1530297963,
+    "wof:lastmodified":1561776899,
     "wof:name":"\u0422\u043e\u0440\u0435\u0437",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

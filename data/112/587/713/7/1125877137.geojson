@@ -19,11 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u0578\u0582\u057d\u056b\u0576\u057d\u056f"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Miusynsk"
+    ],
+    "name:deu_x_preferred":[
+        "Miussynsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03bf\u03c5\u03c3\u03af\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Miusinsk"
@@ -31,23 +34,23 @@
     "name:est_x_preferred":[
         "Miuss\u00f5nsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Mioussynsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10e3\u10e1\u10d8\u10dc\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Miussynsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03bf\u03c5\u03c3\u03af\u03bd\u03c3\u03ba"
     ],
     "name:hsb_x_preferred":[
         "Miusynsk"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0578\u0582\u057d\u056b\u0576\u057d\u056f"
+    ],
     "name:ita_x_preferred":[
         "Miusyns'k"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e3\u10e1\u10d8\u10dc\u10e1\u10d9\u10d8"
     ],
     "name:lav_x_preferred":[
         "Miusinska"
@@ -58,13 +61,10 @@
     "name:nno_x_preferred":[
         "Miusynsk"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0633\u06cc\u0646\u0633\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Miusynsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mius\u00eensk"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":1125877137,
-    "wof:lastmodified":1514509730,
+    "wof:lastmodified":1561777012,
     "wof:name":"Miusinsk",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

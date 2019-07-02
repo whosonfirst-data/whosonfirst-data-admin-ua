@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0641\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u057e\u0565\u056c"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u0432\u0435\u043b\u044c"
     ],
@@ -34,32 +31,26 @@
     "name:cat_x_preferred":[
         "K\u00f2vel"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u97cb\u5229"
+    "name:ces_x_preferred":[
+        "Kovel"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kovel"
     ],
     "name:deu_x_preferred":[
         "Kowel"
     ],
-    "name:dut_x_preferred":[
-        "Kovel"
-    ],
     "name:eng_x_preferred":[
         "Kovel"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0648\u0644"
     ],
     "name:fin_x_preferred":[
         "Kovel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kovel"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10d5\u10d4\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kowel"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d1\u05dc"
@@ -70,11 +61,17 @@
     "name:hun_x_preferred":[
         "Kovel"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057e\u0565\u056c"
+    ],
     "name:ita_x_preferred":[
         "Kovel'"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30fc\u30f4\u30a7\u30ea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d5\u10d4\u10da\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ubca8"
@@ -85,6 +82,9 @@
     "name:lit_x_preferred":[
         "Kovelis"
     ],
+    "name:nld_x_preferred":[
+        "Kovel"
+    ],
     "name:nno_x_preferred":[
         "Kovel"
     ],
@@ -94,20 +94,17 @@
     "name:nor_x_preferred":[
         "Kovel"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0648\u0644"
-    ],
     "name:pol_x_preferred":[
         "Kowel"
     ],
     "name:por_x_preferred":[
         "Kovel"
     ],
+    "name:ron_x_preferred":[
+        "Kovel"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u043e\u0432\u0435\u043b\u044c"
-    ],
-    "name:rum_x_preferred":[
-        "Kovel"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u0435\u043b\u044c"
@@ -136,11 +133,11 @@
     "name:vie_x_preferred":[
         "Kovel"
     ],
-    "name:wel_x_preferred":[
-        "Kovel"
-    ],
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05d5\u05d5\u05dc\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u97cb\u5229"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -181,7 +178,7 @@
         }
     ],
     "wof:id":1125900739,
-    "wof:lastmodified":1514509657,
+    "wof:lastmodified":1561777014,
     "wof:name":"Kovel\u2019",
     "wof:parent_id":1108730757,
     "wof:placetype":"locality",
