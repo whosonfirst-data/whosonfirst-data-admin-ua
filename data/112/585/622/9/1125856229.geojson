@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041f\u044d\u0440\u0432\u0430\u043c\u0430\u0439\u0441\u043a\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Pervomays'ke"
+    ],
     "name:crh_x_historical":[
         "\u011eurt\u010du"
     ],
     "name:crh_x_preferred":[
         "\u011eurt\u010du"
+    ],
+    "name:crh_x_variant":[
+        "Cur\u00e7\u0131"
     ],
     "name:deu_x_preferred":[
         "Perwomajske"
@@ -31,8 +40,14 @@
     "name:eng_x_preferred":[
         "Pervomayskoye"
     ],
+    "name:eng_x_variant":[
+        "Pervomaiske"
+    ],
     "name:epo_x_preferred":[
         "Pervomajsko"
+    ],
+    "name:est_x_preferred":[
+        "Pervomaiske"
     ],
     "name:fra_x_preferred":[
         "Pervoma\u00efsk\u00e9"
@@ -63,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9\u0627"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u723e\u6c83\u9081\u897f\u514b"
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1125856229,
-    "wof:lastmodified":1561777023,
+    "wof:lastmodified":1563303963,
     "wof:name":"Pervomays\u2019ke",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

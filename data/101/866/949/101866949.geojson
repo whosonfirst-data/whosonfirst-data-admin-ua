@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Kolarivka"
     ],
+    "name:eng_x_variant":[
+        "Bolharka"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056c\u0561\u0580\u0578\u057e\u056f\u0561"
     ],
@@ -37,8 +40,14 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u043a\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Kolarovka"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":101866949,
-    "wof:lastmodified":1561776917,
+    "wof:lastmodified":1563302438,
     "wof:name":"\u041a\u043e\u043b\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088235,
     "wof:placetype":"locality",

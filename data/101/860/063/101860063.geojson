@@ -25,6 +25,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03c4\u03ac\u03c1\u03ca\u03b9 \u039f\u03c5\u03b3\u03ba\u03c1\u03af\u03bd\u03bf\u03b2"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03ac\u03c1\u03ca\u03b9 \u039f\u03c5\u03b3\u03ba\u03c1\u03af\u03bd\u03bf\u03b2,"
+    ],
     "name:eng_x_preferred":[
         "Staryi Uhryniv"
     ],
@@ -34,8 +37,14 @@
     "name:hye_x_variant":[
         "\u054d\u057f\u0561\u0580\u056b\u0575 \u0548\u0582\u0563\u0580\u056b\u0576\u0578\u057e"
     ],
+    "name:ita_x_preferred":[
+        "Staryj Uhryniv"
+    ],
     "name:kor_x_preferred":[
         ""
+    ],
+    "name:kor_x_variant":[
+        "(\uc6b0\ud06c\uc5b4)\u0421\u0442\u0430\u0440\u0438\u0439 \u0423\u0433\u0440\u0438\u043d\u0456\u0432"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0423\u0433\u0440\u0438\u043d\u043e\u0432"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101860063,
-    "wof:lastmodified":1561776948,
+    "wof:lastmodified":1563302876,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u0423\u0433\u0440\u0438\u043d\u0456\u0432",
     "wof:parent_id":102088203,
     "wof:placetype":"locality",

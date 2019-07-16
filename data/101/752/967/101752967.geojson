@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u062c\u064a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u0698\u06cc\u0646"
+    ],
     "name:bak_x_preferred":[
         "\u041d\u0435\u0436\u0438\u043d"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0436\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Nizhyn"
+    ],
+    "name:ceb_x_preferred":[
+        "Nizhyn"
     ],
     "name:ces_x_preferred":[
         "Ni\u017eyn"
@@ -68,6 +77,9 @@
     "name:fra_x_preferred":[
         "Nijyn"
     ],
+    "name:fra_x_variant":[
+        "Nizhyn"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d6'\u05d9\u05df"
     ],
@@ -82,6 +94,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30b8\u30a3\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30cd\u30fc\u30b8\u30f3"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d4\u10df\u10d8\u10dc\u10d8"
@@ -125,14 +140,23 @@
     "name:slv_x_preferred":[
         "Ni\u017ein"
     ],
+    "name:spa_x_preferred":[
+        "Nizhyn"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0438\u0436\u0438\u043d"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u0456\u0436\u0438\u043d"
     ],
     "name:swe_x_preferred":[
         "Njezjin"
     ],
     "name:tat_x_preferred":[
         "\u041d\u0435\u0436\u0438\u043d"
+    ],
+    "name:tat_x_variant":[
+        "\u041d\u0438\u0436\u044b\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0436\u0438\u043d"
@@ -287,7 +311,7 @@
         }
     ],
     "wof:id":101752967,
-    "wof:lastmodified":1561776896,
+    "wof:lastmodified":1563302209,
     "wof:name":"\u041d\u0456\u0436\u0438\u043d",
     "wof:parent_id":1108815847,
     "wof:placetype":"locality",

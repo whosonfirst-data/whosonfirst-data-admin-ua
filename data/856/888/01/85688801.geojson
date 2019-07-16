@@ -55,6 +55,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de K\u00edev"
     ],
+    "name:ceb_x_preferred":[
+        "Kyiv Oblast"
+    ],
     "name:ces_x_preferred":[
         "Kyjevsk\u00e1 oblast"
     ],
@@ -105,7 +108,8 @@
     ],
     "name:fra_x_variant":[
         "Municipalit\u00e9 de Kiev",
-        "Oblast de Kyiv"
+        "Oblast de Kyiv",
+        "Kiev"
     ],
     "name:glv_x_preferred":[
         "Queiggey Kyiv"
@@ -118,6 +122,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05d9\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e7\u05d9\u05d9\u05d1"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0940\u0935 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
@@ -158,6 +165,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\uc608\ud504 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\uc608\ud504\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Kijevas apgabals"
     ],
@@ -193,6 +203,9 @@
     ],
     "name:nob_x_preferred":[
         "Misto Kyiv"
+    ],
+    "name:nob_x_variant":[
+        "Kiev oblast"
     ],
     "name:nor_x_preferred":[
         "Kiev oblast"
@@ -254,6 +267,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e40\u0e04\u0e35\u0e22\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e40\u0e04\u0e35\u0e22\u0e1f"
+    ],
     "name:tur_x_preferred":[
         "Kiev Oblast\u0131"
     ],
@@ -281,6 +297,9 @@
     ],
     "name:war_x_preferred":[
         "Kiev Oblast"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57fa\u8f85\u5dde"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d8\u10d4\u10d5\u10d8\u10e8 \u10dd\u10da\u10e5\u10d8"
@@ -413,7 +432,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776762,
+    "wof:lastmodified":1563300038,
     "wof:name":"Kiev",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

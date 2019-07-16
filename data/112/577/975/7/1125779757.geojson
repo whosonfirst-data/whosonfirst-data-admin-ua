@@ -40,6 +40,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043d\u0435\u0446\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u0414\u0430\u043d\u0435\u0446\u043a"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09c1\u09a8\u09c7\u09b8\u09cd\u0995"
     ],
@@ -49,7 +52,13 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a"
     ],
+    "name:bxr_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0446\u043a"
+    ],
     "name:cat_x_preferred":[
+        "Donetsk"
+    ],
+    "name:ceb_x_preferred":[
         "Donetsk"
     ],
     "name:ces_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06c6\u0646\u06ce\u062a\u0633\u06a9"
+    ],
+    "name:crh_x_preferred":[
+        "Donetsk"
     ],
     "name:cym_x_preferred":[
         "Donetsk"
@@ -120,6 +132,9 @@
     ],
     "name:hsb_x_preferred":[
         "Donjeck"
+    ],
+    "name:hsb_x_variant":[
+        "Doneck"
     ],
     "name:hun_x_preferred":[
         "Doneck"
@@ -193,11 +208,17 @@
     "name:mon_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a"
     ],
+    "name:mon_x_variant":[
+        "\u0414\u043e\u043d\u0435\u0446\u043a \u0445\u043e\u0442"
+    ],
     "name:msa_x_preferred":[
         "Donetsk"
     ],
     "name:myv_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a \u043e\u0448"
+    ],
+    "name:myv_x_variant":[
+        "\u0414\u043e\u043d\u0435\u0446\u043a\u043e\u0439 \u043e\u0448"
     ],
     "name:nah_x_preferred":[
         "Donetsk"
@@ -207,6 +228,9 @@
     ],
     "name:nno_x_preferred":[
         "Donetsk i Ukraina"
+    ],
+    "name:nno_x_variant":[
+        "Donetsk"
     ],
     "name:nob_x_preferred":[
         "Donetsk"
@@ -288,11 +312,17 @@
     "name:tat_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a"
     ],
+    "name:tat_x_variant":[
+        "\u0414\u043e\u043d\u0435\u0442\u0441\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4a\u0c28\u0c46\u0c38\u0c4d\u0c15\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e40\u0e19\u0e15\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e2d\u0e41\u0e19\u0e15\u0e2a\u0e01\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "Donesk"
@@ -411,7 +441,7 @@
         }
     ],
     "wof:id":1125779757,
-    "wof:lastmodified":1561777028,
+    "wof:lastmodified":1563304020,
     "wof:name":"Donets\u2019k",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

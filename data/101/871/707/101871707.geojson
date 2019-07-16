@@ -17,8 +17,14 @@
     "mps:longitude":35.921374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
+    ],
+    "name:bel_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u044b\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Lyubotyn"
     ],
     "name:ces_x_preferred":[
         "Ljubotyn"
@@ -31,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Lyubotyn"
+    ],
+    "name:eng_x_variant":[
+        "Liubotyn"
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
@@ -79,6 +88,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
+    ],
+    "name:tat_x_variant":[
+        "\u041b\u04af\u0431\u043e\u0442\u044b\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":101871707,
-    "wof:lastmodified":1561776972,
+    "wof:lastmodified":1563303245,
     "wof:name":"\u041b\u044e\u0431\u043e\u0442\u0438\u043d",
     "wof:parent_id":1108730657,
     "wof:placetype":"locality",

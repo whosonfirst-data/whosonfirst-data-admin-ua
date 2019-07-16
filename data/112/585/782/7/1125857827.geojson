@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0427\u044d\u0440\u043d\u044f\u0445\u0456\u045e"
+    ],
+    "name:ceb_x_preferred":[
+        "Chernyakhiv"
+    ],
     "name:chu_x_preferred":[
         "\u0427\u0440\u044c\u043d\ua657\u0445\u043e\u0432\u044a \u00b7 \u0416\u0438\u0442\u043e\u043c\u0438\u0440\u044c\u0441\u043a\ua651 \u043e\u0431\u043b\u0430\u0441\u0442\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7ern\u00e2hiv"
     ],
     "name:deu_x_preferred":[
         "Tschernjachiw"
@@ -42,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044f\u0445\u0456\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u0440\u043d\u044f\u0445\u043e\u0432"
     ],
     "name:sah_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044f\u0445\u043e\u0432"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125857827,
-    "wof:lastmodified":1561777022,
+    "wof:lastmodified":1563303953,
     "wof:name":"Chernyakhiv",
     "wof:parent_id":102088709,
     "wof:placetype":"locality",

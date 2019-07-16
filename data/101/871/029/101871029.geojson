@@ -17,8 +17,11 @@
     "mps:longitude":34.762765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041a\u0430\u0442\u044d\u043b\u044c\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kotel'va"
     ],
     "name:crh_x_preferred":[
         "Kotelva"
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Kotel'va"
+    ],
+    "name:eng_x_variant":[
+        "Kotelva"
     ],
     "name:fra_x_preferred":[
         "Kotelva"
@@ -46,6 +52,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0442\u0435\u043b\u044c\u0432\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u041a\u043e\u0442\u044d\u043b\u044c\u0432\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u0435\u043b\u044c\u0432\u0430"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":101871029,
-    "wof:lastmodified":1561776976,
+    "wof:lastmodified":1563303300,
     "wof:name":"\u041a\u043e\u0442\u0435\u043b\u044c\u0432\u0430",
     "wof:parent_id":102088853,
     "wof:placetype":"locality",

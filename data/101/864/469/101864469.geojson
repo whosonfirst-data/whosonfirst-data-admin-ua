@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0627\u0634"
     ],
-    "name:bel_x_variant":[
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0631\u0627\u0634"
+    ],
+    "name:bel_x_preferred":[
         "\u0412\u0430\u0440\u0430\u0448"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u0430\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Varash"
     ],
     "name:ces_x_preferred":[
         "Vara\u0161"
@@ -67,8 +73,14 @@
     "name:lav_x_preferred":[
         "Vara\u0161a"
     ],
+    "name:lav_x_variant":[
+        "Kuznecovska"
+    ],
     "name:lit_x_preferred":[
         "Kuznecovskas"
+    ],
+    "name:lit_x_variant":[
+        "Vara\u0161a"
     ],
     "name:nld_x_preferred":[
         "Kuznetsovsk"
@@ -93,6 +105,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u043a"
+    ],
+    "name:tat_x_variant":[
+        "\u0412\u0430\u0440\u0430\u0448"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0430\u0448"
@@ -157,7 +172,7 @@
         }
     ],
     "wof:id":101864469,
-    "wof:lastmodified":1561776994,
+    "wof:lastmodified":1563303576,
     "wof:name":"\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730675,
     "wof:placetype":"locality",

@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0427\u044d\u0440\u043d\u0456\u045e\u0446\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Chernivtsi"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7ernivtsi"
+    ],
     "name:deu_x_preferred":[
         "Tscherniwzi"
     ],
@@ -36,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0435\u0432\u0446\u044b"
     ],
     "name:sah_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0435\u0432\u0446\u044b"
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1125901039,
-    "wof:lastmodified":1561777013,
+    "wof:lastmodified":1563303853,
     "wof:name":"Chernivtsi",
     "wof:parent_id":1108815609,
     "wof:placetype":"locality",

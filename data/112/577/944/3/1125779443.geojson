@@ -22,11 +22,20 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kuybysheve"
+    ],
+    "name:crh_x_preferred":[
+        "Bilmak"
+    ],
     "name:deu_x_preferred":[
         "Bilmak"
     ],
     "name:eng_x_preferred":[
         "Kuybysheve"
+    ],
+    "name:eng_x_variant":[
+        "Bilmak"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0575\u0562\u056b\u0577\u0587\u0578"
@@ -52,6 +61,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u044c\u043c\u0430\u043a"
     ],
     "name:unk_x_variant":[
         "Kuybyshevo"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1125779443,
-    "wof:lastmodified":1561777028,
+    "wof:lastmodified":1563304018,
     "wof:name":"Kuybysheve",
     "wof:parent_id":102088373,
     "wof:placetype":"locality",

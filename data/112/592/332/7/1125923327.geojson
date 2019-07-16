@@ -19,8 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0648\u0633\u062a\u06cc\u0627\u0646\u062a\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u0430\u0441\u0446\u044f\u043d\u044d\u0446\u044c"
+    ],
+    "name:ceb_x_preferred":[
+        "Trostyanets'"
+    ],
     "name:ces_x_preferred":[
         "Tros\u0165anec"
+    ],
+    "name:crh_x_preferred":[
+        "Trost\u00e2nets"
     ],
     "name:deu_x_preferred":[
         "Trostjanez"
@@ -28,11 +40,20 @@
     "name:eng_x_preferred":[
         "Trostyanets'"
     ],
+    "name:eng_x_variant":[
+        "Trostianets"
+    ],
+    "name:est_x_preferred":[
+        "Trostjanets"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0648\u0633\u062a\u06cc\u0627\u0646\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Trostianets"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d5\u05e1\u05d8\u05d9\u05d0\u05e0\u05e5"
     ],
     "name:hsb_x_preferred":[
         "Trostjanec"
@@ -42,6 +63,9 @@
     ],
     "name:ita_x_preferred":[
         "Trostjanec'"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30b9\u30c6\u30a3\u30a2\u30cd\u30c3\u30c4"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e0\u10dd\u10e1\u10e2\u10d8\u10d0\u10dc\u10d4\u10ea\u10d8"
@@ -133,7 +157,7 @@
         }
     ],
     "wof:id":1125923327,
-    "wof:lastmodified":1561777006,
+    "wof:lastmodified":1563303773,
     "wof:name":"Trostyanets",
     "wof:parent_id":102088249,
     "wof:placetype":"locality",

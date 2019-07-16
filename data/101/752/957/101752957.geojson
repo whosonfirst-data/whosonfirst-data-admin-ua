@@ -17,6 +17,9 @@
     "mps:longitude":38.375453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u0628\u06cc\u0698\u0646\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0420\u0443\u0431\u0456\u0436\u043d\u044d"
     ],
@@ -25,6 +28,12 @@
     ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u0431\u0438\u0436\u043d\u0435"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u0443\u0431\u0435\u0436\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Rubizhne"
     ],
     "name:ces_x_preferred":[
         "Rubi\u017ene"
@@ -49,6 +58,9 @@
     ],
     "name:fra_x_preferred":[
         "Roubijne"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05d9\u05d6'\u05e0\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Rubi\u017ene"
@@ -106,6 +118,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0420\u0443\u0431\u0435\u0436\u043d\u043e\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u0420\u0443\u0431\u0438\u0436\u043d\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Rubijne"
     ],
     "name:udm_x_preferred":[
         "\u0420\u0443\u0431\u0435\u0436\u043d\u043e\u0435"
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":101752957,
-    "wof:lastmodified":1561776896,
+    "wof:lastmodified":1563302203,
     "wof:name":"\u0420\u0443\u0431\u0456\u0436\u043d\u0435",
     "wof:parent_id":1108730651,
     "wof:placetype":"locality",

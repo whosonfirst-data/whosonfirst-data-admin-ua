@@ -16,8 +16,14 @@
     "mps:longitude":30.191405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0432\u044b\u0448\u0447\u044d"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0442\u0430\u0432\u0456\u0448\u0447\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Stavyshche"
     ],
     "name:crh_x_preferred":[
         "Stav\u0131\u015f\u00e7e"
@@ -28,11 +34,20 @@
     "name:eng_x_preferred":[
         "Stavishche"
     ],
+    "name:eng_x_variant":[
+        "Stavyshche"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d1\u05d9\u05e9\u05e6'\u05d4"
+    ],
     "name:nld_x_preferred":[
         "Stavyshche"
     ],
     "name:pol_x_preferred":[
         "Stawyszcze"
+    ],
+    "name:pol_x_variant":[
+        "Stawiszcze"
     ],
     "name:ron_x_preferred":[
         "Stav\u00ee\u0219ce"
@@ -42,6 +57,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0438\u0449\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0432\u044b\u0448\u0447\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0438\u0449\u0435"
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":101876855,
-    "wof:lastmodified":1561776970,
+    "wof:lastmodified":1563303218,
     "wof:name":"\u0421\u0442\u0430\u0432\u0438\u0449\u0435",
     "wof:parent_id":102088499,
     "wof:placetype":"locality",

@@ -17,18 +17,25 @@
     "mps:longitude":22.721264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u06a9\u0627\u0686\u0641\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0443\u043a\u0430\u0447\u044d\u0432\u044d"
     ],
     "name:bel_x_variant":[
         "\u041c\u0443\u043a\u0430\u0447\u0430\u0432\u0430",
-        "\u041c\u0443\u043a\u0430\u0447\u044d\u0432\u044d"
+        "\u041c\u0443\u043a\u0430\u0447\u044d\u0432\u044d",
+        "\u041c\u0443\u043a\u0430\u0447\u044d\u0432\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e"
     ],
     "name:cat_x_preferred":[
         "Muk\u00e0txeve"
+    ],
+    "name:ceb_x_preferred":[
+        "Mukacheve"
     ],
     "name:ces_x_preferred":[
         "Muka\u010devo"
@@ -48,8 +55,14 @@
     "name:deu_x_preferred":[
         "Mukatschewe"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ba\u03ac\u03c4\u03c3\u03b5\u03b2\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Mukacheve"
+    ],
+    "name:eng_x_variant":[
+        "Mukachevo"
     ],
     "name:epo_x_preferred":[
         "Muka\u0109eve"
@@ -87,8 +100,14 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u056f\u0561\u0579\u0587\u0578"
     ],
+    "name:ind_x_preferred":[
+        "Mukachevo"
+    ],
     "name:ita_x_preferred":[
         "Muka\u010deve"
+    ],
+    "name:ita_x_variant":[
+        "Muka\u010devo"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30ab\u30c1\u30a7\u30f4\u30a9"
@@ -135,17 +154,26 @@
     "name:srp_x_preferred":[
         "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u0435"
+    ],
     "name:swe_x_preferred":[
         "Mukatjeve"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e"
     ],
+    "name:tat_x_variant":[
+        "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u0435"
+    ],
     "name:tur_x_preferred":[
         "Muka\u00e7eve"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Munkacs"
@@ -205,7 +233,7 @@
         }
     ],
     "wof:id":101752805,
-    "wof:lastmodified":1561776895,
+    "wof:lastmodified":1563302197,
     "wof:name":"\u041c\u0443\u043a\u0430\u0447\u0435\u0432\u0435",
     "wof:parent_id":1108815935,
     "wof:placetype":"locality",

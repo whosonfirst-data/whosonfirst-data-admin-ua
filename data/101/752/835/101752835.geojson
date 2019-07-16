@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0646\u0648\u0628\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Tern\u00f3pil"
+    ],
     "name:aze_x_preferred":[
         "Ternopil"
+    ],
+    "name:aze_x_variant":[
+        "Ternop\u0131l"
     ],
     "name:bak_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
@@ -48,6 +54,9 @@
     ],
     "name:cat_x_preferred":[
         "Tern\u00f2pil"
+    ],
+    "name:ceb_x_preferred":[
+        "Ternopil'"
     ],
     "name:ces_x_preferred":[
         "Ternopil"
@@ -208,6 +217,9 @@
     "name:spa_x_preferred":[
         "Tern\u00f3pil"
     ],
+    "name:spa_x_variant":[
+        "Ternopil"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u0459"
     ],
@@ -220,14 +232,23 @@
     "name:tat_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
     ],
+    "name:tat_x_variant":[
+        "\u0422\u0435\u0440\u043d\u043e\u043f\u0438\u043b"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c46\u0c30\u0c4d\u0c28\u0c4b\u0c2a\u0c3f\u0c32\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e42\u0e19\u0e1b\u0e34\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e15\u0e23\u0e4c\u0e19\u0e2d\u0e1b\u0e34\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Ternopil"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u043e\u043f\u0438\u043b\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c"
@@ -237,6 +258,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0631\u0646\u0648\u067e\u06cc\u0644"
+    ],
+    "name:uzb_x_preferred":[
+        "Ternopol"
     ],
     "name:vep_x_preferred":[
         "Ternopol'"
@@ -394,7 +418,7 @@
         }
     ],
     "wof:id":101752835,
-    "wof:lastmodified":1561776895,
+    "wof:lastmodified":1563302192,
     "wof:name":"\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c",
     "wof:parent_id":1108815797,
     "wof:placetype":"locality",

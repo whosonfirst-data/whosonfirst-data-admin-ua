@@ -40,6 +40,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0648\u0645\u0627\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Uman"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u043c\u0430\u043d\u044c"
     ],
@@ -52,8 +55,14 @@
     "name:cat_x_preferred":[
         "Uman"
     ],
+    "name:ceb_x_preferred":[
+        "Uman'"
+    ],
     "name:ces_x_preferred":[
         "Uma\u0148"
+    ],
+    "name:crh_x_preferred":[
+        "Uman"
     ],
     "name:cym_x_preferred":[
         "Uman"
@@ -71,7 +80,6 @@
         "Umans'kyi"
     ],
     "name:eng_x_variant":[
-        "Umans'kyi",
         "Uman"
     ],
     "name:est_x_preferred":[
@@ -88,6 +96,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05df"
+    ],
+    "name:hsb_x_preferred":[
+        "Uman"
     ],
     "name:hun_x_preferred":[
         "Umany"
@@ -134,6 +145,9 @@
     "name:pol_x_preferred":[
         "Rejon huma\u0144ski"
     ],
+    "name:pol_x_variant":[
+        "Huma\u0144"
+    ],
     "name:por_x_preferred":[
         "Uman"
     ],
@@ -149,6 +163,9 @@
     "name:rus_x_preferred":[
         "\u0423\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0423\u043c\u0430\u043d\u044c"
+    ],
     "name:sco_x_preferred":[
         "Uman"
     ],
@@ -157,6 +174,9 @@
     ],
     "name:spa_x_preferred":[
         "Rai\u00f3n de Uman"
+    ],
+    "name:spa_x_variant":[
+        "Uman"
     ],
     "name:srp_x_preferred":[
         "\u0423\u043c\u0430\u045a"
@@ -167,9 +187,15 @@
     "name:tat_x_preferred":[
         "\u0423\u043c\u0430\u043d"
     ],
+    "name:tur_x_preferred":[
+        "Uman"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
         "\u0423\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u043c\u0430\u043d\u044c"
     ],
     "name:und_x_variant":[
         "\u0423\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
@@ -237,7 +263,7 @@
         }
     ],
     "wof:id":102088345,
-    "wof:lastmodified":1561776729,
+    "wof:lastmodified":1563299526,
     "wof:name":"Umanskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

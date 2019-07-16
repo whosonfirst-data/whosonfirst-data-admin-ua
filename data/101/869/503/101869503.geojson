@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0648\u062e\u064a\u0641"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u06a9\u06cc\u0641"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0443\u0445\u0456\u045e"
+    ],
     "name:bel_x_variant":[
         "\u0410\u0431\u0443\u0445\u0430\u045e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obukhiv"
     ],
     "name:ces_x_preferred":[
         "Obuchiv"
@@ -43,6 +52,9 @@
     ],
     "name:fra_x_preferred":[
         "Oboukhiv"
+    ],
+    "name:hsb_x_preferred":[
+        "Obuchiw"
     ],
     "name:hye_x_preferred":[
         "\u0555\u0562\u0578\u0582\u056d\u0578\u057e"
@@ -82,6 +94,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041e\u0431\u0443\u0445\u043e\u0432"
+    ],
+    "name:tat_x_variant":[
+        "\u041e\u0431\u0443\u0445\u0438\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0443\u0445\u0456\u0432"
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":101869503,
-    "wof:lastmodified":1561776940,
+    "wof:lastmodified":1563302752,
     "wof:name":"\u041e\u0431\u0443\u0445\u0456\u0432",
     "wof:parent_id":102088691,
     "wof:placetype":"locality",

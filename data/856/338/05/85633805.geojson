@@ -52,6 +52,9 @@
     "name:ang_x_preferred":[
         "Ucr\u00e6gna"
     ],
+    "name:ang_x_variant":[
+        "Ucr\u00e6\u021dna"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627"
     ],
@@ -97,6 +100,9 @@
     "name:bam_x_preferred":[
         "Uk\u025br\u025bni"
     ],
+    "name:bam_x_variant":[
+        "Ukrain"
+    ],
     "name:bar_x_preferred":[
         "Ukraine"
     ],
@@ -106,14 +112,17 @@
     "name:bel_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0456\u043d\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0423\u043a\u0440\u0430\u0456\u043d\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u0987\u0989\u0995\u09cd\u09b0\u09c7\u09a8"
     ],
     "name:ben_x_variant":[
         "\u0987\u0989\u0995\u09cd\u09b0\u09c7\u0987\u09a8"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u092f\u0942\u0915\u094d\u0930\u0947\u0928"
     ],
     "name:bis_x_preferred":[
         "Ukraine"
@@ -136,11 +145,17 @@
     "name:bre_x_preferred":[
         "Ukraina"
     ],
+    "name:bug_x_preferred":[
+        "Ukraine"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0439\u043d\u0430"
     ],
     "name:bxr_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+    ],
+    "name:bxr_x_variant":[
+        "\u0423\u043a\u0440\u0430\u0439\u043d"
     ],
     "name:cat_x_preferred":[
         "Ucra\u00efna"
@@ -154,8 +169,14 @@
     "name:ceb_x_preferred":[
         "Ukranya"
     ],
+    "name:ceb_x_variant":[
+        "Ukraine"
+    ],
     "name:ces_x_preferred":[
         "Ukrajina"
+    ],
+    "name:cha_x_preferred":[
+        "Ukrania"
     ],
     "name:che_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
@@ -164,7 +185,8 @@
         "\u13f3\u13a7\u13b4\u13c2"
     ],
     "name:chr_x_variant":[
-        "\u13f3\u13ac\u13b3\u13a2\u13c5"
+        "\u13f3\u13ac\u13b3\u13a2\u13c5",
+        "\u13f3\u13a7\u13ea\u13c2"
     ],
     "name:chu_x_preferred":[
         "\u041e\u0443\u043a\u0440\u0430\u0438\u043d\u0430"
@@ -183,6 +205,9 @@
     ],
     "name:cor_x_preferred":[
         "Ukrayn"
+    ],
+    "name:cos_x_preferred":[
+        "Ucraina"
     ],
     "name:crh_x_preferred":[
         "Ukraina"
@@ -213,6 +238,9 @@
     ],
     "name:dsb_x_preferred":[
         "Ukraina"
+    ],
+    "name:dty_x_preferred":[
+        "\u092f\u0941\u0915\u094d\u0930\u0947\u0928"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1"
@@ -248,6 +276,9 @@
     "name:ext_x_preferred":[
         "Ucrania"
     ],
+    "name:ext_x_variant":[
+        "Ucr\u00e1nia"
+    ],
     "name:fao_x_preferred":[
         "Ukraina"
     ],
@@ -256,6 +287,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:fij_x_preferred":[
+        "Ukraine"
     ],
     "name:fin_x_preferred":[
         "Ukraina"
@@ -311,8 +345,17 @@
     "name:got_x_preferred":[
         "\ud800\udf3f\ud800\udf3a\ud800\udf42\ud800\udf30\ud800\udf3e\ud800\udf3d\ud800\udf30"
     ],
+    "name:got_x_variant":[
+        "\ud800\udf3f\ud800\udf3a\ud800\udf42\ud800\udf30\ud800\udf39\ud800\udf3d\ud800\udf30"
+    ],
     "name:grn_x_preferred":[
         "Uky\u00e1\u00f1a"
+    ],
+    "name:grn_x_variant":[
+        "Ukya\u00f1a"
+    ],
+    "name:gsw_x_preferred":[
+        "Ukraine"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac1\u0a95\u0acd\u0ab0\u0ac7\u0aa8"
@@ -322,6 +365,9 @@
     ],
     "name:hak_x_preferred":[
         "V\u00fb-khiet-l\u00e0n"
+    ],
+    "name:hak_x_variant":[
+        "Ukraina"
     ],
     "name:hat_x_preferred":[
         "Ikr\u00e8n"
@@ -363,11 +409,17 @@
     "name:hye_x_preferred":[
         "\u0548\u0582\u056f\u0580\u0561\u056b\u0576\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0548\u0582\u0584\u0580\u0561\u0576\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Yukrain"
     ],
     "name:ido_x_preferred":[
         "Ukrainia"
+    ],
+    "name:ido_x_variant":[
+        "Ukraina"
     ],
     "name:iku_x_preferred":[
         "\u146f\u146f\u14ef \u14c4\u14c7"
@@ -389,6 +441,9 @@
     ],
     "name:ind_x_variant":[
         "Ukrania"
+    ],
+    "name:inh_x_preferred":[
+        "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
     "name:ipk_x_preferred":[
         "Ukraine"
@@ -441,11 +496,20 @@
     "name:kbd_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u0425\u0443\u044d\u0445\u0443\u044d\u043b\u0435\u0439"
+    ],
+    "name:kbp_x_preferred":[
+        "Ukur\u025bn\u0269"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17ca\u17bb\u1799\u1780\u17d2\u179a\u17c2\u1793"
     ],
     "name:kik_x_preferred":[
         "Ukraini"
+    ],
+    "name:kik_x_variant":[
+        "Ukraine"
     ],
     "name:kin_x_preferred":[
         "Ikerene"
@@ -461,6 +525,9 @@
     ],
     "name:kon_x_preferred":[
         "Uklenyi"
+    ],
+    "name:kon_x_variant":[
+        "Ukrayina"
     ],
     "name:kor_x_preferred":[
         "\uc6b0\ud06c\ub77c\uc774\ub098"
@@ -493,6 +560,9 @@
     "name:lez_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
+    "name:lfn_x_preferred":[
+        "Ucraina"
+    ],
     "name:lij_x_preferred":[
         "Ucrainn-a"
     ],
@@ -508,11 +578,17 @@
     "name:lit_x_preferred":[
         "Ukraina"
     ],
+    "name:liv_x_preferred":[
+        "Ukraina"
+    ],
     "name:lmo_x_preferred":[
         "\u00dccraina"
     ],
     "name:lrc_x_preferred":[
         "\u0626\u0648\u0659\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:lrc_x_variant":[
+        "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
     ],
     "name:ltg_x_preferred":[
         "Ukraina"
@@ -528,6 +604,12 @@
     ],
     "name:lug_x_preferred":[
         "Yukurayine"
+    ],
+    "name:lzh_x_preferred":[
+        "\u70cf\u514b\u862d"
+    ],
+    "name:mai_x_preferred":[
+        "\u092f\u0942\u0915\u094d\u0930\u0947\u0928"
     ],
     "name:mal_x_preferred":[
         "\u0d09\u0d15\u0d4d\u0d30\u0d48\u0d7b"
@@ -548,6 +630,9 @@
     "name:mhr_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0435"
     ],
+    "name:mhr_x_variant":[
+        "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
@@ -557,8 +642,14 @@
     "name:mlt_x_preferred":[
         "Ukraina"
     ],
+    "name:mlt_x_variant":[
+        "Ukrajna"
+    ],
     "name:mon_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d"
+    ],
+    "name:mon_x_variant":[
+        "\u0423\u043a\u0440\u0430\u0439\u043d"
     ],
     "name:mri_x_preferred":[
         "\u016akareinga"
@@ -583,6 +674,15 @@
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:mzn_x_variant":[
+        "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:nah_x_preferred":[
+        "Ucrania"
+    ],
+    "name:nan_x_preferred":[
+        "Ukraina"
     ],
     "name:nap_x_preferred":[
         "Ucraina"
@@ -662,6 +762,9 @@
     "name:pan_x_preferred":[
         "\u0a2f\u0a42\u0a15\u0a30\u0a47\u0a28"
     ],
+    "name:pan_x_variant":[
+        "\u0a2f\u0a42\u0a15\u0a4d\u0a30\u0a47\u0a28"
+    ],
     "name:pap_x_preferred":[
         "Ukrania"
     ],
@@ -719,6 +822,9 @@
     "name:run_x_preferred":[
         "Ikerene"
     ],
+    "name:rup_x_preferred":[
+        "Ucraina"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
@@ -728,11 +834,17 @@
     "name:sah_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c63\u1c60\u1c68\u1c6e\u1c71"
+    ],
     "name:scn_x_preferred":[
         "Ucraina"
     ],
     "name:sco_x_preferred":[
         "Ukraine"
+    ],
+    "name:sgs_x_preferred":[
+        "Okra\u0117na"
     ],
     "name:sin_x_preferred":[
         "\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1\u0dba"
@@ -749,11 +861,17 @@
     "name:smo_x_preferred":[
         "Iukureini"
     ],
+    "name:smo_x_variant":[
+        "Ukraine"
+    ],
     "name:sna_x_preferred":[
         "Ukraine"
     ],
     "name:snd_x_preferred":[
         "\u0627\u064f\u0648\u06aa\u0631\u064a\u0646"
+    ],
+    "name:snd_x_variant":[
+        "\u064a\u0648\u06aa\u0631\u064a\u0646"
     ],
     "name:som_x_preferred":[
         "Ukrain"
@@ -906,6 +1024,9 @@
     "name:vec_x_preferred":[
         "Ucraina"
     ],
+    "name:ven_x_preferred":[
+        "Ukraine"
+    ],
     "name:vep_x_preferred":[
         "Ukrain"
     ],
@@ -921,6 +1042,9 @@
     ],
     "name:vol_x_preferred":[
         "Lukray\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Ukraina"
     ],
     "name:war_x_preferred":[
         "Ukranya"
@@ -956,8 +1080,14 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Ukarini"
     ],
+    "name:yue_x_preferred":[
+        "\u70cf\u514b\u862d"
+    ],
     "name:zea_x_preferred":[
         "Oekra\u00efne"
+    ],
+    "name:zha_x_preferred":[
+        "Ukraine"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ukrayina"
@@ -975,7 +1105,8 @@
         "I-Yukreyini"
     ],
     "name:zul_x_variant":[
-        "i-Ukraine"
+        "i-Ukraine",
+        "IYukreyini"
     ],
     "ne:abbrev":"Ukr.",
     "ne:adm0_a3":"UKR",
@@ -1095,7 +1226,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776750,
+    "wof:lastmodified":1563299998,
     "wof:name":"Ukraine",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

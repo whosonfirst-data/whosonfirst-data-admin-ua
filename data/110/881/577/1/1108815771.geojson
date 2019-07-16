@@ -28,6 +28,9 @@
     "meso:type_local":"\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u0440\u0430\u0439\u043e\u043d\u0438 \u0442\u0430 \u0440\u0430\u0434\u0438 \u043e\u0431\u043b\u0430\u0441\u043d\u043e\u0433",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u06cc\u0627\u0633\u0644\u0627\u0641-\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
+    ],
     "name:bak_x_preferred":[
         "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
     ],
@@ -37,8 +40,14 @@
     "name:cat_x_preferred":[
         "Perei\u00e0slav-Khmelnytskyi"
     ],
+    "name:ceb_x_preferred":[
+        "Pereyaslav-Khmel'nyts'kyy"
+    ],
     "name:ces_x_preferred":[
         "Perejaslav-Chmelnyckyj"
+    ],
+    "name:crh_x_preferred":[
+        "Pereyaslav-Hmeln\u0131tsk\u0131y"
     ],
     "name:dan_x_preferred":[
         "Perejaslav-Khmelnytsjkyj"
@@ -48,6 +57,12 @@
     ],
     "name:eng_x_preferred":[
         "Pereiaslav-Khmelnytskyi"
+    ],
+    "name:epo_x_preferred":[
+        "Perejaslav-\u0124melnickij"
+    ],
+    "name:est_x_preferred":[
+        "Perejaslav-Hmeln\u00f5tsk\u00f5i"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u06cc\u0627\u0633\u0644\u0627\u0641-\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
@@ -157,7 +172,7 @@
         }
     ],
     "wof:id":1108815771,
-    "wof:lastmodified":1561776860,
+    "wof:lastmodified":1563301703,
     "wof:name":"Pereiaslav-Khmelnytskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

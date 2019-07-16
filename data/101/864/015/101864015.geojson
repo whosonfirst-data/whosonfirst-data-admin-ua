@@ -17,8 +17,11 @@
     "mps:longitude":23.637462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u043a\u0430\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Rava-Rus'ka"
     ],
     "name:ces_x_preferred":[
         "Rava-Ruska"
@@ -40,6 +43,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05d5\u05d4-\u05e8\u05d5\u05e1\u05e7\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Rawa-Ruska"
     ],
     "name:hye_x_preferred":[
         "\u054c\u0561\u057e\u0561-\u054c\u0578\u0582\u057d\u056f\u0561\u0575\u0561"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":101864015,
-    "wof:lastmodified":1561776991,
+    "wof:lastmodified":1563303528,
     "wof:name":"\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u044c\u043a\u0430",
     "wof:parent_id":102088445,
     "wof:placetype":"locality",

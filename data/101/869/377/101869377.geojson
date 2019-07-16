@@ -19,11 +19,23 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062a\u0633\u0643\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043b\u044b\u0446\u043a\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilyts'ke"
+    ],
     "name:crh_x_preferred":[
         "Bil\u0131tske"
     ],
     "name:deu_x_preferred":[
         "Bilezke"
+    ],
+    "name:deu_x_variant":[
+        "Bilyzke"
+    ],
+    "name:eng_x_preferred":[
+        "Bilytske"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0644\u06cc\u062a\u0633\u06a9\u0647"
@@ -31,8 +43,14 @@
     "name:fra_x_preferred":[
         "Bilytske"
     ],
+    "name:hsb_x_preferred":[
+        "Bilycke"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u056b\u0581\u056f\u0578\u0565"
+    ],
+    "name:ita_x_preferred":[
+        "Bilyc'ke"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30fc\u30eb\u30a3\u30c4\u30a3\u30b1"
@@ -46,7 +64,13 @@
     "name:lit_x_preferred":[
         "Bilick\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Bilytske"
+    ],
     "name:nno_x_preferred":[
+        "Bilytske"
+    ],
+    "name:nob_x_preferred":[
         "Bilytske"
     ],
     "name:nor_x_preferred":[
@@ -54,6 +78,9 @@
     ],
     "name:pol_x_preferred":[
         "Bi\u0142y\u0107ke"
+    ],
+    "name:pol_x_variant":[
+        "Bi\u0142y\u0107kie"
     ],
     "name:ron_x_preferred":[
         "Bil\u00ee\u021bke"
@@ -63,6 +90,9 @@
     ],
     "name:sco_x_preferred":[
         "Bilytske"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u043b\u044b\u0442\u0441\u043a\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0438\u0446\u044c\u043a\u0435"
@@ -128,7 +158,7 @@
         }
     ],
     "wof:id":101869377,
-    "wof:lastmodified":1544750262,
+    "wof:lastmodified":1563302784,
     "wof:name":"\u0411\u0456\u043b\u0438\u0446\u044c\u043a\u0435",
     "wof:parent_id":1108815865,
     "wof:placetype":"locality",

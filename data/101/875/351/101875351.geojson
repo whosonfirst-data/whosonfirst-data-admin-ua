@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Zelyonoye"
     ],
+    "name:eng_x_variant":[
+        "Pljeskavica"
+    ],
     "name:fra_x_preferred":[
         "Pljeskavica"
     ],
@@ -40,8 +43,20 @@
     "name:ita_x_preferred":[
         "Pljeskavica"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30a8\u30b9\u30ab\u30d3\u30c3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub808\uc2a4\uce74\ube44\ucc28"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043b\u0435\u0441\u043a\u0430\u0432\u0438\u0446\u0430"
+    ],
     "name:nld_x_preferred":[
         "Pljeskavica"
+    ],
+    "name:ron_x_preferred":[
+        "pljeskavica"
     ],
     "name:rus_x_historical":[
         "\u0421\u0447\u0430\u0441\u0442\u043b\u0438\u0301\u0432\u0446\u0435\u0432\u0430"
@@ -58,6 +73,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0459\u0435\u0441\u043a\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u043f\u0459\u0435\u0441\u043a\u0430\u0432\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
         "Pljeskavica"
@@ -124,7 +142,7 @@
         }
     ],
     "wof:id":101875351,
-    "wof:lastmodified":1530299592,
+    "wof:lastmodified":1563302276,
     "wof:name":"\u0417\u0435\u043b\u0435\u043d\u0435",
     "wof:parent_id":1108738641,
     "wof:placetype":"locality",

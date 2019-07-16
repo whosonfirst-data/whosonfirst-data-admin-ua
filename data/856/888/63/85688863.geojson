@@ -46,11 +46,17 @@
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09b0\u0995\u09be\u09b8\u09bf \u0993\u09ac\u09cd\u09b2\u09be\u09b8\u09cd\u099f"
     ],
+    "name:bos_x_preferred":[
+        "\u010cerka\u0161ka oblast"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Txerkassi"
+    ],
+    "name:ceb_x_preferred":[
+        "Cherkas'ka Oblast'"
     ],
     "name:ces_x_preferred":[
         "\u010cerkask\u00e1 oblast"
@@ -60,6 +66,9 @@
     ],
     "name:dan_x_preferred":[
         "Tjerkasy oblast"
+    ],
+    "name:dan_x_variant":[
+        "Tjerkasi oblast"
     ],
     "name:deu_x_preferred":[
         "Oblast Tscherkassy"
@@ -92,6 +101,12 @@
     "name:fra_x_preferred":[
         "Oblast de Tcherkassy"
     ],
+    "name:fra_x_variant":[
+        "Tcherkassy"
+    ],
+    "name:frr_x_preferred":[
+        "Tscherkasy"
+    ],
     "name:gle_x_preferred":[
         "C\u00faige Cherkasy"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05e8\u05e7\u05d0\u05e1\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e6'\u05e8\u05e7\u05d0\u05e1\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u091a\u0947\u0930\u0915\u093e\u0938\u0940 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
@@ -142,6 +160,9 @@
     ],
     "name:kor_x_preferred":[
         "\uccb4\ub974\uce74\uc2dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uccb4\ub974\uce74\uc2dc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "\u010cerkasu apgabals"
@@ -178,6 +199,9 @@
     ],
     "name:nor_x_preferred":[
         "Tsjerkasy oblast"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u044b\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0631\u06a9\u06cc\u0633\u06cc \u0627\u0648\u0628\u0644\u0627\u0633\u062a"
@@ -236,6 +260,9 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e4c\u0e04\u0e32\u0e0b\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e41\u0e0a\u0e23\u0e4c\u0e01\u0e32\u0e0b\u0e37\u0e2d"
+    ],
     "name:tur_x_preferred":[
         "\u00c7erkas\u0131 Oblast\u0131"
     ],
@@ -257,6 +284,9 @@
     ],
     "name:uzb_x_preferred":[
         "Cherkassi viloyati"
+    ],
+    "name:uzb_x_variant":[
+        "Cherkasi viloyati"
     ],
     "name:vie_x_preferred":[
         "Cherkasy"
@@ -392,7 +422,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776764,
+    "wof:lastmodified":1563300044,
     "wof:name":"Cherkasy",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

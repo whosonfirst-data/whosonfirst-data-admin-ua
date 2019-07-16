@@ -55,6 +55,9 @@
     "name:cat_x_preferred":[
         "Transcarp\u00e0cia"
     ],
+    "name:ceb_x_preferred":[
+        "Zakarpattia Oblast"
+    ],
     "name:ces_x_preferred":[
         "Zakarpatsk\u00e1 oblast"
     ],
@@ -73,6 +76,9 @@
     "name:ell_x_preferred":[
         "\u0396\u03b1\u03ba\u03b1\u03c1\u03c0\u03ac\u03c4\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0396\u03b1\u03ba\u03b1\u03c1\u03c0\u03ac\u03c4\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Zakarpattia"
     ],
@@ -88,6 +94,9 @@
     "name:est_x_preferred":[
         "Taga-Karpaadi oblast"
     ],
+    "name:est_x_variant":[
+        "Taga-Karpaatia"
+    ],
     "name:eus_x_preferred":[
         "Transkarpatiako oblasta"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:fra_x_preferred":[
         "Oblast de Transcarpatie"
+    ],
+    "name:fra_x_variant":[
+        "Transcarpatie"
     ],
     "name:glv_x_preferred":[
         "Queiggey Zakarpattia"
@@ -157,6 +169,9 @@
     "name:kor_x_preferred":[
         "\uc790\uce74\ub974\ud30c\ud0f8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uce74\ub974\ud30c\ud0f8\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Ruthenia Subcarpathanea"
     ],
@@ -196,6 +211,9 @@
     "name:nor_x_preferred":[
         "Zakarpattja oblast"
     ],
+    "name:oci_x_preferred":[
+        "Transcarp\u00e0cia"
+    ],
     "name:oss_x_preferred":[
         "\u0424\u00e6\u0441\u043a\u0430\u0440\u043f\u0430\u0442\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
@@ -210,6 +228,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Transcarpatia"
+    ],
+    "name:ron_x_variant":[
+        "Transcarpatia"
     ],
     "name:rue_x_preferred":[
         "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u044c\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -241,6 +262,9 @@
     "name:swe_x_preferred":[
         "Zakarpatska oblast"
     ],
+    "name:swe_x_variant":[
+        "Zakarpattia oblast"
+    ],
     "name:szl_x_preferred":[
         "Zakarpacki uobw\u016fd"
     ],
@@ -255,6 +279,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e0b\u0e32\u0e04\u0e32\u0e23\u0e4c\u0e41\u0e1e\u0e17\u0e40\u0e17\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e0b\u0e32\u0e01\u0e32\u0e23\u0e4c\u0e1b\u0e31\u0e15\u0e40\u0e15\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
         "Zakarpatya Oblast\u0131"
@@ -416,7 +443,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776763,
+    "wof:lastmodified":1563300040,
     "wof:name":"Zakarpattia",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

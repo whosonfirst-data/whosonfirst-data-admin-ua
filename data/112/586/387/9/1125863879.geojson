@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0415\u0440\u043a\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Yerky"
+    ],
     "name:ces_x_preferred":[
         "Jerky"
+    ],
+    "name:crh_x_preferred":[
+        "Yerk\u0131"
     ],
     "name:deu_x_preferred":[
         "Jerky"
@@ -45,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u042d\u0440\u043a\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u0404\u0440\u043a\u0438"
     ],
     "name:unk_x_variant":[
         "Yerky"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125863879,
-    "wof:lastmodified":1561777011,
+    "wof:lastmodified":1563303830,
     "wof:name":"Yerki",
     "wof:parent_id":102088415,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:dan_x_preferred":[
         "Pripjat"
     ],
+    "name:dan_x_variant":[
+        "Prypiat"
+    ],
     "name:deu_x_preferred":[
         "Prypjat"
     ],
@@ -63,10 +66,14 @@
         "\u03a0\u03c1\u03b9\u03c0\u03b9\u03ac\u03c4"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03a1\u0399\u03a0\u0393\u0399\u0391\u03a4"
+        "\u03a0\u03a1\u0399\u03a0\u0393\u0399\u0391\u03a4",
+        "\u03a0\u03c1\u03af\u03c0\u03b9\u03b1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Pripyat'"
+    ],
+    "name:eng_x_variant":[
+        "Pripyat"
     ],
     "name:epo_x_preferred":[
         "Pripjat"
@@ -113,6 +120,12 @@
     "name:ita_x_preferred":[
         "Prypjat"
     ],
+    "name:ita_x_variant":[
+        "Pryp'jat'"
+    ],
+    "name:jav_x_preferred":[
+        "Pripyat"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30d4\u30e3\u30c1"
     ],
@@ -151,6 +164,9 @@
     ],
     "name:nor_x_preferred":[
         "Pripjat"
+    ],
+    "name:oci_x_preferred":[
+        "Pr\u00edpiat"
     ],
     "name:oss_x_preferred":[
         "\u041f\u0440\u0438\u043f\u044f\u0442\u044c"
@@ -222,6 +238,12 @@
     "name:war_x_preferred":[
         "Pripyat"
     ],
+    "name:wuu_x_preferred":[
+        "\u666e\u91cc\u76ae\u4e9a\u5b63"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10e0\u10d8\u10de\u10d8\u10d0\u10e2\u10d8"
+    ],
     "name:yue_x_preferred":[
         "\u666e\u91cc\u76ae\u4e9e\u829d"
     ],
@@ -279,7 +301,7 @@
         }
     ],
     "wof:id":101871329,
-    "wof:lastmodified":1561776977,
+    "wof:lastmodified":1563303327,
     "wof:name":"\u041f\u0440\u0438\u043f'\u044f\u0442\u044c",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

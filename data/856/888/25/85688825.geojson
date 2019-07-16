@@ -46,11 +46,17 @@
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09b0\u09cd\u09a8\u09bf\u09b9\u09bf\u09ad \u0993\u09ac\u09cd\u09b2\u09be\u09b8\u09cd\u099f"
     ],
+    "name:bos_x_preferred":[
+        "\u010cernigivska oblast"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Txern\u00edhiv"
+    ],
+    "name:ceb_x_preferred":[
+        "Chernihivs'ka Oblast'"
     ],
     "name:ces_x_preferred":[
         "\u010cernihivsk\u00e1 oblast"
@@ -92,6 +98,12 @@
     "name:fra_x_preferred":[
         "Oblast de Tchernihiv"
     ],
+    "name:fra_x_variant":[
+        "Tchernihiv"
+    ],
+    "name:frr_x_preferred":[
+        "Tschernihiw"
+    ],
     "name:glv_x_preferred":[
         "Queiggey Chernihiv"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05e8\u05e0\u05d9\u05d4\u05d9\u05d1"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e6'\u05e8\u05e0\u05d9\u05d4\u05d9\u05d1"
     ],
     "name:hin_x_preferred":[
         "\u091a\u0947\u0930\u0928\u093f\u0939\u093e\u0907\u0935 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
@@ -133,6 +148,9 @@
     ],
     "name:kor_x_preferred":[
         "\uccb4\ub974\ub2c8\ud788\uc6b0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uccb4\ub974\ub2c8\ud788\uc6b0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "\u010cer\u0146igovas apgabals"
@@ -197,6 +215,9 @@
     "name:sah_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432 \u0443\u043e\u0431\u0430\u043b\u0430\u04bb\u0430"
     ],
+    "name:sah_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0438\u0433\u043e\u0432 \u0443\u043e\u0431\u0430\u043b\u0430\u0441"
+    ],
     "name:sco_x_preferred":[
         "Chernihiv Oblast"
     ],
@@ -230,6 +251,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e4c\u0e19\u0e35\u0e2e\u0e34\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e41\u0e0a\u0e23\u0e4c\u0e19\u0e35\u0e2e\u0e34\u0e27"
+    ],
     "name:tur_x_preferred":[
         "\u00c7ernigov Oblast\u0131"
     ],
@@ -252,6 +276,9 @@
     ],
     "name:uzb_x_preferred":[
         "Chernigov viloyati"
+    ],
+    "name:uzb_x_variant":[
+        "Chernigiv viloyati"
     ],
     "name:vie_x_preferred":[
         "Chernihiv"
@@ -387,7 +414,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776766,
+    "wof:lastmodified":1563300051,
     "wof:name":"Chernihiv",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

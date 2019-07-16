@@ -21,8 +21,17 @@
     "name:afr_x_preferred":[
         "Kirowohrad"
     ],
+    "name:afr_x_variant":[
+        "Kropywnytskyj"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641\u0648\u0647\u0631\u0627\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0631\u0648\u0628\u064a\u0641\u0646\u064a\u062a\u0633\u0643\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Kropyvnytsky"
     ],
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0648\u067e\u06cc\u0648\u0646\u06cc\u0633\u06a9\u06cc"
@@ -32,6 +41,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:bak_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0440\u0430\u0432\u0430\u0433\u0440\u0430\u0434"
@@ -46,7 +58,16 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438"
+    ],
     "name:cat_x_preferred":[
+        "Kirovohrad"
+    ],
+    "name:cat_x_variant":[
+        "Krop\u00edvnitski"
+    ],
+    "name:ceb_x_preferred":[
         "Kirovohrad"
     ],
     "name:ces_x_preferred":[
@@ -58,8 +79,14 @@
     "name:che_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:che_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
+    ],
     "name:crh_x_preferred":[
         "Kirovograd"
+    ],
+    "name:crh_x_variant":[
+        "Krop\u0131vn\u0131tsk\u0131y"
     ],
     "name:dan_x_preferred":[
         "Kirovohrad"
@@ -91,8 +118,14 @@
     "name:epo_x_preferred":[
         "Kirovohrado"
     ],
+    "name:epo_x_variant":[
+        "Kropivnickij"
+    ],
     "name:est_x_preferred":[
         "Kirovograd"
+    ],
+    "name:est_x_variant":[
+        "Krop\u00f5vn\u00f5tsk\u00f5i"
     ],
     "name:eus_x_preferred":[
         "Kirovohrad"
@@ -121,6 +154,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05d5\u05d1\u05d5\u05d2\u05e8\u05d3"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e8\u05d5\u05e4\u05d9\u05d1\u05e0\u05d9\u05e6\u05e7\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0930\u094b\u092a\u0940\u0935\u0928\u093f\u0924\u094d\u0938\u0915\u0940"
     ],
@@ -133,14 +169,23 @@
     "name:hun_x_preferred":[
         "Kirovohrad"
     ],
+    "name:hun_x_variant":[
+        "Kropivnickij"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0578\u057e\u0578\u0563\u0580\u0561\u0564"
     ],
     "name:ind_x_preferred":[
         "Kirovohrad"
     ],
+    "name:ind_x_variant":[
+        "Kropyvnytskyi"
+    ],
     "name:ita_x_preferred":[
         "Kirovograd"
+    ],
+    "name:ita_x_variant":[
+        "Kropyvnytskyi"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30ed\u30f4\u30a9\u30d5\u30e9\u30fc\u30c9"
@@ -157,11 +202,20 @@
     "name:kir_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
+    ],
     "name:kor_x_preferred":[
         "\ud0a4\ub85c\ubcf4\ud750\ub77c\ub4dc"
     ],
+    "name:kor_x_variant":[
+        "\ud06c\ub85c\ud53c\uc6b0\ub2c8\uce20\ud0a4"
+    ],
     "name:lav_x_preferred":[
         "Kirovohrada"
+    ],
+    "name:lav_x_variant":[
+        "Kropivnicka"
     ],
     "name:lit_x_preferred":[
         "Kirovohradas"
@@ -175,6 +229,9 @@
     "name:mhr_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:mhr_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -183,6 +240,9 @@
     ],
     "name:mon_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:mon_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0438\u0439"
     ],
     "name:msa_x_preferred":[
         "Kirovohrad"
@@ -248,8 +308,14 @@
     "name:sah_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:sah_x_variant":[
+        "\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u043a\u0430\u0439"
+    ],
     "name:sco_x_preferred":[
         "Kirovohrad"
+    ],
+    "name:sco_x_variant":[
+        "Kropyvnytskyi"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dca\u0dbb\u0ddd\u0db4\u0dd2\u0dc0\u0dca\u0db1\u0dd2\u0da7\u0dca\u0dc3\u0dca\u0d9a\u0dd2"
@@ -262,6 +328,9 @@
     ],
     "name:spa_x_preferred":[
         "Kirovogrado"
+    ],
+    "name:spa_x_variant":[
+        "Kropivnitskiy"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
@@ -278,11 +347,17 @@
     "name:tat_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:tat_x_variant":[
+        "\u041a\u0440\u043e\u043f\u044b\u0432\u043d\u044b\u0442\u0441\u043a\u044b\u0439"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c30\u0c4a\u0c2a\u0c40\u0c35\u0c40\u0c28\u0c3f\u0c1f\u0c4d\u0c38\u0c4d\u0c15\u0c40\u0c15\u0c3f"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e23\u0e1b\u0e35\u0e49\u0e19\u0e35\u0e17\u0e31\u0e2a\u0e22\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e23\u0e2d\u0e1b\u0e36\u0e27\u0e19\u0e36\u0e15\u0e2a\u0e01\u0e36\u0e22"
     ],
     "name:tur_x_preferred":[
         "Kirovograd"
@@ -322,8 +397,14 @@
     "name:vie_x_preferred":[
         "Kirovohrad"
     ],
+    "name:vie_x_variant":[
+        "Kropyvnytskyi"
+    ],
     "name:war_x_preferred":[
         "Kirovohrad"
+    ],
+    "name:war_x_variant":[
+        "Kropyvnytskyi"
     ],
     "name:yid_x_preferred":[
         "\u05d9\u05e2\u05dc\u05d9\u05e1\u05d0\u05d5\u05d5\u05e2\u05d8\u05d2\u05e8\u05d0\u05d3"
@@ -479,7 +560,7 @@
         }
     ],
     "wof:id":101752847,
-    "wof:lastmodified":1561776897,
+    "wof:lastmodified":1563302225,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434",
     "wof:parent_id":1108815977,
     "wof:placetype":"locality",

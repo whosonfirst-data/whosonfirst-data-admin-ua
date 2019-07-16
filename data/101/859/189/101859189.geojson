@@ -46,6 +46,9 @@
     "name:epo_x_preferred":[
         "Metroo de Sofio"
     ],
+    "name:epo_x_variant":[
+        "Bene"
+    ],
     "name:est_x_preferred":[
         "Sofia metroo"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "M\u00e9tro de Sofia"
+    ],
+    "name:fra_x_variant":[
+        "Bene"
     ],
     "name:glg_x_preferred":[
         "Bene"
@@ -115,6 +121,9 @@
     "name:pol_x_preferred":[
         "Metro w Sofii"
     ],
+    "name:pol_x_variant":[
+        "Bene"
+    ],
     "name:por_x_preferred":[
         "Metro de S\u00f3fia"
     ],
@@ -130,11 +139,17 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0442\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u044d\u043d\u044d"
+    ],
     "name:slk_x_preferred":[
         "Sofijsk\u00e9 metro"
     ],
     "name:spa_x_preferred":[
         "Metro de Sof\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Bene"
     ],
     "name:swe_x_preferred":[
         "Sofias tunnelbana"
@@ -209,7 +224,7 @@
         }
     ],
     "wof:id":101859189,
-    "wof:lastmodified":1561776909,
+    "wof:lastmodified":1563302328,
     "wof:name":"\u0411\u0435\u043d\u0435",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

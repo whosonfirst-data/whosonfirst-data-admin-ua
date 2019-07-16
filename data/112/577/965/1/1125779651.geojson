@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u044b\u0440\u044b\u043b\u0456\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u0438\u043b\u0438\u0432\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyrylivka"
     ],
     "name:deu_x_preferred":[
         "Kyryliwka"
@@ -30,6 +36,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u056b\u056c\u056c\u0578\u057e\u056f\u0561"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ea\u30ea\u30d5\u30ab"
     ],
     "name:lav_x_preferred":[
         "Kiri\u013civka"
@@ -45,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0438\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u0438\u043b\u0456\u0432\u043a\u0430"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125779651,
-    "wof:lastmodified":1561777024,
+    "wof:lastmodified":1563303988,
     "wof:name":"Kyrylivka",
     "wof:parent_id":102088091,
     "wof:placetype":"locality",

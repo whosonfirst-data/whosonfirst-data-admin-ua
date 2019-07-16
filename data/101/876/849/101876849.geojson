@@ -25,6 +25,9 @@
     "name:bel_x_variant":[
         "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Znomenka"
+    ],
     "name:ces_x_preferred":[
         "Znamjanka"
     ],
@@ -37,11 +40,17 @@
     "name:eng_x_preferred":[
         "Znam\u201dyanka"
     ],
+    "name:eng_x_variant":[
+        "Znamianka"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0646\u0627\u0645\u06cc\u0627\u0646\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Znamianka"
+    ],
+    "name:hsb_x_preferred":[
+        "Znamjanka"
     ],
     "name:hye_x_preferred":[
         "\u0536\u0576\u0561\u0574\u0565\u0576\u056f\u0561"
@@ -76,11 +85,17 @@
     "name:rus_x_preferred":[
         "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Zn\u00e1myanka"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u043d\u0430\u043c\u0459\u0430\u043d\u043a\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0417\u043d\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:tat_x_variant":[
+        "\u0417\u043d\u0430\u043c\u044c\u044f\u043d\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430"
@@ -143,7 +158,7 @@
         }
     ],
     "wof:id":101876849,
-    "wof:lastmodified":1561776968,
+    "wof:lastmodified":1563303206,
     "wof:name":"\u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430",
     "wof:parent_id":1108730811,
     "wof:placetype":"locality",

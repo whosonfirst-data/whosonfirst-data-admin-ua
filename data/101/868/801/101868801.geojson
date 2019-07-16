@@ -16,8 +16,14 @@
     "mps:longitude":38.901683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0631\u0648\u0641\u0633\u0643\u064a"
+    ],
     "name:ces_x_preferred":[
         "Petrovske"
+    ],
+    "name:ces_x_variant":[
+        "Petrovo-Krasnosele"
     ],
     "name:crh_x_preferred":[
         "Petrovske"
@@ -25,17 +31,32 @@
     "name:deu_x_preferred":[
         "Petrowske"
     ],
+    "name:deu_x_variant":[
+        "Petrowo-Krasnosillja"
+    ],
+    "name:eng_x_preferred":[
+        "Petrovo-Krasnosill'a"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u062a\u0631\u0648\u0641\u0633\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
         "Petrovo Krasnosillia"
     ],
+    "name:hsb_x_preferred":[
+        "Petrowo-Krasnosyllja"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u057f\u0580\u0578\u057e\u057d\u056f\u0578\u0565"
     ],
+    "name:ita_x_preferred":[
+        "Petrovs'ke"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10dd-\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10e1\u10d4\u10da\u10d8\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10dd\u10d4"
     ],
     "name:lav_x_preferred":[
         "Petrovske"
@@ -52,8 +73,14 @@
     "name:ron_x_preferred":[
         "Petrivske"
     ],
+    "name:ron_x_variant":[
+        "Petrovske"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0438\u043b\u043b\u04d9"
     ],
     "name:udm_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
@@ -112,7 +139,7 @@
         }
     ],
     "wof:id":101868801,
-    "wof:lastmodified":1544749939,
+    "wof:lastmodified":1563302685,
     "wof:name":"\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088695,
     "wof:placetype":"locality",

@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u043d\u0430\u0431\u0430\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Chornobay"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7ornobay"
+    ],
     "name:deu_x_preferred":[
         "Tschornobaj"
     ],
     "name:eng_x_preferred":[
         "Chornobay"
+    ],
+    "name:eng_x_variant":[
+        "Chornobai"
     ],
     "name:ita_x_preferred":[
         "\u010cornobai"
@@ -33,6 +45,9 @@
     ],
     "name:ron_x_preferred":[
         "Ciornobai"
+    ],
+    "name:ron_x_variant":[
+        "Poroshkovo"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0431\u0430\u0439"
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1125900995,
-    "wof:lastmodified":1561777014,
+    "wof:lastmodified":1563303862,
     "wof:name":"Chornobay",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

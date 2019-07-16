@@ -22,8 +22,14 @@
     "name:bel_x_preferred":[
         "\u0422\u0440\u044b\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 \u0422\u0440\u044b\u043f\u043e\u043b\u044c\u0435-\u041a\u0443\u043a\u0443\u0442\u0435\u043d\u044c"
+    ],
     "name:cat_x_preferred":[
         "Cultura de Cucuteni"
+    ],
+    "name:ces_x_preferred":[
+        "cucutensko-tripolsk\u00e1 kultura"
     ],
     "name:dan_x_preferred":[
         "Cucuteni-kulturen"
@@ -34,8 +40,14 @@
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2 \u039a\u03bf\u03c5\u03ba\u03bf\u03c5\u03c4\u03ad\u03bd\u03b9"
     ],
+    "name:eng_x_preferred":[
+        "Cucuteni-Trypillia culture"
+    ],
     "name:est_x_preferred":[
         "Cucuteni-Tripilja kultuur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0647\u0646\u06af \u06a9\u06cc\u0648\u06a9\u0648\u062a\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Tripoljen kulttuuri"
@@ -61,8 +73,17 @@
     "name:jpn_x_preferred":[
         "\u30af\u30af\u30c6\u30cb\u6587\u5316"
     ],
+    "name:lfn_x_preferred":[
+        "Cultur Cucuteni-Trypillia"
+    ],
+    "name:lit_x_preferred":[
+        "Kukutenio-Tripol\u0117s kult\u016bra"
+    ],
     "name:nld_x_preferred":[
         "Cucutenicultuur"
+    ],
+    "name:nob_x_preferred":[
+        "Cucuteni-kulturen"
     ],
     "name:nor_x_preferred":[
         "Cucuteni-kulturen"
@@ -79,6 +100,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0438\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 \u0422\u0440\u0438\u043f\u043e\u043b\u044c\u0435-\u041a\u0443\u043a\u0443\u0442\u0435\u043d\u044c"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0d9a\u0dd4\u0da7\u0dd9\u0db1\u0dd2 \u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dd8\u0dad\u0dd2\u0dba"
     ],
@@ -94,11 +118,17 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0438\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0443\u043a\u0443\u0442\u0435\u043d\u0456 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
+    ],
     "name:uzb_x_preferred":[
         "Tripolye madaniyati"
     ],
     "name:vie_x_preferred":[
         "V\u0103n h\u00f3a Cucuteni-Tripillia"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u91cc\u6ce2\u8036\u6587\u5316"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -145,7 +175,7 @@
         }
     ],
     "wof:id":101862843,
-    "wof:lastmodified":1544746691,
+    "wof:lastmodified":1563303361,
     "wof:name":"\u041b\u0435\u043d\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":1108815721,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0644\u0627\u0633\u062a \u0623\u0648\u062f\u064a\u0633\u0627"
     ],
+    "name:ast_x_preferred":[
+        "\u00d3blast d'Odesa"
+    ],
     "name:aze_x_preferred":[
         "Odessa vilay\u0259ti"
     ],
@@ -57,11 +60,17 @@
     "name:ben_x_preferred":[
         "\u0993\u09a1\u09c7\u09b8\u09cd\u09af\u09be \u0993\u09ac\u09cd\u09b2\u09be\u09b8\u09cd\u099f"
     ],
+    "name:bos_x_preferred":[
+        "Odeska oblast"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0434\u0435\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Odessa"
+    ],
+    "name:ceb_x_preferred":[
+        "Odes'ka Oblast'"
     ],
     "name:ces_x_preferred":[
         "Od\u011bsk\u00e1 oblast"
@@ -77,6 +86,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03bd\u03c4\u03ad\u03c3\u03c3\u03b1 \u039f\u03bc\u03c0\u03bb\u03ac\u03c3\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039f\u03b4\u03b7\u03c3\u03c3\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Odessa"
@@ -104,6 +116,9 @@
     "name:fra_x_preferred":[
         "Oblast d'Odessa"
     ],
+    "name:fra_x_variant":[
+        "Odessa"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Odesa"
     ],
@@ -118,6 +133,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d3\u05e1\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05d3\u05e1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0921\u0947\u0938\u093e \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
@@ -154,6 +172,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ub370\uc0ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ub370\uc0ac\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Odesas apgabals"
@@ -206,6 +227,9 @@
     "name:ron_x_preferred":[
         "Regiunea Odesa"
     ],
+    "name:ron_x_variant":[
+        "Odesa"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u0434\u0435\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -242,11 +266,17 @@
     "name:tat_x_preferred":[
         "\u041e\u0434\u0435\u0441\u0441\u0430 \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
+    "name:tat_x_variant":[
+        "\u04d8\u0434\u0438\u0441 \u04e9\u043b\u043a\u04d9\u0441\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c12\u0c21\u0c46\u0c38\u0c4d\u0c38\u0c3e \u0c13\u0c2c\u0c4d\u0c32\u0c3e\u0c38\u0c4d\u0c1f\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e2d\u0e40\u0e14\u0e2a\u0e0b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e2d\u0e2d\u0e41\u0e14\u0e0b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Odessa Oblast\u0131"
@@ -341,7 +371,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776764,
+    "wof:lastmodified":1563300047,
     "wof:name":"Odessa",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

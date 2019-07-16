@@ -18,8 +18,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
+    "name:aar_x_preferred":[
+        "Dnipro"
+    ],
+    "name:abk_x_preferred":[
+        "\u0414\u043d\u0438\u043f\u0440\u043e"
+    ],
+    "name:ace_x_preferred":[
+        "Dnipro"
+    ],
+    "name:ady_x_preferred":[
+        "\u0414\u043d\u0438\u043f\u0440\u043e"
+    ],
     "name:afr_x_preferred":[
         "Dnipro"
+    ],
+    "name:amh_x_preferred":[
+        "\u12f2\u1292\u122e"
     ],
     "name:ara_x_preferred":[
         "\u062f\u0646\u064a\u0628\u0631\u0648"
@@ -27,11 +42,20 @@
     "name:ara_x_variant":[
         "\u062f\u0646\u064a\u0628\u0631\u0648\u0628\u062a\u0631\u0648\u0641\u0633\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Dnipr\u00f3"
+    ],
     "name:aze_x_preferred":[
         "Dnipro"
     ],
+    "name:aze_x_variant":[
+        "Dnepr"
+    ],
     "name:bak_x_preferred":[
         "\u0414\u043d\u0438\u043f\u0440\u043e"
+    ],
+    "name:bak_x_variant":[
+        "\u0414\u043d\u0435\u043f\u0440"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u043d\u0456\u043f\u0440\u043e"
@@ -43,6 +67,12 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09aa\u09cd\u09b0\u09cb\u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09ad\u09b8\u09cd\u0995"
     ],
+    "name:ben_x_variant":[
+        "\u09a6\u09a8\u09c7\u09aa\u09cd\u09b0"
+    ],
+    "name:bos_x_preferred":[
+        "Dnipro"
+    ],
     "name:bre_x_preferred":[
         "Dnipro"
     ],
@@ -50,7 +80,8 @@
         "\u0414\u043d\u0435\u043f\u044a\u0440"
     ],
     "name:bul_x_variant":[
-        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+        "\u0414\u043d\u0438\u043f\u0440\u043e"
     ],
     "name:bxr_x_preferred":[
         "\u0414\u043d\u0438\u043f\u0440\u043e \u0445\u043e\u0442\u043e"
@@ -58,8 +89,14 @@
     "name:cat_x_preferred":[
         "Dnipr\u00f3"
     ],
+    "name:ceb_x_preferred":[
+        "Dnipro"
+    ],
     "name:ces_x_preferred":[
         "Dn\u011bpropetrovsk"
+    ],
+    "name:ces_x_variant":[
+        "Dnipro"
     ],
     "name:che_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440"
@@ -69,6 +106,12 @@
     ],
     "name:chv_x_variant":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:cos_x_preferred":[
+        "Dnipro"
+    ],
+    "name:cre_x_preferred":[
+        "Dnipro"
     ],
     "name:crh_x_preferred":[
         "Dnipro"
@@ -90,6 +133,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bd\u03b9\u03c0\u03c1\u03bf\u03c0\u03b5\u03c4\u03c1\u03cc\u03c6\u03c3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03bd\u03af\u03c0\u03c1\u03bf"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -150,11 +196,29 @@
     "name:fry_x_variant":[
         "Dnjepropetrovsk"
     ],
+    "name:gla_x_preferred":[
+        "Dnipro"
+    ],
+    "name:gle_x_preferred":[
+        "Dnipro"
+    ],
     "name:glg_x_preferred":[
         "Dnipro"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac0\u0aa8\u0abf\u0aaa\u0acd\u0ab0\u0acb\u0aaa\u0ac7\u0a9f\u0acd\u0ab0\u0acb\u0ab5\u0ab8\u0acd\u0a95"
+    ],
+    "name:guj_x_variant":[
+        "\u0aa1\u0acb\u0aa8\u0abf\u0aaa\u0acd\u0ab0\u0acb"
+    ],
+    "name:hat_x_preferred":[
+        "Dnipro"
+    ],
+    "name:hau_x_preferred":[
+        "Dnipro"
+    ],
+    "name:haw_x_preferred":[
+        "\u02bbO Dnipro"
     ],
     "name:hbs_x_preferred":[
         "Dnjipro"
@@ -168,8 +232,14 @@
     "name:heb_x_variant":[
         "\u05d3\u05e0\u05d9\u05e4\u05e8\u05d5\u05e4\u05d8\u05e8\u05d5\u05d1\u05e1\u05e7"
     ],
+    "name:her_x_preferred":[
+        "Dnipro"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u093f\u092a\u094d\u0930\u094b"
+    ],
+    "name:hin_x_variant":[
+        "\u0928\u093f\u092a\u094d\u0930\u0949"
     ],
     "name:hrv_x_preferred":[
         "Dnjipro"
@@ -195,10 +265,19 @@
     "name:hye_x_variant":[
         "\u0534\u0576\u0565\u057a\u0580\u0578\u057a\u0565\u057f\u0580\u0578\u057e\u057d\u056f"
     ],
+    "name:ibo_x_preferred":[
+        "Dnipro"
+    ],
+    "name:ido_x_preferred":[
+        "Dnipro"
+    ],
     "name:ile_x_preferred":[
         "Dnipro"
     ],
     "name:ind_x_preferred":[
+        "Dnipro"
+    ],
+    "name:isl_x_preferred":[
         "Dnipro"
     ],
     "name:ita_x_preferred":[
@@ -207,8 +286,14 @@
     "name:ita_x_variant":[
         "Dnipropetrovs'k"
     ],
+    "name:jav_x_preferred":[
+        "Dnipro"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30cb\u30d7\u30ed\u30da\u30c8\u30ed\u30a6\u30b7\u30af"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c9\u30cb\u30d7\u30ed"
     ],
     "name:kaa_x_preferred":[
         "Dnipro"
@@ -219,6 +304,9 @@
     "name:kan_x_preferred":[
         "\u0ca6\u0ccd\u0ca8\u0cbf\u0caa\u0ccd\u0cb0\u0ccb\u0caa\u0cc6\u0ca4\u0ccd\u0cb0\u0ccb\u0cb5\u0ccd\u0cb8\u0ccd\u0c95\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0ca6\u0ccd\u0ca8\u0cbf\u0caa\u0ccd\u0cb0\u0cca"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10dc\u10d4\u10de\u10e0\u10d8"
     ],
@@ -228,8 +316,17 @@
     "name:kaz_x_preferred":[
         "\u0414\u043d\u0456\u043f\u0440\u043e"
     ],
+    "name:kaz_x_variant":[
+        "\u0414\u043d\u0435\u043f\u0440"
+    ],
+    "name:khm_x_preferred":[
+        "\u178c\u17b8\u1793\u17b8\u1782\u17b6\u17c6\u1791\u17d2\u179a"
+    ],
     "name:kir_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:kir_x_variant":[
+        "\u0414\u043d\u0435\u043f\u0440"
     ],
     "name:kor_x_preferred":[
         "\ub4dc\ub2c8\ud504\ub85c"
@@ -237,20 +334,45 @@
     "name:kor_x_variant":[
         "\ub4dc\ub2c8\ud504\ub85c\ud398\ud2b8\ub85c\uc6b0\uc2dc\ud06c"
     ],
+    "name:kur_x_preferred":[
+        "Dnipro"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0eb7\u0ec9\u0eaa\u0ebb\u0ec8\u0e87\u0ec0\u0eaa\u0eb5\u0ea1"
+    ],
+    "name:lat_x_preferred":[
+        "Danapris"
+    ],
     "name:lav_x_preferred":[
         "D\u0146ipro"
     ],
     "name:lav_x_variant":[
         "D\u0146epropetrovska"
     ],
+    "name:lfn_x_preferred":[
+        "Dnipro"
+    ],
+    "name:lim_x_preferred":[
+        "Dnipro"
+    ],
     "name:lit_x_preferred":[
         "Dniepras"
     ],
     "name:lit_x_variant":[
-        "Dniepropetrovskas"
+        "Dniepropetrovskas",
+        "Dnipras"
     ],
     "name:ltz_x_preferred":[
         "Dnepropetrowsk"
+    ],
+    "name:ltz_x_variant":[
+        "Dnipro"
+    ],
+    "name:mah_x_preferred":[
+        "Dnipro"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d3f\u0d28\u0d3f\u0d2a\u0d4d\u0d30"
     ],
     "name:mar_x_preferred":[
         "\u0926\u094d\u0928\u0947\u092a\u094d\u0930\u094b\u092a\u0947\u0924\u094d\u0930\u094b\u0935\u094d\u0938\u094d\u0915"
@@ -259,7 +381,8 @@
         "\u0414\u043d\u0438\u043f\u0440\u043e"
     ],
     "name:mhr_x_variant":[
-        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+        "\u0414\u043d\u0435\u043f\u0440"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0430\u0440"
@@ -267,11 +390,29 @@
     "name:mkd_x_variant":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
     ],
+    "name:mlg_x_preferred":[
+        "Dnipro"
+    ],
+    "name:mlt_x_preferred":[
+        "Dnipro"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u043d\u0438\u043f\u0440\u043e \u0445\u043e\u0442"
     ],
+    "name:mri_x_preferred":[
+        "Dnipro"
+    ],
     "name:msa_x_preferred":[
         "Dnipropetrovsk"
+    ],
+    "name:msa_x_variant":[
+        "Dnipro"
+    ],
+    "name:mya_x_preferred":[
+        "\u1014\u1036\u1015\u102b\u1010\u103a\u101c\u102d\u102f\u101c\u102c\u1038\u101e\u1030"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093f\u092a\u094d\u0930"
     ],
     "name:nld_x_preferred":[
         "Dnipro"
@@ -285,7 +426,16 @@
     "name:nob_x_preferred":[
         "Dnipropetrovsk"
     ],
+    "name:nob_x_variant":[
+        "Dnipro"
+    ],
     "name:nor_x_preferred":[
+        "Dnipro"
+    ],
+    "name:nrm_x_preferred":[
+        "Dnipro"
+    ],
+    "name:nya_x_preferred":[
         "Dnipro"
     ],
     "name:oci_x_preferred":[
@@ -296,6 +446,9 @@
     ],
     "name:oss_x_variant":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a21\u0a3e\u0a08\u0a2a\u0a4d\u0a30\u0a4b"
     ],
     "name:pnb_x_preferred":[
         "\u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u062a\u0631\u0648\u0648\u0633\u06a9"
@@ -310,10 +463,17 @@
         "Dnipro"
     ],
     "name:pol_x_variant":[
-        "Dniepropetrowsk"
+        "Dniepropetrowsk",
+        "Dniepr"
     ],
     "name:por_x_preferred":[
         "Dnipropetrovsk"
+    ],
+    "name:por_x_variant":[
+        "Dnipro"
+    ],
+    "name:pus_x_preferred":[
+        "\u0689\u0646\u067e\u0631\u0648"
     ],
     "name:ron_x_preferred":[
         "Dnipro"
@@ -350,6 +510,9 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dca\u0db1\u0dd2\u0db4\u0dca\u0dbb\u0ddd\u0db4\u0dd9\u0da7\u0dca\u0dbb\u0ddd\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dca"
     ],
+    "name:sin_x_variant":[
+        "\u0da9\u0dd9\u0db1\u0dbb\u0dd9\u0da7\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Dnipro"
     ],
@@ -359,20 +522,54 @@
     "name:slv_x_preferred":[
         "Dnipropetrovsk"
     ],
+    "name:slv_x_variant":[
+        "Dnipro"
+    ],
+    "name:smo_x_preferred":[
+        "Dnipro"
+    ],
+    "name:sna_x_preferred":[
+        "Dnipro"
+    ],
+    "name:snd_x_preferred":[
+        "\u062f\u0627\u062a\u067e\u0631\u0648"
+    ],
+    "name:som_x_preferred":[
+        "Dnipro"
+    ],
+    "name:sot_x_preferred":[
+        "Dnipro"
+    ],
     "name:spa_x_preferred":[
         "Dnipropetrovsk"
+    ],
+    "name:spa_x_variant":[
+        "Dnipr\u00f3"
+    ],
+    "name:sqi_x_preferred":[
+        "Dnipro"
     ],
     "name:srp_x_preferred":[
         "\u0414\u045a\u0435\u043f\u0430\u0440"
     ],
     "name:srp_x_variant":[
-        "\u0414\u045a\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+        "\u0414\u045a\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+        "\u0414\u045a\u0438\u043f\u0440\u043e"
+    ],
+    "name:sun_x_preferred":[
+        "Dnipro"
+    ],
+    "name:swa_x_preferred":[
+        "Dnipro"
     ],
     "name:swe_x_preferred":[
         "Dnipro"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0baa\u0bcd\u0bb0\u0bcb\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bbf\u0ba9\u0bbf\u0baa\u0bcd\u0bb0\u0bcb"
     ],
     "name:tat_x_preferred":[
         "\u0414\u043d\u0438\u043f\u0440\u043e"
@@ -382,6 +579,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4d\u0c28\u0c3f\u0c2a\u0c4d\u0c30\u0c4a\u0c2a\u0c46\u0c1f\u0c4d\u0c30\u0c4b\u0c35\u0c4d\u0c38\u0c4d\u0c15\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c21\u0c4d\u0c28\u0c47\u0c2a\u0c4d\u0c30\u0c4b\u0c2a\u0c46"
     ],
     "name:tgk_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440"
@@ -405,7 +605,8 @@
         "\u0414\u043d\u0438\u043f\u0440\u043e"
     ],
     "name:udm_x_variant":[
-        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+        "\u0414\u043d\u0435\u043f\u0440"
     ],
     "name:ukr_x_historical":[
         "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a"
@@ -424,6 +625,12 @@
     "name:urd_x_preferred":[
         "\u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u06cc\u062a\u0631\u0648\u0648\u0633\u06a9"
     ],
+    "name:uzb_x_preferred":[
+        "Dnepr"
+    ],
+    "name:vec_x_preferred":[
+        "Dnipro"
+    ],
     "name:vep_x_preferred":[
         "Dnepropetrovsk"
     ],
@@ -436,11 +643,26 @@
     "name:war_x_preferred":[
         "Dnipro"
     ],
+    "name:wuu_x_preferred":[
+        "\u7b2c\u8042\u4f2f\u7f57"
+    ],
+    "name:xho_x_preferred":[
+        "Dnipro"
+    ],
     "name:yid_x_preferred":[
         "\u05d3\u05e0\u05d9\u05e4\u05e8\u05d0"
     ],
+    "name:yor_x_preferred":[
+        "Dnipro"
+    ],
     "name:yue_x_preferred":[
         "\u8076\u4f2f\u57ce"
+    ],
+    "name:zea_x_preferred":[
+        "Dnipro"
+    ],
+    "name:zha_x_preferred":[
+        "Dnipro"
     ],
     "name:zho_x_preferred":[
         "\u7b2c\u8042\u4f2f\u7f57"
@@ -450,6 +672,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u8076\u4f2f\u57ce"
+    ],
+    "name:zul_x_preferred":[
+        "Dnipro"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
@@ -596,7 +821,7 @@
         }
     ],
     "wof:id":101752861,
-    "wof:lastmodified":1561776895,
+    "wof:lastmodified":1563302191,
     "wof:megacity":1,
     "wof:name":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815855,

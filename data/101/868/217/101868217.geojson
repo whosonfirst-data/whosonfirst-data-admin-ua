@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u0632\u0647\u0648\u0641\u062a\u0646\u064a\u0641\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u0430\u0434\u0430\u0442\u043d\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zhovtneve"
+    ],
     "name:crh_x_preferred":[
         "Jovtneve"
     ],
+    "name:crh_x_variant":[
+        "Blagodatne"
+    ],
     "name:deu_x_preferred":[
         "Blahodatne"
+    ],
+    "name:deu_x_variant":[
+        "Schowtnewe"
     ],
     "name:eng_x_preferred":[
         "Blagodatnoye"
@@ -38,14 +50,21 @@
     "name:pol_x_preferred":[
         "B\u0142ahodatne"
     ],
+    "name:pol_x_variant":[
+        "\u017bowtnewe"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u043e\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u043d\u0435"
     ],
     "name:ukr_x_variant":[
-        "Blahodatne"
+        "Blahodatne",
+        "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435"
     ],
     "name:unk_x_variant":[
         "Blagodatnoye"
@@ -112,7 +131,7 @@
         }
     ],
     "wof:id":101868217,
-    "wof:lastmodified":1544749611,
+    "wof:lastmodified":1563302613,
     "wof:name":"\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u043d\u0435",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

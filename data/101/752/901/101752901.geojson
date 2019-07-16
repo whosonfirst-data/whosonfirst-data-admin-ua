@@ -16,6 +16,12 @@
     "mps:longitude":38.416111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u062e\u062a\u0627\u0631\u0633\u06a9"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u043a"
+    ],
     "name:bel_x_variant":[
         "\u0428\u0430\u0445\u0446\u0451\u0440\u0441\u043a"
     ],
@@ -24,6 +30,12 @@
     ],
     "name:cat_x_preferred":[
         "Xakhtarsk"
+    ],
+    "name:cat_x_variant":[
+        "Shakhtarsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Shakhtars'k"
     ],
     "name:ces_x_preferred":[
         "\u0160achtarsk"
@@ -46,6 +58,9 @@
     "name:fin_x_preferred":[
         "\u0160ah'tarsk"
     ],
+    "name:fin_x_variant":[
+        "\u0160ah\u2019tarsk"
+    ],
     "name:fra_x_preferred":[
         "Chakhtarsk"
     ],
@@ -64,6 +79,9 @@
     "name:lav_x_preferred":[
         "\u0160ahtarska"
     ],
+    "name:msa_x_preferred":[
+        "Shakhtarsk"
+    ],
     "name:nld_x_preferred":[
         "Sjachtarsk"
     ],
@@ -81,6 +99,9 @@
     ],
     "name:pol_x_preferred":[
         "Szachtar\u015bk"
+    ],
+    "name:pol_x_variant":[
+        "Szachtarsk"
     ],
     "name:ron_x_preferred":[
         "\u0218ahtarsk"
@@ -105,6 +126,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0428\u0430\u0445\u0442\u0451\u0440\u0441\u043a"
+    ],
+    "name:tat_x_variant":[
+        "\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a"
@@ -167,7 +191,7 @@
         }
     ],
     "wof:id":101752901,
-    "wof:lastmodified":1561776893,
+    "wof:lastmodified":1563302167,
     "wof:name":"\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a",
     "wof:parent_id":1108815955,
     "wof:placetype":"locality",

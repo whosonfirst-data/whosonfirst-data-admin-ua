@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041e\u043a\u043d\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043a\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Okny"
+    ],
+    "name:crh_x_preferred":[
+        "Okn\u0131"
     ],
     "name:deu_x_preferred":[
         "Okny"
@@ -51,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0456 \u041e\u043a\u043d\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043a\u043d\u044b"
     ],
     "name:sah_x_preferred":[
         "\u041e\u043a\u043d\u044b"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1126046859,
-    "wof:lastmodified":1561777008,
+    "wof:lastmodified":1563303793,
     "wof:name":"Krasni Okny",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

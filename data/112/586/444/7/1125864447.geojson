@@ -19,8 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041b\u044e\u0431\u0430\u0448\u044b\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0448\u0438\u0432\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lyubashivka"
+    ],
+    "name:ces_x_preferred":[
+        "Ljuba\u0161ivka"
+    ],
+    "name:crh_x_preferred":[
+        "L\u00fcba\u015fivka"
     ],
     "name:deu_x_preferred":[
         "Ljubaschiwka"
@@ -45,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0448\u0456\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u044e\u0431\u0430\u0448\u0451\u0432\u043a\u0430"
     ],
     "name:sah_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0448\u0451\u0432\u043a\u0430"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1125864447,
-    "wof:lastmodified":1561777010,
+    "wof:lastmodified":1563303819,
     "wof:name":"Lyubashivka",
     "wof:parent_id":102088121,
     "wof:placetype":"locality",

@@ -16,8 +16,20 @@
     "mps:longitude":37.028725,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Stepaniwka"
+    ],
     "name:eng_x_preferred":[
         "Stepanovka"
+    ],
+    "name:eng_x_variant":[
+        "Stepanivka"
+    ],
+    "name:lav_x_preferred":[
+        "Stepa\u0146ivka"
+    ],
+    "name:ron_x_preferred":[
+        "Stepanivka"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432\u043a\u0430"
@@ -30,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Stepanovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6377\u5e15\u5c3c\u592b\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":101868703,
-    "wof:lastmodified":1544749884,
+    "wof:lastmodified":1563302655,
     "wof:name":"\u0421\u0442\u0435\u043f\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":85688779,
     "wof:placetype":"locality",

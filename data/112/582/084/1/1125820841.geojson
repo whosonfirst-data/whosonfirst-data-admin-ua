@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0440\u043e\u0432\u0430\u043d\u0456 \u041a\u0443\u0440\u044b\u043b\u0456\u045e\u0446\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Murovani Kurylivtsi"
+    ],
+    "name:crh_x_preferred":[
+        "Murovani Kur\u0131livtsi"
+    ],
     "name:deu_x_preferred":[
         "Murowani Kuryliwzi"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u043e\u0432\u0430\u043d\u0456 \u041a\u0443\u0440\u0438\u043b\u0456\u0432\u0446\u0456"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u0440\u043e\u0432\u0430\u043d\u044b\u0435 \u041a\u0443\u0440\u0438\u043b\u043e\u0432\u0446\u044b"
     ],
     "name:sah_x_preferred":[
         "\u041c\u0443\u0440\u043e\u0432\u0430\u043d\u044b\u0435 \u041a\u0443\u0440\u0438\u043b\u043e\u0432\u0446\u044b"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125820841,
-    "wof:lastmodified":1561777019,
+    "wof:lastmodified":1563303918,
     "wof:name":"Murovani Kurylivtsi",
     "wof:parent_id":102088231,
     "wof:placetype":"locality",

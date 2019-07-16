@@ -20,8 +20,11 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0627\u062c\u0646\u064a\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0414\u044d\u0440\u0430\u0436\u043d\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Derazhnya"
     ],
     "name:crh_x_preferred":[
         "Derajn\u00e2"
@@ -41,11 +44,17 @@
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d6'\u05e0\u05d9\u05d4"
     ],
+    "name:hsb_x_preferred":[
+        "Dera\u017enja"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0565\u0580\u0561\u056a\u0576\u0575\u0561"
     ],
     "name:ita_x_preferred":[
         "Dera\u017enja"
+    ],
+    "name:ita_x_variant":[
+        "Derazhnia"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10e0\u10d0\u10df\u10dc\u10d8\u10d0"
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":101862489,
-    "wof:lastmodified":1561776984,
+    "wof:lastmodified":1563303412,
     "wof:name":"\u0414\u0435\u0440\u0430\u0436\u043d\u044f",
     "wof:parent_id":102088343,
     "wof:placetype":"locality",

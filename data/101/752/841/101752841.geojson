@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u0644\u0646\u064a\u062a\u0633\u0643\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Jmelnytsky"
+    ],
     "name:azb_x_preferred":[
         "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:azb_x_variant":[
+        "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
     ],
     "name:aze_x_preferred":[
         "Xmelnitskiy"
@@ -45,11 +51,20 @@
     "name:cat_x_preferred":[
         "Khmelnitski"
     ],
+    "name:ceb_x_preferred":[
+        "Khmel'nyts'kyy"
+    ],
     "name:ces_x_preferred":[
         "Chmelnyckyj"
     ],
     "name:che_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Hmeln\u0131tsk\u0131y"
+    ],
+    "name:cym_x_preferred":[
+        "Khmelnytskyi"
     ],
     "name:dan_x_preferred":[
         "Khmelnytskyj"
@@ -74,6 +89,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
     ],
     "name:fin_x_preferred":[
         "Hmelnytskyi"
@@ -107,6 +125,9 @@
     ],
     "name:ita_x_preferred":[
         "Chmel'nyc'kyj"
+    ],
+    "name:jav_x_preferred":[
+        "Khmelnytskyi"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30e1\u30ea\u30cc\u30a3\u30fc\u30c4\u30a3\u30af\u30a3\u30a4"
@@ -159,6 +180,9 @@
     "name:por_x_preferred":[
         "Jmelnitsky"
     ],
+    "name:por_x_variant":[
+        "Khmelnytskyi"
+    ],
     "name:ron_x_preferred":[
         "Hmelni\u021bki"
     ],
@@ -192,6 +216,9 @@
     "name:swe_x_preferred":[
         "Chmelnytskyj"
     ],
+    "name:szl_x_preferred":[
+        "Chmelny\u0107kyj"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcd\u0bb9\u0bae\u0bc6\u0bb3\u0ba9\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bbf"
     ],
@@ -204,6 +231,9 @@
     "name:tha_x_preferred":[
         "\u0e2e\u0e40\u0e21\u0e25\u0e19\u0e34\u0e0b\u0e01\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e41\u0e21\u0e25\u0e19\u0e36\u0e15\u0e2a\u0e01\u0e36\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Hmelnitski"
     ],
@@ -215,6 +245,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0645\u06cc\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Xmelnitskiy"
     ],
     "name:vie_x_preferred":[
         "Khmelnytskyi"
@@ -366,7 +399,7 @@
         }
     ],
     "wof:id":101752841,
-    "wof:lastmodified":1561776896,
+    "wof:lastmodified":1563302215,
     "wof:name":"\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108815833,
     "wof:placetype":"locality",

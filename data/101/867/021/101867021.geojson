@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Starchenkovo"
     ],
+    "name:eng_x_variant":[
+        "Starchenkove"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0580\u0579\u0565\u0576\u056f\u0578\u057e\u0578"
     ],
@@ -31,8 +34,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0447\u0435\u043d\u043a\u043e\u0432\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u043c\u0440\u044e\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0435\u043c\u0440\u044e\u043a"
     ],
     "name:unk_x_variant":[
         "Temryuk-Rossiyskiy"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":101867021,
-    "wof:lastmodified":1561776957,
+    "wof:lastmodified":1563303040,
     "wof:name":"\u0421\u0442\u0430\u0440\u0447\u0435\u043d\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088371,
     "wof:placetype":"locality",

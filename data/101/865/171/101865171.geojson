@@ -16,11 +16,20 @@
     "mps:longitude":33.802929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0641\u062a\u0634\u064a\u0646\u0643\u0648 \u0628\u0631\u0648\u063a\u0631\u0633"
+    ],
     "name:ces_x_preferred":[
         "Iv\u010denko-Progress"
     ],
     "name:deu_x_preferred":[
         "Iwtschenko Progress"
+    ],
+    "name:eng_x_preferred":[
+        "Ivchenko-Progress"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0686\u0646\u06a9\u0648 \u067e\u0631\u0627\u06af\u0631\u0633"
     ],
     "name:fra_x_preferred":[
         "Ivtchenko-Progress ZMKB"
@@ -43,8 +52,14 @@
     "name:slv_x_preferred":[
         "Iv\u010denko-Progress"
     ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0447\u0435\u043d\u043a\u043e-\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0441\u044c\u043a\u0435 \u0431\u044e\u0440\u043e \u00ab\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u00bb"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u592b\u6210\u79d1\u9032\u6b65\u8a2d\u8a08\u5c40"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":101865171,
-    "wof:lastmodified":1544747907,
+    "wof:lastmodified":1563303507,
     "wof:name":"\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0435",
     "wof:parent_id":102088271,
     "wof:placetype":"locality",

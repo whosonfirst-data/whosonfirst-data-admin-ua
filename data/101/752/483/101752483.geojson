@@ -39,6 +39,9 @@
     "name:arg_x_preferred":[
         "Lviv"
     ],
+    "name:ast_x_preferred":[
+        "Le\u00f3polis"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0648\u0641"
     ],
@@ -54,6 +57,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u044c\u0432\u043e\u045e"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u044c\u0432\u043e\u045e"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09ac\u09bf\u09ac"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:cat_x_preferred":[
         "Lviv"
+    ],
+    "name:ceb_x_preferred":[
+        "L'viv"
     ],
     "name:ces_x_preferred":[
         "Lvov"
@@ -155,6 +164,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u057e\u0578\u057e"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0578\u0582\u0578\u057e"
     ],
     "name:ido_x_preferred":[
         "Lviv"
@@ -318,6 +330,9 @@
     "name:srp_x_preferred":[
         "Lavov"
     ],
+    "name:srp_x_variant":[
+        "\u041b\u0430\u0432\u043e\u0432"
+    ],
     "name:swe_x_preferred":[
         "Lviv"
     ],
@@ -330,17 +345,26 @@
     "name:tat_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
     ],
+    "name:tat_x_variant":[
+        "\u0418\u043b\u0431\u0430\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c35\u0c4d\u0c2f\u0c42"
     ],
     "name:tgk_x_preferred":[
         "\u041b\u044c\u0432\u0438\u0432"
     ],
+    "name:tgk_x_variant":[
+        "\u041b\u0432\u0438\u0432"
+    ],
     "name:tgl_x_preferred":[
         "Lungsod ng Lviv"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e27\u0e35\u0e1f"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e27\u0e34\u0e27"
     ],
     "name:tuk_x_preferred":[
         "Lwiw"
@@ -369,6 +393,9 @@
     "name:vep_x_preferred":[
         "Lvov"
     ],
+    "name:vep_x_variant":[
+        "L'vov"
+    ],
     "name:vie_x_preferred":[
         "Lviv"
     ],
@@ -380,6 +407,9 @@
     ],
     "name:war_x_preferred":[
         "Lviv"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u6c83\u592b"
     ],
     "name:yid_x_historical":[
         "\u05dc\u05e2\u05de\u05d1\u05e8\u05d9\u05e7"
@@ -536,7 +566,7 @@
         }
     ],
     "wof:id":101752483,
-    "wof:lastmodified":1561776894,
+    "wof:lastmodified":1563302184,
     "wof:name":"\u041b\u044c\u0432\u0456\u0432",
     "wof:parent_id":1108730647,
     "wof:placetype":"locality",

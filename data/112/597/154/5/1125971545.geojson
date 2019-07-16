@@ -19,8 +19,14 @@
     "name:afr_x_preferred":[
         "Charkof"
     ],
+    "name:amh_x_preferred":[
+        "\u12bb\u122d\u12aa\u12cd"
+    ],
     "name:ara_x_preferred":[
         "\u062e\u0627\u0631\u0643\u064a\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "J\u00e1rkov"
     ],
     "name:aze_x_preferred":[
         "Xarkov"
@@ -49,6 +55,9 @@
     "name:cat_x_preferred":[
         "Kh\u00e0rkiv"
     ],
+    "name:ceb_x_preferred":[
+        "Kharkiv"
+    ],
     "name:ces_x_preferred":[
         "Charkov"
     ],
@@ -61,6 +70,9 @@
     "name:ckb_x_preferred":[
         "\u062e\u0627\u0631\u06a9\u06cc\u06a4"
     ],
+    "name:crh_x_preferred":[
+        "Harkiv"
+    ],
     "name:cym_x_preferred":[
         "Kharkiv"
     ],
@@ -69,6 +81,9 @@
     ],
     "name:deu_x_preferred":[
         "Charkow"
+    ],
+    "name:deu_x_variant":[
+        "Charkiw"
     ],
     "name:dsb_x_preferred":[
         "Charkiw"
@@ -177,6 +192,9 @@
     ],
     "name:ltz_x_preferred":[
         "Charkow"
+    ],
+    "name:ltz_x_variant":[
+        "Charkiw"
     ],
     "name:lzh_x_preferred":[
         "\u54c8\u723e\u79d1\u592b"
@@ -292,6 +310,9 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e23\u0e4c\u0e04\u0e34\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e32\u0e23\u0e4c\u0e01\u0e34\u0e27"
+    ],
     "name:tuk_x_preferred":[
         "Har\u00adkiw"
     ],
@@ -321,6 +342,9 @@
     ],
     "name:war_x_preferred":[
         "Kharkiv"
+    ],
+    "name:wuu_x_preferred":[
+        "\u54c8\u5c14\u79d1\u592b"
     ],
     "name:yid_x_preferred":[
         "\u05db\u05d0\u05e8\u05e7\u05e2\u05d5\u05d5"
@@ -379,7 +403,7 @@
         }
     ],
     "wof:id":1125971545,
-    "wof:lastmodified":1561777015,
+    "wof:lastmodified":1563303879,
     "wof:name":"Kharkiv",
     "wof:parent_id":1108730667,
     "wof:placetype":"locality",

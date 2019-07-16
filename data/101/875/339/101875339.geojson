@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":6877522.259802,
+    "geom:area_square_m":6877522.2598,
     "geom:bbox":"33.5869082555,45.1083033932,33.6188097122,45.1449791246",
     "geom:latitude":45.126864,
     "geom:longitude":33.603737,
@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u064a"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043a\u0438"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043a\u044b"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043a\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Saky"
     ],
     "name:ces_x_preferred":[
         "Saki"
@@ -39,7 +48,8 @@
         "Saki"
     ],
     "name:eng_x_variant":[
-        "Ssaki"
+        "Ssaki",
+        "Saky"
     ],
     "name:epo_x_preferred":[
         "Sako"
@@ -47,8 +57,14 @@
     "name:est_x_preferred":[
         "Sak\u00f5"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Saki"
+    ],
+    "name:fra_x_variant":[
+        "Saky"
     ],
     "name:hbs_x_preferred":[
         "Saki"
@@ -65,8 +81,14 @@
     "name:ita_x_preferred":[
         "Saki"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ad"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ud0a4"
     ],
     "name:lat_x_preferred":[
         "Saki"
@@ -77,6 +99,9 @@
     "name:lit_x_preferred":[
         "Sakai"
     ],
+    "name:ltz_x_preferred":[
+        "Saki"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043a\u0438"
     ],
@@ -84,6 +109,9 @@
         "Saky"
     ],
     "name:nno_x_preferred":[
+        "Saky"
+    ],
+    "name:nob_x_preferred":[
         "Saky"
     ],
     "name:nor_x_preferred":[
@@ -191,7 +219,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530299591,
+    "wof:lastmodified":1563302271,
     "wof:name":"\u0421\u0430\u043a\u0438",
     "wof:parent_id":1108738669,
     "wof:placetype":"locality",

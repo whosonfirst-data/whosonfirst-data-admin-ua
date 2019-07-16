@@ -20,11 +20,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0646\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u0644\u0648\u0646\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u043d\u043d\u044d"
+    ],
     "name:bel_x_variant":[
         "\u041f\u0430\u043b\u043e\u043d\u043d\u0430\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Polonne"
+    ],
+    "name:ceb_x_preferred":[
+        "Polonne"
+    ],
     "name:ces_x_preferred":[
         "Polonne"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043d\u043d\u043e\u0435"
     ],
     "name:crh_x_preferred":[
         "Polonne"
@@ -43,6 +58,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05dc\u05d5\u05e0\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Polonne"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u056c\u0578\u0576\u0578\u0565"
@@ -77,6 +95,9 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043d\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u041f\u043e\u043b\u043e\u043d\u043d\u0435"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043d\u043d\u0435"
     ],
@@ -88,6 +109,9 @@
     ],
     "name:vie_x_preferred":[
         "Polonne"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05d0\u05dc\u05d0\u05e0\u05e2"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u9686\u6d85"
@@ -143,7 +167,7 @@
         }
     ],
     "wof:id":101864047,
-    "wof:lastmodified":1561776992,
+    "wof:lastmodified":1563303537,
     "wof:name":"\u041f\u043e\u043b\u043e\u043d\u043d\u0435",
     "wof:parent_id":102088571,
     "wof:placetype":"locality",

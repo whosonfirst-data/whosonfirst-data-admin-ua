@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Klenovyy"
+    ],
+    "name:crh_x_preferred":[
+        "Klenov\u0131y"
+    ],
     "name:deu_x_preferred":[
         "Klenowyj"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043b\u0435\u043d\u043e\u0432\u044b\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u0438\u0439"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125792743,
-    "wof:lastmodified":1561777024,
+    "wof:lastmodified":1563303978,
     "wof:name":"Klenovyy",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

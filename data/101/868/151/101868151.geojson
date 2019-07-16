@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u064a\u0627\u064a\u0628\u0648\u0644\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0644\u06cc\u0627\u06cc\u067e\u0648\u0644\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u044d"
+    ],
     "name:bel_x_variant":[
         "\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Hulyaypole"
     ],
     "name:ces_x_preferred":[
         "Huljajpole"
@@ -43,6 +52,9 @@
     ],
     "name:eng_x_preferred":[
         "Hulyaypole"
+    ],
+    "name:eng_x_variant":[
+        "Huliaipole"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0644\u06cc\u0627\u06cc\u067e\u0648\u0644\u0647"
@@ -74,6 +86,9 @@
     "name:lav_x_preferred":[
         "Hu\u013cajpole"
     ],
+    "name:lit_x_preferred":[
+        "Huliajpol\u0117"
+    ],
     "name:nld_x_preferred":[
         "Goeljaj-Pole"
     ],
@@ -86,6 +101,9 @@
     "name:pol_x_preferred":[
         "Hulajpo\u0142e"
     ],
+    "name:pol_x_variant":[
+        "Huliajpole"
+    ],
     "name:ron_x_preferred":[
         "Huleaipole"
     ],
@@ -97,6 +115,9 @@
     ],
     "name:spa_x_preferred":[
         "Guliaipole"
+    ],
+    "name:spa_x_variant":[
+        "Guliaipol\u00e9"
     ],
     "name:tat_x_preferred":[
         "\u04ba\u0443\u043b\u04d9\u0439\u043f\u043e\u043b\u0435"
@@ -166,7 +187,7 @@
         }
     ],
     "wof:id":101868151,
-    "wof:lastmodified":1561776929,
+    "wof:lastmodified":1563302601,
     "wof:name":"\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",
