@@ -20,7 +20,11 @@
         "\u041a\u0430\u0437\u044d\u043b\u044c\u0448\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:bel_x_variant":[
-        "\u041a\u0430\u0437\u0435\u043b\u044c\u0448\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+        "\u041a\u0430\u0437\u0435\u043b\u044c\u0448\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+        "\u041a\u0430\u0437\u044d\u043b\u044c\u0448\u0447\u044b\u043d\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Kozel\u015f\u00e7\u0131na"
     ],
     "name:deu_x_preferred":[
         "Koselschtschyna"
@@ -40,6 +44,9 @@
     "name:pol_x_preferred":[
         "Rejon kozelszczy\u0144ski"
     ],
+    "name:pol_x_variant":[
+        "Kozelszczyna"
+    ],
     "name:ron_x_preferred":[
         "Raionul Kozel\u0219ci\u00eena"
     ],
@@ -49,11 +56,20 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u041a\u043e\u0437\u044d\u043b\u044c\u0449\u044b\u043d\u0430"
+    ],
     "name:spa_x_preferred":[
         "Rai\u00f3n de Kozelschyna"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0430"
     ],
     "name:vie_x_preferred":[
         "Kozelshchyna"
@@ -109,7 +125,7 @@
         }
     ],
     "wof:id":101868623,
-    "wof:lastmodified":1561776935,
+    "wof:lastmodified":1563302667,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0413\u0430\u043b\u0435\u0449\u0438\u043d\u0430",
     "wof:parent_id":102088651,
     "wof:placetype":"locality",

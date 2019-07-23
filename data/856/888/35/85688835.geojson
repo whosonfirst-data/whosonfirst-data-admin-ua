@@ -46,11 +46,17 @@
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09b0\u09cd\u09a8\u09cb\u09aa\u09bf\u09b2 \u0993\u09ac\u09cd\u09b2\u09be\u09b8\u09cd\u099f"
     ],
+    "name:bos_x_preferred":[
+        "Ternopiljska oblast"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tern\u00f2pil"
+    ],
+    "name:ceb_x_preferred":[
+        "Ternopil's'ka Oblast'"
     ],
     "name:ces_x_preferred":[
         "Ternopilsk\u00e1 oblast"
@@ -93,6 +99,9 @@
     "name:fra_x_preferred":[
         "Oblast de Ternopil"
     ],
+    "name:fra_x_variant":[
+        "Ternopil"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Ternopil"
     ],
@@ -107,6 +116,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05e0\u05d5\u05e4\u05d5\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e8\u05e0\u05d5\u05e4\u05d5\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u091f\u0947\u092e\u094b\u092a\u093f\u0932 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
@@ -140,6 +152,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud14c\ub974\ub178\ud544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud14c\ub974\ub178\ud544\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Ternopi\u013cas apgabals"
@@ -176,6 +191,9 @@
     ],
     "name:nor_x_preferred":[
         "Ternopil oblast"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u0646\u0648\u067e\u0644 \u0627\u0648\u0628\u0644\u0627\u0633\u062a"
@@ -231,6 +249,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e2d\u0e42\u0e19\u0e1e\u0e34\u0e25 \u0e42\u0e2d\u0e40\u0e1a\u0e25\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e41\u0e15\u0e23\u0e4c\u0e19\u0e2d\u0e1b\u0e34\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Ternopil Oblast\u0131"
     ],
@@ -258,6 +279,9 @@
     ],
     "name:war_x_preferred":[
         "Ternopil Oblast"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d4\u10e0\u10dc\u10dd\u10de\u10dd\u10da\u10d8\u10e8 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05d0\u05e8\u05e0\u05d0\u05e4\u05d0\u05dc\u05e2\u05e8 \u05d2\u05d5\u05d1\u05e2\u05e8\u05e0\u05d9\u05e2"
@@ -387,7 +411,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776756,
+    "wof:lastmodified":1563300015,
     "wof:name":"Ternopil",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

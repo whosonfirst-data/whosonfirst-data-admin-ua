@@ -63,8 +63,14 @@
     "name:bar_x_preferred":[
         "Kiew"
     ],
+    "name:bcl_x_preferred":[
+        "Kiev"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0435\u045e"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0456\u0435\u045e"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09af\u09bc\u09c7\u09ad"
@@ -90,6 +96,9 @@
     "name:cdo_x_preferred":[
         "Kiev"
     ],
+    "name:ceb_x_preferred":[
+        "Kiev"
+    ],
     "name:ces_x_preferred":[
         "Kyjev"
     ],
@@ -101,6 +110,9 @@
     ],
     "name:chv_x_preferred":[
         "\u041a\u0435\u0439\u04f3"
+    ],
+    "name:chv_x_variant":[
+        "\u041a\u0438\u0435\u0432"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06cc\u06ce\u06a4"
@@ -116,6 +128,9 @@
     ],
     "name:dan_x_preferred":[
         "Kiev"
+    ],
+    "name:dan_x_variant":[
+        "Kijev"
     ],
     "name:deu_x_preferred":[
         "Kyiw"
@@ -194,8 +209,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac0\u0ab5"
     ],
+    "name:hak_x_preferred":[
+        "Kiev"
+    ],
     "name:hat_x_preferred":[
         "Ky\u00e8v"
+    ],
+    "name:haw_x_preferred":[
+        "Kiev"
     ],
     "name:hbs_x_preferred":[
         "Kijev"
@@ -221,6 +242,9 @@
     "name:hye_x_preferred":[
         "\u053f\u056b\u0587"
     ],
+    "name:hyw_x_preferred":[
+        "\u0554\u056b\u0565\u0582"
+    ],
     "name:ido_x_preferred":[
         "Kyiv"
     ],
@@ -235,6 +259,9 @@
     ],
     "name:ind_x_preferred":[
         "Kiev"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0438\u0435\u0432"
     ],
     "name:isl_x_preferred":[
         "K\u00edev"
@@ -266,6 +293,9 @@
     "name:kaz_x_preferred":[
         "\u041a\u0438\u0435\u0432"
     ],
+    "name:kbp_x_preferred":[
+        "Kiivi"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0438\u0435\u0432"
     ],
@@ -290,6 +320,9 @@
     "name:lav_x_preferred":[
         "Kijeva"
     ],
+    "name:lez_x_preferred":[
+        "\u041a\u0438\u0435\u0432"
+    ],
     "name:lij_x_preferred":[
         "Kiev"
     ],
@@ -307,6 +340,9 @@
     ],
     "name:ltz_x_preferred":[
         "Kiew"
+    ],
+    "name:lzh_x_preferred":[
+        "\u57fa\u8f14"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d40\u0d35\u0d4d"
@@ -382,6 +418,9 @@
     ],
     "name:oci_x_preferred":[
         "Kyiiv"
+    ],
+    "name:olo_x_preferred":[
+        "Kijev"
     ],
     "name:oss_x_preferred":[
         "\u041a\u0438\u0435\u0432"
@@ -467,6 +506,9 @@
     "name:sna_x_preferred":[
         "Kyiv"
     ],
+    "name:sot_x_preferred":[
+        "Ky\u0457v"
+    ],
     "name:spa_x_preferred":[
         "Kiev"
     ],
@@ -500,6 +542,9 @@
     "name:tgk_x_preferred":[
         "\u041a\u044b\u0439\u0438\u0432"
     ],
+    "name:tgk_x_variant":[
+        "\u041a\u0438\u0435\u0432"
+    ],
     "name:tgl_x_preferred":[
         "Kiev"
     ],
@@ -514,6 +559,9 @@
     ],
     "name:twi_x_preferred":[
         "Kiev"
+    ],
+    "name:tyv_x_preferred":[
+        "\u041a\u0438\u0435\u0432"
     ],
     "name:udm_x_preferred":[
         "\u041a\u0438\u0435\u0432"
@@ -550,6 +598,9 @@
     ],
     "name:wol_x_preferred":[
         "Kiyew"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57fa\u8f85"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d8\u10d4\u10d5\u10d8"
@@ -725,7 +776,7 @@
         }
     ],
     "wof:id":101752489,
-    "wof:lastmodified":1561776898,
+    "wof:lastmodified":1563302229,
     "wof:megacity":1,
     "wof:name":"Kiev City",
     "wof:parent_id":85688801,

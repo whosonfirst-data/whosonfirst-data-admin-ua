@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0646\u064a\u0628\u0631\u0648\u062f\u0632\u0631\u062c\u064a\u0646\u0633\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Kamiansk\u00e9"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0646\u06cc\u067e\u0631\u0648\u062f\u0632\u0631\u0698\u06cc\u0646\u0633\u06a9"
+    ],
     "name:aze_x_preferred":[
         "Kamianske"
     ],
@@ -37,11 +43,17 @@
     "name:cat_x_preferred":[
         "Kamianske"
     ],
+    "name:ceb_x_preferred":[
+        "Kamians'ke"
+    ],
     "name:ces_x_preferred":[
         "Kamjanske"
     ],
     "name:che_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:crh_x_preferred":[
+        "Kamyanske"
     ],
     "name:dan_x_preferred":[
         "Kamjanske"
@@ -91,6 +103,9 @@
     "name:hsb_x_preferred":[
         "Kamjanske"
     ],
+    "name:hun_x_preferred":[
+        "Kamjanszke"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0576\u0565\u057a\u0580\u0578\u0571\u0565\u0580\u056a\u056b\u0576\u057d\u056f"
     ],
@@ -99,6 +114,9 @@
     ],
     "name:ita_x_preferred":[
         "Kamians'ke"
+    ],
+    "name:ita_x_variant":[
+        "Kam\"jans'ke"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30fc\u30df\u30e4\u30f3\u30b7\u30b1"
@@ -199,6 +217,9 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e19\u0e35\u0e42\u0e1b\u0e23\u0e14\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c\u0e08\u0e34\u0e19\u0e2a\u0e04\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e40\u0e21\u0e35\u0e22\u0e19\u0e2a\u0e41\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Kamyans'ke"
     ],
@@ -268,7 +289,7 @@
         }
     ],
     "wof:id":1125864759,
-    "wof:lastmodified":1561777010,
+    "wof:lastmodified":1563303821,
     "wof:name":"Dniprodzerzhyns\u2019k",
     "wof:parent_id":102088471,
     "wof:placetype":"locality",

@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062c\u0647\u0648\u0631\u0648\u062f"
     ],
+    "name:ast_x_preferred":[
+        "\u00dazhgorod"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0698\u0647\u0648\u0631\u0648\u062f"
+    ],
     "name:aze_x_preferred":[
         "Ujqorod"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "\u00dajhorod"
+    ],
+    "name:ceb_x_preferred":[
+        "Uzhhorod"
     ],
     "name:ces_x_preferred":[
         "U\u017ehorod"
@@ -138,6 +147,9 @@
     "name:lat_x_preferred":[
         "Uzhorodum"
     ],
+    "name:lat_x_variant":[
+        "Hung"
+    ],
     "name:lav_x_preferred":[
         "U\u017ehoroda"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:lit_x_preferred":[
         "U\u017ehorodas"
+    ],
+    "name:ltz_x_preferred":[
+        "Uschhorod"
     ],
     "name:mar_x_preferred":[
         "\u0909\u091d\u0939\u094b\u0930\u0949\u0921"
@@ -225,11 +240,17 @@
     "name:tat_x_preferred":[
         "\u0423\u0436\u0433\u043e\u0440\u043e\u0434"
     ],
+    "name:tat_x_variant":[
+        "\u0423\u0436\u04bb\u043e\u0440\u043e\u0434"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c41\u0c1c\u0c4d \u0c39\u0c4b\u0c30\u0c46\u0c21\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e39\u0e08\u0e42\u0e01\u0e23\u0e2d\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e38\u0e0c\u0e2e\u0e2d\u0e23\u0e2d\u0e14"
     ],
     "name:tur_x_preferred":[
         "Ujgorod"
@@ -405,7 +426,7 @@
         }
     ],
     "wof:id":101752807,
-    "wof:lastmodified":1561776898,
+    "wof:lastmodified":1563302230,
     "wof:name":"\u0423\u0436\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":1108815941,
     "wof:placetype":"locality",

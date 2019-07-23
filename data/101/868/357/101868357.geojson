@@ -20,11 +20,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u0648\u0641\u064a\u0633\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0644\u0648\u0648\u0627\u06cc\u0633\u06a9"
+    ],
     "name:bel_x_preferred":[
         "\u0406\u043b\u0430\u0432\u0430\u0439\u0441\u043a"
     ],
-    "name:bel_x_variant":[
-        "\u0406\u043b\u0430\u0432\u0430\u0439\u0441\u043a"
+    "name:ceb_x_preferred":[
+        "Ilovays'k"
     ],
     "name:ces_x_preferred":[
         "Ilovajsk"
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Ilovays'k"
+    ],
+    "name:eng_x_variant":[
+        "Ilovaisk"
     ],
     "name:est_x_preferred":[
         "Ilovaisk"
@@ -59,6 +65,9 @@
     "name:ita_x_preferred":[
         "Ilovajs'k"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ed\u30f4\u30a1\u30a4\u30b9\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10da\u10dd\u10d5\u10d0\u10d8\u10e1\u10d9\u10d8"
     ],
@@ -77,6 +86,9 @@
     "name:pol_x_preferred":[
         "I\u0142owaj\u015bk"
     ],
+    "name:pol_x_variant":[
+        "I\u0142owajsk"
+    ],
     "name:ron_x_preferred":[
         "Ilovaisk"
     ],
@@ -86,8 +98,14 @@
     "name:spa_x_preferred":[
         "Ilovaisk"
     ],
+    "name:srp_x_preferred":[
+        "\u0418\u043b\u043e\u0432\u0430\u0458\u0441\u043a"
+    ],
     "name:swe_x_preferred":[
         "Ilovaisk"
+    ],
+    "name:szl_x_preferred":[
+        "I\u0142owajsk"
     ],
     "name:tat_x_preferred":[
         "\u0418\u043b\u043e\u0432\u0430\u0439\u0441\u043a"
@@ -163,7 +181,7 @@
         }
     ],
     "wof:id":101868357,
-    "wof:lastmodified":1561776934,
+    "wof:lastmodified":1563302649,
     "wof:name":"\u0406\u043b\u043e\u0432\u0430\u0439\u0441\u044c\u043a",
     "wof:parent_id":1175613765,
     "wof:placetype":"locality",

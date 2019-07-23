@@ -19,14 +19,20 @@
     "name:afr_x_preferred":[
         "Idioom"
     ],
+    "name:aka_x_preferred":[
+        "Kasakoa"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0639\u0628\u064a\u0631 \u0627\u0635\u0637\u0644\u0627\u062d\u064a"
+    ],
+    "name:bak_x_preferred":[
+        "\u0424\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u043a \u0431\u0435\u0440\u04d9\u043c\u0435\u043a\u0442\u04d9\u0440"
     ],
     "name:bel_x_preferred":[
         "\u0406\u0434\u044b\u0451\u043c\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0406\u0434\u044b\u0451\u043c\u0430"
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0997\u09a7\u09be\u09b0\u09be"
     ],
     "name:bod_x_preferred":[
         "\u0f62\u0f92\u0fb1\u0f74\u0f53\u0f0b\u0f60\u0f47\u0f42\u0f66\u0f0b\u0f56\u0f62\u0f97\u0f7c\u0f51\u0f0b\u0f5a\u0f72\u0f42"
@@ -37,8 +43,14 @@
     "name:cat_x_preferred":[
         "Idiotisme idiom\u00e0tic"
     ],
+    "name:cat_x_variant":[
+        "idiotisme idiom\u00e0tic"
+    ],
     "name:ces_x_preferred":[
         "Idiom"
+    ],
+    "name:ces_x_variant":[
+        "idiom"
     ],
     "name:cym_x_preferred":[
         "Idiom"
@@ -46,23 +58,44 @@
     "name:dan_x_preferred":[
         "Idiom"
     ],
+    "name:dan_x_variant":[
+        "idiom"
+    ],
     "name:deu_x_preferred":[
         "Redensart"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03b4\u03b9\u03c9\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03b9\u03b4\u03b9\u03c9\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "idiom"
+    ],
     "name:epo_x_preferred":[
         "Idiotismo"
     ],
+    "name:epo_x_variant":[
+        "idiotismo"
+    ],
+    "name:est_x_preferred":[
+        "Fraseologism"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0635\u0637\u0644\u0627\u062d"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0646\u0627\u06cc\u0647"
     ],
     "name:fin_x_preferred":[
         "Idiomi"
     ],
     "name:fra_x_preferred":[
         "Idiotisme"
+    ],
+    "name:fra_x_variant":[
+        "idiotisme"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac2\u0aa2\u0abf\u0aaa\u0acd\u0ab0\u0aaf\u0acb\u0a97"
@@ -88,11 +121,20 @@
     "name:ind_x_preferred":[
         "Ungkapan"
     ],
+    "name:ind_x_variant":[
+        "Idiom"
+    ],
     "name:ita_x_preferred":[
         "Idiotismo"
     ],
+    "name:ita_x_variant":[
+        "frase idiomatica"
+    ],
     "name:jpn_x_preferred":[
         "\u719f\u8a9e"
+    ],
+    "name:jpn_x_variant":[
+        "\u6163\u7528\u53e5"
     ],
     "name:kan_x_preferred":[
         "\u0cad\u0cbe\u0cb7\u0cbe\u0cb5\u0cc8\u0cb6\u0cbf\u0cb7\u0ccd\u0c9f\u0ccd\u0caf"
@@ -100,17 +142,35 @@
     "name:kat_x_preferred":[
         "\u10e4\u10e0\u10d0\u10d6\u10d4\u10dd\u10da\u10dd\u10d2\u10d8\u10d6\u10db\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u0437\u043c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0424\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u0437\u043c"
+    ],
     "name:kor_x_preferred":[
         "\uad00\uc6a9\uad6c"
+    ],
+    "name:kur_x_preferred":[
+        "Biw\u00eaj"
     ],
     "name:lat_x_preferred":[
         "Idioma"
     ],
+    "name:lav_x_preferred":[
+        "frazeolo\u0123isms"
+    ],
     "name:lit_x_preferred":[
         "Frazeologizmas"
     ],
+    "name:lmo_x_preferred":[
+        "Espressiun idium\u00e0tica"
+    ],
     "name:ltz_x_preferred":[
         "Riedensaart"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7fd2\u8a9e"
     ],
     "name:mwl_x_preferred":[
         "Spresson idiom\u00e1tica"
@@ -124,20 +184,44 @@
     "name:nld_x_preferred":[
         "Idioom"
     ],
+    "name:nld_x_variant":[
+        "idioom"
+    ],
+    "name:nno_x_preferred":[
+        "idiom"
+    ],
+    "name:nob_x_preferred":[
+        "idiom"
+    ],
     "name:nor_x_preferred":[
         "Idiom"
     ],
     "name:pol_x_preferred":[
         "Idiom"
     ],
+    "name:pol_x_variant":[
+        "idiom"
+    ],
     "name:por_x_preferred":[
         "Express\u00e3o idiom\u00e1tica"
+    ],
+    "name:por_x_variant":[
+        "express\u00e3o idiom\u00e1tica"
     ],
     "name:ron_x_preferred":[
         "Expresie idiomatic\u0103"
     ],
+    "name:ron_x_variant":[
+        "locu\u021biune"
+    ],
+    "name:rus_x_preferred":[
+        "\u0438\u0434\u0438\u043e\u043c\u0430"
+    ],
     "name:sco_x_preferred":[
         "Idiom"
+    ],
+    "name:sco_x_variant":[
+        "idiom"
     ],
     "name:slk_x_preferred":[
         "Idi\u00f3m"
@@ -145,11 +229,20 @@
     "name:slv_x_preferred":[
         "Idiom"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u062d\u0627\u0648\u0631\u0648"
+    ],
     "name:spa_x_preferred":[
         "Idiotismo"
     ],
+    "name:spa_x_variant":[
+        "idiotismo"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0434\u0438\u043e\u043c"
+    ],
+    "name:srp_x_variant":[
+        "\u0438\u0434\u0438\u043e\u043c"
     ],
     "name:sun_x_preferred":[
         "Babasan"
@@ -160,6 +253,9 @@
     "name:swe_x_preferred":[
         "Idiom"
     ],
+    "name:swe_x_variant":[
+        "idiom"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bb0\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bca\u0b9f\u0bb0\u0bcd"
     ],
@@ -168,6 +264,9 @@
     ],
     "name:tgl_x_preferred":[
         "Idyoma"
+    ],
+    "name:tgl_x_variant":[
+        "idiomatic expression"
     ],
     "name:tur_x_preferred":[
         "Deyim"
@@ -178,6 +277,12 @@
     "name:ukr_x_variant":[
         "Duba",
         "\u0414\u0443\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0648\u0631\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Idioma"
     ],
     "name:vec_x_preferred":[
         "Modo de dir"
@@ -190,6 +295,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05d3\u05d9\u05d0\u05dd"
+    ],
+    "name:yue_x_preferred":[
+        "\u6163\u7528\u8a9e"
     ],
     "name:zho_x_preferred":[
         "\u719f\u8bed"
@@ -243,7 +351,7 @@
         }
     ],
     "wof:id":101860781,
-    "wof:lastmodified":1544745618,
+    "wof:lastmodified":1563302921,
     "wof:name":"\u0414\u0443\u0431\u0430",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

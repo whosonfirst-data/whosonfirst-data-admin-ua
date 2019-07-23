@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u0648\u0645\u064a\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Zhyt\u00f3myr"
+    ],
     "name:azb_x_preferred":[
         "\u0698\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
@@ -33,6 +36,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0416\u044b\u0442\u043e\u043c\u0456\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u0416\u044b\u0442\u043e\u043c\u0456\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u099d\u09be\u0987\u09a4\u09cb\u09ae\u09bf\u09b0"
     ],
@@ -44,6 +50,12 @@
     ],
     "name:cat_x_preferred":[
         "Jyt\u00f3myr"
+    ],
+    "name:cat_x_variant":[
+        "Jit\u00f2mir"
+    ],
+    "name:ceb_x_preferred":[
+        "Zhytomyr"
     ],
     "name:ces_x_preferred":[
         "\u017dytomyr"
@@ -192,6 +204,9 @@
     "name:oci_x_preferred":[
         "Jytomyr"
     ],
+    "name:oss_x_preferred":[
+        "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
+    ],
     "name:pnb_x_preferred":[
         "\u0698\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
@@ -200,6 +215,9 @@
     ],
     "name:por_x_preferred":[
         "Zhytomyr"
+    ],
+    "name:por_x_variant":[
+        "Jitomir"
     ],
     "name:ron_x_preferred":[
         "J\u00eetom\u00eer"
@@ -243,11 +261,17 @@
     "name:tat_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
     ],
+    "name:tat_x_variant":[
+        "\u0416\u044b\u0442\u043e\u043c\u044b\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c39\u0c1f\u0c2e\u0c40\u0c30\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e37\u0e22\u0e42\u0e15\u0e21\u0e36\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0c\u0e37\u0e2d\u0e15\u0e2d\u0e21\u0e37\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Jitomir"
@@ -263,6 +287,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u062d\u06cc\u062a\u0648\u0645\u06cc\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Jitomir"
     ],
     "name:vie_x_preferred":[
         "Zhytomyr"
@@ -417,7 +444,7 @@
         }
     ],
     "wof:id":101752889,
-    "wof:lastmodified":1561776894,
+    "wof:lastmodified":1563302180,
     "wof:name":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440",
     "wof:parent_id":1108815945,
     "wof:placetype":"locality",

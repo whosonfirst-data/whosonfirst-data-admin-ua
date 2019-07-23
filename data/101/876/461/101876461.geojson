@@ -17,14 +17,17 @@
     "mps:longitude":33.475379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_preferred":[
-        "\u041a\u0430\u0445\u043e\u045e\u043a\u0430"
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u062e\u0648\u0641\u06a9\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041a\u0430\u0445\u043e\u045e\u043a\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kakhovka"
     ],
     "name:ces_x_preferred":[
         "Kachovka"
@@ -44,11 +47,17 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u062e\u0648\u0641\u06a9\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Kachovka"
+    ],
     "name:fra_x_preferred":[
         "Kakhovka"
     ],
     "name:hsb_x_preferred":[
         "Kachowka"
+    ],
+    "name:hun_x_preferred":[
+        "Kahovka"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u056d\u0578\u057e\u056f\u0561"
@@ -87,6 +96,9 @@
         "Kahovka"
     ],
     "name:rus_x_preferred":[
+        "\u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:sah_x_preferred":[
         "\u041a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
     "name:sco_x_preferred":[
@@ -164,7 +176,7 @@
         }
     ],
     "wof:id":101876461,
-    "wof:lastmodified":1561776969,
+    "wof:lastmodified":1563303217,
     "wof:name":"\u041a\u0430\u0445\u043e\u0432\u043a\u0430",
     "wof:parent_id":1108815791,
     "wof:placetype":"locality",

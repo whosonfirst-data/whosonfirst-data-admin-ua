@@ -17,8 +17,11 @@
     "mps:longitude":32.344755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u043d\u0430\u0431\u0430\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Chornobay"
     ],
     "name:crh_x_preferred":[
         "\u00c7ornobay"
@@ -29,11 +32,17 @@
     "name:eng_x_preferred":[
         "Chornobay"
     ],
+    "name:eng_x_variant":[
+        "Chornobai"
+    ],
     "name:ita_x_preferred":[
         "\u010cornobai"
     ],
     "name:pol_x_preferred":[
         "Czornobaj"
+    ],
+    "name:pol_x_variant":[
+        "\u041f\u0430\u0440\u0445\u043e\u043c\u0456\u0432\u043a\u0430"
     ],
     "name:ron_x_preferred":[
         "Ciornobai"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":101870745,
-    "wof:lastmodified":1561776962,
+    "wof:lastmodified":1563303130,
     "wof:name":"\u0427\u043e\u0440\u043d\u043e\u0431\u0430\u0439",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

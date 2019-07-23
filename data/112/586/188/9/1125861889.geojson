@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043b\u0456\u045e\u043a\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Sobolivka"
+    ],
     "name:deu_x_preferred":[
         "Soboliwka"
     ],
@@ -37,6 +43,9 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0431\u043e\u043b\u0456\u0432\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u043e\u0431\u043e\u043b\u0435\u0432\u043a\u0430"
+    ],
     "name:slk_x_preferred":[
         "Sobolivka"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Sobolivka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u535a\u5229\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125861889,
-    "wof:lastmodified":1561777009,
+    "wof:lastmodified":1563303814,
     "wof:name":"Sobolevka",
     "wof:parent_id":102088421,
     "wof:placetype":"locality",

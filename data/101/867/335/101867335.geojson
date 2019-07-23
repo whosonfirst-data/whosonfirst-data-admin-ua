@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0647\u0648\u0641\u064a\u0634\u064a\u0646\u0633\u0643\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u0430\u0432\u0456\u0448\u0447\u044d\u043d\u0441\u043a\u044d"
+    ],
     "name:bel_x_variant":[
         "\u0411\u043b\u0430\u0433\u0430\u0432\u0435\u0448\u0447\u0430\u043d\u0441\u043a\u0430\u0435"
+    ],
+    "name:ces_x_preferred":[
+        "Blahovi\u0161\u010denske"
     ],
     "name:crh_x_preferred":[
         "Blahovi\u015f\u00e7enske"
@@ -31,11 +37,17 @@
     "name:eng_x_preferred":[
         "Ul'yanovka"
     ],
+    "name:eng_x_variant":[
+        "Blahovishchenske"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u06cc\u0627\u0646\u0648\u0641\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Blahovichtchenske"
+    ],
+    "name:hsb_x_preferred":[
+        "Blahowi\u0161\u0107enske"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u056c\u0575\u0561\u0576\u0578\u057e\u056f\u0561"
@@ -54,6 +66,9 @@
     ],
     "name:pol_x_preferred":[
         "B\u0142ahowiszczen\u015bke"
+    ],
+    "name:pol_x_variant":[
+        "Ulianowka"
     ],
     "name:ron_x_preferred":[
         "Uleanovka"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":101867335,
-    "wof:lastmodified":1561776956,
+    "wof:lastmodified":1563303022,
     "wof:name":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430",
     "wof:parent_id":102088241,
     "wof:placetype":"locality",

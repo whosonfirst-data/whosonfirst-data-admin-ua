@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":2081791.372136,
+    "geom:area_square_m":2081791.372135,
     "geom:bbox":"23.236857551,48.1663890613,23.2551309751,48.1839390005",
     "geom:latitude":48.175211,
     "geom:longitude":23.246049,
@@ -17,8 +17,17 @@
     "mps:longitude":23.246049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kriva Palanka"
+    ],
     "name:eng_x_preferred":[
         "Kryva"
+    ],
+    "name:fra_x_preferred":[
+        "Kriva Palanka"
     ],
     "name:hun_x_preferred":[
         "Nagykirva"
@@ -26,14 +35,38 @@
     "name:hun_x_variant":[
         "Tiszakirva"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30f4\u30a1\u30fb\u30d1\u30e9\u30f3\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10d5\u10d0-\u10de\u10d0\u10da\u10d0\u10dc\u10d9\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub9ac\ubc14\ud314\ub780\uce74 \uc2dc"
+    ],
+    "name:nld_x_preferred":[
+        "Kriva Palanka"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kriva Palanka"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0440\u0438\u0432\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Krivoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u74e6\u5e15\u862d\u5361\u5340"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -79,7 +112,7 @@
         }
     ],
     "wof:id":101876353,
-    "wof:lastmodified":1527714908,
+    "wof:lastmodified":1563303148,
     "wof:name":"\u041a\u0440\u0438\u0432\u0430",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

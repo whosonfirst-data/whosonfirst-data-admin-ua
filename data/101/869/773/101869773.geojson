@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u062a\u064a\u0645\u064a\u0641\u0633\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0647\u0645\u0648\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0445\u043c\u0443\u0442"
+    ],
     "name:bel_x_variant":[
         "\u0411\u0430\u0445\u043c\u0443\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -28,8 +34,14 @@
     "name:cat_x_preferred":[
         "Bakhmut"
     ],
+    "name:ceb_x_preferred":[
+        "Artemivs'k"
+    ],
     "name:ces_x_preferred":[
         "Bachmut"
+    ],
+    "name:crh_x_preferred":[
+        "Bahmut"
     ],
     "name:deu_x_preferred":[
         "Rajon Bachmut"
@@ -43,6 +55,9 @@
     "name:est_x_preferred":[
         "Bahmuti rajoon"
     ],
+    "name:est_x_variant":[
+        "Artemivsk"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u062a\u0645\u06cc\u0641\u0633\u06a9"
     ],
@@ -51,6 +66,9 @@
     ],
     "name:fra_x_preferred":[
         "Artemivsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d7\u05de\u05d5\u05d8"
     ],
     "name:hsb_x_preferred":[
         "Bachmut"
@@ -82,6 +100,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ud750\ubb34\ud2b8"
     ],
+    "name:lat_x_preferred":[
+        "Bachmutum"
+    ],
     "name:lav_x_preferred":[
         "Bahmuta"
     ],
@@ -106,6 +127,9 @@
     "name:pol_x_preferred":[
         "Rejon bachmucki"
     ],
+    "name:pol_x_variant":[
+        "Bachmut"
+    ],
     "name:ron_x_preferred":[
         "Artemivsk"
     ],
@@ -115,11 +139,17 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0445\u043c\u0443\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0445\u043c\u0443\u0442"
+    ],
     "name:sco_x_preferred":[
         "Bakhmut Raion"
     ],
     "name:spa_x_preferred":[
         "Rai\u00f3n de B\u00e1jmut"
+    ],
+    "name:spa_x_variant":[
+        "Bajmut"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0442\u0435\u043c\u0438\u0432\u0441\u043a"
@@ -130,8 +160,14 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u0445\u043c\u0443\u0442"
     ],
+    "name:tur_x_preferred":[
+        "Bahmut"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0445\u043c\u0443\u0442\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0445\u043c\u0443\u0442"
     ],
     "name:uzb_x_preferred":[
         "Artyomovsk"
@@ -141,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "Bakhmut"
+    ],
+    "name:vie_x_variant":[
+        "Artemivsk"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u4e54\u83ab\u592b\u65af\u514b\u533a"
@@ -203,7 +242,7 @@
         }
     ],
     "wof:id":101869773,
-    "wof:lastmodified":1561776946,
+    "wof:lastmodified":1563302843,
     "wof:name":"\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a",
     "wof:parent_id":1108815983,
     "wof:placetype":"locality",

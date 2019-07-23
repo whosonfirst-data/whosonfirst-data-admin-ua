@@ -21,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0434\u043e\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Pechersk"
+    ],
     "name:chv_x_preferred":[
         "\u041f\u043e\u0434\u043e\u043b"
     ],
@@ -54,6 +60,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0434\u0456\u043b"
+    ],
     "name:zho_x_preferred":[
         "\u6ce2\u8fea\u723e\u5340"
     ],
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1108945121,
-    "wof:lastmodified":1561776861,
+    "wof:lastmodified":1563301713,
     "wof:name":"Podil",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

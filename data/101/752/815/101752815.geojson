@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0641\u0627\u0646\u0648-\u0641\u0631\u0627\u0646\u0643\u064a\u0641\u0633\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0641\u0627\u0646\u0648-\u0641\u0631\u0627\u0646\u0643\u064a\u0641\u0633\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Ivano-Frankivsk"
+    ],
     "name:aze_x_preferred":[
         "\u0130vano-Frankovsk"
     ],
@@ -42,8 +48,14 @@
     "name:bul_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0438\u0432\u0441\u043a"
     ],
+    "name:bul_x_variant":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
+    ],
     "name:cat_x_preferred":[
         "Ivano-Frankivsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Ivano-Frankivs'k"
     ],
     "name:ces_x_preferred":[
         "Ivano-Frankivsk"
@@ -138,11 +150,17 @@
     "name:lat_x_preferred":[
         "Ivano-Frankivscum"
     ],
+    "name:lat_x_variant":[
+        "Stanislaopolis"
+    ],
     "name:lav_x_preferred":[
         "Ivanofrankivska"
     ],
     "name:lit_x_preferred":[
         "Ivano Frankivskas"
+    ],
+    "name:ltz_x_preferred":[
+        "Ivano-Frankiwsk"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0935\u093e\u0928\u094b-\u092b\u094d\u0930\u0901\u0915\u0940\u0938\u094d\u0915"
@@ -218,6 +236,9 @@
     "name:srp_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
     ],
+    "name:srp_x_variant":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0438\u0432\u0441\u043a"
+    ],
     "name:swe_x_preferred":[
         "Ivano-Frankivsk"
     ],
@@ -238,6 +259,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e27\u0e32\u0e42\u0e19-\u0e1f\u0e23\u0e32\u0e19\u0e04\u0e34\u0e1f\u0e2a\u0e01\u0e49\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e27\u0e32\u0e19\u0e2d-\u0e1f\u0e23\u0e31\u0e19\u0e01\u0e34\u0e27\u0e2a\u0e01\u0e4c"
     ],
     "name:tur_x_preferred":[
         "\u0130vano-Frankivsk"
@@ -265,6 +289,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d8\u05d0\u05e0\u05d9\u05e1\u05dc\u05d0\u05d5\u05d5"
+    ],
+    "name:yid_x_variant":[
+        "\u05e1\u05d8\u05d0\u05e0\u05d9\u05e1\u05dc\u05d0\u05f0"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u4e07\u8bfa-\u5f17\u5170\u79d1\u592b\u65af\u514b"
@@ -410,7 +437,7 @@
         }
     ],
     "wof:id":101752815,
-    "wof:lastmodified":1561776897,
+    "wof:lastmodified":1563302221,
     "wof:name":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730767,
     "wof:placetype":"locality",

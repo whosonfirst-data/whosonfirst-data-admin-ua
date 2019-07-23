@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Ubort"
     ],
+    "name:deu_x_variant":[
+        "Uhlja"
+    ],
     "name:eng_x_preferred":[
         "Uglia"
     ],
@@ -43,8 +46,14 @@
     "name:fra_x_preferred":[
         "Oubort"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d4\u05dc\u05d9\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Uborty"
+    ],
+    "name:hun_x_variant":[
+        "Uglya"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0562\u0578\u0580\u057f"
@@ -69,6 +78,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0423\u0431\u043e\u0440\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0433\u043b\u044f"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0431\u043e\u0440\u0442"
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":101859577,
-    "wof:lastmodified":1561776914,
+    "wof:lastmodified":1563302392,
     "wof:name":"\u0423\u0433\u043b\u044f",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

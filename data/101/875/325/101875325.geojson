@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2062094.5635,
+    "geom:area_square_m":2062094.563501,
     "geom:bbox":"34.0376653714,45.0092656564,34.0591764307,45.0260781553",
     "geom:latitude":45.0168,
     "geom:longitude":34.04786,
@@ -22,11 +22,17 @@
     "name:eng_x_variant":[
         "Agrarne"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30df\u30a2\u306e\u884c\u653f\u533a\u753b"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0440\u0430\u0440\u043d\u043e\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0440\u0430\u0440\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u91cc\u7c73\u4e9e\u884c\u653f\u5340\u5283"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530299589,
+    "wof:lastmodified":1563302274,
     "wof:name":"\u0410\u0433\u0440\u0430\u0440\u043d\u0435",
     "wof:parent_id":1108738681,
     "wof:placetype":"locality",

@@ -17,14 +17,17 @@
     "mps:longitude":30.845426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_preferred":[
-        "\u041f\u0435\u0440\u0432\u0430\u043c\u0430\u0439\u0441\u043a"
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0432\u0430\u043c\u0430\u0439\u0441\u043a"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Pervomays'k"
     ],
     "name:ces_x_preferred":[
         "Pervomajsk"
@@ -41,8 +44,14 @@
     "name:eng_x_preferred":[
         "Pervomays'k"
     ],
+    "name:eng_x_variant":[
+        "Pervomaisk"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9\u060c \u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0641"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "Pervomaisk"
@@ -52,6 +61,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d1\u05d5\u05de\u05d9\u05d9\u05e1\u05e7"
+    ],
+    "name:hsb_x_preferred":[
+        "Perwomajsk"
+    ],
+    "name:hun_x_preferred":[
+        "Pervomajszk"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u057e\u0578\u0574\u0561\u0575\u057d\u056f"
@@ -73,6 +88,9 @@
     ],
     "name:pol_x_preferred":[
         "Perwomajsk"
+    ],
+    "name:pol_x_variant":[
+        "Pierwomajsk"
     ],
     "name:ron_x_preferred":[
         "Pervomaisk"
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":101752819,
-    "wof:lastmodified":1561776894,
+    "wof:lastmodified":1563302186,
     "wof:name":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a",
     "wof:parent_id":1108815773,
     "wof:placetype":"locality",

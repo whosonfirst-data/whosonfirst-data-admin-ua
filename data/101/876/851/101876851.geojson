@@ -16,11 +16,20 @@
     "mps:longitude":36.218174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043a\u0440\u043e\u045e\u0441\u043a\u044d"
+    ],
+    "name:crh_x_preferred":[
+        "Pokrovske"
+    ],
     "name:deu_x_preferred":[
         "Pokrowske"
     ],
     "name:eng_x_preferred":[
         "Pokrovs'ke"
+    ],
+    "name:eng_x_variant":[
+        "Pokrovske"
     ],
     "name:fra_x_preferred":[
         "Pokrovske"
@@ -33,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Pokrow\u015bke"
+    ],
+    "name:pol_x_variant":[
+        "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
     "name:por_x_preferred":[
         "Pokrovske"
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":101876851,
-    "wof:lastmodified":1561776965,
+    "wof:lastmodified":1563303172,
     "wof:name":"\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088497,
     "wof:placetype":"locality",

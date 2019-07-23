@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0440\u043e\u0434\u044b\u0447\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Narodychi"
+    ],
+    "name:crh_x_preferred":[
+        "Narod\u0131\u00e7i"
+    ],
     "name:deu_x_preferred":[
         "Narodytschi"
     ],
@@ -39,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0434\u0438\u0447\u0456"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u0430\u0440\u043e\u0434\u0438\u0447\u0438"
     ],
     "name:sah_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0434\u0438\u0447\u0438"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125900709,
-    "wof:lastmodified":1561777013,
+    "wof:lastmodified":1563303855,
     "wof:name":"Narodychi",
     "wof:parent_id":102088895,
     "wof:placetype":"locality",

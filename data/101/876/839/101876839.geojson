@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u062a\u0648\u062a\u064a\u0646\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u062a\u0648\u062a\u06cc\u0646\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0442\u0443\u0446\u0456\u043d\u044d"
+    ],
     "name:bel_x_variant":[
         "\u0412\u0430\u0442\u0443\u0446\u0456\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Vatutine"
     ],
     "name:ces_x_preferred":[
         "Vatutine"
@@ -40,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Vatoutine"
+    ],
+    "name:hsb_x_preferred":[
+        "Watutine"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u057f\u0578\u0582\u057f\u056b\u0576\u0578"
@@ -77,8 +89,14 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0442\u0443\u0442\u0438\u043d\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Vatutine"
+    ],
     "name:tat_x_preferred":[
         "\u0412\u0430\u0442\u0443\u0442\u0438\u043d\u043e"
+    ],
+    "name:tat_x_variant":[
+        "\u0412\u0430\u0442\u0443\u0442\u0438\u043d\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0442\u0443\u0442\u0456\u043d\u0435"
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":101876839,
-    "wof:lastmodified":1561776969,
+    "wof:lastmodified":1563303217,
     "wof:name":"\u0412\u0430\u0442\u0443\u0442\u0456\u043d\u0435",
     "wof:parent_id":1108730679,
     "wof:placetype":"locality",

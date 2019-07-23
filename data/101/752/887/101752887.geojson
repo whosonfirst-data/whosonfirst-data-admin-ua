@@ -17,11 +17,17 @@
     "mps:longitude":35.200265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0648\u0645\u0648\u0633\u06a9\u0648\u0641\u0633\u06a9"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u043e\u0432\u0430\u043c\u0430\u0441\u043a\u043e\u045e\u0441\u043a"
     ],
     "name:bel_x_variant":[
         "\u041d\u043e\u0432\u0430\u043c\u0430\u0441\u043a\u043e\u045e\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Novomoskovs'k"
     ],
     "name:ces_x_preferred":[
         "Novomoskovsk"
@@ -37,6 +43,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0648\u0648\u0645\u0648\u0633\u06a9\u0648\u0641\u0633\u06a9\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0648\u0648\u0645\u0648\u0633\u06a9\u0648\u0641\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "Novomoskovsk"
@@ -94,6 +103,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a"
+    ],
+    "name:srp_x_variant":[
+        "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a"
     ],
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a"
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":101752887,
-    "wof:lastmodified":1561776894,
+    "wof:lastmodified":1563302181,
     "wof:name":"\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815907,
     "wof:placetype":"locality",

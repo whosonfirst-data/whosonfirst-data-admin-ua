@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0647\u0627\u0646\u0633\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Lugansk"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0647\u0627\u0646\u0633\u06a9"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0443\u0433\u0430\u043d\u0441\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u0443\u0433\u0430\u043d\u0441\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09b9\u09be\u09a8\u09cd\u09b8\u0995"
@@ -49,17 +55,26 @@
     "name:cat_x_preferred":[
         "Luhansk"
     ],
+    "name:ceb_x_preferred":[
+        "Luhansk"
+    ],
     "name:ces_x_preferred":[
         "Luhansk"
     ],
     "name:che_x_preferred":[
         "\u041b\u0443\u0433\u0430\u043d\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Lugansk"
+    ],
     "name:cym_x_preferred":[
         "Luhansk"
     ],
     "name:dan_x_preferred":[
         "Lug\u00e1nsk"
+    ],
+    "name:dan_x_variant":[
+        "Luhansk"
     ],
     "name:deu_x_historical":[
         "Woroschilowgrad"
@@ -124,6 +139,9 @@
     "name:hye_x_preferred":[
         "\u053c\u0578\u0582\u0563\u0561\u0576\u057d\u056f"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0578\u0582\u056f\u0561\u0576\u057d\u0584"
+    ],
     "name:ile_x_preferred":[
         "Luhansk"
     ],
@@ -156,6 +174,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\ud55c\uc2dc\ud06c"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\ud55c\uc2a4\ud06c"
     ],
     "name:lav_x_preferred":[
         "Luhanska"
@@ -259,6 +280,9 @@
     "name:tat_x_preferred":[
         "\u041b\u0443\u0433\u0430\u043d\u0441\u043a"
     ],
+    "name:tat_x_variant":[
+        "\u041b\u0443\u04bb\u0430\u043d\u0441\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c41\u0c39\u0c3e\u0c28\u0c4d\u0c38\u0c4d\u0c15\u0c4d"
     ],
@@ -267,6 +291,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e39\u0e2e\u0e31\u0e19\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e39\u0e2e\u0e31\u0e19\u0e2a\u0e01\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Luhansk"
@@ -349,7 +376,7 @@
         }
     ],
     "wof:id":1125779365,
-    "wof:lastmodified":1561777024,
+    "wof:lastmodified":1563303985,
     "wof:name":"Luhans\u2019k",
     "wof:parent_id":1108730801,
     "wof:placetype":"locality",

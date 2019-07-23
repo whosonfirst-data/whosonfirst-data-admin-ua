@@ -78,7 +78,6 @@
         "Vovchans'kyi"
     ],
     "name:eng_x_variant":[
-        "Vovchans'kyi",
         "Kharkiv Raion"
     ],
     "name:epo_x_preferred":[
@@ -95,6 +94,9 @@
     ],
     "name:fin_x_preferred":[
         "Harkovan alue"
+    ],
+    "name:fin_x_variant":[
+        "Harkovan piiri"
     ],
     "name:fra_x_preferred":[
         "Oblast de Kharkiv"
@@ -180,6 +182,9 @@
     "name:pol_x_preferred":[
         "Obw\u00f3d charkowski"
     ],
+    "name:pol_x_variant":[
+        "Rejon charkowski"
+    ],
     "name:por_x_preferred":[
         "Oblast de Carc\u00f3via"
     ],
@@ -192,11 +197,17 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u0440\u044c\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:sah_x_preferred":[
         "\u0425\u0430\u0440\u044c\u043a\u043e\u0432 \u0443\u043e\u0431\u0430\u043b\u0430\u0441"
     ],
     "name:sco_x_preferred":[
         "Kharkiv Oblast"
+    ],
+    "name:sco_x_variant":[
+        "Kharkiv Raion"
     ],
     "name:slk_x_preferred":[
         "Charkovsk\u00e1 oblas\u0165"
@@ -222,6 +233,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0432\u0447\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
         "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "\u0412\u043e\u0432\u0447\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
@@ -300,7 +314,7 @@
         }
     ],
     "wof:id":102088983,
-    "wof:lastmodified":1561776723,
+    "wof:lastmodified":1563299485,
     "wof:name":"Vovchanskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

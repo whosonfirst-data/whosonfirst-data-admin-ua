@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u0627\u064a\u0641\u0643\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043b\u044f\u0456\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u044f\u0435\u0432\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bilyayivka"
+    ],
     "name:ces_x_preferred":[
         "Biljajivka"
+    ],
+    "name:crh_x_preferred":[
+        "Bil\u00e2yivka"
     ],
     "name:deu_x_preferred":[
         "Biljajiwka"
@@ -39,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "Bilia\u00efvka"
+    ],
+    "name:hsb_x_preferred":[
+        "Biljajiwka"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0575\u0561\u0587\u056f\u0561"
@@ -70,6 +82,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0456\u043b\u044f\u0457\u0432\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u044f\u0435\u0432\u043a\u0430"
+    ],
     "name:sah_x_preferred":[
         "\u0411\u0435\u043b\u044f\u0435\u0432\u043a\u0430"
     ],
@@ -78,6 +93,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u043b\u04d9\u0438\u0432\u043a\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3f\u0c32\u0c4d\u0c2f\u0c3e\u0c2f\u0c3f\u0c35\u0c15"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u044f\u0457\u0432\u043a\u0430"
@@ -128,7 +146,7 @@
         }
     ],
     "wof:id":1125779883,
-    "wof:lastmodified":1561777028,
+    "wof:lastmodified":1563304019,
     "wof:name":"Bilyayivka",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

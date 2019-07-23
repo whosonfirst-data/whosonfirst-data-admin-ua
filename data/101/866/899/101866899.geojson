@@ -16,6 +16,9 @@
     "mps:longitude":34.906595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0456\u0442\u043d\u0430-\u0441\u0442\u044d\u043f\u0430\u0432\u0430\u0435 \u041f\u0430\u0431\u0443\u0436\u0436\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0438\u0442\u043d\u043e-\u0421\u0442\u0435\u043f\u043d\u043e\u0435 \u041f\u043e\u0431\u0443\u0436\u044c\u0435"
     ],
@@ -24,7 +27,8 @@
     ],
     "name:ukr_x_variant":[
         "Stepove",
-        "\u0421\u0442\u0435\u043f\u043e\u0432\u0435"
+        "\u0421\u0442\u0435\u043f\u043e\u0432\u0435",
+        "\u0413\u0440\u0430\u043d\u0456\u0442\u043d\u043e-\u0421\u0442\u0435\u043f\u043e\u0432\u0435 \u041f\u043e\u0431\u0443\u0436\u0436\u044f"
     ],
     "name:unk_x_variant":[
         "Stepovoye"
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101866899,
-    "wof:lastmodified":1544748867,
+    "wof:lastmodified":1563302473,
     "wof:name":"\u0421\u0442\u0435\u043f\u043e\u0432\u0435",
     "wof:parent_id":1108815737,
     "wof:placetype":"locality",

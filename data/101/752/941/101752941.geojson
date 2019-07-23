@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00412,
-    "geom:area_square_m":33688695.354429,
+    "geom:area_square_m":33688695.354428,
     "geom:bbox":"37.951924,48.5617595,38.064623,48.647327",
     "geom:latitude":48.597278,
     "geom:longitude":38.000739,
@@ -17,23 +17,41 @@
     "mps:longitude":37.999884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Artemivs'k"
+    ],
     "name:crh_x_preferred":[
         "Artemivsk"
     ],
     "name:deu_x_preferred":[
         "Artemiwsk"
     ],
+    "name:eng_x_preferred":[
+        "Artemivsk"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0631\u062a\u0645\u06cc\u0641\u0633\u06a9\u060c \u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0647\u0627\u0646\u0633\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0631\u062a\u0645\u06cc\u0641\u0633\u06a9"
     ],
     "name:fra_x_preferred":[
         "Kypoutche"
     ],
+    "name:hsb_x_preferred":[
+        "Kypu\u010de"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u057f\u0575\u0578\u0574\u0578\u057e\u057d\u056f"
     ],
+    "name:ita_x_preferred":[
+        "Kypu\u010de"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10de\u10e3\u10e9\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e0\u10e2\u10d8\u10dd\u10db\u10dd\u10d5\u10e1\u10d9\u10d8"
     ],
     "name:lav_x_preferred":[
         "Artemivska"
@@ -62,11 +80,17 @@
     "name:spa_x_preferred":[
         "Artemivsk"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u043f\u0443\u0447\u0435"
+    ],
     "name:udm_x_preferred":[
         "\u0410\u0440\u0442\u0451\u043c\u043e\u0432\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u043f\u0443\u0447\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u4e54\u83ab\u592b\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -122,7 +146,7 @@
         }
     ],
     "wof:id":101752941,
-    "wof:lastmodified":1530297965,
+    "wof:lastmodified":1563302198,
     "wof:name":"\u0410\u0440\u0442\u0435\u043c\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815889,
     "wof:placetype":"locality",

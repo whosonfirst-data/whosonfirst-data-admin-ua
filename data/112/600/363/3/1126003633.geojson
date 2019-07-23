@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0643\u0627\u062e\u0648\u0641\u0643\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u06a9\u0627\u062e\u0648\u0641\u06a9\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u0445\u043e\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Nova Kakhovka"
     ],
     "name:ces_x_preferred":[
         "Nova Kachovka"
@@ -45,6 +54,9 @@
     ],
     "name:fin_x_preferred":[
         "Nova Kahovka"
+    ],
+    "name:fin_x_variant":[
+        "Nova Kah'ovka"
     ],
     "name:fra_x_preferred":[
         "Nova Kakhovka"
@@ -91,6 +103,9 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
+    "name:sah_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
     "name:sco_x_preferred":[
         "Nova Kakhovka"
     ],
@@ -108,6 +123,12 @@
     ],
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:tat_x_variant":[
+        "\u041d\u043e\u0432\u0430-\u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Nova Kahovka"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
@@ -180,7 +201,7 @@
         }
     ],
     "wof:id":1126003633,
-    "wof:lastmodified":1561777018,
+    "wof:lastmodified":1563303906,
     "wof:name":"Novaya Kakhovka",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

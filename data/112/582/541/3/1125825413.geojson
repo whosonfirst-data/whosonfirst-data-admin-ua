@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043b\u044c\u0448\u044b\u045e\u0446\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilshivtsi"
+    ],
+    "name:crh_x_preferred":[
+        "Bil\u015fivtsi"
+    ],
     "name:deu_x_preferred":[
         "Bilschiwzi"
     ],
@@ -39,6 +48,9 @@
     ],
     "name:ukr_x_preferred":[
         "Bil'shivtsi"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u044c\u0448\u0456\u0432\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "Boshovtse"
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":1125825413,
-    "wof:lastmodified":1561777020,
+    "wof:lastmodified":1563303928,
     "wof:name":"Bilshivtsi",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

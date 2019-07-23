@@ -17,8 +17,11 @@
     "mps:longitude":30.823325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041b\u044b\u0441\u044f\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lysyanka"
     ],
     "name:ces_x_preferred":[
         "Lysjanka"
@@ -32,6 +35,9 @@
     "name:eng_x_preferred":[
         "Lysyanka"
     ],
+    "name:eng_x_variant":[
+        "Lysianka"
+    ],
     "name:fra_x_preferred":[
         "Lysianka"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:ita_x_preferred":[
         "Lysianka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b7\u30e3\u30f3\u30ab"
     ],
     "name:pol_x_preferred":[
         "\u0141ysianka"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101867819,
-    "wof:lastmodified":1561776954,
+    "wof:lastmodified":1563302985,
     "wof:name":"\u041b\u0438\u0441\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088487,
     "wof:placetype":"locality",

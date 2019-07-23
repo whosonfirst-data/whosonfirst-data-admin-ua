@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a\u0633\u0644\u0627\u0641"
     ],
-    "name:bel_x_variant":[
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u06cc\u0633\u0644\u0627\u0641"
+    ],
+    "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u044b\u0441\u043b\u0430\u045e"
     ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432"
+    ],
+    "name:ceb_x_preferred":[
+        "Boryslav"
     ],
     "name:ces_x_preferred":[
         "Boryslav"
@@ -110,6 +116,12 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432"
     ],
+    "name:tat_x_variant":[
+        "\u0411\u043e\u0440\u044b\u0441\u043b\u0430\u0432"
+    ],
+    "name:tur_x_preferred":[
+        "Bor\u0131slav"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432"
     ],
@@ -121,6 +133,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d0\u05e8\u05d9\u05e1\u05dc\u05d0\u05d5\u05d5"
+    ],
+    "name:yid_x_variant":[
+        "\u05d1\u05d0\u05e8\u05d9\u05e1\u05dc\u05d0\u05b7\u05d5\u05d5"
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u91cc\u65af\u62c9\u592b"
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":101876687,
-    "wof:lastmodified":1561776965,
+    "wof:lastmodified":1563303165,
     "wof:name":"\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

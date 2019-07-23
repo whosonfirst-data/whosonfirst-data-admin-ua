@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Hrebeniv"
+    ],
     "name:eng_x_preferred":[
         "Grebenuv"
+    ],
+    "name:eng_x_variant":[
+        "Hrebeniv"
     ],
     "name:pol_x_preferred":[
         "Hreben\u00f3w"
@@ -30,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u0431\u0435\u043d\u0435\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0435\u0431\u0435\u043d\u043e\u0432"
     ],
     "name:ukr_x_preferred":[
         "Hrebeniv"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1125839921,
-    "wof:lastmodified":1561777029,
+    "wof:lastmodified":1563304030,
     "wof:name":"Hrebeniv",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

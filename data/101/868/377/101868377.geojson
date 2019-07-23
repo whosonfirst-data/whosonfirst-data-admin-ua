@@ -16,29 +16,68 @@
     "mps:longitude":32.077528,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Resept:Xvorost"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0432\u043e\u0440\u043a\u0438"
     ],
     "name:dan_x_preferred":[
         "Klejner"
     ],
+    "name:dan_x_variant":[
+        "klejne"
+    ],
     "name:eng_x_preferred":[
         "Verguny"
+    ],
+    "name:eng_x_variant":[
+        "Angel wings"
     ],
     "name:fra_x_preferred":[
         "Bugne"
     ],
+    "name:fra_x_variant":[
+        "bugne"
+    ],
+    "name:hun_x_preferred":[
+        "cs\u00f6r\u00f6gef\u00e1nk"
+    ],
+    "name:ind_x_preferred":[
+        "Faworki"
+    ],
     "name:ita_x_preferred":[
         "Chiacchiere"
+    ],
+    "name:ita_x_variant":[
+        "chiacchiera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30e5\u30fc\u30cb\u30e5"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc9c\uc0ac\uc758 \ub0a0\uac1c"
     ],
     "name:lit_x_preferred":[
         "\u017dagar\u0117lis"
     ],
+    "name:lit_x_variant":[
+        "\u017eagar\u0117lis"
+    ],
+    "name:nob_x_preferred":[
+        "fattigmann"
+    ],
     "name:pol_x_preferred":[
         "Faworki"
     ],
+    "name:pol_x_variant":[
+        "faworek"
+    ],
     "name:por_x_preferred":[
         "Cueca virada"
+    ],
+    "name:por_x_variant":[
+        "coscor\u00e3o"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0432\u043e\u0440\u043e\u0441\u0442"
@@ -46,14 +85,29 @@
     "name:rus_x_variant":[
         "\u0412\u0435\u0440\u0433\u0443\u043d\u044b"
     ],
+    "name:scn_x_preferred":[
+        "Pezzi vecchi"
+    ],
     "name:spa_x_preferred":[
         "Sfrappole"
+    ],
+    "name:spa_x_variant":[
+        "pesti\u00f1o"
     ],
     "name:srd_x_preferred":[
         "Maravillas"
     ],
+    "name:srd_x_variant":[
+        "maravilla"
+    ],
+    "name:swe_x_preferred":[
+        "klen\u00e4t"
+    ],
     "name:szl_x_preferred":[
         "Chrustki"
+    ],
+    "name:tat_x_preferred":[
+        "\u043a\u043e\u0448 \u0442\u0435\u043b\u0435"
     ],
     "name:ukr_x_preferred":[
         "Verhuny"
@@ -66,6 +120,9 @@
     ],
     "name:vec_x_preferred":[
         "Gr\u00f3sto\u0142i"
+    ],
+    "name:vec_x_variant":[
+        "gr\u00f3sto\u0142o"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -112,7 +169,7 @@
         }
     ],
     "wof:id":101868377,
-    "wof:lastmodified":1544749701,
+    "wof:lastmodified":1563302634,
     "wof:name":"\u0412\u0435\u0440\u0433\u0443\u043d\u0438",
     "wof:parent_id":1108815743,
     "wof:placetype":"locality",

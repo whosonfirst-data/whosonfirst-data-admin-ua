@@ -16,11 +16,17 @@
     "mps:longitude":30.625356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u043b\u044d\u0448\u044b\u045e\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Teleschiwka"
     ],
     "name:eng_x_preferred":[
         "Teleshovka"
+    ],
+    "name:eng_x_variant":[
+        "Teleshivka"
     ],
     "name:lav_x_preferred":[
         "Tele\u0161ivka"
@@ -36,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Teleshovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u6377\u5217\u5e0c\u592b\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":101868365,
-    "wof:lastmodified":1561776928,
+    "wof:lastmodified":1563302592,
     "wof:name":"\u0422\u0435\u043b\u0435\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088587,
     "wof:placetype":"locality",

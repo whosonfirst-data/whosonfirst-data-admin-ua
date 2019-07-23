@@ -17,11 +17,17 @@
     "mps:longitude":23.137762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041c\u0430\u0441\u0442\u044b\u0441\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Mostys'ka"
     ],
     "name:crh_x_preferred":[
         "Most\u0131ska"
+    ],
+    "name:dan_x_preferred":[
+        "Mostyska"
     ],
     "name:deu_x_preferred":[
         "Mostyska"
@@ -37,6 +43,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e9\u05e6'\u05d9\u05e1\u05e7\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Mostyska"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u057d\u057f\u056b\u057d\u056f\u0561"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":101876757,
-    "wof:lastmodified":1561776968,
+    "wof:lastmodified":1563303198,
     "wof:name":"\u041c\u043e\u0441\u0442\u0438\u0441\u044c\u043a\u0430",
     "wof:parent_id":102088333,
     "wof:placetype":"locality",

@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0632\u0645\u0627\u0626\u06cc\u0644"
+    ],
     "name:bak_x_preferred":[
         "\u0418\u0437\u043c\u0430\u0438\u043b"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0437\u043c\u0430\u0456\u043b"
+    ],
+    "name:bel_x_variant":[
+        "\u0406\u0437\u043c\u0430\u0456\u043b"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0437\u043c\u0430\u0438\u043b"
@@ -31,8 +37,14 @@
     "name:cat_x_preferred":[
         "Izma\u00efl"
     ],
+    "name:ceb_x_preferred":[
+        "Izmayil"
+    ],
     "name:ces_x_preferred":[
         "Izmajil"
+    ],
+    "name:crh_x_preferred":[
+        "\u0130zmayil"
     ],
     "name:dan_x_preferred":[
         "Izmail"
@@ -87,6 +99,9 @@
     ],
     "name:ita_x_preferred":[
         "Izmail"
+    ],
+    "name:ita_x_variant":[
+        "Izma\u00efl"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30ba\u30de\u30a4\u30fc\u30eb"
@@ -163,6 +178,9 @@
     "name:tur_x_preferred":[
         "\u0130smail"
     ],
+    "name:tur_x_variant":[
+        "\u0130zmail"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0437\u043c\u0430\u0457\u043b"
     ],
@@ -234,7 +252,7 @@
         }
     ],
     "wof:id":1126005775,
-    "wof:lastmodified":1561777019,
+    "wof:lastmodified":1563303914,
     "wof:name":"Izmayil",
     "wof:parent_id":1108730625,
     "wof:placetype":"locality",

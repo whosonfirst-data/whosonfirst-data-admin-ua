@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641\u0633\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0631\u0648\u0641\u0633\u06a9"
+    ],
     "name:cat_x_preferred":[
         "Holubivka"
     ],
+    "name:ceb_x_preferred":[
+        "Kirovs'k"
+    ],
     "name:ces_x_preferred":[
         "Holubivka"
+    ],
+    "name:crh_x_preferred":[
+        "Kirovsk"
     ],
     "name:deu_x_preferred":[
         "Holubiwka"
@@ -32,11 +41,17 @@
     "name:eng_x_preferred":[
         "Kirovsk"
     ],
+    "name:eng_x_variant":[
+        "Holubivka"
+    ],
     "name:est_x_preferred":[
         "Holubivka"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0631\u0648\u0641\u0633\u06a9\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u0631\u0648\u0641\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "Holubivka"
@@ -44,11 +59,17 @@
     "name:fra_x_preferred":[
         "Holoubivka"
     ],
+    "name:hsb_x_preferred":[
+        "Holubiwka"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0578\u057e\u057d\u056f"
     ],
     "name:ita_x_preferred":[
         "Holubivka"
+    ],
+    "name:ita_x_variant":[
+        "Kirovs'k"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8"
@@ -153,7 +174,7 @@
         }
     ],
     "wof:id":101869879,
-    "wof:lastmodified":1561776944,
+    "wof:lastmodified":1563302811,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730805,
     "wof:placetype":"locality",

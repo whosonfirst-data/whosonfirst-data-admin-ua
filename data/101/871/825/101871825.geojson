@@ -20,14 +20,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0648\u0641\u0633\u0643"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0421\u043d\u043e\u045e\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Snovsk"
     ],
     "name:ces_x_preferred":[
         "Snovsk"
     ],
     "name:chv_x_preferred":[
         "\u0421\u043d\u043e\u0432\u0441\u043a"
+    ],
+    "name:chv_x_variant":[
+        "\u0429\u043e\u0440\u0441"
     ],
     "name:crh_x_preferred":[
         "Snovsk"
@@ -37,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Shchors"
+    ],
+    "name:eng_x_variant":[
+        "Snovsk"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0686\u0648\u0631\u0632"
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":101871825,
-    "wof:lastmodified":1561776976,
+    "wof:lastmodified":1563303305,
     "wof:name":"\u0429\u043e\u0440\u0441",
     "wof:parent_id":102089011,
     "wof:placetype":"locality",

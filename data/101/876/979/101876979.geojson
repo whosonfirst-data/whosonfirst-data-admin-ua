@@ -16,11 +16,17 @@
     "mps:longitude":30.789975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u0430\u0441\u043b\u044b\u0432\u044d"
+    ],
     "name:deu_x_preferred":[
         "Schtschaslywe"
     ],
     "name:eng_x_preferred":[
         "Shchaslyve"
+    ],
+    "name:eng_x_variant":[
+        "Schaslyve"
     ],
     "name:ita_x_preferred":[
         "\u0160\u010daslyve"
@@ -42,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Schastlivoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u65af\u5229\u97cb"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":101876979,
-    "wof:lastmodified":1561776966,
+    "wof:lastmodified":1563303178,
     "wof:name":"\u0429\u0430\u0441\u043b\u0438\u0432\u0435",
     "wof:parent_id":1108815647,
     "wof:placetype":"locality",

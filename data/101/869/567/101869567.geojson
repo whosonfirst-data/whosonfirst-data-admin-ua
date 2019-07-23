@@ -17,17 +17,23 @@
     "mps:longitude":31.475818,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u06cc\u0627\u0633\u0644\u0627\u0641-\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
+    ],
     "name:bak_x_preferred":[
         "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0430\u044f\u0441\u043b\u0430\u045e-\u0425\u043c\u044f\u043b\u044c\u043d\u0456\u0446\u043a\u0456"
     ],
-    "name:bel_x_variant":[
-        "\u041f\u0435\u0440\u0430\u044f\u0441\u043b\u0430\u045e-\u0425\u043c\u044f\u043b\u044c\u043d\u0456\u0446\u043a\u0456"
-    ],
     "name:cat_x_preferred":[
         "Perei\u00e0slav-Khmelnitski"
+    ],
+    "name:cat_x_variant":[
+        "Perei\u00e0slav-Khmelnytskyi"
+    ],
+    "name:ceb_x_preferred":[
+        "Pereyaslav-Khmel'nyts'kyy"
     ],
     "name:ces_x_preferred":[
         "Perejaslav-Chmelnyckyj"
@@ -43,6 +49,15 @@
     ],
     "name:eng_x_preferred":[
         "Pereyaslav-Khmel'nyts'kyy"
+    ],
+    "name:eng_x_variant":[
+        "Pereiaslav-Khmelnytskyi"
+    ],
+    "name:epo_x_preferred":[
+        "Perejaslav-\u0124melnickij"
+    ],
+    "name:est_x_preferred":[
+        "Perejaslav-Hmeln\u00f5tsk\u00f5i"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u06cc\u0627\u0633\u0644\u0627\u0641-\u062e\u0645\u0644\u0646\u06cc\u062a\u0633\u06a9\u06cc\u06cc"
@@ -122,6 +137,9 @@
     "name:tat_x_preferred":[
         "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439"
     ],
+    "name:tat_x_variant":[
+        "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u043d\u044b\u0442\u0441\u043a\u044b\u0439"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439"
     ],
@@ -181,7 +199,7 @@
         }
     ],
     "wof:id":101869567,
-    "wof:lastmodified":1561776939,
+    "wof:lastmodified":1563302744,
     "wof:name":"\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432-\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108815981,
     "wof:placetype":"locality",

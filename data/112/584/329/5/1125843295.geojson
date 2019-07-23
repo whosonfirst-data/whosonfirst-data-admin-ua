@@ -19,10 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0410\u0432\u0456\u0434\u0437\u0456\u044f\u043f\u0430\u043b\u044c"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0432\u0438\u0434\u0438\u043e\u043f\u043e\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Ovidiopol'"
+    ],
     "name:ces_x_preferred":[
+        "Ovidiopol"
+    ],
+    "name:crh_x_preferred":[
         "Ovidiopol"
     ],
     "name:deu_x_preferred":[
@@ -55,6 +64,9 @@
     "name:rus_x_preferred":[
         "\u041e\u0432\u0438\u0434\u0438\u043e\u0301\u043f\u043e\u043b\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u041e\u0432\u0438\u0434\u0438\u043e\u043f\u043e\u043b\u044c"
+    ],
     "name:sah_x_preferred":[
         "\u041e\u0432\u0438\u0434\u0438\u043e\u043f\u043e\u043b\u044c"
     ],
@@ -66,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0432\u0456\u0301\u0434\u0456\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0432\u0456\u0434\u0456\u043e\u043f\u043e\u043b\u044c"
     ],
     "name:unk_x_variant":[
         "Ovidiopol\u2019"
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125843295,
-    "wof:lastmodified":1561777024,
+    "wof:lastmodified":1563303983,
     "wof:name":"Owidiopol",
     "wof:parent_id":102087967,
     "wof:placetype":"locality",

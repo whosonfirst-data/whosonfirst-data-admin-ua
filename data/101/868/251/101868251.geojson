@@ -22,6 +22,12 @@
     "name:ces_x_preferred":[
         "Komsomolske"
     ],
+    "name:ces_x_variant":[
+        "Kalmiuske"
+    ],
+    "name:crh_x_preferred":[
+        "Kalmiuske"
+    ],
     "name:deu_x_preferred":[
         "Komsomolske"
     ],
@@ -33,7 +39,8 @@
     ],
     "name:eng_x_variant":[
         "Komsomolsk",
-        "Horishni Plavni"
+        "Horishni Plavni",
+        "Kalmiuske"
     ],
     "name:est_x_preferred":[
         "Komsomolske"
@@ -53,6 +60,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05de\u05e1\u05d5\u05de\u05d5\u05dc\u05e1\u05e7"
     ],
+    "name:hsb_x_preferred":[
+        "Kalmiuske"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0574\u057d\u0578\u0574\u0578\u056c\u057d\u056f\u0578\u0565"
     ],
@@ -62,11 +72,15 @@
     "name:ita_x_preferred":[
         "Komsomol'sk"
     ],
+    "name:ita_x_variant":[
+        "Komsomol's'ke"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10da\u10db\u10d8\u10e3\u10e1\u10d9\u10dd\u10d4"
     ],
     "name:kat_x_variant":[
-        "\u10d9\u10dd\u10db\u10e1\u10dd\u10db\u10dd\u10da\u10e1\u10d9\u10d8"
+        "\u10d9\u10dd\u10db\u10e1\u10dd\u10db\u10dd\u10da\u10e1\u10d9\u10d8",
+        "\u10d9\u10dd\u10db\u10e1\u10dd\u10db\u10dd\u10da\u10e1\u10d9\u10dd\u10d4"
     ],
     "name:kor_x_preferred":[
         "\ucf64\uc18c\ubab0\uc2dc\ud06c"
@@ -77,11 +91,17 @@
     "name:lav_x_variant":[
         "Komsomo\u013cska"
     ],
+    "name:nld_x_preferred":[
+        "Komsomolske"
+    ],
     "name:nno_x_preferred":[
         "Komsomolske"
     ],
     "name:nno_x_variant":[
         "Komsomolsk i Ukraina"
+    ],
+    "name:nob_x_preferred":[
+        "Komsomolske"
     ],
     "name:nor_x_preferred":[
         "Komsomolske"
@@ -104,6 +124,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u0459\u0441\u043a \u043d\u0430 \u0414\u045a\u0435\u043f\u0440\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u043c\u0438\u0443\u0441\u043a\u0435"
     ],
     "name:ukr_x_historical":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a"
@@ -187,7 +210,7 @@
         }
     ],
     "wof:id":101868251,
-    "wof:lastmodified":1544749630,
+    "wof:lastmodified":1563302628,
     "wof:name":"\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

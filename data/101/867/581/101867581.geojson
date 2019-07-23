@@ -19,11 +19,17 @@
     "name:bel_x_preferred":[
         "\u041f\u0456\u0441\u0430\u043d\u043a\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u043f\u0456\u0441\u0430\u043d\u043a\u0430"
+    ],
     "name:dan_x_preferred":[
         "P\u00e5ske\u00e6g"
     ],
     "name:deu_x_preferred":[
         "Osterei"
+    ],
+    "name:eng_x_preferred":[
+        "pysanka"
     ],
     "name:fin_x_preferred":[
         "P\u00e4\u00e4si\u00e4ismuna"
@@ -33,6 +39,9 @@
     ],
     "name:ido_x_preferred":[
         "Paskala ovo"
+    ],
+    "name:ita_x_preferred":[
+        "pisanka"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30a3\u30fc\u30b5\u30f3\u30ab"
@@ -46,8 +55,14 @@
     "name:por_x_preferred":[
         "Pessanka"
     ],
+    "name:por_x_variant":[
+        "p\u00eassanka"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0441\u0430\u043d\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u043f\u0438\u0441\u0430\u043d\u043a\u0430"
     ],
     "name:slv_x_preferred":[
         "Pirh"
@@ -55,11 +70,23 @@
     "name:spa_x_preferred":[
         "Pisanka ucraniano"
     ],
+    "name:spa_x_variant":[
+        "pisanka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u043d\u043a\u0435"
+    ],
     "name:swe_x_preferred":[
         "P\u00e5sk\u00e4gg"
     ],
+    "name:swe_x_variant":[
+        "pysanka"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0441\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u043f\u0438\u0441\u0430\u043d\u043a\u0430"
     ],
     "name:vie_x_preferred":[
         "Pysanky"
@@ -113,7 +140,7 @@
         }
     ],
     "wof:id":101867581,
-    "wof:lastmodified":1544749257,
+    "wof:lastmodified":1563303008,
     "wof:name":"\u0421\u043e\u0441\u043e\u043d\u043a\u0430",
     "wof:parent_id":1108815611,
     "wof:placetype":"locality",

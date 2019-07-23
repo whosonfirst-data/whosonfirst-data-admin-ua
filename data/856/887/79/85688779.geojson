@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u064a\u062a\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0628\u0644\u0627\u0633\u062a \u062f\u0648\u0646\u064a\u062a\u0633\u0643"
+    ],
     "name:aze_x_preferred":[
         "Donetsk Oblast\u0131"
     ],
@@ -43,17 +46,26 @@
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09a8\u09c7\u09b8\u09cd\u0995 \u0993\u09ac\u09cd\u09b2\u09be\u09b8\u09cd\u099f"
     ],
+    "name:bos_x_preferred":[
+        "Donjecka oblast"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Donetsk"
     ],
+    "name:ceb_x_preferred":[
+        "Donets'ka Oblast'"
+    ],
     "name:ces_x_preferred":[
         "Don\u011bck\u00e1 oblast"
     ],
     "name:che_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Donetsk vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Donetsk Oblast"
@@ -90,6 +102,12 @@
     ],
     "name:fra_x_preferred":[
         "Oblast de Donetsk"
+    ],
+    "name:fra_x_variant":[
+        "Donetsk"
+    ],
+    "name:frr_x_preferred":[
+        "Donetsjk"
     ],
     "name:glv_x_preferred":[
         "Queiggey Donetsk"
@@ -135,6 +153,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3c4\ub124\uce20\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c4\ub124\uce20\ud06c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Do\u0146eckas apgabals"
@@ -190,6 +211,9 @@
     "name:ron_x_preferred":[
         "Regiunea Done\u021bk"
     ],
+    "name:ron_x_variant":[
+        "Done\u021bk"
+    ],
     "name:rue_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -214,6 +238,9 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0435\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u045a\u0435\u0446\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Donetsk oblast"
     ],
@@ -231,6 +258,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e40\u0e19\u0e15\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e14\u0e2d\u0e41\u0e19\u0e15\u0e2a\u0e01\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Donetsk Oblast\u0131"
@@ -259,6 +289,9 @@
     ],
     "name:war_x_preferred":[
         "Donetsk Oblast"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d4\u10ea\u10d9\u10d8\u10e8 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05d0\u05e0\u05e2\u05e6\u05e7\u05e2\u05e8 \u05d0\u05d1\u05dc\u05d0\u05e1\u05d8"
@@ -395,7 +428,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1561776755,
+    "wof:lastmodified":1563300009,
     "wof:name":"Donetsk",
     "wof:parent_id":1159339531,
     "wof:placetype":"region",

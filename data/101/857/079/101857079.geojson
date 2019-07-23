@@ -23,10 +23,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u0648\u0634\u062a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0648\u0634\u062a\u0627"
+    ],
     "name:aze_x_preferred":[
         "Alu\u015fta"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0410\u043b\u0443\u0448\u0442\u0430"
     ],
     "name:bul_x_preferred":[
@@ -34,6 +37,9 @@
     ],
     "name:cat_x_preferred":[
         "Aluixta"
+    ],
+    "name:ceb_x_preferred":[
+        "Alushta"
     ],
     "name:ces_x_preferred":[
         "Alu\u0161ta"
@@ -73,7 +79,16 @@
     "name:fra_x_preferred":[
         "Alouchta"
     ],
+    "name:gsw_x_preferred":[
+        "Aluschta"
+    ],
     "name:hbs_x_preferred":[
+        "Alu\u0161ta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d5\u05e9\u05d8\u05d4"
+    ],
+    "name:hsb_x_preferred":[
         "Alu\u0161ta"
     ],
     "name:hye_x_preferred":[
@@ -81,6 +96,9 @@
     ],
     "name:ita_x_preferred":[
         "Alu\u0161ta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30b7\u30bf"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10e3\u10e8\u10e2\u10d0"
@@ -100,8 +118,14 @@
     "name:lit_x_preferred":[
         "Alu\u0161ta"
     ],
+    "name:ltz_x_preferred":[
+        "Aluschta"
+    ],
     "name:mhr_x_preferred":[
         "\u0410\u043b\u0443\u0448\u0442\u0430"
+    ],
+    "name:mhr_x_variant":[
+        "\u0410\u043b\u0443\u0448\u0442\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0443\u0448\u0442\u0430"
@@ -110,6 +134,9 @@
         "Aloesjta"
     ],
     "name:nno_x_preferred":[
+        "Alusjta"
+    ],
+    "name:nob_x_preferred":[
         "Alusjta"
     ],
     "name:nor_x_preferred":[
@@ -238,7 +265,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743711,
+    "wof:lastmodified":1563302707,
     "wof:name":"\u0410\u043b\u0443\u0448\u0442\u0430",
     "wof:parent_id":1108738679,
     "wof:placetype":"locality",

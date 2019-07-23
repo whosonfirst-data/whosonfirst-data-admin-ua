@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001641,
-    "geom:area_square_m":14334794.839865,
+    "geom:area_square_m":14334794.839864,
     "geom:bbox":"35.356836,45.014568,35.411931,45.087601",
     "geom:latitude":45.046923,
     "geom:longitude":35.383061,
@@ -17,11 +17,47 @@
     "mps:longitude":35.373438,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0648\u062f\u0648\u0633\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0626\u0648\u062f\u0648\u0633\u06cc\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Feodosiya"
+    ],
+    "name:bak_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0435\u0430\u0434\u043e\u0441\u0456\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f"
+    ],
     "name:cat_x_preferred":[
         "Feod\u00f2ssia"
     ],
+    "name:ceb_x_preferred":[
+        "Feodosiya"
+    ],
+    "name:ces_x_preferred":[
+        "Feodosija"
+    ],
+    "name:crh_x_preferred":[
+        "Kefe"
+    ],
+    "name:cym_x_preferred":[
+        "Feodosiya"
+    ],
+    "name:dan_x_preferred":[
+        "Feodosija"
+    ],
     "name:deu_x_preferred":[
         "Feodossija"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b5\u03bf\u03b4\u03bf\u03c3\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Feodosiya"
@@ -39,26 +75,99 @@
     "name:epo_x_preferred":[
         "Teodozio"
     ],
+    "name:est_x_preferred":[
+        "Feodossija"
+    ],
+    "name:eus_x_preferred":[
+        "Feodosia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0626\u0648\u062f\u0648\u0633\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Feodosija"
     ],
     "name:fra_x_preferred":[
         "Th\u00e9odosie"
     ],
+    "name:fra_x_variant":[
+        "F\u00e9odosia"
+    ],
+    "name:grc_x_preferred":[
+        "\u0398\u03b5\u03bf\u03b4\u03bf\u03c3\u03af\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05d5\u05d3\u05d5\u05e1\u05d9\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Feodosija"
+    ],
+    "name:hun_x_preferred":[
+        "Feodoszija"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u0578\u0564\u0578\u057d\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Feodosiya"
+    ],
     "name:ita_x_preferred":[
         "Teodosia"
     ],
     "name:ita_x_variant":[
-        "Caffa"
+        "Caffa",
+        "Feodosia"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a7\u30aa\u30c9\u30b7\u30e4"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10dd\u10d3\u10dd\u10e1\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud398\uc624\ub3c4\uc2dc\uc57c"
     ],
+    "name:lat_x_preferred":[
+        "Theodosia"
+    ],
+    "name:lav_x_preferred":[
+        "Feodosija"
+    ],
+    "name:lij_x_preferred":[
+        "Caffa"
+    ],
+    "name:lit_x_preferred":[
+        "Feodosija"
+    ],
+    "name:ltz_x_preferred":[
+        "Feodossija"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0430\u0444\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u0458\u0430"
+    ],
     "name:nld_x_preferred":[
         "Feodosia"
+    ],
+    "name:nld_x_variant":[
+        "Feodosija"
+    ],
+    "name:nno_x_preferred":[
+        "Feodosija"
+    ],
+    "name:nob_x_preferred":[
+        "Feodosija"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0398\u03b5\u03bf\u03b4\u03bf\u03c3\u03af\u03b1"
     ],
     "name:pol_x_preferred":[
         "Teodozja"
@@ -66,20 +175,62 @@
     "name:por_x_preferred":[
         "Teod\u00f3sia"
     ],
+    "name:ron_x_preferred":[
+        "Feodosia"
+    ],
+    "name:rue_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0456\u044f"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Feodosia"
+    ],
+    "name:slk_x_preferred":[
+        "Feodosija"
+    ],
+    "name:slv_x_preferred":[
+        "Feodozija"
+    ],
+    "name:spa_x_preferred":[
+        "Teodosia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u0458\u0430"
     ],
     "name:swe_x_preferred":[
         "Feodosija"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u04d9\u0444\u04d9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e35\u0e42\u0e2d\u0e42\u0e14\u0e0b\u0e35\u0e22\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Feodosya"
+    ],
+    "name:udm_x_preferred":[
+        "\u0424\u0435\u043e\u0434\u043e\u0441\u0438\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0435\u043e\u0434\u043e\u0441\u0456\u044f"
     ],
     "name:unk_x_variant":[
         "Kefe"
+    ],
+    "name:uzb_x_preferred":[
+        "Feodosiya"
+    ],
+    "name:vep_x_preferred":[
+        "Feodosii"
+    ],
+    "name:vie_x_preferred":[
+        "Theodosia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u5965\u591a\u897f\u4e9a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
@@ -150,7 +301,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530299555,
+    "wof:lastmodified":1563302207,
     "wof:name":"\u0424\u0435\u043e\u0434\u043e\u0441\u0456\u044f",
     "wof:parent_id":1108738663,
     "wof:placetype":"locality",
