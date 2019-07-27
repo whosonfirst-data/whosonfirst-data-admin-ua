@@ -21,16 +21,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041a\u043b\u043e\u045e"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30fc\u30a6"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0142ow"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0432"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u043e\u0432"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1108945131,
-    "wof:lastmodified":1500072242,
+    "wof:lastmodified":1564196802,
     "wof:name":"Klov",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,15 @@
     "iso:country":"UA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Bukowe"
+    ],
+    "name:ron_x_preferred":[
+        "Bukove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e\u0435"
+    ],
     "name:ukr_x_preferred":[
         "Bukove"
     ],
@@ -34,6 +43,9 @@
     "name:und_x_variant":[
         "Bukhtovets",
         "Bukovoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u79d1\u97cb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1292992663,
-    "wof:lastmodified":1537711294,
+    "wof:lastmodified":1564195341,
     "wof:name":"Bukove",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

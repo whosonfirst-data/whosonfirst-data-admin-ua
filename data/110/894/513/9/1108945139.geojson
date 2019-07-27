@@ -21,16 +21,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0430 \u0433\u043e\u0440\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0430 \u0433\u043e\u0440\u0430"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108945139,
-    "wof:lastmodified":1500072244,
+    "wof:lastmodified":1564196801,
     "wof:name":"Cherepanova Hora",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

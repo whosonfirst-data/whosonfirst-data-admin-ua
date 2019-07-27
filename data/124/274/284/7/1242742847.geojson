@@ -25,8 +25,20 @@
     "iso:country":"UA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u044d\u043b\u044b\u043a\u0456 \u0410\u0437\u044d\u0440\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Jeziory Wielkie"
+    ],
+    "name:ron_x_preferred":[
+        "Vel\u00eeki Ozera"
+    ],
     "name:rus_x_preferred":[
         "Velikiye Oz\u00ebra"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041e\u0437\u0451\u0440\u0430"
     ],
     "name:ukr_x_preferred":[
         "Velyki Ozera"
@@ -40,6 +52,9 @@
         "Ozero",
         "Ozera",
         "Oz\u00ebry"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5967\u6fa4\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1242742847,
-    "wof:lastmodified":1537710643,
+    "wof:lastmodified":1564198100,
     "wof:name":"Velyki Ozera",
     "wof:parent_id":102088889,
     "wof:placetype":"locality",

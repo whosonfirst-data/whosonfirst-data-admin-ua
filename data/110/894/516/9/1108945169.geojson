@@ -21,16 +21,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:jpn_x_preferred":[
+        "\u30a6\u30af\u30e9\u30a4\u30ca\u5efa\u7bc9\u6c11\u4fd7\u535a\u7269\u9928"
+    ],
+    "name:spa_x_preferred":[
+        "Pyrohiv"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0440\u043e\u0433\u0456\u0432"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1108945169,
-    "wof:lastmodified":1500072247,
+    "wof:lastmodified":1564196799,
     "wof:name":"Pyrohiv",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

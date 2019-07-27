@@ -24,16 +24,22 @@
     "name:eng_x_variant":[
         "Sviatoshynskyi"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u044f\u0442\u043e\u0448\u0438\u043d\u043e"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u044f\u0442\u043e\u0448\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0432\u044f\u0442\u043e\u0448\u0438\u043d"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1108945115,
-    "wof:lastmodified":1500072242,
+    "wof:lastmodified":1564196801,
     "wof:name":"Sviatoshyn",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

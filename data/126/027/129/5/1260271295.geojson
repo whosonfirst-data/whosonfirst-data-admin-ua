@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Vinohradnoe"
     ],
+    "name:ita_x_preferred":[
+        "Vinogradnoe"
+    ],
+    "name:ron_x_preferred":[
+        "Vinogradnoe"
+    ],
     "name:rus_x_historical":[
         "1-\u0435 \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0432\u0438\u043d\u0441\u043e\u0432\u0445\u043e\u0437\u0430 \u041a\u0430\u0441\u0442\u0435\u043b\u044c"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u0438\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u0435"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1260271295,
-    "wof:lastmodified":1537711831,
+    "wof:lastmodified":1564196676,
     "wof:name":"Vinogradnoe",
     "wof:parent_id":1108738679,
     "wof:placetype":"locality",

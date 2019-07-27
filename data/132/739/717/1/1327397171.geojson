@@ -25,6 +25,15 @@
     "iso:country":"UA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u0431\u0440\u044b\u043a\u0430\u0432\u044d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u0431\u0440\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:crh_x_preferred":[
+        "Tsebr\u0131kove"
+    ],
     "name:deu_x_historical":[
         "Hoffnungstal"
     ],
@@ -32,10 +41,32 @@
         "Hoffnungstal"
     ],
     "name:deu_x_variant":[
-        "Zebrykowed"
+        "Zebrykowed",
+        "Zebrykowe"
+    ],
+    "name:pol_x_preferred":[
+        "Cebrykowe"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aebr\u00eekove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0431\u0440\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:sah_x_preferred":[
+        "\u0426\u0435\u0431\u0440\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tsebrykove"
+    ],
+    "name:swe_x_preferred":[
+        "Tsebrykove"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0431\u0440\u0438\u043a\u043e\u0432\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u91c7\u5e03\u91cc\u79d1\u97cb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +92,7 @@
         }
     ],
     "wof:id":1327397171,
-    "wof:lastmodified":1537710309,
+    "wof:lastmodified":1564193959,
     "wof:name":"Tsebrikovo",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",
