@@ -21,16 +21,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u0438\u0435\u0432\u043a\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043c\u0456\u0457\u0432\u043a\u0430"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108945155,
-    "wof:lastmodified":1500072242,
+    "wof:lastmodified":1564196803,
     "wof:name":"Demiivka",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

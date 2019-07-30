@@ -25,14 +25,32 @@
     "iso:country":"UA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u062c\u0627\u0646\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0698\u0627\u0646\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u044d\u0440\u044d\u0436\u0430\u043d\u044b"
+    ],
     "name:bre_x_preferred":[
         "Berejani"
     ],
     "name:bre_x_variant":[
         "Berezhany"
     ],
+    "name:cat_x_preferred":[
+        "Berejani"
+    ],
+    "name:ceb_x_preferred":[
+        "Berezhani"
+    ],
     "name:ces_x_preferred":[
         "Bere\u017eany"
+    ],
+    "name:crh_x_preferred":[
+        "Berejan\u0131"
     ],
     "name:deu_x_preferred":[
         "Bereschany"
@@ -40,13 +58,61 @@
     "name:eng_x_preferred":[
         "Berezhany"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0698\u0627\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Berejany"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d6'\u05d6'\u05e0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Bere\u017eany"
+    ],
+    "name:hun_x_preferred":[
+        "Berezsani"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0565\u056a\u0561\u0576\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Bere\u017eany"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d4\u10df\u10d0\u10dc\u10d8"
+    ],
+    "name:lav_x_preferred":[
+        "Bere\u017eani"
+    ],
+    "name:lit_x_preferred":[
+        "Bere\u017eanai"
+    ],
+    "name:nno_x_preferred":[
+        "Berezjany"
+    ],
     "name:nor_x_preferred":[
         "Berezjany"
     ],
     "name:pol_x_preferred":[
         "Brze\u017cany"
     ],
+    "name:por_x_preferred":[
+        "Berezhany"
+    ],
+    "name:ron_x_preferred":[
+        "Berejan\u00ee"
+    ],
     "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Berezjany"
+    ],
+    "name:szl_x_preferred":[
+        "Bere\u017cany"
+    ],
+    "name:tat_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u044b"
     ],
     "name:ukr_x_preferred":[
@@ -56,6 +122,15 @@
         "Berejani",
         "Brze\u017cany",
         "Brzezhany"
+    ],
+    "name:vie_x_preferred":[
+        "Berezhany"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05e8\u05e2\u05d6\u05e9\u05d0\u05df"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u5217\u624e\u5185"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +157,7 @@
         }
     ],
     "wof:id":1309974871,
-    "wof:lastmodified":1537711356,
+    "wof:lastmodified":1564197821,
     "wof:name":"Berezhani",
     "wof:parent_id":102088307,
     "wof:placetype":"locality",

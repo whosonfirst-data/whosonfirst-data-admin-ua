@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Maksimovka"
     ],
+    "name:lav_x_preferred":[
+        "Maksimovka"
+    ],
     "name:rus_x_historical":[
         "\u0410\u0442\u0430\u0301\u0439 \u041d\u0435\u043c\u0435\u0301\u0446\u043a\u0438\u0439"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0441\u0438\u043c\u0456\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1309993989,
-    "wof:lastmodified":1537711535,
+    "wof:lastmodified":1564197832,
     "wof:name":"Maksimovka",
     "wof:parent_id":1108738645,
     "wof:placetype":"locality",

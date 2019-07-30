@@ -21,16 +21,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Bessarabka"
+    ],
+    "name:deu_x_preferred":[
+        "Bessarabka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bessarabka"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u043a\u0430"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1108945133,
-    "wof:lastmodified":1500072244,
+    "wof:lastmodified":1564196802,
     "wof:name":"Bessarabka",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

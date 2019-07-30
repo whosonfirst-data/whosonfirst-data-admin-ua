@@ -29,8 +29,23 @@
     "name:ara_x_preferred":[
         "\u0646\u064a \u0643\u0627\u064f\u0644\u0621\u0633\u0621 \u0643\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u064a\u0643\u0648\u0644\u0633\u0643\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u044c\u0441\u043a\u0430\u0435"
+    ],
+    "name:ces_x_preferred":[
+        "Nikolske"
+    ],
+    "name:crh_x_preferred":[
+        "Nikolske"
+    ],
+    "name:deu_x_preferred":[
+        "Nikolske"
+    ],
+    "name:fra_x_preferred":[
+        "Nikolske"
     ],
     "name:pol_x_historical":[
         "Wo\u0142odar\u015bke"
@@ -51,7 +66,8 @@
     ],
     "name:rus_x_variant":[
         "Voladarskoye",
-        "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435"
+        "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0435",
+        "\u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
     "name:ukr_x_historical":[
         "Volodars\u2019ke",
@@ -64,6 +80,9 @@
         "Volodars\u2019ke",
         "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u044c\u043a\u0435",
         "Nikol's\u2019ke"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u6d1b\u9054\u723e\u897f\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +118,7 @@
         }
     ],
     "wof:id":1259877961,
-    "wof:lastmodified":1537710204,
+    "wof:lastmodified":1564198770,
     "wof:name":"Nikol's'ke",
     "wof:parent_id":102088371,
     "wof:placetype":"locality",
