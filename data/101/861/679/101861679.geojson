@@ -11,12 +11,16 @@
     "geom:longitude":25.766356,
     "gn:population":3728,
     "iso:country":"UA",
+    "lbl:bbox":"25.746356,49.013069,25.786356,49.053069",
     "lbl:latitude":49.033069,
     "lbl:longitude":25.766356,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.033069,
     "mps:longitude":25.766356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u0441\u0435\u043d\u0430\u043b-\u041a\u0456\u0435\u045e\u0448\u0447\u044b\u043d\u0430"
     ],
@@ -35,7 +39,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0440\u0441\u0435\u043d\u0430\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bila"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":425,
     "wof:belongsto":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":712667,
         "gp:id":918340,
-        "qs:id":128841,
+        "qs_pg:id":128841,
         "wd:id":"Q1875429"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101861679,
-    "wof:lastmodified":1563302559,
+    "wof:lastmodified":1566593320,
     "wof:name":"\u0411\u0456\u043b\u0430",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":48.970422,
     "geom:longitude":31.310747,
     "iso:country":"UA",
+    "lbl:bbox":"31.290747,48.950422,31.330747,48.990422",
     "lbl:latitude":48.970422,
     "lbl:longitude":31.310747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.970422,
     "mps:longitude":31.310747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vasil'kov"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasil\u2019kova"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":500,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":690413,
         "gp:id":933882,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q5123999"
     },
     "wof:country":"UA",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101866857,
-    "wof:lastmodified":1563302422,
+    "wof:lastmodified":1566593260,
     "wof:name":"\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u0456\u0432",
     "wof:parent_id":102088465,
     "wof:placetype":"locality",

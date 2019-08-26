@@ -9,15 +9,18 @@
     "geom:bbox":"36.8253,46.9136,36.8253,46.9136",
     "geom:latitude":46.9136,
     "geom:longitude":36.8253,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4477,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4477,
     "iso:country":"UA",
+    "lbl:bbox":"36.8053,46.8936,36.8453,46.9336",
     "lbl:latitude":46.9136,
     "lbl:longitude":36.8253,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0410\u0441\u044b\u043f\u044d\u043d\u043a\u0430"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0438\u043f\u0435\u043d\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novospasskoye"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":128391,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125854211,
-    "wof:lastmodified":1563303962,
+    "wof:lastmodified":1566593956,
     "wof:name":"Osypenko",
     "wof:parent_id":1108815641,
     "wof:placetype":"locality",

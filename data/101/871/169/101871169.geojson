@@ -11,12 +11,16 @@
     "geom:longitude":35.352376,
     "gn:population":1978,
     "iso:country":"UA",
+    "lbl:bbox":"35.332376,50.103363,35.372376,50.143363",
     "lbl:latitude":50.123363,
     "lbl:longitude":35.352376,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.123363,
     "mps:longitude":35.352376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_variant":[
         "\u0413\u0443\u0442\u0430 \u041f\u0435\u043d\u044f\u0446\u043a\u0430"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_variant":[
         "\u0413\u0443\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guty"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":707786,
         "gp:id":927940,
-        "qs:id":128709
+        "qs_pg:id":128709
     },
     "wof:country":"UA",
     "wof:geomhash":"5c041e5deaf733e0fa438bd6fb55e83a",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101871169,
-    "wof:lastmodified":1544750982,
+    "wof:lastmodified":1566593630,
     "wof:name":"\u0413\u0443\u0442\u0438",
     "wof:parent_id":102088919,
     "wof:placetype":"locality",

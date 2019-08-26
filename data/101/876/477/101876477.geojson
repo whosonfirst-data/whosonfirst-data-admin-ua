@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.33516,
     "lbl:longitude":26.327848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.33516,
     "mps:longitude":26.327848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0641\u0632\u0647\u0648\u0643"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0432\u0436\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolzhok"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":709746,
         "gp:id":918014,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4164874"
     },
     "wof:country":"UA",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101876477,
-    "wof:lastmodified":1563303161,
+    "wof:lastmodified":1566593585,
     "wof:name":"\u0414\u043e\u0432\u0436\u043e\u043a",
     "wof:parent_id":102088077,
     "wof:placetype":"locality",

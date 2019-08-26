@@ -11,12 +11,16 @@
     "geom:longitude":37.694546,
     "gn:population":10543,
     "iso:country":"UA",
+    "lbl:bbox":"37.674546,47.151041,37.714546,47.191041",
     "lbl:latitude":47.171041,
     "lbl:longitude":37.694546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.171041,
     "mps:longitude":37.694546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Sartana"
     ],
@@ -62,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0442\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Sartana"
-    ],
     "name:zho_x_preferred":[
         "\u85a9\u723e\u5854\u7d0d"
     ],
@@ -87,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688779,
@@ -100,7 +101,7 @@
     "wof:concordances":{
         "gn:id":696280,
         "gp:id":931702,
-        "qs:id":275465,
+        "qs_pg:id":275465,
         "wd:id":"Q782264"
     },
     "wof:country":"UA",
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":101868143,
-    "wof:lastmodified":1563302638,
+    "wof:lastmodified":1566593354,
     "wof:name":"\u0421\u0430\u0440\u0442\u0430\u043d\u0430",
     "wof:parent_id":1108730821,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.068124,
     "geom:longitude":24.449095,
     "iso:country":"UA",
+    "lbl:bbox":"24.429095,48.048124,24.469095,48.088124",
     "lbl:latitude":48.068124,
     "lbl:longitude":24.449095,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.068124,
     "mps:longitude":24.449095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lugi"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u041b\u0443\u0433\u0438"
     ],
-    "name:unk_x_variant":[
-        "Lugi"
-    ],
     "name:zho_x_preferred":[
         "\u76e7\u91cc"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1257,
     "wof:belongsto":[
         102191581,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":702683,
         "gp:id":932090,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q720845"
     },
     "wof:country":"UA",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":101859313,
-    "wof:lastmodified":1561776910,
+    "wof:lastmodified":1566593228,
     "wof:name":"\u041b\u0443\u0433\u0438",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

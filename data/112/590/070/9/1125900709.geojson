@@ -9,15 +9,18 @@
     "geom:bbox":"29.08228,51.20286,29.08228,51.20286",
     "geom:latitude":51.20286,
     "geom:longitude":29.08228,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2521,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2521,
     "iso:country":"UA",
+    "lbl:bbox":"29.06228,51.18286,29.10228,51.22286",
     "lbl:latitude":51.20286,
     "lbl:longitude":29.08228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0434\u044b\u0447\u044b"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0434\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolshie Narodichi"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":1028515,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125900709,
-    "wof:lastmodified":1563303855,
+    "wof:lastmodified":1566593918,
     "wof:name":"Narodychi",
     "wof:parent_id":102088895,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.590213,
     "geom:longitude":33.251106,
     "iso:country":"UA",
+    "lbl:bbox":"33.231106,49.570213,33.271106,49.610213",
     "lbl:latitude":49.590213,
     "lbl:longitude":33.251106,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.590213,
     "mps:longitude":33.251106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veselyi Podil"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191581,
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":930079,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q16694345"
     },
     "wof:country":"UA",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101869451,
-    "wof:lastmodified":1563302826,
+    "wof:lastmodified":1566593435,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0438\u0439 \u041f\u043e\u0434\u0456\u043b",
     "wof:parent_id":102089019,
     "wof:placetype":"locality",

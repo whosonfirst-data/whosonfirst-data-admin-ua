@@ -10,12 +10,16 @@
     "geom:latitude":48.652322,
     "geom:longitude":34.286999,
     "iso:country":"UA",
+    "lbl:bbox":"34.266999,48.632322,34.306999,48.672322",
     "lbl:latitude":48.652322,
     "lbl:longitude":34.286999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.652322,
     "mps:longitude":34.286999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Puschkariwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041f\u0443\u0448\u043a\u0430\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pushkar\u00ebvka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":696049,
         "gp:id":937553,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q7215568"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101866883,
-    "wof:lastmodified":1563302455,
+    "wof:lastmodified":1566593275,
     "wof:name":"\u041f\u0443\u0448\u043a\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088525,
     "wof:placetype":"locality",

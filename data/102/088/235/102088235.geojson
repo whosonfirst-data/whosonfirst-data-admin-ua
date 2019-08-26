@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.838184,
     "lbl:longitude":36.282766,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zaporizka",
     "meso:admin_1":"\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Prymors'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":36.300269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0430\u0437\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -82,9 +85,6 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u0430\u0437\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Novoazovsk"
     ],
@@ -107,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1398",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Prymors'k",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":102088235,
-    "wof:lastmodified":1563299478,
+    "wof:lastmodified":1566591361,
     "wof:name":"Prymorskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

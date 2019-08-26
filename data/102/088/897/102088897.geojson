@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.328334,
     "lbl:longitude":33.990002,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Poltavska",
     "meso:admin_1":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Hadiats'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":33.951366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hadiats'kyi"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0434\u044f\u0446\u044c\u043a\u0438\u0439",
         "\u0413\u0430\u0434\u044f\u0446\u044c\u043a\u0438\u0439 \u043f\u043e\u043b\u043a"
-    ],
-    "name:und_x_variant":[
-        "\u0413\u0430\u0434\u044f\u0446\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
@@ -69,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1595",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Hadiach",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":102088897,
-    "wof:lastmodified":1554317316,
+    "wof:lastmodified":1566591456,
     "wof:name":"Hadiatskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

@@ -10,12 +10,16 @@
     "geom:latitude":48.494139,
     "geom:longitude":24.395618,
     "iso:country":"UA",
+    "lbl:bbox":"24.375618,48.474139,24.415618,48.514139",
     "lbl:latitude":48.494139,
     "lbl:longitude":24.395618,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.494139,
     "mps:longitude":24.395618,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0430 \u043f\u0430\u0440\u0442\u0438\u044f"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zielona"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1555,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":687416,
         "gp:id":921237,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q851822"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101859915,
-    "wof:lastmodified":1563302328,
+    "wof:lastmodified":1566593225,
     "wof:name":"\u0417\u0435\u043b\u0435\u043d\u0430",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

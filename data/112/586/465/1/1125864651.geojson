@@ -9,15 +9,18 @@
     "geom:bbox":"34.55298,46.72082,34.55298,46.72082",
     "geom:latitude":46.72082,
     "geom:longitude":34.55298,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5036,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5036,
     "iso:country":"UA",
+    "lbl:bbox":"34.53298,46.70082,34.57298,46.74082",
     "lbl:latitude":46.72082,
     "lbl:longitude":34.55298,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0418\u0432\u0430\u043d\u0438\u0432\u043a\u0430"
@@ -52,7 +55,7 @@
     "name:ukr_x_variant":[
         "\u0406\u0432\u0430\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iwanowka"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":128692,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125864651,
-    "wof:lastmodified":1563303812,
+    "wof:lastmodified":1566593902,
     "wof:name":"Ivanivka",
     "wof:parent_id":102088081,
     "wof:placetype":"locality",

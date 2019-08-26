@@ -10,12 +10,16 @@
     "geom:latitude":48.828796,
     "geom:longitude":34.566916,
     "iso:country":"UA",
+    "lbl:bbox":"34.546916,48.808796,34.586916,48.848796",
     "lbl:latitude":48.828796,
     "lbl:longitude":34.566916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.828796,
     "mps:longitude":34.566916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowopidkrjasch"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u043f\u0456\u0434\u043a\u0440\u044f\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mogilevskiye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":699337,
         "gp:id":928597,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4324960"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101867995,
-    "wof:lastmodified":1563303017,
+    "wof:lastmodified":1566593519,
     "wof:name":"\u041d\u043e\u0432\u043e\u043f\u0456\u0434\u043a\u0440\u044f\u0436",
     "wof:parent_id":102088613,
     "wof:placetype":"locality",

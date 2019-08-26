@@ -10,12 +10,16 @@
     "geom:latitude":47.692362,
     "geom:longitude":34.682948,
     "iso:country":"UA",
+    "lbl:bbox":"34.662948,47.672362,34.702948,47.712362",
     "lbl:latitude":47.692362,
     "lbl:longitude":34.682948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.692362,
     "mps:longitude":34.682948,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zorya"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":926015,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q8074532"
     },
     "wof:country":"UA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101865225,
-    "wof:lastmodified":1563303490,
+    "wof:lastmodified":1566593735,
     "wof:name":"\u0417\u043e\u0440\u044f",
     "wof:parent_id":102088361,
     "wof:placetype":"locality",

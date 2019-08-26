@@ -10,12 +10,16 @@
     "geom:latitude":51.644688,
     "geom:longitude":32.626795,
     "iso:country":"UA",
+    "lbl:bbox":"32.606795,51.624688,32.646795,51.664688",
     "lbl:latitude":51.644688,
     "lbl:longitude":32.626795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.644688,
     "mps:longitude":32.626795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u0434\u0440\u044b\u045e\u043a\u0430"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kudrovka"
-    ],
     "name:zho_x_preferred":[
         "\u5eab\u5fb7\u91cc\u592b\u5361"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":703772,
         "gp:id":918282,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q94768"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101871791,
-    "wof:lastmodified":1563303242,
+    "wof:lastmodified":1566593628,
     "wof:name":"\u041a\u0443\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102089005,
     "wof:placetype":"locality",

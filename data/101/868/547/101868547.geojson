@@ -10,12 +10,16 @@
     "geom:latitude":47.876247,
     "geom:longitude":37.934997,
     "iso:country":"UA",
+    "lbl:bbox":"37.914997,47.856247,37.954997,47.896247",
     "lbl:latitude":47.876247,
     "lbl:longitude":37.934997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.876247,
     "mps:longitude":37.934997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Lar\u0131ne"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u041b\u0430\u0440\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Larino"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u91cc\u6d85"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1559,
     "wof:belongsto":[
         85688779,
@@ -82,7 +83,7 @@
     "wof:concordances":{
         "gn:id":703374,
         "gp:id":925009,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4254546"
     },
     "wof:country":"UA",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":101868547,
-    "wof:lastmodified":1563302691,
+    "wof:lastmodified":1566593376,
     "wof:name":"\u041b\u0430\u0440\u0438\u043d\u0435",
     "wof:parent_id":1175613717,
     "wof:placetype":"locality",

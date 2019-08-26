@@ -10,20 +10,21 @@
     "geom:latitude":50.034355,
     "geom:longitude":30.214574,
     "iso:country":"UA",
+    "lbl:bbox":"30.194574,50.014355,30.234574,50.054355",
     "lbl:latitude":50.034355,
     "lbl:longitude":30.214574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.034355,
     "mps:longitude":30.214574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ksaverovka"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0441\u0430\u0432\u0435\u0440\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Ksaverovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":703832,
         "gp:id":920552,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"dc4c709e0f969c23eb330d7786d23509",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101868733,
-    "wof:lastmodified":1544749900,
+    "wof:lastmodified":1566593358,
     "wof:name":"\u041a\u0441\u0430\u0432\u0435\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088687,
     "wof:placetype":"locality",

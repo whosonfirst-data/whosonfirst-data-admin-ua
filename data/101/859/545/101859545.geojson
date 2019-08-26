@@ -10,12 +10,16 @@
     "geom:latitude":48.124127,
     "geom:longitude":23.7407,
     "iso:country":"UA",
+    "lbl:bbox":"23.7207,48.104127,23.7607,48.144127",
     "lbl:latitude":48.124127,
     "lbl:longitude":23.7407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.124127,
     "mps:longitude":23.7407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Ol\u2019khovchik"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8282295,
         "gp:id":919346,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"0402085501cb66982aab3c841f1ccfc4",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859545,
-    "wof:lastmodified":1544744968,
+    "wof:lastmodified":1566593228,
     "wof:name":"\u0412\u0456\u043b\u044c\u0445\u0456\u0432\u0447\u0438\u043a",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

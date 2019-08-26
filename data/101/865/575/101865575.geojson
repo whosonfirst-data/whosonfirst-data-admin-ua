@@ -11,12 +11,16 @@
     "geom:longitude":32.140962,
     "gn:population":4726,
     "iso:country":"UA",
+    "lbl:bbox":"32.120962,46.559892,32.160962,46.599892",
     "lbl:latitude":46.579892,
     "lbl:longitude":32.140962,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.579892,
     "mps:longitude":32.140962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0627\u0641\u0627 \u0645\u064a\u062f\u0641\u064a\u062f\u064a\u0646\u0643\u0648"
     ],
@@ -72,9 +76,6 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
-        "Stanislav"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u5766\u5c3c\u65af\u62c9\u592b\u00b7\u6885\u5fb7\u7ef4\u767b\u79d1"
     ],
@@ -101,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":325,
     "wof:belongsto":[
@@ -114,7 +115,6 @@
     "wof:concordances":{
         "gn:id":692944,
         "gp:id":934788,
-        "qs:id":128271,
         "qs_pg:id":128271,
         "wd:id":"Q4439379"
     },
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":101865575,
-    "wof:lastmodified":1563303467,
+    "wof:lastmodified":1566593725,
     "wof:name":"\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432",
     "wof:parent_id":102088019,
     "wof:placetype":"locality",

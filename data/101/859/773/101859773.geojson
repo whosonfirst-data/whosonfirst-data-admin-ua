@@ -10,12 +10,16 @@
     "geom:latitude":48.692087,
     "geom:longitude":23.616008,
     "iso:country":"UA",
+    "lbl:bbox":"23.596008,48.672087,23.636008,48.712087",
     "lbl:latitude":48.692087,
     "lbl:longitude":23.616008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.692087,
     "mps:longitude":23.616008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Torun"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u0443\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Torun'"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":691356,
         "gp:id":936939,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q831400"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101859773,
-    "wof:lastmodified":1561776913,
+    "wof:lastmodified":1566593245,
     "wof:name":"\u0422\u043e\u0440\u0443\u043d\u044c",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

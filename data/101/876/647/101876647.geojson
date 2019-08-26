@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.023829,
     "lbl:longitude":25.806858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.023829,
     "mps:longitude":25.806858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horishnia Vyhnanka"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u0412\u0438\u0433\u043d\u0430\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Wygnanka"
     ],
     "name:zho_x_preferred":[
         "\u6208\u91cc\u4ec0\u5c3c\u4e9e\u7dad\u683c\u5357\u5361"
@@ -53,7 +53,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":180,
     "wof:belongsto":[
         102191581,
@@ -65,7 +65,7 @@
     "wof:concordances":{
         "gn:id":708428,
         "gp:id":918340,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4144242"
     },
     "wof:country":"UA",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101876647,
-    "wof:lastmodified":1563303204,
+    "wof:lastmodified":1566593609,
     "wof:name":"\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u0412\u0438\u0433\u043d\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

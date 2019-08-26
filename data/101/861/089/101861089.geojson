@@ -10,13 +10,17 @@
     "geom:latitude":49.090254,
     "geom:longitude":24.580874,
     "iso:country":"UA",
+    "lbl:bbox":"24.560874,49.070254,24.600874,49.110254",
     "lbl:latitude":49.090254,
     "lbl:longitude":24.580874,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.090254,
     "mps:longitude":24.580874,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Medina"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":701426,
         "gp:id":921237,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"e2efc8b2b28342f2b5ab8f768cd16ccf",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861089,
-    "wof:lastmodified":1544745782,
+    "wof:lastmodified":1566593315,
     "wof:name":"\u041c\u0435\u0434\u0438\u043d\u044f",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

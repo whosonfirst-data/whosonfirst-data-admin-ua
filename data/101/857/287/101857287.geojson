@@ -10,12 +10,16 @@
     "geom:latitude":45.179725,
     "geom:longitude":34.953536,
     "iso:country":"UA",
+    "lbl:bbox":"34.933536,45.159725,34.973536,45.199725",
     "lbl:latitude":45.179725,
     "lbl:longitude":34.953536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.179725,
     "mps:longitude":34.953536,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Qurman"
     ],
@@ -92,7 +96,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         85688855,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":704382,
         "gp:id":12518355,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2367699"
     },
     "wof:country":"UA",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":101857287,
-    "wof:lastmodified":1563302707,
+    "wof:lastmodified":1566593385,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738653,
     "wof:placetype":"locality",

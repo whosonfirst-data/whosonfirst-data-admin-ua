@@ -9,15 +9,18 @@
     "geom:bbox":"23.6959,48.42851,23.6959,48.42851",
     "geom:latitude":48.42851,
     "geom:longitude":23.6959,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4839,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4839,
     "iso:country":"UA",
+    "lbl:bbox":"23.6759,48.40851,23.7159,48.44851",
     "lbl:latitude":48.42851,
     "lbl:longitude":23.6959,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kolochava"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0447\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhni Kolochava"
     ],
     "qs_pg:aaroncc":"UA",
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":128644,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125779621,
-    "wof:lastmodified":1563303988,
+    "wof:lastmodified":1566593965,
     "wof:name":"Kolochava",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

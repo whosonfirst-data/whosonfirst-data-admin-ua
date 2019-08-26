@@ -10,12 +10,16 @@
     "geom:latitude":48.54878,
     "geom:longitude":36.205389,
     "iso:country":"UA",
+    "lbl:bbox":"36.185389,48.52878,36.225389,48.56878",
     "lbl:latitude":48.54878,
     "lbl:longitude":36.205389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.54878,
     "mps:longitude":36.205389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowa Datscha"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u0430 \u0414\u0430\u0447\u0430"
     ],
-    "name:unk_x_variant":[
-        "Novaya Dacha"
-    ],
     "name:zho_x_preferred":[
         "\u65b0\u9054\u6070"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":699872,
         "gp:id":928243,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4322035"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101868387,
-    "wof:lastmodified":1563302694,
+    "wof:lastmodified":1566593377,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0414\u0430\u0447\u0430",
     "wof:parent_id":1108815621,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":35.618345,
     "gn:population":10099,
     "iso:country":"UA",
+    "lbl:bbox":"35.598345,49.810916,35.638345,49.850916",
     "lbl:latitude":49.830916,
     "lbl:longitude":35.618345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.830916,
     "mps:longitude":35.618345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0643\u064a"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valki"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -128,7 +132,6 @@
     "wof:concordances":{
         "gn:id":690509,
         "gp:id":936977,
-        "qs:id":421918,
         "qs_pg:id":421918,
         "wd:id":"Q1104747",
         "wk:page":"Valky"
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101871059,
-    "wof:lastmodified":1563303313,
+    "wof:lastmodified":1566593658,
     "wof:name":"\u0412\u0430\u043b\u043a\u0438",
     "wof:parent_id":102088871,
     "wof:placetype":"locality",

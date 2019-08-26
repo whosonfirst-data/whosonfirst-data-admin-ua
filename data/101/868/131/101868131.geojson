@@ -11,12 +11,16 @@
     "geom:longitude":36.649261,
     "gn:population":7832,
     "iso:country":"UA",
+    "lbl:bbox":"36.629261,47.334265,36.669261,47.374265",
     "lbl:latitude":47.354265,
     "lbl:longitude":36.649261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.354265,
     "mps:longitude":36.649261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435"
     ],
@@ -63,7 +67,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u044c\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuybyshevo"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":387,
     "wof:belongsto":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":703494,
         "gp:id":924903,
-        "qs:id":128573,
+        "qs_pg:id":128573,
         "wd:id":"Q1967395"
     },
     "wof:country":"UA",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":101868131,
-    "wof:lastmodified":1563302650,
+    "wof:lastmodified":1566593359,
     "wof:name":"\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435",
     "wof:parent_id":102088373,
     "wof:placetype":"locality",

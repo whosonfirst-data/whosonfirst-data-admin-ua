@@ -10,12 +10,16 @@
     "geom:latitude":48.154451,
     "geom:longitude":26.298822,
     "iso:country":"UA",
+    "lbl:bbox":"26.278822,48.134451,26.318822,48.174451",
     "lbl:latitude":48.154451,
     "lbl:longitude":26.298822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.154451,
     "mps:longitude":26.298822,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lunka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":920959,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4269495"
     },
     "wof:country":"UA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101859617,
-    "wof:lastmodified":1563302303,
+    "wof:lastmodified":1566593215,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u043e\u0441\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088041,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.521954,
     "geom:longitude":22.264894,
     "iso:country":"UA",
+    "lbl:bbox":"22.244894,48.501954,22.284894,48.541954",
     "lbl:latitude":48.521954,
     "lbl:longitude":22.264894,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.521954,
     "mps:longitude":22.264894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rativtsi"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0420\u0430\u0442\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kishrat"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":701939,
         "gp:id":936939,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q830934"
     },
     "wof:country":"UA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101859649,
-    "wof:lastmodified":1561776911,
+    "wof:lastmodified":1566593235,
     "wof:name":"\u0420\u0430\u0442\u0456\u0432\u0446\u0456",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

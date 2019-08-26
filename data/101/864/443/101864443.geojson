@@ -10,12 +10,16 @@
     "geom:latitude":51.740301,
     "geom:longitude":24.880368,
     "iso:country":"UA",
+    "lbl:bbox":"24.860368,51.720301,24.900368,51.760301",
     "lbl:latitude":51.740301,
     "lbl:longitude":24.880368,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.740301,
     "mps:longitude":24.880368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Czerce"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "Cherche"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Czorcze"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":710843,
         "gp:id":921613,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"21e52d14e219b1cf78242d4f52cb1f62",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101864443,
-    "wof:lastmodified":1544747528,
+    "wof:lastmodified":1566593767,
     "wof:name":"\u0427\u0435\u0440\u0447\u0435",
     "wof:parent_id":102088837,
     "wof:placetype":"locality",

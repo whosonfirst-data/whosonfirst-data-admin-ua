@@ -10,16 +10,20 @@
     "geom:latitude":48.794581,
     "geom:longitude":24.029689,
     "iso:country":"UA",
+    "lbl:bbox":"24.009689,48.774581,24.049689,48.814581",
     "lbl:latitude":48.794581,
     "lbl:longitude":24.029689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.794581,
     "mps:longitude":24.029689,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0434\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolina"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191581,
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":692260,
         "gp:id":921420,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"0be0b992fd45d944d673069abd9d353c",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":101860779,
-    "wof:lastmodified":1544745616,
+    "wof:lastmodified":1566593463,
     "wof:name":"\u0421\u0443\u0445\u043e\u0434\u0456\u043b",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

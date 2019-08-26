@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":49.553137,
     "lbl:longitude":26.946137,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":49.554991,
     "mps:longitude":26.947527,
@@ -260,7 +261,7 @@
         "Chmjyl\u0144icki uobw\u016fd"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcd\u0bb9\u0bae\u0bc6\u0bb3\u0ba9\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bcd  \u0b93\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0b95\u0bcd\u0bb9\u0bae\u0bc6\u0bb3\u0ba9\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bcd \u0b93\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u043a\u0438\u0439 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -288,9 +289,6 @@
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Khmel\u2019nyts\u2019ka Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -386,9 +384,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"20,645",
     "statoids:area_mi":"7,971",
     "statoids:as_of_date":"2001-12-05",
@@ -433,7 +431,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737973,
+    "wof:lastmodified":1566591784,
     "wof:name":"Khmelnytskyi",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

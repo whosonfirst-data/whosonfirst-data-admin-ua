@@ -10,12 +10,16 @@
     "geom:latitude":48.712068,
     "geom:longitude":25.726613,
     "iso:country":"UA",
+    "lbl:bbox":"25.706613,48.692068,25.746613,48.732068",
     "lbl:latitude":48.712068,
     "lbl:longitude":25.726613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.712068,
     "mps:longitude":25.726613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "D\u017awiniacz Dolny"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939515,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"e74f0335a8d836a86ea3ea14a2226429",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101861491,
-    "wof:lastmodified":1544745991,
+    "wof:lastmodified":1566593304,
     "wof:name":"\u0414\u0437\u0432\u0438\u043d\u044f\u0447",
     "wof:parent_id":102088159,
     "wof:placetype":"locality",

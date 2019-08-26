@@ -10,12 +10,16 @@
     "geom:latitude":48.436017,
     "geom:longitude":25.76014,
     "iso:country":"UA",
+    "lbl:bbox":"25.74014,48.416017,25.78014,48.456017",
     "lbl:latitude":48.436017,
     "lbl:longitude":25.76014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.436017,
     "mps:longitude":25.76014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0456\u0446\u043c\u0430\u043d\u044c"
     ],
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0446\u043c\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kozmeny"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +129,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":508,
     "wof:belongsto":[
         102191581,
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":705735,
         "gp:id":918585,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q149151",
         "wk:page":"Kitsman"
     },
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":101860615,
-    "wof:lastmodified":1563302904,
+    "wof:lastmodified":1566593469,
     "wof:name":"\u041a\u0456\u0446\u043c\u0430\u043d\u044c",
     "wof:parent_id":102088095,
     "wof:placetype":"locality",

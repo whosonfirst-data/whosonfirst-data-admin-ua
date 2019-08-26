@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"26.06333,48.16333,26.10333,48.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
     ],
@@ -87,8 +91,7 @@
         "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Slobazna",
-        "Sloboda"
+        "Slobazna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1310012773,
-    "wof:lastmodified":1564196954,
+    "wof:lastmodified":1566592983,
     "wof:name":"Sloboda",
     "wof:parent_id":102088041,
     "wof:placetype":"locality",

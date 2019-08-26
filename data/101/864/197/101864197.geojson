@@ -11,12 +11,16 @@
     "geom:longitude":25.460325,
     "gn:population":16509,
     "iso:country":"UA",
+    "lbl:bbox":"25.440325,50.808779,25.480325,50.848779",
     "lbl:latitude":50.828779,
     "lbl:longitude":25.460325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.828779,
     "mps:longitude":25.460325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0641\u064a\u0631\u062a\u0633\u064a"
     ],
@@ -101,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0432\u0435\u0440\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Kivertsi"
-    ],
     "name:vie_x_preferred":[
         "Kivertsi"
     ],
@@ -130,7 +131,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":551,
     "wof:belongsto":[
@@ -143,7 +144,6 @@
     "wof:concordances":{
         "gn:id":705730,
         "gp:id":922834,
-        "qs:id":43858,
         "qs_pg:id":43858,
         "wd:id":"Q148890",
         "wk:page":"Kivertsi"
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":101864197,
-    "wof:lastmodified":1563303561,
+    "wof:lastmodified":1566593764,
     "wof:name":"\u041a\u0456\u0432\u0435\u0440\u0446\u0456",
     "wof:parent_id":102088699,
     "wof:placetype":"locality",

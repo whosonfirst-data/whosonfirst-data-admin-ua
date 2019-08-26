@@ -9,15 +9,18 @@
     "geom:bbox":"35.15916,46.69972,35.15916,46.69972",
     "geom:latitude":46.69972,
     "geom:longitude":35.15916,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12353,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":12353,
     "iso:country":"UA",
+    "lbl:bbox":"35.13916,46.67972,35.17916,46.71972",
     "lbl:latitude":46.69972,
     "lbl:longitude":35.15916,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u042f\u043a\u044b\u043c\u0456\u045e\u043a\u0430"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043a\u0438\u043c\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akimovka"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":552671,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126045841,
-    "wof:lastmodified":1564197976,
+    "wof:lastmodified":1566593896,
     "wof:name":"Yakymivka",
     "wof:parent_id":102088091,
     "wof:placetype":"locality",

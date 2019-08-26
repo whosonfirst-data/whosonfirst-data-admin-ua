@@ -11,12 +11,16 @@
     "geom:longitude":39.540599,
     "gn:population":2493,
     "iso:country":"UA",
+    "lbl:bbox":"39.520599,48.319067,39.560599,48.359067",
     "lbl:latitude":48.339067,
     "lbl:longitude":39.540599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.339067,
     "mps:longitude":39.540599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Simeykyne"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u0435\u0439\u043a\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Semeykinskiy"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":694579,
         "gp:id":933262,
-        "qs:id":421837,
+        "qs_pg:id":421837,
         "wd:id":"Q4415117"
     },
     "wof:country":"UA",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101868983,
-    "wof:lastmodified":1563302632,
+    "wof:lastmodified":1566593351,
     "wof:name":"\u0421\u0456\u043c\u0435\u0439\u043a\u0438\u043d\u0435",
     "wof:parent_id":1108815747,
     "wof:placetype":"locality",

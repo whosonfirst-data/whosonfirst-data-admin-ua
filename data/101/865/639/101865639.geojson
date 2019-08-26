@@ -10,12 +10,16 @@
     "geom:latitude":46.304445,
     "geom:longitude":34.095309,
     "iso:country":"UA",
+    "lbl:bbox":"34.075309,46.284445,34.115309,46.324445",
     "lbl:latitude":46.304445,
     "lbl:longitude":34.095309,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.304445,
     "mps:longitude":34.095309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "\u015eelen"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u043c\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gromovka"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":217.0,
     "wd:latitude":44.879444,
     "wd:longitude":34.790833,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":708039,
         "gp:id":920682,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4150241"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101865639,
-    "wof:lastmodified":1563303494,
+    "wof:lastmodified":1566593737,
     "wof:name":"\u0413\u0440\u043e\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088045,
     "wof:placetype":"locality",

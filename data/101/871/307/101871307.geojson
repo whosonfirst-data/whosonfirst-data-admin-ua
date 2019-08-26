@@ -10,12 +10,16 @@
     "geom:latitude":51.423908,
     "geom:longitude":29.7921,
     "iso:country":"UA",
+    "lbl:bbox":"29.7721,51.403908,29.8121,51.443908",
     "lbl:latitude":51.423908,
     "lbl:longitude":29.7921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.423908,
     "mps:longitude":29.7921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Rud\u2019ki"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101871307,
-    "wof:lastmodified":1544751043,
+    "wof:lastmodified":1566593625,
     "wof:name":"\u0420\u0443\u0434\u044c\u043a\u0438",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

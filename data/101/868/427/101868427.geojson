@@ -10,12 +10,16 @@
     "geom:latitude":48.354079,
     "geom:longitude":37.210735,
     "iso:country":"UA",
+    "lbl:bbox":"37.190735,48.334079,37.230735,48.374079",
     "lbl:latitude":48.354079,
     "lbl:longitude":37.210735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.354079,
     "mps:longitude":37.210735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rodyns'ke"
     ],
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         85688779,
@@ -119,7 +123,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":932337,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2416543"
     },
     "wof:country":"UA",
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":101868427,
-    "wof:lastmodified":1563302670,
+    "wof:lastmodified":1566593367,
     "wof:name":"\u0420\u043e\u0434\u0438\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815877,
     "wof:placetype":"locality",

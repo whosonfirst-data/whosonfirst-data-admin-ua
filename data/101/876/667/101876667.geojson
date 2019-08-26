@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.075784,
     "lbl:longitude":25.402421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.075784,
     "mps:longitude":25.402421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pidzamochok"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0434\u0437\u0430\u043c\u043e\u0447\u043e\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Pidzamochok"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u624e\u83ab\u55ac\u514b"
@@ -53,7 +53,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":162,
     "wof:belongsto":[
         102191581,
@@ -65,7 +65,7 @@
     "wof:concordances":{
         "gn:id":696801,
         "gp:id":917675,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4367567"
     },
     "wof:country":"UA",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101876667,
-    "wof:lastmodified":1563303171,
+    "wof:lastmodified":1566593590,
     "wof:name":"\u041f\u0456\u0434\u0437\u0430\u043c\u043e\u0447\u043e\u043a",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

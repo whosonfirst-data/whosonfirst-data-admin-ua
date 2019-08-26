@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.250961,
     "lbl:longitude":22.453471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.250961,
     "mps:longitude":22.453471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kosson"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kosiny"
     ],
     "name:yid_x_preferred":[
@@ -75,7 +78,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":704778,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q593616",
         "wk:page":"Koson (village)"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101844065,
-    "wof:lastmodified":1563302280,
+    "wof:lastmodified":1566593206,
     "wof:name":"\u041a\u043e\u0441\u043e\u043d\u044c",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

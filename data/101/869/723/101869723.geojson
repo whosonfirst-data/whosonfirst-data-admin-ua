@@ -10,12 +10,16 @@
     "geom:latitude":50.365298,
     "geom:longitude":30.354869,
     "iso:country":"UA",
+    "lbl:bbox":"30.334869,50.345298,30.374869,50.385298",
     "lbl:latitude":50.365298,
     "lbl:longitude":30.354869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.365298,
     "mps:longitude":30.354869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0443\u043a\u0456\u045e\u0448\u0447\u044b\u043d\u0430"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "Kryukivshchyna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kryukovshchina"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":314,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":8519818,
         "gp:id":924938,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4243199"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101869723,
-    "wof:lastmodified":1563302791,
+    "wof:lastmodified":1566593421,
     "wof:name":"\u041a\u0440\u044e\u043a\u0456\u0432\u0449\u0438\u043d\u0430",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

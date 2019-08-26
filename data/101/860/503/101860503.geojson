@@ -10,12 +10,16 @@
     "geom:latitude":48.206413,
     "geom:longitude":26.159878,
     "iso:country":"UA",
+    "lbl:bbox":"26.139878,48.186413,26.179878,48.226413",
     "lbl:latitude":48.206413,
     "lbl:longitude":26.159878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.206413,
     "mps:longitude":26.159878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Horbova"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918247,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4143638"
     },
     "wof:country":"UA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101860503,
-    "wof:lastmodified":1561776947,
+    "wof:lastmodified":1566593451,
     "wof:name":"\u0413\u043e\u0440\u0431\u043e\u0432\u0430",
     "wof:parent_id":102088041,
     "wof:placetype":"locality",

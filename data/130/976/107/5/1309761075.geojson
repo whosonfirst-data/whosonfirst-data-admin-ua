@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Uzhgorod",
     "iso:country":"UA",
+    "lbl:bbox":"24.43385,48.05593,24.47385,48.09593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u0631\u0644\u0627"
     ],
@@ -163,9 +167,6 @@
     "name:ukr_x_variant":[
         "\u0413\u043e\u0432\u0435\u0440\u043b\u0430"
     ],
-    "name:und_x_variant":[
-        "Goverla"
-    ],
     "name:vie_x_preferred":[
         "Hoverla"
     ],
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1309761075,
-    "wof:lastmodified":1564197885,
+    "wof:lastmodified":1566593835,
     "wof:name":"Hoverla",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.927134,
     "lbl:longitude":38.959612,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Luhanska",
     "meso:admin_1":"\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Novoaidars'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":38.985001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Novoaidars'kyi"
     ],
@@ -41,9 +44,6 @@
         "Novoaidars'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u0430\u0439\u0434\u0430\u0440\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u041d\u043e\u0432\u043e\u0430\u0439\u0434\u0430\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1536",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Novoaidar",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088867,
-    "wof:lastmodified":1554317315,
+    "wof:lastmodified":1566591371,
     "wof:name":"Novoaidarskyi",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

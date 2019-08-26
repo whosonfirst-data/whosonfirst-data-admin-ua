@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":48.514332,
     "lbl:longitude":32.260826,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.514332,
     "mps:longitude":32.260826,
     "mz:hierarchy_label":1,
@@ -382,7 +384,7 @@
         "\u0417\u0456\u043d\u043e\u0432'\u0454\u0432\u0441\u044c\u043a",
         "\u041a\u0456\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinowjewsk"
     ],
     "name:urd_x_preferred":[
@@ -526,7 +528,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":124.0,
     "wd:latitude":48.510278,
@@ -543,10 +545,12 @@
     "wof:concordances":{
         "gn:id":705812,
         "gp:id":922771,
-        "qs:id":128657,
-        "qs_pg:id":1098901,
+        "qs_pg:id":128657,
         "wd:id":"Q158292",
         "wk:page":"Kirovohrad"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1098901
     },
     "wof:country":"UA",
     "wof:geomhash":"d95da066b90fead96ef9bd1649f8b00b",
@@ -560,7 +564,7 @@
         }
     ],
     "wof:id":101752847,
-    "wof:lastmodified":1563302225,
+    "wof:lastmodified":1566593188,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434",
     "wof:parent_id":1108815977,
     "wof:placetype":"locality",

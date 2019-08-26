@@ -11,12 +11,16 @@
     "geom:longitude":34.025392,
     "gn:population":3097,
     "iso:country":"UA",
+    "lbl:bbox":"34.005392,47.680544,34.045392,47.720544",
     "lbl:latitude":47.700544,
     "lbl:longitude":34.025392,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.700544,
     "mps:longitude":34.025392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sholokhove"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043b\u043e\u0445\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sholokhovo"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":693953,
         "gp:id":929685,
-        "qs:id":1028430,
+        "qs_pg:id":1028430,
         "wd:id":"Q4526033"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101865217,
-    "wof:lastmodified":1563303453,
+    "wof:lastmodified":1566593720,
     "wof:name":"\u0428\u043e\u043b\u043e\u0445\u043e\u0432\u0435",
     "wof:parent_id":102088327,
     "wof:placetype":"locality",

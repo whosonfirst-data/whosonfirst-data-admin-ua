@@ -11,12 +11,16 @@
     "geom:longitude":33.507251,
     "gn:population":48570,
     "iso:country":"UA",
+    "lbl:bbox":"33.487251,50.715572,33.527251,50.755572",
     "lbl:latitude":50.735572,
     "lbl:longitude":33.507251,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.735572,
     "mps:longitude":33.507251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0645\u0646\u064a"
     ],
@@ -140,7 +144,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rommy"
     ],
     "name:vie_x_preferred":[
@@ -169,7 +173,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":171.0,
     "wd:latitude":50.742813,
@@ -185,7 +189,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":695464,
-        "qs:id":275460,
         "qs_pg:id":275460,
         "wd:id":"Q161994",
         "wk:page":"Romny"
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101871381,
-    "wof:lastmodified":1563303334,
+    "wof:lastmodified":1566593666,
     "wof:name":"\u0420\u043e\u043c\u043d\u0438",
     "wof:parent_id":1175613709,
     "wof:placetype":"locality",

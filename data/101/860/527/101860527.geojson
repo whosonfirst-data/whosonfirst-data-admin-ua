@@ -11,12 +11,16 @@
     "geom:longitude":25.084787,
     "gn:population":7992,
     "iso:country":"UA",
+    "lbl:bbox":"25.064787,48.295185,25.104787,48.335185",
     "lbl:latitude":48.315185,
     "lbl:longitude":25.084787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.315185,
     "mps:longitude":25.084787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0441\u0456\u045e"
     ],
@@ -101,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kossow"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":635,
     "wof:belongsto":[
@@ -146,7 +150,6 @@
     "wof:concordances":{
         "gn:id":704764,
         "gp:id":923726,
-        "qs:id":128625,
         "qs_pg:id":128625,
         "wd:id":"Q157461",
         "wk:page":"Kosiv"
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101860527,
-    "wof:lastmodified":1563302884,
+    "wof:lastmodified":1566593461,
     "wof:name":"\u041a\u043e\u0441\u0456\u0432",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

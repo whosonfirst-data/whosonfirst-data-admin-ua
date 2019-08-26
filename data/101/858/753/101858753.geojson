@@ -11,12 +11,16 @@
     "geom:longitude":36.438714,
     "gn:population":4100,
     "iso:country":"UA",
+    "lbl:bbox":"36.418714,45.370866,36.458714,45.410866",
     "lbl:latitude":45.390866,
     "lbl:longitude":36.438714,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.390866,
     "mps:longitude":36.438714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Voykove"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0439\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blagodatnyy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688855,
@@ -78,7 +82,9 @@
         "fct:id":"08289830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":688902,
         "gp:id":938490,
-        "qs:id":128178,
+        "qs_pg:id":128178
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":421961
     },
     "wof:country":"UA",
@@ -106,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744562,
+    "wof:lastmodified":1566593479,
     "wof:name":"\u0412\u043e\u0439\u043a\u043e\u0432\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

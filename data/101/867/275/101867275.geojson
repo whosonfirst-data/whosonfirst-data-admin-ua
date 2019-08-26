@@ -10,12 +10,16 @@
     "geom:latitude":48.031007,
     "geom:longitude":38.460003,
     "iso:country":"UA",
+    "lbl:bbox":"38.440003,48.011007,38.480003,48.051007",
     "lbl:latitude":48.031007,
     "lbl:longitude":38.460003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.031007,
     "mps:longitude":38.460003,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Molodezke"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         85688779,
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939610,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q7224434"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101867275,
-    "wof:lastmodified":1563302989,
+    "wof:lastmodified":1566593507,
     "wof:name":"\u041c\u043e\u043b\u043e\u0434\u0435\u0446\u044c\u043a\u0435",
     "wof:parent_id":1108815735,
     "wof:placetype":"locality",

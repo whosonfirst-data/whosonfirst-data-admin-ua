@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.63153,
     "lbl:longitude":35.201654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dnipropetrovska",
     "meso:admin_1":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Dnipropetrovs'kyi",
@@ -28,6 +30,7 @@
     "meso:type_local":"\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u0440\u0430\u0439\u043e\u043d\u0438 \u0442\u0430 \u0440\u0430\u0434\u0438 \u043e\u0431\u043b\u0430\u0441\u043d\u043e\u0433",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0648\u0645\u0648\u0633\u06a9\u0648\u0641\u0633\u06a9"
     ],
@@ -125,7 +128,7 @@
         "\u65b0\u83ab\u65af\u79d1\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108815907,
-    "wof:lastmodified":1563301687,
+    "wof:lastmodified":1566592853,
     "wof:name":"Novomoskovska",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

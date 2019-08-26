@@ -10,12 +10,16 @@
     "geom:latitude":46.366692,
     "geom:longitude":34.437335,
     "iso:country":"UA",
+    "lbl:bbox":"34.417335,46.346692,34.457335,46.386692",
     "lbl:latitude":46.366692,
     "lbl:longitude":34.437335,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.366692,
     "mps:longitude":34.437335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Odradiwka"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0440\u0430\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otradovka"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":698164,
         "gp:id":929931,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4340011"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101865647,
-    "wof:lastmodified":1563303486,
+    "wof:lastmodified":1566593734,
     "wof:name":"\u041e\u0434\u0440\u0430\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088045,
     "wof:placetype":"locality",

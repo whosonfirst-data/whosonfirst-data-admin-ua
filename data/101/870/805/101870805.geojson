@@ -11,12 +11,16 @@
     "geom:longitude":32.694724,
     "gn:population":3898,
     "iso:country":"UA",
+    "lbl:bbox":"32.674724,49.765273,32.714724,49.805273",
     "lbl:latitude":49.785273,
     "lbl:longitude":32.694724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.785273,
     "mps:longitude":32.694724,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Orzhytsya"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0436\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orzhitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":698346,
         "gp:id":929764,
-        "qs:id":128392
+        "qs_pg:id":128392
     },
     "wof:country":"UA",
     "wof:geomhash":"3e3b356e15714b5bde95114b0dfb0025",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101870805,
-    "wof:lastmodified":1544750822,
+    "wof:lastmodified":1566593552,
     "wof:name":"\u041e\u0440\u0436\u0438\u0446\u044f",
     "wof:parent_id":102088739,
     "wof:placetype":"locality",

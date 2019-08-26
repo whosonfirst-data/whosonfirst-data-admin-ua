@@ -10,12 +10,16 @@
     "geom:latitude":49.466628,
     "geom:longitude":32.815176,
     "iso:country":"UA",
+    "lbl:bbox":"32.795176,49.446628,32.835176,49.486628",
     "lbl:latitude":49.466628,
     "lbl:longitude":32.815176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.466628,
     "mps:longitude":32.815176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Swjatyliwka"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u0421\u0432\u044f\u0442\u0438\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Svyatilovka"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u7dad\u4e9e\u5b63\u5229\u592b\u5361"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":692019,
         "gp:id":935644,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4411335"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101868661,
-    "wof:lastmodified":1563302629,
+    "wof:lastmodified":1566593349,
     "wof:name":"\u0421\u0432\u044f\u0442\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088667,
     "wof:placetype":"locality",

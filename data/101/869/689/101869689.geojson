@@ -10,12 +10,16 @@
     "geom:latitude":48.76958,
     "geom:longitude":37.570051,
     "iso:country":"UA",
+    "lbl:bbox":"37.550051,48.74958,37.590051,48.78958",
     "lbl:latitude":48.76958,
     "lbl:longitude":37.570051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.76958,
     "mps:longitude":37.570051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Yasnogirka"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u042f\u0441\u043d\u043e\u0433\u0456\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yasnaya Gorka"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101869689,
-    "wof:lastmodified":1563302762,
+    "wof:lastmodified":1566593409,
     "wof:name":"\u042f\u0441\u043d\u043e\u0433\u0456\u0440\u043a\u0430",
     "wof:parent_id":1108730729,
     "wof:placetype":"locality",

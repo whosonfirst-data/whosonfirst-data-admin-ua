@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":51.226794,
     "lbl:longitude":33.186645,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.226794,
     "mps:longitude":33.186645,
     "mz:hierarchy_label":1,
@@ -153,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u043e\u0442\u043e\u043f"
     ],
-    "name:unk_x_variant":[
-        "Konotop"
-    ],
     "name:vie_x_preferred":[
         "Konotop"
     ],
@@ -273,7 +272,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1404,
     "wof:belongsto":[
@@ -286,7 +285,6 @@
     "wof:concordances":{
         "gn:id":705135,
         "gp:id":923391,
-        "qs:id":1167793,
         "qs_pg:id":1167793,
         "wd:id":"Q162083",
         "wk:page":"Konotop"
@@ -303,7 +301,7 @@
         }
     ],
     "wof:id":101752971,
-    "wof:lastmodified":1563302200,
+    "wof:lastmodified":1566593184,
     "wof:name":"\u041a\u043e\u043d\u043e\u0442\u043e\u043f",
     "wof:parent_id":1108815805,
     "wof:placetype":"locality",

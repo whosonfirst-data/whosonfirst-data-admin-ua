@@ -9,15 +9,18 @@
     "geom:bbox":"29.19816,49.93235,29.19816,49.93235",
     "geom:latitude":49.93235,
     "geom:longitude":29.19816,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":961,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":961,
     "iso:country":"UA",
+    "lbl:bbox":"29.17816,49.91235,29.21816,49.95235",
     "lbl:latitude":49.93235,
     "lbl:longitude":29.19816,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0411\u0440\u043e\u0432\u043a\u0438 \u041f\u0435\u0440\u0432\u044b\u0435"
@@ -28,7 +31,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0440\u043e\u0432\u043a\u0438 \u041f\u0435\u0440\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brovki"
     ],
     "qs_pg:aaroncc":"UA",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":83192,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125839965,
-    "wof:lastmodified":1509395230,
+    "wof:lastmodified":1566593978,
     "wof:name":"Brovki Pervyye",
     "wof:parent_id":102088599,
     "wof:placetype":"locality",

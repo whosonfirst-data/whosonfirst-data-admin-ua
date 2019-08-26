@@ -10,12 +10,16 @@
     "geom:latitude":49.123857,
     "geom:longitude":38.148447,
     "iso:country":"UA",
+    "lbl:bbox":"38.128447,49.103857,38.168447,49.143857",
     "lbl:latitude":49.123857,
     "lbl:longitude":38.148447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.123857,
     "mps:longitude":38.148447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tscherwonopopiwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u043e\u043f\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnaya Popovka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":710547,
         "gp:id":918405,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4512354"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101869073,
-    "wof:lastmodified":1563302812,
+    "wof:lastmodified":1566593429,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u043e\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088857,
     "wof:placetype":"locality",

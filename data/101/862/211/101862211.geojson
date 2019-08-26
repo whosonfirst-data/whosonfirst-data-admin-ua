@@ -10,13 +10,17 @@
     "geom:latitude":49.339783,
     "geom:longitude":26.88529,
     "iso:country":"UA",
+    "lbl:bbox":"26.86529,49.319783,26.90529,49.359783",
     "lbl:latitude":49.339783,
     "lbl:longitude":26.88529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.339783,
     "mps:longitude":26.88529,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Rososha"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":695410,
         "gp:id":12518413,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"0eebc2d1a99992835367412385208e62",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862211,
-    "wof:lastmodified":1544746368,
+    "wof:lastmodified":1566593673,
     "wof:name":"\u0420\u043e\u0437\u0441\u043e\u0448\u0430",
     "wof:parent_id":1108815719,
     "wof:placetype":"locality",

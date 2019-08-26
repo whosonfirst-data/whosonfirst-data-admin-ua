@@ -11,12 +11,16 @@
     "geom:longitude":24.330904,
     "gn:population":3564,
     "iso:country":"UA",
+    "lbl:bbox":"24.310904,48.935444,24.350904,48.975444",
     "lbl:latitude":48.955444,
     "lbl:longitude":24.330904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.955444,
     "mps:longitude":24.330904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Novytsya"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novitsa"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":699746,
         "gp:id":921592,
-        "qs:id":275488,
+        "qs_pg:id":275488,
         "wd:id":"Q783441"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101860069,
-    "wof:lastmodified":1563302917,
+    "wof:lastmodified":1566593473,
     "wof:name":"\u041d\u043e\u0432\u0438\u0446\u044f",
     "wof:parent_id":102088203,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":47.138691,
     "lbl:longitude":37.558427,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.138691,
     "mps:longitude":37.558427,
     "mz:hierarchy_label":1,
@@ -330,9 +332,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0443\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Mariupol"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0648\u067e\u0644"
     ],
@@ -469,7 +468,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.130556,
     "wd:longitude":37.563889,
@@ -485,7 +484,7 @@
     "wof:concordances":{
         "gn:id":701822,
         "gp:id":926525,
-        "qs:id":1038393,
+        "qs_pg:id":1038393,
         "wd:id":"Q37133",
         "wk:page":"Mariupol"
     },
@@ -510,7 +509,7 @@
         }
     ],
     "wof:id":101752849,
-    "wof:lastmodified":1563302223,
+    "wof:lastmodified":1566593188,
     "wof:name":"\u041c\u0430\u0440\u0456\u0443\u043f\u043e\u043b\u044c",
     "wof:parent_id":1108730821,
     "wof:placetype":"locality",

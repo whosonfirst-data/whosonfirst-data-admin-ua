@@ -10,12 +10,16 @@
     "geom:latitude":50.398291,
     "geom:longitude":35.394775,
     "iso:country":"UA",
+    "lbl:bbox":"35.374775,50.378291,35.414775,50.418291",
     "lbl:latitude":50.398291,
     "lbl:longitude":35.394775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.398291,
     "mps:longitude":35.394775,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yamnoye"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u042f\u043c\u043d\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Yamnoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -51,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870313,
-    "wof:lastmodified":1544750632,
+    "wof:lastmodified":1566593555,
     "wof:name":"\u042f\u043c\u043d\u0435",
     "wof:parent_id":102088939,
     "wof:placetype":"locality",

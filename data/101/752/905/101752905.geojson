@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":50.078484,
     "lbl:longitude":29.9124,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.078484,
     "mps:longitude":29.9124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u062a\u064a\u0641"
     ],
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0441\u0442\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fastow"
     ],
     "name:vie_x_preferred":[
@@ -159,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":380,
     "wof:belongsto":[
@@ -172,7 +175,6 @@
     "wof:concordances":{
         "gn:id":709248,
         "gp:id":919580,
-        "qs:id":275555,
         "qs_pg:id":275555,
         "wd:id":"Q161984",
         "wk:page":"Fastiv"
@@ -189,7 +191,7 @@
         }
     ],
     "wof:id":101752905,
-    "wof:lastmodified":1563302213,
+    "wof:lastmodified":1566593186,
     "wof:name":"\u0424\u0430\u0441\u0442\u0456\u0432",
     "wof:parent_id":1108815979,
     "wof:placetype":"locality",

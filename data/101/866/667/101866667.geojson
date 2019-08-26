@@ -10,19 +10,23 @@
     "geom:latitude":48.192328,
     "geom:longitude":30.582363,
     "iso:country":"UA",
+    "lbl:bbox":"30.562363,48.172328,30.602363,48.212328",
     "lbl:latitude":48.192328,
     "lbl:longitude":30.582363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.192328,
     "mps:longitude":30.582363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kapitanka"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapitanovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":706884,
         "gp:id":925913,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"9f56c408f141efb4e1f4321f0984b553",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101866667,
-    "wof:lastmodified":1544748735,
+    "wof:lastmodified":1566593262,
     "wof:name":"\u041a\u0430\u043f\u0456\u0442\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088275,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":32.751755,
     "gn:population":5653,
     "iso:country":"UA",
+    "lbl:bbox":"32.731755,46.818938,32.771755,46.858938",
     "lbl:latitude":46.838938,
     "lbl:longitude":32.751755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.838938,
     "mps:longitude":32.751755,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oleksandrivka"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roksandrovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":713676,
         "gp:id":915605,
-        "qs:id":421461,
+        "qs_pg:id":421461,
         "wd:id":"Q1218961"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101866051,
-    "wof:lastmodified":1563302474,
+    "wof:lastmodified":1566593283,
     "wof:name":"\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088073,
     "wof:placetype":"locality",

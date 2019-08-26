@@ -10,8 +10,10 @@
     "geom:latitude":50.428622,
     "geom:longitude":30.436393,
     "iso:country":"UA",
+    "lbl:bbox":"30.4313934985,50.4236221754,30.4413934985,50.4336221754",
     "lbl:latitude":50.428622,
     "lbl:longitude":30.436393,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043a\u0430\u0440\u0430\u0432\u0430\u0454\u0432\u0456 \u0434\u0430\u0447\u0456"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108945207,
-    "wof:lastmodified":1500072247,
+    "wof:lastmodified":1566592888,
     "wof:name":"Novokaravayevi dachi",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

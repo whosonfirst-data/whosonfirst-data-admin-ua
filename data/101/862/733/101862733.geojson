@@ -10,12 +10,16 @@
     "geom:latitude":50.336013,
     "geom:longitude":24.974144,
     "iso:country":"UA",
+    "lbl:bbox":"24.954144,50.316013,24.994144,50.356013",
     "lbl:latitude":50.336013,
     "lbl:longitude":24.974144,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.336013,
     "mps:longitude":24.974144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mykolajiw"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mykolayiv"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":46.966667,
     "wd:longitude":32.0,
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":700184,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q967586"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101862733,
-    "wof:lastmodified":1563303390,
+    "wof:lastmodified":1566593692,
     "wof:name":"\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
     "wof:parent_id":102088501,
     "wof:placetype":"locality",

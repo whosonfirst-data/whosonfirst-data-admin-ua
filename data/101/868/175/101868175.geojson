@@ -10,12 +10,16 @@
     "geom:latitude":48.751249,
     "geom:longitude":32.496076,
     "iso:country":"UA",
+    "lbl:bbox":"32.476076,48.731249,32.516076,48.771249",
     "lbl:latitude":48.751249,
     "lbl:longitude":32.496076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.751249,
     "mps:longitude":32.496076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Bogdan"
     ],
@@ -634,7 +638,7 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u0491\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogdanovka"
     ],
     "name:vec_x_preferred":[
@@ -698,7 +702,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":679,
     "wof:belongsto":[
         102191581,
@@ -710,7 +714,7 @@
     "wof:concordances":{
         "gn:id":711930,
         "gp:id":917120,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1065625"
     },
     "wof:country":"UA",
@@ -725,7 +729,7 @@
         }
     ],
     "wof:id":101868175,
-    "wof:lastmodified":1563302640,
+    "wof:lastmodified":1566593355,
     "wof:name":"\u0411\u043e\u0433\u0434\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088479,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"28.98724,48.80144,29.02724,48.84144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633805
@@ -34,7 +38,7 @@
         "gn:id":693119
     },
     "wof:country":"UA",
-    "wof:geomhash":"863c0217a3d894d7b4951fbd42387918",
+    "wof:geomhash":"29a3931de0b96f042864eb2e58e4b7be",
     "wof:hierarchy":[
         {
             "country_id":85633805,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209671335,
-    "wof:lastmodified":1536279911,
+    "wof:lastmodified":1566592497,
     "wof:name":"Sorokoduby",
     "wof:parent_id":85633805,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.007240000000003,
+    29.00724,
     48.82144,
-    29.007240000000003,
+    29.00724,
     48.82144
 ],
   "geometry": {"coordinates":[29.00724,48.82144],"type":"Point"}

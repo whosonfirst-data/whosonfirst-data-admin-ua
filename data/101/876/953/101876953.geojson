@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.394557,
     "lbl:longitude":37.899101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.394557,
     "mps:longitude":37.899101,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Popencu"
     ],
@@ -83,7 +86,7 @@
         "\u041a\u0456\u0440\u043e\u0432\u0435",
         "\u041f\u043e\u043f\u0435\u043d\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Kirova"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -103,7 +106,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         85688779,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101876953,
-    "wof:lastmodified":1563303147,
+    "wof:lastmodified":1566593578,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u0435",
     "wof:parent_id":1108815895,
     "wof:placetype":"locality",

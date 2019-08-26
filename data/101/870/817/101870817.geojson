@@ -11,12 +11,16 @@
     "geom:longitude":29.223596,
     "gn:population":15252,
     "iso:country":"UA",
+    "lbl:bbox":"29.203596,50.48334,29.243596,50.52334",
     "lbl:latitude":50.50334,
     "lbl:longitude":29.223596,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.50334,
     "mps:longitude":29.223596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u0434\u0430\u043c\u044b\u0448\u043b\u044c"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u043c\u0438\u0448\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radomishl"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +118,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":440,
     "wof:belongsto":[
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":695912,
         "gp:id":932039,
-        "qs:id":128332,
+        "qs_pg:id":128332,
         "wd:id":"Q149163",
         "wk:page":"Radomyshl"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":101870817,
-    "wof:lastmodified":1563303084,
+    "wof:lastmodified":1566593548,
     "wof:name":"\u0420\u0430\u0434\u043e\u043c\u0438\u0448\u043b\u044c",
     "wof:parent_id":102088751,
     "wof:placetype":"locality",

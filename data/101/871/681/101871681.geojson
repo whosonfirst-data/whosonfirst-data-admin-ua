@@ -10,12 +10,16 @@
     "geom:latitude":49.877271,
     "geom:longitude":36.914416,
     "iso:country":"UA",
+    "lbl:bbox":"36.894416,49.857271,36.934416,49.897271",
     "lbl:latitude":49.877271,
     "lbl:longitude":36.914416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.877271,
     "mps:longitude":36.914416,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pechenegi"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041f\u0435\u0447\u0435\u043d\u0456\u0433\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Pechenegi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":697803,
         "gp:id":930286,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"d94706a817c1f33e610fd0bb4e092c70",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101871681,
-    "wof:lastmodified":1544751209,
+    "wof:lastmodified":1566593631,
     "wof:name":"\u041f\u0435\u0447\u0435\u043d\u0456\u0433\u0438",
     "wof:parent_id":102088929,
     "wof:placetype":"locality",

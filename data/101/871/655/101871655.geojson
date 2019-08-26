@@ -11,12 +11,16 @@
     "geom:longitude":35.750273,
     "gn:population":1709,
     "iso:country":"UA",
+    "lbl:bbox":"35.730273,49.957161,35.770273,49.997161",
     "lbl:latitude":49.977161,
     "lbl:longitude":35.750273,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.977161,
     "mps:longitude":35.750273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Staryy Merchyk"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u041c\u0435\u0440\u0447\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staryy Merchik"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":692709,
         "gp:id":926358,
-        "qs:id":1028409,
+        "qs_pg:id":1028409,
         "wd:id":"Q4441101"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101871655,
-    "wof:lastmodified":1563303308,
+    "wof:lastmodified":1566593657,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041c\u0435\u0440\u0447\u0438\u043a",
     "wof:parent_id":102088871,
     "wof:placetype":"locality",

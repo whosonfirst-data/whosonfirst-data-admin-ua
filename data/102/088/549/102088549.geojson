@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.317193,
     "lbl:longitude":24.073593,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Lvivska",
     "meso:admin_1":"\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Sokal's'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":24.113664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043a\u0430\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -79,9 +82,6 @@
         "\u0421\u043e\u043a\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
         "\u0421\u043e\u043a\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u043a\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Sokal"
     ],
@@ -104,9 +104,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1574",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Sokal'",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":102088549,
-    "wof:lastmodified":1561776728,
+    "wof:lastmodified":1566591456,
     "wof:name":"Sokalskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

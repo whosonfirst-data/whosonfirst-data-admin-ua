@@ -9,15 +9,18 @@
     "geom:bbox":"28.67018,50.45652,28.67018,50.45652",
     "geom:latitude":50.45652,
     "geom:longitude":28.67018,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10082,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":10082,
     "iso:country":"UA",
+    "lbl:bbox":"28.65018,50.43652,28.69018,50.47652",
     "lbl:latitude":50.45652,
     "lbl:longitude":28.67018,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u043d\u044f\u0445\u0456\u045e"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044f\u0445\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernyakhov"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":275576,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125857827,
-    "wof:lastmodified":1563303953,
+    "wof:lastmodified":1566593953,
     "wof:name":"Chernyakhiv",
     "wof:parent_id":102088709,
     "wof:placetype":"locality",

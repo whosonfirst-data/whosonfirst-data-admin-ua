@@ -10,12 +10,16 @@
     "geom:latitude":49.444775,
     "geom:longitude":32.508561,
     "iso:country":"UA",
+    "lbl:bbox":"32.488561,49.424775,32.528561,49.464775",
     "lbl:latitude":49.444775,
     "lbl:longitude":32.508561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.444775,
     "mps:longitude":32.508561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Verwaltungsgliederung der Oblast Omsk"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041c\u043e\u0441\u043a\u0430\u043b\u0435\u043d\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Moskalenki"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Cherkas'ka",
@@ -62,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":651,
     "wof:belongsto":[
         102191581,
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":700726,
         "gp:id":937144,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4303638"
     },
     "wof:country":"UA",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":101868677,
-    "wof:lastmodified":1563302674,
+    "wof:lastmodified":1566593369,
     "wof:name":"\u041c\u043e\u0441\u043a\u0430\u043b\u0435\u043d\u043a\u0438",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

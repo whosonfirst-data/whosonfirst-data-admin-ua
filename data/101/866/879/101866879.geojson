@@ -10,20 +10,21 @@
     "geom:latitude":49.414382,
     "geom:longitude":30.333244,
     "iso:country":"UA",
+    "lbl:bbox":"30.313244,49.394382,30.353244,49.434382",
     "lbl:latitude":49.414382,
     "lbl:longitude":30.333244,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.414382,
     "mps:longitude":30.333244,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhuravlikha"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0443\u0440\u0430\u0432\u043b\u0438\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Zhuravlikha"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":686997,
         "gp:id":938997,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"1bbd9ae50722df3e41c6cbeb8967bdbd",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101866879,
-    "wof:lastmodified":1544748855,
+    "wof:lastmodified":1566593274,
     "wof:name":"\u0416\u0443\u0440\u0430\u0432\u043b\u0438\u0445\u0430",
     "wof:parent_id":102088499,
     "wof:placetype":"locality",

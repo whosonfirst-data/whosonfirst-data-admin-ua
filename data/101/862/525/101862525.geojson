@@ -11,12 +11,16 @@
     "geom:longitude":27.630786,
     "gn:population":10669,
     "iso:country":"UA",
+    "lbl:bbox":"27.610786,49.364029,27.650786,49.404029",
     "lbl:latitude":49.384029,
     "lbl:longitude":27.630786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.384029,
     "mps:longitude":27.630786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041b\u044d\u0442\u044b\u0447\u044b\u045e"
     ],
@@ -77,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0447\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Letichev"
     ],
     "name:zho_x_preferred":[
@@ -102,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1394,
     "wof:belongsto":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":703142,
         "gp:id":925213,
-        "qs:id":128554,
+        "qs_pg:id":128554,
         "wd:id":"Q2431181",
         "wk:page":"Letychiv"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101862525,
-    "wof:lastmodified":1563303428,
+    "wof:lastmodified":1566593710,
     "wof:name":"\u041b\u0435\u0442\u0438\u0447\u0456\u0432",
     "wof:parent_id":102088391,
     "wof:placetype":"locality",

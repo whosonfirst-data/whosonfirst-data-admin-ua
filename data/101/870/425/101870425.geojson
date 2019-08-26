@@ -11,12 +11,16 @@
     "geom:longitude":39.55951,
     "gn:population":7087,
     "iso:country":"UA",
+    "lbl:bbox":"39.53951,49.496825,39.57951,49.536825",
     "lbl:latitude":49.516825,
     "lbl:longitude":39.55951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.516825,
     "mps:longitude":39.55951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Markivka"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo-Markovka"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":701792,
         "gp:id":926558,
-        "qs:id":1283256,
+        "qs_pg:id":1283256,
         "wd:id":"Q915662"
     },
     "wof:country":"UA",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101870425,
-    "wof:lastmodified":1563303081,
+    "wof:lastmodified":1566593546,
     "wof:name":"\u041c\u0430\u0440\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815673,
     "wof:placetype":"locality",

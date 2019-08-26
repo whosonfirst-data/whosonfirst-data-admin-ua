@@ -11,12 +11,16 @@
     "geom:longitude":33.900098,
     "gn:population":2127,
     "iso:country":"UA",
+    "lbl:bbox":"33.880098,45.037284,33.920098,45.077284",
     "lbl:latitude":45.057284,
     "lbl:longitude":33.900098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.057284,
     "mps:longitude":33.900098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cym_x_preferred":[
         "Kirklinton"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.9833,
     "wd:longitude":-2.88333,
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":7039160,
         "gp:id":12518424,
-        "qs:id":654913,
+        "qs_pg:id":654913,
         "wk:page":"Kirklinton"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101857091,
-    "wof:lastmodified":1544743718,
+    "wof:lastmodified":1566593386,
     "wof:name":"\u0428\u043a\u0456\u043b\u044c\u043d\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

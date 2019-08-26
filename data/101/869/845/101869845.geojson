@@ -10,12 +10,16 @@
     "geom:latitude":50.055016,
     "geom:longitude":33.124793,
     "iso:country":"UA",
+    "lbl:bbox":"33.104793,50.035016,33.144793,50.075016",
     "lbl:latitude":50.055016,
     "lbl:longitude":33.124793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.055016,
     "mps:longitude":33.124793,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berezotocha"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":712323,
         "gp:id":930572,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"bfed2b66387d068e2db97c86bef292b0",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101869845,
-    "wof:lastmodified":1544750481,
+    "wof:lastmodified":1566593407,
     "wof:name":"\u0411\u0435\u0440\u0435\u0437\u043e\u0442\u043e\u0447\u0430",
     "wof:parent_id":102088799,
     "wof:placetype":"locality",

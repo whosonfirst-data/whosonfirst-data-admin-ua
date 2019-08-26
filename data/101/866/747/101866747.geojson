@@ -10,12 +10,16 @@
     "geom:latitude":48.198037,
     "geom:longitude":33.081877,
     "iso:country":"UA",
+    "lbl:bbox":"33.061877,48.178037,33.101877,48.218037",
     "lbl:latitude":48.198037,
     "lbl:longitude":33.081877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.198037,
     "mps:longitude":33.081877,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Popencu"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0435\u043d\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -101,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":829085,
         "gp:id":915869,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1995728"
     },
     "wof:country":"UA",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":101866747,
-    "wof:lastmodified":1563302435,
+    "wof:lastmodified":1566593266,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u0435",
     "wof:parent_id":85688881,
     "wof:placetype":"locality",

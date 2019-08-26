@@ -9,15 +9,18 @@
     "geom:bbox":"31.20804,46.66499,31.20804,46.66499",
     "geom:latitude":46.66499,
     "geom:longitude":31.20804,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2800,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2800,
     "iso:country":"UA",
+    "lbl:bbox":"31.18804,46.64499,31.22804,46.68499",
     "lbl:latitude":46.66499,
     "lbl:longitude":31.20804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kobleve"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u043b\u0435\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koblewo"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":128650,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125825323,
-    "wof:lastmodified":1563303917,
+    "wof:lastmodified":1566593940,
     "wof:name":"Kobleve",
     "wof:parent_id":102088033,
     "wof:placetype":"locality",

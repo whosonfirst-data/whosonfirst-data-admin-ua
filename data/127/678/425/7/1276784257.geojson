@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"33.09762,48.88453,33.13762,48.92453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u044b\u0440\u043e\u043d\u0456\u045e\u043a\u0430"
     ],
@@ -85,9 +89,6 @@
     "name:ukr_x_variant":[
         "\u041c\u0438\u0440\u043e\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Mironovka"
-    ],
     "name:vie_x_preferred":[
         "Myronivka"
     ],
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1276784257,
-    "wof:lastmodified":1564195803,
+    "wof:lastmodified":1566592252,
     "wof:name":"Myronivka",
     "wof:parent_id":1108815665,
     "wof:placetype":"locality",

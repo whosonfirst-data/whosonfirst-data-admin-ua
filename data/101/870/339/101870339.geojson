@@ -10,12 +10,16 @@
     "geom:latitude":50.850877,
     "geom:longitude":33.346416,
     "iso:country":"UA",
+    "lbl:bbox":"33.326416,50.830877,33.366416,50.870877",
     "lbl:latitude":50.850877,
     "lbl:longitude":33.346416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.850877,
     "mps:longitude":33.346416,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rogintsy"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0420\u043e\u0433\u0438\u043d\u0446\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Rogintsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":695555,
         "gp:id":932444,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"e48acee5ca21d51297f7641c8b3f7166",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870339,
-    "wof:lastmodified":1544750638,
+    "wof:lastmodified":1566593544,
     "wof:name":"\u0420\u043e\u0433\u0438\u043d\u0446\u0456",
     "wof:parent_id":1108815707,
     "wof:placetype":"locality",

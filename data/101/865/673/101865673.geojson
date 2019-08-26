@@ -10,12 +10,16 @@
     "geom:latitude":46.959812,
     "geom:longitude":31.808499,
     "iso:country":"UA",
+    "lbl:bbox":"31.788499,46.939812,31.828499,46.979812",
     "lbl:latitude":46.959812,
     "lbl:longitude":31.808499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.959812,
     "mps:longitude":31.808499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Krywa Balka"
     ],
@@ -37,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430 \u0411\u0430\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kryva Balka"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Mykolaivs'ka",
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":704049,
         "gp:id":937228,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4240621"
     },
     "wof:country":"UA",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":101865673,
-    "wof:lastmodified":1561776987,
+    "wof:lastmodified":1566593720,
     "wof:name":"\u041a\u0440\u0438\u0432\u0430 \u0411\u0430\u043b\u043a\u0430",
     "wof:parent_id":1108815757,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.94611,
     "geom:longitude":32.781627,
     "iso:country":"UA",
+    "lbl:bbox":"32.761627,46.92611,32.801627,46.96611",
     "lbl:latitude":46.94611,
     "lbl:longitude":32.781627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.94611,
     "mps:longitude":32.781627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Baratiwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0440\u0430\u0442\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baratova"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":712819,
         "gp:id":915611,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4077932"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101866055,
-    "wof:lastmodified":1561776916,
+    "wof:lastmodified":1566593262,
     "wof:name":"\u0411\u0430\u0440\u0430\u0442\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088073,
     "wof:placetype":"locality",

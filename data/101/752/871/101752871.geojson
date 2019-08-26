@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.526983,
     "lbl:longitude":35.880789,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":48.526983,
     "mps:longitude":35.880789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0644\u0648\u062c\u0631\u0627\u062f"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u043b\u043e\u0433\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavlogi"
     ],
     "name:urd_x_preferred":[
@@ -215,7 +218,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":729,
     "wof:belongsto":[
@@ -228,7 +231,6 @@
     "wof:concordances":{
         "gn:id":697889,
         "gp:id":930205,
-        "qs:id":1028487,
         "qs_pg:id":1028487,
         "wd:id":"Q237206",
         "wk:page":"Pavlohrad"
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":101752871,
-    "wof:lastmodified":1563302223,
+    "wof:lastmodified":1566593188,
     "wof:name":"\u041f\u0430\u0432\u043b\u043e\u0433\u0440\u0430\u0434",
     "wof:parent_id":1108815905,
     "wof:placetype":"locality",

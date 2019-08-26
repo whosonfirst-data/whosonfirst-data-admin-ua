@@ -10,12 +10,16 @@
     "geom:latitude":45.089938,
     "geom:longitude":34.382662,
     "iso:country":"UA",
+    "lbl:bbox":"34.362662,45.069938,34.402662,45.109938",
     "lbl:latitude":45.089938,
     "lbl:longitude":34.382662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.089938,
     "mps:longitude":34.382662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsvetochnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":691059,
         "gp:id":940447,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"2623c1aa3cfc86bd336b8125b26d4a1e",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857187,
-    "wof:lastmodified":1544743765,
+    "wof:lastmodified":1566593388,
     "wof:name":"\u0426\u0432\u0456\u0442\u043e\u0447\u043d\u0435",
     "wof:parent_id":1108738527,
     "wof:placetype":"locality",

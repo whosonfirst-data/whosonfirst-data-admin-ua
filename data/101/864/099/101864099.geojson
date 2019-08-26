@@ -11,12 +11,16 @@
     "geom:longitude":26.866578,
     "gn:population":33080,
     "iso:country":"UA",
+    "lbl:bbox":"26.846578,50.286483,26.886578,50.326483",
     "lbl:latitude":50.306483,
     "lbl:longitude":26.866578,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.306483,
     "mps:longitude":26.866578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0627\u0641\u0648\u062a\u0627"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0443\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sslawuta"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":390,
     "wof:belongsto":[
@@ -146,7 +150,6 @@
     "wof:concordances":{
         "gn:id":693581,
         "gp:id":934191,
-        "qs:id":1028416,
         "qs_pg:id":1028416,
         "wd:id":"Q856018",
         "wk:page":"Slavuta"
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101864099,
-    "wof:lastmodified":1563303542,
+    "wof:lastmodified":1566593757,
     "wof:name":"\u0421\u043b\u0430\u0432\u0443\u0442\u0430",
     "wof:parent_id":1108815823,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.667654,
     "geom:longitude":30.378673,
     "iso:country":"UA",
+    "lbl:bbox":"30.358673,49.647654,30.398673,49.687654",
     "lbl:latitude":49.667654,
     "lbl:longitude":30.378673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.667654,
     "mps:longitude":30.378673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Trukhanov Ostrov"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0430\u043d\u0456\u0432 \u043e\u0441\u0442\u0440\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Ostrov"
-    ],
     "name:zho_x_preferred":[
         "\u7279\u9b6f\u54c8\u5c3c\u592b\u5cf6"
     ],
@@ -74,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":416,
     "wof:belongsto":[
         102191581,
@@ -85,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":698221,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2992707"
     },
     "wof:country":"UA",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101869289,
-    "wof:lastmodified":1563302760,
+    "wof:lastmodified":1566593408,
     "wof:name":"\u041e\u0441\u0442\u0440\u0456\u0432",
     "wof:parent_id":102088587,
     "wof:placetype":"locality",

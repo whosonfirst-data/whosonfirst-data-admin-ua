@@ -10,12 +10,16 @@
     "geom:latitude":48.402506,
     "geom:longitude":38.019915,
     "iso:country":"UA",
+    "lbl:bbox":"37.999915,48.382506,38.039915,48.422506",
     "lbl:latitude":48.402506,
     "lbl:longitude":38.019915,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.402506,
     "mps:longitude":38.019915,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Zaitseve"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":267,
     "wof:belongsto":[
         85688779,
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939850,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4184477"
     },
     "wof:country":"UA",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101869763,
-    "wof:lastmodified":1563302741,
+    "wof:lastmodified":1566593399,
     "wof:name":"\u0417\u0430\u0439\u0446\u0435\u0432\u0435",
     "wof:parent_id":1175613755,
     "wof:placetype":"locality",

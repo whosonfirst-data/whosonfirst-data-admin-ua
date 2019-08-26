@@ -11,12 +11,16 @@
     "geom:longitude":33.872039,
     "gn:population":3309,
     "iso:country":"UA",
+    "lbl:bbox":"33.852039,46.436274,33.892039,46.476274",
     "lbl:latitude":46.456274,
     "lbl:longitude":33.872039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.456274,
     "mps:longitude":33.872039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0643\u0627\u0646\u064a\u0627-\u0646\u0648\u0641\u0627"
     ],
@@ -98,7 +102,7 @@
     "name:ukr_x_variant":[
         "Askaniya-Nova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chapli"
     ],
     "name:uzb_x_preferred":[
@@ -127,7 +131,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":823,
     "wof:belongsto":[
@@ -140,7 +144,6 @@
     "wof:concordances":{
         "gn:id":713154,
         "gp:id":916043,
-        "qs:id":128862,
         "qs_pg:id":128862,
         "wd:id":"Q2117786",
         "wk:page":"Askania-Nova"
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101865937,
-    "wof:lastmodified":1563303444,
+    "wof:lastmodified":1566593716,
     "wof:name":"\u0410\u0441\u043a\u0430\u043d\u0456\u044f-\u041d\u043e\u0432\u0430",
     "wof:parent_id":102088009,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":50.014397,
     "geom:longitude":25.396883,
     "iso:country":"UA",
+    "lbl:bbox":"25.376883,49.994397,25.416883,50.034397",
     "lbl:latitude":50.014397,
     "lbl:longitude":25.396883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.014397,
     "mps:longitude":25.396883,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ledunov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":703296,
         "gp:id":931031,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"7868ae7e1a0d02b12de5ff2893362fcb",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862683,
-    "wof:lastmodified":1544746609,
+    "wof:lastmodified":1566593702,
     "wof:name":"\u041b\u0456\u0434\u0438\u0445\u0456\u0432",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

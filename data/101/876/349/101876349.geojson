@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1905110.777138,
+    "geom:area_square_m":1905110.777137,
     "geom:bbox":"23.3059888762,48.2476171479,23.3242673748,48.2646357944",
     "geom:latitude":48.255841,
     "geom:longitude":23.315445,
     "iso:country":"UA",
     "lbl:latitude":48.255416,
     "lbl:longitude":23.315619,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.255416,
     "mps:longitude":23.315619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zalom"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":8281905,
         "gp:id":922428,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"3b86c7e4e8b9fda1d033e8c2b233933f",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101876349,
-    "wof:lastmodified":1527714914,
+    "wof:lastmodified":1566593597,
     "wof:name":"\u0417\u0430\u043b\u043e\u043c",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

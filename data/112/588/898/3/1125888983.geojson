@@ -9,15 +9,18 @@
     "geom:bbox":"35.22235,47.27235,35.22235,47.27235",
     "geom:latitude":47.27235,
     "geom:longitude":35.22235,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13216,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":13216,
     "iso:country":"UA",
+    "lbl:bbox":"35.20235,47.25235,35.24235,47.29235",
     "lbl:latitude":47.27235,
     "lbl:longitude":35.22235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0438\u0432\u043a\u0430"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovka"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":1028529,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125888983,
-    "wof:lastmodified":1563303841,
+    "wof:lastmodified":1566593912,
     "wof:name":"Mykhaylivka",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

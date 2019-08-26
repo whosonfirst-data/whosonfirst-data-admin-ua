@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.248804,
     "lbl:longitude":33.872121,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Poltavska",
     "meso:admin_1":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Kozel'shchyns'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":33.87344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kozel'schyns'kyi"
     ],
@@ -41,9 +44,6 @@
         "Kozel'shchyns'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u041a\u043e\u0437\u0435\u043b\u044c\u0449\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"927",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Kozel'shchyna",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088651,
-    "wof:lastmodified":1554317307,
+    "wof:lastmodified":1566591361,
     "wof:name":"Kozelshchynskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

@@ -10,12 +10,16 @@
     "geom:latitude":49.310879,
     "geom:longitude":32.274079,
     "iso:country":"UA",
+    "lbl:bbox":"32.254079,49.290879,32.294079,49.330879",
     "lbl:latitude":49.310879,
     "lbl:longitude":32.274079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.310879,
     "mps:longitude":32.274079,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khudyaki"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0434\u044f\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khudyaky"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101868379,
-    "wof:lastmodified":1544749702,
+    "wof:lastmodified":1566593351,
     "wof:name":"\u0425\u0443\u0434\u044f\u043a\u0438",
     "wof:parent_id":1108815743,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.50233,48.51876,23.50233,48.51876",
     "geom:latitude":48.51876,
     "geom:longitude":23.50233,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":10000,
+    "gn:country":"UA",
+    "gn:fcode":"PPLL",
     "gn:population":10000,
     "iso:country":"UA",
+    "lbl:bbox":"23.48233,48.49876,23.52233,48.53876",
     "lbl:latitude":48.51876,
     "lbl:longitude":23.50233,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041c\u0456\u0436\u0433\u0456\u0440\u2019\u044f"
@@ -125,7 +128,7 @@
         "\u0412\u043e\u043b\u043e\u0432\u0435 \u041f\u043e\u043b\u0435",
         "\u0412\u043e\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mizhhiria"
     ],
     "name:yid_x_preferred":[
@@ -146,7 +149,7 @@
     "qs_pg:qs_id":768692,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1126024693,
-    "wof:lastmodified":1563303792,
+    "wof:lastmodified":1566593894,
     "wof:name":"Mizhhir\u2019ya",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

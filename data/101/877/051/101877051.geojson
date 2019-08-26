@@ -5,23 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":1633242.715891,
+    "geom:area_square_m":1633242.715892,
     "geom:bbox":"29.4377812787,51.244889259,29.4539605397,51.2637065247",
     "geom:latitude":51.253585,
     "geom:longitude":29.445355,
     "iso:country":"UA",
     "lbl:latitude":51.253374,
     "lbl:longitude":29.444701,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.253374,
     "mps:longitude":29.444701,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Hrezlya"
     ],
     "name:ukr_x_variant":[
         "\u0413\u0440\u0435\u0437\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grezlya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101877051,
-    "wof:lastmodified":1501215655,
+    "wof:lastmodified":1566593575,
     "wof:name":"\u0413\u0440\u0435\u0437\u043b\u044f",
     "wof:parent_id":102088915,
     "wof:placetype":"locality",

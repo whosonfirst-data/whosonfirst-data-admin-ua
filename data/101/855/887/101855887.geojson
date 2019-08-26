@@ -10,12 +10,16 @@
     "geom:latitude":44.931214,
     "geom:longitude":33.882675,
     "iso:country":"UA",
+    "lbl:bbox":"33.862675,44.911214,33.902675,44.951214",
     "lbl:latitude":44.931214,
     "lbl:longitude":33.882675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.931214,
     "mps:longitude":33.882675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kolonia Chorzew"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         85688855,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7039966,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wk:page":"Kolonia Chorzew"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101855887,
-    "wof:lastmodified":1564197763,
+    "wof:lastmodified":1566593744,
     "wof:name":"\u041f\u043e\u0436\u0430\u0440\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":35.8573,
     "gn:population":2800,
     "iso:country":"UA",
+    "lbl:bbox":"35.8373,49.341533,35.8773,49.381533",
     "lbl:latitude":49.361533,
     "lbl:longitude":35.8573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.361533,
     "mps:longitude":35.8573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chapayeve"
     ],
@@ -32,7 +36,7 @@
     "name:ukr_x_variant":[
         "\u0427\u0430\u043f\u0430\u0454\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chapayevo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":710940,
         "gp:id":918042,
-        "qs:id":1028626
+        "qs_pg:id":1028626
     },
     "wof:country":"UA",
     "wof:geomhash":"4337b856fec6eceaf4b0abe156743482",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101869673,
-    "wof:lastmodified":1544750405,
+    "wof:lastmodified":1566593409,
     "wof:name":"\u0427\u0430\u043f\u0430\u0454\u0432\u0435",
     "wof:parent_id":102088763,
     "wof:placetype":"locality",

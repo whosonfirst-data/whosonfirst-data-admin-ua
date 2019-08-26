@@ -10,12 +10,16 @@
     "geom:latitude":46.824214,
     "geom:longitude":36.458916,
     "iso:country":"UA",
+    "lbl:bbox":"36.438916,46.804214,36.478916,46.844214",
     "lbl:latitude":46.824214,
     "lbl:longitude":36.458916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.824214,
     "mps:longitude":36.458916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u044a\u043b\u0433\u043e\u043f\u043e\u043b"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Pavlovka"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         102191581,
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":697956,
         "gp:id":930138,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"4bd0471354ac1fbe85eab80e61e40a92",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101866947,
-    "wof:lastmodified":1544748895,
+    "wof:lastmodified":1566593267,
     "wof:name":"\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438",
     "wof:parent_id":102088235,
     "wof:placetype":"locality",

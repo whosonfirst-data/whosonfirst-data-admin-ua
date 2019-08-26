@@ -11,12 +11,16 @@
     "geom:longitude":30.675921,
     "gn:population":31557,
     "iso:country":"UA",
+    "lbl:bbox":"30.655921,50.11606,30.695921,50.15606",
     "lbl:latitude":50.13606,
     "lbl:longitude":30.675921,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.13606,
     "mps:longitude":30.675921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u0648\u062e\u064a\u0641"
     ],
@@ -101,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0443\u0445\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obukhov"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +134,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":475,
     "wof:belongsto":[
@@ -143,7 +147,6 @@
     "wof:concordances":{
         "gn:id":698782,
         "gp:id":929356,
-        "qs:id":1028495,
         "qs_pg:id":1028495,
         "wd:id":"Q1011303",
         "wk:page":"Obukhiv"
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101869503,
-    "wof:lastmodified":1563302752,
+    "wof:lastmodified":1566593405,
     "wof:name":"\u041e\u0431\u0443\u0445\u0456\u0432",
     "wof:parent_id":102088691,
     "wof:placetype":"locality",

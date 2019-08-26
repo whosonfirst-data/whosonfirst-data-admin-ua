@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.907964,
     "lbl:longitude":24.630953,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.907964,
     "mps:longitude":24.630953,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pidlissia"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":924542,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4367800"
     },
     "wof:country":"UA",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101876603,
-    "wof:lastmodified":1563303173,
+    "wof:lastmodified":1566593591,
     "wof:name":"\u041f\u0456\u0434\u043b\u0456\u0441\u0441\u044f",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

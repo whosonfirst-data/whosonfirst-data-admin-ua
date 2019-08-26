@@ -10,12 +10,16 @@
     "geom:latitude":50.671051,
     "geom:longitude":29.552831,
     "iso:country":"UA",
+    "lbl:bbox":"29.532831,50.651051,29.572831,50.691051",
     "lbl:latitude":50.671051,
     "lbl:longitude":29.552831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.671051,
     "mps:longitude":29.552831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sergey Shishkarev"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0438\u0433\u0430\u043b\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Migalki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1330,
     "wof:belongsto":[
         102191581,
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":701278,
         "gp:id":930583,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4524729"
     },
     "wof:country":"UA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101870859,
-    "wof:lastmodified":1563303088,
+    "wof:lastmodified":1566593549,
     "wof:name":"\u041c\u0438\u0433\u0430\u043b\u043a\u0438",
     "wof:parent_id":102088783,
     "wof:placetype":"locality",

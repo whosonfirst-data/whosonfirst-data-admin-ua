@@ -10,12 +10,16 @@
     "geom:latitude":48.568897,
     "geom:longitude":28.824165,
     "iso:country":"UA",
+    "lbl:bbox":"28.804165,48.548897,28.844165,48.588897",
     "lbl:latitude":48.568897,
     "lbl:longitude":28.824165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.568897,
     "mps:longitude":28.824165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "T\u0131manivka"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u043c\u0430\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tymanivka"
-    ],
     "name:zho_x_preferred":[
         "\u5b63\u99ac\u5c3c\u592b\u5361"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":691549,
         "gp:id":935544,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4457323"
     },
     "wof:country":"UA",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":101866645,
-    "wof:lastmodified":1563302416,
+    "wof:lastmodified":1566593257,
     "wof:name":"\u0422\u0438\u043c\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088267,
     "wof:placetype":"locality",

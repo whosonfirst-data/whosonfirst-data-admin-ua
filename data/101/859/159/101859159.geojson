@@ -10,12 +10,16 @@
     "geom:latitude":48.287883,
     "geom:longitude":22.435475,
     "iso:country":"UA",
+    "lbl:bbox":"22.415475,48.267883,22.455475,48.307883",
     "lbl:latitude":48.287883,
     "lbl:longitude":22.435475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.287883,
     "mps:longitude":22.435475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Schom"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Derenkoyen"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":710122,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q637765"
     },
     "wof:country":"UA",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101859159,
-    "wof:lastmodified":1563302289,
+    "wof:lastmodified":1566593209,
     "wof:name":"\u0428\u043e\u043c",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

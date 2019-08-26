@@ -9,15 +9,18 @@
     "geom:bbox":"36.16524,47.65238,36.16524,47.65238",
     "geom:latitude":47.65238,
     "geom:longitude":36.16524,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1206,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1206,
     "iso:country":"UA",
+    "lbl:bbox":"36.14524,47.63238,36.18524,47.67238",
     "lbl:latitude":47.65238,
     "lbl:longitude":36.16524,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u0435"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dvadtsatiletiye Oktyabr\u2019"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":128163,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126024073,
-    "wof:lastmodified":1563303788,
+    "wof:lastmodified":1566593893,
     "wof:name":"Zaliznychne",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",

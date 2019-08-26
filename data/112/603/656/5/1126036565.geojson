@@ -9,15 +9,18 @@
     "geom:bbox":"37.5,47.06667,37.5,47.06667",
     "geom:latitude":47.06667,
     "geom:longitude":37.5,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":481626,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":481626,
     "iso:country":"UA",
+    "lbl:bbox":"37.48,47.04667,37.52,47.08667",
     "lbl:latitude":47.06667,
     "lbl:longitude":37.5,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Marioepol"
@@ -331,9 +334,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0443\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Mariupol"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0648\u067e\u0644"
     ],
@@ -382,7 +382,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":926525,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -424,7 +424,7 @@
         }
     ],
     "wof:id":1126036565,
-    "wof:lastmodified":1563303797,
+    "wof:lastmodified":1566593896,
     "wof:name":"Mariupol'",
     "wof:parent_id":1108730821,
     "wof:placetype":"locality",

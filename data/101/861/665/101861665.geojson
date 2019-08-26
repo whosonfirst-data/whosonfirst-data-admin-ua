@@ -10,12 +10,16 @@
     "geom:latitude":48.893735,
     "geom:longitude":25.833934,
     "iso:country":"UA",
+    "lbl:bbox":"25.813934,48.873735,25.853934,48.913735",
     "lbl:latitude":48.893735,
     "lbl:longitude":25.833934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.893735,
     "mps:longitude":25.833934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ulaschkiwzi"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0430\u0448\u043a\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulashkovtse"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":690752,
         "gp:id":936155,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4470921",
         "wk:page":"Ulashkivtsi"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101861665,
-    "wof:lastmodified":1563302570,
+    "wof:lastmodified":1566593324,
     "wof:name":"\u0423\u043b\u0430\u0448\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.378228,
     "geom:longitude":29.671517,
     "iso:country":"UA",
+    "lbl:bbox":"29.651517,48.358228,29.691517,48.398228",
     "lbl:latitude":48.378228,
     "lbl:longitude":29.671517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.378228,
     "mps:longitude":29.671517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "U\u015bcie Gorlickie"
     ],
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101866597,
-    "wof:lastmodified":1544748696,
+    "wof:lastmodified":1566593271,
     "wof:name":"\u0423\u0441\u0442\u044f",
     "wof:parent_id":102088253,
     "wof:placetype":"locality",

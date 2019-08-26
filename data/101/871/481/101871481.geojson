@@ -10,12 +10,16 @@
     "geom:latitude":51.166743,
     "geom:longitude":32.492249,
     "iso:country":"UA",
+    "lbl:bbox":"32.472249,51.146743,32.512249,51.186743",
     "lbl:latitude":51.166743,
     "lbl:longitude":32.492249,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.166743,
     "mps:longitude":32.492249,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Velikaya Zagorovka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0417\u0430\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veliko-Zagorovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":690205,
         "gp:id":937392,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"2900c720a94d3cfec2a03bf65adae12d",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871481,
-    "wof:lastmodified":1544751120,
+    "wof:lastmodified":1566593652,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u0417\u0430\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088977,
     "wof:placetype":"locality",

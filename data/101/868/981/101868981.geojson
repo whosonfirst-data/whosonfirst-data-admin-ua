@@ -11,12 +11,16 @@
     "geom:longitude":39.798,
     "gn:population":3033,
     "iso:country":"UA",
+    "lbl:bbox":"39.778,48.306775,39.818,48.346775",
     "lbl:latitude":48.326775,
     "lbl:longitude":39.798,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.326775,
     "mps:longitude":39.798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uralo-Kavkaz"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0430\u043b\u043e-\u041a\u0430\u0432\u043a\u0430\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uralo-Kavkazskiy"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":435,
     "wof:belongsto":[
@@ -80,7 +84,6 @@
     "wof:concordances":{
         "gn:id":690673,
         "gp:id":936825,
-        "qs:id":1283364,
         "qs_pg:id":1283364,
         "wd:id":"Q4476673"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101868981,
-    "wof:lastmodified":1563302699,
+    "wof:lastmodified":1566593381,
     "wof:name":"\u0423\u0440\u0430\u043b\u043e-\u041a\u0430\u0432\u043a\u0430\u0437",
     "wof:parent_id":1108815971,
     "wof:placetype":"locality",

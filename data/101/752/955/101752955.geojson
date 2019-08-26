@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":50.521189,
     "lbl:longitude":30.818203,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.521189,
     "mps:longitude":30.818203,
     "mz:hierarchy_label":1,
@@ -177,9 +179,6 @@
     "name:ukr_x_variant":[
         "\u0411\u0440\u043e\u0432\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Browary"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u0648\u0627\u0631\u06cc"
     ],
@@ -300,7 +299,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":743,
     "wof:belongsto":[
@@ -313,10 +312,12 @@
     "wof:concordances":{
         "gn:id":711390,
         "gp:id":917637,
-        "qs:id":275583,
         "qs_pg:id":227993,
         "wd:id":"Q841026",
         "wk:page":"Brovary"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275583
     },
     "wof:country":"UA",
     "wof:geomhash":"3c2b25052b655a52167d25a16e7f65a0",
@@ -330,7 +331,7 @@
         }
     ],
     "wof:id":101752955,
-    "wof:lastmodified":1563302173,
+    "wof:lastmodified":1566593179,
     "wof:name":"\u0411\u0440\u043e\u0432\u0430\u0440\u0438",
     "wof:parent_id":1108815913,
     "wof:placetype":"locality",

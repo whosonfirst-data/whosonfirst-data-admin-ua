@@ -10,12 +10,16 @@
     "geom:latitude":51.195687,
     "geom:longitude":32.607231,
     "iso:country":"UA",
+    "lbl:bbox":"32.587231,51.175687,32.627231,51.215687",
     "lbl:latitude":51.195687,
     "lbl:longitude":32.607231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.195687,
     "mps:longitude":32.607231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0440\u044b\u043b\u044c\u043d\u044b\u043a\u044b"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0440\u0456\u043b\u044c\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strel\u2019niki"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":692437,
         "gp:id":935267,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4443788"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101873219,
-    "wof:lastmodified":1563302256,
+    "wof:lastmodified":1566593195,
     "wof:name":"\u0421\u0442\u0440\u0456\u043b\u044c\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088979,
     "wof:placetype":"locality",

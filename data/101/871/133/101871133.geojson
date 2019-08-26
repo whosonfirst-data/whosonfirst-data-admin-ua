@@ -10,12 +10,16 @@
     "geom:latitude":51.28987,
     "geom:longitude":29.672691,
     "iso:country":"UA",
+    "lbl:bbox":"29.652691,51.26987,29.692691,51.30987",
     "lbl:latitude":51.28987,
     "lbl:longitude":29.672691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.28987,
     "mps:longitude":29.672691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "D\u0105browa"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0456\u0431\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kabany"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191581,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101871133,
-    "wof:lastmodified":1544750966,
+    "wof:lastmodified":1566593628,
     "wof:name":"\u0414\u0456\u0431\u0440\u043e\u0432\u0430",
     "wof:parent_id":102088915,
     "wof:placetype":"locality",

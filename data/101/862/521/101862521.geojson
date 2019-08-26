@@ -10,12 +10,16 @@
     "geom:latitude":49.816373,
     "geom:longitude":24.133666,
     "iso:country":"UA",
+    "lbl:bbox":"24.113666,49.796373,24.153666,49.836373",
     "lbl:latitude":49.816373,
     "lbl:longitude":24.133666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.816373,
     "mps:longitude":24.133666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u064a\u0643\u064a"
     ],
@@ -94,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Winniki"
-    ],
     "name:vie_x_preferred":[
         "Vynnyky"
     ],
@@ -122,7 +123,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191581,
@@ -134,7 +135,7 @@
     "wof:concordances":{
         "gn:id":689564,
         "gp:id":937878,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q997412",
         "wk:page":"Vynnyky"
     },
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":101862521,
-    "wof:lastmodified":1563303378,
+    "wof:lastmodified":1566593687,
     "wof:name":"\u0412\u0438\u043d\u043d\u0438\u043a\u0438",
     "wof:parent_id":1108730647,
     "wof:placetype":"locality",

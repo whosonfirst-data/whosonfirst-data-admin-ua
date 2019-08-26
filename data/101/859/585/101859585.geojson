@@ -10,12 +10,16 @@
     "geom:latitude":48.176612,
     "geom:longitude":23.637178,
     "iso:country":"UA",
+    "lbl:bbox":"23.617178,48.156612,23.657178,48.196612",
     "lbl:latitude":48.176612,
     "lbl:longitude":23.637178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.176612,
     "mps:longitude":23.637178,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Malaya Ugol\u2019ka"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8281734,
         "gp:id":919346,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"12078e3a3970b75d72efd21444f96b99",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859585,
-    "wof:lastmodified":1544744989,
+    "wof:lastmodified":1566593243,
     "wof:name":"\u041c\u0430\u043b\u0430 \u0423\u0433\u043e\u043b\u044c\u043a\u0430",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

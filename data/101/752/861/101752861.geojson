@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":48.440788,
     "lbl:longitude":35.021515,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":48.440788,
     "mps:longitude":35.021515,
     "mz:hierarchy_label":1,
@@ -619,7 +621,7 @@
         "Dnipropetrovs\u2019k",
         "Dnipro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yekaterinoslav"
     ],
     "name:urd_x_preferred":[
@@ -787,7 +789,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":155.0,
     "wd:latitude":48.45,
@@ -804,10 +806,12 @@
     "wof:concordances":{
         "gn:id":709930,
         "gp:id":918981,
-        "qs:id":128778,
-        "qs_pg:id":1081889,
+        "qs_pg:id":128778,
         "wd:id":"Q48256",
         "wk:page":"Dnipropetrovsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1081889
     },
     "wof:country":"UA",
     "wof:geomhash":"1dff602cb3420f70bceee6969b873d53",
@@ -821,7 +825,7 @@
         }
     ],
     "wof:id":101752861,
-    "wof:lastmodified":1563302191,
+    "wof:lastmodified":1566593182,
     "wof:megacity":1,
     "wof:name":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815855,

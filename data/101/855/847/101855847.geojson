@@ -10,12 +10,16 @@
     "geom:latitude":44.899651,
     "geom:longitude":33.679029,
     "iso:country":"UA",
+    "lbl:bbox":"33.659029,44.879651,33.699029,44.919651",
     "lbl:latitude":44.899651,
     "lbl:longitude":33.679029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.899651,
     "mps:longitude":33.679029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tabachnoye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":691971,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"6b10d7a6d015488983694a82a45321ca",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":101855847,
-    "wof:lastmodified":1544743103,
+    "wof:lastmodified":1566593746,
     "wof:name":"\u0422\u0430\u0431\u0430\u0447\u043d\u0435",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

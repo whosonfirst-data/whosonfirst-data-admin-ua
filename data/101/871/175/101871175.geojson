@@ -10,12 +10,16 @@
     "geom:latitude":49.658483,
     "geom:longitude":37.711676,
     "iso:country":"UA",
+    "lbl:bbox":"37.691676,49.638483,37.731676,49.678483",
     "lbl:latitude":49.658483,
     "lbl:longitude":37.711676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.658483,
     "mps:longitude":37.711676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kurilovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u0443\u0440\u0438\u043b\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Kurilovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -51,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
         102191581,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":101871175,
-    "wof:lastmodified":1544750984,
+    "wof:lastmodified":1566593644,
     "wof:name":"\u041a\u0443\u0440\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088921,
     "wof:placetype":"locality",

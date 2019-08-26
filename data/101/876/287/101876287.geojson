@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":46.750596,
     "lbl:longitude":36.371433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.750596,
     "mps:longitude":36.371433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banovka"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":712868,
         "gp:id":931691,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4077465"
     },
     "wof:country":"UA",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101876287,
-    "wof:lastmodified":1561776964,
+    "wof:lastmodified":1566593584,
     "wof:name":"\u0411\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088235,
     "wof:placetype":"locality",

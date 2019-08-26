@@ -11,12 +11,16 @@
     "geom:longitude":32.662741,
     "gn:population":1541,
     "iso:country":"UA",
+    "lbl:bbox":"32.642741,48.16056,32.682741,48.20056",
     "lbl:latitude":48.18056,
     "lbl:longitude":32.662741,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.18056,
     "mps:longitude":32.662741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Molodizhne"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0434\u0456\u0436\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molod\u00ebzhnoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":551,
     "wof:belongsto":[
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":700834,
         "gp:id":919110,
-        "qs:id":128461
+        "qs_pg:id":128461
     },
     "wof:country":"UA",
     "wof:geomhash":"ae9023ba198a0eddce00f2c39bec3ad1",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101867487,
-    "wof:lastmodified":1544749204,
+    "wof:lastmodified":1566593528,
     "wof:name":"\u041c\u043e\u043b\u043e\u0434\u0456\u0436\u043d\u0435",
     "wof:parent_id":85688881,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":26.562624,
     "gn:population":9285,
     "iso:country":"UA",
+    "lbl:bbox":"26.542624,51.54347,26.582624,51.58347",
     "lbl:latitude":51.56347,
     "lbl:longitude":26.562624,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.56347,
     "mps:longitude":26.562624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0648\u0641\u064a\u062a\u0633\u064a\u0627"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_variant":[
         "Dubrovytsya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubrovitsa"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2685,
     "wof:belongsto":[
@@ -146,7 +150,7 @@
     "wof:concordances":{
         "gn:id":709493,
         "gp:id":919370,
-        "qs:id":421534,
+        "qs_pg:id":421534,
         "wd:id":"Q205765",
         "wk:page":"Dubrovytsia"
     },
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":101864569,
-    "wof:lastmodified":1563303519,
+    "wof:lastmodified":1566593748,
     "wof:name":"\u0414\u0443\u0431\u0440\u043e\u0432\u0438\u0446\u044f",
     "wof:parent_id":102088889,
     "wof:placetype":"locality",

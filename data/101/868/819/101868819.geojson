@@ -11,12 +11,16 @@
     "geom:longitude":39.79555,
     "gn:population":17526,
     "iso:country":"UA",
+    "lbl:bbox":"39.77555,48.052353,39.81555,48.092353",
     "lbl:latitude":48.072353,
     "lbl:longitude":39.79555,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.072353,
     "mps:longitude":39.79555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0641\u0648\u0646\u0648\u0628\u0627\u0631\u062a\u064a\u0632\u0627\u0646\u0633\u0643"
     ],
@@ -117,7 +121,7 @@
         "Chervonopartyzans\u2019k",
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnopartizansk"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +150,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -159,7 +163,7 @@
     "wof:concordances":{
         "gn:id":710548,
         "gp:id":918404,
-        "qs:id":421514,
+        "qs_pg:id":421514,
         "wd:id":"Q664445",
         "wk:page":"Chervonopartyzansk"
     },
@@ -175,7 +179,7 @@
         }
     ],
     "wof:id":101868819,
-    "wof:lastmodified":1563302613,
+    "wof:lastmodified":1566593342,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108815967,
     "wof:placetype":"locality",

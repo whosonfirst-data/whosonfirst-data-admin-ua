@@ -10,12 +10,16 @@
     "geom:latitude":49.041388,
     "geom:longitude":37.754606,
     "iso:country":"UA",
+    "lbl:bbox":"37.734606,49.021388,37.774606,49.061388",
     "lbl:latitude":49.041388,
     "lbl:longitude":37.754606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.041388,
     "mps:longitude":37.754606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Drob\u0131\u015feve"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u0414\u0440\u043e\u0431\u0438\u0448\u0435\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Drobyshevo"
-    ],
     "name:zho_x_preferred":[
         "\u5fb7\u7f85\u6bd4\u820d\u97cb"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":709614,
         "gp:id":919259,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4168310"
     },
     "wof:country":"UA",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":101869935,
-    "wof:lastmodified":1563302800,
+    "wof:lastmodified":1566593424,
     "wof:name":"\u0414\u0440\u043e\u0431\u0438\u0448\u0435\u0432\u0435",
     "wof:parent_id":1108815627,
     "wof:placetype":"locality",

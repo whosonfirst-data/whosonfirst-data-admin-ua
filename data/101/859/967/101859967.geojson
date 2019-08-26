@@ -10,13 +10,17 @@
     "geom:latitude":48.946304,
     "geom:longitude":22.59997,
     "iso:country":"UA",
+    "lbl:bbox":"22.57997,48.926304,22.61997,48.966304",
     "lbl:latitude":48.946304,
     "lbl:longitude":22.59997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.946304,
     "mps:longitude":22.59997,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chontosh"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":704732,
         "gp:id":937287,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"a34d931acbc5c9d55afd3524ff82692b",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101859967,
-    "wof:lastmodified":1544745191,
+    "wof:lastmodified":1566593231,
     "wof:name":"\u041a\u043e\u0441\u0442\u0440\u0438\u043d\u0430",
     "wof:parent_id":102088109,
     "wof:placetype":"locality",

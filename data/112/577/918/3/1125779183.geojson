@@ -9,15 +9,18 @@
     "geom:bbox":"25.13341,49.26854,25.13341,49.26854",
     "geom:latitude":49.26854,
     "geom:longitude":25.13341,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3158,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3158,
     "iso:country":"UA",
+    "lbl:bbox":"25.11341,49.24854,25.15341,49.28854",
     "lbl:latitude":49.26854,
     "lbl:longitude":25.13341,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pdace"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:qs_id":128355,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125779183,
-    "wof:lastmodified":1563304014,
+    "wof:lastmodified":1566593975,
     "wof:name":"Pidhaytsi",
     "wof:parent_id":102088261,
     "wof:placetype":"locality",

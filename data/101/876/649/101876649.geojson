@@ -14,10 +14,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.005262,
     "lbl:longitude":25.821521,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.005262,
     "mps:longitude":25.821521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bak_x_preferred":[
         "\u0427\u043e\u0440\u0442\u043a\u043e\u0432"
     ],
@@ -117,7 +120,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u0442\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschortkow"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":923,
     "wof:belongsto":[
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":710400,
         "gp:id":918340,
-        "qs:id":128767,
         "qs_pg:id":128767,
         "wd:id":"Q148473",
         "wk:page":"Chortkiv"
@@ -177,7 +179,7 @@
         }
     ],
     "wof:id":101876649,
-    "wof:lastmodified":1563303203,
+    "wof:lastmodified":1566593608,
     "wof:name":"\u0427\u043e\u0440\u0442\u043a\u0456\u0432",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

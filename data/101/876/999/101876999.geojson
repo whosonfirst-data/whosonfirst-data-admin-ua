@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1336291.302556,
+    "geom:area_square_m":1336291.302554,
     "geom:bbox":"34.6030769717,49.5522678548,34.6218835679,49.5652707775",
     "geom:latitude":49.560119,
     "geom:longitude":34.611253,
     "iso:country":"UA",
     "lbl:latitude":49.559889,
     "lbl:longitude":34.611253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.559889,
     "mps:longitude":34.611253,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Poltavs'ka",
@@ -32,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -42,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":931366,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"75e9b981e2ffcea61bc33f292affd73f",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":101876999,
-    "wof:lastmodified":1499465892,
+    "wof:lastmodified":1566593582,
     "wof:name":"\u041a\u043e\u043f\u0438\u043b\u0438",
     "wof:parent_id":1108815691,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.930231,
     "geom:longitude":39.24544,
     "iso:country":"UA",
+    "lbl:bbox":"39.22544,47.910231,39.26544,47.950231",
     "lbl:latitude":47.930231,
     "lbl:longitude":39.24544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.930231,
     "mps:longitude":39.24544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bobrykowe"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u0440\u0438\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bobrikovo"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":712012,
         "gp:id":918594,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4088689"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101867285,
-    "wof:lastmodified":1563303037,
+    "wof:lastmodified":1566593527,
     "wof:name":"\u0411\u043e\u0431\u0440\u0438\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088695,
     "wof:placetype":"locality",

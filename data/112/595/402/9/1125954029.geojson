@@ -9,15 +9,18 @@
     "geom:bbox":"29.33357,45.55604,29.33357,45.55604",
     "geom:latitude":45.55604,
     "geom:longitude":29.33357,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5362,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5362,
     "iso:country":"UA",
+    "lbl:bbox":"29.31357,45.53604,29.35357,45.57604",
     "lbl:latitude":45.55604,
     "lbl:longitude":29.33357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Shevchenkove"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karamakhmed"
     ],
     "qs_pg:aaroncc":"UA",
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":275439,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125954029,
-    "wof:lastmodified":1563303785,
+    "wof:lastmodified":1566593891,
     "wof:name":"Shevchenkove",
     "wof:parent_id":102087919,
     "wof:placetype":"locality",

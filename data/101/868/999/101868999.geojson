@@ -10,12 +10,16 @@
     "geom:latitude":48.56794,
     "geom:longitude":39.143534,
     "iso:country":"UA",
+    "lbl:bbox":"39.123534,48.54794,39.163534,48.58794",
     "lbl:latitude":48.56794,
     "lbl:longitude":39.143534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.56794,
     "mps:longitude":39.143534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sabiwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0430\u0431\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shumovka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":694986,
         "gp:id":915635,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4403573"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101868999,
-    "wof:lastmodified":1563302601,
+    "wof:lastmodified":1566593337,
     "wof:name":"\u0421\u0430\u0431\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088801,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":44.904415,
     "geom:longitude":34.166966,
     "iso:country":"UA",
+    "lbl:bbox":"34.146966,44.884415,34.186966,44.924415",
     "lbl:latitude":44.904415,
     "lbl:longitude":34.166966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.904415,
     "mps:longitude":34.166966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_historical":[
         "Eski Orda"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         85688855,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":702741,
         "gp:id":933992,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"330b3cc3364cdcc5c57fd34970e09da0",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101855881,
-    "wof:lastmodified":1544743120,
+    "wof:lastmodified":1566593744,
     "wof:name":"\u041b\u043e\u0437\u043e\u0432\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.603436,
     "geom:longitude":32.86584,
     "iso:country":"UA",
+    "lbl:bbox":"32.84584,49.583436,32.88584,49.623436",
     "lbl:latitude":49.603436,
     "lbl:longitude":32.86584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.603436,
     "mps:longitude":32.86584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0446\u044b\u044f \u043c\u0435\u0442\u0440\u043e \u0410\u0431\u0430\u043b\u043e\u043d\u044c"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u043b\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obolon\u2019"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":134,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":698803,
         "gp:id":929337,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"ea8271d91c7a765491a433ea78c08d3a",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101869453,
-    "wof:lastmodified":1544750304,
+    "wof:lastmodified":1566593416,
     "wof:name":"\u041e\u0431\u043e\u043b\u043e\u043d\u044c",
     "wof:parent_id":102089019,
     "wof:placetype":"locality",

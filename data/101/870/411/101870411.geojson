@@ -11,12 +11,16 @@
     "geom:longitude":34.974455,
     "gn:population":4070,
     "iso:country":"UA",
+    "lbl:bbox":"34.954455,50.610673,34.994455,50.650673",
     "lbl:latitude":50.630673,
     "lbl:longitude":34.974455,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.630673,
     "mps:longitude":34.974455,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Boromlya"
     ],
@@ -25,9 +29,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u043c\u043b\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Boromlya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -48,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":711629,
         "gp:id":917428,
-        "qs:id":1283143
+        "qs_pg:id":1283143
     },
     "wof:country":"UA",
     "wof:geomhash":"4a5ca3ff61d770d1298df82c79515c16",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":101870411,
-    "wof:lastmodified":1544750653,
+    "wof:lastmodified":1566593560,
     "wof:name":"\u0411\u043e\u0440\u043e\u043c\u043b\u044f",
     "wof:parent_id":102088249,
     "wof:placetype":"locality",

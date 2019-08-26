@@ -10,12 +10,16 @@
     "geom:latitude":49.107577,
     "geom:longitude":33.607796,
     "iso:country":"UA",
+    "lbl:bbox":"33.587796,49.087577,33.627796,49.127577",
     "lbl:latitude":49.107577,
     "lbl:longitude":33.607796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.107577,
     "mps:longitude":33.607796,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crasnencoe"
     ],
@@ -77,7 +81,7 @@
         "\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430",
         "\u041a\u0440\u0430\u0441\u043d\u0435\u043d\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dmitriyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -99,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":709981,
         "gp:id":12518320,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1995737"
     },
     "wof:country":"UA",
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":101868445,
-    "wof:lastmodified":1563302673,
+    "wof:lastmodified":1566593369,
     "wof:name":"\u0414\u043c\u0438\u0442\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1175613721,
     "wof:placetype":"locality",

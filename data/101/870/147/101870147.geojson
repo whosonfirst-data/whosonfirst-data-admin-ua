@@ -10,12 +10,16 @@
     "geom:latitude":50.335669,
     "geom:longitude":34.048857,
     "iso:country":"UA",
+    "lbl:bbox":"34.028857,50.315669,34.068857,50.355669",
     "lbl:latitude":50.335669,
     "lbl:longitude":34.048857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.335669,
     "mps:longitude":34.048857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Welbiwka"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u043b\u044c\u0431\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monastyrskiye-Budishcha"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":690297,
         "gp:id":919764,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4106961"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101870147,
-    "wof:lastmodified":1563303131,
+    "wof:lastmodified":1566593568,
     "wof:name":"\u0412\u0435\u043b\u044c\u0431\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088897,
     "wof:placetype":"locality",

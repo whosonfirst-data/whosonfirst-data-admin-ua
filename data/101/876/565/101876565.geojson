@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":2808090.096344,
+    "geom:area_square_m":2808090.096343,
     "geom:bbox":"24.1933722844,48.7954100528,24.2206194187,48.8206027289",
     "geom:latitude":48.805053,
     "geom:longitude":24.210484,
@@ -13,17 +13,20 @@
     "iso:country":"UA",
     "lbl:latitude":48.80337,
     "lbl:longitude":24.211412,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.80337,
     "mps:longitude":24.211412,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041d\u0435\u0431\u0438\u043b\u0456\u0432"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0431\u0438\u043b\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nebyluv"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -43,7 +46,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":700391,
         "gp:id":930340,
-        "qs:id":1028513
+        "qs_pg:id":1028513
     },
     "wof:country":"UA",
     "wof:geomhash":"64da1a4022bcdcf58819246ac67ed29e",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101876565,
-    "wof:lastmodified":1505338449,
+    "wof:lastmodified":1566593605,
     "wof:name":"\u041d\u0435\u0431\u0438\u043b\u0456\u0432",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

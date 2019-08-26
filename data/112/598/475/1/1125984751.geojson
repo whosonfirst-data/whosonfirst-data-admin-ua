@@ -9,15 +9,18 @@
     "geom:bbox":"33.14721,46.42476,33.14721,46.42476",
     "geom:latitude":46.42476,
     "geom:longitude":33.14721,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4305,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4305,
     "iso:country":"UA",
+    "lbl:bbox":"33.12721,46.40476,33.16721,46.44476",
     "lbl:latitude":46.42476,
     "lbl:longitude":33.14721,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0644\u064a\u0641\u0643\u0627\u060c \u0643\u064a\u0631\u0633\u0648\u0646\u0633\u0643\u0627"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0438\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bril\u00ebvka"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":275592,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125984751,
-    "wof:lastmodified":1563303889,
+    "wof:lastmodified":1566593930,
     "wof:name":"Brylivka",
     "wof:parent_id":102088007,
     "wof:placetype":"locality",

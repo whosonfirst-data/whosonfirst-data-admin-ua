@@ -10,12 +10,16 @@
     "geom:latitude":50.715286,
     "geom:longitude":30.549937,
     "iso:country":"UA",
+    "lbl:bbox":"30.529937,50.695286,30.569937,50.735286",
     "lbl:latitude":50.715286,
     "lbl:longitude":30.549937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.715286,
     "mps:longitude":30.549937,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lebedivka"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lebedevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":8519859,
         "gp:id":935552,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"0c544c01c5626b86bd9c941650efe5c2",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101871011,
-    "wof:lastmodified":1544750911,
+    "wof:lastmodified":1566593653,
     "wof:name":"\u041b\u0435\u0431\u0435\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088851,
     "wof:placetype":"locality",

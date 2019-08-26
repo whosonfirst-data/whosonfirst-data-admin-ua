@@ -10,12 +10,16 @@
     "geom:latitude":48.920437,
     "geom:longitude":37.489424,
     "iso:country":"UA",
+    "lbl:bbox":"37.469424,48.900437,37.509424,48.940437",
     "lbl:latitude":48.920437,
     "lbl:longitude":37.489424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.920437,
     "mps:longitude":37.489424,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khrestishche"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0425\u0440\u0435\u0441\u0442\u0438\u0449\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khristishche"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":706208,
         "gp:id":922396,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"a26bf197a9f7fc9e0ae931a46eeea6a0",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101868923,
-    "wof:lastmodified":1544750007,
+    "wof:lastmodified":1566593354,
     "wof:name":"\u0425\u0440\u0435\u0441\u0442\u0438\u0449\u0435",
     "wof:parent_id":102088767,
     "wof:placetype":"locality",

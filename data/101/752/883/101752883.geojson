@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":50.75963,
     "lbl:longitude":25.357447,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.75963,
     "mps:longitude":25.357447,
     "mz:hierarchy_label":1,
@@ -259,9 +261,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Luck"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u062a\u0633\u06a9"
     ],
@@ -391,7 +390,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":174.0,
     "wd:latitude":50.747778,
@@ -408,10 +407,12 @@
     "wof:concordances":{
         "gn:id":702569,
         "gp:id":925750,
-        "qs:id":128514,
-        "qs_pg:id":1098991,
+        "qs_pg:id":128514,
         "wd:id":"Q7550",
         "wk:page":"Lutsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1098991
     },
     "wof:country":"UA",
     "wof:geomhash":"44032b77f831dc8fb7b8b4ffacfbe4a2",
@@ -425,7 +426,7 @@
         }
     ],
     "wof:id":101752883,
-    "wof:lastmodified":1563302217,
+    "wof:lastmodified":1566593187,
     "wof:name":"\u041b\u0443\u0446\u044c\u043a",
     "wof:parent_id":1108730713,
     "wof:placetype":"locality",

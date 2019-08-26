@@ -11,12 +11,16 @@
     "geom:longitude":38.024499,
     "gn:population":6917,
     "iso:country":"UA",
+    "lbl:bbox":"38.004499,47.729541,38.044499,47.769541",
     "lbl:latitude":47.749541,
     "lbl:longitude":38.024499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.749541,
     "mps:longitude":38.024499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_variant":[
         "\u0421\u0442\u0430\u0440\u0430\u0431\u044d\u0448\u0430\u0432\u0430"
     ],
@@ -71,7 +75,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0431\u0435\u0448\u0435\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staroye Beshevo"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":464,
     "wof:belongsto":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":692829,
         "gp:id":934916,
-        "qs:id":186280,
+        "qs_pg:id":186280,
         "wd:id":"Q4440090"
     },
     "wof:country":"UA",
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101868253,
-    "wof:lastmodified":1563302679,
+    "wof:lastmodified":1566593371,
     "wof:name":"\u0421\u0442\u0430\u0440\u043e\u0431\u0435\u0448\u0435\u0432\u0435",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

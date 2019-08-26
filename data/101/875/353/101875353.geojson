@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":45.45331,
     "lbl:longitude":34.751391,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.45331,
     "mps:longitude":34.751391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u041d\u0456\u0436\u043d\u044f\u0433\u043e\u0440\u0441\u043a\u0456"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":195,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
         "fct:id":"0827b596-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":700019,
         "gp:id":929312,
-        "qs:id":421745,
         "qs_pg:id":421745,
         "wd:id":"Q2626741",
         "wk:page":"Nyzhnohirskyi"
@@ -153,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302270,
+    "wof:lastmodified":1566593202,
     "wof:name":"\u041d\u0438\u0436\u043d\u044c\u043e\u0433\u0456\u0440\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108738641,
     "wof:placetype":"locality",

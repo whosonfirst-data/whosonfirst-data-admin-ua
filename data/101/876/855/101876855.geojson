@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.38097,
     "lbl:longitude":30.191405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.38097,
     "mps:longitude":30.191405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0432\u044b\u0448\u0447\u044d"
     ],
@@ -67,9 +70,6 @@
     "name:ukr_x_variant":[
         "Stavyshche"
     ],
-    "name:unk_x_variant":[
-        "Stavishche"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u5854\u7dad\u8b1d"
     ],
@@ -89,7 +89,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":269,
     "wof:belongsto":[
         102191581,
@@ -101,7 +101,7 @@
     "wof:concordances":{
         "gn:id":692674,
         "gp:id":935063,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q65270",
         "wk:page":"Stavyshche"
     },
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":101876855,
-    "wof:lastmodified":1563303218,
+    "wof:lastmodified":1566593616,
     "wof:name":"\u0421\u0442\u0430\u0432\u0438\u0449\u0435",
     "wof:parent_id":102088499,
     "wof:placetype":"locality",

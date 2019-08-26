@@ -10,12 +10,16 @@
     "geom:latitude":50.753625,
     "geom:longitude":28.725666,
     "iso:country":"UA",
+    "lbl:bbox":"28.705666,50.733625,28.745666,50.773625",
     "lbl:latitude":50.753625,
     "lbl:longitude":28.725666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.753625,
     "mps:longitude":28.725666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0406\u0440\u0448\u0430\u043d\u0441\u043a"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_variant":[
         "Irshans\u2019k"
     ],
-    "name:unk_x_variant":[
-        "Irshansk"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u723e\u5c1a\u897f\u514b"
     ],
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
     "wof:belongsto":[
         102191581,
@@ -89,7 +90,7 @@
     "wof:concordances":{
         "gn:id":707560,
         "gp:id":928233,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2652172",
         "wk:page":"Irshansk"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":101870767,
-    "wof:lastmodified":1563303104,
+    "wof:lastmodified":1566593556,
     "wof:name":"\u0406\u0440\u0448\u0430\u043d\u0441\u044c\u043a",
     "wof:parent_id":102088713,
     "wof:placetype":"locality",

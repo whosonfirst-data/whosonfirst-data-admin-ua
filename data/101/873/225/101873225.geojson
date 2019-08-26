@@ -11,12 +11,16 @@
     "geom:longitude":31.333864,
     "gn:population":2317,
     "iso:country":"UA",
+    "lbl:bbox":"31.313864,51.190108,31.353864,51.230108",
     "lbl:latitude":51.210108,
     "lbl:longitude":31.333864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.210108,
     "mps:longitude":31.333864,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Olish\u00ebvka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_variant":[
         "\u041e\u043b\u0438\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olischewka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":698570,
         "gp:id":929615,
-        "qs:id":128400
+        "qs_pg:id":128400
     },
     "wof:country":"UA",
     "wof:geomhash":"73216456a491da39bffbab6ff873f062",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101873225,
-    "wof:lastmodified":1544751531,
+    "wof:lastmodified":1566593199,
     "wof:name":"\u041e\u043b\u0438\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815729,
     "wof:placetype":"locality",

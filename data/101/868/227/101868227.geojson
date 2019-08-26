@@ -10,12 +10,16 @@
     "geom:latitude":47.778737,
     "geom:longitude":37.256691,
     "iso:country":"UA",
+    "lbl:bbox":"37.236691,47.758737,37.276691,47.798737",
     "lbl:latitude":47.778737,
     "lbl:longitude":37.256691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.778737,
     "mps:longitude":37.256691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0647\u0644\u064a\u062f\u0627\u0631"
     ],
@@ -106,9 +110,6 @@
     "name:ukr_x_variant":[
         "Vuhledar"
     ],
-    "name:unk_x_variant":[
-        "Ugledar"
-    ],
     "name:vie_x_preferred":[
         "Vuhledar"
     ],
@@ -134,7 +135,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         85688779,
@@ -147,7 +148,7 @@
     "wof:concordances":{
         "gn:id":690823,
         "gp:id":930262,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2416423",
         "wk:page":"Vuhledar"
     },
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":101868227,
-    "wof:lastmodified":1563302604,
+    "wof:lastmodified":1566593338,
     "wof:name":"\u0412\u0443\u0433\u043b\u0435\u0434\u0430\u0440",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

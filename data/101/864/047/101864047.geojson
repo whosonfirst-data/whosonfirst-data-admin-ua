@@ -11,12 +11,16 @@
     "geom:longitude":27.519656,
     "gn:population":22348,
     "iso:country":"UA",
+    "lbl:bbox":"27.499656,50.120923,27.539656,50.160923",
     "lbl:latitude":50.140923,
     "lbl:longitude":27.519656,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.140923,
     "mps:longitude":27.519656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0646\u064a"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polonnoje"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +141,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":267,
     "wof:belongsto":[
@@ -150,7 +154,6 @@
     "wof:concordances":{
         "gn:id":696660,
         "gp:id":931352,
-        "qs:id":128341,
         "qs_pg:id":128341,
         "wd:id":"Q997351",
         "wk:page":"Polonne"
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101864047,
-    "wof:lastmodified":1563303537,
+    "wof:lastmodified":1566593755,
     "wof:name":"\u041f\u043e\u043b\u043e\u043d\u043d\u0435",
     "wof:parent_id":102088571,
     "wof:placetype":"locality",

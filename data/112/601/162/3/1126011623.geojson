@@ -9,15 +9,18 @@
     "geom:bbox":"31.04628,49.96886,31.04628,49.96886",
     "geom:latitude":49.96886,
     "geom:longitude":31.04628,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7993,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7993,
     "iso:country":"UA",
+    "lbl:bbox":"31.02628,49.94886,31.06628,49.98886",
     "lbl:latitude":49.96886,
     "lbl:longitude":31.04628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0420\u0436\u044b\u0448\u0447\u044b\u045e"
@@ -97,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0436\u0438\u0449\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rzhishch\u00ebv"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":932885,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1126011623,
-    "wof:lastmodified":1563303902,
+    "wof:lastmodified":1566593933,
     "wof:name":"Rzhishchev",
     "wof:parent_id":1108730815,
     "wof:placetype":"locality",

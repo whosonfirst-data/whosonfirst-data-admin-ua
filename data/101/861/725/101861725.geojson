@@ -10,12 +10,16 @@
     "geom:latitude":49.1355,
     "geom:longitude":25.361853,
     "iso:country":"UA",
+    "lbl:bbox":"25.341853,49.1155,25.381853,49.1555",
     "lbl:latitude":49.1355,
     "lbl:longitude":25.361853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.1355,
     "mps:longitude":25.361853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stari Petlykiwzi"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0456 \u041f\u0435\u0442\u043b\u0438\u043a\u0456\u0432\u0446\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Stari Petlykivtsi"
     ],
     "name:zho_x_preferred":[
         "\u820a\u4f69\u7279\u5229\u57fa\u592b\u9f4a"
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191581,
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":692738,
         "gp:id":917675,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4440952"
     },
     "wof:country":"UA",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":101861725,
-    "wof:lastmodified":1561776924,
+    "wof:lastmodified":1566593304,
     "wof:name":"\u0421\u0442\u0430\u0440\u0456 \u041f\u0435\u0442\u043b\u0438\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

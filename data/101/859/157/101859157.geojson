@@ -10,12 +10,16 @@
     "geom:latitude":48.276951,
     "geom:longitude":22.470502,
     "iso:country":"UA",
+    "lbl:bbox":"22.450502,48.256951,22.490502,48.296951",
     "lbl:latitude":48.276951,
     "lbl:longitude":22.470502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.276951,
     "mps:longitude":22.470502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zapsonj"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u043f\u0441\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zastavne"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":687574,
         "gp:id":803423,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q714538"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101859157,
-    "wof:lastmodified":1561776904,
+    "wof:lastmodified":1566593209,
     "wof:name":"\u0417\u0430\u043f\u0441\u043e\u043d\u044c",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

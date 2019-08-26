@@ -9,15 +9,18 @@
     "geom:bbox":"26.14469,51.4213,26.14469,51.4213",
     "geom:latitude":51.4213,
     "geom:longitude":26.14469,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8537,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":8537,
     "iso:country":"UA",
+    "lbl:bbox":"26.12469,51.4013,26.16469,51.4413",
     "lbl:latitude":51.4213,
     "lbl:longitude":26.14469,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0648\u062f\u064a\u0645\u064a\u0631\u064a\u062a\u0633\u060c \u0631\u064a\u0641\u0646\u064a\u0646\u0633\u0643\u0627"
@@ -73,7 +76,7 @@
     "name:ukr_x_variant":[
         "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vlodzimezhets"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +94,7 @@
     "qs_pg:qs_id":128188,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125778917,
-    "wof:lastmodified":1563304010,
+    "wof:lastmodified":1566593973,
     "wof:name":"Volodymyrets\u2019",
     "wof:parent_id":102088841,
     "wof:placetype":"locality",

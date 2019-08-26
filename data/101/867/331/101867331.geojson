@@ -11,12 +11,16 @@
     "geom:longitude":28.771945,
     "gn:population":8443,
     "iso:country":"UA",
+    "lbl:bbox":"28.751945,48.505397,28.791945,48.545397",
     "lbl:latitude":48.525397,
     "lbl:longitude":28.771945,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.525397,
     "mps:longitude":28.771945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0628\u0646\u064a\u0627\u0631\u0643\u0627"
     ],
@@ -65,9 +69,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043f\u043d\u044f\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wapnjarka"
-    ],
     "name:zho_x_preferred":[
         "\u74e6\u666e\u5c3c\u4e9e\u723e\u5361"
     ],
@@ -90,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":901,
     "wof:belongsto":[
@@ -103,7 +104,7 @@
     "wof:concordances":{
         "gn:id":690485,
         "gp:id":936992,
-        "qs:id":128218,
+        "qs_pg:id":128218,
         "wd:id":"Q2993501",
         "wk:page":"Vapniarka"
     },
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":101867331,
-    "wof:lastmodified":1563302963,
+    "wof:lastmodified":1566593498,
     "wof:name":"\u0412\u0430\u043f\u043d\u044f\u0440\u043a\u0430",
     "wof:parent_id":102088209,
     "wof:placetype":"locality",

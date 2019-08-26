@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":1447676.009444,
+    "geom:area_square_m":1447676.009443,
     "geom:bbox":"29.8188061905,48.9883053826,29.8339547252,49.0067290332",
     "geom:latitude":48.998029,
     "geom:longitude":29.827154,
     "iso:country":"UA",
     "lbl:latitude":48.998695,
     "lbl:longitude":29.827299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.998695,
     "mps:longitude":29.827299,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Cherkas'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":927377,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
-    "wof:geomhash":"9a7ef8975c384fcc813a5118d16a6cfb",
+    "wof:geomhash":"db3f9be00aa97b05f3e5dfb11bf284c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876795,
-    "wof:lastmodified":1479879156,
+    "wof:lastmodified":1566593606,
     "wof:name":"\u0410\u0432\u0440\u0430\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088403,
     "wof:placetype":"locality",

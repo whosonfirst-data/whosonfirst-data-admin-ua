@@ -10,12 +10,16 @@
     "geom:latitude":49.509252,
     "geom:longitude":23.280674,
     "iso:country":"UA",
+    "lbl:bbox":"23.260674,49.489252,23.300674,49.529252",
     "lbl:latitude":49.509252,
     "lbl:longitude":23.280674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.509252,
     "mps:longitude":23.280674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kultschyzi"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":565,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":932994,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4246779"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101861259,
-    "wof:lastmodified":1563302512,
+    "wof:lastmodified":1566593300,
     "wof:name":"\u041a\u0443\u043b\u044c\u0447\u0438\u0446\u0456",
     "wof:parent_id":1108815683,
     "wof:placetype":"locality",

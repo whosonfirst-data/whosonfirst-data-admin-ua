@@ -10,12 +10,16 @@
     "geom:latitude":49.077969,
     "geom:longitude":28.346965,
     "iso:country":"UA",
+    "lbl:bbox":"28.326965,49.057969,28.366965,49.097969",
     "lbl:latitude":49.077969,
     "lbl:longitude":28.346965,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.077969,
     "mps:longitude":28.346965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0646\u064a\u0641\u0627\u0646"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043d\u0456\u0432\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gnivan\u2019"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":708663,
         "gp:id":920120,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q155330",
         "wk:page":"Hnivan"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":101873965,
-    "wof:lastmodified":1563302253,
+    "wof:lastmodified":1566593193,
     "wof:name":"\u0413\u043d\u0456\u0432\u0430\u043d\u044c",
     "wof:parent_id":102088331,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.562544,
     "geom:longitude":22.384689,
     "iso:country":"UA",
+    "lbl:bbox":"22.364689,48.542544,22.404689,48.582544",
     "lbl:latitude":48.562544,
     "lbl:longitude":22.384689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.562544,
     "mps:longitude":22.384689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veliki Lazi"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u041b\u0430\u0437\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nad\u2019lax"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":690161,
         "gp:id":936939,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q750876"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101859629,
-    "wof:lastmodified":1561776907,
+    "wof:lastmodified":1566593217,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0456 \u041b\u0430\u0437\u0438",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":34.944498,
     "gn:population":3669,
     "iso:country":"UA",
+    "lbl:bbox":"34.924498,50.809655,34.964498,50.849655",
     "lbl:latitude":50.829655,
     "lbl:longitude":34.944498,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.829655,
     "mps:longitude":34.944498,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Verkhnyaya Syrovatka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u0421\u0438\u0440\u043e\u0432\u0430\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnya Syrovatka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":689830,
         "gp:id":937624,
-        "qs:id":1283373
+        "qs_pg:id":1283373
     },
     "wof:country":"UA",
     "wof:geomhash":"cc5f9c881d2aaa40e5c39ce6b8611f40",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101870507,
-    "wof:lastmodified":1544750677,
+    "wof:lastmodified":1566593557,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u0421\u0438\u0440\u043e\u0432\u0430\u0442\u043a\u0430",
     "wof:parent_id":102088997,
     "wof:placetype":"locality",

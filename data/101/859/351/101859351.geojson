@@ -10,12 +10,16 @@
     "geom:latitude":48.424958,
     "geom:longitude":22.649089,
     "iso:country":"UA",
+    "lbl:bbox":"22.629089,48.404958,22.669089,48.444958",
     "lbl:latitude":48.424958,
     "lbl:longitude":22.649089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.424958,
     "mps:longitude":22.649089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kliucharky"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u044e\u0447\u0430\u0440\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klyucharky"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":705599,
         "gp:id":926934,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q771372",
         "wk:page":"Kliucharky"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101859351,
-    "wof:lastmodified":1563302348,
+    "wof:lastmodified":1566593231,
     "wof:name":"\u041a\u043b\u044e\u0447\u0430\u0440\u043a\u0438",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

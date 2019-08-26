@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.504946,
     "lbl:longitude":25.098085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.504946,
     "mps:longitude":25.098085,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043c\u044b\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":266,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":704951,
         "gp:id":12518299,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1035599"
     },
     "wof:country":"UA",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101876529,
-    "wof:lastmodified":1563303184,
+    "wof:lastmodified":1566593598,
     "wof:name":"\u041a\u043e\u0440\u043d\u0438\u0447",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

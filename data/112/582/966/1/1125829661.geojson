@@ -9,15 +9,18 @@
     "geom:bbox":"38.91069,49.27832,38.91069,49.27832",
     "geom:latitude":49.27832,
     "geom:longitude":38.91069,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":22000,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":22000,
     "iso:country":"UA",
+    "lbl:bbox":"38.89069,49.25832,38.93069,49.29832",
     "lbl:latitude":49.27832,
     "lbl:longitude":38.91069,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0631\u0648\u0628\u06cc\u0644\u0633\u06a9"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0431\u0456\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bel\u2019skiy Gorodok"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +151,7 @@
     "qs_pg:qs_id":1028414,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1125829661,
-    "wof:lastmodified":1563303923,
+    "wof:lastmodified":1566593941,
     "wof:name":"Starobil\u2019s\u2019k",
     "wof:parent_id":102088911,
     "wof:placetype":"locality",

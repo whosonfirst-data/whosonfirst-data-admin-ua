@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":49.799017,
     "lbl:longitude":30.119969,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":49.799017,
     "mps:longitude":30.119969,
     "mz:hierarchy_label":1,
@@ -223,7 +225,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0430 \u0426\u0435\u0440\u043a\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belaya Tserkov\u2019"
     ],
     "name:urd_x_preferred":[
@@ -355,7 +357,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":991,
     "wof:belongsto":[
@@ -368,10 +370,12 @@
     "wof:concordances":{
         "gn:id":712667,
         "gp:id":916902,
-        "qs:id":275596,
-        "qs_pg:id":1115565,
+        "qs_pg:id":275596,
         "wd:id":"Q33342",
         "wk:page":"Bila Tserkva"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115565
     },
     "wof:country":"UA",
     "wof:geomhash":"d34025fca4583ccb934a77af9b2d9951",
@@ -385,7 +389,7 @@
         }
     ],
     "wof:id":101752485,
-    "wof:lastmodified":1563302176,
+    "wof:lastmodified":1566593180,
     "wof:name":"\u0411\u0456\u043b\u0430 \u0426\u0435\u0440\u043a\u0432\u0430",
     "wof:parent_id":1108815917,
     "wof:placetype":"locality",

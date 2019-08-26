@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000431,
-    "geom:area_square_m":3570446.286842,
+    "geom:area_square_m":3570446.286838,
     "geom:bbox":"36.2280202546,47.9539007877,36.2447664386,47.9911612132",
     "geom:latitude":47.972069,
     "geom:longitude":36.235784,
     "iso:country":"UA",
     "lbl:latitude":47.971835,
     "lbl:longitude":36.236781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.971835,
     "mps:longitude":36.236781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Dnipropetrovs'ka",
@@ -32,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":931279,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"05b89c53f6f7d6466f17fa4f49b08b74",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101876303,
-    "wof:lastmodified":1527714915,
+    "wof:lastmodified":1566593602,
     "wof:name":"\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088497,
     "wof:placetype":"locality",

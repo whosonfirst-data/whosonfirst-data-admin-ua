@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.308034,
     "lbl:longitude":23.040063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.308034,
     "mps:longitude":23.040063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0440\u0448\u0430\u0432\u0430"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_variant":[
         "\u0418\u0440\u0448\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ir\u0161ava"
-    ],
     "name:vie_x_preferred":[
         "Irshava"
     ],
@@ -134,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -147,7 +147,6 @@
     "wof:concordances":{
         "gn:id":707559,
         "gp:id":921145,
-        "qs:id":128703,
         "qs_pg:id":128703,
         "wd:id":"Q146474",
         "wk:page":"Irshava"
@@ -164,7 +163,7 @@
         }
     ],
     "wof:id":101876383,
-    "wof:lastmodified":1563303177,
+    "wof:lastmodified":1566593594,
     "wof:name":"\u0406\u0440\u0448\u0430\u0432\u0430",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

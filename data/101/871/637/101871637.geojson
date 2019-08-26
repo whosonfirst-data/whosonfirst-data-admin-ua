@@ -10,12 +10,16 @@
     "geom:latitude":51.759597,
     "geom:longitude":33.291329,
     "iso:country":"UA",
+    "lbl:bbox":"33.271329,51.739597,33.311329,51.779597",
     "lbl:latitude":51.759597,
     "lbl:longitude":33.291329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.759597,
     "mps:longitude":33.291329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0627\u0644\u0629 \u0627\u0644\u0628\u0648\u0633\u0646\u0629"
     ],
@@ -82,9 +86,6 @@
     "name:ukr_x_variant":[
         "\u041a\u043b\u0438\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Klishki"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0628\u0648\u0633\u0646\u06cc\u0627"
     ],
@@ -107,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":894,
     "wof:belongsto":[
         102191581,
@@ -119,7 +120,7 @@
     "wof:concordances":{
         "gn:id":705627,
         "gp:id":922923,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"9fc8aea2e864bdb8b980036ef2d77c53",
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":101871637,
-    "wof:lastmodified":1544751190,
+    "wof:lastmodified":1566593658,
     "wof:name":"\u041a\u043b\u0438\u0448\u043a\u0438",
     "wof:parent_id":1108815709,
     "wof:placetype":"locality",

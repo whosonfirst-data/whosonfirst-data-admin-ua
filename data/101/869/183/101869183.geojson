@@ -10,12 +10,16 @@
     "geom:latitude":49.54246,
     "geom:longitude":39.215021,
     "iso:country":"UA",
+    "lbl:bbox":"39.195021,49.52246,39.235021,49.56246",
     "lbl:latitude":49.54246,
     "lbl:longitude":39.215021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.54246,
     "mps:longitude":39.215021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Noworossosch"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0440\u043e\u0437\u0441\u043e\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novorossosh\u2019"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":699301,
         "gp:id":928917,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4325193"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101869183,
-    "wof:lastmodified":1563302840,
+    "wof:lastmodified":1566593443,
     "wof:name":"\u041d\u043e\u0432\u043e\u0440\u043e\u0437\u0441\u043e\u0448",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

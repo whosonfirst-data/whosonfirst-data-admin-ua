@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.357358,
     "lbl:longitude":33.312073,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Poltavska",
     "meso:admin_1":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Lokhvyts'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":33.314011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u043e\u0445\u0432\u044b\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -72,9 +75,6 @@
         "\u041b\u043e\u0445\u0432\u0438\u0446\u044c\u043a\u0438\u0439",
         "\u041b\u043e\u0445\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041b\u043e\u0445\u0432\u0438\u0446\u044c\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Lokhvytsia"
     ],
@@ -97,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1303",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Lokhvytsia",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":102088865,
-    "wof:lastmodified":1561776727,
+    "wof:lastmodified":1566591443,
     "wof:name":"Lokhvytskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

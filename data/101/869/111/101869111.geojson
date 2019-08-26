@@ -10,12 +10,16 @@
     "geom:latitude":48.790514,
     "geom:longitude":39.358176,
     "iso:country":"UA",
+    "lbl:bbox":"39.338176,48.770514,39.378176,48.810514",
     "lbl:latitude":48.790514,
     "lbl:longitude":39.358176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.790514,
     "mps:longitude":39.358176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nyschnoteple"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044c\u043e\u0442\u0435\u043f\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnyaya Teplaya"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":700010,
         "gp:id":930732,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4318966"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101869111,
-    "wof:lastmodified":1563302786,
+    "wof:lastmodified":1566593419,
     "wof:name":"\u041d\u0438\u0436\u043d\u044c\u043e\u0442\u0435\u043f\u043b\u0435",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

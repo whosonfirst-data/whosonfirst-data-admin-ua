@@ -10,13 +10,17 @@
     "geom:latitude":49.182791,
     "geom:longitude":29.942029,
     "iso:country":"UA",
+    "lbl:bbox":"29.922029,49.162791,29.962029,49.202791",
     "lbl:latitude":49.182791,
     "lbl:longitude":29.942029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.182791,
     "mps:longitude":29.942029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pugachivka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":696070,
         "gp:id":920971,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"535c90c45ac41ad5e0bfb4c468911419",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101867723,
-    "wof:lastmodified":1544749336,
+    "wof:lastmodified":1566593517,
     "wof:name":"\u041f\u0443\u0433\u0430\u0447\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088447,
     "wof:placetype":"locality",

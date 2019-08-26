@@ -23,8 +23,12 @@
     "gn:population":10799,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"26.47121,48.48693,26.51121,48.52693",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u062a\u064a\u0646"
     ],
@@ -145,11 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0442\u0438\u043d"
     ],
-    "name:und_x_variant":[
-        "Hotin",
-        "Khotin",
-        "Khotyn"
-    ],
     "name:vie_x_preferred":[
         "Khotyn"
     ],
@@ -178,7 +177,7 @@
         }
     ],
     "wof:id":1293693729,
-    "wof:lastmodified":1564195248,
+    "wof:lastmodified":1566591946,
     "wof:name":"Khotyn",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

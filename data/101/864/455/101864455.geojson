@@ -10,19 +10,23 @@
     "geom:latitude":51.407261,
     "geom:longitude":26.426955,
     "iso:country":"UA",
+    "lbl:bbox":"26.406955,51.387261,26.446955,51.427261",
     "lbl:latitude":51.407261,
     "lbl:longitude":26.426955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.407261,
     "mps:longitude":26.426955,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Velyki Tseptsevychi"
     ],
     "name:ukr_x_variant":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u0426\u0435\u043f\u0446\u0435\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wielkie Cepcewicze"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":711755,
         "gp:id":933056,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"9d60a1aed8652b795ec21c7f497e8c8d",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864455,
-    "wof:lastmodified":1544747535,
+    "wof:lastmodified":1566593757,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0456 \u0426\u0435\u043f\u0446\u0435\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088841,
     "wof:placetype":"locality",

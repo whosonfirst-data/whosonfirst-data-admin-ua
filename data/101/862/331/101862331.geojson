@@ -10,12 +10,16 @@
     "geom:latitude":49.76189,
     "geom:longitude":26.170755,
     "iso:country":"UA",
+    "lbl:bbox":"26.150755,49.74189,26.190755,49.78189",
     "lbl:latitude":49.76189,
     "lbl:longitude":26.170755,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.76189,
     "mps:longitude":26.170755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bilosirka"
     ],
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":166,
     "wof:belongsto":[
         102191581,
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":933718,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4082469"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101862331,
-    "wof:lastmodified":1563303339,
+    "wof:lastmodified":1566593668,
     "wof:name":"\u0411\u0456\u043b\u043e\u0437\u0456\u0440\u043a\u0430",
     "wof:parent_id":102088441,
     "wof:placetype":"locality",

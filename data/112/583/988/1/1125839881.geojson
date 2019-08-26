@@ -9,15 +9,18 @@
     "geom:bbox":"24.69624,48.19516,24.69624,48.19516",
     "geom:latitude":48.19516,
     "geom:longitude":24.69624,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1000,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1000,
     "iso:country":"UA",
+    "lbl:bbox":"24.67624,48.17516,24.71624,48.21516",
     "lbl:latitude":48.19516,
     "lbl:longitude":24.69624,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u043f\u043e\u043b\u044c\u0435"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u043f\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kryvopillya"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":83016,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125839881,
-    "wof:lastmodified":1509395226,
+    "wof:lastmodified":1566593982,
     "wof:name":"Krivopol\u2019ye",
     "wof:parent_id":102088011,
     "wof:placetype":"locality",

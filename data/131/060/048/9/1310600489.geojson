@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"35.43614,48.74516,35.47614,48.78516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Andreevka"
     ],
@@ -67,10 +71,6 @@
     "name:ukr_x_variant":[
         "\u0410\u043d\u0434\u0440\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Andreevka",
-        "Andreyevka"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1310600489,
-    "wof:lastmodified":1564197146,
+    "wof:lastmodified":1566593092,
     "wof:name":"Andriyivka",
     "wof:parent_id":1108815619,
     "wof:placetype":"locality",

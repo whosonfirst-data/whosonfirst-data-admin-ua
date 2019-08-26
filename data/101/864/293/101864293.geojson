@@ -11,12 +11,16 @@
     "geom:longitude":27.313189,
     "gn:population":5238,
     "iso:country":"UA",
+    "lbl:bbox":"27.293189,50.787823,27.333189,50.827823",
     "lbl:latitude":50.807823,
     "lbl:longitude":27.313189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.807823,
     "mps:longitude":27.313189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0648\u062f\u0646\u064a\u062a\u0633\u064a\u0627"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043e\u0434\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorodnitsa"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":708324,
         "gp:id":920422,
-        "qs:id":275546,
+        "qs_pg:id":275546,
         "wd:id":"Q2670476"
     },
     "wof:country":"UA",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101864293,
-    "wof:lastmodified":1563303543,
+    "wof:lastmodified":1566593758,
     "wof:name":"\u0413\u043e\u0440\u043e\u0434\u043d\u0438\u0446\u044f",
     "wof:parent_id":1108815763,
     "wof:placetype":"locality",

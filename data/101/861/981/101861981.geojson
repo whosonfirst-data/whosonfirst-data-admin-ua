@@ -11,12 +11,16 @@
     "geom:longitude":24.950815,
     "gn:population":16962,
     "iso:country":"UA",
+    "lbl:bbox":"24.930815,49.430119,24.970815,49.470119",
     "lbl:latitude":49.450119,
     "lbl:longitude":24.950815,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.450119,
     "mps:longitude":24.950815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u062c\u0627\u0646\u064a"
     ],
@@ -135,9 +139,6 @@
         "Berezyny",
         "\u0411\u0435\u0440\u0435\u0437\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Berejani"
-    ],
     "name:vie_x_preferred":[
         "Berezhany"
     ],
@@ -167,7 +168,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1636,
     "wof:belongsto":[
@@ -180,10 +181,12 @@
     "wof:concordances":{
         "gn:id":8432156,
         "gp:id":916707,
-        "qs:id":128808,
-        "qs_pg:id":266824,
+        "qs_pg:id":128808,
         "wd:id":"Q793424",
         "wk:page":"Berezhany"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":266824
     },
     "wof:country":"UA",
     "wof:geomhash":"9f4ef7eb5ffe30e64a52358cd8ad6e70",
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":101861981,
-    "wof:lastmodified":1563302587,
+    "wof:lastmodified":1566593331,
     "wof:name":"\u0411\u0435\u0440\u0435\u0436\u0430\u043d\u0438",
     "wof:parent_id":102088307,
     "wof:placetype":"locality",

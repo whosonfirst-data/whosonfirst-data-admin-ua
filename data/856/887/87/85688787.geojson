@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":51.097505,
     "lbl:longitude":33.758817,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":51.044109,
     "mps:longitude":33.766457,
@@ -271,9 +272,6 @@
         "\u0421\u0443\u043c\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Sums\u2019ka Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -369,9 +367,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"23,834",
     "statoids:area_mi":"9,202",
     "statoids:as_of_date":"2001-12-05",
@@ -416,7 +414,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737964,
+    "wof:lastmodified":1566591767,
     "wof:name":"Sumy",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

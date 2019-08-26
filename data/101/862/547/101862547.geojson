@@ -11,12 +11,16 @@
     "geom:longitude":25.139903,
     "gn:population":7159,
     "iso:country":"UA",
+    "lbl:bbox":"25.119903,49.640526,25.159903,49.680526",
     "lbl:latitude":49.660526,
     "lbl:longitude":25.139903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.660526,
     "mps:longitude":25.139903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0628\u0648\u0631\u064a\u0641"
     ],
@@ -95,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0431\u043e\u0440\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Zborov"
-    ],
     "name:vie_x_preferred":[
         "Zboriv"
     ],
@@ -124,7 +125,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":473,
     "wof:belongsto":[
@@ -137,7 +138,6 @@
     "wof:concordances":{
         "gn:id":687449,
         "gp:id":939868,
-        "qs:id":186302,
         "qs_pg:id":186302,
         "wd:id":"Q148928",
         "wk:page":"Zboriv"
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":101862547,
-    "wof:lastmodified":1563303425,
+    "wof:lastmodified":1566593708,
     "wof:name":"\u0417\u0431\u043e\u0440\u0456\u0432",
     "wof:parent_id":102088409,
     "wof:placetype":"locality",

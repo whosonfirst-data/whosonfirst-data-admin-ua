@@ -10,12 +10,16 @@
     "geom:latitude":51.62764,
     "geom:longitude":24.12788,
     "iso:country":"UA",
+    "lbl:bbox":"24.10788,51.60764,24.14788,51.64764",
     "lbl:latitude":51.62764,
     "lbl:longitude":24.12788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.62764,
     "mps:longitude":24.12788,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Huta Brzuska"
     ],
@@ -47,7 +51,7 @@
         "Huta",
         "\u0413\u0443\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guta Ratnen\u2019ska"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":695791,
         "gp:id":824382,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q8455158"
     },
     "wof:country":"UA",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101864499,
-    "wof:lastmodified":1563303540,
+    "wof:lastmodified":1566593756,
     "wof:name":"\u0413\u0443\u0442\u0430",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":34.749801,
     "gn:population":8006,
     "iso:country":"UA",
+    "lbl:bbox":"34.729801,47.782827,34.769801,47.822827",
     "lbl:latitude":47.802827,
     "lbl:longitude":34.749801,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.802827,
     "mps:longitude":34.749801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tomakivka"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043c\u0430\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tomakowka"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":192,
     "wof:belongsto":[
@@ -95,7 +99,6 @@
     "wof:concordances":{
         "gn:id":691435,
         "gp:id":936162,
-        "qs:id":128242,
         "qs_pg:id":128242,
         "wd:id":"Q283547",
         "wk:page":"Tomakivka"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101866763,
-    "wof:lastmodified":1563302397,
+    "wof:lastmodified":1566593248,
     "wof:name":"\u0422\u043e\u043c\u0430\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088361,
     "wof:placetype":"locality",

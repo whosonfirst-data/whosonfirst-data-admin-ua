@@ -11,12 +11,16 @@
     "geom:longitude":36.29763,
     "gn:population":4382,
     "iso:country":"UA",
+    "lbl:bbox":"36.27763,45.35315,36.31763,45.39315",
     "lbl:latitude":45.37315,
     "lbl:longitude":36.29763,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.37315,
     "mps:longitude":36.29763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0647\u064a\u0631\u0648\u0641\u064a"
     ],
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":141,
     "wof:belongsto":[
@@ -97,7 +101,6 @@
         "fct:id":"08266d6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":712992,
         "gp:id":916184,
-        "qs:id":275614,
         "qs_pg:id":275614,
         "wd:id":"Q2879290",
         "wk:page":"Baherove"
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302948,
+    "wof:lastmodified":1566593489,
     "wof:name":"\u0411\u0430\u0433\u0435\u0440\u043e\u0432\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

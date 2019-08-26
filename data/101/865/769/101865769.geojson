@@ -10,12 +10,16 @@
     "geom:latitude":51.76196,
     "geom:longitude":24.531448,
     "iso:country":"UA",
+    "lbl:bbox":"24.511448,51.74196,24.551448,51.78196",
     "lbl:latitude":51.76196,
     "lbl:longitude":24.531448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.76196,
     "mps:longitude":24.531448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Brody"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1451,
     "wof:belongsto":[
         102191581,
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":8063894,
         "gp:id":932151,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"c727135140bedb633a352ab4024cfebf",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":101865769,
-    "wof:lastmodified":1544748230,
+    "wof:lastmodified":1566593730,
     "wof:name":"\u0411\u0440\u043e\u0434\u0438",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

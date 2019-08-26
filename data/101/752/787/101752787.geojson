@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":44.587427,
     "lbl:longitude":33.517461,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.587427,
     "mps:longitude":33.517461,
     "mz:hierarchy_label":1,
@@ -483,9 +485,9 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"864",
     "statoids:area_mi":"334",
     "statoids:as_of_date":"2001-12-05",
@@ -518,10 +520,12 @@
         "gn:id":694423,
         "gp:id":933406,
         "loc:id":"n80145689",
-        "qs:id":275438,
-        "qs_pg:id":1117055,
+        "qs_pg:id":275438,
         "wd:id":"Q7525",
         "wk:page":"Sevastopol"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117055
     },
     "wof:country":"UA",
     "wof:geomhash":"12c8eccf9053d00fa82708937462afdf",
@@ -545,7 +549,7 @@
         }
     ],
     "wof:id":101752787,
-    "wof:lastmodified":1563302247,
+    "wof:lastmodified":1566593192,
     "wof:megacity":0,
     "wof:name":"\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
     "wof:parent_id":1108738657,

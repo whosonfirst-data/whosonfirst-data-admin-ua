@@ -10,12 +10,16 @@
     "geom:latitude":48.248903,
     "geom:longitude":26.557671,
     "iso:country":"UA",
+    "lbl:bbox":"26.537671,48.228903,26.577671,48.268903",
     "lbl:latitude":48.248903,
     "lbl:longitude":26.557671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.248903,
     "mps:longitude":26.557671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mamalyha"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":926336,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2091648"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101860539,
-    "wof:lastmodified":1561776949,
+    "wof:lastmodified":1566593463,
     "wof:name":"\u041a\u043e\u0448\u0443\u043b\u044f\u043d\u0438",
     "wof:parent_id":102088077,
     "wof:placetype":"locality",

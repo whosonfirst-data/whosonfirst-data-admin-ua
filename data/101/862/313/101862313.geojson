@@ -10,13 +10,17 @@
     "geom:latitude":49.959449,
     "geom:longitude":25.658901,
     "iso:country":"UA",
+    "lbl:bbox":"25.638901,49.939449,25.678901,49.979449",
     "lbl:latitude":49.959449,
     "lbl:longitude":25.658901,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.959449,
     "mps:longitude":25.658901,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zalistsi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":687821,
         "gp:id":937938,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"1061036d659949d5ea4cb17f29a3c94b",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862313,
-    "wof:lastmodified":1544746421,
+    "wof:lastmodified":1566593690,
     "wof:name":"\u0417\u0430\u043b\u0456\u0441\u0446\u0456",
     "wof:parent_id":102088429,
     "wof:placetype":"locality",

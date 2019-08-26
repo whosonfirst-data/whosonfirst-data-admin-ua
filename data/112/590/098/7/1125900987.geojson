@@ -9,15 +9,18 @@
     "geom:bbox":"32.06207,49.42854,32.06207,49.42854",
     "geom:latitude":49.42854,
     "geom:longitude":32.06207,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":297568,
+    "gn:country":"UA",
+    "gn:fcode":"PPLA",
     "gn:population":297568,
     "iso:country":"UA",
+    "lbl:bbox":"32.04207,49.40854,32.08207,49.44854",
     "lbl:latitude":49.42854,
     "lbl:longitude":32.06207,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Tsjerkasi"
@@ -262,9 +265,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u0438"
     ],
-    "name:unk_x_variant":[
-        "Tscherkassy"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0631\u06a9\u0627\u0633\u06cc"
     ],
@@ -295,7 +295,7 @@
     "qs_pg:qs_id":1028614,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -322,7 +322,7 @@
         }
     ],
     "wof:id":1125900987,
-    "wof:lastmodified":1563303861,
+    "wof:lastmodified":1566593920,
     "wof:name":"Cherkasy",
     "wof:parent_id":1108815817,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":51.439028,
     "lbl:longitude":24.408324,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Volynska",
     "meso:admin_1":"\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Starovyzhivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":24.415518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Starovyzhivs'kyi"
     ],
@@ -41,9 +44,6 @@
         "Starovyzhivs'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u0421\u0442\u0430\u0440\u043e\u0432\u0438\u0436\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u0421\u0442\u0430\u0440\u043e\u0432\u0438\u0436\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1121",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Stara Vyzhivka",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088789,
-    "wof:lastmodified":1554317312,
+    "wof:lastmodified":1566591470,
     "wof:name":"Starovyzhivskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

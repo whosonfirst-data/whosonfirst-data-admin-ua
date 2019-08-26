@@ -9,15 +9,18 @@
     "geom:bbox":"23.92746,49.74952,23.92746,49.74952",
     "geom:latitude":49.74952,
     "geom:longitude":23.92746,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1493,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1493,
     "iso:country":"UA",
+    "lbl:bbox":"23.90746,49.72952,23.94746,49.76952",
     "lbl:latitude":49.74952,
     "lbl:longitude":23.92746,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Navaria"
@@ -27,9 +30,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0440\u0456\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Navaria"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":1028514,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1125900701,
-    "wof:lastmodified":1509399383,
+    "wof:lastmodified":1566593918,
     "wof:name":"Navariya",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

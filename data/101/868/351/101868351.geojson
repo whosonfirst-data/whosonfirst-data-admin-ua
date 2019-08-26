@@ -11,12 +11,16 @@
     "geom:longitude":38.476824,
     "gn:population":21307,
     "iso:country":"UA",
+    "lbl:bbox":"38.456824,47.770781,38.496824,47.810781",
     "lbl:latitude":47.790781,
     "lbl:longitude":38.476824,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.790781,
     "mps:longitude":38.476824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0641\u0631\u0648\u0633\u064a\u064a\u064a\u0641\u0643\u0627"
     ],
@@ -117,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donezko-Amwrossijewka"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +150,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":197,
     "wof:belongsto":[
@@ -160,7 +164,6 @@
     "wof:concordances":{
         "gn:id":713504,
         "gp:id":915709,
-        "qs:id":1028650,
         "qs_pg:id":1028650,
         "wd:id":"Q1996358",
         "wk:page":"Amvrosiivka"
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":101868351,
-    "wof:lastmodified":1563302654,
+    "wof:lastmodified":1566593360,
     "wof:name":"\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088577,
     "wof:placetype":"locality",

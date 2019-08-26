@@ -11,12 +11,16 @@
     "geom:longitude":23.981401,
     "gn:population":14251,
     "iso:country":"UA",
+    "lbl:bbox":"23.961401,49.504529,24.001401,49.544529",
     "lbl:latitude":49.524529,
     "lbl:longitude":23.981401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.524529,
     "mps:longitude":23.981401,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:abk_x_preferred":[
         "\u041b\u044c\u0432\u0438\u0432"
     ],
@@ -317,9 +321,6 @@
     "name:ukr_x_variant":[
         "\u041b\u044c\u0432\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Miko\u0142aj\u00f3w"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u06cc\u0648"
     ],
@@ -373,7 +374,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":248,
     "wof:belongsto":[
@@ -385,10 +386,12 @@
     "wof:concordances":{
         "gn:id":702550,
         "gp:id":924943,
-        "qs:id":1028517,
-        "qs_pg:id":1098974,
+        "qs_pg:id":1028517,
         "wd:id":"Q58475",
         "wk:page":"Mykolaiv, Lviv Oblast"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1098974
     },
     "wof:country":"UA",
     "wof:geomhash":"76b1247ced01f733abaec9b3dfeb2cc9",
@@ -401,7 +404,7 @@
         }
     ],
     "wof:id":101861243,
-    "wof:lastmodified":1563302508,
+    "wof:lastmodified":1566593298,
     "wof:name":"\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

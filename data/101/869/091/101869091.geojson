@@ -10,12 +10,16 @@
     "geom:latitude":48.871855,
     "geom:longitude":38.908841,
     "iso:country":"UA",
+    "lbl:bbox":"38.888841,48.851855,38.928841,48.891855",
     "lbl:latitude":48.871855,
     "lbl:longitude":38.908841,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.871855,
     "mps:longitude":38.908841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hretschyschkyne"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u0413\u0440\u0435\u0447\u0438\u0448\u043a\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Grechishkino"
-    ],
     "name:zho_x_preferred":[
         "\u683c\u5217\u5947\u4ec0\u57fa\u6d85"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":708159,
         "gp:id":920571,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4148792"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101869091,
-    "wof:lastmodified":1563302767,
+    "wof:lastmodified":1566593412,
     "wof:name":"\u0413\u0440\u0435\u0447\u0438\u0448\u043a\u0438\u043d\u0435",
     "wof:parent_id":102088867,
     "wof:placetype":"locality",

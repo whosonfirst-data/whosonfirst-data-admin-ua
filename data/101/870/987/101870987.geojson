@@ -10,12 +10,16 @@
     "geom:latitude":49.70964,
     "geom:longitude":35.792233,
     "iso:country":"UA",
+    "lbl:bbox":"35.772233,49.68964,35.812233,49.72964",
     "lbl:latitude":49.70964,
     "lbl:longitude":35.792233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.70964,
     "mps:longitude":35.792233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prosyanoye"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041f\u0440\u043e\u0441\u044f\u043d\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Prosyanoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":696146,
         "gp:id":931828,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"625c9ca052920ff19402882c41fbf4dd",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870987,
-    "wof:lastmodified":1544750901,
+    "wof:lastmodified":1566593566,
     "wof:name":"\u041f\u0440\u043e\u0441\u044f\u043d\u0435",
     "wof:parent_id":102088839,
     "wof:placetype":"locality",

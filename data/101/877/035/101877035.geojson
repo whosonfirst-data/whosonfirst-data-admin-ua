@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":1994552.196632,
+    "geom:area_square_m":1994552.196631,
     "geom:bbox":"39.5096562715,48.6789394137,39.5252810741,48.6983327921",
     "geom:latitude":48.688511,
     "geom:longitude":39.517882,
-    "geonames:id":"702338,811426",
+    "gn:id":"702338,811426",
     "iso:country":"UA",
     "lbl:latitude":48.688636,
     "lbl:longitude":39.517101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.688636,
     "mps:longitude":39.517101,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Luhans'ka",
@@ -32,7 +36,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -42,10 +46,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":925952,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
-    "wof:geomhash":"e9eefbc03980fc6da0793ef2f919498e",
+    "wof:geomhash":"95d5d330583005e1eb9dc090d327ac3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101877035,
-    "wof:lastmodified":1479879096,
+    "wof:lastmodified":1566593574,
     "wof:name":"\u041c\u0430\u043a\u0430\u0440\u043e\u0432\u0435",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

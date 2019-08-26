@@ -10,12 +10,16 @@
     "geom:latitude":44.592018,
     "geom:longitude":33.91322,
     "iso:country":"UA",
+    "lbl:bbox":"33.89322,44.572018,33.93322,44.612018",
     "lbl:latitude":44.592018,
     "lbl:longitude":33.91322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.592018,
     "mps:longitude":33.91322,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Golubinka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":708546,
         "gp:id":924902,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"5bce58f45b0f87d88660b67981dabc8b",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857033,
-    "wof:lastmodified":1544743688,
+    "wof:lastmodified":1566593396,
     "wof:name":"\u0413\u043e\u043b\u0443\u0431\u0438\u043d\u043a\u0430",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.558947,
     "geom:longitude":23.270876,
     "iso:country":"UA",
+    "lbl:bbox":"23.250876,49.538947,23.290876,49.578947",
     "lbl:latitude":49.558947,
     "lbl:longitude":23.270876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.558947,
     "mps:longitude":23.270876,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ukrainische Grammatik"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0431\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babinoye"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6617,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":713028,
         "gp:id":932994,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2474461"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101873161,
-    "wof:lastmodified":1563302253,
+    "wof:lastmodified":1566593194,
     "wof:name":"\u0411\u0430\u0431\u0438\u043d\u0430",
     "wof:parent_id":1108815683,
     "wof:placetype":"locality",

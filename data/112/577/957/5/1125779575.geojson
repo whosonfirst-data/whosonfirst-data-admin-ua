@@ -9,15 +9,18 @@
     "geom:bbox":"30.65478,46.30495,30.65478,46.30495",
     "geom:latitude":46.30495,
     "geom:longitude":30.65478,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":54102,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":54102,
     "iso:country":"UA",
+    "lbl:bbox":"30.63478,46.28495,30.67478,46.32495",
     "lbl:latitude":46.30495,
     "lbl:longitude":30.65478,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0418\u043b\u044c\u0438\u0447\u0435\u0432\u0441\u043a"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043b\u0456\u0447\u0456\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il\u2019ich\u00ebvsk"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":128713,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125779575,
-    "wof:lastmodified":1509391473,
+    "wof:lastmodified":1566593970,
     "wof:name":"Illichivs\u2019k",
     "wof:parent_id":1108730699,
     "wof:placetype":"locality",

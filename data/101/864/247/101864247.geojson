@@ -11,12 +11,16 @@
     "geom:longitude":25.010098,
     "gn:population":4203,
     "iso:country":"UA",
+    "lbl:bbox":"24.990098,51.05155,25.030098,51.09155",
     "lbl:latitude":51.07155,
     "lbl:longitude":25.010098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.07155,
     "mps:longitude":25.010098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0628\u064a"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0431\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kholoby"
     ],
     "name:yid_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":353,
     "wof:belongsto":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":708613,
         "gp:id":920166,
-        "qs:id":128722,
+        "qs_pg:id":128722,
         "wd:id":"Q2470639"
     },
     "wof:country":"UA",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":101864247,
-    "wof:lastmodified":1563303570,
+    "wof:lastmodified":1566593768,
     "wof:name":"\u0413\u043e\u043b\u043e\u0431\u0438",
     "wof:parent_id":102088743,
     "wof:placetype":"locality",

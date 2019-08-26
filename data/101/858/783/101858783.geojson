@@ -10,12 +10,16 @@
     "geom:latitude":45.711598,
     "geom:longitude":34.439375,
     "iso:country":"UA",
+    "lbl:bbox":"34.419375,45.691598,34.459375,45.731598",
     "lbl:latitude":45.711598,
     "lbl:longitude":34.439375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.711598,
     "mps:longitude":34.439375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tarkhanlar"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -68,7 +72,7 @@
         "fct:id":"08285258-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":697024,
         "gp:id":935803,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"68c456005104d7a2b74dc6a4d9bd4787",
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744580,
+    "wof:lastmodified":1566593487,
     "wof:name":"\u041f\u043e\u0431\u0454\u0434\u043d\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

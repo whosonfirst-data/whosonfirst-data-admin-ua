@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.118414,
     "lbl:longitude":22.95147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.118414,
     "mps:longitude":22.95147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Werchnja Jablunka"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u042f\u0431\u043b\u0443\u043d\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnya Yablun\u2019ka"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":689827,
         "gp:id":936589,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4109021"
     },
     "wof:country":"UA",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101876595,
-    "wof:lastmodified":1563303149,
+    "wof:lastmodified":1566593579,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u042f\u0431\u043b\u0443\u043d\u044c\u043a\u0430",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

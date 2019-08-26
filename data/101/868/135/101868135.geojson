@@ -10,12 +10,16 @@
     "geom:latitude":47.394359,
     "geom:longitude":37.067914,
     "iso:country":"UA",
+    "lbl:bbox":"37.047914,47.374359,37.087914,47.414359",
     "lbl:latitude":47.394359,
     "lbl:longitude":37.067914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.394359,
     "mps:longitude":37.067914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0438\u0432\u043a\u0430"
     ],
@@ -61,7 +65,7 @@
     "name:ukr_x_variant":[
         "\u0420\u043e\u0437\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyuksemburg"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":101868135,
-    "wof:lastmodified":1563302589,
+    "wof:lastmodified":1566593332,
     "wof:name":"\u0420\u043e\u0437\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088385,
     "wof:placetype":"locality",

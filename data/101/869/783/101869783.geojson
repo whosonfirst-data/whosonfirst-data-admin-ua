@@ -10,12 +10,16 @@
     "geom:latitude":50.356583,
     "geom:longitude":31.817272,
     "iso:country":"UA",
+    "lbl:bbox":"31.797272,50.336583,31.837272,50.376583",
     "lbl:latitude":50.356583,
     "lbl:longitude":31.817272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.356583,
     "mps:longitude":31.817272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0442\u043d\u044b\u043a\u0456\u045e\u043a\u0430"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u0442\u043d\u0438\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tamarovka"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":691927,
         "gp:id":934672,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4429864"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101869783,
-    "wof:lastmodified":1563302792,
+    "wof:lastmodified":1566593421,
     "wof:name":"\u0421\u043e\u0442\u043d\u0438\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088781,
     "wof:placetype":"locality",

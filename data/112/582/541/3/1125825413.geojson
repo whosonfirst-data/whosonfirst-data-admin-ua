@@ -9,15 +9,18 @@
     "geom:bbox":"24.75,49.18333,24.75,49.18333",
     "geom:latitude":49.18333,
     "geom:longitude":24.75,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2500,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2500,
     "iso:country":"UA",
+    "lbl:bbox":"24.73,49.16333,24.77,49.20333",
     "lbl:latitude":49.18333,
     "lbl:longitude":24.75,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0411\u0456\u043b\u044c\u0448\u044b\u045e\u0446\u044b"
@@ -52,7 +55,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u044c\u0448\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boshovtse"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":128799,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125825413,
-    "wof:lastmodified":1563303928,
+    "wof:lastmodified":1566593943,
     "wof:name":"Bilshivtsi",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

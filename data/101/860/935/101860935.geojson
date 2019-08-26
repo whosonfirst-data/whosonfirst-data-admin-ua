@@ -11,12 +11,16 @@
     "geom:longitude":23.037254,
     "gn:population":7395,
     "iso:country":"UA",
+    "lbl:bbox":"23.017254,49.132745,23.057254,49.172745",
     "lbl:latitude":49.152745,
     "lbl:longitude":23.037254,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.152745,
     "mps:longitude":23.037254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0430"
     ],
@@ -77,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turko"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1042,
     "wof:belongsto":[
@@ -119,7 +123,6 @@
     "wof:concordances":{
         "gn:id":690960,
         "gp:id":936589,
-        "qs:id":128230,
         "qs_pg:id":128230,
         "wd:id":"Q932234",
         "wk:page":"Turka, Ukraine"
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101860935,
-    "wof:lastmodified":1563302891,
+    "wof:lastmodified":1566593464,
     "wof:name":"\u0422\u0443\u0440\u043a\u0430",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

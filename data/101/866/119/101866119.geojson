@@ -11,12 +11,16 @@
     "geom:longitude":33.703357,
     "gn:population":3364,
     "iso:country":"UA",
+    "lbl:bbox":"33.683357,46.926789,33.723357,46.966789",
     "lbl:latitude":46.946789,
     "lbl:longitude":33.703357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.946789,
     "mps:longitude":33.703357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kayiry"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0457\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zapadnyye Kairy"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":707245,
         "gp:id":921465,
-        "qs:id":56440,
+        "qs_pg:id":56440,
         "wd:id":"Q4208554"
     },
     "wof:country":"UA",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101866119,
-    "wof:lastmodified":1563302440,
+    "wof:lastmodified":1566593268,
     "wof:name":"\u041a\u0430\u0457\u0440\u0438",
     "wof:parent_id":102088093,
     "wof:placetype":"locality",

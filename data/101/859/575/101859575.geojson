@@ -10,19 +10,23 @@
     "geom:latitude":48.143466,
     "geom:longitude":23.663982,
     "iso:country":"UA",
+    "lbl:bbox":"23.643982,48.123466,23.683982,48.163466",
     "lbl:latitude":48.143466,
     "lbl:longitude":23.663982,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.143466,
     "mps:longitude":23.663982,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Hrunyky"
     ],
     "name:ukr_x_variant":[
         "\u0413\u0440\u0443\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gruniki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8282294,
         "gp:id":936625,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"ed6106bcf3249c0c1169964590825069",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859575,
-    "wof:lastmodified":1544744984,
+    "wof:lastmodified":1566593225,
     "wof:name":"\u0413\u0440\u0443\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

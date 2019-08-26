@@ -10,12 +10,16 @@
     "geom:latitude":51.013735,
     "geom:longitude":35.2556,
     "iso:country":"UA",
+    "lbl:bbox":"35.2356,50.993735,35.2756,51.033735",
     "lbl:latitude":51.013735,
     "lbl:longitude":35.2556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.013735,
     "mps:longitude":35.2556,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Myropillya"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043e\u043f\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miropol\u2019ye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":701020,
         "gp:id":927181,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"d78c166152e0e9d06640570eb4bfefa6",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101870493,
-    "wof:lastmodified":1544750671,
+    "wof:lastmodified":1566593562,
     "wof:name":"\u041c\u0438\u0440\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088993,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":44.74126,
     "geom:longitude":33.665632,
     "iso:country":"UA",
+    "lbl:bbox":"33.645632,44.72126,33.685632,44.76126",
     "lbl:latitude":44.74126,
     "lbl:longitude":33.665632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.74126,
     "mps:longitude":33.665632,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tenistoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":691723,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"5539aa177bf985b4425c5a76f4333d77",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101857051,
-    "wof:lastmodified":1544743697,
+    "wof:lastmodified":1566593396,
     "wof:name":"\u0422\u0456\u043d\u0438\u0441\u0442\u0435",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

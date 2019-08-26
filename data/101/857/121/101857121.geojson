@@ -10,12 +10,16 @@
     "geom:latitude":45.071903,
     "geom:longitude":33.6685,
     "iso:country":"UA",
+    "lbl:bbox":"33.6485,45.051903,33.6885,45.091903",
     "lbl:latitude":45.071903,
     "lbl:longitude":33.6685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.071903,
     "mps:longitude":33.6685,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ivanovka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":707460,
         "gp:id":927049,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"f55fbc010789e9fa6e6687130682919e",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857121,
-    "wof:lastmodified":1544743733,
+    "wof:lastmodified":1566593390,
     "wof:name":"\u0406\u0432\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

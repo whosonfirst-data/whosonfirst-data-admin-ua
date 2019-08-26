@@ -10,19 +10,23 @@
     "geom:latitude":50.675754,
     "geom:longitude":32.010173,
     "iso:country":"UA",
+    "lbl:bbox":"31.990173,50.655754,32.030173,50.695754",
     "lbl:latitude":50.675754,
     "lbl:longitude":32.010173,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.675754,
     "mps:longitude":32.010173,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Bilorichytsya"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u043e\u0440\u0456\u0447\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vezbokhovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":712555,
         "gp:id":916560,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"45f1329b54ce3a3867250e96cb301f9e",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101870095,
-    "wof:lastmodified":1544750585,
+    "wof:lastmodified":1566593563,
     "wof:name":"\u0411\u0456\u043b\u043e\u0440\u0456\u0447\u0438\u0446\u044f",
     "wof:parent_id":1108815727,
     "wof:placetype":"locality",

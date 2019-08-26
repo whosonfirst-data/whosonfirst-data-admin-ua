@@ -11,12 +11,16 @@
     "geom:longitude":23.709776,
     "gn:population":3845,
     "iso:country":"UA",
+    "lbl:bbox":"23.689776,49.602533,23.729776,49.642533",
     "lbl:latitude":49.622533,
     "lbl:longitude":23.709776,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.622533,
     "mps:longitude":23.709776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0631\u0646\u0648"
     ],
@@ -89,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Komarno"
-    ],
     "name:vie_x_preferred":[
         "Komarno"
     ],
@@ -118,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":437,
     "wof:belongsto":[
@@ -131,7 +132,6 @@
     "wof:concordances":{
         "gn:id":705265,
         "gp:id":924943,
-        "qs:id":128628,
         "qs_pg:id":128628,
         "wd:id":"Q1004265",
         "wk:page":"Komarno, Ukraine"
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":101862475,
-    "wof:lastmodified":1563303406,
+    "wof:lastmodified":1566593699,
     "wof:name":"\u041a\u043e\u043c\u0430\u0440\u043d\u043e",
     "wof:parent_id":102088313,
     "wof:placetype":"locality",

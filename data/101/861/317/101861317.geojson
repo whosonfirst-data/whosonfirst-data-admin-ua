@@ -10,12 +10,16 @@
     "geom:latitude":48.680061,
     "geom:longitude":25.060119,
     "iso:country":"UA",
+    "lbl:bbox":"25.040119,48.660061,25.080119,48.700061",
     "lbl:latitude":48.680061,
     "lbl:longitude":25.060119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.680061,
     "mps:longitude":25.060119,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043c\u044b\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0438\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhukotyn"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":266,
     "wof:belongsto":[
         102191581,
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":687040,
         "gp:id":937222,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1035599"
     },
     "wof:country":"UA",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101861317,
-    "wof:lastmodified":1563302582,
+    "wof:lastmodified":1566593329,
     "wof:name":"\u0416\u0443\u043a\u043e\u0442\u0438\u043d",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

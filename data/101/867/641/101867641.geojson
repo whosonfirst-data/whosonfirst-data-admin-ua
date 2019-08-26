@@ -11,12 +11,16 @@
     "geom:longitude":33.171271,
     "gn:population":4777,
     "iso:country":"UA",
+    "lbl:bbox":"33.151271,48.494045,33.191271,48.534045",
     "lbl:latitude":48.514045,
     "lbl:longitude":33.171271,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.514045,
     "mps:longitude":33.171271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Novyy Starodub"
     ],
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u0421\u0442\u0430\u0440\u043e\u0434\u0443\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo-Starodub"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":698869,
         "gp:id":920209,
-        "qs:id":1028501,
+        "qs_pg:id":1028501,
         "wd:id":"Q4069131"
     },
     "wof:country":"UA",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101867641,
-    "wof:lastmodified":1563303039,
+    "wof:lastmodified":1566593528,
     "wof:name":"\u041d\u043e\u0432\u0438\u0439 \u0421\u0442\u0430\u0440\u043e\u0434\u0443\u0431",
     "wof:parent_id":102088417,
     "wof:placetype":"locality",

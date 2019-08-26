@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":49.225141,
     "lbl:longitude":28.475104,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.225141,
     "mps:longitude":28.475104,
     "mz:hierarchy_label":1,
@@ -264,9 +266,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Vinnitsa"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u0646\u06cc\u062a\u0633\u06cc\u0627"
     ],
@@ -391,7 +390,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2063,
     "wof:belongsto":[
@@ -404,7 +403,7 @@
     "wof:concordances":{
         "gn:id":689558,
         "gp:id":937883,
-        "qs:id":1028355,
+        "qs_pg:id":1028355,
         "wd:id":"Q157144",
         "wk:page":"Vinnytsia"
     },
@@ -420,7 +419,7 @@
         }
     ],
     "wof:id":101752843,
-    "wof:lastmodified":1563302189,
+    "wof:lastmodified":1566593182,
     "wof:name":"\u0412\u0456\u043d\u043d\u0438\u0446\u044f",
     "wof:parent_id":1108815863,
     "wof:placetype":"locality",

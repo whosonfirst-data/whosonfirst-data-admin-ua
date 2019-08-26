@@ -11,12 +11,16 @@
     "geom:longitude":24.247144,
     "gn:population":3004,
     "iso:country":"UA",
+    "lbl:bbox":"24.227144,48.673852,24.267144,48.713852",
     "lbl:latitude":48.693852,
     "lbl:longitude":24.247144,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.693852,
     "mps:longitude":24.247144,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Zapor\u00f2jia"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u0440\u043e\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Porokhi"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":541,
     "wof:belongsto":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":696483,
         "gp:id":931514,
-        "qs:id":1028459,
+        "qs_pg:id":1028459,
         "wd:id":"Q2341483"
     },
     "wof:country":"UA",
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":101859989,
-    "wof:lastmodified":1563302387,
+    "wof:lastmodified":1566593244,
     "wof:name":"\u041f\u043e\u0440\u043e\u0433\u0438",
     "wof:parent_id":102088115,
     "wof:placetype":"locality",

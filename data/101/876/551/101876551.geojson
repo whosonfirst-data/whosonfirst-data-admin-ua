@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.42761,
     "lbl:longitude":26.375743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.42761,
     "mps:longitude":26.375743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khotin Uprising"
     ],
@@ -59,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1195,
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":927770,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2266337"
     },
     "wof:country":"UA",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101876551,
-    "wof:lastmodified":1563303143,
+    "wof:lastmodified":1566593576,
     "wof:name":"\u041d\u0435\u0434\u043e\u0431\u043e\u0457\u0432\u0446\u0456",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

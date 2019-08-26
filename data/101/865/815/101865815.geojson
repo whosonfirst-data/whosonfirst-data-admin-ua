@@ -10,12 +10,16 @@
     "geom:latitude":47.95096,
     "geom:longitude":34.625414,
     "iso:country":"UA",
+    "lbl:bbox":"34.605414,47.93096,34.645414,47.97096",
     "lbl:latitude":47.95096,
     "lbl:longitude":34.625414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.95096,
     "mps:longitude":34.625414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschumaky"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0427\u0443\u043c\u0430\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chumaki"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":257,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":710362,
         "gp:id":918566,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4517992"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101865815,
-    "wof:lastmodified":1561776989,
+    "wof:lastmodified":1566593734,
     "wof:name":"\u0427\u0443\u043c\u0430\u043a\u0438",
     "wof:parent_id":102088361,
     "wof:placetype":"locality",

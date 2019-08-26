@@ -9,15 +9,18 @@
     "geom:bbox":"23.8738,48.14078,23.8738,48.14078",
     "geom:latitude":48.14078,
     "geom:longitude":23.8738,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5627,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5627,
     "iso:country":"UA",
+    "lbl:bbox":"23.8538,48.12078,23.8938,48.16078",
     "lbl:latitude":48.14078,
     "lbl:longitude":23.8738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:hun_x_preferred":[
         "Als\u00f3k\u00e1linfalva"
@@ -28,7 +31,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalini"
     ],
     "qs_pg:aaroncc":"UA",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":128679,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125856529,
-    "wof:lastmodified":1509396256,
+    "wof:lastmodified":1566593957,
     "wof:name":"Kalyny",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

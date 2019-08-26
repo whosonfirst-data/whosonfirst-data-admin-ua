@@ -5,23 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000374,
-    "geom:area_square_m":2891420.680867,
+    "geom:area_square_m":2891420.680869,
     "geom:bbox":"28.7953080056,51.3336991545,28.8248509177,51.3570187419",
     "geom:latitude":51.345266,
     "geom:longitude":28.808359,
     "iso:country":"UA",
     "lbl:latitude":51.346637,
     "lbl:longitude":28.808135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.346637,
     "mps:longitude":28.808135,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Kyrdany"
     ],
     "name:ukr_x_variant":[
         "\u041a\u0438\u0440\u0434\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirdany"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -40,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":705862,
         "gp:id":929962,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"150f8cada8f70fc960c1c5213094843f",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101877063,
-    "wof:lastmodified":1501215623,
+    "wof:lastmodified":1566593571,
     "wof:name":"\u041a\u0438\u0440\u0434\u0430\u043d\u0438",
     "wof:parent_id":102088925,
     "wof:placetype":"locality",

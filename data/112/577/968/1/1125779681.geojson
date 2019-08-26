@@ -9,15 +9,18 @@
     "geom:bbox":"24.55055,48.68517,24.55055,48.68517",
     "geom:latitude":48.68517,
     "geom:longitude":24.55055,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3311,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3311,
     "iso:country":"UA",
+    "lbl:bbox":"24.53055,48.66517,24.57055,48.70517",
     "lbl:latitude":48.68517,
     "lbl:longitude":24.55055,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0641\u064a\u0632\u062f"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0456\u0437\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gvozd"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":128708,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125779681,
-    "wof:lastmodified":1564198026,
+    "wof:lastmodified":1566593970,
     "wof:name":"Hvizd",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

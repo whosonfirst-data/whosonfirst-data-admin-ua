@@ -10,12 +10,16 @@
     "geom:latitude":51.071358,
     "geom:longitude":30.246743,
     "iso:country":"UA",
+    "lbl:bbox":"30.226743,51.051358,30.266743,51.091358",
     "lbl:latitude":51.071358,
     "lbl:longitude":30.246743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.071358,
     "mps:longitude":30.246743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u043d\u0430\u0441\u0442\u0430\u0439\u043f\u0456\u043b\u044c"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "Hornostaypil\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornastaypol\u2019"
     ],
     "name:yid_x_preferred":[
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":708399,
         "gp:id":920346,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q3543790",
         "wk:page":"Hornostaipil"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101871205,
-    "wof:lastmodified":1563303271,
+    "wof:lastmodified":1566593640,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439\u043f\u0456\u043b\u044c",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

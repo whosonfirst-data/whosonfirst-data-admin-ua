@@ -10,12 +10,16 @@
     "geom:latitude":47.788291,
     "geom:longitude":38.611721,
     "iso:country":"UA",
+    "lbl:bbox":"38.591721,47.768291,38.631721,47.808291",
     "lbl:latitude":47.788291,
     "lbl:longitude":38.611721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.788291,
     "mps:longitude":38.611721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bilojariwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u044f\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beloyarovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":712516,
         "gp:id":916593,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4082955"
     },
     "wof:country":"UA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101867221,
-    "wof:lastmodified":1563302982,
+    "wof:lastmodified":1566593505,
     "wof:name":"\u0411\u0456\u043b\u043e\u044f\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088577,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":34.313316,
     "gn:population":8020,
     "iso:country":"UA",
+    "lbl:bbox":"34.293316,49.31252,34.333316,49.35252",
     "lbl:latitude":49.33252,
     "lbl:longitude":34.313316,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.33252,
     "mps:longitude":34.313316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0456 \u0421\u0430\u043d\u0436\u0430\u0440\u044b"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0456 \u0421\u0430\u043d\u0436\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyye Senzhary"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":698927,
         "gp:id":929283,
-        "qs:id":1031607,
+        "qs_pg:id":1031607,
         "wd:id":"Q1992503"
     },
     "wof:country":"UA",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101868725,
-    "wof:lastmodified":1563302632,
+    "wof:lastmodified":1566593351,
     "wof:name":"\u041d\u043e\u0432\u0456 \u0421\u0430\u043d\u0436\u0430\u0440\u0438",
     "wof:parent_id":102088685,
     "wof:placetype":"locality",

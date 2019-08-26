@@ -10,12 +10,16 @@
     "geom:latitude":48.28076,
     "geom:longitude":25.654955,
     "iso:country":"UA",
+    "lbl:bbox":"25.634955,48.26076,25.674955,48.30076",
     "lbl:latitude":48.28076,
     "lbl:longitude":25.654955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.28076,
     "mps:longitude":25.654955,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kostyntsi"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939892,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q19902578"
     },
     "wof:country":"UA",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101859487,
-    "wof:lastmodified":1563302365,
+    "wof:lastmodified":1566593237,
     "wof:name":"\u041a\u043e\u0441\u0442\u0438\u043d\u0446\u0456",
     "wof:parent_id":102088037,
     "wof:placetype":"locality",

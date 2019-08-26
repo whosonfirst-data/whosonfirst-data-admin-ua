@@ -11,8 +11,11 @@
     "geom:longitude":34.403238,
     "gn:population":41731,
     "iso:country":"UA",
+    "lbl:bbox":"34.383238,45.683727,34.423238,45.723727",
     "lbl:latitude":45.703727,
     "lbl:longitude":34.403238,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.703727,
     "mps:longitude":34.403238,
     "mz:hierarchy_label":1,
@@ -164,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0430\u043d\u043a\u043e\u0439"
     ],
-    "name:unk_x_variant":[
-        "Dzhankoi"
-    ],
     "name:vep_x_preferred":[
         "D\u017eankoi"
     ],
@@ -288,7 +288,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":20.0,
     "wd:latitude":45.708611,
@@ -308,7 +308,6 @@
         "fct:id":"0826c4d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":709334,
         "gp:id":919507,
-        "qs:id":909705,
         "qs_pg:id":909705,
         "wd:id":"Q161978",
         "wk:page":"Dzhankoy"
@@ -338,7 +337,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302933,
+    "wof:lastmodified":1566593481,
     "wof:name":"\u0414\u0436\u0430\u043d\u043a\u043e\u0439",
     "wof:parent_id":1108738677,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":48.320554,
     "geom:longitude":32.141234,
     "iso:country":"UA",
+    "lbl:bbox":"32.121234,48.300554,32.161234,48.340554",
     "lbl:latitude":48.320554,
     "lbl:longitude":32.141234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.320554,
     "mps:longitude":32.141234,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chervonovershka"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0432\u0435\u0440\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnovershka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":710545,
         "gp:id":12518294,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"b0b8e5b6c194ca843b5801e042326a87",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101866701,
-    "wof:lastmodified":1544748754,
+    "wof:lastmodified":1566593250,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0432\u0435\u0440\u0448\u043a\u0430",
     "wof:parent_id":102088311,
     "wof:placetype":"locality",

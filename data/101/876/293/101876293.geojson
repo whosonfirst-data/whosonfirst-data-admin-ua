@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":47.761438,
     "lbl:longitude":34.730258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.761438,
     "mps:longitude":34.730258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Myrowe"
     ],
@@ -37,9 +40,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Myrove"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u7f85\u97cb"
     ],
@@ -59,7 +59,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +70,7 @@
     "wof:concordances":{
         "gn:id":701009,
         "gp:id":936162,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4295926"
     },
     "wof:country":"UA",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101876293,
-    "wof:lastmodified":1561776965,
+    "wof:lastmodified":1566593591,
     "wof:name":"\u041c\u0438\u0440\u043e\u0432\u0435",
     "wof:parent_id":102088361,
     "wof:placetype":"locality",

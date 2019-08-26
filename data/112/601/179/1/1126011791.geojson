@@ -9,15 +9,18 @@
     "geom:bbox":"28.86453,49.95643,28.86453,49.95643",
     "geom:latitude":49.95643,
     "geom:longitude":28.86453,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2880,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2880,
     "iso:country":"UA",
+    "lbl:bbox":"28.84453,49.93643,28.88453,49.97643",
     "lbl:latitude":49.95643,
     "lbl:longitude":28.86453,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u0432\u043e\u043d\u044d"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chervonnoye"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +83,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":918417,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126011791,
-    "wof:lastmodified":1563303905,
+    "wof:lastmodified":1566593935,
     "wof:name":"Chervonoye",
     "wof:parent_id":102088599,
     "wof:placetype":"locality",

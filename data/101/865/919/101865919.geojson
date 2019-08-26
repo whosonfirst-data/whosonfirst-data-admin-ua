@@ -10,12 +10,16 @@
     "geom:latitude":48.402617,
     "geom:longitude":34.675691,
     "iso:country":"UA",
+    "lbl:bbox":"34.655691,48.382617,34.695691,48.422617",
     "lbl:latitude":48.402617,
     "lbl:longitude":34.675691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.402617,
     "mps:longitude":34.675691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowotaromske"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":829730,
         "gp:id":928013,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4336044"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101865919,
-    "wof:lastmodified":1561776990,
+    "wof:lastmodified":1566593741,
     "wof:name":"\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435",
     "wof:parent_id":1108815737,
     "wof:placetype":"locality",

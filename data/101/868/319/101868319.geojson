@@ -11,12 +11,16 @@
     "geom:longitude":32.665601,
     "gn:population":11515,
     "iso:country":"UA",
+    "lbl:bbox":"32.645601,49.05616,32.685601,49.09616",
     "lbl:latitude":49.07616,
     "lbl:longitude":32.665601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.07616,
     "mps:longitude":32.665601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "\u00c7igirin"
     ],
@@ -119,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0433\u0438\u0440\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tchighin"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +152,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":498,
     "wof:belongsto":[
@@ -161,7 +165,6 @@
     "wof:concordances":{
         "gn:id":710473,
         "gp:id":918471,
-        "qs:id":128770,
         "qs_pg:id":128770,
         "wd:id":"Q161980",
         "wk:page":"Chyhyryn"
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101868319,
-    "wof:lastmodified":1563302697,
+    "wof:lastmodified":1566593379,
     "wof:name":"\u0427\u0438\u0433\u0438\u0440\u0438\u043d",
     "wof:parent_id":102088553,
     "wof:placetype":"locality",

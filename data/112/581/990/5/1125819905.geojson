@@ -9,15 +9,18 @@
     "geom:bbox":"28.74358,48.53479,28.74358,48.53479",
     "geom:latitude":48.53479,
     "geom:longitude":28.74358,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8443,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":8443,
     "iso:country":"UA",
+    "lbl:bbox":"28.72358,48.51479,28.76358,48.55479",
     "lbl:latitude":48.53479,
     "lbl:longitude":28.74358,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0627\u0628\u0646\u064a\u0627\u0631\u0643\u0627"
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043f\u043d\u044f\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wapnjarka"
-    ],
     "name:zho_x_preferred":[
         "\u74e6\u666e\u5c3c\u4e9e\u723e\u5361"
     ],
@@ -76,7 +76,7 @@
     "qs_pg:qs_id":128218,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125819905,
-    "wof:lastmodified":1563303832,
+    "wof:lastmodified":1566593908,
     "wof:name":"Vapnyarka",
     "wof:parent_id":102088209,
     "wof:placetype":"locality",

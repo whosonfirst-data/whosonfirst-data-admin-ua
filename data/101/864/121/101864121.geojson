@@ -10,12 +10,16 @@
     "geom:latitude":50.83744,
     "geom:longitude":24.301425,
     "iso:country":"UA",
+    "lbl:bbox":"24.281425,50.81744,24.321425,50.85744",
     "lbl:latitude":50.83744,
     "lbl:longitude":24.301425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.83744,
     "mps:longitude":24.301425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zarech\u2019ye"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101864121,
-    "wof:lastmodified":1544747362,
+    "wof:lastmodified":1566593761,
     "wof:name":"\u0417\u0430\u0440\u0456\u0447\u0447\u044f",
     "wof:parent_id":1108815769,
     "wof:placetype":"locality",

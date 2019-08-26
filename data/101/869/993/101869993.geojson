@@ -10,12 +10,16 @@
     "geom:latitude":50.088412,
     "geom:longitude":34.62905,
     "iso:country":"UA",
+    "lbl:bbox":"34.60905,50.068412,34.64905,50.108412",
     "lbl:latitude":50.088412,
     "lbl:longitude":34.62905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.088412,
     "mps:longitude":34.62905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bilsk"
     ],
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":916451,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q248095"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101869993,
-    "wof:lastmodified":1561776944,
+    "wof:lastmodified":1566593425,
     "wof:name":"\u0411\u0456\u043b\u044c\u0441\u044c\u043a",
     "wof:parent_id":102088853,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":33.880154,
     "gn:population":20000,
     "iso:country":"UA",
+    "lbl:bbox":"33.860154,51.313452,33.900154,51.353452",
     "lbl:latitude":51.333452,
     "lbl:longitude":33.880154,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.333452,
     "mps:longitude":33.880154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u064a\u0641\u0644"
     ],
@@ -111,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0438\u0432\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Putivl\u2019"
     ],
     "name:vie_x_preferred":[
@@ -140,7 +144,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":381,
     "wof:belongsto":[
@@ -153,7 +157,6 @@
     "wof:concordances":{
         "gn:id":696008,
         "gp:id":56123389,
-        "qs:id":542425,
         "qs_pg:id":542425,
         "wd:id":"Q1075057",
         "wk:page":"Putyvl"
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101871787,
-    "wof:lastmodified":1563303330,
+    "wof:lastmodified":1566593664,
     "wof:name":"\u041f\u0443\u0442\u0438\u0432\u043b\u044c",
     "wof:parent_id":102089001,
     "wof:placetype":"locality",

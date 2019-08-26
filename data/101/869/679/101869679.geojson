@@ -10,12 +10,16 @@
     "geom:latitude":49.85525,
     "geom:longitude":33.791179,
     "iso:country":"UA",
+    "lbl:bbox":"33.771179,49.83525,33.811179,49.87525",
     "lbl:latitude":49.85525,
     "lbl:longitude":33.791179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.85525,
     "mps:longitude":33.791179,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ustivitsa"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0423\u0441\u0442\u0438\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ustinitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869679,
-    "wof:lastmodified":1544750407,
+    "wof:lastmodified":1566593433,
     "wof:name":"\u0423\u0441\u0442\u0438\u0432\u0438\u0446\u044f",
     "wof:parent_id":102088765,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":48.382106,
     "geom:longitude":25.332193,
     "iso:country":"UA",
+    "lbl:bbox":"25.312193,48.362106,25.352193,48.402106",
     "lbl:latitude":48.382106,
     "lbl:longitude":25.332193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.382106,
     "mps:longitude":25.332193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Popiyel\u2019niki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":696558,
         "gp:id":932578,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"c71c3435149e261ccc2aeb26af3ba32b",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101859825,
-    "wof:lastmodified":1544745117,
+    "wof:lastmodified":1566593237,
     "wof:name":"\u041f\u043e\u043f\u0435\u043b\u044c\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088087,
     "wof:placetype":"locality",

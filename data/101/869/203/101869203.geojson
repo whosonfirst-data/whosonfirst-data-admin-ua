@@ -10,12 +10,16 @@
     "geom:latitude":50.706059,
     "geom:longitude":34.637342,
     "iso:country":"UA",
+    "lbl:bbox":"34.617342,50.686059,34.657342,50.726059",
     "lbl:latitude":50.706059,
     "lbl:longitude":34.637342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.706059,
     "mps:longitude":34.637342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u062c\u0628\u0627"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u0436\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sumskaya Vorozhba"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":688962,
         "gp:id":938436,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q591794"
     },
     "wof:country":"UA",
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101869203,
-    "wof:lastmodified":1563302773,
+    "wof:lastmodified":1566593414,
     "wof:name":"\u0412\u043e\u0440\u043e\u0436\u0431\u0430",
     "wof:parent_id":1108815703,
     "wof:placetype":"locality",

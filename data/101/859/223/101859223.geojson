@@ -10,19 +10,23 @@
     "geom:latitude":48.295976,
     "geom:longitude":23.425171,
     "iso:country":"UA",
+    "lbl:bbox":"23.405171,48.275976,23.445171,48.315976",
     "lbl:latitude":48.295976,
     "lbl:longitude":23.425171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.295976,
     "mps:longitude":23.425171,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Monastyrets\u2019"
     ],
     "name:ukr_x_variant":[
         "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monastyrets"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":700800,
         "gp:id":936939,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"a21014b05310bebfac35ec76b0f4f372",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859223,
-    "wof:lastmodified":1544744803,
+    "wof:lastmodified":1566593236,
     "wof:name":"\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0435\u0446\u044c",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.045489,
     "geom:longitude":37.46385,
     "iso:country":"UA",
+    "lbl:bbox":"37.44385,47.025489,37.48385,47.065489",
     "lbl:latitude":47.045489,
     "lbl:longitude":37.46385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.045489,
     "mps:longitude":37.46385,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Il'ichevskoye"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043b\u0456\u0447\u0456\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peschany"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":707710,
         "gp:id":12518499,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"462bdfb2ca84aaa8915e0383ed5a28c1",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101866997,
-    "wof:lastmodified":1544748925,
+    "wof:lastmodified":1566593253,
     "wof:name":"\u0406\u043b\u043b\u0456\u0447\u0456\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088329,
     "wof:placetype":"locality",

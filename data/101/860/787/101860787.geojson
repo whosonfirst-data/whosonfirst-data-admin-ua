@@ -10,12 +10,16 @@
     "geom:latitude":48.85153,
     "geom:longitude":24.276098,
     "iso:country":"UA",
+    "lbl:bbox":"24.256098,48.83153,24.296098,48.87153",
     "lbl:latitude":48.85153,
     "lbl:longitude":24.276098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.85153,
     "mps:longitude":24.276098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasne"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasna"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":704284,
         "gp:id":930340,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4238640"
     },
     "wof:country":"UA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101860787,
-    "wof:lastmodified":1563302924,
+    "wof:lastmodified":1566593476,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0435",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

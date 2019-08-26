@@ -11,12 +11,16 @@
     "geom:longitude":23.864122,
     "gn:population":6241,
     "iso:country":"UA",
+    "lbl:bbox":"23.844122,49.143774,23.884122,49.183774",
     "lbl:latitude":49.163774,
     "lbl:longitude":23.864122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.163774,
     "mps:longitude":23.864122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Mor\u015f\u0131n"
     ],
@@ -89,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0448\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Morshyn"
-    ],
     "name:vie_x_preferred":[
         "Morshyn"
     ],
@@ -118,7 +119,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":270,
     "wof:belongsto":[
@@ -131,7 +132,6 @@
     "wof:concordances":{
         "gn:id":700753,
         "gp:id":926895,
-        "qs:id":128458,
         "qs_pg:id":128458,
         "wd:id":"Q156592",
         "wk:page":"Morshyn"
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":101861075,
-    "wof:lastmodified":1563302556,
+    "wof:lastmodified":1566593318,
     "wof:name":"\u041c\u043e\u0440\u0448\u0438\u043d",
     "wof:parent_id":1108730643,
     "wof:placetype":"locality",

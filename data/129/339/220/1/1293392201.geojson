@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"32.4419,52.27436,32.4819,52.31436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Medvedivka"
     ],
@@ -32,10 +36,6 @@
         "\u041c\u0435\u0434\u0432\u0435\u0434\u0456\u0432\u043a\u0430",
         "Medvedovka",
         "Medevdovka"
-    ],
-    "name:und_x_variant":[
-        "Medevdovka",
-        "Medvedovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1293392201,
-    "wof:lastmodified":1537710822,
+    "wof:lastmodified":1566591838,
     "wof:name":"Medvedivka",
     "wof:parent_id":102088677,
     "wof:placetype":"locality",

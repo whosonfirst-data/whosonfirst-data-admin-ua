@@ -9,15 +9,18 @@
     "geom:bbox":"28.89234,48.04878,28.89234,48.04878",
     "geom:latitude":48.04878,
     "geom:longitude":28.89234,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4000,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4000,
     "iso:country":"UA",
+    "lbl:bbox":"28.87234,48.02878,28.91234,48.06878",
     "lbl:latitude":48.04878,
     "lbl:longitude":28.89234,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0632\u0627\u0647\u0646\u064a\u062a\u0643\u064a\u0641\u060c \u0623\u0648\u062f\u064a\u0633\u0643\u0627"
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Zahnitkiv"
-    ],
     "name:zho_x_preferred":[
         "\u624e\u683c\u5c3c\u7279\u57fa\u592b"
     ],
@@ -70,7 +70,7 @@
     "qs_pg:qs_id":128168,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125863923,
-    "wof:lastmodified":1563303815,
+    "wof:lastmodified":1566593903,
     "wof:name":"Zagnitkiv",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

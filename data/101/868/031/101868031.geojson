@@ -10,12 +10,16 @@
     "geom:latitude":48.941559,
     "geom:longitude":34.988675,
     "iso:country":"UA",
+    "lbl:bbox":"34.968675,48.921559,35.008675,48.961559",
     "lbl:latitude":48.941559,
     "lbl:longitude":34.988675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.941559,
     "mps:longitude":34.988675,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yel\u00ebnovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Yel\u00ebnovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":688206,
         "gp:id":925938,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"31df7070386f1df90d1157c426773857",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101868031,
-    "wof:lastmodified":1544749507,
+    "wof:lastmodified":1566593347,
     "wof:name":"\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088653,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":50.372343,
     "geom:longitude":33.437829,
     "iso:country":"UA",
+    "lbl:bbox":"33.417829,50.352343,33.457829,50.392343",
     "lbl:latitude":50.372343,
     "lbl:longitude":33.437829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.372343,
     "mps:longitude":33.437829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peski"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041f\u0456\u0441\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Peski"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":524,
     "wof:belongsto":[
         102191581,
@@ -62,7 +63,7 @@
     "wof:concordances":{
         "gn:id":697498,
         "gp:id":930571,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"c1a29c8afa3cfd60f82c7bd353197d38",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":101870009,
-    "wof:lastmodified":1544750554,
+    "wof:lastmodified":1566593551,
     "wof:name":"\u041f\u0456\u0441\u043a\u0438",
     "wof:parent_id":102088865,
     "wof:placetype":"locality",

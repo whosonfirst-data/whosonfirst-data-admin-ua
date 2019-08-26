@@ -9,15 +9,18 @@
     "geom:bbox":"35.34394,50.13322,35.34394,50.13322",
     "geom:latitude":50.13322,
     "geom:longitude":35.34394,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1978,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1978,
     "iso:country":"UA",
+    "lbl:bbox":"35.32394,50.11322,35.36394,50.15322",
     "lbl:latitude":50.13322,
     "lbl:longitude":35.34394,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Huty"
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guty"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:qs_id":128709,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125779693,
-    "wof:lastmodified":1564198027,
+    "wof:lastmodified":1566593971,
     "wof:name":"Huty",
     "wof:parent_id":102088919,
     "wof:placetype":"locality",

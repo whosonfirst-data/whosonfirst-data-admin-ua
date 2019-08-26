@@ -10,13 +10,17 @@
     "geom:latitude":50.076686,
     "geom:longitude":23.929553,
     "iso:country":"UA",
+    "lbl:bbox":"23.909553,50.056686,23.949553,50.096686",
     "lbl:latitude":50.076686,
     "lbl:longitude":23.929553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.076686,
     "mps:longitude":23.929553,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Volya-Vysotskaya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":689070,
         "gp:id":940190,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"8ea186eeb832592d7d39fe5265ef4173",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862615,
-    "wof:lastmodified":1544746575,
+    "wof:lastmodified":1566593701,
     "wof:name":"\u0412\u043e\u043b\u044f-\u0412\u0438\u0441\u043e\u0446\u044c\u043a\u0430",
     "wof:parent_id":102088445,
     "wof:placetype":"locality",

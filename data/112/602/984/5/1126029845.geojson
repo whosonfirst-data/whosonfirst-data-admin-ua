@@ -9,15 +9,18 @@
     "geom:bbox":"31.88714,49.22242,31.88714,49.22242",
     "geom:latitude":49.22242,
     "geom:longitude":31.88714,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":67530,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":67530,
     "iso:country":"UA",
+    "lbl:bbox":"31.86714,49.20242,31.90714,49.24242",
     "lbl:latitude":49.22242,
     "lbl:longitude":31.88714,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0645\u064a\u0644\u0627"
@@ -124,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043c\u0456\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Smila"
-    ],
     "name:vie_x_preferred":[
         "Smila"
     ],
@@ -152,7 +152,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":934304,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":1126029845,
-    "wof:lastmodified":1563303789,
+    "wof:lastmodified":1566593893,
     "wof:name":"Smela",
     "wof:parent_id":1108815811,
     "wof:placetype":"locality",

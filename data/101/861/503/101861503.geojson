@@ -11,12 +11,16 @@
     "geom:longitude":25.727795,
     "gn:population":9749,
     "iso:country":"UA",
+    "lbl:bbox":"25.707795,48.628227,25.747795,48.668227",
     "lbl:latitude":48.648227,
     "lbl:longitude":25.727795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.648227,
     "mps:longitude":25.727795,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0644\u064a\u0634\u062a\u0634\u064a\u0643\u064a"
     ],
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0456\u0449\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zalishchiki"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1065,
     "wof:belongsto":[
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":687826,
         "gp:id":939515,
-        "qs:id":275405,
+        "qs_pg:id":275405,
         "wd:id":"Q213183",
         "wk:page":"Zalishchyky"
     },
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":101861503,
-    "wof:lastmodified":1563302496,
+    "wof:lastmodified":1566593293,
     "wof:name":"\u0417\u0430\u043b\u0456\u0449\u0438\u043a\u0438",
     "wof:parent_id":102088159,
     "wof:placetype":"locality",

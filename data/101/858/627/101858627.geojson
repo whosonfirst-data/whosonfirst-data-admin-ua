@@ -10,12 +10,16 @@
     "geom:latitude":45.522065,
     "geom:longitude":34.068819,
     "iso:country":"UA",
+    "lbl:bbox":"34.048819,45.502065,34.088819,45.542065",
     "lbl:latitude":45.522065,
     "lbl:longitude":34.068819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.522065,
     "mps:longitude":34.068819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karpovka"
     ],
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         85688855,
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":706705,
         "gp:id":12518466,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"31fd7e810ba31ecfa9a5d2ab2fd7ef28",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101858627,
-    "wof:lastmodified":1544744500,
+    "wof:lastmodified":1566593483,
     "wof:name":"\u041a\u0430\u0440\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738579,
     "wof:placetype":"locality",

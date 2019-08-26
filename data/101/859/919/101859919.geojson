@@ -10,13 +10,17 @@
     "geom:latitude":48.692567,
     "geom:longitude":24.643712,
     "iso:country":"UA",
+    "lbl:bbox":"24.623712,48.672567,24.663712,48.712567",
     "lbl:latitude":48.692567,
     "lbl:longitude":24.643712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.692567,
     "mps:longitude":24.643712,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Perersol\u2019"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101859919,
-    "wof:lastmodified":1544745166,
+    "wof:lastmodified":1566593245,
     "wof:name":"\u041f\u0435\u0440\u0435\u0440\u0456\u0441\u043b\u044c",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

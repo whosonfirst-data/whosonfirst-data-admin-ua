@@ -9,15 +9,18 @@
     "geom:bbox":"28.67669,50.26487,28.67669,50.26487",
     "geom:latitude":50.26487,
     "geom:longitude":28.67669,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":282192,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":282192,
     "iso:country":"UA",
+    "lbl:bbox":"28.65669,50.24487,28.69669,50.28487",
     "lbl:latitude":50.26487,
     "lbl:longitude":28.67669,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062c\u064a\u062a\u0648\u0645\u064a\u0631"
@@ -283,9 +286,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
     ],
-    "name:unk_x_variant":[
-        "Jitomir"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u062d\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
@@ -319,7 +319,7 @@
     "qs_pg:qs_id":1028321,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -346,7 +346,7 @@
         }
     ],
     "wof:id":1125900223,
-    "wof:lastmodified":1563303857,
+    "wof:lastmodified":1566593918,
     "wof:name":"Zhytomyr",
     "wof:parent_id":1108815945,
     "wof:placetype":"locality",

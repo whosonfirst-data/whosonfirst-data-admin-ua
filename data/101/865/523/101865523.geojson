@@ -10,12 +10,16 @@
     "geom:latitude":46.82325,
     "geom:longitude":31.405692,
     "iso:country":"UA",
+    "lbl:bbox":"31.385692,46.80325,31.425692,46.84325",
     "lbl:latitude":46.82325,
     "lbl:longitude":31.405692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.82325,
     "mps:longitude":31.405692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Mykolaivs'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":916699,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"fd67ee156b685fbc011c259ce7060541",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101865523,
-    "wof:lastmodified":1544748088,
+    "wof:lastmodified":1566593743,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0435",
     "wof:parent_id":102088033,
     "wof:placetype":"locality",

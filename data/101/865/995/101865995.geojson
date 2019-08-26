@@ -10,12 +10,16 @@
     "geom:latitude":46.384912,
     "geom:longitude":34.540929,
     "iso:country":"UA",
+    "lbl:bbox":"34.520929,46.364912,34.560929,46.404912",
     "lbl:latitude":46.384912,
     "lbl:longitude":34.540929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.384912,
     "mps:longitude":34.540929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u0432\u0430\u0441\u043a\u0435"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u0432\u0430\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozhdestvenka"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":693726,
         "gp:id":934054,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3622626"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101865995,
-    "wof:lastmodified":1563303474,
+    "wof:lastmodified":1566593728,
     "wof:name":"\u0421\u0438\u0432\u0430\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088045,
     "wof:placetype":"locality",

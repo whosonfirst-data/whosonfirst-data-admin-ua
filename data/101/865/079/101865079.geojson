@@ -10,12 +10,16 @@
     "geom:latitude":46.559355,
     "geom:longitude":35.238816,
     "iso:country":"UA",
+    "lbl:bbox":"35.218816,46.539355,35.258816,46.579355",
     "lbl:latitude":46.559355,
     "lbl:longitude":35.238816,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.559355,
     "mps:longitude":35.238816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "X\u00e8liugui"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043b\u044e\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shelyug"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":694232,
         "gp:id":933590,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4522756"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101865079,
-    "wof:lastmodified":1561776986,
+    "wof:lastmodified":1566593719,
     "wof:name":"\u0428\u0435\u043b\u044e\u0433\u0438",
     "wof:parent_id":102088091,
     "wof:placetype":"locality",

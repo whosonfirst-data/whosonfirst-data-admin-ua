@@ -10,12 +10,16 @@
     "geom:latitude":50.460809,
     "geom:longitude":32.404369,
     "iso:country":"UA",
+    "lbl:bbox":"32.384369,50.440809,32.424369,50.480809",
     "lbl:latitude":50.460809,
     "lbl:longitude":32.404369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.460809,
     "mps:longitude":32.404369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Linovitsa"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0438\u043d\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Linovish"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":703049,
         "gp:id":925297,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"c6c3d21179d21076d36437585c1403a8",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871071,
-    "wof:lastmodified":1544750938,
+    "wof:lastmodified":1566593634,
     "wof:name":"\u041b\u0438\u043d\u043e\u0432\u0438\u0446\u044f",
     "wof:parent_id":1108815727,
     "wof:placetype":"locality",

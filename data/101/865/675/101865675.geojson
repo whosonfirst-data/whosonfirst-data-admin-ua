@@ -10,12 +10,16 @@
     "geom:latitude":46.977234,
     "geom:longitude":31.890888,
     "iso:country":"UA",
+    "lbl:bbox":"31.870888,46.957234,31.910888,46.997234",
     "lbl:latitude":46.977234,
     "lbl:longitude":31.890888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.977234,
     "mps:longitude":31.890888,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Olena Sybirjakowa"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":755,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":937228,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4418374"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101865675,
-    "wof:lastmodified":1563303447,
+    "wof:lastmodified":1566593718,
     "wof:name":"\u0412\u0435\u0441\u043d\u044f\u043d\u0435",
     "wof:parent_id":1108815757,
     "wof:placetype":"locality",

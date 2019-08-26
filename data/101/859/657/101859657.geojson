@@ -11,12 +11,16 @@
     "geom:longitude":22.50328,
     "gn:population":3505,
     "iso:country":"UA",
+    "lbl:bbox":"22.48328,48.520279,22.52328,48.560279",
     "lbl:latitude":48.540279,
     "lbl:longitude":22.50328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.540279,
     "mps:longitude":22.50328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044d\u0440\u044d\u0434\u043d\u0435"
     ],
@@ -74,7 +78,7 @@
     "name:ukr_x_variant":[
         "Serednye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seredneye"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":693002,
         "gp:id":937369,
-        "qs:id":128274,
+        "qs_pg:id":128274,
         "wd:id":"Q373730",
         "wk:page":"Serednie"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101859657,
-    "wof:lastmodified":1563302322,
+    "wof:lastmodified":1566593223,
     "wof:name":"\u0421\u0435\u0440\u0435\u0434\u043d\u0454",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

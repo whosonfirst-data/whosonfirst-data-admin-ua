@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.848978,
     "lbl:longitude":37.613867,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":48.848978,
     "mps:longitude":37.613867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Slowiansk"
     ],
@@ -254,7 +257,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043b\u043e\u0432\u044f\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slawjansk"
     ],
     "name:urd_x_preferred":[
@@ -287,7 +290,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.87,
     "wd:longitude":37.625,
@@ -304,7 +307,6 @@
     "wof:concordances":{
         "gn:id":693468,
         "gp:id":934294,
-        "qs:id":128281,
         "qs_pg:id":128281,
         "wd:id":"Q33581",
         "wk:page":"Sloviansk"
@@ -330,7 +332,7 @@
         }
     ],
     "wof:id":101752487,
-    "wof:lastmodified":1563302226,
+    "wof:lastmodified":1566593188,
     "wof:name":"\u0421\u043b\u043e\u0432'\u044f\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108730787,
     "wof:placetype":"locality",

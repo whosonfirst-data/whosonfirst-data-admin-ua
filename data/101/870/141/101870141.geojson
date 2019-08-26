@@ -10,12 +10,16 @@
     "geom:latitude":50.313401,
     "geom:longitude":33.929052,
     "iso:country":"UA",
+    "lbl:bbox":"33.909052,50.293401,33.949052,50.333401",
     "lbl:latitude":50.313401,
     "lbl:longitude":33.929052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.313401,
     "mps:longitude":33.929052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sary"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Sary"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -47,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -59,7 +60,7 @@
     "wof:concordances":{
         "gn:id":694789,
         "gp:id":933060,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"1318446b065e4fc2461b0a91fcc9db01",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":101870141,
-    "wof:lastmodified":1544750596,
+    "wof:lastmodified":1566593566,
     "wof:name":"\u0421\u0430\u0440\u0438",
     "wof:parent_id":102088897,
     "wof:placetype":"locality",

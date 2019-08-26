@@ -10,12 +10,16 @@
     "geom:latitude":46.836385,
     "geom:longitude":36.867688,
     "iso:country":"UA",
+    "lbl:bbox":"36.847688,46.816385,36.887688,46.856385",
     "lbl:latitude":46.836385,
     "lbl:longitude":36.867688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.836385,
     "mps:longitude":36.867688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowopetriwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043f\u0435\u0442\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pyetrovskoye"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":699361,
         "gp:id":934932,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4324891"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101866965,
-    "wof:lastmodified":1563302401,
+    "wof:lastmodified":1566593251,
     "wof:name":"\u041d\u043e\u0432\u043e\u043f\u0435\u0442\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815641,
     "wof:placetype":"locality",

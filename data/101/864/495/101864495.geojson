@@ -10,19 +10,23 @@
     "geom:latitude":51.603157,
     "geom:longitude":24.557725,
     "iso:country":"UA",
+    "lbl:bbox":"24.537725,51.583157,24.577725,51.623157",
     "lbl:latitude":51.603157,
     "lbl:longitude":24.557725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.603157,
     "mps:longitude":24.557725,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Vydranytsya"
     ],
     "name:ukr_x_variant":[
         "\u0412\u0438\u0434\u0440\u0430\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wydranica"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":688784,
         "gp:id":932151,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"678c80ad06988dd315942159a64e6736",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864495,
-    "wof:lastmodified":1544747556,
+    "wof:lastmodified":1566593772,
     "wof:name":"\u0412\u0438\u0434\u0440\u0430\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

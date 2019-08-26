@@ -10,19 +10,23 @@
     "geom:latitude":51.076348,
     "geom:longitude":28.661891,
     "iso:country":"UA",
+    "lbl:bbox":"28.641891,51.056348,28.681891,51.096348",
     "lbl:latitude":51.076348,
     "lbl:longitude":28.661891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.076348,
     "mps:longitude":28.661891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Mykhaylivka"
     ],
     "name:ukr_x_variant":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         102191581,
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":701160,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"d7a0a5e3977f20539a396729f2459f54",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101870905,
-    "wof:lastmodified":1544750865,
+    "wof:lastmodified":1566593558,
     "wof:name":"\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815631,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.014846,
     "geom:longitude":26.361435,
     "iso:country":"UA",
+    "lbl:bbox":"26.341435,48.994846,26.381435,49.034846",
     "lbl:latitude":49.014846,
     "lbl:longitude":26.361435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.014846,
     "mps:longitude":26.361435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0427\u0430\u043c\u044f\u0440\u044b\u045e\u0446\u044b"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043c\u0435\u0440\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chemirovtsy"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":710864,
         "gp:id":918111,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2391379",
         "wk:page":"Chemerivtsi"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101861819,
-    "wof:lastmodified":1561776923,
+    "wof:lastmodified":1566593298,
     "wof:name":"\u0427\u0435\u043c\u0435\u0440\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088243,
     "wof:placetype":"locality",

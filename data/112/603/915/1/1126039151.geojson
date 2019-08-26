@@ -9,14 +9,18 @@
     "geom:bbox":"39.10611,48.43611,39.10611,48.43611",
     "geom:latitude":48.43611,
     "geom:longitude":39.10611,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"39.08611,48.41611,39.12611,48.45611",
     "lbl:latitude":48.43611,
     "lbl:longitude":39.10611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:crh_x_preferred":[
         "Vrubivsk\u0131y"
@@ -45,7 +49,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0440\u0443\u0431\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Voroshilova"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":938558,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
     "woe:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1126039151,
-    "wof:lastmodified":1563303798,
+    "wof:lastmodified":1566593896,
     "wof:name":"Vrubovskiy",
     "wof:parent_id":102088749,
     "wof:placetype":"locality",

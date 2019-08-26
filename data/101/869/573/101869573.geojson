@@ -10,12 +10,16 @@
     "geom:latitude":49.797066,
     "geom:longitude":33.416466,
     "iso:country":"UA",
+    "lbl:bbox":"33.396466,49.777066,33.436466,49.817066",
     "lbl:latitude":49.797066,
     "lbl:longitude":33.416466,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.797066,
     "mps:longitude":33.416466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novoavramovka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u0430\u0432\u0440\u0430\u043c\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Avramovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":699678,
         "gp:id":928228,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"3059f4c6ea2ef383aa5251bc3a6188e4",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869573,
-    "wof:lastmodified":1544750360,
+    "wof:lastmodified":1566593422,
     "wof:name":"\u041d\u043e\u0432\u043e\u0430\u0432\u0440\u0430\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088729,
     "wof:placetype":"locality",

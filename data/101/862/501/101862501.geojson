@@ -11,12 +11,16 @@
     "geom:longitude":24.259977,
     "gn:population":1200,
     "iso:country":"UA",
+    "lbl:bbox":"24.239977,49.712093,24.279977,49.752093",
     "lbl:latitude":49.732093,
     "lbl:longitude":24.259977,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.732093,
     "mps:longitude":24.259977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0417\u0432\u044f\u043d\u0456\u0433\u0430\u0440\u0430\u0434"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Dzvinogrud"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"L'vivs'ka",
@@ -75,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":709295,
         "gp:id":924943,
-        "qs:id":275556,
+        "qs_pg:id":275556,
         "wd:id":"Q2026890",
         "wk:page":"Zvenyhorod"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":101862501,
-    "wof:lastmodified":1563303390,
+    "wof:lastmodified":1566593692,
     "wof:name":"\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.330082,
     "lbl:longitude":26.624269,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Khmelnytska",
     "meso:admin_1":"\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Slavuts'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":26.624269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Slavuts'kyi"
     ],
@@ -41,7 +44,7 @@
         "\u041d\u0435\u0442\u0456\u0448\u0438\u043d\u0441\u044c\u043a\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1175613731,
-    "wof:lastmodified":1555047748,
+    "wof:lastmodified":1566592895,
     "wof:name":"Netishynska",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

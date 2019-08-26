@@ -10,12 +10,16 @@
     "geom:latitude":46.40519,
     "geom:longitude":34.977478,
     "iso:country":"UA",
+    "lbl:bbox":"34.957478,46.38519,34.997478,46.42519",
     "lbl:latitude":46.40519,
     "lbl:longitude":34.977478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.40519,
     "mps:longitude":34.977478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowohryhoriwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0433\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Grigor\u2019yevka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":699582,
         "gp:id":928790,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4323494"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101865631,
-    "wof:lastmodified":1563303497,
+    "wof:lastmodified":1566593739,
     "wof:name":"\u041d\u043e\u0432\u043e\u0433\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

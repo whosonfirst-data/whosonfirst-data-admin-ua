@@ -9,15 +9,18 @@
     "geom:bbox":"35.69512,47.65311,35.69512,47.65311",
     "geom:latitude":47.65311,
     "geom:longitude":35.69512,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3291,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3291,
     "iso:country":"UA",
+    "lbl:bbox":"35.67512,47.63311,35.71512,47.67311",
     "lbl:latitude":47.65311,
     "lbl:longitude":35.69512,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432\u0435"
@@ -28,7 +31,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirovo"
     ],
     "qs_pg:aaroncc":"UA",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":554339,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1126025537,
-    "wof:lastmodified":1509407513,
+    "wof:lastmodified":1566593894,
     "wof:name":"Kirove",
     "wof:parent_id":102088375,
     "wof:placetype":"locality",

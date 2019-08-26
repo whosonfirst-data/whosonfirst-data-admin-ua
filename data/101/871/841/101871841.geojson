@@ -11,12 +11,16 @@
     "geom:longitude":34.130875,
     "gn:population":3031,
     "iso:country":"UA",
+    "lbl:bbox":"34.110875,51.529431,34.150875,51.569431",
     "lbl:latitude":51.549431,
     "lbl:longitude":34.130875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.549431,
     "mps:longitude":34.130875,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shalyhyne"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u0438\u0433\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shalygino"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":694369,
         "gp:id":933455,
-        "qs:id":275443
+        "qs_pg:id":275443
     },
     "wof:country":"UA",
     "wof:geomhash":"69713637b08171dda5b925da0ae83549",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101871841,
-    "wof:lastmodified":1544751280,
+    "wof:lastmodified":1566593650,
     "wof:name":"\u0428\u0430\u043b\u0438\u0433\u0438\u043d\u0435",
     "wof:parent_id":1108815699,
     "wof:placetype":"locality",

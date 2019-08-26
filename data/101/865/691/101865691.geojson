@@ -11,12 +11,16 @@
     "geom:longitude":31.750006,
     "gn:population":4500,
     "iso:country":"UA",
+    "lbl:bbox":"31.730006,47.148703,31.770006,47.188703",
     "lbl:latitude":47.168703,
     "lbl:longitude":31.750006,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.168703,
     "mps:longitude":31.750006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u043b\u0448\u0430\u043d\u0441\u043a\u0435"
     ],
@@ -48,7 +52,7 @@
         "Olshanske",
         "Ol'shans'ke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olshanskiy"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":192,
     "wof:belongsto":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":698510,
         "gp:id":927589,
-        "qs:id":128399,
+        "qs_pg:id":128399,
         "wd:id":"Q3656024"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101865691,
-    "wof:lastmodified":1563303495,
+    "wof:lastmodified":1566593738,
     "wof:name":"\u041e\u043b\u044c\u0448\u0430\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815757,
     "wof:placetype":"locality",

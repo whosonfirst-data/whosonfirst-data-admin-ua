@@ -11,12 +11,16 @@
     "geom:longitude":29.542602,
     "gn:population":4245,
     "iso:country":"UA",
+    "lbl:bbox":"29.522602,48.403392,29.562602,48.443392",
     "lbl:latitude":48.423392,
     "lbl:longitude":29.542602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.423392,
     "mps:longitude":29.542602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Wojtk\u00f3wka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0439\u0442\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chapayevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":710949,
         "gp:id":918036,
-        "qs:id":128779
+        "qs_pg:id":128779
     },
     "wof:country":"UA",
     "wof:geomhash":"15132aab20d08adcd58b418837ebd0b6",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":101866605,
-    "wof:lastmodified":1544748700,
+    "wof:lastmodified":1566593260,
     "wof:name":"\u0412\u0456\u0439\u0442\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088253,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.336624,
     "geom:longitude":37.480072,
     "iso:country":"UA",
+    "lbl:bbox":"37.460072,47.316624,37.500072,47.356624",
     "lbl:latitude":47.336624,
     "lbl:longitude":37.480072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.336624,
     "mps:longitude":37.480072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kremeniwka"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cherdakla"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":704139,
         "gp:id":924164,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1120944"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101867027,
-    "wof:lastmodified":1563303033,
+    "wof:lastmodified":1566593526,
     "wof:name":"\u041a\u0440\u0435\u043c\u0435\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088371,
     "wof:placetype":"locality",

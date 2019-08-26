@@ -9,15 +9,18 @@
     "geom:bbox":"34.31287,51.15016,34.31287,51.15016",
     "geom:latitude":51.15016,
     "geom:longitude":34.31287,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17824,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":17824,
     "iso:country":"UA",
+    "lbl:bbox":"34.29287,51.13016,34.33287,51.17016",
     "lbl:latitude":51.15016,
     "lbl:longitude":34.31287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0628\u064a\u0644\u064a\u0627"
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belopol\u2019ye"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:qs_id":128834,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1125779891,
-    "wof:lastmodified":1563304015,
+    "wof:lastmodified":1566593975,
     "wof:name":"Bilopillya",
     "wof:parent_id":102088995,
     "wof:placetype":"locality",

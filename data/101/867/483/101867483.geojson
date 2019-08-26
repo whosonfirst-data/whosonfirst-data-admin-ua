@@ -11,12 +11,16 @@
     "geom:longitude":30.436379,
     "gn:population":2460,
     "iso:country":"UA",
+    "lbl:bbox":"30.416379,48.681653,30.456379,48.721653",
     "lbl:latitude":48.701653,
     "lbl:longitude":30.436379,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.701653,
     "mps:longitude":30.436379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0627\u0646\u0643\u0627"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babynka"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -101,7 +105,6 @@
     "wof:concordances":{
         "gn:id":713055,
         "gp:id":916125,
-        "qs:id":275615,
         "qs_pg:id":275615,
         "wd:id":"Q74487",
         "wk:page":"Babanka"
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101867483,
-    "wof:lastmodified":1563302983,
+    "wof:lastmodified":1566593505,
     "wof:name":"\u0411\u0430\u0431\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088345,
     "wof:placetype":"locality",

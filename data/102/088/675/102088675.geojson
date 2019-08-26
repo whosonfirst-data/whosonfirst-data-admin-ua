@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.276945,
     "lbl:longitude":29.502735,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zhytomyrska",
     "meso:admin_1":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Brusylivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":29.504573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0411\u0440\u0443\u0441\u044b\u043b\u0456\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -83,9 +86,6 @@
         "\u0411\u0440\u0443\u0441\u0438\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
         "\u0411\u0440\u0443\u0441\u0438\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0440\u0443\u0441\u0438\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Brusyliv"
     ],
@@ -108,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"626",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Brusyliv",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":102088675,
-    "wof:lastmodified":1563299467,
+    "wof:lastmodified":1566591339,
     "wof:name":"Brusylivskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

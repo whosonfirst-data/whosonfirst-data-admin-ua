@@ -9,15 +9,18 @@
     "geom:bbox":"28.48097,49.23278,28.48097,49.23278",
     "geom:latitude":49.23278,
     "geom:longitude":28.48097,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":352115,
+    "gn:country":"UA",
+    "gn:fcode":"PPLA",
     "gn:population":352115,
     "iso:country":"UA",
+    "lbl:bbox":"28.46097,49.21278,28.50097,49.25278",
     "lbl:latitude":49.23278,
     "lbl:longitude":28.48097,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Winnitsja"
@@ -265,9 +268,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Vinnitsa"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u0646\u06cc\u062a\u0633\u06cc\u0627"
     ],
@@ -304,7 +304,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":937883,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":1125900325,
-    "wof:lastmodified":1563303871,
+    "wof:lastmodified":1566593923,
     "wof:name":"Vinnytsya",
     "wof:parent_id":1108815863,
     "wof:placetype":"locality",

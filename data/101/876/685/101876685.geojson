@@ -12,17 +12,20 @@
     "iso:country":"UA",
     "lbl:latitude":49.306645,
     "lbl:longitude":23.389405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.306645,
     "mps:longitude":23.389405,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Popeli"
     ],
     "name:ukr_x_variant":[
         "\u041f\u043e\u043f\u0435\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Popele"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":696561,
         "gp:id":917394,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"6b0e9e91ead0ac87551f86abdf6abb95",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101876685,
-    "wof:lastmodified":1501215483,
+    "wof:lastmodified":1566593608,
     "wof:name":"\u041f\u043e\u043f\u0435\u043b\u0456",
     "wof:parent_id":1108815671,
     "wof:placetype":"locality",

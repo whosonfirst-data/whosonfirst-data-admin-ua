@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.709564,
     "lbl:longitude":34.662553,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dnipropetrovska",
     "meso:admin_1":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Petrykivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":34.616536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Petrykivs'kyi"
     ],
@@ -41,9 +44,6 @@
         "Petrykivs'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"928",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Petrykivka",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088567,
-    "wof:lastmodified":1554317305,
+    "wof:lastmodified":1566591325,
     "wof:name":"Petrykivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

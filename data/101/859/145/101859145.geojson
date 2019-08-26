@@ -10,12 +10,16 @@
     "geom:latitude":48.219907,
     "geom:longitude":22.996267,
     "iso:country":"UA",
+    "lbl:bbox":"22.976267,48.199907,23.016267,48.239907",
     "lbl:latitude":48.219907,
     "lbl:longitude":22.996267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.219907,
     "mps:longitude":22.996267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Onok"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Onik"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":698484,
         "gp:id":937361,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q738374"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101859145,
-    "wof:lastmodified":1561776909,
+    "wof:lastmodified":1566593224,
     "wof:name":"\u041e\u043d\u043e\u043a",
     "wof:parent_id":102087991,
     "wof:placetype":"locality",

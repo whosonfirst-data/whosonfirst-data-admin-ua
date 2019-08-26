@@ -10,8 +10,10 @@
     "geom:latitude":50.469649,
     "geom:longitude":30.432503,
     "iso:country":"UA",
+    "lbl:bbox":"30.4275025053,50.4646489823,30.4375025053,50.4746489823",
     "lbl:latitude":50.469649,
     "lbl:longitude":30.432503,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0435\u0439\u043a\u0456\u0432"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108945193,
-    "wof:lastmodified":1500072243,
+    "wof:lastmodified":1566592888,
     "wof:name":"Voleikiv",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

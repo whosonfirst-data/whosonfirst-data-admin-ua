@@ -10,12 +10,16 @@
     "geom:latitude":48.089126,
     "geom:longitude":23.731062,
     "iso:country":"UA",
+    "lbl:bbox":"23.711062,48.069126,23.751062,48.109126",
     "lbl:latitude":48.089126,
     "lbl:longitude":23.731062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.089126,
     "mps:longitude":23.731062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0643\u064a\u0641\u062a\u0633\u064a"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u0445\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vil\u2019khivtsi"
     ],
     "name:yid_x_preferred":[
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":698543,
         "gp:id":935957,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q254366"
     },
     "wof:country":"UA",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101859569,
-    "wof:lastmodified":1563302284,
+    "wof:lastmodified":1566593207,
     "wof:name":"\u0412\u0456\u043b\u044c\u0445\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":51.25691,
     "geom:longitude":32.327055,
     "iso:country":"UA",
+    "lbl:bbox":"32.307055,51.23691,32.347055,51.27691",
     "lbl:latitude":51.25691,
     "lbl:longitude":32.327055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.25691,
     "mps:longitude":32.327055,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Al\u00ebnovka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olenovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":713537,
         "gp:id":929590,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"82e627015d99e457514762134948b173",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871485,
-    "wof:lastmodified":1544751122,
+    "wof:lastmodified":1566593632,
     "wof:name":"\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088977,
     "wof:placetype":"locality",

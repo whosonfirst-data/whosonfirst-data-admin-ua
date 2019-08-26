@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.627621,
     "lbl:longitude":38.530301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Luhanska",
     "meso:admin_1":"\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"n.a. ( 182)",
@@ -34,6 +36,7 @@
     "mps:longitude":38.530301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "n.a. ( 182)"
     ],
@@ -41,7 +44,7 @@
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108730795,
-    "wof:lastmodified":1555047738,
+    "wof:lastmodified":1566592802,
     "wof:name":"Pervomaiska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

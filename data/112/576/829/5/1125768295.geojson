@@ -9,15 +9,18 @@
     "geom:bbox":"24.43908,48.34929,24.43908,48.34929",
     "geom:latitude":48.34929,
     "geom:longitude":24.43908,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":615,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":615,
     "iso:country":"UA",
+    "lbl:bbox":"24.41908,48.32929,24.45908,48.36929",
     "lbl:latitude":48.34929,
     "lbl:longitude":24.43908,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:pol_x_preferred":[
         "Polanica"
@@ -31,7 +34,7 @@
     "name:ukr_x_variant":[
         "\u041f\u0430\u043b\u044f\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polyanitsa"
     ],
     "qs_pg:aaroncc":"UA",
@@ -46,7 +49,7 @@
     "qs_pg:qs_id":82867,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1125768295,
-    "wof:lastmodified":1509390831,
+    "wof:lastmodified":1566593944,
     "wof:name":"Palyanytsya",
     "wof:parent_id":1108730825,
     "wof:placetype":"locality",

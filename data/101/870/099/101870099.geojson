@@ -10,12 +10,16 @@
     "geom:latitude":49.982389,
     "geom:longitude":34.969869,
     "iso:country":"UA",
+    "lbl:bbox":"34.949869,49.962389,34.989869,50.002389",
     "lbl:latitude":49.982389,
     "lbl:longitude":34.969869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.982389,
     "mps:longitude":34.969869,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolontayev"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u043b\u043e\u043d\u0442\u0430\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolantayev"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":705302,
         "gp:id":923239,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"8d97b1ffbb97241604834ba610b3f97e",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101870099,
-    "wof:lastmodified":1544750586,
+    "wof:lastmodified":1566593551,
     "wof:name":"\u041a\u043e\u043b\u043e\u043d\u0442\u0430\u0457\u0432",
     "wof:parent_id":1108815731,
     "wof:placetype":"locality",

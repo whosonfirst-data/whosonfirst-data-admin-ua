@@ -10,19 +10,23 @@
     "geom:latitude":50.182855,
     "geom:longitude":26.882096,
     "iso:country":"UA",
+    "lbl:bbox":"26.862096,50.162855,26.902096,50.202855",
     "lbl:latitude":50.182855,
     "lbl:longitude":26.882096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.182855,
     "mps:longitude":26.882096,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Radoshivka"
     ],
     "name:ukr_x_variant":[
         "\u0420\u0430\u0434\u043e\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radosh\u00ebvka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":695908,
         "gp:id":921410,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"81e2940a6d12288e261b50834243f1f7",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101862771,
-    "wof:lastmodified":1544746654,
+    "wof:lastmodified":1566593688,
     "wof:name":"\u0420\u0430\u0434\u043e\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088547,
     "wof:placetype":"locality",

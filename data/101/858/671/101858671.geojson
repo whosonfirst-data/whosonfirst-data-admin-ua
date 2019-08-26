@@ -10,12 +10,16 @@
     "geom:latitude":45.496024,
     "geom:longitude":33.612783,
     "iso:country":"UA",
+    "lbl:bbox":"33.592783,45.476024,33.632783,45.516024",
     "lbl:latitude":45.496024,
     "lbl:longitude":33.612783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.496024,
     "mps:longitude":33.612783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kormovoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":704960,
         "gp:id":929045,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"56016136a51c73ee7362c08b1644f826",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858671,
-    "wof:lastmodified":1544744522,
+    "wof:lastmodified":1566593490,
     "wof:name":"\u041a\u043e\u0440\u043c\u043e\u0432\u0435",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

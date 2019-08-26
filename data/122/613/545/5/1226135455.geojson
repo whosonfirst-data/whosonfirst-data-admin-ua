@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"37.16209,47.14833,37.20209,47.18833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boyevoye"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0411\u043e\u0439\u043e\u0432\u0435"
-    ],
-    "name:und_x_variant":[
-        "Boyevoye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1226135455,
-    "wof:lastmodified":1537711310,
+    "wof:lastmodified":1566594540,
     "wof:name":"Boyove",
     "wof:parent_id":102088371,
     "wof:placetype":"locality",

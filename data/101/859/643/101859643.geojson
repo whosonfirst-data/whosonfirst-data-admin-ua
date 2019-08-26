@@ -11,12 +11,16 @@
     "geom:longitude":22.384271,
     "gn:population":1032,
     "iso:country":"UA",
+    "lbl:bbox":"22.364271,48.652412,22.404271,48.692412",
     "lbl:latitude":48.672412,
     "lbl:longitude":22.384271,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.672412,
     "mps:longitude":22.384271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nevyts'ke"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_variant":[
         "\u041d\u0435\u0432\u0438\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nevitske"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":188,
     "wof:belongsto":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":700250,
         "gp:id":936939,
-        "qs:id":82938,
+        "qs_pg:id":82938,
         "wd:id":"Q722984"
     },
     "wof:country":"UA",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101859643,
-    "wof:lastmodified":1563302300,
+    "wof:lastmodified":1566593214,
     "wof:name":"\u041d\u0435\u0432\u0438\u0446\u044c\u043a\u0435",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

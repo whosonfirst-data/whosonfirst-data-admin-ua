@@ -10,19 +10,23 @@
     "geom:latitude":50.982694,
     "geom:longitude":34.819197,
     "iso:country":"UA",
+    "lbl:bbox":"34.799197,50.962694,34.839197,51.002694",
     "lbl:latitude":50.982694,
     "lbl:longitude":34.819197,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.982694,
     "mps:longitude":34.819197,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Pishchane"
     ],
     "name:ukr_x_variant":[
         "\u041f\u0456\u0449\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peschanaya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":697520,
         "gp:id":930546,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"83039cfb187230592803352c4d97e0d5",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101870519,
-    "wof:lastmodified":1544750683,
+    "wof:lastmodified":1566593553,
     "wof:name":"\u041f\u0456\u0449\u0430\u043d\u0435",
     "wof:parent_id":1108730669,
     "wof:placetype":"locality",

@@ -11,19 +11,23 @@
     "geom:longitude":23.16735,
     "gn:population":4544,
     "iso:country":"UA",
+    "lbl:bbox":"23.14735,48.191087,23.18735,48.231087",
     "lbl:latitude":48.211087,
     "lbl:longitude":23.16735,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.211087,
     "mps:longitude":23.16735,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0420\u043e\u043a\u043e\u0441\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043a\u043e\u0441\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rokosiv"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":695515,
         "gp:id":923594,
-        "qs:id":1028437
+        "qs_pg:id":1028437
     },
     "wof:country":"UA",
     "wof:geomhash":"c988005bfe7d04c5a59b428a215b5f9b",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101859261,
-    "wof:lastmodified":1544744822,
+    "wof:lastmodified":1566593219,
     "wof:name":"\u0420\u043e\u043a\u043e\u0441\u043e\u0432\u043e",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.85609,49.26223,23.85609,49.26223",
     "geom:latitude":49.26223,
     "geom:longitude":23.85609,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":61404,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":61404,
     "iso:country":"UA",
+    "lbl:bbox":"23.83609,49.24223,23.87609,49.28223",
     "lbl:latitude":49.26223,
     "lbl:longitude":23.85609,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u064a"
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stry"
     ],
     "name:vie_x_preferred":[
@@ -184,7 +187,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":935340,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":1125928281,
-    "wof:lastmodified":1563303772,
+    "wof:lastmodified":1566593886,
     "wof:name":"Stryy",
     "wof:parent_id":1108730639,
     "wof:placetype":"locality",

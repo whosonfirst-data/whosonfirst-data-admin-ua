@@ -9,14 +9,18 @@
     "geom:bbox":"40.134432,49.372112,40.134432,49.372112",
     "geom:latitude":49.372112,
     "geom:longitude":40.134432,
-    "geonames:id":"701104,815376",
+    "gn:id":"701104,815376",
     "iso:country":"UA",
+    "lbl:bbox":"40.114432,49.352112,40.154432,49.392112",
     "lbl:latitude":49.372112,
     "lbl:longitude":40.134432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.372112,
     "mps:longitude":40.134432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041c\u0435\u043b\u0430\u0432\u0430\u0435"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Melovoy"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":221,
     "wof:belongsto":[
         102191581,
@@ -106,9 +110,11 @@
     "wof:concordances":{
         "gn:id":701104,
         "gp:id":927103,
-        "qs:id":7,
-        "qs_pg:id":1028528,
+        "qs_pg:id":7,
         "wd:id":"Q290569"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028528
     },
     "wof:country":"UA",
     "wof:geomhash":"a94e357744f9f23d99ce38df68a3ab85",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":101870429,
-    "wof:lastmodified":1563303114,
+    "wof:lastmodified":1566593560,
     "wof:name":"\u041c\u0456\u043b\u043e\u0432\u0435",
     "wof:parent_id":102088969,
     "wof:placetype":"locality",

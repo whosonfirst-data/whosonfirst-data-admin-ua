@@ -10,12 +10,16 @@
     "geom:latitude":44.697288,
     "geom:longitude":33.830442,
     "iso:country":"UA",
+    "lbl:bbox":"33.810442,44.677288,33.850442,44.717288",
     "lbl:latitude":44.697288,
     "lbl:longitude":33.830442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.697288,
     "mps:longitude":33.830442,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turgenevka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":690973,
         "gp:id":924902,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"d5ea885dd8a662cc8d315b7b35419784",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857047,
-    "wof:lastmodified":1544743695,
+    "wof:lastmodified":1566593386,
     "wof:name":"\u0422\u0443\u0440\u0433\u0435\u043d\u0454\u0432\u043a\u0430",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

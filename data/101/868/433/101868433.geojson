@@ -10,12 +10,16 @@
     "geom:latitude":48.999107,
     "geom:longitude":33.481573,
     "iso:country":"UA",
+    "lbl:bbox":"33.461573,48.979107,33.501573,49.019107",
     "lbl:latitude":48.999107,
     "lbl:longitude":33.481573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.999107,
     "mps:longitude":33.481573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sadki"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0421\u0430\u0434\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Sadki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":694973,
         "gp:id":924309,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4404577"
     },
     "wof:country":"UA",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":101868433,
-    "wof:lastmodified":1561776936,
+    "wof:lastmodified":1566593372,
     "wof:name":"\u0421\u0430\u0434\u043a\u0438",
     "wof:parent_id":1108815685,
     "wof:placetype":"locality",

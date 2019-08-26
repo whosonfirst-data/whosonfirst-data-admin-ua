@@ -11,12 +11,16 @@
     "geom:longitude":26.600623,
     "gn:population":17086,
     "iso:country":"UA",
+    "lbl:bbox":"26.580623,49.142302,26.620623,49.182302",
     "lbl:latitude":49.162302,
     "lbl:longitude":26.600623,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.162302,
     "mps:longitude":26.600623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0648\u062f\u0648\u0643"
     ],
@@ -83,9 +87,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Gorodok"
-    ],
     "name:vie_x_preferred":[
         "Horodok"
     ],
@@ -113,7 +114,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -127,7 +128,6 @@
         "gn:id":707752,
         "gp:id":920968,
         "loc:id":"n83149334",
-        "qs:id":1085133,
         "qs_pg:id":1085133,
         "wd:id":"Q219856",
         "wk:page":"Horodok, Khmelnytskyi Oblast"
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":101862447,
-    "wof:lastmodified":1563303349,
+    "wof:lastmodified":1566593673,
     "wof:name":"\u0413\u043e\u0440\u043e\u0434\u043e\u043a",
     "wof:parent_id":102088337,
     "wof:placetype":"locality",

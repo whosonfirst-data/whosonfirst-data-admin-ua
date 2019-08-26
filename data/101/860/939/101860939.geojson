@@ -10,12 +10,16 @@
     "geom:latitude":48.959443,
     "geom:longitude":24.887445,
     "iso:country":"UA",
+    "lbl:bbox":"24.867445,48.939443,24.907445,48.979443",
     "lbl:latitude":48.959443,
     "lbl:longitude":24.887445,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.959443,
     "mps:longitude":24.887445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Olszanica"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":921237,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"e75a0ce5717b09e07ad82d261c7a5a8b",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101860939,
-    "wof:lastmodified":1544745702,
+    "wof:lastmodified":1566593449,
     "wof:name":"\u0412\u0456\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

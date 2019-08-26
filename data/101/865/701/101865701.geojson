@@ -11,12 +11,16 @@
     "geom:longitude":33.373283,
     "gn:population":3363,
     "iso:country":"UA",
+    "lbl:bbox":"33.353283,46.620419,33.393283,46.660419",
     "lbl:latitude":46.640419,
     "lbl:longitude":33.373283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.640419,
     "mps:longitude":33.373283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chornyanka"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043d\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernen\u2019ka"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":710653,
         "gp:id":918306,
-        "qs:id":275574,
+        "qs_pg:id":275574,
         "wd:id":"Q4514508"
     },
     "wof:country":"UA",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101865701,
-    "wof:lastmodified":1563303440,
+    "wof:lastmodified":1566593715,
     "wof:name":"\u0427\u043e\u0440\u043d\u044f\u043d\u043a\u0430",
     "wof:parent_id":1108815711,
     "wof:placetype":"locality",

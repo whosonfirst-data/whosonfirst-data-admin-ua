@@ -9,15 +9,18 @@
     "geom:bbox":"35.10881,47.18418,35.10881,47.18418",
     "geom:latitude":47.18418,
     "geom:longitude":35.10881,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2975,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2975,
     "iso:country":"UA",
+    "lbl:bbox":"35.08881,47.16418,35.12881,47.20418",
     "lbl:latitude":47.18418,
     "lbl:longitude":35.10881,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Tymoshivka"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u043c\u043e\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Timosh\u00ebvka"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":128246,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125779027,
-    "wof:lastmodified":1563304006,
+    "wof:lastmodified":1566593972,
     "wof:name":"Tymoshivka",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

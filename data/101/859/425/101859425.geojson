@@ -10,12 +10,16 @@
     "geom:latitude":48.411085,
     "geom:longitude":22.996432,
     "iso:country":"UA",
+    "lbl:bbox":"22.976432,48.391085,23.016432,48.431085",
     "lbl:latitude":48.411085,
     "lbl:longitude":22.996432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.411085,
     "mps:longitude":22.996432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chornii Potik"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043d\u0438\u0439 \u041f\u043e\u0442\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chornyy Potik"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":710625,
         "gp:id":936939,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q820129"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101859425,
-    "wof:lastmodified":1563302303,
+    "wof:lastmodified":1566593215,
     "wof:name":"\u0427\u043e\u0440\u043d\u0438\u0439 \u041f\u043e\u0442\u0456\u043a",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

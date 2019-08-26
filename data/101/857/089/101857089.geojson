@@ -10,12 +10,16 @@
     "geom:latitude":45.047987,
     "geom:longitude":34.082661,
     "iso:country":"UA",
+    "lbl:bbox":"34.062661,45.027987,34.102661,45.067987",
     "lbl:latitude":45.047987,
     "lbl:longitude":34.082661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.047987,
     "mps:longitude":34.082661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sonjatschne"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         85688855,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":6981547,
         "gp:id":933992,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"696a052186fef7629fa5e86994c521df",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101857089,
-    "wof:lastmodified":1544743717,
+    "wof:lastmodified":1566593392,
     "wof:name":"\u0421\u043e\u043d\u044f\u0447\u043d\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

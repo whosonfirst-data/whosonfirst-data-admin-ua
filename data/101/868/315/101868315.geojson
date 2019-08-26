@@ -10,12 +10,16 @@
     "geom:latitude":49.244517,
     "geom:longitude":32.493582,
     "iso:country":"UA",
+    "lbl:bbox":"32.473582,49.224517,32.513582,49.264517",
     "lbl:latitude":49.244517,
     "lbl:longitude":32.493582,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.244517,
     "mps:longitude":32.493582,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borovitsa"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borovytsya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":711608,
         "gp:id":936189,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"28b379368b211293aaca0a222b0b03a5",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101868315,
-    "wof:lastmodified":1544749666,
+    "wof:lastmodified":1566593354,
     "wof:name":"\u0411\u043e\u0440\u043e\u0432\u0438\u0446\u044f",
     "wof:parent_id":102088553,
     "wof:placetype":"locality",

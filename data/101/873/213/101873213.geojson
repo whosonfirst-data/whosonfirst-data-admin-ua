@@ -10,12 +10,16 @@
     "geom:latitude":51.202442,
     "geom:longitude":30.311257,
     "iso:country":"UA",
+    "lbl:bbox":"30.291257,51.182442,30.331257,51.222442",
     "lbl:latitude":51.202442,
     "lbl:longitude":30.311257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.202442,
     "mps:longitude":30.311257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043f\u0430\u0447\u044b\u0447\u044b"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "Opachychi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Opachitsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         102191581,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101873213,
-    "wof:lastmodified":1563302265,
+    "wof:lastmodified":1566593199,
     "wof:name":"\u041e\u043f\u0430\u0447\u0438\u0447\u0456",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

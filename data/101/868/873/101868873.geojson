@@ -11,12 +11,16 @@
     "geom:longitude":34.866447,
     "gn:population":3999,
     "iso:country":"UA",
+    "lbl:bbox":"34.846447,49.423339,34.886447,49.463339",
     "lbl:latitude":49.443339,
     "lbl:longitude":34.866447,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.443339,
     "mps:longitude":34.866447,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mashivka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mashevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":701637,
         "gp:id":926612,
-        "qs:id":128485
+        "qs_pg:id":128485
     },
     "wof:country":"UA",
     "wof:geomhash":"22b8ae058ad470bce7565315df9cad74",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101868873,
-    "wof:lastmodified":1544749979,
+    "wof:lastmodified":1566593341,
     "wof:name":"\u041c\u0430\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088733,
     "wof:placetype":"locality",

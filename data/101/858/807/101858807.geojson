@@ -10,12 +10,16 @@
     "geom:latitude":45.815358,
     "geom:longitude":34.592061,
     "iso:country":"UA",
+    "lbl:bbox":"34.572061,45.795358,34.612061,45.835358",
     "lbl:latitude":45.815358,
     "lbl:longitude":34.592061,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.815358,
     "mps:longitude":34.592061,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:crh_x_historical":[
         "Tarqanlar"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":710904,
         "gp:id":12518436,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"b6651ac5661082b599bd4321bbd77588",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101858807,
-    "wof:lastmodified":1544744592,
+    "wof:lastmodified":1566593492,
     "wof:name":"\u0427\u0430\u0439\u043a\u0438\u043d\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

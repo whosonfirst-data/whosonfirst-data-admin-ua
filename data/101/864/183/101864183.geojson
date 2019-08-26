@@ -10,12 +10,16 @@
     "geom:latitude":50.844543,
     "geom:longitude":25.843706,
     "iso:country":"UA",
+    "lbl:bbox":"25.823706,50.824543,25.863706,50.864543",
     "lbl:latitude":50.844543,
     "lbl:longitude":25.843706,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.844543,
     "mps:longitude":25.843706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u043f\u044b\u043b\u0456\u045e\u043a\u0430"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u0440\u043f\u0438\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karpilovka"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":8342722,
         "gp:id":936484,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4215737"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101864183,
-    "wof:lastmodified":1563303587,
+    "wof:lastmodified":1566593774,
     "wof:name":"\u041a\u0430\u0440\u043f\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088699,
     "wof:placetype":"locality",

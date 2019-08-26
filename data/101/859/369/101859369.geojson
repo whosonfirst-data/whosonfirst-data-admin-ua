@@ -10,12 +10,16 @@
     "geom:latitude":48.478685,
     "geom:longitude":22.694579,
     "iso:country":"UA",
+    "lbl:bbox":"22.674579,48.458685,22.714579,48.498685",
     "lbl:latitude":48.478685,
     "lbl:longitude":22.694579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.478685,
     "mps:longitude":22.694579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lavki"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u041b\u0430\u0432\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Lavki"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u592b\u57fa"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":8247776,
         "gp:id":926934,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q723079"
     },
     "wof:country":"UA",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":101859369,
-    "wof:lastmodified":1561776910,
+    "wof:lastmodified":1566593231,
     "wof:name":"\u041b\u0430\u0432\u043a\u0438",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

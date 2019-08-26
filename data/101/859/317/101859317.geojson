@@ -11,12 +11,16 @@
     "geom:longitude":24.413106,
     "gn:population":4008,
     "iso:country":"UA",
+    "lbl:bbox":"24.393106,48.253003,24.433106,48.293003",
     "lbl:latitude":48.273003,
     "lbl:longitude":24.413106,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.273003,
     "mps:longitude":24.413106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lazeshchyna"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0437\u0435\u0449\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Lazeshchina"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u6fa4\u5e0c\u7d0d"
     ],
@@ -75,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +88,7 @@
     "wof:concordances":{
         "gn:id":703328,
         "gp:id":939000,
-        "qs:id":128560,
+        "qs_pg:id":128560,
         "wd:id":"Q776917"
     },
     "wof:country":"UA",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":101859317,
-    "wof:lastmodified":1563302388,
+    "wof:lastmodified":1566593245,
     "wof:name":"\u041b\u0430\u0437\u0435\u0449\u0438\u043d\u0430",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

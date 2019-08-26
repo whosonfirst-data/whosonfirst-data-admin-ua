@@ -11,12 +11,16 @@
     "geom:longitude":26.256987,
     "gn:population":8088,
     "iso:country":"UA",
+    "lbl:bbox":"26.236987,48.198595,26.276987,48.238595",
     "lbl:latitude":48.218595,
     "lbl:longitude":26.256987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.218595,
     "mps:longitude":26.256987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0441\u044d\u043b\u044b\u0446\u044f"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sulitsa-Noua"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +118,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":699285,
         "gp:id":928951,
-        "qs:id":275485,
+        "qs_pg:id":275485,
         "wd:id":"Q149030"
     },
     "wof:country":"UA",
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":101860547,
-    "wof:lastmodified":1563302921,
+    "wof:lastmodified":1566593474,
     "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
     "wof:parent_id":102088077,
     "wof:placetype":"locality",

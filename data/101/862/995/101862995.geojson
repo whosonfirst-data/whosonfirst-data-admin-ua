@@ -10,19 +10,23 @@
     "geom:latitude":50.698256,
     "geom:longitude":26.522898,
     "iso:country":"UA",
+    "lbl:bbox":"26.502898,50.678256,26.542898,50.718256",
     "lbl:latitude":50.698256,
     "lbl:longitude":26.522898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.698256,
     "mps:longitude":26.522898,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Shubkiv"
     ],
     "name:ukr_x_variant":[
         "\u0428\u0443\u0431\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shubkov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8441766,
         "gp:id":915511,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"7631d43fff131cd01afab25adcec94e1",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101862995,
-    "wof:lastmodified":1544746773,
+    "wof:lastmodified":1566593692,
     "wof:name":"\u0428\u0443\u0431\u043a\u0456\u0432",
     "wof:parent_id":1108815695,
     "wof:placetype":"locality",

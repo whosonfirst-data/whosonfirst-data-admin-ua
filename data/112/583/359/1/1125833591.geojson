@@ -9,15 +9,18 @@
     "geom:bbox":"23.55848,49.98001,23.55848,49.98001",
     "geom:latitude":49.98001,
     "geom:longitude":23.55848,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3293,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3293,
     "iso:country":"UA",
+    "lbl:bbox":"23.53848,49.96001,23.57848,50.00001",
     "lbl:latitude":49.98001,
     "lbl:longitude":23.55848,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Starychi"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stazhiska"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":1028415,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125833591,
-    "wof:lastmodified":1563304029,
+    "wof:lastmodified":1566593979,
     "wof:name":"Starychi",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

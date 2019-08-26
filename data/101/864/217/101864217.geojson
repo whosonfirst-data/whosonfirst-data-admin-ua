@@ -10,12 +10,16 @@
     "geom:latitude":50.91655,
     "geom:longitude":26.110444,
     "iso:country":"UA",
+    "lbl:bbox":"26.090444,50.89655,26.130444,50.93655",
     "lbl:latitude":50.91655,
     "lbl:longitude":26.110444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.91655,
     "mps:longitude":26.110444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629"
     ],
@@ -38,7 +42,7 @@
         "Postiyne",
         "\u041f\u043e\u0441\u0442\u0456\u0439\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Postojno"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":990,
     "wof:belongsto":[
         102191581,
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":696442,
         "gp:id":932520,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4294403"
     },
     "wof:country":"UA",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101864217,
-    "wof:lastmodified":1563303534,
+    "wof:lastmodified":1566593754,
     "wof:name":"\u041f\u043e\u0441\u0442\u0456\u0439\u043d\u0435",
     "wof:parent_id":102088725,
     "wof:placetype":"locality",

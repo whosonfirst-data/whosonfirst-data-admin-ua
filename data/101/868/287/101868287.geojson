@@ -10,12 +10,16 @@
     "geom:latitude":47.923327,
     "geom:longitude":37.542136,
     "iso:country":"UA",
+    "lbl:bbox":"37.522136,47.903327,37.562136,47.943327",
     "lbl:latitude":47.923327,
     "lbl:longitude":37.542136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.923327,
     "mps:longitude":37.542136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041c\u0430\u0440\u2019\u0456\u043d\u043a\u0430"
     ],
@@ -113,7 +117,7 @@
         "Mar\u201dyinka",
         "\u041c\u0430\u0440\u2019\u0457\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mareyka"
     ],
     "name:zho_x_preferred":[
@@ -138,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":834,
     "wof:belongsto":[
         102191581,
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":701845,
         "gp:id":926389,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2494365",
         "wk:page":"Marinka, Ukraine"
     },
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":101868287,
-    "wof:lastmodified":1563302608,
+    "wof:lastmodified":1566593340,
     "wof:name":"\u041c\u0430\u0440'\u0457\u043d\u043a\u0430",
     "wof:parent_id":85688779,
     "wof:placetype":"locality",

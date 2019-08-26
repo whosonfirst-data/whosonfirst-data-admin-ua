@@ -10,12 +10,16 @@
     "geom:latitude":50.862978,
     "geom:longitude":26.0496,
     "iso:country":"UA",
+    "lbl:bbox":"26.0296,50.842978,26.0696,50.882978",
     "lbl:latitude":50.862978,
     "lbl:longitude":26.0496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.862978,
     "mps:longitude":26.0496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u044d\u0440\u0430\u0436\u043d\u044d"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "Derazhne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deraz\u2019ne"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":502,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":710130,
         "gp:id":932520,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q658167",
         "wk:page":"Derazhne"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101864211,
-    "wof:lastmodified":1563303526,
+    "wof:lastmodified":1566593752,
     "wof:name":"\u0414\u0435\u0440\u0430\u0436\u043d\u0435",
     "wof:parent_id":102088725,
     "wof:placetype":"locality",

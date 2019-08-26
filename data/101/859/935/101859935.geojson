@@ -11,12 +11,16 @@
     "geom:longitude":24.566704,
     "gn:population":3853,
     "iso:country":"UA",
+    "lbl:bbox":"24.546704,48.264204,24.586704,48.304204",
     "lbl:latitude":48.284204,
     "lbl:longitude":24.566704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.284204,
     "mps:longitude":24.566704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0648\u062e\u062a\u0627"
     ],
@@ -65,9 +69,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u0445\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Worochta"
-    ],
     "name:zho_x_preferred":[
         "\u6c83\u7f85\u8d6b\u5854"
     ],
@@ -91,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":527,
     "wof:belongsto":[
@@ -104,7 +105,6 @@
     "wof:concordances":{
         "gn:id":689037,
         "gp:id":938365,
-        "qs:id":128184,
         "qs_pg:id":128184,
         "wd:id":"Q925231",
         "wk:page":"Vorokhta"
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":101859935,
-    "wof:lastmodified":1563302345,
+    "wof:lastmodified":1566593231,
     "wof:name":"\u0412\u043e\u0440\u043e\u0445\u0442\u0430",
     "wof:parent_id":1108730825,
     "wof:placetype":"locality",

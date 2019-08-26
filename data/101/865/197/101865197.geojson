@@ -10,12 +10,16 @@
     "geom:latitude":47.488596,
     "geom:longitude":35.278958,
     "iso:country":"UA",
+    "lbl:bbox":"35.258958,47.468596,35.298958,47.508596",
     "lbl:latitude":47.488596,
     "lbl:longitude":35.278958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.488596,
     "mps:longitude":35.278958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Werchnja Krynyzja"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u041a\u0440\u0438\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnyaya Krini"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":689845,
         "gp:id":937125,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4108865"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101865197,
-    "wof:lastmodified":1561776988,
+    "wof:lastmodified":1566593731,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u041a\u0440\u0438\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088303,
     "wof:placetype":"locality",

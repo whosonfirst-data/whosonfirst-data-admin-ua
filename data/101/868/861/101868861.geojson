@@ -10,12 +10,16 @@
     "geom:latitude":49.189381,
     "geom:longitude":34.925801,
     "iso:country":"UA",
+    "lbl:bbox":"34.905801,49.169381,34.945801,49.209381",
     "lbl:latitude":49.189381,
     "lbl:longitude":34.925801,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.189381,
     "mps:longitude":34.925801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ryasskoye"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u044f\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ryazhskoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":695055,
         "gp:id":932828,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"d402e77318d5616344f9c68a75b99417",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101868861,
-    "wof:lastmodified":1544749973,
+    "wof:lastmodified":1566593345,
     "wof:name":"\u0420\u044f\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088733,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.057231,
     "geom:longitude":23.627755,
     "iso:country":"UA",
+    "lbl:bbox":"23.607755,49.037231,23.647755,49.077231",
     "lbl:latitude":49.057231,
     "lbl:longitude":23.627755,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.057231,
     "mps:longitude":23.627755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Truchaniw"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0430\u043d\u0456\u0432"
-    ],
-    "name:unk_x_variant":[
-        "Trukhaniv"
     ],
     "name:zho_x_preferred":[
         "\u7279\u9b6f\u54c8\u5c3c\u592b"
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":416,
     "wof:belongsto":[
         102191581,
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":691186,
         "gp:id":922048,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4464589"
     },
     "wof:country":"UA",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":101860865,
-    "wof:lastmodified":1561776950,
+    "wof:lastmodified":1566593471,
     "wof:name":"\u0422\u0440\u0443\u0445\u0430\u043d\u0456\u0432",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

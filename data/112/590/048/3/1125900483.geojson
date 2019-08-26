@@ -9,15 +9,18 @@
     "geom:bbox":"26.22743,50.62308,26.22743,50.62308",
     "geom:latitude":50.62308,
     "geom:longitude":26.22743,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":255106,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":255106,
     "iso:country":"UA",
+    "lbl:bbox":"26.20743,50.60308,26.24743,50.64308",
     "lbl:latitude":50.62308,
     "lbl:longitude":26.22743,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u0646\u0648"
@@ -241,9 +244,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Rovno"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0646\u06c1"
     ],
@@ -274,7 +274,7 @@
     "qs_pg:qs_id":1028433,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":1125900483,
-    "wof:lastmodified":1563303855,
+    "wof:lastmodified":1566593918,
     "wof:name":"Rivne",
     "wof:parent_id":1108815835,
     "wof:placetype":"locality",

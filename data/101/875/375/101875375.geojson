@@ -10,20 +10,21 @@
     "geom:latitude":49.953234,
     "geom:longitude":36.120567,
     "iso:country":"UA",
+    "lbl:bbox":"36.100567,49.933234,36.140567,49.973234",
     "lbl:latitude":49.953234,
     "lbl:longitude":36.120567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.953234,
     "mps:longitude":36.120567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pesochin"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0441\u043e\u0447\u0438\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Pesochin"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":697488,
         "gp:id":922137,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"6f806943a3fb41e161429225ec46b123",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101875375,
-    "wof:lastmodified":1544751931,
+    "wof:lastmodified":1566593205,
     "wof:name":"\u041f\u0456\u0441\u043e\u0447\u0438\u043d",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

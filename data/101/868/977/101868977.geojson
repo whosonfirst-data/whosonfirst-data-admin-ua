@@ -11,12 +11,16 @@
     "geom:longitude":39.57206,
     "gn:population":5787,
     "iso:country":"UA",
+    "lbl:bbox":"39.55206,48.29421,39.59206,48.33421",
     "lbl:latitude":48.31421,
     "lbl:longitude":39.57206,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.31421,
     "mps:longitude":39.57206,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0633\u0646\u0648\u062f\u0648\u0646"
     ],
@@ -119,7 +123,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u0440\u043e\u043a\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnodonskiy"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +151,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":390,
     "wof:belongsto":[
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":704402,
         "gp:id":924070,
-        "qs:id":128605,
+        "qs_pg:id":128605,
         "wd:id":"Q158053"
     },
     "wof:country":"UA",
@@ -175,7 +179,7 @@
         }
     ],
     "wof:id":101868977,
-    "wof:lastmodified":1563302631,
+    "wof:lastmodified":1566593351,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u043e\u043d",
     "wof:parent_id":1108815971,
     "wof:placetype":"locality",

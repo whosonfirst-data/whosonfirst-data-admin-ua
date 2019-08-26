@@ -9,15 +9,18 @@
     "geom:bbox":"23.54408,49.95675,23.54408,49.95675",
     "geom:latitude":49.95675,
     "geom:longitude":23.54408,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5164,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5164,
     "iso:country":"UA",
+    "lbl:bbox":"23.52408,49.93675,23.56408,49.97675",
     "lbl:latitude":49.95675,
     "lbl:longitude":23.54408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0428\u043a\u043b\u043e"
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043a\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Szk\u0142o"
-    ],
     "name:zho_x_preferred":[
         "\u4ec0\u514b\u6d1b"
     ],
@@ -64,7 +64,7 @@
     "qs_pg:qs_id":1028431,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125829723,
-    "wof:lastmodified":1563303929,
+    "wof:lastmodified":1566593943,
     "wof:name":"Shklo",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

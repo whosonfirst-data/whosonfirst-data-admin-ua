@@ -10,12 +10,16 @@
     "geom:latitude":48.776882,
     "geom:longitude":23.424607,
     "iso:country":"UA",
+    "lbl:bbox":"23.404607,48.756882,23.444607,48.796882",
     "lbl:latitude":48.776882,
     "lbl:longitude":23.424607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.776882,
     "mps:longitude":23.424607,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mala Volosyanka"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":689114,
         "gp:id":936939,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4276790"
     },
     "wof:country":"UA",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101860843,
-    "wof:lastmodified":1563302870,
+    "wof:lastmodified":1566593455,
     "wof:name":"\u0412\u043e\u043b\u043e\u0441\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

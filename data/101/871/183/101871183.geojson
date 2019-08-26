@@ -11,12 +11,16 @@
     "geom:longitude":33.795583,
     "gn:population":5199,
     "iso:country":"UA",
+    "lbl:bbox":"33.775583,50.522761,33.815583,50.562761",
     "lbl:latitude":50.542761,
     "lbl:longitude":33.795583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.542761,
     "mps:longitude":33.795583,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lypova Dolyna"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipovaya Dolina"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":703015,
         "gp:id":925332,
-        "qs:id":275505
+        "qs_pg:id":275505
     },
     "wof:country":"UA",
     "wof:geomhash":"b7f630fd09fe8281f7001f3e950c31d2",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101871183,
-    "wof:lastmodified":1544750987,
+    "wof:lastmodified":1566593663,
     "wof:name":"\u041b\u0438\u043f\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430",
     "wof:parent_id":102088923,
     "wof:placetype":"locality",

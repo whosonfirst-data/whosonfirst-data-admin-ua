@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.081275,
     "lbl:longitude":37.965697,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Donetska",
     "meso:admin_1":"\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Maki\u2039vs'ka",
@@ -34,6 +36,7 @@
     "mps:longitude":37.965697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Maki\u2039vs'ka"
     ],
@@ -41,7 +44,7 @@
         "\u041c\u0430\u043a\u0456\u0457\u0432\u0441\u044c\u043a\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159339531,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1175613751,
-    "wof:lastmodified":1555047749,
+    "wof:lastmodified":1566592898,
     "wof:name":"Makiivska",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

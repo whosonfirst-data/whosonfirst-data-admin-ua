@@ -10,12 +10,16 @@
     "geom:latitude":50.860381,
     "geom:longitude":28.468408,
     "iso:country":"UA",
+    "lbl:bbox":"28.448408,50.840381,28.488408,50.880381",
     "lbl:latitude":50.860381,
     "lbl:longitude":28.468408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.860381,
     "mps:longitude":28.468408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u0448\u043e\u043c\u044b\u0440"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_variant":[
         "\u0423\u0448\u043e\u043c\u0438\u0440"
     ],
-    "name:unk_x_variant":[
-        "Ushomir"
-    ],
     "name:zho_x_preferred":[
         "\u70cf\u7d39\u7c73\u723e"
     ],
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -87,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":690638,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q239490"
     },
     "wof:country":"UA",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":101870899,
-    "wof:lastmodified":1563303123,
+    "wof:lastmodified":1566593564,
     "wof:name":"\u0423\u0448\u043e\u043c\u0438\u0440",
     "wof:parent_id":1108815631,
     "wof:placetype":"locality",

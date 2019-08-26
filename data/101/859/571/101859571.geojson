@@ -10,12 +10,16 @@
     "geom:latitude":48.139722,
     "geom:longitude":23.77591,
     "iso:country":"UA",
+    "lbl:bbox":"23.75591,48.119722,23.79591,48.159722",
     "lbl:latitude":48.139722,
     "lbl:longitude":23.77591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.139722,
     "mps:longitude":23.77591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tyssalowo"
     ],
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":8281545,
         "gp:id":919346,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q750590"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101859571,
-    "wof:lastmodified":1561776913,
+    "wof:lastmodified":1566593242,
     "wof:name":"\u0422\u0438\u0441\u043e\u043b\u043e\u0432\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

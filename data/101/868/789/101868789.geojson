@@ -10,12 +10,16 @@
     "geom:latitude":48.199632,
     "geom:longitude":38.892404,
     "iso:country":"UA",
+    "lbl:bbox":"38.872404,48.179632,38.912404,48.219632",
     "lbl:latitude":48.199632,
     "lbl:longitude":38.892404,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.199632,
     "mps:longitude":38.892404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0444\u0456\u0456\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -74,7 +78,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u0444\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sofijewka"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -114,9 +118,11 @@
     "wof:concordances":{
         "gn:id":693325,
         "gp:id":934451,
-        "qs:id":4,
-        "qs_pg:id":128277,
+        "qs_pg:id":4,
         "wd:id":"Q4429973"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":128277
     },
     "wof:country":"UA",
     "wof:geomhash":"b84083a87bad7564017de5f141cf6b1a",
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":101868789,
-    "wof:lastmodified":1563302696,
+    "wof:lastmodified":1566593379,
     "wof:name":"\u0421\u043e\u0444\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

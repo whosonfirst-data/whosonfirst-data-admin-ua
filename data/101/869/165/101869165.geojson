@@ -10,12 +10,16 @@
     "geom:latitude":49.309164,
     "geom:longitude":39.446557,
     "iso:country":"UA",
+    "lbl:bbox":"39.426557,49.289164,39.466557,49.329164",
     "lbl:latitude":49.309164,
     "lbl:longitude":39.446557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.309164,
     "mps:longitude":39.446557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lytwyniwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0438\u0442\u0432\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Litvinovo"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":702915,
         "gp:id":939241,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4263672"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101869165,
-    "wof:lastmodified":1563302798,
+    "wof:lastmodified":1566593424,
     "wof:name":"\u041b\u0438\u0442\u0432\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088933,
     "wof:placetype":"locality",

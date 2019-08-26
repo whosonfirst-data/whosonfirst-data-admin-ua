@@ -10,12 +10,16 @@
     "geom:latitude":49.529819,
     "geom:longitude":36.911235,
     "iso:country":"UA",
+    "lbl:bbox":"36.891235,49.509819,36.931235,49.549819",
     "lbl:latitude":49.529819,
     "lbl:longitude":36.911235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.529819,
     "mps:longitude":36.911235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yakovenkovo"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e\u0432\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Yakovenkovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":688563,
         "gp:id":917468,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"b972bc2d31f28b498737e6cb99f235c5",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101869051,
-    "wof:lastmodified":1544750080,
+    "wof:lastmodified":1566593440,
     "wof:name":"\u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

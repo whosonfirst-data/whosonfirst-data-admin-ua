@@ -11,12 +11,16 @@
     "geom:longitude":24.701644,
     "gn:population":4351,
     "iso:country":"UA",
+    "lbl:bbox":"24.681644,48.452018,24.721644,48.492018",
     "lbl:latitude":48.472018,
     "lbl:longitude":24.701644,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.472018,
     "mps:longitude":24.701644,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:pol_x_preferred":[
         "Os\u0142aw Bia\u0142y"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0456 \u041e\u0441\u043b\u0430\u0432\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oslav Byaly"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":712477,
         "gp:id":918733,
-        "qs:id":128814
+        "qs_pg:id":128814
     },
     "wof:country":"UA",
     "wof:geomhash":"c584af8600f50f09f27d29af166821ea",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101859909,
-    "wof:lastmodified":1544745160,
+    "wof:lastmodified":1566593207,
     "wof:name":"\u0411\u0456\u043b\u0456 \u041e\u0441\u043b\u0430\u0432\u0438",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"32.6178,46.65581,32.6178,46.65581",
     "geom:latitude":46.65581,
     "geom:longitude":32.6178,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":320477,
+    "gn:country":"UA",
+    "gn:fcode":"PPLA",
     "gn:population":320477,
     "iso:country":"UA",
+    "lbl:bbox":"32.5978,46.63581,32.6378,46.67581",
     "lbl:latitude":46.65581,
     "lbl:longitude":32.6178,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Cherson"
@@ -259,9 +262,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Cherson"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u06cc\u0631\u0633\u0648\u0646"
     ],
@@ -289,7 +289,7 @@
     "qs_pg:qs_id":1028577,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -316,7 +316,7 @@
         }
     ],
     "wof:id":1125900897,
-    "wof:lastmodified":1563303867,
+    "wof:lastmodified":1566593922,
     "wof:name":"Kherson",
     "wof:parent_id":1108730653,
     "wof:placetype":"locality",

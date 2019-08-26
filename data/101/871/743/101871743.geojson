@@ -11,12 +11,16 @@
     "geom:longitude":37.33298,
     "gn:population":2499,
     "iso:country":"UA",
+    "lbl:bbox":"37.31298,50.144078,37.35298,50.184078",
     "lbl:latitude":50.164078,
     "lbl:longitude":37.33298,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.164078,
     "mps:longitude":37.33298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Prykolotne"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043a\u043e\u043b\u043e\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prikolotnoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":696302,
         "gp:id":928217,
-        "qs:id":275467
+        "qs_pg:id":275467
     },
     "wof:country":"UA",
     "wof:geomhash":"6856e5ce30d454170adb52de991d11f7",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101871743,
-    "wof:lastmodified":1544751237,
+    "wof:lastmodified":1566593662,
     "wof:name":"\u041f\u0440\u0438\u043a\u043e\u043b\u043e\u0442\u043d\u0435",
     "wof:parent_id":102088975,
     "wof:placetype":"locality",

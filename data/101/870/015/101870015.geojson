@@ -10,12 +10,16 @@
     "geom:latitude":50.423076,
     "geom:longitude":33.153296,
     "iso:country":"UA",
+    "lbl:bbox":"33.133296,50.403076,33.173296,50.443076",
     "lbl:latitude":50.423076,
     "lbl:longitude":33.153296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.423076,
     "mps:longitude":33.153296,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yakhniki"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u042f\u0445\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ivakhniki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":688582,
         "gp:id":940042,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"acbf3e0bf476b3cb0ed054ebe9927094",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101870015,
-    "wof:lastmodified":1544750557,
+    "wof:lastmodified":1566593545,
     "wof:name":"\u042f\u0445\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088865,
     "wof:placetype":"locality",

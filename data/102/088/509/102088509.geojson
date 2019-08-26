@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.557847,
     "lbl:longitude":37.497008,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Donetska",
     "meso:admin_1":"\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Volnovas'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":37.462671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Volnovakhs'kyi"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159339531,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102088509,
-    "wof:lastmodified":1555047734,
+    "wof:lastmodified":1566591412,
     "wof:name":"Volnovaskyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

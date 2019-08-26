@@ -10,12 +10,16 @@
     "geom:latitude":49.692016,
     "geom:longitude":39.051462,
     "iso:country":"UA",
+    "lbl:bbox":"39.031462,49.672016,39.071462,49.712016",
     "lbl:latitude":49.692016,
     "lbl:longitude":39.051462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.692016,
     "mps:longitude":39.051462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Bilolutsk"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "Biloluts\u2019k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belolutsk"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":712565,
         "gp:id":916551,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4082575"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101871739,
-    "wof:lastmodified":1563303238,
+    "wof:lastmodified":1566593627,
     "wof:name":"\u0411\u0456\u043b\u043e\u043b\u0443\u0446\u044c\u043a",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

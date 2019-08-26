@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.060471,
     "lbl:longitude":27.453053,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Khmelnytska",
     "meso:admin_1":"\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Polons'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":27.454817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Polons'kyi"
     ],
@@ -41,9 +44,6 @@
         "Polons'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u041f\u043e\u043b\u043e\u043d\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u041f\u043e\u043b\u043e\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"866",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Polonne",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088571,
-    "wof:lastmodified":1554317305,
+    "wof:lastmodified":1566591457,
     "wof:name":"Polonskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

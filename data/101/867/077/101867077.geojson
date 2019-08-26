@@ -10,12 +10,16 @@
     "geom:latitude":47.713072,
     "geom:longitude":36.48846,
     "iso:country":"UA",
+    "lbl:bbox":"36.46846,47.693072,36.50846,47.733072",
     "lbl:latitude":47.713072,
     "lbl:longitude":36.48846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.713072,
     "mps:longitude":36.48846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Poltawka"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u043b\u0442\u0430\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanzharovka"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":751,
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":696638,
         "gp:id":931371,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4370777"
     },
     "wof:country":"UA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101867077,
-    "wof:lastmodified":1563302980,
+    "wof:lastmodified":1566593504,
     "wof:name":"\u041f\u043e\u043b\u0442\u0430\u0432\u043a\u0430",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":25.813793,
     "gn:population":3074,
     "iso:country":"UA",
+    "lbl:bbox":"25.793793,50.692552,25.833793,50.732552",
     "lbl:latitude":50.712552,
     "lbl:longitude":25.813793,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.712552,
     "mps:longitude":25.813793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0410\u043b\u044b\u043a\u0430"
     ],
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":710,
     "wof:belongsto":[
@@ -110,7 +114,6 @@
     "wof:concordances":{
         "gn:id":698502,
         "gp:id":922891,
-        "qs:id":128398,
         "qs_pg:id":128398,
         "wd:id":"Q1050383",
         "wk:page":"Olyka"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101864195,
-    "wof:lastmodified":1563303521,
+    "wof:lastmodified":1566593749,
     "wof:name":"\u041e\u043b\u0438\u043a\u0430",
     "wof:parent_id":102088699,
     "wof:placetype":"locality",

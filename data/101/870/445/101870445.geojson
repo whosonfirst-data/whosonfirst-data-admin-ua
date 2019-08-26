@@ -10,12 +10,16 @@
     "geom:latitude":51.036199,
     "geom:longitude":32.855135,
     "iso:country":"UA",
+    "lbl:bbox":"32.835135,51.016199,32.875135,51.056199",
     "lbl:latitude":51.036199,
     "lbl:longitude":32.855135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.036199,
     "mps:longitude":32.855135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grigorovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0413\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Grigorovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -62,7 +63,7 @@
     "wof:concordances":{
         "gn:id":708112,
         "gp:id":920630,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"11c2466dd4c92d3fbedaffed43a42b80",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":101870445,
-    "wof:lastmodified":1544750660,
+    "wof:lastmodified":1566593562,
     "wof:name":"\u0413\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088979,
     "wof:placetype":"locality",

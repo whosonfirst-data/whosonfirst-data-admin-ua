@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2047957.181205,
+    "geom:area_square_m":2047957.181204,
     "geom:bbox":"23.8858370757,49.0096383829,23.9041642042,49.0274741154",
     "geom:latitude":49.01845,
     "geom:longitude":23.895099,
     "iso:country":"UA",
     "lbl:latitude":49.018185,
     "lbl:longitude":23.895273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.018185,
     "mps:longitude":23.895273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0422\u044f\u043f\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiapcze"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +41,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":690901,
         "gp:id":917321,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"44ba50a1b093a4e461c3d1b81e5d1082",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101876583,
-    "wof:lastmodified":1501215408,
+    "wof:lastmodified":1566593623,
     "wof:name":"\u0422\u044f\u043f\u0447\u0435",
     "wof:parent_id":1108815659,
     "wof:placetype":"locality",

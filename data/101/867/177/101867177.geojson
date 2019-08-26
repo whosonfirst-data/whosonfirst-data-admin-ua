@@ -10,12 +10,16 @@
     "geom:latitude":47.699852,
     "geom:longitude":37.852698,
     "iso:country":"UA",
+    "lbl:bbox":"37.832698,47.679852,37.872698,47.719852",
     "lbl:latitude":47.699852,
     "lbl:longitude":37.852698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.699852,
     "mps:longitude":37.852698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Styla"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0438\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Stila"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":692325,
         "gp:id":935205,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4444759"
     },
     "wof:country":"UA",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101867177,
-    "wof:lastmodified":1561776958,
+    "wof:lastmodified":1566593537,
     "wof:name":"\u0421\u0442\u0438\u043b\u0430",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

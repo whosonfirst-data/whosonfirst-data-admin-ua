@@ -10,13 +10,17 @@
     "geom:latitude":48.443227,
     "geom:longitude":26.506283,
     "iso:country":"UA",
+    "lbl:bbox":"26.486283,48.423227,26.526283,48.463227",
     "lbl:latitude":48.443227,
     "lbl:longitude":26.506283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.443227,
     "mps:longitude":26.506283,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kapilauka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":706877,
         "gp:id":921783,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"f94c4886eefff2d4d62c25ad9f2c1fba",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860671,
-    "wof:lastmodified":1544745559,
+    "wof:lastmodified":1566593468,
     "wof:name":"\u041a\u0430\u043f\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

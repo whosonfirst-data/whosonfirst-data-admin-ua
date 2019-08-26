@@ -10,12 +10,16 @@
     "geom:latitude":49.751303,
     "geom:longitude":26.914144,
     "iso:country":"UA",
+    "lbl:bbox":"26.894144,49.731303,26.934144,49.771303",
     "lbl:latitude":49.751303,
     "lbl:longitude":26.914144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.751303,
     "mps:longitude":26.914144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kul'chyny"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u043b\u044c\u0447\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kultschiny"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":703733,
         "gp:id":915895,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4246767"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101862349,
-    "wof:lastmodified":1563303382,
+    "wof:lastmodified":1566593689,
     "wof:name":"\u041a\u0443\u043b\u044c\u0447\u0438\u043d\u0438",
     "wof:parent_id":102088455,
     "wof:placetype":"locality",

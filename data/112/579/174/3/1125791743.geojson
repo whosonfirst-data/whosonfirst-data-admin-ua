@@ -9,15 +9,18 @@
     "geom:bbox":"24.65502,48.85023,24.65502,48.85023",
     "geom:latitude":48.85023,
     "geom:longitude":24.65502,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2927,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2927,
     "iso:country":"UA",
+    "lbl:bbox":"24.63502,48.83023,24.67502,48.87023",
     "lbl:latitude":48.85023,
     "lbl:longitude":24.65502,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0420\u0430\u0434\u0447\u0430"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radcza"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":128334,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125791743,
-    "wof:lastmodified":1509392393,
+    "wof:lastmodified":1566593961,
     "wof:name":"Radcha",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

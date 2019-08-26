@@ -10,12 +10,16 @@
     "geom:latitude":50.386015,
     "geom:longitude":30.318025,
     "iso:country":"UA",
+    "lbl:bbox":"30.298025,50.366015,30.338025,50.406015",
     "lbl:latitude":50.386015,
     "lbl:longitude":30.318025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.386015,
     "mps:longitude":30.318025,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrivske"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8354605,
         "gp:id":924938,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"21feba497c7746c0ec6cbb6d3b5ed67d",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101869725,
-    "wof:lastmodified":1544750428,
+    "wof:lastmodified":1566593417,
     "wof:name":"\u041f\u0435\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

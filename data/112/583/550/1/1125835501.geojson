@@ -9,17 +9,20 @@
     "geom:bbox":"25.71139,48.97922,25.71139,48.97922",
     "geom:latitude":48.97922,
     "geom:longitude":25.71139,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":616,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":616,
     "iso:country":"UA",
+    "lbl:bbox":"25.69139,48.95922,25.73139,48.99922",
     "lbl:latitude":48.97922,
     "lbl:longitude":25.71139,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Yagel\u2019nitsa"
     ],
     "qs_pg:aaroncc":"UA",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":82679,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125835501,
-    "wof:lastmodified":1509394949,
+    "wof:lastmodified":1566593978,
     "wof:name":"Yagel\u2019nitsa Stara",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

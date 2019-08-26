@@ -11,12 +11,16 @@
     "geom:longitude":31.311064,
     "gn:population":10762,
     "iso:country":"UA",
+    "lbl:bbox":"31.291064,50.330033,31.331064,50.370033",
     "lbl:latitude":50.350033,
     "lbl:longitude":31.311064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.350033,
     "mps:longitude":31.311064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0634\u064a\u0641\u0643\u0627"
     ],
@@ -77,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0438\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipnyaki"
     ],
     "name:zho_x_preferred":[
@@ -102,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":712787,
         "gp:id":916350,
-        "qs:id":1175100,
+        "qs_pg:id":1175100,
         "wd:id":"Q763787",
         "wk:page":"Baryshivka"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101869817,
-    "wof:lastmodified":1563302762,
+    "wof:lastmodified":1566593409,
     "wof:name":"\u0411\u0430\u0440\u0438\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088785,
     "wof:placetype":"locality",

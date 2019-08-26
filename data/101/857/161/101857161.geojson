@@ -10,12 +10,16 @@
     "geom:latitude":45.266186,
     "geom:longitude":33.302539,
     "iso:country":"UA",
+    "lbl:bbox":"33.282539,45.246186,33.322539,45.286186",
     "lbl:latitude":45.266186,
     "lbl:longitude":33.302539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.266186,
     "mps:longitude":33.302539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koloski"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":705301,
         "gp:id":939240,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"bf65d16412ea99f84010d56f1939dff2",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857161,
-    "wof:lastmodified":1544743753,
+    "wof:lastmodified":1566593383,
     "wof:name":"\u041a\u043e\u043b\u043e\u0441\u043a\u0438",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

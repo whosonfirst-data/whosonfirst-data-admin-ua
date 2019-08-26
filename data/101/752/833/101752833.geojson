@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":48.751584,
     "lbl:longitude":30.224781,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.751584,
     "mps:longitude":30.224781,
     "mz:hierarchy_label":1,
@@ -168,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043c\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uman\u2019"
     ],
     "name:vie_x_preferred":[
@@ -291,7 +293,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2275,
     "wof:belongsto":[
@@ -304,7 +306,6 @@
     "wof:concordances":{
         "gn:id":690688,
         "gp:id":936812,
-        "qs:id":901804,
         "qs_pg:id":901804,
         "wd:id":"Q208499",
         "wk:page":"Uman"
@@ -321,7 +322,7 @@
         }
     ],
     "wof:id":101752833,
-    "wof:lastmodified":1563302196,
+    "wof:lastmodified":1566593183,
     "wof:name":"\u0423\u043c\u0430\u043d\u044c",
     "wof:parent_id":1108730703,
     "wof:placetype":"locality",

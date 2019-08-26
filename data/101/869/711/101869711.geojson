@@ -10,12 +10,16 @@
     "geom:latitude":50.314501,
     "geom:longitude":30.375797,
     "iso:country":"UA",
+    "lbl:bbox":"30.355797,50.294501,30.395797,50.334501",
     "lbl:latitude":50.314501,
     "lbl:longitude":30.375797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.314501,
     "mps:longitude":30.375797,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vita-Poshtova"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0442\u0430-\u041f\u043e\u0448\u0442\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vita-Pochtovaya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":689456,
         "gp:id":917529,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"5dc05aa3862db00380c9c9fd10ed9443",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101869711,
-    "wof:lastmodified":1544750422,
+    "wof:lastmodified":1566593446,
     "wof:name":"\u0412\u0456\u0442\u0430-\u041f\u043e\u0448\u0442\u043e\u0432\u0430",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

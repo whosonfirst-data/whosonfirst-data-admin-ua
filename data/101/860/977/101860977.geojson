@@ -10,13 +10,17 @@
     "geom:latitude":48.545922,
     "geom:longitude":26.104977,
     "iso:country":"UA",
+    "lbl:bbox":"26.084977,48.525922,26.124977,48.565922",
     "lbl:latitude":48.545922,
     "lbl:longitude":26.104977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.545922,
     "mps:longitude":26.104977,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Horoszowa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":708283,
         "gp:id":920458,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"745a51bb5bc1552757d53c0dcb9349cd",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860977,
-    "wof:lastmodified":1544745722,
+    "wof:lastmodified":1566593459,
     "wof:name":"\u0413\u043e\u0440\u043e\u0448\u043e\u0432\u0430",
     "wof:parent_id":102088181,
     "wof:placetype":"locality",

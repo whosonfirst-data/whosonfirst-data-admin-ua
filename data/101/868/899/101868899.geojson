@@ -10,12 +10,16 @@
     "geom:latitude":49.514265,
     "geom:longitude":35.292868,
     "iso:country":"UA",
+    "lbl:bbox":"35.272868,49.494265,35.312868,49.534265",
     "lbl:latitude":49.514265,
     "lbl:longitude":35.292868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.514265,
     "mps:longitude":35.292868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khalturino"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0425\u0430\u043b\u0442\u0443\u0440\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tok"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":706493,
         "gp:id":937014,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"53396b53d4365314d22d1ac666101c34",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101868899,
-    "wof:lastmodified":1544749994,
+    "wof:lastmodified":1566593374,
     "wof:name":"\u0425\u0430\u043b\u0442\u0443\u0440\u0438\u043d\u0435",
     "wof:parent_id":102088761,
     "wof:placetype":"locality",

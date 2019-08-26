@@ -10,12 +10,16 @@
     "geom:latitude":49.48961,
     "geom:longitude":24.922795,
     "iso:country":"UA",
+    "lbl:bbox":"24.902795,49.46961,24.942795,49.50961",
     "lbl:latitude":49.48961,
     "lbl:longitude":24.922795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.48961,
     "mps:longitude":24.922795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Timofei Alexejewitsch Lapschin"
     ],
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":703379,
         "gp:id":916707,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4254436"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101861977,
-    "wof:lastmodified":1563302523,
+    "wof:lastmodified":1566593304,
     "wof:name":"\u041b\u0430\u043f\u0448\u0438\u043d",
     "wof:parent_id":102088307,
     "wof:placetype":"locality",

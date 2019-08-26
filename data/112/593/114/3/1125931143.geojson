@@ -9,15 +9,18 @@
     "geom:bbox":"32.76116,46.83826,32.76116,46.83826",
     "geom:latitude":46.83826,
     "geom:longitude":32.76116,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5653,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5653,
     "iso:country":"UA",
+    "lbl:bbox":"32.74116,46.81826,32.78116,46.85826",
     "lbl:latitude":46.83826,
     "lbl:longitude":32.76116,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roksandrovka"
     ],
     "qs_pg:aaroncc":"UA",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":915605,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125931143,
-    "wof:lastmodified":1509401406,
+    "wof:lastmodified":1566593885,
     "wof:name":"Aleksandrovka",
     "wof:parent_id":102088073,
     "wof:placetype":"locality",

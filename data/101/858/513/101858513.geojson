@@ -10,12 +10,16 @@
     "geom:latitude":45.41385,
     "geom:longitude":33.268073,
     "iso:country":"UA",
+    "lbl:bbox":"33.248073,45.39385,33.288073,45.43385",
     "lbl:latitude":45.41385,
     "lbl:longitude":33.268073,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.41385,
     "mps:longitude":33.268073,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Natashino"
     ],
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -67,7 +71,7 @@
         "fct:id":"082789fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":700421,
         "gp:id":927722,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"f4c7de143cc3c308775326d11b5a43f5",
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744444,
+    "wof:lastmodified":1566593496,
     "wof:name":"\u041d\u0430\u0442\u0430\u0448\u0438\u043d\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

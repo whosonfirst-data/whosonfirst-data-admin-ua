@@ -10,13 +10,17 @@
     "geom:latitude":49.772189,
     "geom:longitude":24.421461,
     "iso:country":"UA",
+    "lbl:bbox":"24.401461,49.752189,24.441461,49.792189",
     "lbl:latitude":49.772189,
     "lbl:longitude":24.421461,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.772189,
     "mps:longitude":24.421461,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kurovitse"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":703593,
         "gp:id":924814,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"357aef2519653ebd7c431637f36342e8",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862235,
-    "wof:lastmodified":1544746381,
+    "wof:lastmodified":1566593681,
     "wof:name":"\u041a\u0443\u0440\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088393,
     "wof:placetype":"locality",

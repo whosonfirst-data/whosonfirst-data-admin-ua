@@ -10,12 +10,16 @@
     "geom:latitude":48.325308,
     "geom:longitude":22.942773,
     "iso:country":"UA",
+    "lbl:bbox":"22.922773,48.305308,22.962773,48.345308",
     "lbl:latitude":48.325308,
     "lbl:longitude":22.942773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.325308,
     "mps:longitude":22.942773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ardanovo"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0440\u0434\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ardanove"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":713220,
         "gp:id":921145,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q749470"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101859407,
-    "wof:lastmodified":1561776908,
+    "wof:lastmodified":1566593221,
     "wof:name":"\u0410\u0440\u0434\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

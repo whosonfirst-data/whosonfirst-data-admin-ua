@@ -10,12 +10,16 @@
     "geom:latitude":51.818571,
     "geom:longitude":25.825064,
     "iso:country":"UA",
+    "lbl:bbox":"25.805064,51.798571,25.845064,51.838571",
     "lbl:latitude":51.818571,
     "lbl:longitude":25.825064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.818571,
     "mps:longitude":25.825064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041b\u043e\u043a\u043d\u0456\u0446\u0430"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_variant":[
         "\u041b\u043e\u043a\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loknitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":702870,
         "gp:id":927395,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"bc61233f1ee3fc7d76271a0cce26132e",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101865797,
-    "wof:lastmodified":1544748245,
+    "wof:lastmodified":1566593713,
     "wof:name":"\u041b\u043e\u043a\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088891,
     "wof:placetype":"locality",

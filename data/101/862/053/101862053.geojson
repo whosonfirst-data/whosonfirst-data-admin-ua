@@ -10,12 +10,16 @@
     "geom:latitude":48.906534,
     "geom:longitude":28.304046,
     "iso:country":"UA",
+    "lbl:bbox":"28.284046,48.886534,28.324046,48.926534",
     "lbl:latitude":48.906534,
     "lbl:longitude":28.304046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.906534,
     "mps:longitude":28.304046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Strojinzi"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u043e\u0457\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stroyintsi"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":692404,
         "gp:id":930323,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4444118"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101862053,
-    "wof:lastmodified":1561776981,
+    "wof:lastmodified":1566593681,
     "wof:name":"\u0421\u0442\u0440\u043e\u0457\u043d\u0446\u0456",
     "wof:parent_id":102088331,
     "wof:placetype":"locality",

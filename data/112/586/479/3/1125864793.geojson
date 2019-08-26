@@ -9,15 +9,18 @@
     "geom:bbox":"32.77012,50.58264,32.77012,50.58264",
     "geom:latitude":50.58264,
     "geom:longitude":32.77012,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1289,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1289,
     "iso:country":"UA",
+    "lbl:bbox":"32.75012,50.56264,32.79012,50.60264",
     "lbl:latitude":50.58264,
     "lbl:longitude":32.77012,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Degtyari"
@@ -31,7 +34,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0456\u0433\u0442\u044f\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Degtyary"
     ],
     "qs_pg:aaroncc":"UA",
@@ -46,7 +49,7 @@
     "qs_pg:qs_id":128762,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1125864793,
-    "wof:lastmodified":1509396892,
+    "wof:lastmodified":1566593900,
     "wof:name":"Degtyari",
     "wof:parent_id":102088893,
     "wof:placetype":"locality",

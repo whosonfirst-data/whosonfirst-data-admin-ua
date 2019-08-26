@@ -11,12 +11,16 @@
     "geom:longitude":30.467833,
     "gn:population":4569,
     "iso:country":"UA",
+    "lbl:bbox":"30.447833,50.311042,30.487833,50.351042",
     "lbl:latitude":50.331042,
     "lbl:longitude":30.467833,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.331042,
     "mps:longitude":30.467833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0425\u043e\u0446\u0456\u045e"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0442\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khotov"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":706232,
         "gp:id":924938,
-        "qs:id":275531,
+        "qs_pg:id":275531,
         "wd:id":"Q4500392",
         "wk:page":"Khotiv"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101869737,
-    "wof:lastmodified":1563302747,
+    "wof:lastmodified":1566593402,
     "wof:name":"\u0425\u043e\u0442\u0456\u0432",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

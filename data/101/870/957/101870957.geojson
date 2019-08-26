@@ -11,12 +11,16 @@
     "geom:longitude":30.931171,
     "gn:population":2939,
     "iso:country":"UA",
+    "lbl:bbox":"30.911171,50.686046,30.951171,50.726046",
     "lbl:latitude":50.706046,
     "lbl:longitude":30.931171,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.706046,
     "mps:longitude":30.931171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044d\u043c\u044b\u043f\u043e\u043b\u043a\u044b"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u0438\u043f\u043e\u043b\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Semipolki"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":694558,
         "gp:id":933281,
-        "qs:id":275451,
+        "qs_pg:id":275451,
         "wd:id":"Q4415528"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101870957,
-    "wof:lastmodified":1563303102,
+    "wof:lastmodified":1566593556,
     "wof:name":"\u0421\u0435\u043c\u0438\u043f\u043e\u043b\u043a\u0438",
     "wof:parent_id":1108815649,
     "wof:placetype":"locality",

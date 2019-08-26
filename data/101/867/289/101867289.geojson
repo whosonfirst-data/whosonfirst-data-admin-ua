@@ -10,12 +10,16 @@
     "geom:latitude":48.122296,
     "geom:longitude":39.202767,
     "iso:country":"UA",
+    "lbl:bbox":"39.182767,48.102296,39.222767,48.142296",
     "lbl:latitude":48.122296,
     "lbl:longitude":39.202767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.122296,
     "mps:longitude":39.202767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rafajliwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0420\u0430\u0444\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rafailovskoy"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":695874,
         "gp:id":920358,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4390982"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101867289,
-    "wof:lastmodified":1563302981,
+    "wof:lastmodified":1566593504,
     "wof:name":"\u0420\u0430\u0444\u0430\u0439\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088695,
     "wof:placetype":"locality",

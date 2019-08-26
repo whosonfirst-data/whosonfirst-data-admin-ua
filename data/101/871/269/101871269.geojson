@@ -10,12 +10,16 @@
     "geom:latitude":51.31008,
     "geom:longitude":30.172776,
     "iso:country":"UA",
+    "lbl:bbox":"30.152776,51.29008,30.192776,51.33008",
     "lbl:latitude":51.31008,
     "lbl:longitude":30.172776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.31008,
     "mps:longitude":30.172776,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Lel\u00ebv"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101871269,
-    "wof:lastmodified":1544751025,
+    "wof:lastmodified":1566593640,
     "wof:name":"\u041b\u0435\u043b\u0456\u0432",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

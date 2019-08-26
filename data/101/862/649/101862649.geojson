@@ -10,12 +10,16 @@
     "geom:latitude":49.692406,
     "geom:longitude":27.083705,
     "iso:country":"UA",
+    "lbl:bbox":"27.063705,49.672406,27.103705,49.712406",
     "lbl:latitude":49.692406,
     "lbl:longitude":27.083705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.692406,
     "mps:longitude":27.083705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kusmyn"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u0437\u044c\u043c\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuz\u2019min"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":355,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":703480,
         "gp:id":924907,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4245379"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101862649,
-    "wof:lastmodified":1563303404,
+    "wof:lastmodified":1566593698,
     "wof:name":"\u041a\u0443\u0437\u044c\u043c\u0438\u043d",
     "wof:parent_id":102088455,
     "wof:placetype":"locality",

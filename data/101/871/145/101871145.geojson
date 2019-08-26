@@ -10,12 +10,16 @@
     "geom:latitude":51.32324,
     "geom:longitude":29.760656,
     "iso:country":"UA",
+    "lbl:bbox":"29.740656,51.30324,29.780656,51.34324",
     "lbl:latitude":51.32324,
     "lbl:longitude":29.760656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.32324,
     "mps:longitude":29.760656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0441\u0451\u043b\u044b"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0443\u0431\u2019\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lubyanka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":567,
     "wof:belongsto":[
         102191581,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101871145,
-    "wof:lastmodified":1563303275,
+    "wof:lastmodified":1566593642,
     "wof:name":"\u041b\u0443\u0431'\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088915,
     "wof:placetype":"locality",

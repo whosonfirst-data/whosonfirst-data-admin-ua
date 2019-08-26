@@ -10,12 +10,16 @@
     "geom:latitude":48.131838,
     "geom:longitude":39.25671,
     "iso:country":"UA",
+    "lbl:bbox":"39.23671,48.111838,39.27671,48.151838",
     "lbl:latitude":48.131838,
     "lbl:longitude":39.25671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.131838,
     "mps:longitude":39.25671,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Proletarskiy Rayon"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":931801,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4380532"
     },
     "wof:country":"UA",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101868779,
-    "wof:lastmodified":1563302643,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1175613737,
     "wof:placetype":"locality",

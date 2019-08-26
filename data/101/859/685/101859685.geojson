@@ -10,12 +10,16 @@
     "geom:latitude":48.328857,
     "geom:longitude":24.894565,
     "iso:country":"UA",
+    "lbl:bbox":"24.874565,48.308857,24.914565,48.348857",
     "lbl:latitude":48.328857,
     "lbl:longitude":24.894565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.328857,
     "mps:longitude":24.894565,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Prokurava"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":696177,
         "gp:id":923719,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"7e96915d106eb9fead81f679ef93c589",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101859685,
-    "wof:lastmodified":1544745042,
+    "wof:lastmodified":1566593235,
     "wof:name":"\u041f\u0440\u043e\u043a\u0443\u0440\u0430\u0432\u0430",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

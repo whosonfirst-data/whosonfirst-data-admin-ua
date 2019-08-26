@@ -10,12 +10,16 @@
     "geom:latitude":48.266863,
     "geom:longitude":38.156994,
     "iso:country":"UA",
+    "lbl:bbox":"38.136994,48.246863,38.176994,48.286863",
     "lbl:latitude":48.266863,
     "lbl:longitude":38.156994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.266863,
     "mps:longitude":38.156994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Karlo-Marxove"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u0440\u043b\u043e-\u041c\u0430\u0440\u043a\u0441\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Karla Marksa"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":706756,
         "gp:id":921898,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4215261"
     },
     "wof:country":"UA",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":101868511,
-    "wof:lastmodified":1563302641,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u041a\u0430\u0440\u043b\u043e-\u041c\u0430\u0440\u043a\u0441\u043e\u0432\u0435",
     "wof:parent_id":1175613761,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.207859,
     "geom:longitude":37.438433,
     "iso:country":"UA",
+    "lbl:bbox":"37.418433,48.187859,37.458433,48.227859",
     "lbl:latitude":48.207859,
     "lbl:longitude":37.438433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.207859,
     "mps:longitude":37.438433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Jelanne"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u0416\u0435\u043b\u0430\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Zhelannoye"
-    ],
     "name:zho_x_preferred":[
         "\u71b1\u862d\u6d85"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":687223,
         "gp:id":921751,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4178667"
     },
     "wof:country":"UA",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":101868499,
-    "wof:lastmodified":1563302623,
+    "wof:lastmodified":1566593346,
     "wof:name":"\u0416\u0435\u043b\u0430\u043d\u043d\u0435",
     "wof:parent_id":1108815751,
     "wof:placetype":"locality",

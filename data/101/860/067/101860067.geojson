@@ -10,13 +10,17 @@
     "geom:latitude":48.947313,
     "geom:longitude":24.426057,
     "iso:country":"UA",
+    "lbl:bbox":"24.406057,48.927313,24.446057,48.967313",
     "lbl:latitude":48.947313,
     "lbl:longitude":24.426057,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.947313,
     "mps:longitude":24.426057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zavuy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":687492,
         "gp:id":921592,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"4286aa3f69e46772e5c12a3f2004c7d3",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860067,
-    "wof:lastmodified":1544745243,
+    "wof:lastmodified":1566593473,
     "wof:name":"\u0417\u0430\u0432\u0456\u0439",
     "wof:parent_id":102088203,
     "wof:placetype":"locality",

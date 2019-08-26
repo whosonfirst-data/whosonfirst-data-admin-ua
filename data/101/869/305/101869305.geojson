@@ -11,12 +11,16 @@
     "geom:longitude":28.867647,
     "gn:population":2880,
     "iso:country":"UA",
+    "lbl:bbox":"28.847647,49.94012,28.887647,49.98012",
     "lbl:latitude":49.96012,
     "lbl:longitude":28.867647,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.96012,
     "mps:longitude":28.867647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u0432\u043e\u043d\u044d"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chervonoye"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":710538,
         "gp:id":918417,
-        "qs:id":128773,
+        "qs_pg:id":128773,
         "wd:id":"Q787722",
         "wk:page":"Chervone, Zhytomyr Oblast"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101869305,
-    "wof:lastmodified":1563302807,
+    "wof:lastmodified":1566593427,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0435",
     "wof:parent_id":102088599,
     "wof:placetype":"locality",

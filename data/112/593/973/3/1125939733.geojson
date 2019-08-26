@@ -9,15 +9,18 @@
     "geom:bbox":"25.51183,50.00508,25.51183,50.00508",
     "geom:latitude":50.00508,
     "geom:longitude":25.51183,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8075,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":8075,
     "iso:country":"UA",
+    "lbl:bbox":"25.49183,49.98508,25.53183,50.02508",
     "lbl:latitude":50.00508,
     "lbl:longitude":25.51183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041f\u0430\u0447\u0430\u0456\u045e"
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0447\u0430\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pochayuv Stary"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":931031,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1125939733,
-    "wof:lastmodified":1563303769,
+    "wof:lastmodified":1566593885,
     "wof:name":"Pochayev",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

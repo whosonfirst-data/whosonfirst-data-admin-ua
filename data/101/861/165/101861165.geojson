@@ -10,19 +10,23 @@
     "geom:latitude":49.274352,
     "geom:longitude":23.098278,
     "iso:country":"UA",
+    "lbl:bbox":"23.078278,49.254352,23.118278,49.294352",
     "lbl:latitude":49.274352,
     "lbl:longitude":23.098278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.274352,
     "mps:longitude":23.098278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Tur\u201dye"
     ],
     "name:ukr_x_variant":[
         "\u0422\u0443\u0440\u2019\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tuzhe"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101861165,
-    "wof:lastmodified":1544745822,
+    "wof:lastmodified":1566593311,
     "wof:name":"\u0422\u0443\u0440'\u0454",
     "wof:parent_id":102088273,
     "wof:placetype":"locality",

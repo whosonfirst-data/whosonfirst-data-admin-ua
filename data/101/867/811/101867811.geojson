@@ -10,12 +10,16 @@
     "geom:latitude":49.220855,
     "geom:longitude":30.534276,
     "iso:country":"UA",
+    "lbl:bbox":"30.514276,49.200855,30.554276,49.240855",
     "lbl:latitude":49.220855,
     "lbl:longitude":30.534276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.220855,
     "mps:longitude":30.534276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wynograd"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Vinograd"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":689555,
         "gp:id":937886,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q46486",
         "wk:page":"Vynohrad, Lysianka Raion"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":101867811,
-    "wof:lastmodified":1563302977,
+    "wof:lastmodified":1566593503,
     "wof:name":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434",
     "wof:parent_id":102088487,
     "wof:placetype":"locality",

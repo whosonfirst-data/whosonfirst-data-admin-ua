@@ -10,12 +10,16 @@
     "geom:latitude":48.001826,
     "geom:longitude":25.948511,
     "iso:country":"UA",
+    "lbl:bbox":"25.928511,47.981826,25.968511,48.021826",
     "lbl:latitude":48.001826,
     "lbl:longitude":25.948511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.001826,
     "mps:longitude":25.948511,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wolczynetz"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_variant":[
         "Staryy Vovchynets\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Volcine\u0163"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":689294,
         "gp:id":866664,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12157384"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101859445,
-    "wof:lastmodified":1563302367,
+    "wof:lastmodified":1566593238,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u0412\u043e\u0432\u0447\u0438\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088031,
     "wof:placetype":"locality",

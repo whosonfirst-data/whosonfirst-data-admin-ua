@@ -10,19 +10,23 @@
     "geom:latitude":49.348043,
     "geom:longitude":30.300398,
     "iso:country":"UA",
+    "lbl:bbox":"30.280398,49.328043,30.320398,49.368043",
     "lbl:latitude":49.348043,
     "lbl:longitude":30.300398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.348043,
     "mps:longitude":30.300398,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Geysikha"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0439\u0441\u0438\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goysikha"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":708829,
         "gp:id":916828,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"bea4bd02d588820098f4af45f5ae8312",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101867837,
-    "wof:lastmodified":1544749399,
+    "wof:lastmodified":1566593532,
     "wof:name":"\u0413\u0435\u0439\u0441\u0438\u0445\u0430",
     "wof:parent_id":102088499,
     "wof:placetype":"locality",

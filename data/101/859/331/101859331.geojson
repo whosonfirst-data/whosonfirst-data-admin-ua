@@ -10,12 +10,16 @@
     "geom:latitude":48.35216,
     "geom:longitude":22.589025,
     "iso:country":"UA",
+    "lbl:bbox":"22.569025,48.33216,22.609025,48.37216",
     "lbl:latitude":48.35216,
     "lbl:longitude":22.589025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.35216,
     "mps:longitude":22.589025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhniatino"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u043d\u044f\u0442\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhniatyno"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":687110,
         "gp:id":937369,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q714494"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101859331,
-    "wof:lastmodified":1561776904,
+    "wof:lastmodified":1566593208,
     "wof:name":"\u0416\u043d\u044f\u0442\u0438\u043d\u043e",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

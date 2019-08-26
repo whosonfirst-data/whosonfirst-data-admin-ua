@@ -10,13 +10,17 @@
     "geom:latitude":49.926804,
     "geom:longitude":24.222154,
     "iso:country":"UA",
+    "lbl:bbox":"24.202154,49.906804,24.242154,49.946804",
     "lbl:latitude":49.926804,
     "lbl:longitude":24.222154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.926804,
     "mps:longitude":24.222154,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zapyt\u00f3w"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862667,
-    "wof:lastmodified":1544746601,
+    "wof:lastmodified":1566593682,
     "wof:name":"\u0417\u0430\u043f\u0438\u0442\u0456\u0432",
     "wof:parent_id":102088459,
     "wof:placetype":"locality",

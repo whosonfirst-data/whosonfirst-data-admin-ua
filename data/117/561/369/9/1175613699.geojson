@@ -11,12 +11,16 @@
     "geom:longitude":29.986035,
     "gn:population":14056,
     "iso:country":"UA",
+    "lbl:bbox":"29.966035,48.78265,30.006035,48.82265",
     "lbl:latitude":48.80265,
     "lbl:longitude":29.986035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.80265,
     "mps:longitude":29.986035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0425\u0440\u044b\u0441\u0442\u044b\u043d\u0456\u045e\u043a\u0430"
     ],
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0438\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kristinovka"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +122,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":137,
     "wof:belongsto":[
@@ -132,10 +136,12 @@
     "wof:concordances":{
         "gn:id":706200,
         "gp:id":922395,
-        "qs:id":8,
-        "qs_pg:id":275530,
+        "qs_pg:id":8,
         "wd:id":"Q219599",
         "wk:page":"Khrystynivka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275530
     },
     "wof:country":"UA",
     "wof:geomhash":"ec8d3681692d030a6538b1f30ba80ac6",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1175613699,
-    "wof:lastmodified":1563301718,
+    "wof:lastmodified":1566592894,
     "wof:name":"\u0425\u0440\u0438\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088349,
     "wof:placetype":"locality",

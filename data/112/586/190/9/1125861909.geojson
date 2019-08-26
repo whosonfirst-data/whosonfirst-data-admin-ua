@@ -9,15 +9,18 @@
     "geom:bbox":"36.32691,49.82852,36.32691,49.82852",
     "geom:latitude":49.82852,
     "geom:longitude":36.32691,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5862,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5862,
     "iso:country":"UA",
+    "lbl:bbox":"36.30691,49.80852,36.34691,49.84852",
     "lbl:latitude":49.82852,
     "lbl:longitude":36.32691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vasyshcheve"
@@ -30,9 +33,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0438\u0449\u0435\u0432\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Vasyshcheve"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -51,7 +51,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":937143,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125861909,
-    "wof:lastmodified":1509396686,
+    "wof:lastmodified":1566593903,
     "wof:name":"Vasishchevo",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

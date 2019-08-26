@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.084909,
     "lbl:longitude":39.361644,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.084909,
     "mps:longitude":39.361644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0631\u0648\u0648\u0646\u06a9\u06cc"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_variant":[
         "Roven\u2019ky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rowenki"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +144,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":852,
     "wof:belongsto":[
@@ -155,7 +158,7 @@
     "wof:concordances":{
         "gn:id":695379,
         "gp:id":932516,
-        "qs:id":275455,
+        "qs_pg:id":275455,
         "wd:id":"Q1012631",
         "wk:page":"Rovenky"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101752915,
-    "wof:lastmodified":1563302198,
+    "wof:lastmodified":1566593184,
     "wof:name":"\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

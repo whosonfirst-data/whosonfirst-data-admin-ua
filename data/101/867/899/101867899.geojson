@@ -11,12 +11,16 @@
     "geom:longitude":35.507598,
     "gn:population":31900,
     "iso:country":"UA",
+    "lbl:bbox":"35.487598,48.27837,35.527598,48.31837",
     "lbl:latitude":48.29837,
     "lbl:longitude":35.507598,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.29837,
     "mps:longitude":35.507598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u064a\u0644\u062a\u064a\u0643\u0648\u0641"
     ],
@@ -110,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinel\u2019nikovo"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
@@ -151,7 +155,7 @@
     "wof:concordances":{
         "gn:id":693796,
         "gp:id":934002,
-        "qs:id":1028428,
+        "qs_pg:id":1028428,
         "wd:id":"Q640798",
         "wk:page":"Synelnykove"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":101867899,
-    "wof:lastmodified":1563303051,
+    "wof:lastmodified":1566593534,
     "wof:name":"\u0421\u0438\u043d\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0435",
     "wof:parent_id":1108815901,
     "wof:placetype":"locality",

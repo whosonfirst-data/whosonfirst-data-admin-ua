@@ -11,12 +11,16 @@
     "geom:longitude":35.757673,
     "gn:population":6404,
     "iso:country":"UA",
+    "lbl:bbox":"35.737673,49.256146,35.777673,49.296146",
     "lbl:latitude":49.276146,
     "lbl:longitude":35.757673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.276146,
     "mps:longitude":35.757673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kehychivka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0433\u0438\u0447\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kegich\u00ebvka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":706546,
         "gp:id":922079,
-        "qs:id":1028584
+        "qs_pg:id":1028584
     },
     "wof:country":"UA",
     "wof:geomhash":"9a037944c9f570687ee7e2c917ce4658",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101869671,
-    "wof:lastmodified":1544750404,
+    "wof:lastmodified":1566593430,
     "wof:name":"\u041a\u0435\u0433\u0438\u0447\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088763,
     "wof:placetype":"locality",

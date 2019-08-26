@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":46.790528,
     "lbl:longitude":33.335628,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.790528,
     "mps:longitude":33.335628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u0430\u0446\u043a\u0435"
     ],
@@ -64,7 +67,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0437\u0430\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kazatskoye"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +89,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1753,
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":706566,
         "gp:id":922062,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q3656122"
     },
     "wof:country":"UA",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101876513,
-    "wof:lastmodified":1563303227,
+    "wof:lastmodified":1566593621,
     "wof:name":"\u041a\u043e\u0437\u0430\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088097,
     "wof:placetype":"locality",

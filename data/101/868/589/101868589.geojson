@@ -11,19 +11,23 @@
     "geom:longitude":38.573252,
     "gn:population":4911,
     "iso:country":"UA",
+    "lbl:bbox":"38.553252,48.112473,38.593252,48.152473",
     "lbl:latitude":48.132473,
     "lbl:longitude":38.573252,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.132473,
     "mps:longitude":38.573252,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozsypne"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688779,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":695798,
         "gp:id":932143,
-        "qs:id":1283318
+        "qs_pg:id":1283318
     },
     "wof:country":"UA",
     "wof:geomhash":"466d4947485d5619139c7dfe0b578e6f",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101868589,
-    "wof:lastmodified":1544749819,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435",
     "wof:parent_id":1175613757,
     "wof:placetype":"locality",

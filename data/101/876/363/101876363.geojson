@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.122149,
     "lbl:longitude":24.262336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.122149,
     "mps:longitude":24.262336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bilin"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u2019yelin"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":712622,
         "gp:id":932090,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q222615"
     },
     "wof:country":"UA",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101876363,
-    "wof:lastmodified":1561776964,
+    "wof:lastmodified":1566593582,
     "wof:name":"\u0411\u0456\u043b\u0438\u043d",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

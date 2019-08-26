@@ -11,12 +11,16 @@
     "geom:longitude":26.009991,
     "gn:population":2051,
     "iso:country":"UA",
+    "lbl:bbox":"25.989991,49.311634,26.029991,49.351634",
     "lbl:latitude":49.331634,
     "lbl:longitude":26.009991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.331634,
     "mps:longitude":26.009991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0440\u044b\u043c\u0430\u0439\u043b\u0456\u045e"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0438\u043c\u0430\u0439\u043b\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grimalov"
     ],
     "name:yid_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":304,
     "wof:belongsto":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":708082,
         "gp:id":12518262,
-        "qs:id":128717,
+        "qs_pg:id":128717,
         "wd:id":"Q1632587",
         "wk:page":"Hrymailiv"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":101861961,
-    "wof:lastmodified":1563302538,
+    "wof:lastmodified":1566593310,
     "wof:name":"\u0413\u0440\u0438\u043c\u0430\u0439\u043b\u0456\u0432",
     "wof:parent_id":102088299,
     "wof:placetype":"locality",

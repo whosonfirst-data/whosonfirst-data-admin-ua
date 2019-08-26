@@ -11,12 +11,16 @@
     "geom:longitude":33.722822,
     "gn:population":6762,
     "iso:country":"UA",
+    "lbl:bbox":"33.702822,46.977861,33.742822,47.017861",
     "lbl:latitude":46.997861,
     "lbl:longitude":33.722822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.997861,
     "mps:longitude":33.722822,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Hornostajiwka"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gornostayevka"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":708403,
         "gp:id":920352,
-        "qs:id":275551,
+        "qs_pg:id":275551,
         "wd:id":"Q4144643"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101866125,
-    "wof:lastmodified":1563302483,
+    "wof:lastmodified":1566593286,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088093,
     "wof:placetype":"locality",

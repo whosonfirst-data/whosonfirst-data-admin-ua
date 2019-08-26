@@ -11,12 +11,16 @@
     "geom:longitude":30.697695,
     "gn:population":16388,
     "iso:country":"UA",
+    "lbl:bbox":"30.677695,48.867642,30.717695,48.907642",
     "lbl:latitude":48.887642,
     "lbl:longitude":30.697695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.887642,
     "mps:longitude":30.697695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043b\u044c\u043d\u044d"
     ],
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u044c\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tal\u2019noye"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +125,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":691936,
         "gp:id":935704,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q219593",
         "wk:page":"Talne"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":101867631,
-    "wof:lastmodified":1563303053,
+    "wof:lastmodified":1566593535,
     "wof:name":"\u0422\u0430\u043b\u044c\u043d\u0435",
     "wof:parent_id":102088407,
     "wof:placetype":"locality",

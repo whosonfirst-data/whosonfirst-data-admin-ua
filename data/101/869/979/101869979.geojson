@@ -10,12 +10,16 @@
     "geom:latitude":49.509058,
     "geom:longitude":36.572476,
     "iso:country":"UA",
+    "lbl:bbox":"36.552476,49.489058,36.592476,49.529058",
     "lbl:latitude":49.509058,
     "lbl:longitude":36.572476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.509058,
     "mps:longitude":36.572476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Donets"
     ],
@@ -48,7 +52,7 @@
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u0414\u043e\u043d\u0435\u0446\u044c",
         "\u0414\u043e\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnyy Donets"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":710523,
         "gp:id":918426,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4512408"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101869979,
-    "wof:lastmodified":1563302783,
+    "wof:lastmodified":1566593418,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u0414\u043e\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

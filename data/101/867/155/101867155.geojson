@@ -10,12 +10,16 @@
     "geom:latitude":47.895977,
     "geom:longitude":36.678819,
     "iso:country":"UA",
+    "lbl:bbox":"36.658819,47.875977,36.698819,47.915977",
     "lbl:latitude":47.895977,
     "lbl:longitude":36.678819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.895977,
     "mps:longitude":36.678819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062f\u0631\u064a \u0634\u064a\u0641\u062a\u0634\u064a\u0646\u0643\u0648"
     ],
@@ -199,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "Shevchenko"
-    ],
     "name:uzb_x_preferred":[
         "Andriy Shevchenko"
     ],
@@ -231,7 +232,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5360,
     "wof:belongsto":[
         85688779,
@@ -267,7 +268,7 @@
         }
     ],
     "wof:id":101867155,
-    "wof:lastmodified":1563303026,
+    "wof:lastmodified":1566593523,
     "wof:name":"\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e",
     "wof:parent_id":102088519,
     "wof:placetype":"locality",

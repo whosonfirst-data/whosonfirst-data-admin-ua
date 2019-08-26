@@ -10,12 +10,16 @@
     "geom:latitude":47.493517,
     "geom:longitude":36.1446,
     "iso:country":"UA",
+    "lbl:bbox":"36.1246,47.473517,36.1646,47.513517",
     "lbl:latitude":47.493517,
     "lbl:longitude":36.1446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.493517,
     "mps:longitude":36.1446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0438\u0439 \u0456\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u0443\u043d\u0456\u043a\u0430\u0446\u0456\u0439 \u0442\u0430 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u0457"
     ],
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":719,
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":931341,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"22a2f88a37d145cf6552d38a37c18b9e",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101867009,
-    "wof:lastmodified":1544748932,
+    "wof:lastmodified":1566593510,
     "wof:name":"\u0406\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u0435",
     "wof:parent_id":102088369,
     "wof:placetype":"locality",

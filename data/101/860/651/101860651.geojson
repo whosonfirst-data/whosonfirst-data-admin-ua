@@ -11,12 +11,16 @@
     "geom:longitude":24.944618,
     "gn:population":3290,
     "iso:country":"UA",
+    "lbl:bbox":"24.924618,48.436034,24.964618,48.476034",
     "lbl:latitude":48.456034,
     "lbl:longitude":24.944618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.456034,
     "mps:longitude":24.944618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a\u064a \u0643\u0644\u064a\u0648\u062a\u0634\u064a\u0641\u060c \u0625\u0641\u0627\u0646\u0648-\u0641\u0631\u0627\u0646\u0643\u064a\u0641\u0633\u0643\u0627"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043b\u044e\u0447\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klyuchev Vel\u2019kiy"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":690132,
         "gp:id":930287,
-        "qs:id":128199,
+        "qs_pg:id":128199,
         "wd:id":"Q4106519"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101860651,
-    "wof:lastmodified":1563302872,
+    "wof:lastmodified":1566593456,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u043b\u044e\u0447\u0456\u0432",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

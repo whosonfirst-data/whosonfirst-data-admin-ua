@@ -11,12 +11,16 @@
     "geom:longitude":39.4706,
     "gn:population":12765,
     "iso:country":"UA",
+    "lbl:bbox":"39.4506,48.651014,39.4906,48.691014",
     "lbl:latitude":48.671014,
     "lbl:longitude":39.4706,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.671014,
     "mps:longitude":39.4706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Stanytsya Luhans'ka"
     ],
@@ -64,7 +68,7 @@
         "Stanychno-Luhans\u2019ke",
         "\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luganskaya"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":692953,
         "gp:id":934779,
-        "qs:id":492571,
+        "qs_pg:id":492571,
         "wd:id":"Q4439422"
     },
     "wof:country":"UA",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":101870059,
-    "wof:lastmodified":1563303119,
+    "wof:lastmodified":1566593563,
     "wof:name":"\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

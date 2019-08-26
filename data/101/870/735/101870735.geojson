@@ -10,12 +10,16 @@
     "geom:latitude":49.821586,
     "geom:longitude":32.386819,
     "iso:country":"UA",
+    "lbl:bbox":"32.366819,49.801586,32.406819,49.841586",
     "lbl:latitude":49.821586,
     "lbl:longitude":32.386819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.821586,
     "mps:longitude":32.386819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasenovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u0440\u0430\u0441\u0435\u043d\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Krasenovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":704495,
         "gp:id":917158,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"6293d94fa5d5729ac4d0f946274a8b85",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870735,
-    "wof:lastmodified":1544750791,
+    "wof:lastmodified":1566593557,
     "wof:name":"\u041a\u0440\u0430\u0441\u0435\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

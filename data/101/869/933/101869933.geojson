@@ -10,12 +10,16 @@
     "geom:latitude":48.999111,
     "geom:longitude":37.937183,
     "iso:country":"UA",
+    "lbl:bbox":"37.917183,48.979111,37.957183,49.019111",
     "lbl:latitude":48.999111,
     "lbl:longitude":37.937183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.999111,
     "mps:longitude":37.937183,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641\u0633\u0643"
     ],
@@ -109,7 +113,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Kirova"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":351,
     "wof:belongsto":[
         85688779,
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":101869933,
-    "wof:lastmodified":1563302808,
+    "wof:lastmodified":1566593428,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815627,
     "wof:placetype":"locality",

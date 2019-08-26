@@ -11,12 +11,16 @@
     "geom:longitude":36.35084,
     "gn:population":3013,
     "iso:country":"UA",
+    "lbl:bbox":"36.33084,45.252315,36.37084,45.292315",
     "lbl:latitude":45.272315,
     "lbl:longitude":36.35084,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.272315,
     "mps:longitude":36.35084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Priozernoye"
     ],
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -75,7 +79,7 @@
         "fct:id":"0827f164-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":696275,
         "gp:id":931706,
-        "qs:id":275464
+        "qs_pg:id":275464
     },
     "wof:country":"UA",
     "wof:geomhash":"0a678079c968a16eb2e8a625a19bea28",
@@ -102,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743844,
+    "wof:lastmodified":1566593383,
     "wof:name":"\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u043d\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

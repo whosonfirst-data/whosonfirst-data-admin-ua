@@ -10,12 +10,16 @@
     "geom:latitude":45.238407,
     "geom:longitude":35.713276,
     "iso:country":"UA",
+    "lbl:bbox":"35.693276,45.218407,35.733276,45.258407",
     "lbl:latitude":45.238407,
     "lbl:longitude":35.713276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.238407,
     "mps:longitude":35.713276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lugovoye"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85688855,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":702662,
         "gp:id":936923,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"aa3f6fa8ed715262c4d3fe3da8b5141c",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101857331,
-    "wof:lastmodified":1544743839,
+    "wof:lastmodified":1566593382,
     "wof:name":"\u041b\u0443\u0433\u043e\u0432\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

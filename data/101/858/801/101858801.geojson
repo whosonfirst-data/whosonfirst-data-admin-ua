@@ -10,12 +10,16 @@
     "geom:latitude":45.792749,
     "geom:longitude":34.379593,
     "iso:country":"UA",
+    "lbl:bbox":"34.359593,45.772749,34.399593,45.812749",
     "lbl:latitude":45.792749,
     "lbl:longitude":34.379593,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.792749,
     "mps:longitude":34.379593,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maslovo"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":691721,
         "gp:id":919507,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"ef0104cea4a62dd68f12ca335c6edc2f",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858801,
-    "wof:lastmodified":1544744590,
+    "wof:lastmodified":1566593494,
     "wof:name":"\u041c\u0430\u0441\u043b\u043e\u0432\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

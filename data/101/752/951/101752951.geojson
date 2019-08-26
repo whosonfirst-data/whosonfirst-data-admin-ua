@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.948478,
     "lbl:longitude":38.474814,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":48.948478,
     "mps:longitude":38.474814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u0641\u0631\u0648\u062f\u0648\u0646\u062a\u0633\u0643"
     ],
@@ -207,9 +210,6 @@
     "name:ukr_x_variant":[
         "Syevyerodonets\u2019k"
     ],
-    "name:unk_x_variant":[
-        "Severodonetsk"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u06cc\u0648\u06cc\u06cc\u0631\u0648\u062f\u0648\u0646\u06cc\u062a\u0633\u06a9"
     ],
@@ -241,7 +241,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":502,
     "wof:belongsto":[
@@ -254,7 +254,7 @@
     "wof:concordances":{
         "gn:id":691999,
         "gp:id":935663,
-        "qs:id":181620,
+        "qs_pg:id":181620,
         "wd:id":"Q160584",
         "wk:page":"Sievierodonetsk"
     },
@@ -270,7 +270,7 @@
         }
     ],
     "wof:id":101752951,
-    "wof:lastmodified":1563302212,
+    "wof:lastmodified":1566593186,
     "wof:name":"\u0421\u0454\u0432\u0435\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a",
     "wof:parent_id":1108730791,
     "wof:placetype":"locality",

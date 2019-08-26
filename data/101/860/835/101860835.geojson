@@ -10,13 +10,17 @@
     "geom:latitude":48.28495,
     "geom:longitude":28.306006,
     "iso:country":"UA",
+    "lbl:bbox":"28.286006,48.26495,28.326006,48.30495",
     "lbl:latitude":48.28495,
     "lbl:longitude":28.306006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.28495,
     "mps:longitude":28.306006,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Rusava"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":695108,
         "gp:id":12518485,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"7b9ca862c1775736727d34d5a31af681",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860835,
-    "wof:lastmodified":1544745646,
+    "wof:lastmodified":1566593456,
     "wof:name":"\u0420\u0443\u0441\u0430\u0432\u0430",
     "wof:parent_id":102089023,
     "wof:placetype":"locality",

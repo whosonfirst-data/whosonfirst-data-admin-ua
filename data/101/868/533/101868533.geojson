@@ -10,12 +10,16 @@
     "geom:latitude":48.990599,
     "geom:longitude":33.94896,
     "iso:country":"UA",
+    "lbl:bbox":"33.92896,48.970599,33.96896,49.010599",
     "lbl:latitude":48.990599,
     "lbl:longitude":33.94896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.990599,
     "mps:longitude":33.94896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "\u010cerven\u00e9 jezero"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0437\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ozery"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101868533,
-    "wof:lastmodified":1544749788,
+    "wof:lastmodified":1566593334,
     "wof:name":"\u041e\u0437\u0435\u0440\u0430",
     "wof:parent_id":102088641,
     "wof:placetype":"locality",

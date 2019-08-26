@@ -10,12 +10,16 @@
     "geom:latitude":48.119349,
     "geom:longitude":23.438867,
     "iso:country":"UA",
+    "lbl:bbox":"23.418867,48.099349,23.458867,48.139349",
     "lbl:latitude":48.119349,
     "lbl:longitude":23.438867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.119349,
     "mps:longitude":23.438867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krainikovo"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0439\u043d\u0438\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krainykovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":829746,
         "gp:id":938675,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q750357"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101859235,
-    "wof:lastmodified":1561776907,
+    "wof:lastmodified":1566593220,
     "wof:name":"\u041a\u0440\u0430\u0439\u043d\u0438\u043a\u043e\u0432\u043e",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

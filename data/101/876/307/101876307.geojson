@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
-    "geom:area_square_m":2351006.910149,
+    "geom:area_square_m":2351006.910153,
     "geom:bbox":"36.926664519,48.0084996693,36.9457515301,48.027538527",
     "geom:latitude":48.018054,
     "geom:longitude":36.936195,
     "iso:country":"UA",
     "lbl:latitude":48.018122,
     "lbl:longitude":36.936195,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.018122,
     "mps:longitude":36.936195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Vilcsa"
     ],
@@ -47,7 +50,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":312,
     "wof:belongsto":[
         85688779,
@@ -59,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":915676,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"d7dbf3ec7a5bd92b10334fac864aa5ca",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101876307,
-    "wof:lastmodified":1530297995,
+    "wof:lastmodified":1566593575,
     "wof:name":"\u041e\u043b\u0435\u043a\u0441\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088519,
     "wof:placetype":"locality",

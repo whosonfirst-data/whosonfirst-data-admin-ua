@@ -10,16 +10,20 @@
     "geom:latitude":49.001491,
     "geom:longitude":32.253624,
     "iso:country":"UA",
+    "lbl:bbox":"32.233624,48.981491,32.273624,49.021491",
     "lbl:latitude":49.001491,
     "lbl:longitude":32.253624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.001491,
     "mps:longitude":32.253624,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041e\u0441\u043e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nova Osota"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":699808,
         "gp:id":915531,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"626105c44131f5f40eec7a59fae6e7f5",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101868193,
-    "wof:lastmodified":1544749598,
+    "wof:lastmodified":1566593337,
     "wof:name":"\u041d\u043e\u0432\u0430 \u041e\u0441\u043e\u0442\u0430",
     "wof:parent_id":1108815663,
     "wof:placetype":"locality",

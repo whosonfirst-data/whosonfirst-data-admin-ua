@@ -11,12 +11,16 @@
     "geom:longitude":23.888068,
     "gn:population":9434,
     "iso:country":"UA",
+    "lbl:bbox":"23.868068,49.696021,23.908068,49.736021",
     "lbl:latitude":49.716021,
     "lbl:longitude":23.888068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.716021,
     "mps:longitude":23.888068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0443\u0441\u0442\u043e\u043c\u044b\u0442\u044b"
     ],
@@ -77,9 +81,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0441\u0442\u043e\u043c\u0438\u0442\u0438"
     ],
-    "name:unk_x_variant":[
-        "Pustomyty"
-    ],
     "name:vie_x_preferred":[
         "Pustomyty"
     ],
@@ -107,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -120,7 +121,6 @@
     "wof:concordances":{
         "gn:id":696032,
         "gp:id":924943,
-        "qs:id":128336,
         "qs_pg:id":128336,
         "wd:id":"Q1019852",
         "wk:page":"Pustomyty"
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":101862519,
-    "wof:lastmodified":1563303378,
+    "wof:lastmodified":1566593687,
     "wof:name":"\u041f\u0443\u0441\u0442\u043e\u043c\u0438\u0442\u0438",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

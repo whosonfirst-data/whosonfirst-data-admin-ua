@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.598688,
     "lbl:longitude":37.999884,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":48.598688,
     "mps:longitude":37.999884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Artemivs'k"
     ],
@@ -108,7 +111,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":713174,
         "gp:id":916028,
-        "qs:id":275618,
+        "qs_pg:id":275618,
         "wd:id":"Q2350829"
     },
     "wof:country":"UA",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101752941,
-    "wof:lastmodified":1563302198,
+    "wof:lastmodified":1566593184,
     "wof:name":"\u0410\u0440\u0442\u0435\u043c\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108815889,
     "wof:placetype":"locality",

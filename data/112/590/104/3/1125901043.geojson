@@ -9,15 +9,18 @@
     "geom:bbox":"25.42477,48.81207,25.42477,48.81207",
     "geom:latitude":48.81207,
     "geom:longitude":25.42477,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1809,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1809,
     "iso:country":"UA",
+    "lbl:bbox":"25.40477,48.79207,25.44477,48.83207",
     "lbl:latitude":48.81207,
     "lbl:longitude":25.42477,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u043d\u044d\u043b\u044b\u0446\u044f"
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Czernelica"
-    ],
     "name:zho_x_preferred":[
         "\u5207\u723e\u6d85\u5229\u9f4a\u4e9e"
     ],
@@ -67,7 +67,7 @@
     "qs_pg:qs_id":1028623,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125901043,
-    "wof:lastmodified":1563303852,
+    "wof:lastmodified":1566593917,
     "wof:name":"Chernelytsya",
     "wof:parent_id":102088137,
     "wof:placetype":"locality",

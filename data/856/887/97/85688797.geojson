@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":48.128589,
     "lbl:longitude":34.182137,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":48.126357,
     "mps:longitude":34.211705,
@@ -222,7 +223,7 @@
         "Dnipropetrovsk Oblast"
     ],
     "name:sin_x_preferred":[
-        "\u0da9\u0dca\u0db1\u0dd2\u0db4\u0dca\u0dbb\u0ddd\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dca  \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+        "\u0da9\u0dca\u0db1\u0dd2\u0db4\u0dca\u0dbb\u0ddd\u0db4\u0dd9\u0da7\u0dca\u200d\u0dbb\u0ddd\u0dc0\u0dca\u0dc3\u0dca\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
         "Dnepropetrovsk\u00e1 oblas\u0165"
@@ -240,7 +241,7 @@
         "D\u0144epropetrowski uobw\u016fd"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0ba3\u0bbf\u0baa\u0bcd\u0bb0\u0bcb\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bcd  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0b9f\u0ba3\u0bbf\u0baa\u0bcd\u0bb0\u0bcb\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bcd \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -267,9 +268,6 @@
         "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Dnipropetrovs'ka Oblast'"
     ],
     "name:urd_x_preferred":[
@@ -362,9 +360,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"31,974",
     "statoids:area_mi":"12,345",
     "statoids:as_of_date":"2001-12-05",
@@ -409,11 +407,10 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737965,
+    "wof:lastmodified":1566591770,
     "wof:name":"Dnipropetrovs'k",
     "wof:parent_id":85633805,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":3567567,
     "wof:population_rank":12,

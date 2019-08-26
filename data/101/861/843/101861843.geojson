@@ -10,12 +10,16 @@
     "geom:latitude":48.770548,
     "geom:longitude":28.215495,
     "iso:country":"UA",
+    "lbl:bbox":"28.195495,48.750548,28.235495,48.790548",
     "lbl:latitude":48.770548,
     "lbl:longitude":28.215495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.770548,
     "mps:longitude":28.215495,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041c\u0443\u0440\u0430\u0444\u0430"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0430\u0444\u0430"
     ],
-    "name:unk_x_variant":[
-        "Murafa"
-    ],
     "name:zho_x_preferred":[
         "\u7a46\u62c9\u6cd5\u6cb3"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":692882,
         "gp:id":939880,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q3487209"
     },
     "wof:country":"UA",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":101861843,
-    "wof:lastmodified":1563302509,
+    "wof:lastmodified":1566593299,
     "wof:name":"\u041c\u0443\u0440\u0430\u0444\u0430",
     "wof:parent_id":102088263,
     "wof:placetype":"locality",

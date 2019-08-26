@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":48.036396,
     "lbl:longitude":37.692914,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":48.035567,
     "mps:longitude":37.695963,
@@ -251,7 +252,7 @@
         "D\u016f\u0144ecki uobw\u016fd"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0ba8\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bcd  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0b9f\u0ba8\u0bbf\u0b9f\u0bcd\u0bb8\u0bcd\u0b95\u0bcd \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -276,9 +277,6 @@
         "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Donets\u2019ka Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -377,9 +375,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"26,517",
     "statoids:area_mi":"10,238",
     "statoids:as_of_date":"2001-12-05",
@@ -431,7 +429,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737966,
+    "wof:lastmodified":1566591771,
     "wof:name":"Donetsk",
     "wof:parent_id":1159339531,
     "wof:placetype":"region",

@@ -10,12 +10,16 @@
     "geom:latitude":47.073048,
     "geom:longitude":36.607672,
     "iso:country":"UA",
+    "lbl:bbox":"36.587672,47.053048,36.627672,47.093048",
     "lbl:latitude":47.073048,
     "lbl:longitude":36.607672,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.073048,
     "mps:longitude":36.607672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Uspeniwka"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u0423\u0441\u043f\u0435\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Uspenovka"
-    ],
     "name:zho_x_preferred":[
         "\u70cf\u65af\u4f69\u5c3c\u592b\u5361"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":690621,
         "gp:id":915801,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4477950"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101866985,
-    "wof:lastmodified":1563302438,
+    "wof:lastmodified":1566593267,
     "wof:name":"\u0423\u0441\u043f\u0435\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815641,
     "wof:placetype":"locality",

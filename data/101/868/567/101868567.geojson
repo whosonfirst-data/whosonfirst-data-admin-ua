@@ -10,12 +10,16 @@
     "geom:latitude":48.03999,
     "geom:longitude":38.398284,
     "iso:country":"UA",
+    "lbl:bbox":"38.378284,48.01999,38.418284,48.05999",
     "lbl:latitude":48.03999,
     "lbl:longitude":38.398284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.03999,
     "mps:longitude":38.398284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Serd\u0131te"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0435\u0440\u0434\u0438\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Serditaya"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":694504,
         "gp:id":933331,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4417210"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101868567,
-    "wof:lastmodified":1563302591,
+    "wof:lastmodified":1566593333,
     "wof:name":"\u0421\u0435\u0440\u0434\u0438\u0442\u0435",
     "wof:parent_id":1108815955,
     "wof:placetype":"locality",

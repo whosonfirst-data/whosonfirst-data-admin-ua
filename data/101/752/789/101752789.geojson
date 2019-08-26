@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":44.955317,
     "lbl:longitude":34.101606,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.960009,
     "mps:longitude":34.114665,
     "mz:hierarchy_label":1,
@@ -444,7 +446,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"wk",
     "wd:elevation":350.0,
     "wd:latitude":44.948056,
@@ -465,7 +467,7 @@
         "fct:id":"08294ae6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":693805,
         "gp:id":915458,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q19566",
         "wk:page":"Simferopol"
     },
@@ -494,7 +496,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302250,
+    "wof:lastmodified":1566593193,
     "wof:name":"\u0421\u0456\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c",
     "wof:parent_id":1108738681,
     "wof:placetype":"locality",

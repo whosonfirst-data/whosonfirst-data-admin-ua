@@ -11,19 +11,23 @@
     "geom:longitude":25.44598,
     "gn:population":3046,
     "iso:country":"UA",
+    "lbl:bbox":"25.42598,48.637994,25.46598,48.677994",
     "lbl:latitude":48.657994,
     "lbl:longitude":25.44598,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.657994,
     "mps:longitude":25.44598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044f\u0442\u0438\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044f\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Czerniatyn"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":710652,
         "gp:id":920371,
-        "qs:id":275573
+        "qs_pg:id":275573
     },
     "wof:country":"UA",
     "wof:geomhash":"b6bd11d93a2fb9d1d2d1a85418c5f2b1",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101861387,
-    "wof:lastmodified":1544745937,
+    "wof:lastmodified":1566593329,
     "wof:name":"\u0427\u0435\u0440\u043d\u044f\u0442\u0438\u043d",
     "wof:parent_id":102088137,
     "wof:placetype":"locality",

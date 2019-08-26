@@ -10,12 +10,16 @@
     "geom:latitude":50.013191,
     "geom:longitude":33.703548,
     "iso:country":"UA",
+    "lbl:bbox":"33.683548,49.993191,33.723548,50.033191",
     "lbl:latitude":50.013191,
     "lbl:longitude":33.703548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.013191,
     "mps:longitude":33.703548,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zubovka"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0417\u0443\u0431\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Zubovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -53,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
@@ -65,7 +66,7 @@
     "wof:concordances":{
         "gn:id":686830,
         "gp:id":940433,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q19938802"
     },
     "wof:country":"UA",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":101869957,
-    "wof:lastmodified":1563302796,
+    "wof:lastmodified":1566593423,
     "wof:name":"\u0417\u0443\u0431\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

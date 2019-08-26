@@ -11,12 +11,16 @@
     "geom:longitude":27.169666,
     "gn:population":8446,
     "iso:country":"UA",
+    "lbl:bbox":"27.149666,50.590492,27.189666,50.630492",
     "lbl:latitude":50.610492,
     "lbl:longitude":27.169666,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.610492,
     "mps:longitude":27.169666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0440\u0430\u0446"
     ],
@@ -85,9 +89,6 @@
     "name:ukr_x_variant":[
         "Korets\u2019"
     ],
-    "name:unk_x_variant":[
-        "Korzec"
-    ],
     "name:vie_x_preferred":[
         "Korets"
     ],
@@ -120,7 +121,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":554,
     "wof:belongsto":[
@@ -133,7 +134,6 @@
     "wof:concordances":{
         "gn:id":704968,
         "gp:id":923548,
-        "qs:id":909718,
         "qs_pg:id":909718,
         "wd:id":"Q997398",
         "wk:page":"Korets"
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":101864153,
-    "wof:lastmodified":1563303555,
+    "wof:lastmodified":1566593762,
     "wof:name":"\u041a\u043e\u0440\u0435\u0446\u044c",
     "wof:parent_id":102088689,
     "wof:placetype":"locality",

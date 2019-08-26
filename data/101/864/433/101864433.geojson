@@ -10,19 +10,23 @@
     "geom:latitude":51.685825,
     "geom:longitude":24.78104,
     "iso:country":"UA",
+    "lbl:bbox":"24.76104,51.665825,24.80104,51.705825",
     "lbl:latitude":51.685825,
     "lbl:longitude":24.78104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.685825,
     "mps:longitude":24.78104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Dobre"
     ],
     "name:ukr_x_variant":[
         "\u0414\u043e\u0431\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Birky"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":687,
     "wof:belongsto":[
         102191581,
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":709866,
         "gp:id":921613,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"5112fcb7aef1ca94bf4dc5b4689d8009",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101864433,
-    "wof:lastmodified":1544747523,
+    "wof:lastmodified":1566593771,
     "wof:name":"\u0414\u043e\u0431\u0440\u0435",
     "wof:parent_id":102088837,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":51.330304,
     "geom:longitude":32.559787,
     "iso:country":"UA",
+    "lbl:bbox":"32.539787,51.310304,32.579787,51.350304",
     "lbl:latitude":51.330304,
     "lbl:longitude":32.559787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.330304,
     "mps:longitude":32.559787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u0648\u0643\u0627\u064a"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_variant":[
         "Vysoke"
     ],
-    "name:unk_x_variant":[
-        "Vysokoye"
-    ],
     "name:zho_x_preferred":[
         "\u7dad\u7d22\u79d1\u8036"
     ],
@@ -95,7 +96,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -106,7 +107,7 @@
     "wof:concordances":{
         "gn:id":688673,
         "gp:id":933470,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"6bc7743bcfbff374620f02619e49cedc",
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":101871493,
-    "wof:lastmodified":1544751126,
+    "wof:lastmodified":1566593656,
     "wof:name":"\u0412\u0438\u0441\u043e\u043a\u0435",
     "wof:parent_id":102088977,
     "wof:placetype":"locality",

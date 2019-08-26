@@ -9,15 +9,18 @@
     "geom:bbox":"30.25055,50.52175,30.25055,50.52175",
     "geom:latitude":50.52175,
     "geom:longitude":30.25055,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":40789,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":40789,
     "iso:country":"UA",
+    "lbl:bbox":"30.23055,50.50175,30.27055,50.54175",
     "lbl:latitude":50.52175,
     "lbl:longitude":30.25055,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0625\u0631\u0628\u064a\u0646"
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u043f\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dachi Irpen\u2019"
     ],
     "name:vie_x_preferred":[
@@ -151,7 +154,7 @@
     "qs_pg:qs_id":128704,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1125864691,
-    "wof:lastmodified":1563303825,
+    "wof:lastmodified":1566593906,
     "wof:name":"Irpin\u2019",
     "wof:parent_id":1108730759,
     "wof:placetype":"locality",

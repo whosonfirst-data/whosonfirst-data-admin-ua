@@ -10,12 +10,16 @@
     "geom:latitude":51.512818,
     "geom:longitude":33.920107,
     "iso:country":"UA",
+    "lbl:bbox":"33.900107,51.492818,33.940107,51.532818",
     "lbl:latitude":51.512818,
     "lbl:longitude":33.920107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.512818,
     "mps:longitude":33.920107,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Banichi"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0411\u0430\u043d\u0438\u0447\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Banichi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":712873,
         "gp:id":922282,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"0cba636b41ac197b1fdd29d4201a0f53",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101871619,
-    "wof:lastmodified":1544751182,
+    "wof:lastmodified":1566593633,
     "wof:name":"\u0411\u0430\u043d\u0438\u0447\u0456",
     "wof:parent_id":1108815699,
     "wof:placetype":"locality",

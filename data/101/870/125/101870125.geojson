@@ -10,12 +10,16 @@
     "geom:latitude":50.214276,
     "geom:longitude":34.026387,
     "iso:country":"UA",
+    "lbl:bbox":"34.006387,50.194276,34.046387,50.234276",
     "lbl:latitude":50.214276,
     "lbl:longitude":34.026387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.214276,
     "mps:longitude":34.026387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lyuten'ka"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0442\u0435\u043d\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyuten\u2019ka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":702381,
         "gp:id":925917,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"692364ac8402ff1c82dde23b2af2a576",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101870125,
-    "wof:lastmodified":1544750592,
+    "wof:lastmodified":1566593567,
     "wof:name":"\u041b\u044e\u0442\u0435\u043d\u044c\u043a\u0430",
     "wof:parent_id":102088897,
     "wof:placetype":"locality",

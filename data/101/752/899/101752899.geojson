@@ -9,14 +9,17 @@
     "geom:bbox":"38.101228,48.021469,38.1865675,48.064338",
     "geom:latitude":48.041553,
     "geom:longitude":38.14596,
-    "geonames:id":"691293,706466",
+    "gn:id":"691293,706466",
     "iso:country":"UA",
     "lbl:latitude":48.039849,
     "lbl:longitude":38.140875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.039849,
     "mps:longitude":38.140875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062e\u0627\u0631\u062a\u0633\u06cc\u0632\u06a9"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_variant":[
         "Khartsyz\u2019k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khartsysk"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":246,
     "wof:belongsto":[
         85688779,
@@ -175,9 +178,11 @@
     "wof:concordances":{
         "gn:id":706466,
         "gp:id":922142,
-        "qs:id":3,
-        "qs_pg:id":128666,
+        "qs_pg:id":3,
         "wd:id":"Q1003757"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":128666
     },
     "wof:country":"UA",
     "wof:geomhash":"2846387e58e87d1a9548ca952804adc1",
@@ -216,7 +221,7 @@
         }
     ],
     "wof:id":101752899,
-    "wof:lastmodified":1563302241,
+    "wof:lastmodified":1566593191,
     "wof:name":"\u0425\u0430\u0440\u0446\u0438\u0437\u044c\u043a",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

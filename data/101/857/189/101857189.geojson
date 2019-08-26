@@ -10,12 +10,16 @@
     "geom:latitude":45.14331,
     "geom:longitude":34.722627,
     "iso:country":"UA",
+    "lbl:bbox":"34.702627,45.12331,34.742627,45.16331",
     "lbl:latitude":45.14331,
     "lbl:longitude":34.722627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.14331,
     "mps:longitude":34.722627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vasilyevka"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85688855,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":690397,
         "gp:id":933992,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"9f1ea1e9768a3eac1c041e858bf9913c",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101857189,
-    "wof:lastmodified":1544743766,
+    "wof:lastmodified":1566593389,
     "wof:name":"\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738527,
     "wof:placetype":"locality",

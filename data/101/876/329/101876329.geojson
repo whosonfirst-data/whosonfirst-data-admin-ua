@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.067065,
     "lbl:longitude":22.922495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.067065,
     "mps:longitude":22.922495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pyjterfolwo"
     ],
@@ -44,7 +47,7 @@
         "Pyyterfolvo",
         "\u041f\u0438\u0439\u0442\u0435\u0440\u0444\u043e\u043b\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrove"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +69,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":697327,
         "gp:id":811340,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q715017"
     },
     "wof:country":"UA",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101876329,
-    "wof:lastmodified":1563303225,
+    "wof:lastmodified":1566593619,
     "wof:name":"\u041f\u0438\u0439\u0442\u0435\u0440\u0444\u043e\u043b\u0432\u043e",
     "wof:parent_id":102087991,
     "wof:placetype":"locality",

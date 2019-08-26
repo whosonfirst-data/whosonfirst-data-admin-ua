@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":50.668045,
     "lbl:longitude":28.372244,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":50.660093,
     "mps:longitude":28.374706,
@@ -237,7 +238,7 @@
         "Zjytomyr oblast"
     ],
     "name:tam_x_preferred":[
-        "\u0bb4\u0baf\u0b9f\u0bcb\u0bae\u0bbf\u0bb0\u0bcd  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0bb4\u0baf\u0b9f\u0bcb\u0bae\u0bbf\u0bb0\u0bcd \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -265,9 +266,6 @@
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Zhytomyrs\u2019ka Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -360,9 +358,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"29,832",
     "statoids:area_mi":"11,518",
     "statoids:as_of_date":"2001-12-05",
@@ -407,7 +405,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737965,
+    "wof:lastmodified":1566591768,
     "wof:name":"Zhytomyr",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

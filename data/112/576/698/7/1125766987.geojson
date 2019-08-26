@@ -9,15 +9,18 @@
     "geom:bbox":"36.36109,49.69664,36.36109,49.69664",
     "geom:latitude":49.69664,
     "geom:longitude":36.36109,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16095,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":16095,
     "iso:country":"UA",
+    "lbl:bbox":"36.34109,49.67664,36.38109,49.71664",
     "lbl:latitude":49.69664,
     "lbl:longitude":36.36109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0632\u0645\u064a\u064a\u0641"
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043c\u0456\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gottvald"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +144,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":940341,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125766987,
-    "wof:lastmodified":1563303935,
+    "wof:lastmodified":1566593945,
     "wof:name":"Zmiyev",
     "wof:parent_id":102088859,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"32.53583,52.09556,32.57583,52.13556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Kuty Druhi"
     ],
@@ -32,10 +36,6 @@
         "\u041a\u0443\u0442\u0438 \u0414\u0440\u0443\u0433\u0456",
         "Kuty",
         "Kut"
-    ],
-    "name:und_x_variant":[
-        "Kut",
-        "Kuty"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1276880783,
-    "wof:lastmodified":1537710920,
+    "wof:lastmodified":1566592102,
     "wof:name":"Kuty Druhi",
     "wof:parent_id":102088677,
     "wof:placetype":"locality",

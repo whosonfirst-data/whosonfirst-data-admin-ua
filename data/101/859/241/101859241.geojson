@@ -10,12 +10,16 @@
     "geom:latitude":48.090315,
     "geom:longitude":23.421211,
     "iso:country":"UA",
+    "lbl:bbox":"23.401211,48.070315,23.441211,48.110315",
     "lbl:latitude":48.090315,
     "lbl:longitude":23.421211,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.090315,
     "mps:longitude":23.421211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Steblivka"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0435\u0431\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saldobosh"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":692637,
         "gp:id":938675,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q714422"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101859241,
-    "wof:lastmodified":1563302358,
+    "wof:lastmodified":1566593235,
     "wof:name":"\u0421\u0442\u0435\u0431\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

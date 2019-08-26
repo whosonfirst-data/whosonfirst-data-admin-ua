@@ -10,12 +10,16 @@
     "geom:latitude":48.467396,
     "geom:longitude":22.826602,
     "iso:country":"UA",
+    "lbl:bbox":"22.806602,48.447396,22.846602,48.487396",
     "lbl:latitude":48.467396,
     "lbl:longitude":22.826602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.467396,
     "mps:longitude":22.826602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bistritsia"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ryapid\u2019"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":213,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":710994,
         "gp:id":918476,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q750615"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101859361,
-    "wof:lastmodified":1561776910,
+    "wof:lastmodified":1566593229,
     "wof:name":"\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

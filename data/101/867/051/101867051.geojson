@@ -11,12 +11,16 @@
     "geom:longitude":35.876921,
     "gn:population":2912,
     "iso:country":"UA",
+    "lbl:bbox":"35.856921,47.516549,35.896921,47.556549",
     "lbl:latitude":47.536549,
     "lbl:longitude":35.876921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.536549,
     "mps:longitude":35.876921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0422\u0430\u043a\u043c\u0430\u0447\u043a\u0430"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430 \u0422\u043e\u043a\u043c\u0430\u0447\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malaya Tokmachka"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":702153,
         "gp:id":926131,
-        "qs:id":275500,
+        "qs_pg:id":275500,
         "wd:id":"Q4277416"
     },
     "wof:country":"UA",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101867051,
-    "wof:lastmodified":1563303052,
+    "wof:lastmodified":1566593534,
     "wof:name":"\u041c\u0430\u043b\u0430 \u0422\u043e\u043a\u043c\u0430\u0447\u043a\u0430",
     "wof:parent_id":102088375,
     "wof:placetype":"locality",

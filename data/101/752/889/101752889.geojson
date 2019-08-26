@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":50.258586,
     "lbl:longitude":28.691071,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.258586,
     "mps:longitude":28.691071,
     "mz:hierarchy_label":1,
@@ -282,9 +284,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
     ],
-    "name:unk_x_variant":[
-        "Jitomir"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u062d\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
@@ -412,7 +411,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":221.0,
     "wd:latitude":50.254444,
@@ -428,7 +427,7 @@
     "wof:concordances":{
         "gn:id":686967,
         "gp:id":940165,
-        "qs:id":1028321,
+        "qs_pg:id":1028321,
         "wd:id":"Q156713",
         "wk:page":"Zhytomyr"
     },
@@ -444,7 +443,7 @@
         }
     ],
     "wof:id":101752889,
-    "wof:lastmodified":1563302180,
+    "wof:lastmodified":1566593180,
     "wof:name":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440",
     "wof:parent_id":1108815945,
     "wof:placetype":"locality",

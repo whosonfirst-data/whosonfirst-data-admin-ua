@@ -10,19 +10,23 @@
     "geom:latitude":50.543678,
     "geom:longitude":31.092363,
     "iso:country":"UA",
+    "lbl:bbox":"31.072363,50.523678,31.112363,50.563678",
     "lbl:latitude":50.543678,
     "lbl:longitude":31.092363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.543678,
     "mps:longitude":31.092363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Ploske"
     ],
     "name:ukr_x_variant":[
         "\u041f\u043b\u043e\u0441\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ploskoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8526641,
         "gp:id":920142,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"ac14568e736f0857d5a915e33a13ba9d",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101870925,
-    "wof:lastmodified":1544750874,
+    "wof:lastmodified":1566593555,
     "wof:name":"\u041f\u043b\u043e\u0441\u043a\u0435",
     "wof:parent_id":1108815649,
     "wof:placetype":"locality",

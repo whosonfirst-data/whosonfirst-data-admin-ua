@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":48.920507,
     "lbl:longitude":24.71942,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.920507,
     "mps:longitude":24.71942,
     "mz:hierarchy_label":1,
@@ -269,7 +271,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanislavyv"
     ],
     "name:urd_x_preferred":[
@@ -404,7 +406,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.922778,
     "wd:longitude":24.710556,
@@ -420,10 +422,12 @@
     "wof:concordances":{
         "gn:id":707471,
         "gp:id":921237,
-        "qs:id":128694,
-        "qs_pg:id":1117043,
+        "qs_pg:id":128694,
         "wd:id":"Q156726",
         "wk:page":"Ivano-Frankivsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117043
     },
     "wof:country":"UA",
     "wof:geomhash":"d5b2038697491154a156f49f960d9ea4",
@@ -437,7 +441,7 @@
         }
     ],
     "wof:id":101752815,
-    "wof:lastmodified":1563302221,
+    "wof:lastmodified":1566593187,
     "wof:name":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730767,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.584485,
     "geom:longitude":23.977317,
     "iso:country":"UA",
+    "lbl:bbox":"23.957317,49.564485,23.997317,49.604485",
     "lbl:latitude":49.584485,
     "lbl:longitude":23.977317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.584485,
     "mps:longitude":23.977317,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lypivka"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -66,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":927588,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3317668"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101861881,
-    "wof:lastmodified":1563302509,
+    "wof:lastmodified":1566593299,
     "wof:name":"\u041b\u0438\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"37.79102,48.39489,37.79102,48.39489",
     "geom:latitude":48.39489,
     "geom:longitude":37.79102,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3868,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3868,
     "iso:country":"UA",
+    "lbl:bbox":"37.77102,48.37489,37.81102,48.41489",
     "lbl:latitude":48.39489,
     "lbl:longitude":37.79102,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Shcherbynivka"
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0429\u0435\u0440\u0431\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Shcherbynivka"
-    ],
     "name:zho_x_preferred":[
         "\u8b1d\u723e\u6bd4\u5c3c\u592b\u5361"
     ],
@@ -69,7 +69,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":933531,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125978675,
-    "wof:lastmodified":1563303877,
+    "wof:lastmodified":1566593926,
     "wof:name":"Shcherbinovka",
     "wof:parent_id":1108815895,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":44.641235,
     "geom:longitude":33.785047,
     "iso:country":"UA",
+    "lbl:bbox":"33.765047,44.621235,33.805047,44.661235",
     "lbl:latitude":44.641235,
     "lbl:longitude":33.785047,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.641235,
     "mps:longitude":33.785047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "B\u00fcy\u00fck Qaralez"
     ],
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":704201,
         "gp:id":924902,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4239532"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101857035,
-    "wof:lastmodified":1563302731,
+    "wof:lastmodified":1566593395,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041c\u0430\u043a",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

@@ -11,19 +11,23 @@
     "geom:longitude":32.533427,
     "gn:population":4003,
     "iso:country":"UA",
+    "lbl:bbox":"32.513427,47.935579,32.553427,47.975579",
     "lbl:latitude":47.955579,
     "lbl:longitude":32.533427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.955579,
     "mps:longitude":32.533427,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ustipovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":690600,
         "gp:id":936908,
-        "qs:id":128220
+        "qs_pg:id":128220
     },
     "wof:country":"UA",
     "wof:geomhash":"0ced253b52f0093fee1d45adb3e5a1ab",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101867397,
-    "wof:lastmodified":1544749153,
+    "wof:lastmodified":1566593501,
     "wof:name":"\u0423\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088277,
     "wof:placetype":"locality",

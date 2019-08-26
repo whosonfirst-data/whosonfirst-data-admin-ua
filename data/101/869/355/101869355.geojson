@@ -10,12 +10,16 @@
     "geom:latitude":50.239428,
     "geom:longitude":28.828081,
     "iso:country":"UA",
+    "lbl:bbox":"28.808081,50.219428,28.848081,50.259428",
     "lbl:latitude":50.239428,
     "lbl:longitude":28.828081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.239428,
     "mps:longitude":28.828081,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Taras Levkiv"
     ],
@@ -38,7 +42,7 @@
         "Levkiv",
         "\u041b\u0435\u0432\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Levkov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":431,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":703118,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12117405"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101869355,
-    "wof:lastmodified":1563302752,
+    "wof:lastmodified":1566593405,
     "wof:name":"\u041b\u0435\u0432\u043a\u0456\u0432",
     "wof:parent_id":1108815629,
     "wof:placetype":"locality",

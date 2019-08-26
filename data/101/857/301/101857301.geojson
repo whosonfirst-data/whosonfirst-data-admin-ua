@@ -10,12 +10,16 @@
     "geom:latitude":45.321808,
     "geom:longitude":34.804448,
     "iso:country":"UA",
+    "lbl:bbox":"34.784448,45.301808,34.824448,45.341808",
     "lbl:latitude":45.321808,
     "lbl:longitude":34.804448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.321808,
     "mps:longitude":34.804448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zavetnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":687516,
         "gp:id":12518355,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"97baf63825593f96d56bca9049331686",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857301,
-    "wof:lastmodified":1544743824,
+    "wof:lastmodified":1566593383,
     "wof:name":"\u0417\u0430\u0432\u0456\u0442\u043d\u0435",
     "wof:parent_id":1108738653,
     "wof:placetype":"locality",

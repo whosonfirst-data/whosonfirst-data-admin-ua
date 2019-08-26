@@ -10,16 +10,20 @@
     "geom:latitude":47.269214,
     "geom:longitude":33.868942,
     "iso:country":"UA",
+    "lbl:bbox":"33.848942,47.249214,33.888942,47.289214",
     "lbl:latitude":47.269214,
     "lbl:longitude":33.868942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.269214,
     "mps:longitude":33.868942,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novooleksandrivka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":699734,
         "gp:id":919879,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"133b1b992218d45449943c44ae55e5cc",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101866403,
-    "wof:lastmodified":1544748586,
+    "wof:lastmodified":1566593283,
     "wof:name":"\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088189,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":50.118015,
     "geom:longitude":26.114564,
     "iso:country":"UA",
+    "lbl:bbox":"26.094564,50.098015,26.134564,50.138015",
     "lbl:latitude":50.118015,
     "lbl:longitude":26.114564,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.118015,
     "mps:longitude":26.114564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0428\u0443\u043c\u0441\u043a"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u043c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Szumsk"
-    ],
     "name:vie_x_preferred":[
         "Shumsk"
     ],
@@ -101,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -113,7 +114,7 @@
     "wof:concordances":{
         "gn:id":693870,
         "gp:id":933929,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q219601"
     },
     "wof:country":"UA",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":101864027,
-    "wof:lastmodified":1563303567,
+    "wof:lastmodified":1566593767,
     "wof:name":"\u0428\u0443\u043c\u0441\u044c\u043a",
     "wof:parent_id":102088517,
     "wof:placetype":"locality",

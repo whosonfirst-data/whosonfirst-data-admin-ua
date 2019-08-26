@@ -10,12 +10,16 @@
     "geom:latitude":49.194065,
     "geom:longitude":37.355972,
     "iso:country":"UA",
+    "lbl:bbox":"37.335972,49.174065,37.375972,49.214065",
     "lbl:latitude":49.194065,
     "lbl:longitude":37.355972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.194065,
     "mps:longitude":37.355972,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kapitalovka"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "Kapytolivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapitolovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":706886,
         "gp:id":921166,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"6392172a167495ca8af3d710c6d64b7a",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101869059,
-    "wof:lastmodified":1544750085,
+    "wof:lastmodified":1566593436,
     "wof:name":"\u041a\u0430\u043f\u0438\u0442\u043e\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088847,
     "wof:placetype":"locality",

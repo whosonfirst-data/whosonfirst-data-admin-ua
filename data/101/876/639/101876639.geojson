@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.040397,
     "lbl:longitude":30.942421,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.040397,
     "mps:longitude":30.942421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Myhiya"
     ],
@@ -48,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0433\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Migeya"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":701276,
         "gp:id":930480,
-        "qs:id":1028533,
+        "qs_pg:id":1028533,
         "wd:id":"Q4292737"
     },
     "wof:country":"UA",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101876639,
-    "wof:lastmodified":1563303213,
+    "wof:lastmodified":1566593614,
     "wof:name":"\u041c\u0438\u0433\u0456\u044f",
     "wof:parent_id":1108815681,
     "wof:placetype":"locality",

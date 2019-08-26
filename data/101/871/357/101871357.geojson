@@ -10,12 +10,16 @@
     "geom:latitude":49.921231,
     "geom:longitude":35.878062,
     "iso:country":"UA",
+    "lbl:bbox":"35.858062,49.901231,35.898062,49.941231",
     "lbl:latitude":49.921231,
     "lbl:longitude":35.878062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.921231,
     "mps:longitude":35.878062,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Feh\u00e9r karav\u00e1n"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":7647269,
         "gp:id":925882,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4083127"
     },
     "wof:country":"UA",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101871357,
-    "wof:lastmodified":1563303287,
+    "wof:lastmodified":1566593647,
     "wof:name":"\u041a\u0430\u0440\u0430\u0432\u0430\u043d",
     "wof:parent_id":1108730657,
     "wof:placetype":"locality",

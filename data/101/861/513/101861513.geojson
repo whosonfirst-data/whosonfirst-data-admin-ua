@@ -10,12 +10,16 @@
     "geom:latitude":48.790135,
     "geom:longitude":24.750629,
     "iso:country":"UA",
+    "lbl:bbox":"24.730629,48.770135,24.770629,48.810135",
     "lbl:latitude":48.790135,
     "lbl:longitude":24.750629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.790135,
     "mps:longitude":24.750629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lypivka"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shlyakhetskiye Lyady"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101861513,
-    "wof:lastmodified":1563302579,
+    "wof:lastmodified":1566593328,
     "wof:name":"\u041b\u0438\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

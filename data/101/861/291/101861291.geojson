@@ -10,12 +10,16 @@
     "geom:latitude":49.439181,
     "geom:longitude":26.130789,
     "iso:country":"UA",
+    "lbl:bbox":"26.110789,49.419181,26.150789,49.459181",
     "lbl:latitude":49.439181,
     "lbl:longitude":26.130789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.439181,
     "mps:longitude":26.130789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ivanivka"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Iwan\u00f3wka"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u74e6\u5c3c\u592b\u5361"
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":707386,
         "gp:id":931204,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q799973"
     },
     "wof:country":"UA",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":101861291,
-    "wof:lastmodified":1563302568,
+    "wof:lastmodified":1566593323,
     "wof:name":"\u0406\u0432\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088379,
     "wof:placetype":"locality",

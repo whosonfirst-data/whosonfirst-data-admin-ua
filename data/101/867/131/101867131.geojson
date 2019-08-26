@@ -10,12 +10,16 @@
     "geom:latitude":47.661059,
     "geom:longitude":37.165942,
     "iso:country":"UA",
+    "lbl:bbox":"37.145942,47.641059,37.185942,47.681059",
     "lbl:latitude":47.661059,
     "lbl:longitude":37.165942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.661059,
     "mps:longitude":37.165942,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrovskoye"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrovskoe"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":697278,
         "gp:id":930790,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"c7e7200c7a315a34cabf9fa8c914ee3d",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101867131,
-    "wof:lastmodified":1544749000,
+    "wof:lastmodified":1566593521,
     "wof:name":"\u041f\u0435\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

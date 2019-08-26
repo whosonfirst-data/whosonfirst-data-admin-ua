@@ -10,12 +10,16 @@
     "geom:latitude":49.82974,
     "geom:longitude":23.795968,
     "iso:country":"UA",
+    "lbl:bbox":"23.775968,49.80974,23.815968,49.84974",
     "lbl:latitude":49.82974,
     "lbl:longitude":23.795968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.82974,
     "mps:longitude":23.795968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mshana"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.494167,
     "wd:longitude":21.646667,
     "wd:wordcount":110,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":700658,
         "gp:id":932688,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4309205"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101862079,
-    "wof:lastmodified":1561776979,
+    "wof:lastmodified":1566593675,
     "wof:name":"\u041c\u0448\u0430\u043d\u0430",
     "wof:parent_id":102088313,
     "wof:placetype":"locality",

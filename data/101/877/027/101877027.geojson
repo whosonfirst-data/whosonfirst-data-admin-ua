@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":1986033.525453,
+    "geom:area_square_m":1986033.525455,
     "geom:bbox":"36.5176052386,49.6660356681,36.536251035,49.6852998394",
     "geom:latitude":49.676365,
     "geom:longitude":36.52768,
     "iso:country":"UA",
     "lbl:latitude":49.677266,
     "lbl:longitude":36.527857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.677266,
     "mps:longitude":36.527857,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shelud'kovka"
     ],
@@ -27,7 +31,7 @@
     "name:ukr_x_variant":[
         "\u0428\u0435\u043b\u0443\u0434\u044c\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheludovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -46,7 +50,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":694235,
         "gp:id":919926,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"cc7228197ce83a82e461ba93d72d719c",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101877027,
-    "wof:lastmodified":1501215452,
+    "wof:lastmodified":1566593572,
     "wof:name":"\u0428\u0435\u043b\u0443\u0434\u044c\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088859,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.548292,
     "geom:longitude":30.209139,
     "iso:country":"UA",
+    "lbl:bbox":"30.189139,49.528292,30.229139,49.568292",
     "lbl:latitude":49.548292,
     "lbl:longitude":30.209139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.548292,
     "mps:longitude":30.209139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0427\u0443\u043f\u044b\u0440\u0430"
     ],
@@ -37,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u043f\u0438\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Chupira"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kyivs'ka",
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":710351,
         "gp:id":918582,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q133519"
     },
     "wof:country":"UA",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":101868009,
-    "wof:lastmodified":1563302623,
+    "wof:lastmodified":1566593347,
     "wof:name":"\u0427\u0443\u043f\u0438\u0440\u0430",
     "wof:parent_id":1108815643,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":44.465559,
     "lbl:longitude":34.144218,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.465559,
     "mps:longitude":34.144218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Livadiya"
     ],
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":469,
     "wof:belongsto":[
@@ -149,7 +152,6 @@
         "fct:id":"082752a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":702907,
         "gp:id":925435,
-        "qs:id":492554,
         "qs_pg:id":492554,
         "wd:id":"Q2287115",
         "wk:page":"Livadiya, Crimea"
@@ -179,7 +181,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302277,
+    "wof:lastmodified":1566593204,
     "wof:name":"\u041b\u0456\u0432\u0430\u0434\u0456\u044f",
     "wof:parent_id":1108738659,
     "wof:placetype":"locality",

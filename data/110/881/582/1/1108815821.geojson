@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.179551,
     "lbl:longitude":27.061426,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Khmelnytska",
     "meso:admin_1":"\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Shepetivs'ka",
@@ -28,6 +30,7 @@
     "meso:type_local":"\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u0440\u0430\u0439\u043e\u043d\u0438 \u0442\u0430 \u0440\u0430\u0434\u0438 \u043e\u0431\u043b\u0430\u0441\u043d\u043e\u0433",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u064a\u062a\u064a\u0641\u0643\u0627"
     ],
@@ -143,9 +146,9 @@
         "\u820d\u4f69\u8482\u592b\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"38",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Shepetivka",
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1108815821,
-    "wof:lastmodified":1563301693,
+    "wof:lastmodified":1566592871,
     "wof:name":"Shepetivska",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

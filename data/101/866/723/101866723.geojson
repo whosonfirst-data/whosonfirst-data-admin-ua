@@ -11,12 +11,16 @@
     "geom:longitude":34.121811,
     "gn:population":1275,
     "iso:country":"UA",
+    "lbl:bbox":"34.101811,47.596941,34.141811,47.636941",
     "lbl:latitude":47.616941,
     "lbl:longitude":34.121811,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.616941,
     "mps:longitude":34.121811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chortomlyk"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u0442\u043e\u043c\u043b\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aleksandrovka"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":710615,
         "gp:id":925130,
-        "qs:id":128777,
+        "qs_pg:id":128777,
         "wd:id":"Q3516629"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101866723,
-    "wof:lastmodified":1563302439,
+    "wof:lastmodified":1566593267,
     "wof:name":"\u0427\u043e\u0440\u0442\u043e\u043c\u043b\u0438\u043a",
     "wof:parent_id":102088327,
     "wof:placetype":"locality",

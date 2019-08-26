@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2241060.584207,
+    "geom:area_square_m":2241060.584208,
     "geom:bbox":"36.0074541795,49.7850668264,36.0266888108,49.8042992296",
     "geom:latitude":49.794945,
     "geom:longitude":36.016917,
@@ -13,17 +13,20 @@
     "iso:country":"UA",
     "lbl:latitude":49.795232,
     "lbl:longitude":36.016734,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.795232,
     "mps:longitude":36.016734,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0423\u0442\u043a\u0456\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0442\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Utkovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -43,7 +46,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":690571,
         "gp:id":926865,
-        "qs:id":128219
+        "qs_pg:id":128219
     },
     "wof:country":"UA",
     "wof:geomhash":"332fb189b39c2c052a2755e999465f5d",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101877085,
-    "wof:lastmodified":1505338451,
+    "wof:lastmodified":1566593570,
     "wof:name":"\u0423\u0442\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

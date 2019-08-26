@@ -10,12 +10,16 @@
     "geom:latitude":48.135419,
     "geom:longitude":28.859549,
     "iso:country":"UA",
+    "lbl:bbox":"28.839549,48.115419,28.879549,48.155419",
     "lbl:latitude":48.135419,
     "lbl:longitude":28.859549,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.135419,
     "mps:longitude":28.859549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d\u0430"
     ],
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Studenoye"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":241,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":692361,
         "gp:id":935348,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q703589"
     },
     "wof:country":"UA",
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101866277,
-    "wof:lastmodified":1563302454,
+    "wof:lastmodified":1566593274,
     "wof:name":"\u0421\u0442\u0443\u0434\u0435\u043d\u0430",
     "wof:parent_id":102088139,
     "wof:placetype":"locality",

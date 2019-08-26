@@ -10,12 +10,16 @@
     "geom:latitude":50.663594,
     "geom:longitude":33.503761,
     "iso:country":"UA",
+    "lbl:bbox":"33.483761,50.643594,33.523761,50.683594",
     "lbl:latitude":50.663594,
     "lbl:longitude":33.503761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.663594,
     "mps:longitude":33.503761,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Kodyma"
     ],
@@ -56,9 +60,6 @@
         "\u0411\u043e\u0431\u0440\u0438\u043a",
         "\u041a\u043e\u0434\u0438\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bobrik"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u5b63\u99ac\u6cb3"
     ],
@@ -81,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -93,7 +94,7 @@
     "wof:concordances":{
         "gn:id":712016,
         "gp:id":917036,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2998342"
     },
     "wof:country":"UA",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":101869187,
-    "wof:lastmodified":1563302782,
+    "wof:lastmodified":1566593417,
     "wof:name":"\u0411\u043e\u0431\u0440\u0438\u043a",
     "wof:parent_id":1108815707,
     "wof:placetype":"locality",

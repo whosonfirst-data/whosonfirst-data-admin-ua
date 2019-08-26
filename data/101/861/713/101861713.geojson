@@ -10,13 +10,17 @@
     "geom:latitude":48.933878,
     "geom:longitude":25.34272,
     "iso:country":"UA",
+    "lbl:bbox":"25.32272,48.913878,25.36272,48.953878",
     "lbl:latitude":48.933878,
     "lbl:longitude":25.34272,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.933878,
     "mps:longitude":25.34272,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sonolov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861713,
-    "wof:lastmodified":1544746108,
+    "wof:lastmodified":1566593305,
     "wof:name":"\u0421\u043e\u043a\u043e\u043b\u0456\u0432",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

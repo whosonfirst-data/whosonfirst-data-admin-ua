@@ -10,12 +10,16 @@
     "geom:latitude":49.700708,
     "geom:longitude":31.120925,
     "iso:country":"UA",
+    "lbl:bbox":"31.100925,49.680708,31.140925,49.720708",
     "lbl:latitude":49.700708,
     "lbl:longitude":31.120925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.700708,
     "mps:longitude":31.120925,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Kozyn"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Kozin"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u6d25"
     ],
@@ -80,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":704558,
         "gp:id":923924,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2371676"
     },
     "wof:country":"UA",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":101869401,
-    "wof:lastmodified":1563302767,
+    "wof:lastmodified":1566593412,
     "wof:name":"\u041a\u043e\u0437\u0438\u043d",
     "wof:parent_id":102088649,
     "wof:placetype":"locality",

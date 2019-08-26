@@ -10,12 +10,16 @@
     "geom:latitude":49.011006,
     "geom:longitude":25.362238,
     "iso:country":"UA",
+    "lbl:bbox":"25.342238,48.991006,25.382238,49.031006",
     "lbl:latitude":49.011006,
     "lbl:longitude":25.362238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.011006,
     "mps:longitude":25.362238,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Soroca"
     ],
@@ -142,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u043e\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soroky"
     ],
     "name:zho_x_preferred":[
@@ -167,7 +171,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.155833,
     "wd:longitude":28.2975,
     "wd:wordcount":677,
@@ -181,7 +185,7 @@
     "wof:concordances":{
         "gn:id":693123,
         "gp:id":917675,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q853785"
     },
     "wof:country":"UA",
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":101861715,
-    "wof:lastmodified":1563302530,
+    "wof:lastmodified":1566593307,
     "wof:name":"\u0421\u043e\u0440\u043e\u043a\u0438",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":50.269181,
     "geom:longitude":30.367253,
     "iso:country":"UA",
+    "lbl:bbox":"30.347253,50.249181,30.387253,50.289181",
     "lbl:latitude":50.269181,
     "lbl:longitude":30.367253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.269181,
     "mps:longitude":30.367253,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Markhalivka"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0445\u0430\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markhalevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8516359,
         "gp:id":920015,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"cbee3dd6a8c66a76c23cbc6132c228cc",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101869485,
-    "wof:lastmodified":1544750320,
+    "wof:lastmodified":1566593407,
     "wof:name":"\u041c\u0430\u0440\u0445\u0430\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088687,
     "wof:placetype":"locality",

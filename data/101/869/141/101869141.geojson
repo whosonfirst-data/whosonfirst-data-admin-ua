@@ -10,12 +10,16 @@
     "geom:latitude":49.300077,
     "geom:longitude":39.168442,
     "iso:country":"UA",
+    "lbl:bbox":"39.148442,49.280077,39.188442,49.320077",
     "lbl:latitude":49.300077,
     "lbl:longitude":39.168442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.300077,
     "mps:longitude":39.168442,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Luhans'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518491,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"6a329a900b12c3330bf182d0fe6bda46",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101869141,
-    "wof:lastmodified":1544750129,
+    "wof:lastmodified":1566593444,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435",
     "wof:parent_id":102088911,
     "wof:placetype":"locality",

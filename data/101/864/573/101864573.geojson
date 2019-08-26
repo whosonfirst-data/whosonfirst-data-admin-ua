@@ -10,12 +10,16 @@
     "geom:latitude":51.522426,
     "geom:longitude":26.539111,
     "iso:country":"UA",
+    "lbl:bbox":"26.519111,51.502426,26.559111,51.542426",
     "lbl:latitude":51.522426,
     "lbl:longitude":26.539111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.522426,
     "mps:longitude":26.539111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Berest\u2019ye"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bere\u015bcie"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":712394,
         "gp:id":919370,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"4430f99981e9600e6561bfe138f86e52",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101864573,
-    "wof:lastmodified":1544747596,
+    "wof:lastmodified":1566593762,
     "wof:name":"\u0411\u0435\u0440\u0435\u0441\u0442\u044f",
     "wof:parent_id":102088889,
     "wof:placetype":"locality",

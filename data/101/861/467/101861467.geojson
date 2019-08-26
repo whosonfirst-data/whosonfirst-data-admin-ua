@@ -10,12 +10,16 @@
     "geom:latitude":48.904937,
     "geom:longitude":25.108918,
     "iso:country":"UA",
+    "lbl:bbox":"25.088918,48.884937,25.128918,48.924937",
     "lbl:latitude":48.904937,
     "lbl:longitude":25.108918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.904937,
     "mps:longitude":25.108918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kutyshche"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0442\u0438\u0449\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kutyska"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":703534,
         "gp:id":936112,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q6448679"
     },
     "wof:country":"UA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101861467,
-    "wof:lastmodified":1563302562,
+    "wof:lastmodified":1566593321,
     "wof:name":"\u041a\u0443\u0442\u0438\u0449\u0435",
     "wof:parent_id":102088155,
     "wof:placetype":"locality",

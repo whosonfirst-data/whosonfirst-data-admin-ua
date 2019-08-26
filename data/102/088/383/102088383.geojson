@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.371822,
     "lbl:longitude":32.713089,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirovohradska",
     "meso:admin_1":"\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Novhorodkivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":32.712625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Novhorodkivs'kyi"
     ],
@@ -41,9 +44,6 @@
         "Novhorodkivs'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"997",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Novhorodka",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088383,
-    "wof:lastmodified":1554317298,
+    "wof:lastmodified":1566591381,
     "wof:name":"Novhorodkivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

@@ -10,19 +10,23 @@
     "geom:latitude":49.918857,
     "geom:longitude":29.498814,
     "iso:country":"UA",
+    "lbl:bbox":"29.478814,49.898857,29.518814,49.938857",
     "lbl:latitude":49.918857,
     "lbl:longitude":29.498814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.918857,
     "mps:longitude":29.498814,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Parypcy"
     ],
     "name:ukr_x_variant":[
         "\u041f\u0430\u0440\u0438\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paripsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":697989,
         "gp:id":931439,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"9addb7cd71cebdbe17a1f3b583b368c6",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101869325,
-    "wof:lastmodified":1544750232,
+    "wof:lastmodified":1566593422,
     "wof:name":"\u041f\u0430\u0440\u0438\u043f\u0441\u0438",
     "wof:parent_id":102088623,
     "wof:placetype":"locality",

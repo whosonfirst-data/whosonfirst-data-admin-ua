@@ -10,12 +10,16 @@
     "geom:latitude":50.092361,
     "geom:longitude":27.726814,
     "iso:country":"UA",
+    "lbl:bbox":"27.706814,50.072361,27.746814,50.112361",
     "lbl:latitude":50.092361,
     "lbl:longitude":27.726814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.092361,
     "mps:longitude":27.726814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u044b\u0440\u043e\u043f\u0456\u043b\u044c"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043e\u043f\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novy Miropol\u2019"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":701023,
         "gp:id":927179,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2980442",
         "wk:page":"Myropil (urban-type settlement)"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101864071,
-    "wof:lastmodified":1563303535,
+    "wof:lastmodified":1566593754,
     "wof:name":"\u041c\u0438\u0440\u043e\u043f\u0456\u043b\u044c",
     "wof:parent_id":85688791,
     "wof:placetype":"locality",

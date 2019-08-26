@@ -10,19 +10,23 @@
     "geom:latitude":49.809639,
     "geom:longitude":26.973886,
     "iso:country":"UA",
+    "lbl:bbox":"26.953886,49.789639,26.993886,49.829639",
     "lbl:latitude":49.809639,
     "lbl:longitude":26.973886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.809639,
     "mps:longitude":26.973886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Kremenchuky"
     ],
     "name:ukr_x_variant":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kremenchugi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":704146,
         "gp:id":915895,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"5822cbae517764b47dd1b9f19f137863",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101862353,
-    "wof:lastmodified":1544746441,
+    "wof:lastmodified":1566593670,
     "wof:name":"\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a\u0438",
     "wof:parent_id":102088455,
     "wof:placetype":"locality",

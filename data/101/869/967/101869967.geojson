@@ -10,12 +10,16 @@
     "geom:latitude":50.091783,
     "geom:longitude":33.935292,
     "iso:country":"UA",
+    "lbl:bbox":"33.915292,50.071783,33.955292,50.111783",
     "lbl:latitude":50.091783,
     "lbl:longitude":33.935292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.091783,
     "mps:longitude":33.935292,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Savintsy"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0421\u0430\u0432\u0438\u043d\u0446\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Savintsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":694750,
         "gp:id":937380,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"2601f191d7c8540519dc2c74421bc049",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101869967,
-    "wof:lastmodified":1544750536,
+    "wof:lastmodified":1566593425,
     "wof:name":"\u0421\u0430\u0432\u0438\u043d\u0446\u0456",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

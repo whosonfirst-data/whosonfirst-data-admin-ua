@@ -10,12 +10,16 @@
     "geom:latitude":51.292969,
     "geom:longitude":33.411973,
     "iso:country":"UA",
+    "lbl:bbox":"33.391973,51.272969,33.431973,51.312969",
     "lbl:latitude":51.292969,
     "lbl:longitude":33.411973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.292969,
     "mps:longitude":33.411973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bochechki"
     ],
@@ -37,9 +41,6 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u0447\u0435\u0447\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Bochechki"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Sums'ka",
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":711983,
         "gp:id":922059,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4095367"
     },
     "wof:country":"UA",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":101871571,
-    "wof:lastmodified":1563303322,
+    "wof:lastmodified":1566593662,
     "wof:name":"\u0411\u043e\u0447\u0435\u0447\u043a\u0438",
     "wof:parent_id":1108815701,
     "wof:placetype":"locality",

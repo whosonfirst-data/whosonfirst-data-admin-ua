@@ -11,12 +11,16 @@
     "geom:longitude":34.469815,
     "gn:population":7638,
     "iso:country":"UA",
+    "lbl:bbox":"34.449815,48.929867,34.489815,48.969867",
     "lbl:latitude":48.949867,
     "lbl:longitude":34.469815,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.949867,
     "mps:longitude":34.469815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tsarychanka"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0440\u0438\u0447\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaritschanka"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":691155,
         "gp:id":936421,
-        "qs:id":128237,
+        "qs_pg:id":128237,
         "wd:id":"Q148126"
     },
     "wof:country":"UA",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":101868467,
-    "wof:lastmodified":1563302676,
+    "wof:lastmodified":1566593369,
     "wof:name":"\u0426\u0430\u0440\u0438\u0447\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088613,
     "wof:placetype":"locality",

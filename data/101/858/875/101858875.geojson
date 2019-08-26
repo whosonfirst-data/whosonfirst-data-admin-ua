@@ -10,12 +10,16 @@
     "geom:latitude":46.028947,
     "geom:longitude":34.542347,
     "iso:country":"UA",
+    "lbl:bbox":"34.522347,46.008947,34.562347,46.048947",
     "lbl:latitude":46.028947,
     "lbl:longitude":34.542347,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.028947,
     "mps:longitude":34.542347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschonhar"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_variant":[
         "Chonhar"
     ],
-    "name:unk_x_variant":[
-        "Chongar"
-    ],
     "name:zho_x_preferred":[
         "\u74ca\u52a0\u723e"
     ],
@@ -74,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":216,
     "wof:belongsto":[
         102191581,
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":7031339,
         "gp:id":924007,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q3736537"
     },
     "wof:country":"UA",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":101858875,
-    "wof:lastmodified":1563302937,
+    "wof:lastmodified":1566593483,
     "wof:name":"\u0427\u043e\u043d\u0433\u0430\u0440",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

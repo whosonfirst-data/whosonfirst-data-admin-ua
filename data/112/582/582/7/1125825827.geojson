@@ -9,15 +9,18 @@
     "geom:bbox":"23.42113,48.04911,23.42113,48.04911",
     "geom:latitude":48.04911,
     "geom:longitude":23.42113,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7838,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7838,
     "iso:country":"UA",
+    "lbl:bbox":"23.40113,48.02911,23.44113,48.06911",
     "lbl:latitude":48.04911,
     "lbl:longitude":23.42113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0634\u0643\u0648\u0641\u0648"
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00fd\u0161kovo"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":1028353,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125825827,
-    "wof:lastmodified":1563303926,
+    "wof:lastmodified":1566593942,
     "wof:name":"Vyshkovo",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

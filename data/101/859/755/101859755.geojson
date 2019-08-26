@@ -10,12 +10,16 @@
     "geom:latitude":48.732508,
     "geom:longitude":22.516973,
     "iso:country":"UA",
+    "lbl:bbox":"22.496973,48.712508,22.536973,48.752508",
     "lbl:latitude":48.732508,
     "lbl:longitude":22.516973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.732508,
     "mps:longitude":22.516973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Simer"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":693808,
         "gp:id":930333,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q225267"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101859755,
-    "wof:lastmodified":1561776903,
+    "wof:lastmodified":1566593208,
     "wof:name":"\u0421\u0456\u043c\u0435\u0440",
     "wof:parent_id":102088067,
     "wof:placetype":"locality",

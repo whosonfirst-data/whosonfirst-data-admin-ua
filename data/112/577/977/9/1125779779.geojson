@@ -9,15 +9,18 @@
     "geom:bbox":"26.67435,50.6003,26.67435,50.6003",
     "geom:latitude":50.6003,
     "geom:longitude":26.67435,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5084,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5084,
     "iso:country":"UA",
+    "lbl:bbox":"26.65435,50.5803,26.69435,50.6203",
     "lbl:latitude":50.6003,
     "lbl:longitude":26.67435,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0648\u0634\u062a\u0634\u0627"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0449\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goshcha"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":128720,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125779779,
-    "wof:lastmodified":1563303994,
+    "wof:lastmodified":1566593968,
     "wof:name":"Hoshcha",
     "wof:parent_id":102088659,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":49.092971,
     "geom:longitude":26.37311,
     "iso:country":"UA",
+    "lbl:bbox":"26.35311,49.072971,26.39311,49.112971",
     "lbl:latitude":49.092971,
     "lbl:longitude":26.37311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.092971,
     "mps:longitude":26.37311,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ivakhnovtsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":707520,
         "gp:id":918111,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"cd747ff8824e09be3c496692fd023342",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861817,
-    "wof:lastmodified":1544746161,
+    "wof:lastmodified":1566593298,
     "wof:name":"\u0406\u0432\u0430\u0445\u043d\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088243,
     "wof:placetype":"locality",

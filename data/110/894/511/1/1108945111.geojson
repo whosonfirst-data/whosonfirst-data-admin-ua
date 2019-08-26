@@ -10,8 +10,10 @@
     "geom:latitude":50.400765,
     "geom:longitude":30.671713,
     "iso:country":"UA",
+    "lbl:bbox":"30.6667127544,50.3957649001,30.6767127544,50.4057649001",
     "lbl:latitude":50.400765,
     "lbl:longitude":30.671713,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,13 +29,13 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u043d\u0438\u0446\u044c\u043a\u0438\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108945111,
-    "wof:lastmodified":1500072245,
+    "wof:lastmodified":1566592889,
     "wof:name":"Darnytsia",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

@@ -10,13 +10,17 @@
     "geom:latitude":48.900533,
     "geom:longitude":24.99342,
     "iso:country":"UA",
+    "lbl:bbox":"24.97342,48.880533,25.01342,48.920533",
     "lbl:latitude":48.900533,
     "lbl:longitude":24.99342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.900533,
     "mps:longitude":24.99342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Palahychi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":698054,
         "gp:id":936112,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"667a96751f9ebf0574d600a294cd4f9d",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861465,
-    "wof:lastmodified":1544745978,
+    "wof:lastmodified":1566593304,
     "wof:name":"\u041f\u0430\u043b\u0430\u0433\u0438\u0447\u0456",
     "wof:parent_id":102088155,
     "wof:placetype":"locality",

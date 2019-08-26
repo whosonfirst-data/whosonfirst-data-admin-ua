@@ -11,12 +11,16 @@
     "geom:longitude":27.636313,
     "gn:population":5771,
     "iso:country":"UA",
+    "lbl:bbox":"27.616313,49.574054,27.656313,49.614054",
     "lbl:latitude":49.594054,
     "lbl:longitude":27.636313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.594054,
     "mps:longitude":27.636313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0421\u044b\u043d\u044f\u0432\u0430"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0421\u0438\u043d\u044f\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Sinyava"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":692866,
         "gp:id":934871,
-        "qs:id":128255,
+        "qs_pg:id":128255,
         "wd:id":"Q2391293"
     },
     "wof:country":"UA",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":101862659,
-    "wof:lastmodified":1563303372,
+    "wof:lastmodified":1566593684,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0421\u0438\u043d\u044f\u0432\u043a\u0430",
     "wof:parent_id":102088457,
     "wof:placetype":"locality",

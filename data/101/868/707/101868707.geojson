@@ -10,12 +10,16 @@
     "geom:latitude":49.154636,
     "geom:longitude":34.74663,
     "iso:country":"UA",
+    "lbl:bbox":"34.72663,49.134636,34.76663,49.174636",
     "lbl:latitude":49.154636,
     "lbl:longitude":34.74663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.154636,
     "mps:longitude":34.74663,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nekhvoroshcha"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0445\u0432\u043e\u0440\u043e\u0449\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nekhvdroshcha"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":700353,
         "gp:id":927787,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"30366f71433a6f53525b798560a7e657",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":101868707,
-    "wof:lastmodified":1544749885,
+    "wof:lastmodified":1566593337,
     "wof:name":"\u041d\u0435\u0445\u0432\u043e\u0440\u043e\u0449\u0430",
     "wof:parent_id":102088685,
     "wof:placetype":"locality",

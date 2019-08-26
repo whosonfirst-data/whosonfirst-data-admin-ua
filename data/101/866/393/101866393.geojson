@@ -10,12 +10,16 @@
     "geom:latitude":48.135893,
     "geom:longitude":30.332981,
     "iso:country":"UA",
+    "lbl:bbox":"30.312981,48.115893,30.352981,48.155893",
     "lbl:latitude":48.135893,
     "lbl:longitude":30.332981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.135893,
     "mps:longitude":30.332981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Krasnenke"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0435\u043d\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnen\u2019koye"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":704427,
         "gp:id":937237,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4238188"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101866393,
-    "wof:lastmodified":1563302449,
+    "wof:lastmodified":1566593272,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0435\u043d\u044c\u043a\u0435",
     "wof:parent_id":102088173,
     "wof:placetype":"locality",

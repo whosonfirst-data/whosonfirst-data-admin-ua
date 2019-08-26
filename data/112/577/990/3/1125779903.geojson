@@ -9,15 +9,18 @@
     "geom:bbox":"38.73067,49.5341,38.73067,49.5341",
     "geom:latitude":49.5341,
     "geom:longitude":38.73067,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7712,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7712,
     "iso:country":"UA",
+    "lbl:bbox":"38.71067,49.5141,38.75067,49.5541",
     "lbl:latitude":49.5341,
     "lbl:longitude":38.73067,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0643\u0648\u0631\u0627\u0643\u064a\u0646\u064a\u060c \u0644\u0648\u0647\u0627\u0646\u0633\u0643\u0627"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u043a\u0443\u0440\u0430\u043a\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belokurakino"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":128835,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125779903,
-    "wof:lastmodified":1563303991,
+    "wof:lastmodified":1566593966,
     "wof:name":"Bilokurakyne",
     "wof:parent_id":102088961,
     "wof:placetype":"locality",

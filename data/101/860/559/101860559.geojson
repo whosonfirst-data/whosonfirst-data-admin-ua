@@ -10,12 +10,16 @@
     "geom:latitude":48.762171,
     "geom:longitude":22.991535,
     "iso:country":"UA",
+    "lbl:bbox":"22.971535,48.742171,23.011535,48.782171",
     "lbl:latitude":48.762171,
     "lbl:longitude":22.991535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.762171,
     "mps:longitude":22.991535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u062f\u064a\u0646\u064a\u064a\u0641\u0648"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_variant":[
         "Zhdeniyevo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhdeniova"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":687231,
         "gp:id":922691,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1193938",
         "wk:page":"Zhdeniievo"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":101860559,
-    "wof:lastmodified":1563302856,
+    "wof:lastmodified":1566593449,
     "wof:name":"\u0416\u0434\u0435\u043d\u0456\u0454\u0432\u043e",
     "wof:parent_id":102088085,
     "wof:placetype":"locality",

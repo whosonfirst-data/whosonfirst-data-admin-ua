@@ -10,12 +10,16 @@
     "geom:latitude":45.731856,
     "geom:longitude":33.515411,
     "iso:country":"UA",
+    "lbl:bbox":"33.495411,45.711856,33.535411,45.751856",
     "lbl:latitude":45.731856,
     "lbl:longitude":33.515411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.731856,
     "mps:longitude":33.515411,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Senokosnoye"
     ],
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":7026824,
         "gp:id":12518401,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"fd4ce4d28193402134fc34412263d195",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101858649,
-    "wof:lastmodified":1544744511,
+    "wof:lastmodified":1566593490,
     "wof:name":"\u0421\u0456\u043d\u043e\u043a\u0456\u0441\u043d\u0435",
     "wof:parent_id":1108738645,
     "wof:placetype":"locality",

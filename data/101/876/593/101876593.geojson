@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.110547,
     "lbl:longitude":22.957758,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.110547,
     "mps:longitude":22.957758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyzhnya Yablunka"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u042f\u0431\u043b\u0443\u043d\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yablon\u2019ka Nizhnyaya"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +59,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":699944,
         "gp:id":936589,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4319456"
     },
     "wof:country":"UA",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101876593,
-    "wof:lastmodified":1561776963,
+    "wof:lastmodified":1566593577,
     "wof:name":"\u041d\u0438\u0436\u043d\u044f \u042f\u0431\u043b\u0443\u043d\u044c\u043a\u0430",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

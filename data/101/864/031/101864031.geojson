@@ -10,12 +10,16 @@
     "geom:latitude":50.240254,
     "geom:longitude":24.14485,
     "iso:country":"UA",
+    "lbl:bbox":"24.12485,50.220254,24.16485,50.260254",
     "lbl:latitude":50.240254,
     "lbl:longitude":24.14485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.240254,
     "mps:longitude":24.14485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a \u0645\u0648\u0633\u062a\u064a"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_variant":[
         "Velyki Mosty"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shiye Mosty"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +123,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":353,
     "wof:belongsto":[
         102191581,
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":690155,
         "gp:id":937372,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q912378",
         "wk:page":"Velyki Mosty"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":101864031,
-    "wof:lastmodified":1563303541,
+    "wof:lastmodified":1566593757,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0456 \u041c\u043e\u0441\u0442\u0438",
     "wof:parent_id":102088549,
     "wof:placetype":"locality",

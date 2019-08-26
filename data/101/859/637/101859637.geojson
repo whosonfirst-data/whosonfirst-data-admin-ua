@@ -11,12 +11,16 @@
     "geom:longitude":22.244744,
     "gn:population":2623,
     "iso:country":"UA",
+    "lbl:bbox":"22.224744,48.583196,22.264744,48.623196",
     "lbl:latitude":48.603196,
     "lbl:longitude":22.244744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.603196,
     "mps:longitude":22.244744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Storozhnytsya"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u043e\u0440\u043e\u0436\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iovro-Darma"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":188,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":692485,
         "gp:id":823259,
-        "qs:id":82765,
+        "qs_pg:id":82765,
         "wd:id":"Q854431"
     },
     "wof:country":"UA",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101859637,
-    "wof:lastmodified":1563302372,
+    "wof:lastmodified":1566593239,
     "wof:name":"\u0421\u0442\u043e\u0440\u043e\u0436\u043d\u0438\u0446\u044f",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

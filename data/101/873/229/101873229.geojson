@@ -10,12 +10,16 @@
     "geom:latitude":51.604731,
     "geom:longitude":32.001107,
     "iso:country":"UA",
+    "lbl:bbox":"31.981107,51.584731,32.021107,51.624731",
     "lbl:latitude":51.604731,
     "lbl:longitude":32.001107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.604731,
     "mps:longitude":32.001107,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sinyavka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0421\u0438\u043d\u044f\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Sinyavka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":693764,
         "gp:id":934022,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"edd8b70091fa3a7cc4a75867e693df4d",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101873229,
-    "wof:lastmodified":1544751533,
+    "wof:lastmodified":1566593194,
     "wof:name":"\u0421\u0438\u043d\u044f\u0432\u043a\u0430",
     "wof:parent_id":102088987,
     "wof:placetype":"locality",

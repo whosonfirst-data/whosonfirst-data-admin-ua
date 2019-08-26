@@ -11,12 +11,16 @@
     "geom:longitude":33.995754,
     "gn:population":4221,
     "iso:country":"UA",
+    "lbl:bbox":"33.975754,45.856567,34.015754,45.896567",
     "lbl:latitude":45.876567,
     "lbl:longitude":33.995754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.876567,
     "mps:longitude":33.995754,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Voinka"
     ],
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688855,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":689307,
         "gp:id":12518472,
-        "qs:id":275413
+        "qs_pg:id":275413
     },
     "wof:country":"UA",
     "wof:geomhash":"33ee9c083a96b9c6240812c6acd469d7",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101858839,
-    "wof:lastmodified":1544744610,
+    "wof:lastmodified":1566593494,
     "wof:name":"\u0412\u043e\u0457\u043d\u043a\u0430",
     "wof:parent_id":1108738619,
     "wof:placetype":"locality",

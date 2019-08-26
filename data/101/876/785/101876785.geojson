@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.438751,
     "lbl:longitude":27.401604,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.438751,
     "mps:longitude":27.401604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0433\u0430\u0440\u0430\u0434\u0441\u043a\u043e\u0433\u0430 \u0442\u044b\u043f\u0443 \u041c\u044d\u0434\u0436\u044b\u0431\u0456\u0436"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0436\u0438\u0431\u0456\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Medshibosh"
     ],
     "name:yid_x_preferred":[
@@ -114,7 +117,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3586,
     "wof:belongsto":[
@@ -127,7 +130,7 @@
     "wof:concordances":{
         "gn:id":701425,
         "gp:id":926805,
-        "qs:id":279174,
+        "qs_pg:id":279174,
         "wd:id":"Q1022485",
         "wk:page":"Medzhybizh"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101876785,
-    "wof:lastmodified":1563303182,
+    "wof:lastmodified":1566593596,
     "wof:name":"\u041c\u0435\u0434\u0436\u0438\u0431\u0456\u0436",
     "wof:parent_id":102088391,
     "wof:placetype":"locality",

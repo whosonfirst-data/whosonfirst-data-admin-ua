@@ -10,12 +10,16 @@
     "geom:latitude":49.551412,
     "geom:longitude":33.752488,
     "iso:country":"UA",
+    "lbl:bbox":"33.732488,49.531412,33.772488,49.571412",
     "lbl:latitude":49.551412,
     "lbl:longitude":33.752488,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.551412,
     "mps:longitude":33.752488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ostapje"
     ],
@@ -44,7 +48,7 @@
         "\u041e\u0441\u0442\u0430\u043f\u2019\u0454",
         "\u041e\u0441\u0442\u0430\u043f'\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostapovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":698250,
         "gp:id":929841,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4338556"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101868907,
-    "wof:lastmodified":1563302590,
+    "wof:lastmodified":1566593333,
     "wof:name":"\u041e\u0441\u0442\u0430\u043f'\u0454",
     "wof:parent_id":102088765,
     "wof:placetype":"locality",

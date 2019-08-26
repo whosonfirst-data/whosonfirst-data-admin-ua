@@ -10,12 +10,16 @@
     "geom:latitude":45.838757,
     "geom:longitude":33.61345,
     "iso:country":"UA",
+    "lbl:bbox":"33.59345,45.818757,33.63345,45.858757",
     "lbl:latitude":45.838757,
     "lbl:longitude":33.61345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.838757,
     "mps:longitude":33.61345,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kumovo"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":703689,
         "gp:id":12518435,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"c6a8f93c26ba03c5773ef8d7365ee078",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858659,
-    "wof:lastmodified":1544744516,
+    "wof:lastmodified":1566593485,
     "wof:name":"\u041a\u0443\u043c\u043e\u0432\u0435",
     "wof:parent_id":1108738645,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.014048,
     "geom:longitude":25.994985,
     "iso:country":"UA",
+    "lbl:bbox":"25.974985,48.994048,26.014985,49.034048",
     "lbl:latitude":49.014048,
     "lbl:longitude":25.994985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.014048,
     "mps:longitude":25.994985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Probischna"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0431\u0456\u0436\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Probezhnaya"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":696201,
         "gp:id":923502,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4379516",
         "wk:page":"Probizhna"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101861673,
-    "wof:lastmodified":1563302507,
+    "wof:lastmodified":1566593298,
     "wof:name":"\u041f\u0440\u043e\u0431\u0456\u0436\u043d\u0430",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

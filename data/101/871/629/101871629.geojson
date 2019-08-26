@@ -10,12 +10,16 @@
     "geom:latitude":51.685098,
     "geom:longitude":33.684632,
     "iso:country":"UA",
+    "lbl:bbox":"33.664632,51.665098,33.704632,51.705098",
     "lbl:latitude":51.685098,
     "lbl:longitude":33.684632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.685098,
     "mps:longitude":33.684632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shevchenkovo"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chertorigi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":113,
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":694131,
         "gp:id":933672,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"9b330b621377c4ff825e12fa17c9e8cb",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101871629,
-    "wof:lastmodified":1544751186,
+    "wof:lastmodified":1566593635,
     "wof:name":"\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435",
     "wof:parent_id":1108815699,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.883019,
     "lbl:longitude":23.466777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.883019,
     "mps:longitude":23.466777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Prilbi\u010di"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":435,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939068,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4378519"
     },
     "wof:country":"UA",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101876801,
-    "wof:lastmodified":1563303218,
+    "wof:lastmodified":1566593616,
     "wof:name":"\u041f\u0440\u0438\u043b\u0431\u0438\u0447\u0456",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

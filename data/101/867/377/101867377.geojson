@@ -10,12 +10,16 @@
     "geom:latitude":48.702637,
     "geom:longitude":28.979159,
     "iso:country":"UA",
+    "lbl:bbox":"28.959159,48.682637,28.999159,48.722637",
     "lbl:latitude":48.702637,
     "lbl:longitude":28.979159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.702637,
     "mps:longitude":28.979159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Osman\u00e7\u0131q"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043b\u043e\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kholodivka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":246.0,
     "wd:latitude":45.051389,
     "wd:longitude":34.993056,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":706329,
         "gp:id":936533,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"fa634c0e143c8eebb4a4e3a000944130",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101867377,
-    "wof:lastmodified":1544749142,
+    "wof:lastmodified":1566593514,
     "wof:name":"\u0425\u043e\u043b\u043e\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088267,
     "wof:placetype":"locality",

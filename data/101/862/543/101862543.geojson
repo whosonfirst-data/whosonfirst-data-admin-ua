@@ -11,12 +11,16 @@
     "geom:longitude":26.643371,
     "gn:population":1631,
     "iso:country":"UA",
+    "lbl:bbox":"26.623371,49.497951,26.663371,49.537951",
     "lbl:latitude":49.517951,
     "lbl:longitude":26.643371,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.517951,
     "mps:longitude":26.643371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0440\u043a\u044d\u0432\u044b\u0447\u044b"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u043a\u0435\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yasne"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":829788,
         "gp:id":918329,
-        "qs:id":554337,
+        "qs_pg:id":554337,
         "wd:id":"Q1973665",
         "wk:page":"Narkevychi"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101862543,
-    "wof:lastmodified":1563303380,
+    "wof:lastmodified":1566593688,
     "wof:name":"\u041d\u0430\u0440\u043a\u0435\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088397,
     "wof:placetype":"locality",

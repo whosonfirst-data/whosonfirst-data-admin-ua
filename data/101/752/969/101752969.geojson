@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":51.499111,
     "lbl:longitude":31.276837,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.499111,
     "mps:longitude":31.276837,
     "mz:hierarchy_label":1,
@@ -294,7 +296,7 @@
     "name:ukr_x_variant":[
         "Chernihiv"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschernigow"
     ],
     "name:urd_x_preferred":[
@@ -423,7 +425,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1645,
     "wof:belongsto":[
@@ -436,10 +438,12 @@
     "wof:concordances":{
         "gn:id":710735,
         "gp:id":918233,
-        "qs:id":1028613,
         "qs_pg:id":240827,
         "wd:id":"Q157053",
         "wk:page":"Chernihiv"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028613
     },
     "wof:country":"UA",
     "wof:geomhash":"90b1ad3fad2592cab9fca5ba069dea03",
@@ -453,7 +457,7 @@
         }
     ],
     "wof:id":101752969,
-    "wof:lastmodified":1563302211,
+    "wof:lastmodified":1566593186,
     "wof:name":"\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432",
     "wof:parent_id":1108815851,
     "wof:placetype":"locality",

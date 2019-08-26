@@ -10,12 +10,16 @@
     "geom:latitude":51.478658,
     "geom:longitude":26.606795,
     "iso:country":"UA",
+    "lbl:bbox":"26.586795,51.458658,26.626795,51.498658",
     "lbl:latitude":51.478658,
     "lbl:longitude":26.606795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.478658,
     "mps:longitude":26.606795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Tamboma\u00e7ay"
     ],
@@ -74,7 +78,7 @@
         "Lyubykovychi",
         "\u041b\u044e\u0431\u0438\u043a\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyubikovochi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":-13.480833,
     "wd:longitude":-71.964722,
     "wd:wordcount":207,
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":8075949,
         "gp:id":919370,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wk:page":"Tambomachay"
     },
     "wof:country":"UA",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101864395,
-    "wof:lastmodified":1564197778,
+    "wof:lastmodified":1566593763,
     "wof:name":"\u041b\u044e\u0431\u0438\u043a\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088833,
     "wof:placetype":"locality",

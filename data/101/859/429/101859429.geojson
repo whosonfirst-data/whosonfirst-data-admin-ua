@@ -10,12 +10,16 @@
     "geom:latitude":48.426866,
     "geom:longitude":23.296832,
     "iso:country":"UA",
+    "lbl:bbox":"23.276832,48.406866,23.316832,48.446866",
     "lbl:latitude":48.426866,
     "lbl:longitude":23.296832,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.426866,
     "mps:longitude":23.296832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Suha"
     ],
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":8280402,
         "gp:id":919088,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3850195"
     },
     "wof:country":"UA",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":101859429,
-    "wof:lastmodified":1563302363,
+    "wof:lastmodified":1566593236,
     "wof:name":"\u0421\u0443\u0445\u0430",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

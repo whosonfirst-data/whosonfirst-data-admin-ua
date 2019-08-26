@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":45.2029,
     "lbl:longitude":33.362578,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":45.2029,
     "mps:longitude":33.362578,
     "mz:hierarchy_label":1,
@@ -390,7 +392,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":10.0,
     "wd:latitude":45.193889,
@@ -410,7 +412,6 @@
         "fct:id":"0828acc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":688105,
         "gp:id":939240,
-        "qs:id":128166,
         "qs_pg:id":128166,
         "wd:id":"Q33345",
         "wk:page":"Yevpatoria"
@@ -440,7 +441,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302170,
+    "wof:lastmodified":1566593178,
     "wof:name":"\u0404\u0432\u043f\u0430\u0442\u043e\u0440\u0456\u044f",
     "wof:parent_id":1108738675,
     "wof:placetype":"locality",

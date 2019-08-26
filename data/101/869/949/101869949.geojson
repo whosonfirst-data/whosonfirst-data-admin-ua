@@ -10,12 +10,16 @@
     "geom:latitude":50.203848,
     "geom:longitude":33.032643,
     "iso:country":"UA",
+    "lbl:bbox":"33.012643,50.183848,33.052643,50.223848",
     "lbl:latitude":50.203848,
     "lbl:longitude":33.032643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.203848,
     "mps:longitude":33.032643,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Voron'ki"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0412\u043e\u0440\u043e\u043d\u044c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Voron\u2019ki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":689020,
         "gp:id":938368,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"af6f443cf4e2439f1946ec257c3e0a93",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869949,
-    "wof:lastmodified":1544750528,
+    "wof:lastmodified":1566593420,
     "wof:name":"\u0412\u043e\u0440\u043e\u043d\u044c\u043a\u0438",
     "wof:parent_id":102088825,
     "wof:placetype":"locality",

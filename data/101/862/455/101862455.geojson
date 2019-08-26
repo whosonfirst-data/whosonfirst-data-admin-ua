@@ -11,12 +11,16 @@
     "geom:longitude":23.369536,
     "gn:population":6420,
     "iso:country":"UA",
+    "lbl:bbox":"23.349536,49.76544,23.389536,49.80544",
     "lbl:latitude":49.78544,
     "lbl:longitude":23.369536,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.78544,
     "mps:longitude":23.369536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0432\u0430 \u0412\u044b\u0448\u043d\u044f"
     ],
@@ -86,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0432\u0430 \u0412\u0438\u0448\u043d\u044f"
     ],
-    "name:unk_x_variant":[
-        "S\u0105dowa Wisznia"
-    ],
     "name:vie_x_preferred":[
         "Sudova Vyshnia"
     ],
@@ -114,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":636,
     "wof:belongsto":[
@@ -127,7 +128,7 @@
     "wof:concordances":{
         "gn:id":692301,
         "gp:id":935402,
-        "qs:id":43868,
+        "qs_pg:id":43868,
         "wd:id":"Q1026911",
         "wk:page":"Sudova Vyshnia"
     },
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":101862455,
-    "wof:lastmodified":1563303369,
+    "wof:lastmodified":1566593682,
     "wof:name":"\u0421\u0443\u0434\u043e\u0432\u0430 \u0412\u0438\u0448\u043d\u044f",
     "wof:parent_id":102088333,
     "wof:placetype":"locality",

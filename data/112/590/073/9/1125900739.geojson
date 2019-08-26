@@ -9,15 +9,18 @@
     "geom:bbox":"24.70867,51.21526,24.70867,51.21526",
     "geom:latitude":51.21526,
     "geom:longitude":24.70867,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":66400,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":66400,
     "iso:country":"UA",
+    "lbl:bbox":"24.68867,51.19526,24.72867,51.23526",
     "lbl:latitude":51.21526,
     "lbl:longitude":24.70867,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0641\u0644"
@@ -154,9 +157,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Kowel"
-    ],
     "name:vie_x_preferred":[
         "Kovel"
     ],
@@ -178,7 +178,7 @@
     "qs_pg:qs_id":1028558,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1125900739,
-    "wof:lastmodified":1563303868,
+    "wof:lastmodified":1566593923,
     "wof:name":"Kovel\u2019",
     "wof:parent_id":1108730757,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.745565,
     "lbl:longitude":28.078908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.745565,
     "mps:longitude":28.078908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u0428\u0430\u0440\u0433\u043e\u0440\u043e\u0434"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_variant":[
         "Sharhorod"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shargorod"
     ],
     "name:vie_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":465,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
     "wof:concordances":{
         "gn:id":694350,
         "gp:id":933474,
-        "qs:id":82809,
         "qs_pg:id":82809,
         "wd:id":"Q691504",
         "wk:page":"Sharhorod"
@@ -144,7 +146,7 @@
         }
     ],
     "wof:id":101876711,
-    "wof:lastmodified":1563303232,
+    "wof:lastmodified":1566593623,
     "wof:name":"\u0428\u0430\u0440\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":102088263,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.442532,
     "geom:longitude":29.007397,
     "iso:country":"UA",
+    "lbl:bbox":"28.987397,48.422532,29.027397,48.462532",
     "lbl:latitude":48.442532,
     "lbl:longitude":29.007397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.442532,
     "mps:longitude":29.007397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sokoliwka"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Sokolivka"
-    ],
     "name:zho_x_preferred":[
         "\u7d22\u79d1\u5229\u592b\u5361"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":693256,
         "gp:id":940044,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4427323"
     },
     "wof:country":"UA",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101866441,
-    "wof:lastmodified":1563302417,
+    "wof:lastmodified":1566593258,
     "wof:name":"\u0421\u043e\u043a\u043e\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088193,
     "wof:placetype":"locality",

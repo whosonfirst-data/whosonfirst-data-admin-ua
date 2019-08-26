@@ -11,12 +11,16 @@
     "geom:longitude":31.940853,
     "gn:population":11857,
     "iso:country":"UA",
+    "lbl:bbox":"31.920853,51.803915,31.960853,51.843915",
     "lbl:latitude":51.823915,
     "lbl:longitude":31.940853,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.823915,
     "mps:longitude":31.940853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u0648\u0641\u0633\u0643"
     ],
@@ -113,9 +117,6 @@
     "name:ukr_x_variant":[
         "\u0429\u043e\u0440\u0441"
     ],
-    "name:unk_x_variant":[
-        "Snovsk"
-    ],
     "name:vie_x_preferred":[
         "Snovsk"
     ],
@@ -141,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -154,7 +155,7 @@
     "wof:concordances":{
         "gn:id":694273,
         "gp:id":933547,
-        "qs:id":1085246,
+        "qs_pg:id":1085246,
         "wd:id":"Q148990",
         "wk:page":"Snovsk"
     },
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":101871825,
-    "wof:lastmodified":1563303305,
+    "wof:lastmodified":1566593655,
     "wof:name":"\u0429\u043e\u0440\u0441",
     "wof:parent_id":102089011,
     "wof:placetype":"locality",

@@ -11,19 +11,23 @@
     "geom:longitude":24.215277,
     "gn:population":3641,
     "iso:country":"UA",
+    "lbl:bbox":"24.195277,50.261805,24.235277,50.301805",
     "lbl:latitude":50.281805,
     "lbl:longitude":24.215277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.281805,
     "mps:longitude":24.215277,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ukr_x_preferred":[
         "Silets\u2019"
     ],
     "name:ukr_x_variant":[
         "\u0421\u0456\u043b\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sielec Be\u0142ski"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":694691,
         "gp:id":934653,
-        "qs:id":128291
+        "qs_pg:id":128291
     },
     "wof:country":"UA",
     "wof:geomhash":"3fcb5918fda802e33e4dc48dff415885",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101862779,
-    "wof:lastmodified":1544746658,
+    "wof:lastmodified":1566593691,
     "wof:name":"\u0421\u0456\u043b\u0435\u0446\u044c",
     "wof:parent_id":102088549,
     "wof:placetype":"locality",

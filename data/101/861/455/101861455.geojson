@@ -10,13 +10,17 @@
     "geom:latitude":48.80391,
     "geom:longitude":25.041263,
     "iso:country":"UA",
+    "lbl:bbox":"25.021263,48.78391,25.061263,48.82391",
     "lbl:latitude":48.80391,
     "lbl:longitude":25.041263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.80391,
     "mps:longitude":25.041263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Grushka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":707980,
         "gp:id":936112,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"074a36a6873cacf0d404088a2cf588bb",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101861455,
-    "wof:lastmodified":1544745972,
+    "wof:lastmodified":1566593302,
     "wof:name":"\u0413\u0440\u0443\u0448\u043a\u0430",
     "wof:parent_id":102088155,
     "wof:placetype":"locality",

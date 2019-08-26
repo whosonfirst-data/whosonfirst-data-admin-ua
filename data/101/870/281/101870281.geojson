@@ -10,12 +10,16 @@
     "geom:latitude":51.027684,
     "geom:longitude":32.461106,
     "iso:country":"UA",
+    "lbl:bbox":"32.441106,51.007684,32.481106,51.047684",
     "lbl:latitude":51.027684,
     "lbl:longitude":32.461106,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.027684,
     "mps:longitude":32.461106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ivangorod"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_variant":[
         "Ivanhorod"
-    ],
-    "name:unk_x_variant":[
-        "Ivangorod"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":707507,
         "gp:id":921205,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"94d2e4bf59a42164cdd5473c07b626f4",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":101870281,
-    "wof:lastmodified":1544750625,
+    "wof:lastmodified":1566593549,
     "wof:name":"\u0406\u0432\u0430\u043d\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":102088931,
     "wof:placetype":"locality",

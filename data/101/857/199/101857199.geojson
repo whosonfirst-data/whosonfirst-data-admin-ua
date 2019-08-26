@@ -11,12 +11,16 @@
     "geom:longitude":34.59327,
     "gn:population":18091,
     "iso:country":"UA",
+    "lbl:bbox":"34.57327,45.038116,34.61327,45.078116",
     "lbl:latitude":45.058116,
     "lbl:longitude":34.59327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.058116,
     "mps:longitude":34.59327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0647\u064a\u0631\u0633\u0643"
     ],
@@ -193,7 +197,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":180.0,
     "wd:latitude":45.054444,
@@ -213,7 +217,6 @@
         "fct:id":"0826834c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":712587,
         "gp:id":916915,
-        "qs:id":256091,
         "qs_pg:id":256091,
         "wd:id":"Q863330",
         "wk:page":"Bilohirsk"
@@ -243,7 +246,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302723,
+    "wof:lastmodified":1566593392,
     "wof:name":"\u0411\u0456\u043b\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
     "wof:parent_id":1108738527,
     "wof:placetype":"locality",

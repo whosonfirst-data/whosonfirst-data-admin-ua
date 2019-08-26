@@ -11,20 +11,21 @@
     "geom:longitude":37.480466,
     "gn:population":1440,
     "iso:country":"UA",
+    "lbl:bbox":"37.460466,49.068142,37.500466,49.108142",
     "lbl:latitude":49.088142,
     "lbl:longitude":37.480466,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.088142,
     "mps:longitude":37.480466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Studenok"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d\u043e\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Studenok"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -46,7 +47,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":692352,
         "gp:id":917164,
-        "qs:id":1028393
+        "qs_pg:id":1028393
     },
     "wof:country":"UA",
     "wof:geomhash":"a02ddca9c5c9105c6dccb49341e8af55",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":101869053,
-    "wof:lastmodified":1544750081,
+    "wof:lastmodified":1566593413,
     "wof:name":"\u0421\u0442\u0443\u0434\u0435\u043d\u043e\u043a",
     "wof:parent_id":102088847,
     "wof:placetype":"locality",

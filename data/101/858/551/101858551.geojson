@@ -10,12 +10,16 @@
     "geom:latitude":45.4817,
     "geom:longitude":32.934614,
     "iso:country":"UA",
+    "lbl:bbox":"32.914614,45.4617,32.954614,45.5017",
     "lbl:latitude":45.4817,
     "lbl:longitude":32.934614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.4817,
     "mps:longitude":32.934614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnaya Polyana"
     ],
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         85688855,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101858551,
-    "wof:lastmodified":1544744463,
+    "wof:lastmodified":1566593478,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u0430",
     "wof:parent_id":1108738655,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"37.18111,48.40642,37.18111,48.40642",
     "geom:latitude":48.40642,
     "geom:longitude":37.18111,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9718,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":9718,
     "iso:country":"UA",
+    "lbl:bbox":"37.16111,48.38642,37.20111,48.42642",
     "lbl:latitude":48.40642,
     "lbl:longitude":37.18111,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Belitskoye"
@@ -31,7 +34,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u0438\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khutor Belitskiy"
     ],
     "qs_pg:aaroncc":"UA",
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":916507,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125978447,
-    "wof:lastmodified":1530298014,
+    "wof:lastmodified":1566593925,
     "wof:name":"Belitskoye",
     "wof:parent_id":1108815865,
     "wof:placetype":"locality",

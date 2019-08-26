@@ -10,12 +10,16 @@
     "geom:latitude":48.263111,
     "geom:longitude":28.842442,
     "iso:country":"UA",
+    "lbl:bbox":"28.822442,48.243111,28.862442,48.283111",
     "lbl:latitude":48.263111,
     "lbl:longitude":28.842442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.263111,
     "mps:longitude":28.842442,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hegewald"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0413\u0435\u0433\u0435\u0432\u0430\u043b\u044c\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myrolyubivka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":545,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":712747,
         "gp:id":921422,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q822883"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101866271,
-    "wof:lastmodified":1563302460,
+    "wof:lastmodified":1566593277,
     "wof:name":"\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088139,
     "wof:placetype":"locality",

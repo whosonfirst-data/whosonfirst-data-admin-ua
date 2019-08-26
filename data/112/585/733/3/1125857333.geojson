@@ -9,15 +9,18 @@
     "geom:bbox":"38.51665,48.06252,38.51665,48.06252",
     "geom:latitude":48.06252,
     "geom:longitude":38.51665,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":71700,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":71700,
     "iso:country":"UA",
+    "lbl:bbox":"38.49665,48.04252,38.53665,48.08252",
     "lbl:latitude":48.06252,
     "lbl:longitude":38.51665,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0634\u0627\u062e\u062a\u0627\u0631\u0633\u06a9"
@@ -127,7 +130,7 @@
     "name:ukr_x_variant":[
         "\u0428\u0430\u0445\u0442\u0430\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zapadno-Gruppskiy"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +151,7 @@
     "qs_pg:qs_id":275444,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688779,
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":1125857333,
-    "wof:lastmodified":1563303957,
+    "wof:lastmodified":1566593954,
     "wof:name":"Shakht\u00ebrsk",
     "wof:parent_id":1108815955,
     "wof:placetype":"locality",

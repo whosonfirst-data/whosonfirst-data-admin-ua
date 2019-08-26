@@ -10,12 +10,16 @@
     "geom:latitude":48.554661,
     "geom:longitude":35.776066,
     "iso:country":"UA",
+    "lbl:bbox":"35.756066,48.534661,35.796066,48.574661",
     "lbl:latitude":48.554661,
     "lbl:longitude":35.776066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.554661,
     "mps:longitude":35.776066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Meschyrytsch"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0435\u0436\u0438\u0440\u0456\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mizhirich\u2019"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":329,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":701307,
         "gp:id":926899,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4288771"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101868389,
-    "wof:lastmodified":1563302692,
+    "wof:lastmodified":1566593376,
     "wof:name":"\u041c\u0435\u0436\u0438\u0440\u0456\u0447",
     "wof:parent_id":1108815621,
     "wof:placetype":"locality",

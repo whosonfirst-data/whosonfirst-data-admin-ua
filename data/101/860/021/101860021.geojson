@@ -10,12 +10,16 @@
     "geom:latitude":48.998458,
     "geom:longitude":24.146117,
     "iso:country":"UA",
+    "lbl:bbox":"24.126117,48.978458,24.166117,49.018458",
     "lbl:latitude":48.998458,
     "lbl:longitude":24.146117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.998458,
     "mps:longitude":24.146117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krekhovychi"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u0445\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krekhovitse"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":704151,
         "gp:id":924305,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4240516"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101860021,
-    "wof:lastmodified":1561776950,
+    "wof:lastmodified":1566593470,
     "wof:name":"\u041a\u0440\u0435\u0445\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

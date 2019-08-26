@@ -9,15 +9,18 @@
     "geom:bbox":"30.95501,50.35269,30.95501,50.35269",
     "geom:latitude":50.35269,
     "geom:longitude":30.95501,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":55000,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":55000,
     "iso:country":"UA",
+    "lbl:bbox":"30.93501,50.33269,30.97501,50.37269",
     "lbl:latitude":50.35269,
     "lbl:longitude":30.95501,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a\u0633\u0628\u064a\u0644"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043f\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borispol\u2019"
     ],
     "name:uzb_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:qs_id":128797,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1125936473,
-    "wof:lastmodified":1563303766,
+    "wof:lastmodified":1566593884,
     "wof:name":"Boryspil\u2019",
     "wof:parent_id":1108815915,
     "wof:placetype":"locality",

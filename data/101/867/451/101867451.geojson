@@ -10,20 +10,21 @@
     "geom:latitude":48.484574,
     "geom:longitude":30.120658,
     "iso:country":"UA",
+    "lbl:bbox":"30.100658,48.464574,30.140658,48.504574",
     "lbl:latitude":48.484574,
     "lbl:longitude":30.120658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.484574,
     "mps:longitude":30.120658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolodistoye"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0434\u0438\u0441\u0442\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Kolodistoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":705422,
         "gp:id":935997,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"f3b71a6eef10509d5b956370d7eb4b2f",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101867451,
-    "wof:lastmodified":1544749184,
+    "wof:lastmodified":1566593530,
     "wof:name":"\u041a\u043e\u043b\u043e\u0434\u0438\u0441\u0442\u0435",
     "wof:parent_id":102088345,
     "wof:placetype":"locality",

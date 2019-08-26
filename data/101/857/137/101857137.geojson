@@ -11,12 +11,16 @@
     "geom:longitude":33.29972,
     "gn:population":3710,
     "iso:country":"UA",
+    "lbl:bbox":"33.27972,45.179094,33.31972,45.219094",
     "lbl:latitude":45.199094,
     "lbl:longitude":33.29972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.199094,
     "mps:longitude":33.29972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Uyutnoye"
     ],
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":690556,
         "gp:id":939605,
-        "qs:id":1028378
+        "qs_pg:id":1028378
     },
     "wof:country":"UA",
     "wof:geomhash":"86a3fcc512c59de1235cd9022803a355",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101857137,
-    "wof:lastmodified":1544743741,
+    "wof:lastmodified":1566593392,
     "wof:name":"\u0423\u044e\u0442\u043d\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

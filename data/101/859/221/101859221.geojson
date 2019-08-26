@@ -10,12 +10,16 @@
     "geom:latitude":48.283279,
     "geom:longitude":23.56893,
     "iso:country":"UA",
+    "lbl:bbox":"23.54893,48.263279,23.58893,48.303279",
     "lbl:latitude":48.283279,
     "lbl:longitude":23.56893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.283279,
     "mps:longitude":23.56893,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zabrod\u2019"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8281536,
         "gp:id":936939,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"56821c1b96fdf656549d49ee9368e43c",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859221,
-    "wof:lastmodified":1544744801,
+    "wof:lastmodified":1566593216,
     "wof:name":"\u0417\u0430\u0431\u0440\u0456\u0434\u044c",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

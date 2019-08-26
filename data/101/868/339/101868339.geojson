@@ -10,12 +10,16 @@
     "geom:latitude":49.932111,
     "geom:longitude":28.531966,
     "iso:country":"UA",
+    "lbl:bbox":"28.511966,49.912111,28.551966,49.952111",
     "lbl:latitude":49.932111,
     "lbl:longitude":28.531966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.932111,
     "mps:longitude":28.531966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043a\u0440\u0430\u0433\u043b\u0456\u045e\u043a\u0430"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043a\u0440\u0430\u0433\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skraglivka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":693632,
         "gp:id":916648,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4422482"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101868339,
-    "wof:lastmodified":1563302598,
+    "wof:lastmodified":1566593336,
     "wof:name":"\u0421\u043a\u0440\u0430\u0433\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815761,
     "wof:placetype":"locality",

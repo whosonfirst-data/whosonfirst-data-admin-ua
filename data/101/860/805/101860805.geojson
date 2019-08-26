@@ -10,12 +10,16 @@
     "geom:latitude":48.913116,
     "geom:longitude":24.070419,
     "iso:country":"UA",
+    "lbl:bbox":"24.050419,48.893116,24.090419,48.933116",
     "lbl:latitude":48.913116,
     "lbl:longitude":24.070419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.913116,
     "mps:longitude":24.070419,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Verkhniy Strutin\u2019"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8323381,
         "gp:id":932583,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"648dd6bbd463e0d02d393c4823d5f0a2",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101860805,
-    "wof:lastmodified":1544745630,
+    "wof:lastmodified":1566593459,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u0456\u0439 \u0421\u0442\u0440\u0443\u0442\u0438\u043d\u044c",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.036252,
     "geom:longitude":34.399683,
     "iso:country":"UA",
+    "lbl:bbox":"34.379683,45.016252,34.419683,45.056252",
     "lbl:latitude":45.036252,
     "lbl:longitude":34.399683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.036252,
     "mps:longitude":34.399683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aromatnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":713202,
         "gp:id":940447,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"64826299f84998456d0943359534b48c",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857177,
-    "wof:lastmodified":1544743761,
+    "wof:lastmodified":1566593397,
     "wof:name":"\u0410\u0440\u043e\u043c\u0430\u0442\u043d\u0435",
     "wof:parent_id":1108738527,
     "wof:placetype":"locality",

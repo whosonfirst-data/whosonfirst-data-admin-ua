@@ -11,12 +11,16 @@
     "geom:longitude":34.408932,
     "gn:population":30271,
     "iso:country":"UA",
+    "lbl:bbox":"34.388932,44.6666,34.428932,44.7066",
     "lbl:latitude":44.6866,
     "lbl:longitude":34.408932,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.6866,
     "mps:longitude":34.408932,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:als_x_preferred":[
         "Aluschta"
     ],
@@ -184,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0443\u0448\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Alshta"
-    ],
     "name:uzb_x_preferred":[
         "Alushta"
     ],
@@ -219,7 +220,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688855,
@@ -235,7 +236,6 @@
         "fct:id":"08266308-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":713513,
         "gp:id":915702,
-        "qs:id":492539,
         "qs_pg:id":492539,
         "wd:id":"Q46001",
         "wk:page":"Alushta"
@@ -265,7 +265,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302707,
+    "wof:lastmodified":1566593384,
     "wof:name":"\u0410\u043b\u0443\u0448\u0442\u0430",
     "wof:parent_id":1108738679,
     "wof:placetype":"locality",

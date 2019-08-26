@@ -9,15 +9,18 @@
     "geom:bbox":"32.38761,50.59324,32.38761,50.59324",
     "geom:latitude":50.59324,
     "geom:longitude":32.38761,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":62823,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":62823,
     "iso:country":"UA",
+    "lbl:bbox":"32.36761,50.57324,32.40761,50.61324",
     "lbl:latitude":50.59324,
     "lbl:longitude":32.38761,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0631\u06cc\u0644\u0648\u06a9\u06cc"
@@ -124,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Priluki"
-    ],
     "name:vie_x_preferred":[
         "Pryluky"
     ],
@@ -145,7 +145,7 @@
     "qs_pg:qs_id":128337,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":1125779127,
-    "wof:lastmodified":1563303997,
+    "wof:lastmodified":1566593968,
     "wof:name":"Pryluky",
     "wof:parent_id":1108815845,
     "wof:placetype":"locality",

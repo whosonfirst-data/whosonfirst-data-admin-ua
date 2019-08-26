@@ -10,12 +10,16 @@
     "geom:latitude":51.906067,
     "geom:longitude":33.417759,
     "iso:country":"UA",
+    "lbl:bbox":"33.397759,51.886067,33.437759,51.926067",
     "lbl:latitude":51.906067,
     "lbl:longitude":33.417759,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.906067,
     "mps:longitude":33.417759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Obrazheyevka"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "Obrazhiyivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obrazhevka"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191581,
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":698792,
         "gp:id":933119,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4329706"
     },
     "wof:country":"UA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101871643,
-    "wof:lastmodified":1563303249,
+    "wof:lastmodified":1566593631,
     "wof:name":"\u041e\u0431\u0440\u0430\u0436\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":1108815709,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.025944,
     "geom:longitude":25.383043,
     "iso:country":"UA",
+    "lbl:bbox":"25.363043,49.005944,25.403043,49.045944",
     "lbl:latitude":49.025944,
     "lbl:longitude":25.383043,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.025944,
     "mps:longitude":25.383043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhyznomyr"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0437\u043d\u043e\u043c\u0438\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Zhyznomyr"
     ],
     "name:zho_x_preferred":[
         "\u65e5\u8332\u8afe\u7c73\u723e"
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":687118,
         "gp:id":917675,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4180168"
     },
     "wof:country":"UA",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":101861719,
-    "wof:lastmodified":1563302579,
+    "wof:lastmodified":1566593328,
     "wof:name":"\u0416\u0438\u0437\u043d\u043e\u043c\u0438\u0440",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

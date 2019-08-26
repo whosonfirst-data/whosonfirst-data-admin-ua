@@ -10,12 +10,16 @@
     "geom:latitude":49.875701,
     "geom:longitude":24.434133,
     "iso:country":"UA",
+    "lbl:bbox":"24.414133,49.855701,24.454133,49.895701",
     "lbl:latitude":49.875701,
     "lbl:longitude":24.434133,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.875701,
     "mps:longitude":24.434133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Zadw\u00f3rze"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":920044,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"edfb0ecb38a5be90a56557ad7a3296d9",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101862591,
-    "wof:lastmodified":1544746562,
+    "wof:lastmodified":1566593696,
     "wof:name":"\u0417\u0430\u0434\u0432\u0456\u0440'\u044f",
     "wof:parent_id":102088435,
     "wof:placetype":"locality",

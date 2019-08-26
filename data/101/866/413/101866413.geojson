@@ -10,12 +10,16 @@
     "geom:latitude":47.437083,
     "geom:longitude":33.910598,
     "iso:country":"UA",
+    "lbl:bbox":"33.890598,47.417083,33.930598,47.457083",
     "lbl:latitude":47.437083,
     "lbl:longitude":33.910598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.437083,
     "mps:longitude":33.910598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Osokoriwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "Osokorivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Osokorevka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":698282,
         "gp:id":940383,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4338381",
         "wk:page":"Osokorivka, Novovorontsovka Raion"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101866413,
-    "wof:lastmodified":1563302414,
+    "wof:lastmodified":1566593257,
     "wof:name":"\u041e\u0441\u043e\u043a\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088189,
     "wof:placetype":"locality",

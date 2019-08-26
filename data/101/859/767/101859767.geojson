@@ -10,12 +10,16 @@
     "geom:latitude":48.601222,
     "geom:longitude":23.485211,
     "iso:country":"UA",
+    "lbl:bbox":"23.465211,48.581222,23.505211,48.621222",
     "lbl:latitude":48.601222,
     "lbl:longitude":23.485211,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.601222,
     "mps:longitude":23.485211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Majdan"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Majdan"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Zakarpats'ka",
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":294,
     "wof:belongsto":[
         102191581,
@@ -89,7 +90,7 @@
     "wof:concordances":{
         "gn:id":701554,
         "gp:id":926904,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q749734"
     },
     "wof:country":"UA",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":101859767,
-    "wof:lastmodified":1563302343,
+    "wof:lastmodified":1566593230,
     "wof:name":"\u041c\u0430\u0439\u0434\u0430\u043d",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

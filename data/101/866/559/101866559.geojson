@@ -11,12 +11,16 @@
     "geom:longitude":35.220048,
     "gn:population":13216,
     "iso:country":"UA",
+    "lbl:bbox":"35.200048,47.243696,35.240048,47.283696",
     "lbl:latitude":47.263696,
     "lbl:longitude":35.220048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.263696,
     "mps:longitude":35.220048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0438\u0432\u043a\u0430"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovka"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":701233,
         "gp:id":927051,
-        "qs:id":1028529,
+        "qs_pg:id":1028529,
         "wd:id":"Q1019407"
     },
     "wof:country":"UA",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101866559,
-    "wof:lastmodified":1563302403,
+    "wof:lastmodified":1566593251,
     "wof:name":"\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":48.650429,
     "geom:longitude":37.514105,
     "iso:country":"UA",
+    "lbl:bbox":"37.494105,48.630429,37.534105,48.670429",
     "lbl:latitude":48.650429,
     "lbl:longitude":37.514105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.650429,
     "mps:longitude":37.514105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Malotaranivka"
     ],
     "name:ukr_x_variant":[
         "\u041c\u0430\u043b\u043e\u0442\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malotaranovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":702055,
         "gp:id":926219,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"9bff3f41e9f21dc2a9812b46837c5d39",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101869681,
-    "wof:lastmodified":1544750408,
+    "wof:lastmodified":1566593406,
     "wof:name":"\u041c\u0430\u043b\u043e\u0442\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108730729,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"33.353,52.20469,33.393,52.24469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ochkyne"
     ],
@@ -37,11 +41,6 @@
     "name:ukr_x_variant":[
         "Ochkino",
         "Ochkin"
-    ],
-    "name:und_x_variant":[
-        "Ochkin",
-        "Ochkino",
-        "Ochkyne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +65,7 @@
         }
     ],
     "wof:id":1310179171,
-    "wof:lastmodified":1537710676,
+    "wof:lastmodified":1566593026,
     "wof:name":"Ochkyne",
     "wof:parent_id":102089029,
     "wof:placetype":"locality",

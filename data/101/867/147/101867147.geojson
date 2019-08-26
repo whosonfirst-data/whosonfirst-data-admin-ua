@@ -10,12 +10,16 @@
     "geom:latitude":47.681773,
     "geom:longitude":36.836178,
     "iso:country":"UA",
+    "lbl:bbox":"36.816178,47.661773,36.856178,47.701773",
     "lbl:latitude":47.681773,
     "lbl:longitude":36.836178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.681773,
     "mps:longitude":36.836178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Staromlyniwka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0440\u043e\u043c\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staryy Kermenchik"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":692808,
         "gp:id":934931,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4440495"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101867147,
-    "wof:lastmodified":1563303066,
+    "wof:lastmodified":1566593539,
     "wof:name":"\u0421\u0442\u0430\u0440\u043e\u043c\u043b\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088519,
     "wof:placetype":"locality",

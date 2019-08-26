@@ -11,12 +11,16 @@
     "geom:longitude":25.172791,
     "gn:population":5068,
     "iso:country":"UA",
+    "lbl:bbox":"25.152791,48.263863,25.192791,48.303863",
     "lbl:latitude":48.283863,
     "lbl:longitude":25.172791,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.283863,
     "mps:longitude":25.172791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stari Kuty"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0456 \u041a\u0443\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuty Staryye"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":692742,
         "gp:id":924885,
-        "qs:id":1028411,
+        "qs_pg:id":1028411,
         "wd:id":"Q4440935"
     },
     "wof:country":"UA",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101859715,
-    "wof:lastmodified":1563302331,
+    "wof:lastmodified":1566593226,
     "wof:name":"\u0421\u0442\u0430\u0440\u0456 \u041a\u0443\u0442\u0438",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

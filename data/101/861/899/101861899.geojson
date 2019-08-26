@@ -10,12 +10,16 @@
     "geom:latitude":49.294331,
     "geom:longitude":25.374311,
     "iso:country":"UA",
+    "lbl:bbox":"25.354311,49.274331,25.394311,49.314331",
     "lbl:latitude":49.294331,
     "lbl:longitude":25.374311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.294331,
     "mps:longitude":25.374311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Solotnyky"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0442\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Z\u0142otniki"
-    ],
     "name:zho_x_preferred":[
         "\u4f50\u6d1b\u7279\u5c3c\u57fa"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":686877,
         "gp:id":935810,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q988467"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101861899,
-    "wof:lastmodified":1563302573,
+    "wof:lastmodified":1566593325,
     "wof:name":"\u0417\u043e\u043b\u043e\u0442\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088293,
     "wof:placetype":"locality",

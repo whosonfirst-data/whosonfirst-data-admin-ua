@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.296637,
     "lbl:longitude":30.219857,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Odeska",
     "meso:admin_1":"\u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Bilhorod-Dnistrovs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":30.219857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Bilhorod-Dnistrovs'kyi"
     ],
@@ -41,7 +44,7 @@
         "\u0411\u0456\u043b\u0433\u043e\u0440\u043e\u0434-\u0414\u043d\u0456\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108730627,
-    "wof:lastmodified":1555047736,
+    "wof:lastmodified":1566592811,
     "wof:name":"Bilhorod-Dnistrovska",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

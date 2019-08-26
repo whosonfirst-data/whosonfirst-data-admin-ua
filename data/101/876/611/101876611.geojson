@@ -12,9 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.01526,
     "lbl:longitude":24.812383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.01526,
     "mps:longitude":24.812383,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Ivano-Frankivs'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":921237,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
-    "wof:geomhash":"a387f190f96e639beef59ade3cb9816c",
+    "wof:geomhash":"3542e9ee12f66413c290182118c462e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876611,
-    "wof:lastmodified":1479879299,
+    "wof:lastmodified":1566593588,
     "wof:name":"\u041f\u043e\u0431\u0435\u0440\u0435\u0436\u0436\u044f",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

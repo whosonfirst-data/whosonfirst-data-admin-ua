@@ -9,15 +9,18 @@
     "geom:bbox":"24.43953,49.64876,24.43953,49.64876",
     "geom:latitude":49.64876,
     "geom:longitude":24.43953,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":795,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":795,
     "iso:country":"UA",
+    "lbl:bbox":"24.41953,49.62876,24.45953,49.66876",
     "lbl:latitude":49.64876,
     "lbl:longitude":24.43953,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Svirzh"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0456\u0440\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u2019vizh"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":552558,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126011377,
-    "wof:lastmodified":1563303903,
+    "wof:lastmodified":1566593934,
     "wof:name":"Svirzh",
     "wof:parent_id":102088335,
     "wof:placetype":"locality",

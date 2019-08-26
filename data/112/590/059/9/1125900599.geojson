@@ -9,15 +9,18 @@
     "geom:bbox":"29.24775,48.40514,29.24775,48.40514",
     "geom:latitude":48.40514,
     "geom:longitude":29.24775,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3378,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3378,
     "iso:country":"UA",
+    "lbl:bbox":"29.22775,48.38514,29.26775,48.42514",
     "lbl:latitude":48.40514,
     "lbl:longitude":29.24775,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obodovka"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":1028497,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125900599,
-    "wof:lastmodified":1509399379,
+    "wof:lastmodified":1566593924,
     "wof:name":"Obodivka",
     "wof:parent_id":102088955,
     "wof:placetype":"locality",

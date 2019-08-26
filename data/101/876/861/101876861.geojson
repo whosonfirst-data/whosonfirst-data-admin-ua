@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":50.128474,
     "lbl:longitude":25.255579,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.128474,
     "mps:longitude":25.255579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0434\u044b\u0432\u044b\u043b\u0456\u045e"
     ],
@@ -93,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0438\u0432\u0438\u043b\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chervonoarmiys\u2019k"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":310,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":710565,
         "gp:id":932027,
-        "qs:id":128776,
         "qs_pg:id":128776,
         "wd:id":"Q1020069",
         "wk:page":"Radyvyliv"
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101876861,
-    "wof:lastmodified":1563303168,
+    "wof:lastmodified":1566593588,
     "wof:name":"\u0420\u0430\u0434\u0438\u0432\u0438\u043b\u0456\u0432",
     "wof:parent_id":102088507,
     "wof:placetype":"locality",

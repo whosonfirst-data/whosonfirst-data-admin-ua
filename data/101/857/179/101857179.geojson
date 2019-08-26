@@ -11,12 +11,16 @@
     "geom:longitude":34.646792,
     "gn:population":1301,
     "iso:country":"UA",
+    "lbl:bbox":"34.626792,45.024492,34.666792,45.064492",
     "lbl:latitude":45.044492,
     "lbl:longitude":34.646792,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.044492,
     "mps:longitude":34.646792,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chernopolye"
     ],
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688855,
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":710684,
         "gp:id":916915,
-        "qs:id":83170
+        "qs_pg:id":83170
     },
     "wof:country":"UA",
     "wof:geomhash":"1616e6db74b3db988a82e1559b32544b",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101857179,
-    "wof:lastmodified":1544743762,
+    "wof:lastmodified":1566593397,
     "wof:name":"\u0427\u043e\u0440\u043d\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":1108738527,
     "wof:placetype":"locality",

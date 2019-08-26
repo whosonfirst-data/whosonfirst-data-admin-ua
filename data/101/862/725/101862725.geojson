@@ -10,12 +10,16 @@
     "geom:latitude":50.327803,
     "geom:longitude":24.678399,
     "iso:country":"UA",
+    "lbl:bbox":"24.658399,50.307803,24.698399,50.347803",
     "lbl:latitude":50.327803,
     "lbl:longitude":24.678399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.327803,
     "mps:longitude":24.678399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tetewtschyzi"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u0435\u0432\u0447\u0438\u0446\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Tetevchytsi"
     ],
     "name:zho_x_preferred":[
         "\u6377\u6377\u592b\u5947\u9f4a"
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":691580,
         "gp:id":932021,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4456507"
     },
     "wof:country":"UA",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":101862725,
-    "wof:lastmodified":1561776982,
+    "wof:lastmodified":1566593686,
     "wof:name":"\u0422\u0435\u0442\u0435\u0432\u0447\u0438\u0446\u0456",
     "wof:parent_id":102088501,
     "wof:placetype":"locality",

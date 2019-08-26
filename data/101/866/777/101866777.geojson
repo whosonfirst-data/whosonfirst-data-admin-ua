@@ -11,12 +11,16 @@
     "geom:longitude":35.531255,
     "gn:population":5231,
     "iso:country":"UA",
+    "lbl:bbox":"35.511255,47.702329,35.551255,47.742329",
     "lbl:latitude":47.722329,
     "lbl:longitude":35.531255,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.722329,
     "mps:longitude":35.531255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamyshevakha"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":706941,
         "gp:id":921739,
-        "qs:id":1283199,
+        "qs_pg:id":1283199,
         "wd:id":"Q2026916",
         "wk:page":"Komyshuvakha, Zaporizhia Oblast"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101866777,
-    "wof:lastmodified":1563302440,
+    "wof:lastmodified":1566593268,
     "wof:name":"\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430",
     "wof:parent_id":102088375,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.277943,
     "geom:longitude":36.186147,
     "iso:country":"UA",
+    "lbl:bbox":"36.166147,45.257943,36.206147,45.297943",
     "lbl:latitude":45.277943,
     "lbl:longitude":36.186147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.277943,
     "mps:longitude":36.186147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_historical":[
         "Aq K\u00f6z"
     ],
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         85688855,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":708405,
         "gp:id":918488,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"a5eb322d3e861ed8e2a6cb2bc7b46612",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101857341,
-    "wof:lastmodified":1544743845,
+    "wof:lastmodified":1566593388,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

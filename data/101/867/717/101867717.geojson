@@ -10,20 +10,21 @@
     "geom:latitude":49.119215,
     "geom:longitude":30.076489,
     "iso:country":"UA",
+    "lbl:bbox":"30.056489,49.099215,30.096489,49.139215",
     "lbl:latitude":49.119215,
     "lbl:longitude":30.076489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.119215,
     "mps:longitude":30.076489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buzovka"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0437\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Buzovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -54,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":711053,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"4746f986d95daad9a18248b8d0da2ce7",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":101867717,
-    "wof:lastmodified":1544749332,
+    "wof:lastmodified":1566593537,
     "wof:name":"\u0411\u0443\u0437\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088447,
     "wof:placetype":"locality",

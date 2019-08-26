@@ -10,12 +10,16 @@
     "geom:latitude":46.412376,
     "geom:longitude":33.407503,
     "iso:country":"UA",
+    "lbl:bbox":"33.387503,46.392376,33.427503,46.432376",
     "lbl:latitude":46.412376,
     "lbl:longitude":33.407503,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.412376,
     "mps:longitude":33.407503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Baltasariwka"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0430\u0437\u0430\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karla Marksa"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101865565,
-    "wof:lastmodified":1563303481,
+    "wof:lastmodified":1566593731,
     "wof:name":"\u0411\u0430\u043b\u0442\u0430\u0437\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088009,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.869945,
     "geom:longitude":23.622719,
     "iso:country":"UA",
+    "lbl:bbox":"23.602719,49.849945,23.642719,49.889945",
     "lbl:latitude":49.869945,
     "lbl:longitude":23.622719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.869945,
     "mps:longitude":23.622719,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"L'vivs'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":709895,
         "gp:id":12518259,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"4035cde8222d05a14d17586ccc21b0a2",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101862557,
-    "wof:lastmodified":1544746545,
+    "wof:lastmodified":1566593671,
     "wof:name":"\u0414\u043e\u0431\u0440\u043e\u0441\u0442\u0430\u043d\u0438",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.656139,
     "geom:longitude":33.776573,
     "iso:country":"UA",
+    "lbl:bbox":"33.756573,45.636139,33.796573,45.676139",
     "lbl:latitude":45.656139,
     "lbl:longitude":33.776573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.656139,
     "mps:longitude":33.776573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stepnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":692561,
         "gp:id":920665,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"c8c1723c096193d8c1218689dbc4ecbe",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858685,
-    "wof:lastmodified":1544744528,
+    "wof:lastmodified":1566593490,
     "wof:name":"\u0421\u0442\u0435\u043f\u043d\u0435",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

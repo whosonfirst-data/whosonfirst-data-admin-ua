@@ -11,12 +11,16 @@
     "geom:longitude":26.816083,
     "gn:population":17758,
     "iso:country":"UA",
+    "lbl:bbox":"26.796083,50.084903,26.836083,50.124903",
     "lbl:latitude":50.104903,
     "lbl:longitude":26.816083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.104903,
     "mps:longitude":26.816083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u06cc\u0627\u0633\u0644\u0627\u0641\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_variant":[
         "\u0418\u0437\u044f\u0441\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Izyaslavl\u2019"
     ],
     "name:vie_x_preferred":[
@@ -157,7 +161,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":320,
     "wof:belongsto":[
@@ -170,7 +174,7 @@
     "wof:concordances":{
         "gn:id":707296,
         "gp:id":921410,
-        "qs:id":128688,
+        "qs_pg:id":128688,
         "wd:id":"Q841029",
         "wk:page":"Iziaslav, Ukraine"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":101864029,
-    "wof:lastmodified":1563303569,
+    "wof:lastmodified":1566593768,
     "wof:name":"\u0406\u0437\u044f\u0441\u043b\u0430\u0432",
     "wof:parent_id":102088547,
     "wof:placetype":"locality",

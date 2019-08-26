@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2260578.912487,
+    "geom:area_square_m":2260578.912486,
     "geom:bbox":"32.6700712145,48.6349873401,32.6889069088,48.6538228702",
     "geom:latitude":48.644441,
     "geom:longitude":32.679436,
     "iso:country":"UA",
     "lbl:latitude":48.644405,
     "lbl:longitude":32.679257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.644405,
     "mps:longitude":32.679257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kirovohrads'ka",
@@ -32,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":927437,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"c6ff4d16f761809087795c565d2eab3e",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101876843,
-    "wof:lastmodified":1527714911,
+    "wof:lastmodified":1566593588,
     "wof:name":"\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088479,
     "wof:placetype":"locality",

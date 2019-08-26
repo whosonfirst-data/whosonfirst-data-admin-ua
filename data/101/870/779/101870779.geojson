@@ -11,12 +11,16 @@
     "geom:longitude":29.565789,
     "gn:population":1685,
     "iso:country":"UA",
+    "lbl:bbox":"29.545789,50.57223,29.585789,50.61223",
     "lbl:latitude":50.59223,
     "lbl:longitude":29.565789,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.59223,
     "mps:longitude":29.565789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0434\u0440\u0430"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0434\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kodra"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u5fb7\u62c9"
     ],
@@ -76,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":107,
     "wof:belongsto":[
@@ -89,7 +90,6 @@
     "wof:concordances":{
         "gn:id":705494,
         "gp:id":939398,
-        "qs:id":128647,
         "qs_pg:id":128647,
         "wd:id":"Q253608",
         "wk:page":"Kodra, Ukraine"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101870779,
-    "wof:lastmodified":1563303101,
+    "wof:lastmodified":1566593555,
     "wof:name":"\u041a\u043e\u0434\u0440\u0430",
     "wof:parent_id":102088721,
     "wof:placetype":"locality",

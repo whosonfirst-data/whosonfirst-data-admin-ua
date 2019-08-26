@@ -11,12 +11,16 @@
     "geom:longitude":31.797619,
     "gn:population":13547,
     "iso:country":"UA",
+    "lbl:bbox":"31.777619,47.259668,31.817619,47.299668",
     "lbl:latitude":47.279668,
     "lbl:longitude":31.797619,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.279668,
     "mps:longitude":31.797619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062f\u064a\u0633\u0627"
     ],
@@ -315,7 +319,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0434\u0435\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fedorovka"
     ],
     "name:urd_x_preferred":[
@@ -363,7 +367,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
@@ -376,10 +380,12 @@
     "wof:concordances":{
         "gn:id":698740,
         "gp:id":929398,
-        "qs:id":128435,
-        "qs_pg:id":1028490,
+        "qs_pg:id":128435,
         "wd:id":"Q607203",
         "wk:page":"Nova Odesa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028490
     },
     "wof:country":"UA",
     "wof:geomhash":"ad3bf23eb926c543443a4504adc16449",
@@ -393,7 +399,7 @@
         }
     ],
     "wof:id":101865745,
-    "wof:lastmodified":1563303505,
+    "wof:lastmodified":1566593742,
     "wof:name":"\u041d\u043e\u0432\u0430 \u041e\u0434\u0435\u0441\u0430",
     "wof:parent_id":102088105,
     "wof:placetype":"locality",

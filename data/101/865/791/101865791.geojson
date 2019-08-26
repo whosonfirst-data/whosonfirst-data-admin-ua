@@ -10,12 +10,16 @@
     "geom:latitude":51.836678,
     "geom:longitude":25.467035,
     "iso:country":"UA",
+    "lbl:bbox":"25.447035,51.816678,25.487035,51.856678",
     "lbl:latitude":51.836678,
     "lbl:longitude":25.467035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.836678,
     "mps:longitude":25.467035,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Lyubyaz\u2019"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u041b\u044e\u0431\u2019\u044f\u0437\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyubyazh"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":702408,
         "gp:id":925891,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"d015ce4ebf0ef0d09b378d115cfc1ac2",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101865791,
-    "wof:lastmodified":1544748242,
+    "wof:lastmodified":1566593716,
     "wof:name":"\u041b\u044e\u0431'\u044f\u0437\u044c",
     "wof:parent_id":102088883,
     "wof:placetype":"locality",

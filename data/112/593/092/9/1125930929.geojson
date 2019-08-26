@@ -9,15 +9,18 @@
     "geom:bbox":"27.51955,50.0703,27.51955,50.0703",
     "geom:latitude":50.0703,
     "geom:longitude":27.51955,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3185,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3185,
     "iso:country":"UA",
+    "lbl:bbox":"27.49955,50.0503,27.53955,50.0903",
     "lbl:latitude":50.0703,
     "lbl:longitude":27.51955,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u0430"
@@ -28,7 +31,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shaya Novoselitsa"
     ],
     "qs_pg:aaroncc":"UA",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":928371,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125930929,
-    "wof:lastmodified":1509401397,
+    "wof:lastmodified":1566593884,
     "wof:name":"Noveselitsya",
     "wof:parent_id":102088571,
     "wof:placetype":"locality",

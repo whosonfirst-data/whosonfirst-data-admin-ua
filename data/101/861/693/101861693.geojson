@@ -10,12 +10,16 @@
     "geom:latitude":49.126893,
     "geom:longitude":24.767906,
     "iso:country":"UA",
+    "lbl:bbox":"24.747906,49.106893,24.787906,49.146893",
     "lbl:latitude":49.126893,
     "lbl:longitude":24.767906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.126893,
     "mps:longitude":24.767906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Urych"
     ],
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":690926,
         "gp:id":919782,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2200148"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101861693,
-    "wof:lastmodified":1563302517,
+    "wof:lastmodified":1566593302,
     "wof:name":"\u0422\u0443\u0441\u0442\u0430\u043d\u044c",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

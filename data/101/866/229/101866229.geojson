@@ -10,16 +10,20 @@
     "geom:latitude":46.976732,
     "geom:longitude":34.420688,
     "iso:country":"UA",
+    "lbl:bbox":"34.400688,46.956732,34.440688,46.996732",
     "lbl:latitude":46.976732,
     "lbl:longitude":34.420688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.976732,
     "mps:longitude":34.420688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gogolevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101866229,
-    "wof:lastmodified":1544748488,
+    "wof:lastmodified":1566593255,
     "wof:name":"\u041d\u043e\u0432\u043e\u043e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088123,
     "wof:placetype":"locality",

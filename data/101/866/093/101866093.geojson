@@ -10,12 +10,16 @@
     "geom:latitude":46.670856,
     "geom:longitude":34.265365,
     "iso:country":"UA",
+    "lbl:bbox":"34.245365,46.650856,34.285365,46.690856",
     "lbl:latitude":46.670856,
     "lbl:longitude":34.265365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.670856,
     "mps:longitude":34.265365,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Michail Frunse"
     ],
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Mikhail Frunze"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agayman"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":709080,
         "gp:id":919742,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1328239"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101866093,
-    "wof:lastmodified":1563302474,
+    "wof:lastmodified":1566593283,
     "wof:name":"\u0424\u0440\u0443\u043d\u0437\u0435",
     "wof:parent_id":102088081,
     "wof:placetype":"locality",

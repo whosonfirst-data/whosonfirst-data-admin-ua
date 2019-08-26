@@ -10,12 +10,16 @@
     "geom:latitude":49.459655,
     "geom:longitude":32.565235,
     "iso:country":"UA",
+    "lbl:bbox":"32.545235,49.439655,32.585235,49.479655",
     "lbl:latitude":49.459655,
     "lbl:longitude":32.565235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.459655,
     "mps:longitude":32.565235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tymtschenky"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_variant":[
         "\u0422\u0438\u043c\u0447\u0435\u043d\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tymchenki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":691546,
         "gp:id":936635,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4457780"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101868679,
-    "wof:lastmodified":1561776935,
+    "wof:lastmodified":1566593368,
     "wof:name":"\u0422\u0438\u043c\u0447\u0435\u043d\u043a\u0438",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

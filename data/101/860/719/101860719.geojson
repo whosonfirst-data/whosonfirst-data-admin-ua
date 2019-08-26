@@ -10,13 +10,17 @@
     "geom:latitude":48.49911,
     "geom:longitude":26.087518,
     "iso:country":"UA",
+    "lbl:bbox":"26.067518,48.47911,26.107518,48.51911",
     "lbl:latitude":48.49911,
     "lbl:longitude":26.087518,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.49911,
     "mps:longitude":26.087518,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Rzhaventsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":694995,
         "gp:id":918999,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"ae253d5cbd50caf6b044cb787d5214fe",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860719,
-    "wof:lastmodified":1544745584,
+    "wof:lastmodified":1566593475,
     "wof:name":"\u0420\u0436\u0430\u0432\u0438\u043d\u0446\u0456",
     "wof:parent_id":102088111,
     "wof:placetype":"locality",

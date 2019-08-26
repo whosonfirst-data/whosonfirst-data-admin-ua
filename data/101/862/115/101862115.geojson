@@ -11,12 +11,16 @@
     "geom:longitude":25.577884,
     "gn:population":3033,
     "iso:country":"UA",
+    "lbl:bbox":"25.557884,49.511225,25.597884,49.551225",
     "lbl:latitude":49.531225,
     "lbl:longitude":25.577884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.531225,
     "mps:longitude":25.577884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Petrikov"
     ],
@@ -41,9 +45,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Petrykiv"
-    ],
     "name:zho_x_preferred":[
         "\u4f69\u7279\u91cc\u57fa\u592b"
     ],
@@ -66,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +79,7 @@
     "wof:concordances":{
         "gn:id":697457,
         "gp:id":935810,
-        "qs:id":128361,
+        "qs_pg:id":128361,
         "wd:id":"Q4360546"
     },
     "wof:country":"UA",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101862115,
-    "wof:lastmodified":1563303424,
+    "wof:lastmodified":1566593708,
     "wof:name":"\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432",
     "wof:parent_id":1108815697,
     "wof:placetype":"locality",

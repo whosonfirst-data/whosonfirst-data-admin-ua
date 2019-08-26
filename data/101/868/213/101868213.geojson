@@ -11,12 +11,16 @@
     "geom:longitude":37.476511,
     "gn:population":23731,
     "iso:country":"UA",
+    "lbl:bbox":"37.456511,47.58634,37.496511,47.62634",
     "lbl:latitude":47.60634,
     "lbl:longitude":37.476511,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.60634,
     "mps:longitude":37.476511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0646\u0648\u0641\u0627\u062e\u0627"
     ],
@@ -110,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u043d\u043e\u0432\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wolnowacha"
-    ],
     "name:vie_x_preferred":[
         "Volnovakha"
     ],
@@ -139,7 +140,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":318,
     "wof:belongsto":[
@@ -153,7 +154,6 @@
     "wof:concordances":{
         "gn:id":689198,
         "gp:id":938258,
-        "qs:id":275412,
         "qs_pg:id":275412,
         "wd:id":"Q3562943",
         "wk:page":"Volnovakha"
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":101868213,
-    "wof:lastmodified":1563302675,
+    "wof:lastmodified":1566593369,
     "wof:name":"\u0412\u043e\u043b\u043d\u043e\u0432\u0430\u0445\u0430",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

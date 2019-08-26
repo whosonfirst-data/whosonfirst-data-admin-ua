@@ -9,15 +9,18 @@
     "geom:bbox":"24.71388,48.85658,24.71388,48.85658",
     "geom:latitude":48.85658,
     "geom:longitude":24.71388,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3801,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3801,
     "iso:country":"UA",
+    "lbl:bbox":"24.69388,48.83658,24.73388,48.87658",
     "lbl:latitude":48.85658,
     "lbl:longitude":24.71388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0456\u0457\u0432"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0456\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Czerniej\u00f3w"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":1028618,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125901009,
-    "wof:lastmodified":1509399408,
+    "wof:lastmodified":1566593922,
     "wof:name":"Cherniyiv",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

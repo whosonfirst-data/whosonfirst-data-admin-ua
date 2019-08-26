@@ -10,12 +10,16 @@
     "geom:latitude":48.638151,
     "geom:longitude":34.906595,
     "iso:country":"UA",
+    "lbl:bbox":"34.886595,48.618151,34.926595,48.658151",
     "lbl:latitude":48.638151,
     "lbl:longitude":34.906595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.638151,
     "mps:longitude":34.906595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0456\u0442\u043d\u0430-\u0441\u0442\u044d\u043f\u0430\u0432\u0430\u0435 \u041f\u0430\u0431\u0443\u0436\u0436\u0430"
     ],
@@ -30,7 +34,7 @@
         "\u0421\u0442\u0435\u043f\u043e\u0432\u0435",
         "\u0413\u0440\u0430\u043d\u0456\u0442\u043d\u043e-\u0421\u0442\u0435\u043f\u043e\u0432\u0435 \u041f\u043e\u0431\u0443\u0436\u0436\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stepovoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":539,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":829729,
         "gp:id":916197,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4147867"
     },
     "wof:country":"UA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101866899,
-    "wof:lastmodified":1563302473,
+    "wof:lastmodified":1566593283,
     "wof:name":"\u0421\u0442\u0435\u043f\u043e\u0432\u0435",
     "wof:parent_id":1108815737,
     "wof:placetype":"locality",

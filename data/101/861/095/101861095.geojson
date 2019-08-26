@@ -11,12 +11,16 @@
     "geom:longitude":24.632063,
     "gn:population":14729,
     "iso:country":"UA",
+    "lbl:bbox":"24.612063,49.239738,24.652063,49.279738",
     "lbl:latitude":49.259738,
     "lbl:longitude":24.632063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.259738,
     "mps:longitude":24.632063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u062a\u064a\u0646"
     ],
@@ -141,9 +145,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0448\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Bursztyn"
-    ],
     "name:vie_x_preferred":[
         "Burshtyn"
     ],
@@ -176,7 +177,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":471,
     "wof:belongsto":[
@@ -189,7 +190,6 @@
     "wof:concordances":{
         "gn:id":711134,
         "gp:id":917871,
-        "qs:id":128791,
         "qs_pg:id":128791,
         "wd:id":"Q146557",
         "wk:page":"Burshtyn"
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":101861095,
-    "wof:lastmodified":1563302566,
+    "wof:lastmodified":1566593322,
     "wof:name":"\u0411\u0443\u0440\u0448\u0442\u0438\u043d",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

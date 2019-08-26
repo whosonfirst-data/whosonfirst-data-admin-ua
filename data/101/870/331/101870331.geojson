@@ -10,12 +10,16 @@
     "geom:latitude":50.6091,
     "geom:longitude":33.30905,
     "iso:country":"UA",
+    "lbl:bbox":"33.28905,50.5891,33.32905,50.6291",
     "lbl:latitude":50.6091,
     "lbl:longitude":33.30905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.6091,
     "mps:longitude":33.30905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Glinsk"
     ],
@@ -37,9 +41,6 @@
     "name:ukr_x_variant":[
         "\u0413\u043b\u0438\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Glinsk"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Sums'ka",
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":708762,
         "gp:id":920033,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4139849"
     },
     "wof:country":"UA",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":101870331,
-    "wof:lastmodified":1563303073,
+    "wof:lastmodified":1566593542,
     "wof:name":"\u0413\u043b\u0438\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108815707,
     "wof:placetype":"locality",

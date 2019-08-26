@@ -12,10 +12,14 @@
     "iso:country":"UA",
     "lbl:latitude":50.200575,
     "lbl:longitude":24.38444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.200575,
     "mps:longitude":24.38444,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Dobrotvury"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -34,7 +38,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":709892,
         "gp:id":921728,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"4912ab4478f30a2673a5fb1f1acdfcc8",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101876835,
-    "wof:lastmodified":1501215680,
+    "wof:lastmodified":1566593590,
     "wof:name":"\u0414\u043e\u0431\u0440\u043e\u0442\u0432\u0456\u0440",
     "wof:parent_id":102088459,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":31.932382,
     "gn:population":7780,
     "iso:country":"UA",
+    "lbl:bbox":"31.912382,49.394441,31.952382,49.434441",
     "lbl:latitude":49.414441,
     "lbl:longitude":31.932382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.414441,
     "mps:longitude":31.932382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Russkaya Polyana"
     ],
@@ -28,9 +32,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u044c\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Russkaya Polyana"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -51,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +64,7 @@
     "wof:concordances":{
         "gn:id":695104,
         "gp:id":932787,
-        "qs:id":256108
+        "qs_pg:id":256108
     },
     "wof:country":"UA",
     "wof:geomhash":"ea46a6e1d820e6b3cd0c8858fe81b723",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":101866925,
-    "wof:lastmodified":1544748881,
+    "wof:lastmodified":1566593268,
     "wof:name":"\u0420\u0443\u0441\u044c\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430",
     "wof:parent_id":1108815743,
     "wof:placetype":"locality",

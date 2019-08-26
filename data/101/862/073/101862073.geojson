@@ -10,12 +10,16 @@
     "geom:latitude":49.762535,
     "geom:longitude":23.713052,
     "iso:country":"UA",
+    "lbl:bbox":"23.693052,49.742535,23.733052,49.782535",
     "lbl:latitude":49.762535,
     "lbl:longitude":23.713052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.762535,
     "mps:longitude":23.713052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kiernica"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":215,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":920431,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4219661"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101862073,
-    "wof:lastmodified":1561776984,
+    "wof:lastmodified":1566593698,
     "wof:name":"\u041a\u0435\u0440\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088313,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.192976,
     "geom:longitude":35.579228,
     "iso:country":"UA",
+    "lbl:bbox":"35.559228,47.172976,35.599228,47.212976",
     "lbl:latitude":47.192976,
     "lbl:longitude":35.579228,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.192976,
     "mps:longitude":35.579228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0447\u0430\u043d\u0441\u043a"
     ],
@@ -88,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0447\u0430\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Molochansk"
-    ],
     "name:vie_x_preferred":[
         "Molochansk"
     ],
@@ -116,7 +117,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":276,
     "wof:belongsto":[
         102191581,
@@ -128,7 +129,7 @@
     "wof:concordances":{
         "gn:id":700848,
         "gp:id":927330,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1006629",
         "wk:page":"Molochansk"
     },
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":101866679,
-    "wof:lastmodified":1563302461,
+    "wof:lastmodified":1566593278,
     "wof:name":"\u041c\u043e\u043b\u043e\u0447\u0430\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108815657,
     "wof:placetype":"locality",

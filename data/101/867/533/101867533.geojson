@@ -11,12 +11,16 @@
     "geom:longitude":31.542214,
     "gn:population":4981,
     "iso:country":"UA",
+    "lbl:bbox":"31.522214,48.45986,31.562214,48.49986",
     "lbl:latitude":48.47986,
     "lbl:longitude":31.542214,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.47986,
     "mps:longitude":31.542214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zlynka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043b\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoukrainsk"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":686932,
         "gp:id":940339,
-        "qs:id":128155
+        "qs_pg:id":128155
     },
     "wof:country":"UA",
     "wof:geomhash":"2a0092b17c34a2971706722c5c23f96a",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101867533,
-    "wof:lastmodified":1544749231,
+    "wof:lastmodified":1566593498,
     "wof:name":"\u0417\u043b\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088367,
     "wof:placetype":"locality",

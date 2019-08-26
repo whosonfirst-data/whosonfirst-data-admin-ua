@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":48.978291,
     "lbl:longitude":38.995746,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":48.978083,
     "mps:longitude":38.99566,
@@ -240,7 +241,7 @@
         "Luhansk oblast"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc1\u0bb9\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bcd  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0bb2\u0bc1\u0bb9\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bcd \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041b\u0443\u0433\u0430\u043d\u0441\u043a \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -265,9 +266,6 @@
         "\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Voroshilov Oblast"
     ],
     "name:urd_x_preferred":[
@@ -360,9 +358,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"26684",
     "statoids:area_mi":"10303",
     "statoids:as_of_date":"2001-12-05",
@@ -406,7 +404,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737969,
+    "wof:lastmodified":1566591777,
     "wof:name":"Luhansk",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

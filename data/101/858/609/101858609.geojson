@@ -10,12 +10,16 @@
     "geom:latitude":45.389735,
     "geom:longitude":34.28262,
     "iso:country":"UA",
+    "lbl:bbox":"34.26262,45.369735,34.30262,45.409735",
     "lbl:latitude":45.389735,
     "lbl:longitude":34.28262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.389735,
     "mps:longitude":34.28262,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Udachnoye"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101858609,
-    "wof:lastmodified":1544744491,
+    "wof:lastmodified":1566593494,
     "wof:name":"\u0423\u0434\u0430\u0447\u043d\u0435",
     "wof:parent_id":1108738579,
     "wof:placetype":"locality",

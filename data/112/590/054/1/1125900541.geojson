@@ -9,15 +9,18 @@
     "geom:bbox":"24.26322,48.68755,24.26322,48.68755",
     "geom:latitude":48.68755,
     "geom:longitude":24.26322,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3004,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3004,
     "iso:country":"UA",
+    "lbl:bbox":"24.24322,48.66755,24.28322,48.70755",
     "lbl:latitude":48.68755,
     "lbl:longitude":24.26322,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u043e\u0433\u0438"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u043e\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Porokhi"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":1028459,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125900541,
-    "wof:lastmodified":1509399376,
+    "wof:lastmodified":1566593919,
     "wof:name":"Porohy",
     "wof:parent_id":102088115,
     "wof:placetype":"locality",

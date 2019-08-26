@@ -9,15 +9,18 @@
     "geom:bbox":"30.37682,46.0272,30.37682,46.0272",
     "geom:latitude":46.0272,
     "geom:longitude":30.37682,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5045,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5045,
     "iso:country":"UA",
+    "lbl:bbox":"30.35682,46.0072,30.39682,46.0472",
     "lbl:latitude":46.0272,
     "lbl:longitude":30.37682,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03c1\u03b3\u03ba\u03b5\u03b3\u03b9\u03ad\u03b2\u03ba\u03b1"
@@ -47,7 +50,7 @@
         "\u0421\u0435\u0440\u0433\u0456\u0457\u0432\u043a\u0430",
         "\u0421\u0435\u0440\u0433\u0456\u0454\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sergiyivka"
     ],
     "name:uzb_x_preferred":[
@@ -65,7 +68,7 @@
     "qs_pg:qs_id":275447,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125851765,
-    "wof:lastmodified":1564198019,
+    "wof:lastmodified":1566593960,
     "wof:name":"Sergeyevka",
     "wof:parent_id":1108730627,
     "wof:placetype":"locality",

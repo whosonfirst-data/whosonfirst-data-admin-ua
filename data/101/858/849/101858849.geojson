@@ -10,12 +10,16 @@
     "geom:latitude":45.99385,
     "geom:longitude":33.761916,
     "iso:country":"UA",
+    "lbl:bbox":"33.741916,45.97385,33.781916,46.01385",
     "lbl:latitude":45.99385,
     "lbl:longitude":33.761916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.99385,
     "mps:longitude":33.761916,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:crh_x_historical":[
         "Tuzla"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":7027004,
         "gp:id":924103,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"1194446ce23cd53c54a44d8370f0b85b",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101858849,
-    "wof:lastmodified":1544744615,
+    "wof:lastmodified":1566593491,
     "wof:name":"\u041f\u043e\u0447\u0435\u0442\u043d\u0435",
     "wof:parent_id":1108738619,
     "wof:placetype":"locality",

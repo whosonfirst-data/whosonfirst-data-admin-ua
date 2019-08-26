@@ -10,16 +10,20 @@
     "geom:latitude":48.4007,
     "geom:longitude":24.633024,
     "iso:country":"UA",
+    "lbl:bbox":"24.613024,48.3807,24.653024,48.4207",
     "lbl:latitude":48.4007,
     "lbl:longitude":24.633024,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.4007,
     "mps:longitude":24.633024,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041c\u0438\u043a\u0443\u043b\u0438\u0447\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikuliczyn"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":701122,
         "gp:id":938921,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"2bd59223393db37059e95fe8776e9177",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101859881,
-    "wof:lastmodified":1544745146,
+    "wof:lastmodified":1566593217,
     "wof:name":"\u041c\u0438\u043a\u0443\u043b\u0438\u0447\u0438\u043d",
     "wof:parent_id":1108730825,
     "wof:placetype":"locality",

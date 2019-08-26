@@ -11,12 +11,16 @@
     "geom:longitude":27.985415,
     "gn:population":4559,
     "iso:country":"UA",
+    "lbl:bbox":"27.965415,50.351821,28.005415,50.391821",
     "lbl:latitude":50.371821,
     "lbl:longitude":27.985415,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.371821,
     "mps:longitude":27.985415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0641\u0628\u064a\u0634"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0432\u0431\u0438\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Markhlevsk"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":709665,
         "gp:id":919215,
-        "qs:id":1283167,
+        "qs_pg:id":1283167,
         "wd:id":"Q2993483",
         "wk:page":"Dovbysh"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101864089,
-    "wof:lastmodified":1563303565,
+    "wof:lastmodified":1566593767,
     "wof:name":"\u0414\u043e\u0432\u0431\u0438\u0448",
     "wof:parent_id":102088619,
     "wof:placetype":"locality",

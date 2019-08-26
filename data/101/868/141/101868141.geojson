@@ -11,12 +11,16 @@
     "geom:longitude":37.494117,
     "gn:population":5977,
     "iso:country":"UA",
+    "lbl:bbox":"37.474117,47.137976,37.514117,47.177976",
     "lbl:latitude":47.157976,
     "lbl:longitude":37.494117,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.157976,
     "mps:longitude":37.494117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Staryy Krym"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stary Krym"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":300.0,
     "wd:latitude":45.029167,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":692713,
         "gp:id":934997,
-        "qs:id":250969,
+        "qs_pg:id":250969,
         "wd:id":"Q4441079"
     },
     "wof:country":"UA",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101868141,
-    "wof:lastmodified":1563302693,
+    "wof:lastmodified":1566593377,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c",
     "wof:parent_id":1108730821,
     "wof:placetype":"locality",

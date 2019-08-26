@@ -10,12 +10,16 @@
     "geom:latitude":48.474545,
     "geom:longitude":34.277341,
     "iso:country":"UA",
+    "lbl:bbox":"34.257341,48.454545,34.297341,48.494545",
     "lbl:latitude":48.474545,
     "lbl:longitude":34.277341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.474545,
     "mps:longitude":34.277341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e\u064a\u0641\u062a\u0633\u064a\u0641\u064a"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_variant":[
         "Verkhivtseve"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkovtsevo"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +123,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":689808,
         "gp:id":937646,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q995147",
         "wk:page":"Verkhivtseve"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":101867863,
-    "wof:lastmodified":1563303054,
+    "wof:lastmodified":1566593535,
     "wof:name":"\u0412\u0435\u0440\u0445\u0456\u0432\u0446\u0435\u0432\u0435",
     "wof:parent_id":102088525,
     "wof:placetype":"locality",

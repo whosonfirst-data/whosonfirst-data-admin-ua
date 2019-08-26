@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.603274,
     "lbl:longitude":22.967213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.603274,
     "mps:longitude":22.967213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Solotschyn"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u043b\u043e\u0447\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Solochin"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":8250814,
         "gp:id":935548,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q3890077"
     },
     "wof:country":"UA",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101876451,
-    "wof:lastmodified":1561776969,
+    "wof:lastmodified":1566593613,
     "wof:name":"\u0421\u043e\u043b\u043e\u0447\u0438\u043d",
     "wof:parent_id":102088061,
     "wof:placetype":"locality",

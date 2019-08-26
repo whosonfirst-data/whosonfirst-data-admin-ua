@@ -10,8 +10,10 @@
     "geom:latitude":50.51064,
     "geom:longitude":30.495931,
     "iso:country":"UA",
+    "lbl:bbox":"30.490931416,50.5056404057,30.500931416,50.5156404057",
     "lbl:latitude":50.51064,
     "lbl:longitude":30.495931,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -48,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0431\u043e\u043b\u043e\u043d\u044c"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1108945117,
-    "wof:lastmodified":1564196800,
+    "wof:lastmodified":1566592889,
     "wof:name":"Obolon",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

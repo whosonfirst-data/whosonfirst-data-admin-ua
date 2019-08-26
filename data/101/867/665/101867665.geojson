@@ -10,13 +10,17 @@
     "geom:latitude":48.906478,
     "geom:longitude":30.296574,
     "iso:country":"UA",
+    "lbl:bbox":"30.276574,48.886478,30.316574,48.926478",
     "lbl:latitude":48.906478,
     "lbl:longitude":30.296574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.906478,
     "mps:longitude":30.296574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pomoynik"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":689610,
         "gp:id":12518390,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"5846214aa0910be954e270d5f7471a48",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101867665,
-    "wof:lastmodified":1544749303,
+    "wof:lastmodified":1566593533,
     "wof:name":"\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088423,
     "wof:placetype":"locality",

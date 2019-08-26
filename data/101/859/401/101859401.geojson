@@ -10,12 +10,16 @@
     "geom:latitude":48.301323,
     "geom:longitude":23.085494,
     "iso:country":"UA",
+    "lbl:bbox":"23.065494,48.281323,23.105494,48.321323",
     "lbl:latitude":48.301323,
     "lbl:longitude":23.085494,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.301323,
     "mps:longitude":23.085494,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "D\u0105br\u00f3wka"
     ],
@@ -38,7 +42,7 @@
         "Dubrivka",
         "\u0414\u0443\u0431\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dibrivka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":709489,
         "gp:id":921145,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q5320791"
     },
     "wof:country":"UA",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101859401,
-    "wof:lastmodified":1563302312,
+    "wof:lastmodified":1566593218,
     "wof:name":"\u0414\u0443\u0431\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

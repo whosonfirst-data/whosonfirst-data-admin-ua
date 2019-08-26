@@ -10,12 +10,16 @@
     "geom:latitude":48.911332,
     "geom:longitude":38.508852,
     "iso:country":"UA",
+    "lbl:bbox":"38.488852,48.891332,38.528852,48.931332",
     "lbl:latitude":48.911332,
     "lbl:longitude":38.508852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.911332,
     "mps:longitude":38.508852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "S\u0131rot\u0131ne"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_variant":[
         "\u0421\u0438\u0440\u043e\u0442\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Sirotino"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Luhans'ka",
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":693755,
         "gp:id":12518333,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4420826"
     },
     "wof:country":"UA",
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":101869901,
-    "wof:lastmodified":1563302747,
+    "wof:lastmodified":1566593402,
     "wof:name":"\u0421\u0438\u0440\u043e\u0442\u0438\u043d\u0435",
     "wof:parent_id":1108730791,
     "wof:placetype":"locality",

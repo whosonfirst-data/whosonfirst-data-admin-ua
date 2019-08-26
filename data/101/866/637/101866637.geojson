@@ -11,12 +11,16 @@
     "geom:longitude":32.830555,
     "gn:population":8010,
     "iso:country":"UA",
+    "lbl:bbox":"32.810555,47.799674,32.850555,47.839674",
     "lbl:latitude":47.819674,
     "lbl:longitude":32.830555,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.819674,
     "mps:longitude":32.830555,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanzanka"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":219,
     "wof:belongsto":[
@@ -89,7 +93,6 @@
     "wof:concordances":{
         "gn:id":706580,
         "gp:id":922050,
-        "qs:id":128668,
         "qs_pg:id":128668,
         "wd:id":"Q1011809"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101866637,
-    "wof:lastmodified":1563302467,
+    "wof:lastmodified":1566593280,
     "wof:name":"\u041a\u0430\u0437\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088265,
     "wof:placetype":"locality",

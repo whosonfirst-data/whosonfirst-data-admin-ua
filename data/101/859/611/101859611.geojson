@@ -10,12 +10,16 @@
     "geom:latitude":48.152532,
     "geom:longitude":26.086154,
     "iso:country":"UA",
+    "lbl:bbox":"26.066154,48.132532,26.106154,48.172532",
     "lbl:latitude":48.152532,
     "lbl:longitude":26.086154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.152532,
     "mps:longitude":26.086154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Velyka Buda"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918247,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4106235"
     },
     "wof:country":"UA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101859611,
-    "wof:lastmodified":1561776907,
+    "wof:lastmodified":1566593218,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0443\u0434\u0430",
     "wof:parent_id":102088041,
     "wof:placetype":"locality",

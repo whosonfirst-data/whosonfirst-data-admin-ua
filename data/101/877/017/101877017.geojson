@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.694416,
     "lbl:longitude":38.665776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.694416,
     "mps:longitude":38.665776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629 \u062f\u0648\u0646\u064a\u062a\u0633\u0643 \u0627\u0644\u0648\u0637\u0646\u064a\u0629"
     ],
@@ -71,9 +74,6 @@
         "Donets\u2019kyy",
         "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Donetskiy"
-    ],
     "name:zho_x_preferred":[
         "\u591a\u6d85\u9f4a\u57fa"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":645,
     "wof:belongsto":[
         102191581,
@@ -107,9 +107,11 @@
     "wof:concordances":{
         "gn:id":709713,
         "gp:id":919163,
-        "qs:id":5,
-        "qs_pg:id":1081890,
+        "qs_pg:id":5,
         "wd:id":"Q4166212"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1081890
     },
     "wof:country":"UA",
     "wof:geomhash":"55b8ae77881e5412bcc2f4ca21906db2",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101877017,
-    "wof:lastmodified":1563303140,
+    "wof:lastmodified":1566593573,
     "wof:name":"\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108730805,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":51.254567,
     "geom:longitude":30.402159,
     "iso:country":"UA",
+    "lbl:bbox":"30.382159,51.234567,30.422159,51.274567",
     "lbl:latitude":51.254567,
     "lbl:longitude":30.402159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.254567,
     "mps:longitude":30.402159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0441\u0451\u043b\u044b"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0430\u0434\u0438\u0436\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ladyzhichi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":567,
     "wof:belongsto":[
         102191581,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101871245,
-    "wof:lastmodified":1563303252,
+    "wof:lastmodified":1566593633,
     "wof:name":"\u041b\u0430\u0434\u0438\u0436\u0438\u0447\u0456",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

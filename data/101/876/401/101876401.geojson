@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.139597,
     "lbl:longitude":23.869659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.139597,
     "mps:longitude":23.869659,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0628\u0627\u0637\u064a\u0629"
     ],
@@ -204,7 +207,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u043b\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalini"
     ],
     "name:uzb_x_preferred":[
@@ -235,7 +238,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1097,
     "wof:belongsto":[
@@ -248,7 +251,7 @@
     "wof:concordances":{
         "gn:id":707127,
         "gp:id":919346,
-        "qs:id":128679,
+        "qs_pg:id":128679,
         "wd:id":"Q158492"
     },
     "wof:country":"UA",
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":101876401,
-    "wof:lastmodified":1563303167,
+    "wof:lastmodified":1566593588,
     "wof:name":"\u041a\u0430\u043b\u0438\u043d\u0438",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

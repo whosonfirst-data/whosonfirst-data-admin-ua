@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.574138,
     "lbl:longitude":23.453605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.574138,
     "mps:longitude":23.453605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Repinne"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043f\u0438\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Repynne"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":695662,
         "gp:id":926904,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q714523"
     },
     "wof:country":"UA",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101876467,
-    "wof:lastmodified":1563303209,
+    "wof:lastmodified":1566593612,
     "wof:name":"\u0420\u0435\u043f\u0438\u043d\u043d\u0435",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

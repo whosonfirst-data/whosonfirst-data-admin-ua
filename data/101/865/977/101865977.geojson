@@ -10,12 +10,16 @@
     "geom:latitude":46.805903,
     "geom:longitude":32.266667,
     "iso:country":"UA",
+    "lbl:bbox":"32.246667,46.785903,32.286667,46.825903",
     "lbl:latitude":46.805903,
     "lbl:longitude":32.266667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.805903,
     "mps:longitude":32.266667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Posad-Pokrovskoye"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0441\u0430\u0434-\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kopani"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":696464,
         "gp:id":923475,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"669773505577ee1a9eaca869854276ad",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101865977,
-    "wof:lastmodified":1544748346,
+    "wof:lastmodified":1566593724,
     "wof:name":"\u041f\u043e\u0441\u0430\u0434-\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088019,
     "wof:placetype":"locality",

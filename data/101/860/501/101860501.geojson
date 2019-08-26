@@ -10,12 +10,16 @@
     "geom:latitude":48.193104,
     "geom:longitude":26.239449,
     "iso:country":"UA",
+    "lbl:bbox":"26.219449,48.173104,26.259449,48.213104",
     "lbl:latitude":48.193104,
     "lbl:longitude":26.239449,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.193104,
     "mps:longitude":26.239449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Molnytsia"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918247,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4300510"
     },
     "wof:country":"UA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101860501,
-    "wof:lastmodified":1561776949,
+    "wof:lastmodified":1566593464,
     "wof:name":"\u041c\u043e\u043b\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088041,
     "wof:placetype":"locality",

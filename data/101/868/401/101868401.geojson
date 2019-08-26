@@ -10,16 +10,20 @@
     "geom:latitude":49.969238,
     "geom:longitude":28.968974,
     "iso:country":"UA",
+    "lbl:bbox":"28.948974,49.949238,28.988974,49.989238",
     "lbl:latitude":49.969238,
     "lbl:longitude":28.968974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.969238,
     "mps:longitude":28.968974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0445\u0432\u043e\u0440\u043e\u0449"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nekhvoroshcha"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":700354,
         "gp:id":12518190,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"d5b8cde8ded2dd8e69e510d57c929a05",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101868401,
-    "wof:lastmodified":1544749713,
+    "wof:lastmodified":1566593345,
     "wof:name":"\u041d\u0435\u0445\u0432\u043e\u0440\u043e\u0449",
     "wof:parent_id":102088599,
     "wof:placetype":"locality",

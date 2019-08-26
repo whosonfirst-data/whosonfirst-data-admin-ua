@@ -11,12 +11,16 @@
     "geom:longitude":32.447432,
     "gn:population":12657,
     "iso:country":"UA",
+    "lbl:bbox":"32.427432,47.376884,32.467432,47.416884",
     "lbl:latitude":47.396884,
     "lbl:longitude":32.447432,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.396884,
     "mps:longitude":32.447432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0634\u062a\u0627\u0646\u0643\u0627"
     ],
@@ -83,9 +87,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0448\u0442\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bashtanka"
-    ],
     "name:vie_x_preferred":[
         "Bashtanka"
     ],
@@ -112,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -125,7 +126,6 @@
     "wof:concordances":{
         "gn:id":712775,
         "gp:id":916361,
-        "qs:id":275604,
         "qs_pg:id":275604,
         "wd:id":"Q572899",
         "wk:page":"Bashtanka"
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":101866209,
-    "wof:lastmodified":1563302465,
+    "wof:lastmodified":1566593279,
     "wof:name":"\u0411\u0430\u0448\u0442\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088119,
     "wof:placetype":"locality",

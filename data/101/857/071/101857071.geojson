@@ -10,12 +10,16 @@
     "geom:latitude":44.736466,
     "geom:longitude":34.400212,
     "iso:country":"UA",
+    "lbl:bbox":"34.380212,44.716466,34.420212,44.756466",
     "lbl:latitude":44.736466,
     "lbl:longitude":34.400212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.736466,
     "mps:longitude":34.400212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Luchistoye"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -69,7 +73,7 @@
         "fct:id":"08275830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":702705,
         "gp:id":925626,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"fa0625606213e8f3a2a499a86235fe6f",
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743707,
+    "wof:lastmodified":1566593386,
     "wof:name":"\u041b\u0443\u0447\u0438\u0441\u0442\u0435",
     "wof:parent_id":1108738679,
     "wof:placetype":"locality",

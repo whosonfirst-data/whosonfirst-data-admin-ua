@@ -10,12 +10,16 @@
     "geom:latitude":45.746546,
     "geom:longitude":33.778291,
     "iso:country":"UA",
+    "lbl:bbox":"33.758291,45.726546,33.798291,45.766546",
     "lbl:latitude":45.746546,
     "lbl:longitude":33.778291,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.746546,
     "mps:longitude":33.778291,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalinino"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":707197,
         "gp:id":930517,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"fcb9691af2c5a086e1e098e46df3b0a8",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101858693,
-    "wof:lastmodified":1544744533,
+    "wof:lastmodified":1566593485,
     "wof:name":"\u041a\u0430\u043b\u0456\u043d\u0456\u043d\u0435",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":38.162477,
     "gn:population":18770,
     "iso:country":"UA",
+    "lbl:bbox":"38.142477,49.382934,38.182477,49.422934",
     "lbl:latitude":49.402934,
     "lbl:longitude":38.162477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.402934,
     "mps:longitude":38.162477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u062a\u0648\u0641\u0647"
     ],
@@ -98,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0430\u0442\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svatovo"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +131,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":227,
     "wof:belongsto":[
@@ -140,7 +144,6 @@
     "wof:concordances":{
         "gn:id":692118,
         "gp:id":935557,
-        "qs:id":275428,
         "qs_pg:id":275428,
         "wd:id":"Q2414524",
         "wk:page":"Svatove"
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101870215,
-    "wof:lastmodified":1563303113,
+    "wof:lastmodified":1566593560,
     "wof:name":"\u0421\u0432\u0430\u0442\u043e\u0432\u0435",
     "wof:parent_id":102088909,
     "wof:placetype":"locality",

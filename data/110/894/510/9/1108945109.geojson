@@ -10,8 +10,10 @@
     "geom:latitude":50.516753,
     "geom:longitude":30.598242,
     "iso:country":"UA",
+    "lbl:bbox":"30.5932416481,50.5117530653,30.6032416481,50.5217530653",
     "lbl:latitude":50.516753,
     "lbl:longitude":30.598242,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -84,7 +86,7 @@
     "name:zho_x_preferred":[
         "\u5091\u65af\u7d0d"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":1108945109,
-    "wof:lastmodified":1564196795,
+    "wof:lastmodified":1566592887,
     "wof:name":"Desna",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

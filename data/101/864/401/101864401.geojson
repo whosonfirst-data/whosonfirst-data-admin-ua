@@ -10,12 +10,16 @@
     "geom:latitude":51.47808,
     "geom:longitude":24.890873,
     "iso:country":"UA",
+    "lbl:bbox":"24.870873,51.45808,24.910873,51.49808",
     "lbl:latitude":51.47808,
     "lbl:longitude":24.890873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.47808,
     "mps:longitude":24.890873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043e\u0448\u044b\u0447\u043d\u044d"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u0448\u0438\u0447\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sachichno"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":693108,
         "gp:id":929301,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4430411"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101864401,
-    "wof:lastmodified":1563303538,
+    "wof:lastmodified":1566593755,
     "wof:name":"\u0421\u043e\u0448\u0438\u0447\u043d\u0435",
     "wof:parent_id":102088837,
     "wof:placetype":"locality",

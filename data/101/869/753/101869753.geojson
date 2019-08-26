@@ -10,12 +10,16 @@
     "geom:latitude":49.602369,
     "geom:longitude":34.343848,
     "iso:country":"UA",
+    "lbl:bbox":"34.323848,49.582369,34.363848,49.622369",
     "lbl:latitude":49.602369,
     "lbl:longitude":34.343848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.602369,
     "mps:longitude":34.343848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Abasiwka"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_variant":[
         "\u0410\u0431\u0430\u0437\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Abazovka"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u5df4\u6fdf\u592b\u5361"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +83,7 @@
     "wof:concordances":{
         "gn:id":713822,
         "gp:id":12518389,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4054224"
     },
     "wof:country":"UA",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":101869753,
-    "wof:lastmodified":1563302748,
+    "wof:lastmodified":1566593403,
     "wof:name":"\u0410\u0431\u0430\u0437\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815691,
     "wof:placetype":"locality",

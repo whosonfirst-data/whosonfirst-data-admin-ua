@@ -10,12 +10,16 @@
     "geom:latitude":47.73799,
     "geom:longitude":38.601782,
     "iso:country":"UA",
+    "lbl:bbox":"38.581782,47.71799,38.621782,47.75799",
     "lbl:latitude":47.73799,
     "lbl:longitude":38.601782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.73799,
     "mps:longitude":38.601782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0413\u043e\u0440\u043d\u0430 \u041b\u0456\u0441\u0456\u0447\u044d \u0421\u043a\u043e\u043f\u2019\u0435"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0441\u0438\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lisichiy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":168,
     "wof:belongsto":[
         85688779,
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":702970,
         "gp:id":925377,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4263213"
     },
     "wof:country":"UA",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":101867219,
-    "wof:lastmodified":1561776954,
+    "wof:lastmodified":1566593505,
     "wof:name":"\u041b\u0438\u0441\u0438\u0447\u0435",
     "wof:parent_id":102088577,
     "wof:placetype":"locality",

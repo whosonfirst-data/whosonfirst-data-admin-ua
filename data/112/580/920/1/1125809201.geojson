@@ -9,19 +9,23 @@
     "geom:bbox":"25.19974,49.07307,25.19974,49.07307",
     "geom:latitude":49.07307,
     "geom:longitude":25.19974,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"25.17974,49.05307,25.21974,49.09307",
     "lbl:latitude":49.07307,
     "lbl:longitude":25.19974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:slv_x_preferred":[
         "\u010certkov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chekhiv"
     ],
     "qs_pg:aaroncc":"UA",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":918340,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
     "woe:name_adm1":"Ternopil\u00b4s\u00b4ka Oblast\u00b4",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1125809201,
-    "wof:lastmodified":1564197989,
+    "wof:lastmodified":1566593914,
     "wof:name":"Chertkov",
     "wof:parent_id":102088211,
     "wof:placetype":"locality",

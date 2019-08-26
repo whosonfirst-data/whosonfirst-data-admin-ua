@@ -10,19 +10,23 @@
     "geom:latitude":51.218136,
     "geom:longitude":29.88,
     "iso:country":"UA",
+    "lbl:bbox":"29.86,51.198136,29.9,51.238136",
     "lbl:latitude":51.218136,
     "lbl:longitude":29.88,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.218136,
     "mps:longitude":29.88,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Bychky"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0438\u0447\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bychki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":101871231,
-    "wof:lastmodified":1544751009,
+    "wof:lastmodified":1566593656,
     "wof:name":"\u0411\u0438\u0447\u043a\u0438",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

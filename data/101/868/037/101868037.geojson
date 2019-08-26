@@ -10,12 +10,16 @@
     "geom:latitude":49.090318,
     "geom:longitude":35.205314,
     "iso:country":"UA",
+    "lbl:bbox":"35.185314,49.070318,35.225314,49.110318",
     "lbl:latitude":49.090318,
     "lbl:longitude":35.205314,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.090318,
     "mps:longitude":35.205314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lytschkowe"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041b\u0438\u0447\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Lychkovo"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Dnipropetrovs'ka",
@@ -62,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +74,7 @@
     "wof:concordances":{
         "gn:id":702510,
         "gp:id":925796,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4270878"
     },
     "wof:country":"UA",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":101868037,
-    "wof:lastmodified":1563302629,
+    "wof:lastmodified":1566593350,
     "wof:name":"\u041b\u0438\u0447\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088653,
     "wof:placetype":"locality",

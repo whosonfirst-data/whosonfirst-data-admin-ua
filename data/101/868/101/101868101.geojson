@@ -10,12 +10,16 @@
     "geom:latitude":48.418521,
     "geom:longitude":39.879519,
     "iso:country":"UA",
+    "lbl:bbox":"39.859519,48.398521,39.899519,48.438521",
     "lbl:latitude":48.418521,
     "lbl:longitude":39.879519,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.418521,
     "mps:longitude":39.879519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Welykyj Suchodil"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0421\u0443\u0445\u043e\u0434\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shoy Sukhodol"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":690100,
         "gp:id":933419,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4106562"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101868101,
-    "wof:lastmodified":1563302658,
+    "wof:lastmodified":1566593362,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0421\u0443\u0445\u043e\u0434\u0456\u043b",
     "wof:parent_id":1108815747,
     "wof:placetype":"locality",

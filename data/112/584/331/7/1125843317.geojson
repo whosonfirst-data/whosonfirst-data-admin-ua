@@ -9,15 +9,18 @@
     "geom:bbox":"38.37804,48.63328,38.37804,48.63328",
     "geom:latitude":48.63328,
     "geom:longitude":38.37804,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":25442,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":25442,
     "iso:country":"UA",
+    "lbl:bbox":"38.35804,48.61328,38.39804,48.65328",
     "lbl:latitude":48.63328,
     "lbl:longitude":38.37804,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0627\u0633\u0646\u0627"
@@ -112,7 +115,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u043f\u0430\u0441\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Kaganovicha"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +141,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":931434,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":1125843317,
-    "wof:lastmodified":1563303980,
+    "wof:lastmodified":1566593962,
     "wof:name":"Popasnaya",
     "wof:parent_id":102088803,
     "wof:placetype":"locality",

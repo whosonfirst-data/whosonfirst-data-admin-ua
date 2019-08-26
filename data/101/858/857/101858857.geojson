@@ -11,12 +11,16 @@
     "geom:longitude":32.516484,
     "gn:population":3127,
     "iso:country":"UA",
+    "lbl:bbox":"32.496484,46.065429,32.536484,46.105429",
     "lbl:latitude":46.085429,
     "lbl:longitude":32.516484,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.085429,
     "mps:longitude":32.516484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0437\u0443\u0440\u043d\u0435"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0437\u0443\u0440\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoalekseyevka"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":703317,
         "gp:id":925056,
-        "qs:id":1291342,
+        "qs_pg:id":1291342,
         "wd:id":"Q3656032"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101858857,
-    "wof:lastmodified":1563302939,
+    "wof:lastmodified":1566593484,
     "wof:name":"\u041b\u0430\u0437\u0443\u0440\u043d\u0435",
     "wof:parent_id":102087959,
     "wof:placetype":"locality",

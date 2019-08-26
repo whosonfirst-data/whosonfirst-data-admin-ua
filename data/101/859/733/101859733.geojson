@@ -10,12 +10,16 @@
     "geom:latitude":48.510879,
     "geom:longitude":23.117203,
     "iso:country":"UA",
+    "lbl:bbox":"23.097203,48.490879,23.137203,48.530879",
     "lbl:latitude":48.510879,
     "lbl:longitude":23.117203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.510879,
     "mps:longitude":23.117203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dusino"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0443\u0441\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dusyna"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":709412,
         "gp:id":936939,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q751754"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101859733,
-    "wof:lastmodified":1563302342,
+    "wof:lastmodified":1566593230,
     "wof:name":"\u0414\u0443\u0441\u0438\u043d\u043e",
     "wof:parent_id":102088061,
     "wof:placetype":"locality",

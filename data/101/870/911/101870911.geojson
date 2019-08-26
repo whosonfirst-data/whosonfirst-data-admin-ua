@@ -10,19 +10,23 @@
     "geom:latitude":50.555663,
     "geom:longitude":31.873719,
     "iso:country":"UA",
+    "lbl:bbox":"31.853719,50.535663,31.893719,50.575663",
     "lbl:latitude":50.555663,
     "lbl:longitude":31.873719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.555663,
     "mps:longitude":31.873719,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Arkadiyivka"
     ],
     "name:ukr_x_variant":[
         "\u0410\u0440\u043a\u0430\u0434\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arkadiyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8527638,
         "gp:id":936592,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"33894d1dfc53df2a2fadb2cc4fc777af",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101870911,
-    "wof:lastmodified":1544750868,
+    "wof:lastmodified":1566593565,
     "wof:name":"\u0410\u0440\u043a\u0430\u0434\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088821,
     "wof:placetype":"locality",

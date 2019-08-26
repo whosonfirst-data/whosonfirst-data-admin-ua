@@ -11,12 +11,16 @@
     "geom:longitude":33.409746,
     "gn:population":14880,
     "iso:country":"UA",
+    "lbl:bbox":"33.389746,46.812373,33.429746,46.852373",
     "lbl:latitude":46.832373,
     "lbl:longitude":33.409746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.832373,
     "mps:longitude":33.409746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0633\u0644\u0627\u0641"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0438\u0441\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berisslaw"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -146,7 +150,6 @@
     "wof:concordances":{
         "gn:id":712260,
         "gp:id":916813,
-        "qs:id":275600,
         "qs_pg:id":275600,
         "wd:id":"Q829317",
         "wk:page":"Beryslav"
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101866159,
-    "wof:lastmodified":1563302401,
+    "wof:lastmodified":1566593250,
     "wof:name":"\u0411\u0435\u0440\u0438\u0441\u043b\u0430\u0432",
     "wof:parent_id":102088097,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":27.523444,
     "gn:population":3185,
     "iso:country":"UA",
+    "lbl:bbox":"27.503444,50.039533,27.543444,50.079533",
     "lbl:latitude":50.059533,
     "lbl:longitude":27.523444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.059533,
     "mps:longitude":27.523444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u0430"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shaya Novoselitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":699272,
         "gp:id":928371,
-        "qs:id":1085188
+        "qs_pg:id":1085188
     },
     "wof:country":"UA",
     "wof:geomhash":"d29dd3d1bd495ead3305a53716addfaf",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101862823,
-    "wof:lastmodified":1544746681,
+    "wof:lastmodified":1566593698,
     "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
     "wof:parent_id":102088571,
     "wof:placetype":"locality",

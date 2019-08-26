@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":1880251.319236,
+    "geom:area_square_m":1880251.319235,
     "geom:bbox":"29.8261388815,49.7647247084,29.844863526,49.7803437856",
     "geom:latitude":49.772886,
     "geom:longitude":29.835387,
     "iso:country":"UA",
     "lbl:latitude":49.772209,
     "lbl:longitude":29.835387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.772209,
     "mps:longitude":29.835387,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kyivs'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":933457,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
-    "wof:geomhash":"180ae613d76ed25e29822d9008ee5709",
+    "wof:geomhash":"6c6673880b929b350e6f75a77e2beee6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876915,
-    "wof:lastmodified":1479879230,
+    "wof:lastmodified":1566593595,
     "wof:name":"\u0428\u0430\u043c\u0440\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088579,
     "wof:placetype":"locality",

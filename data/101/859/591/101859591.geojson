@@ -10,12 +10,16 @@
     "geom:latitude":48.213053,
     "geom:longitude":23.754757,
     "iso:country":"UA",
+    "lbl:bbox":"23.734757,48.193053,23.774757,48.233053",
     "lbl:latitude":48.213053,
     "lbl:longitude":23.754757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.213053,
     "mps:longitude":23.754757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shirokii Lug"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0440\u043e\u043a\u0438\u0439 \u041b\u0443\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shiroki Lug"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":694039,
         "gp:id":919346,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q750359"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101859591,
-    "wof:lastmodified":1561776911,
+    "wof:lastmodified":1566593234,
     "wof:name":"\u0428\u0438\u0440\u043e\u043a\u0438\u0439 \u041b\u0443\u0433",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

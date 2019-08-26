@@ -10,19 +10,23 @@
     "geom:latitude":49.405604,
     "geom:longitude":25.099714,
     "iso:country":"UA",
+    "lbl:bbox":"25.079714,49.385604,25.119714,49.425604",
     "lbl:latitude":49.405604,
     "lbl:longitude":25.099714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.405604,
     "mps:longitude":25.099714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Krywe"
     ],
     "name:pol_x_preferred":[
         "Krywe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kryve"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":704013,
         "gp:id":935810,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"8fb370331f66a575963cfdc53dc29250",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101861277,
-    "wof:lastmodified":1544745881,
+    "wof:lastmodified":1566593315,
     "wof:name":"\u041a\u0440\u0438\u0432\u0435",
     "wof:parent_id":102088321,
     "wof:placetype":"locality",

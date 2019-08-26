@@ -10,12 +10,16 @@
     "geom:latitude":45.23864,
     "geom:longitude":34.642438,
     "iso:country":"UA",
+    "lbl:bbox":"34.622438,45.21864,34.662438,45.25864",
     "lbl:latitude":45.23864,
     "lbl:longitude":34.642438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.23864,
     "mps:longitude":34.642438,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zybiny"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":686778,
         "gp:id":932926,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"6d62fedc56a8f58fe5e67a3e7f0ef4d5",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101857195,
-    "wof:lastmodified":1544743770,
+    "wof:lastmodified":1566593383,
     "wof:name":"\u0417\u0438\u0431\u0438\u043d\u0438",
     "wof:parent_id":1108738527,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.434263,
     "geom:longitude":22.166506,
     "iso:country":"UA",
+    "lbl:bbox":"22.146506,48.414263,22.186506,48.454263",
     "lbl:latitude":48.434263,
     "lbl:longitude":22.166506,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.434263,
     "mps:longitude":22.166506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Solomonovo"
     ],
@@ -61,7 +65,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Solomonove"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":164,
     "wof:belongsto":[
         102191581,
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":829742,
         "gp:id":918525,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1070419",
         "wk:page":"Solomonovo"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":101859623,
-    "wof:lastmodified":1563302362,
+    "wof:lastmodified":1566593236,
     "wof:name":"\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u043e",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

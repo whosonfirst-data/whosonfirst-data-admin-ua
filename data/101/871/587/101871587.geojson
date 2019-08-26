@@ -11,12 +11,16 @@
     "geom:longitude":34.318974,
     "gn:population":17824,
     "iso:country":"UA",
+    "lbl:bbox":"34.298974,51.149278,34.338974,51.189278",
     "lbl:latitude":51.169278,
     "lbl:longitude":34.318974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.169278,
     "mps:longitude":34.318974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0628\u064a\u0644\u064a\u0627"
     ],
@@ -110,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belopol\u2019ye"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +142,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -151,7 +155,7 @@
     "wof:concordances":{
         "gn:id":712559,
         "gp:id":916557,
-        "qs:id":128834,
+        "qs_pg:id":128834,
         "wd:id":"Q591896",
         "wk:page":"Bilopillia"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":101871587,
-    "wof:lastmodified":1563303284,
+    "wof:lastmodified":1566593645,
     "wof:name":"\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088995,
     "wof:placetype":"locality",

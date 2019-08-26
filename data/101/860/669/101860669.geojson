@@ -11,12 +11,16 @@
     "geom:longitude":24.896865,
     "gn:population":5126,
     "iso:country":"UA",
+    "lbl:bbox":"24.876865,48.499796,24.916865,48.539796",
     "lbl:latitude":48.519796,
     "lbl:longitude":24.896865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.519796,
     "mps:longitude":24.896865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u044d\u0447\u044d\u043d\u0456\u0436\u044b\u043d"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447\u0435\u043d\u0456\u0436\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pechenezhin"
     ],
     "name:yid_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":268,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":697802,
         "gp:id":930287,
-        "qs:id":1028481,
+        "qs_pg:id":1028481,
         "wd:id":"Q2081189",
         "wk:page":"Pechenizhyn"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101860669,
-    "wof:lastmodified":1563302873,
+    "wof:lastmodified":1566593456,
     "wof:name":"\u041f\u0435\u0447\u0435\u043d\u0456\u0436\u0438\u043d",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

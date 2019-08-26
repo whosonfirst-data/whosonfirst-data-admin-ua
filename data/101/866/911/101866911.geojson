@@ -10,12 +10,16 @@
     "geom:latitude":49.38527,
     "geom:longitude":30.781239,
     "iso:country":"UA",
+    "lbl:bbox":"30.761239,49.36527,30.801239,49.40527",
     "lbl:latitude":49.38527,
     "lbl:longitude":30.781239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.38527,
     "mps:longitude":30.781239,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Medvyn"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Medvin"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":359,
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":701429,
         "gp:id":926802,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q17039352"
     },
     "wof:country":"UA",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101866911,
-    "wof:lastmodified":1544748873,
+    "wof:lastmodified":1566593284,
     "wof:name":"\u041c\u0435\u0434\u0432\u0438\u043d",
     "wof:parent_id":102088563,
     "wof:placetype":"locality",

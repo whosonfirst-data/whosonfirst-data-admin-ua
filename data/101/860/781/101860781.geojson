@@ -10,12 +10,16 @@
     "geom:latitude":48.846577,
     "geom:longitude":24.162127,
     "iso:country":"UA",
+    "lbl:bbox":"24.142127,48.826577,24.182127,48.866577",
     "lbl:latitude":48.846577,
     "lbl:longitude":24.162127,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.846577,
     "mps:longitude":24.162127,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Idioom"
     ],
@@ -325,7 +329,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2892,
     "wof:belongsto":[
         102191581,
@@ -351,7 +355,7 @@
         }
     ],
     "wof:id":101860781,
-    "wof:lastmodified":1563302921,
+    "wof:lastmodified":1566593475,
     "wof:name":"\u0414\u0443\u0431\u0430",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

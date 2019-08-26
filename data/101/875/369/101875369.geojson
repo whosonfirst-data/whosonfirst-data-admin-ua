@@ -10,12 +10,16 @@
     "geom:latitude":49.783345,
     "geom:longitude":24.007973,
     "iso:country":"UA",
+    "lbl:bbox":"23.987973,49.763345,24.027973,49.803345",
     "lbl:latitude":49.783345,
     "lbl:longitude":24.007973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.783345,
     "mps:longitude":24.007973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sokilnyky"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u0456\u043b\u044c\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sokol\u2019niki"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":693292,
         "gp:id":924943,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4427447"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101875369,
-    "wof:lastmodified":1563302276,
+    "wof:lastmodified":1566593204,
     "wof:name":"\u0421\u043e\u043a\u0456\u043b\u044c\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

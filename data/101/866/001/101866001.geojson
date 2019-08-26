@@ -11,12 +11,16 @@
     "geom:longitude":32.198585,
     "gn:population":3031,
     "iso:country":"UA",
+    "lbl:bbox":"32.178585,46.838026,32.218585,46.878026",
     "lbl:latitude":46.858026,
     "lbl:longitude":32.198585,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.858026,
     "mps:longitude":32.198585,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Shevchenkove"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shevchenko"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":694148,
         "gp:id":931534,
-        "qs:id":128288,
+        "qs_pg:id":128288,
         "wd:id":"Q1002607"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101866001,
-    "wof:lastmodified":1563302431,
+    "wof:lastmodified":1566593264,
     "wof:name":"\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088055,
     "wof:placetype":"locality",

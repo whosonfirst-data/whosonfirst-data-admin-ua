@@ -10,12 +10,16 @@
     "geom:latitude":48.775088,
     "geom:longitude":37.481478,
     "iso:country":"UA",
+    "lbl:bbox":"37.461478,48.755088,37.501478,48.795088",
     "lbl:latitude":48.775088,
     "lbl:longitude":37.481478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.775088,
     "mps:longitude":37.481478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "\u015eabelkivka"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0428\u0430\u0431\u0435\u043b\u044c\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shabel\u2019kovka"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":694397,
         "gp:id":923969,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4519105"
     },
     "wof:country":"UA",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101869687,
-    "wof:lastmodified":1563302763,
+    "wof:lastmodified":1566593410,
     "wof:name":"\u0428\u0430\u0431\u0435\u043b\u044c\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108730729,
     "wof:placetype":"locality",

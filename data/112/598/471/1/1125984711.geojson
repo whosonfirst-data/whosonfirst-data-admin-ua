@@ -9,15 +9,18 @@
     "geom:bbox":"27.43382,49.2692,27.43382,49.2692",
     "geom:latitude":49.2692,
     "geom:longitude":27.43382,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10058,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":10058,
     "iso:country":"UA",
+    "lbl:bbox":"27.41382,49.2492,27.45382,49.2892",
     "lbl:latitude":49.2692,
     "lbl:longitude":27.43382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0627\u062c\u0646\u064a\u0627"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0430\u0436\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Derazhnva"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:qs_id":275571,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125984711,
-    "wof:lastmodified":1563303886,
+    "wof:lastmodified":1566593929,
     "wof:name":"Derazhnya",
     "wof:parent_id":102088343,
     "wof:placetype":"locality",

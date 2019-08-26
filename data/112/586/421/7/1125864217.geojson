@@ -9,15 +9,18 @@
     "geom:bbox":"29.22911,50.49613,29.22911,50.49613",
     "geom:latitude":50.49613,
     "geom:longitude":29.22911,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15252,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":15252,
     "iso:country":"UA",
+    "lbl:bbox":"29.20911,50.47613,29.24911,50.51613",
     "lbl:latitude":50.49613,
     "lbl:longitude":29.22911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0420\u0430\u0434\u0430\u043c\u044b\u0448\u043b\u044c"
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043e\u043c\u0438\u0448\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radomyshl\u2019"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":932039,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1125864217,
-    "wof:lastmodified":1563303818,
+    "wof:lastmodified":1566593904,
     "wof:name":"Radomishl",
     "wof:parent_id":102088751,
     "wof:placetype":"locality",

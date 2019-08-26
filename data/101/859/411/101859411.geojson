@@ -10,12 +10,16 @@
     "geom:latitude":48.344838,
     "geom:longitude":23.004907,
     "iso:country":"UA",
+    "lbl:bbox":"22.984907,48.324838,23.024907,48.364838",
     "lbl:latitude":48.344838,
     "lbl:longitude":23.004907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.344838,
     "mps:longitude":23.004907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brid"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "Brid"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Br\u00fcd"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":666,
     "wof:belongsto":[
         102191581,
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":711427,
         "gp:id":921145,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q279801"
     },
     "wof:country":"UA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101859411,
-    "wof:lastmodified":1563302362,
+    "wof:lastmodified":1566593236,
     "wof:name":"\u0411\u0440\u0456\u0434",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

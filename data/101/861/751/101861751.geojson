@@ -11,12 +11,16 @@
     "geom:longitude":27.273442,
     "gn:population":4548,
     "iso:country":"UA",
+    "lbl:bbox":"27.253442,48.816569,27.293442,48.856569",
     "lbl:latitude":48.836569,
     "lbl:longitude":27.273442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.836569,
     "mps:longitude":27.273442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0423\u0448\u044b\u0446\u044f"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0423\u0448\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Ushitsa"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":699899,
         "gp:id":928204,
-        "qs:id":128450,
+        "qs_pg:id":128450,
         "wd:id":"Q2391355"
     },
     "wof:country":"UA",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101861751,
-    "wof:lastmodified":1563302542,
+    "wof:lastmodified":1566593312,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0423\u0448\u0438\u0446\u044f",
     "wof:parent_id":102088227,
     "wof:placetype":"locality",

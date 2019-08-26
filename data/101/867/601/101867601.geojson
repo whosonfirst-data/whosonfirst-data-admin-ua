@@ -10,12 +10,16 @@
     "geom:latitude":49.10364,
     "geom:longitude":29.844303,
     "iso:country":"UA",
+    "lbl:bbox":"29.824303,49.08364,29.864303,49.12364",
     "lbl:latitude":49.10364,
     "lbl:longitude":29.844303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.10364,
     "mps:longitude":29.844303,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Cherkas'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":707519,
         "gp:id":936503,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"dda61c4c8ecc7a8c7e4603a24038d425",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101867601,
-    "wof:lastmodified":1544749268,
+    "wof:lastmodified":1566593532,
     "wof:name":"\u0406\u0432\u0430\u0445\u043d\u0438",
     "wof:parent_id":102088403,
     "wof:placetype":"locality",

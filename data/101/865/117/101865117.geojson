@@ -10,12 +10,16 @@
     "geom:latitude":47.061225,
     "geom:longitude":35.568157,
     "iso:country":"UA",
+    "lbl:bbox":"35.548157,47.041225,35.588157,47.081225",
     "lbl:latitude":47.061225,
     "lbl:longitude":35.568157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.061225,
     "mps:longitude":35.568157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Orlowe"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0440\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orlov"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":698366,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4336835"
     },
     "wof:country":"UA",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101865117,
-    "wof:lastmodified":1561776988,
+    "wof:lastmodified":1566593728,
     "wof:name":"\u041e\u0440\u043b\u043e\u0432\u0435",
     "wof:parent_id":1108815655,
     "wof:placetype":"locality",

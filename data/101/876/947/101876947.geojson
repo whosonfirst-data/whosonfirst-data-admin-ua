@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.368136,
     "lbl:longitude":37.888346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.368136,
     "mps:longitude":37.888346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u062a\u064a\u0645\u0648\u0641\u064a"
     ],
@@ -113,7 +116,7 @@
         "Artemove",
         "\u0410\u0440\u0442\u0435\u043c\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Art\u00ebma"
     ],
     "name:vie_x_preferred":[
@@ -138,7 +141,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":110,
     "wof:belongsto":[
         85688779,
@@ -151,7 +154,7 @@
     "wof:concordances":{
         "gn:id":713176,
         "gp:id":925127,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1937296"
     },
     "wof:country":"UA",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101876947,
-    "wof:lastmodified":1563303184,
+    "wof:lastmodified":1566593597,
     "wof:name":"\u0410\u0440\u0442\u0435\u043c\u043e\u0432\u0435",
     "wof:parent_id":1108815895,
     "wof:placetype":"locality",

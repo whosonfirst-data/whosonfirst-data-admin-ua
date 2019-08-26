@@ -10,13 +10,17 @@
     "geom:latitude":48.562545,
     "geom:longitude":27.466432,
     "iso:country":"UA",
+    "lbl:bbox":"27.446432,48.542545,27.486432,48.582545",
     "lbl:latitude":48.562545,
     "lbl:longitude":27.466432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.562545,
     "mps:longitude":27.466432,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ozheva"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":698070,
         "gp:id":923008,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"08056ba00a2d31f518f2475bb37ce374",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860825,
-    "wof:lastmodified":1544745640,
+    "wof:lastmodified":1566593469,
     "wof:name":"\u041e\u0436\u0435\u0432\u0435",
     "wof:parent_id":102088147,
     "wof:placetype":"locality",

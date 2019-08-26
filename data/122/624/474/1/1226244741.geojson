@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"32.67722,52.12625,32.71722,52.16625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130vanovka"
     ],
@@ -87,10 +91,6 @@
         "Ivanovskaya",
         "\u0406\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Ivanovskaya",
-        "Ivanovka"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1226244741,
-    "wof:lastmodified":1564199163,
+    "wof:lastmodified":1566594576,
     "wof:name":"Ivanovka",
     "wof:parent_id":102088677,
     "wof:placetype":"locality",

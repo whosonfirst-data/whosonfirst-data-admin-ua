@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.209664,
     "lbl:longitude":37.273584,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":49.209664,
     "mps:longitude":37.273584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0625\u0632\u064a\u0648\u0645"
     ],
@@ -146,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u044e\u043c"
     ],
-    "name:unk_x_variant":[
-        "Izyum"
-    ],
     "name:vie_x_preferred":[
         "Izium"
     ],
@@ -173,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":746,
     "wof:belongsto":[
@@ -186,7 +186,6 @@
     "wof:concordances":{
         "gn:id":707292,
         "gp:id":921412,
-        "qs:id":128687,
         "qs_pg:id":128687,
         "wd:id":"Q544003"
     },
@@ -202,7 +201,7 @@
         }
     ],
     "wof:id":101752493,
-    "wof:lastmodified":1563302229,
+    "wof:lastmodified":1566593189,
     "wof:name":"\u0406\u0437\u044e\u043c",
     "wof:parent_id":1108730665,
     "wof:placetype":"locality",

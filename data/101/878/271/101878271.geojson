@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":45.020419,
     "lbl:longitude":34.004471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.020419,
     "mps:longitude":34.004471,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aeroflotskiy"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":821,
     "wof:belongsto":[
         85688855,
@@ -78,7 +81,7 @@
         "fct:id":"08265cd2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":713772,
         "gp:id":915442,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4057732"
     },
     "wof:country":"UA",
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563303335,
+    "wof:lastmodified":1566593667,
     "wof:name":"\u0410\u0435\u0440\u043e\u0444\u043b\u043e\u0442\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108738681,
     "wof:placetype":"locality",

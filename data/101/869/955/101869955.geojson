@@ -10,12 +10,16 @@
     "geom:latitude":49.956337,
     "geom:longitude":33.455474,
     "iso:country":"UA",
+    "lbl:bbox":"33.435474,49.936337,33.475474,49.976337",
     "lbl:latitude":49.956337,
     "lbl:longitude":33.455474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.956337,
     "mps:longitude":33.455474,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kibintsy"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0438\u0431\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Zhittya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":705911,
         "gp:id":922684,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"1234d7a465847b8a3137f08012909816",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869955,
-    "wof:lastmodified":1544750531,
+    "wof:lastmodified":1566593406,
     "wof:name":"\u041a\u0438\u0431\u0438\u043d\u0446\u0456",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

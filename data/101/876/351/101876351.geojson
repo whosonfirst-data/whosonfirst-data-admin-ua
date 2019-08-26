@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1904657.41689,
+    "geom:area_square_m":1904657.416891,
     "geom:bbox":"23.3021066891,48.2600832075,23.3203853023,48.2771021171",
     "geom:latitude":48.268878,
     "geom:longitude":23.310929,
     "iso:country":"UA",
     "lbl:latitude":48.269303,
     "lbl:longitude":23.310755,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.269303,
     "mps:longitude":23.310755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041b\u0456\u043f\u0430\u0432\u0435\u0446"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_variant":[
         "Lypovets\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipovets"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +99,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191581,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101876351,
-    "wof:lastmodified":1527714915,
+    "wof:lastmodified":1566593604,
     "wof:name":"\u041b\u0438\u043f\u043e\u0432\u0435\u0446\u044c",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

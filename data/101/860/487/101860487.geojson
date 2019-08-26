@@ -10,12 +10,16 @@
     "geom:latitude":48.192098,
     "geom:longitude":25.900174,
     "iso:country":"UA",
+    "lbl:bbox":"25.880174,48.172098,25.920174,48.212098",
     "lbl:latitude":48.192098,
     "lbl:longitude":25.900174,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.192098,
     "mps:longitude":25.900174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a\u064a \u0643\u0648\u062a\u0634\u0648\u0631\u064a\u0641"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u0443\u0447\u0443\u0440\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Cuciurul Mare"
-    ],
     "name:zho_x_preferred":[
         "\u5927\u5eab\u4e18\u91cc\u592b"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":690131,
         "gp:id":937308,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2091603"
     },
     "wof:country":"UA",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":101860487,
-    "wof:lastmodified":1563302904,
+    "wof:lastmodified":1566593469,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041a\u0443\u0447\u0443\u0440\u0456\u0432",
     "wof:parent_id":102088037,
     "wof:placetype":"locality",

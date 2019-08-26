@@ -9,15 +9,18 @@
     "geom:bbox":"39.79618,48.07613,39.79618,48.07613",
     "geom:latitude":48.07613,
     "geom:longitude":39.79618,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17526,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":17526,
     "iso:country":"UA",
+    "lbl:bbox":"39.77618,48.05613,39.81618,48.09613",
     "lbl:latitude":48.07613,
     "lbl:longitude":39.79618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0641\u0648\u0646\u0648\u0628\u0627\u0631\u062a\u064a\u0632\u0627\u0646\u0633\u0643"
@@ -110,7 +113,7 @@
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0441\u044c\u043a",
         "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnopartizansk"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":918404,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1125978461,
-    "wof:lastmodified":1563303880,
+    "wof:lastmodified":1566593926,
     "wof:name":"Chervonopartizansk",
     "wof:parent_id":1108815967,
     "wof:placetype":"locality",

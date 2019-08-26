@@ -10,12 +10,16 @@
     "geom:latitude":50.483572,
     "geom:longitude":29.861447,
     "iso:country":"UA",
+    "lbl:bbox":"29.841447,50.463572,29.881447,50.503572",
     "lbl:latitude":50.483572,
     "lbl:longitude":29.861447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.483572,
     "mps:longitude":29.861447,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0413\u0430\u0432\u0440\u043e\u043d\u0449\u0438\u043d\u0430"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0413\u0430\u0432\u0440\u043e\u043d\u0449\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gavronshchizna"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":708920,
         "gp:id":925951,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"468409e085de1f63a412290146aeef32",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101870769,
-    "wof:lastmodified":1544750806,
+    "wof:lastmodified":1566593557,
     "wof:name":"\u0413\u0430\u0432\u0440\u043e\u043d\u0449\u0438\u043d\u0430",
     "wof:parent_id":102088721,
     "wof:placetype":"locality",

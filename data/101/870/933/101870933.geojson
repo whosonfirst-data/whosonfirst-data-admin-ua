@@ -10,12 +10,16 @@
     "geom:latitude":50.612567,
     "geom:longitude":30.716979,
     "iso:country":"UA",
+    "lbl:bbox":"30.696979,50.592567,30.736979,50.632567",
     "lbl:latitude":50.612567,
     "lbl:longitude":30.716979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.612567,
     "mps:longitude":30.716979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0443\u0445\u0456\u045e\u043a\u0430"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0443\u0445\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pukhovka"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u5e0c\u592b\u5361"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":696063,
         "gp:id":924938,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4384534"
     },
     "wof:country":"UA",
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":101870933,
-    "wof:lastmodified":1563303109,
+    "wof:lastmodified":1566593558,
     "wof:name":"\u041f\u0443\u0445\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815649,
     "wof:placetype":"locality",

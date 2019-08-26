@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"32.97389,52.1025,33.01389,52.1425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Yasne"
     ],
@@ -32,10 +36,6 @@
         "\u042f\u0441\u043d\u0435",
         "Uzruy",
         "Uzrui"
-    ],
-    "name:und_x_variant":[
-        "Uzrui",
-        "Uzruy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1242690505,
-    "wof:lastmodified":1537710283,
+    "wof:lastmodified":1566594064,
     "wof:name":"Yasne",
     "wof:parent_id":102089027,
     "wof:placetype":"locality",

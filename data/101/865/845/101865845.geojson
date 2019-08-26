@@ -10,12 +10,16 @@
     "geom:latitude":48.037155,
     "geom:longitude":35.030569,
     "iso:country":"UA",
+    "lbl:bbox":"35.010569,48.017155,35.050569,48.057155",
     "lbl:latitude":48.037155,
     "lbl:longitude":35.030569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.037155,
     "mps:longitude":35.030569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "Avhustynivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo-Avgustinovka"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191581,
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":713113,
         "gp:id":937720,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4055474"
     },
     "wof:country":"UA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101865845,
-    "wof:lastmodified":1563303449,
+    "wof:lastmodified":1566593719,
     "wof:name":"\u0410\u0432\u0433\u0443\u0441\u0442\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815653,
     "wof:placetype":"locality",

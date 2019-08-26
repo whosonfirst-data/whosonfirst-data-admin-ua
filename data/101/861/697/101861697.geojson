@@ -11,12 +11,16 @@
     "geom:longitude":24.744376,
     "gn:population":2500,
     "iso:country":"UA",
+    "lbl:bbox":"24.724376,49.163313,24.764376,49.203313",
     "lbl:latitude":49.183313,
     "lbl:longitude":24.744376,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.183313,
     "mps:longitude":24.744376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0456\u043b\u044c\u0448\u044b\u045e\u0446\u044b"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u044c\u0448\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boshovtse"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":711752,
         "gp:id":919782,
-        "qs:id":128799,
+        "qs_pg:id":128799,
         "wd:id":"Q4092249"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101861697,
-    "wof:lastmodified":1563302564,
+    "wof:lastmodified":1566593322,
     "wof:name":"\u0411\u0456\u043b\u044c\u0448\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

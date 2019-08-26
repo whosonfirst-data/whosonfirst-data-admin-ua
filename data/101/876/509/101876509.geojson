@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.547964,
     "lbl:longitude":25.639657,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.547964,
     "mps:longitude":25.639657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Szyszkowce"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":921453,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"2034d7db2ff24ecc50a1a2f8b4277d6d",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101876509,
-    "wof:lastmodified":1527714915,
+    "wof:lastmodified":1566593605,
     "wof:name":"\u0428\u0438\u0448\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088095,
     "wof:placetype":"locality",

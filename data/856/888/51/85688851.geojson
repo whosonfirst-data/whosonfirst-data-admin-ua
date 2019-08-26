@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.293538,
     "lbl:longitude":35.594244,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":47.29982,
     "mps:longitude":35.593104,
@@ -244,7 +245,7 @@
         "Zaporizjzja oblast"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0baa\u0bcb\u0bb0\u0bbf\u0bb2\u0bb2\u0baf\u0bbe  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0b9a\u0baa\u0bcb\u0bb0\u0bbf\u0bb2\u0bb2\u0baf\u0bbe \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -270,9 +271,6 @@
         "\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Zaporozh\u2019ye Oblast"
     ],
     "name:urd_x_preferred":[
@@ -368,9 +366,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"27,180",
     "statoids:area_mi":"10,494",
     "statoids:as_of_date":"2001-12-05",
@@ -415,7 +413,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737969,
+    "wof:lastmodified":1566591776,
     "wof:name":"Zaporizhia",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

@@ -11,12 +11,16 @@
     "geom:longitude":36.504371,
     "gn:population":2628,
     "iso:country":"UA",
+    "lbl:bbox":"36.484371,49.806088,36.524371,49.846088",
     "lbl:latitude":49.826088,
     "lbl:longitude":36.504371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.826088,
     "mps:longitude":36.504371,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vvedenka"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0432\u0435\u0434\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vvedenskoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":688805,
         "gp:id":928904,
-        "qs:id":128175
+        "qs_pg:id":128175
     },
     "wof:country":"UA",
     "wof:geomhash":"0d9d9b060f93a30b2a1a2a749272cbd2",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101871667,
-    "wof:lastmodified":1544751203,
+    "wof:lastmodified":1566593639,
     "wof:name":"\u0412\u0432\u0435\u0434\u0435\u043d\u043a\u0430",
     "wof:parent_id":1108815749,
     "wof:placetype":"locality",

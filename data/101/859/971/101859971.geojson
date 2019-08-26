@@ -10,12 +10,16 @@
     "geom:latitude":48.992257,
     "geom:longitude":22.708632,
     "iso:country":"UA",
+    "lbl:bbox":"22.688632,48.972257,22.728632,49.012257",
     "lbl:latitude":48.992257,
     "lbl:longitude":22.708632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.992257,
     "mps:longitude":22.708632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stawne"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0432\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stavna"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":692654,
         "gp:id":526922,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q852214"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101859971,
-    "wof:lastmodified":1563302333,
+    "wof:lastmodified":1566593227,
     "wof:name":"\u0421\u0442\u0430\u0432\u043d\u0435",
     "wof:parent_id":102088109,
     "wof:placetype":"locality",

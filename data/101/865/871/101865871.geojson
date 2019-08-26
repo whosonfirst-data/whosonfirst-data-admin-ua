@@ -10,12 +10,16 @@
     "geom:latitude":48.120555,
     "geom:longitude":34.159644,
     "iso:country":"UA",
+    "lbl:bbox":"34.139644,48.100555,34.179644,48.140555",
     "lbl:latitude":48.120555,
     "lbl:longitude":34.159644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.120555,
     "mps:longitude":34.159644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Huljajpole"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Gulyay-Pole"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Dnipropetrovs'ka",
@@ -62,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":212,
     "wof:belongsto":[
         102191581,
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":707897,
         "gp:id":926488,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4151969"
     },
     "wof:country":"UA",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":101865871,
-    "wof:lastmodified":1563303488,
+    "wof:lastmodified":1566593735,
     "wof:name":"\u0413\u0443\u043b\u044f\u0439\u043f\u043e\u043b\u0435",
     "wof:parent_id":102088477,
     "wof:placetype":"locality",
