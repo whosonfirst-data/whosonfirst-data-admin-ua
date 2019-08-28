@@ -11,12 +11,16 @@
     "geom:longitude":24.661754,
     "gn:population":3090,
     "iso:country":"UA",
+    "lbl:bbox":"24.641754,48.949724,24.681754,48.989724",
     "lbl:latitude":48.969724,
     "lbl:longitude":24.661754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.969724,
     "mps:longitude":24.661754,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uhryniv"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u0440\u0438\u043d\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorishnyy Ugrinov"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":690804,
         "gp:id":921237,
-        "qs:id":128224,
+        "qs_pg:id":128224,
         "wd:id":"Q4469164",
         "wk:page":"Uhryniv, Tysmenytsia Raion"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101860057,
-    "wof:lastmodified":1563302914,
+    "wof:lastmodified":1566593472,
     "wof:name":"\u0423\u0433\u0440\u0438\u043d\u0456\u0432",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

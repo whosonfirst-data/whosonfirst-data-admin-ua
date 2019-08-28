@@ -10,16 +10,20 @@
     "geom:latitude":50.802754,
     "geom:longitude":27.826281,
     "iso:country":"UA",
+    "lbl:bbox":"27.806281,50.782754,27.846281,50.822754",
     "lbl:latitude":50.802754,
     "lbl:longitude":27.826281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.802754,
     "mps:longitude":27.826281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u0456\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kulishi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":703719,
         "gp:id":12518489,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"72fa1e7d4b7d4b5f630558ee26d8bd77",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101864297,
-    "wof:lastmodified":1544747453,
+    "wof:lastmodified":1566593772,
     "wof:name":"\u041a\u0443\u043b\u0456\u0448\u0456",
     "wof:parent_id":102088775,
     "wof:placetype":"locality",

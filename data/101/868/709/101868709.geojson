@@ -10,12 +10,16 @@
     "geom:latitude":49.18991,
     "geom:longitude":34.620713,
     "iso:country":"UA",
+    "lbl:bbox":"34.600713,49.16991,34.640713,49.20991",
     "lbl:latitude":49.18991,
     "lbl:longitude":34.620713,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.18991,
     "mps:longitude":34.620713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sokolowa Balka"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0430 \u0411\u0430\u043b\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Sokolova Balka"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u79d1\u6d1b\u74e6\u5df4\u723e\u5361"
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":693263,
         "gp:id":927789,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4427299"
     },
     "wof:country":"UA",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":101868709,
-    "wof:lastmodified":1561776929,
+    "wof:lastmodified":1566593336,
     "wof:name":"\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u0430 \u0411\u0430\u043b\u043a\u0430",
     "wof:parent_id":102088685,
     "wof:placetype":"locality",

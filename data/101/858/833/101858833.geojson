@@ -10,12 +10,16 @@
     "geom:latitude":45.836041,
     "geom:longitude":33.916844,
     "iso:country":"UA",
+    "lbl:bbox":"33.896844,45.816041,33.936844,45.856041",
     "lbl:latitude":45.836041,
     "lbl:longitude":33.916844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.836041,
     "mps:longitude":33.916844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bratskoye"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":307,
     "wof:belongsto":[
         85688855,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101858833,
-    "wof:lastmodified":1544744607,
+    "wof:lastmodified":1566593485,
     "wof:name":"\u0411\u0440\u0430\u0442\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738619,
     "wof:placetype":"locality",

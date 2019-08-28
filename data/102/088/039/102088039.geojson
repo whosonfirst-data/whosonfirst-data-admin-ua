@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.217206,
     "lbl:longitude":23.803954,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zakarpatska",
     "meso:admin_1":"\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Tiachivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":23.808646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tiachivs'kyi"
     ],
@@ -41,9 +44,6 @@
         "Tiachivs'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u0422\u044f\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u0422\u044f\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1818",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Tiachiv",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088039,
-    "wof:lastmodified":1554317285,
+    "wof:lastmodified":1566591378,
     "wof:name":"Tiachivskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

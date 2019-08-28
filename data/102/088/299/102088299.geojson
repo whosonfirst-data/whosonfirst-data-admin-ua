@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.19184,
     "lbl:longitude":26.037271,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ternopils'ka",
     "meso:admin_1":"\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Husiatyns'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":26.038372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Husiatyns'kyi"
     ],
@@ -41,9 +44,6 @@
         "Husiatyns'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u0413\u0443\u0441\u044f\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u0413\u0443\u0441\u044f\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1016",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Husiatyn",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088299,
-    "wof:lastmodified":1554317294,
+    "wof:lastmodified":1566591455,
     "wof:name":"Husiatynskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

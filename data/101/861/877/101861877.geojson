@@ -10,12 +10,16 @@
     "geom:latitude":49.099679,
     "geom:longitude":27.187371,
     "iso:country":"UA",
+    "lbl:bbox":"27.167371,49.079679,27.207371,49.119679",
     "lbl:latitude":49.099679,
     "lbl:longitude":27.187371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.099679,
     "mps:longitude":27.187371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u054a\u0565\u057f\u0580\u0561\u0577\u0578\u057e\u056f\u0561"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrashi"
     ],
     "name:zho_x_preferred":[
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":697465,
         "gp:id":929441,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"a848fb21375f94434a529dda193fa0e9",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101861877,
-    "wof:lastmodified":1544746193,
+    "wof:lastmodified":1566593316,
     "wof:name":"\u041f\u0435\u0442\u0440\u0430\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088285,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"31.38802,46.85262,31.38802,46.85262",
     "geom:latitude":46.85262,
     "geom:longitude":31.38802,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4090,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4090,
     "iso:country":"UA",
+    "lbl:bbox":"31.36802,46.83262,31.40802,46.87262",
     "lbl:latitude":46.85262,
     "lbl:longitude":31.38802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0632\u0627\u0646\u0643\u0627\u060c \u0645\u064a\u0643\u0648\u0644\u0627\u064a\u064a\u0641\u0633\u0643\u0627"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiligulo-Berezannya"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":128809,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125864887,
-    "wof:lastmodified":1563303820,
+    "wof:lastmodified":1566593904,
     "wof:name":"Berezanka",
     "wof:parent_id":102088033,
     "wof:placetype":"locality",

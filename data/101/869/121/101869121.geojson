@@ -10,12 +10,16 @@
     "geom:latitude":48.914048,
     "geom:longitude":39.338209,
     "iso:country":"UA",
+    "lbl:bbox":"39.318209,48.894048,39.358209,48.934048",
     "lbl:latitude":48.914048,
     "lbl:longitude":39.338209,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.914048,
     "mps:longitude":39.338209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tscherwonyj Schowten"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u0442\u0435\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasno-Oktyabr\u2019skoye"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":710495,
         "gp:id":925669,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4512418"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101869121,
-    "wof:lastmodified":1563302793,
+    "wof:lastmodified":1566593421,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u0416\u043e\u0432\u0442\u0435\u043d\u044c",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

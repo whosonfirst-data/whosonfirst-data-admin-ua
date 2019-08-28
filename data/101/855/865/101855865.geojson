@@ -11,12 +11,16 @@
     "geom:longitude":34.233217,
     "gn:population":3327,
     "iso:country":"UA",
+    "lbl:bbox":"34.213217,44.839735,34.253217,44.879735",
     "lbl:latitude":44.859735,
     "lbl:longitude":34.233217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.859735,
     "mps:longitude":34.233217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:crh_x_historical":[
         "Mamut Sultan"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":687,
     "wof:belongsto":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":709869,
         "gp:id":933992,
-        "qs:id":128757
+        "qs_pg:id":128757
     },
     "wof:country":"UA",
     "wof:geomhash":"e872bc0dcb87e3a5356fed7e7877f723",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101855865,
-    "wof:lastmodified":1544743112,
+    "wof:lastmodified":1566593746,
     "wof:name":"\u0414\u043e\u0431\u0440\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

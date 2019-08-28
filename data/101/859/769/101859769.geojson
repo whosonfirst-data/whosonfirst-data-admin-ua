@@ -10,16 +10,20 @@
     "geom:latitude":48.632801,
     "geom:longitude":23.525123,
     "iso:country":"UA",
+    "lbl:bbox":"23.505123,48.612801,23.545123,48.652801",
     "lbl:latitude":48.632801,
     "lbl:longitude":23.525123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.632801,
     "mps:longitude":23.525123,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0456\u0439 \u0411\u0438\u0441\u0442\u0440\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnyaya Bystra"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":689886,
         "gp:id":936939,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"1c2649da73536122a40bf4b49ce8ac19",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101859769,
-    "wof:lastmodified":1544745087,
+    "wof:lastmodified":1566593231,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u0456\u0439 \u0411\u0438\u0441\u0442\u0440\u0438\u0439",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

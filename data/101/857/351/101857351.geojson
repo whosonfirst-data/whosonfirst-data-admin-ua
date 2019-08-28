@@ -10,12 +10,16 @@
     "geom:latitude":45.320663,
     "geom:longitude":35.741544,
     "iso:country":"UA",
+    "lbl:bbox":"35.721544,45.300663,35.761544,45.340663",
     "lbl:latitude":45.320663,
     "lbl:longitude":35.741544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.320663,
     "mps:longitude":35.741544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalinovka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":49.447222,
     "wd:longitude":28.523056,
     "wd:wordcount":143,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":707183,
         "gp:id":925103,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"044b6f93cbf0c45165cda669d37119bc",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101857351,
-    "wof:lastmodified":1544743850,
+    "wof:lastmodified":1566593391,
     "wof:name":"\u041a\u0430\u043b\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

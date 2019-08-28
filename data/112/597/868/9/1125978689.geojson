@@ -9,15 +9,18 @@
     "geom:bbox":"38.10007,48.86699,38.10007,48.86699",
     "geom:latitude":48.86699,
     "geom:longitude":38.10007,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13900,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":13900,
     "iso:country":"UA",
+    "lbl:bbox":"38.08007,48.84699,38.12007,48.88699",
     "lbl:latitude":48.86699,
     "lbl:longitude":38.10007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0421\u0456\u0432\u044d\u0440\u0441\u043a"
@@ -94,7 +97,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yama"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":933422,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1125978689,
-    "wof:lastmodified":1563303877,
+    "wof:lastmodified":1566593925,
     "wof:name":"Seversk",
     "wof:parent_id":1108815983,
     "wof:placetype":"locality",

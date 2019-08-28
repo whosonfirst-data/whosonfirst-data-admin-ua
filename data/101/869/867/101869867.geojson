@@ -11,12 +11,16 @@
     "geom:longitude":38.983318,
     "gn:population":8065,
     "iso:country":"UA",
+    "lbl:bbox":"38.963318,48.675621,39.003318,48.715621",
     "lbl:latitude":48.695621,
     "lbl:longitude":38.983318,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.695621,
     "mps:longitude":38.983318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_variant":[
         "\u0421\u043b\u0430\u0432\u044f\u043d\u0430\u0441\u0435\u0440\u0431\u0441\u043a"
     ],
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":187,
     "wof:belongsto":[
@@ -107,7 +111,6 @@
     "wof:concordances":{
         "gn:id":693469,
         "gp:id":934293,
-        "qs:id":1038430,
         "qs_pg:id":1038430,
         "wd:id":"Q608400",
         "wk:page":"Slovianoserbsk"
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101869867,
-    "wof:lastmodified":1563302779,
+    "wof:lastmodified":1566593415,
     "wof:name":"\u0421\u043b\u043e\u0432'\u044f\u043d\u043e\u0441\u0435\u0440\u0431\u0441\u044c\u043a",
     "wof:parent_id":102088801,
     "wof:placetype":"locality",

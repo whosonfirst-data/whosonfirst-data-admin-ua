@@ -10,12 +10,16 @@
     "geom:latitude":50.893753,
     "geom:longitude":35.159035,
     "iso:country":"UA",
+    "lbl:bbox":"35.139035,50.873753,35.179035,50.913753",
     "lbl:latitude":50.893753,
     "lbl:longitude":35.159035,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.893753,
     "mps:longitude":35.159035,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osoyevka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041e\u0441\u043e\u0457\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Osoyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -60,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":698268,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"4ee6b338f33fcd56b3cd5afe48a45b47",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":101870491,
-    "wof:lastmodified":1544750670,
+    "wof:lastmodified":1566593552,
     "wof:name":"\u041e\u0441\u043e\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088993,
     "wof:placetype":"locality",

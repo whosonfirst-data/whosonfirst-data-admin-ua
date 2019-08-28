@@ -10,12 +10,16 @@
     "geom:latitude":48.068333,
     "geom:longitude":24.970906,
     "iso:country":"UA",
+    "lbl:bbox":"24.950906,48.048333,24.990906,48.088333",
     "lbl:latitude":48.068333,
     "lbl:longitude":24.970906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.068333,
     "mps:longitude":24.970906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "C\u00e2mpulung Moldovenesc"
     ],
@@ -104,7 +108,7 @@
         "\u0414\u043e\u0432\u0433\u043e\u043f\u043e\u043b\u0435",
         "\u041a\u0438\u043c\u043f\u043e\u043b\u0443\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kampul Lung"
     ],
     "name:vec_x_preferred":[
@@ -135,7 +139,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":677,
     "wof:belongsto":[
         102191581,
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":709813,
         "gp:id":931952,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q652802"
     },
     "wof:country":"UA",
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":101859281,
-    "wof:lastmodified":1563302312,
+    "wof:lastmodified":1566593218,
     "wof:name":"\u0414\u043e\u0432\u0433\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088015,
     "wof:placetype":"locality",

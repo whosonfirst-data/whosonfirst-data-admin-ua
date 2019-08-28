@@ -10,12 +10,16 @@
     "geom:latitude":44.874704,
     "geom:longitude":34.050521,
     "iso:country":"UA",
+    "lbl:bbox":"34.030521,44.854704,34.070521,44.894704",
     "lbl:latitude":44.874704,
     "lbl:longitude":34.050521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.874704,
     "mps:longitude":34.050521,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chisten\u2019koye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":710454,
         "gp:id":12518423,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"b285b2cc2dc5f577daf6baf806dab045",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101855867,
-    "wof:lastmodified":1544743113,
+    "wof:lastmodified":1566593745,
     "wof:name":"\u0427\u0438\u0441\u0442\u0435\u043d\u044c\u043a\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

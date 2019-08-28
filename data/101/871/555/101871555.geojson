@@ -10,12 +10,16 @@
     "geom:latitude":51.216647,
     "geom:longitude":33.846868,
     "iso:country":"UA",
+    "lbl:bbox":"33.826868,51.196647,33.866868,51.236647",
     "lbl:latitude":51.216647,
     "lbl:longitude":33.846868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.216647,
     "mps:longitude":33.846868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chervona Sloboda"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0430 \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chervonaya Sloboda"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":710599,
         "gp:id":917886,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"5b10e230c83e034f5692899b41ff7b97",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101871555,
-    "wof:lastmodified":1544751153,
+    "wof:lastmodified":1566593647,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0430 \u0421\u043b\u043e\u0431\u043e\u0434\u0430",
     "wof:parent_id":102088985,
     "wof:placetype":"locality",

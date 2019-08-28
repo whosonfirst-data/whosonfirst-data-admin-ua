@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2085401.785652,
+    "geom:area_square_m":2085401.785655,
     "geom:bbox":"28.4245563697,48.1221644201,28.4423801476,48.1406901593",
     "geom:latitude":48.131272,
     "geom:longitude":28.433628,
     "iso:country":"UA",
     "lbl:latitude":48.130918,
     "lbl:longitude":28.433798,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.130918,
     "mps:longitude":28.433798,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u0456\u0441\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velyka Kisnytsya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +41,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +52,7 @@
     "wof:concordances":{
         "gn:id":690251,
         "gp:id":937229,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"ddc6047c9d28ed3f82b0d96f8fad0ce5",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101876577,
-    "wof:lastmodified":1501215388,
+    "wof:lastmodified":1566593623,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u0456\u0441\u043d\u0438\u0446\u044f",
     "wof:parent_id":102089023,
     "wof:placetype":"locality",

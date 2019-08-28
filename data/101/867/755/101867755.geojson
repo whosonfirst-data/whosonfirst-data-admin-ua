@@ -10,19 +10,23 @@
     "geom:latitude":48.859484,
     "geom:longitude":31.500983,
     "iso:country":"UA",
+    "lbl:bbox":"31.480983,48.839484,31.520983,48.879484",
     "lbl:latitude":48.859484,
     "lbl:longitude":31.500983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.859484,
     "mps:longitude":31.500983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lyp\u201dyanka"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipyanka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101867755,
-    "wof:lastmodified":1544749353,
+    "wof:lastmodified":1566593498,
     "wof:name":"\u041b\u0438\u043f'\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088465,
     "wof:placetype":"locality",

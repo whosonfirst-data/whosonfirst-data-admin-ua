@@ -10,12 +10,16 @@
     "geom:latitude":46.718685,
     "geom:longitude":33.296452,
     "iso:country":"UA",
+    "lbl:bbox":"33.276452,46.698685,33.316452,46.738685",
     "lbl:latitude":46.718685,
     "lbl:longitude":33.296452,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.718685,
     "mps:longitude":33.296452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Rajskie"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918975,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"c7861b2f7475540dca8a1d1c3ab88f9a",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101866033,
-    "wof:lastmodified":1544748378,
+    "wof:lastmodified":1566593281,
     "wof:name":"\u0420\u0430\u0439\u0441\u044c\u043a\u0435",
     "wof:parent_id":1175613703,
     "wof:placetype":"locality",

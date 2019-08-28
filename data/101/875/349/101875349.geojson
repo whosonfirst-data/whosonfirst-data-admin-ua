@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":45.490156,
     "lbl:longitude":34.29351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.490156,
     "mps:longitude":34.29351,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u0433\u0432\u0430\u0440\u0434\u0437\u0435\u0439\u0441\u043a\u0430\u0435"
     ],
@@ -81,9 +84,6 @@
         "Antonivka",
         "\u0410\u043d\u0442\u043e\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Antonovka"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u0627\u0633\u0646\u0648\u06c1\u0648\u0627\u0631\u062f\u06cc\u0633\u06a9"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         85688855,
@@ -124,9 +124,11 @@
         "fct:id":"08273274-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":713304,
         "gp:id":915936,
-        "qs:id":1189652,
         "qs_pg:id":507219,
         "wd:id":"Q2367699"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1189652
     },
     "wof:country":"UA",
     "wof:geomhash":"1b1184a7f69cb4a7482c181252800752",
@@ -153,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302273,
+    "wof:lastmodified":1566593203,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738579,
     "wof:placetype":"locality",

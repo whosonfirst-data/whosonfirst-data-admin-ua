@@ -11,12 +11,16 @@
     "geom:longitude":33.63159,
     "gn:population":41377,
     "iso:country":"UA",
+    "lbl:bbox":"33.61159,49.917956,33.65159,49.957956",
     "lbl:latitude":49.937956,
     "lbl:longitude":33.63159,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.937956,
     "mps:longitude":33.63159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0631\u0647\u0648\u0631\u0648\u062f"
     ],
@@ -125,7 +129,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mirgorod"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +161,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1064,
     "wof:belongsto":[
@@ -170,7 +174,6 @@
     "wof:concordances":{
         "gn:id":701075,
         "gp:id":927131,
-        "qs:id":275495,
         "qs_pg:id":275495,
         "wd:id":"Q161961",
         "wk:page":"Myrhorod"
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101870967,
-    "wof:lastmodified":1563303107,
+    "wof:lastmodified":1566593557,
     "wof:name":"\u041c\u0438\u0440\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

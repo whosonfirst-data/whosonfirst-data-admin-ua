@@ -10,16 +10,20 @@
     "geom:latitude":48.509394,
     "geom:longitude":28.491581,
     "iso:country":"UA",
+    "lbl:bbox":"28.471581,48.489394,28.511581,48.529394",
     "lbl:latitude":48.509394,
     "lbl:longitude":28.491581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.509394,
     "mps:longitude":28.491581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Rakowa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rakova"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":695841,
         "gp:id":936171,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"65e50f674ad735e3401984d12d842c5e",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":101867321,
-    "wof:lastmodified":1544749111,
+    "wof:lastmodified":1566593539,
     "wof:name":"\u0420\u0430\u043a\u043e\u0432\u0430",
     "wof:parent_id":102088209,
     "wof:placetype":"locality",

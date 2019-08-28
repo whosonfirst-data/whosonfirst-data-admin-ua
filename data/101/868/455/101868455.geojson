@@ -10,12 +10,16 @@
     "geom:latitude":49.171757,
     "geom:longitude":33.262362,
     "iso:country":"UA",
+    "lbl:bbox":"33.242362,49.151757,33.282362,49.191757",
     "lbl:latitude":49.171757,
     "lbl:longitude":33.262362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.171757,
     "mps:longitude":33.262362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nedogarki"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "Nedoharky"
     ],
-    "name:unk_x_variant":[
-        "Nedogarki"
-    ],
     "name:zho_x_preferred":[
         "\u6d85\u591a\u52a0\u723e\u57fa"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":700373,
         "gp:id":926009,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4316099",
         "wk:page":"Nedoharky"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101868455,
-    "wof:lastmodified":1563302624,
+    "wof:lastmodified":1566593347,
     "wof:name":"\u041d\u0435\u0434\u043e\u0433\u0430\u0440\u043a\u0438",
     "wof:parent_id":1108815685,
     "wof:placetype":"locality",

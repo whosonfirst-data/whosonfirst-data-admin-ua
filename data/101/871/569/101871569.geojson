@@ -10,12 +10,16 @@
     "geom:latitude":51.283617,
     "geom:longitude":33.161017,
     "iso:country":"UA",
+    "lbl:bbox":"33.141017,51.263617,33.181017,51.303617",
     "lbl:latitude":51.283617,
     "lbl:longitude":33.161017,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.283617,
     "mps:longitude":33.161017,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vyrovka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0438\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Virevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":688735,
         "gp:id":12518302,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"e2a2c6debd499f892395af15ad498277",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871569,
-    "wof:lastmodified":1544751159,
+    "wof:lastmodified":1566593625,
     "wof:name":"\u0412\u0438\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815701,
     "wof:placetype":"locality",

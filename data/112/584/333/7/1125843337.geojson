@@ -9,15 +9,18 @@
     "geom:bbox":"38.57618,48.14966,38.57618,48.14966",
     "geom:latitude":48.14966,
     "geom:longitude":38.57618,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4911,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4911,
     "iso:country":"UA",
+    "lbl:bbox":"38.55618,48.12966,38.59618,48.16966",
     "lbl:latitude":48.14966,
     "lbl:longitude":38.57618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0437\u0441\u0438\u043f\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozsypne"
     ],
     "qs_pg:aaroncc":"UA",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":932143,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125843337,
-    "wof:lastmodified":1530298001,
+    "wof:lastmodified":1566593962,
     "wof:name":"Rassypnoye",
     "wof:parent_id":1108815735,
     "wof:placetype":"locality",

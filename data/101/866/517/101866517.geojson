@@ -10,13 +10,17 @@
     "geom:latitude":48.269858,
     "geom:longitude":29.942113,
     "iso:country":"UA",
+    "lbl:bbox":"29.922113,48.249858,29.962113,48.289858",
     "lbl:latitude":48.269858,
     "lbl:longitude":29.942113,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.269858,
     "mps:longitude":29.942113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kazavehin"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":706562,
         "gp:id":922146,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"5839fabc7344919855a58a9018bb6f26",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101866517,
-    "wof:lastmodified":1544748651,
+    "wof:lastmodified":1566593265,
     "wof:name":"\u041a\u0430\u0437\u0430\u0432\u0447\u0438\u043d",
     "wof:parent_id":102088229,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.366835,
     "geom:longitude":34.027788,
     "iso:country":"UA",
+    "lbl:bbox":"34.007788,45.346835,34.047788,45.386835",
     "lbl:latitude":45.366835,
     "lbl:longitude":34.027788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.366835,
     "mps:longitude":34.027788,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kotel\u2019nikovo"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":704706,
         "gp:id":929488,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"82031de9e54904bfd031e27d030d300e",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858605,
-    "wof:lastmodified":1544744490,
+    "wof:lastmodified":1566593484,
     "wof:name":"\u041a\u043e\u0442\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0435",
     "wof:parent_id":1108738579,
     "wof:placetype":"locality",

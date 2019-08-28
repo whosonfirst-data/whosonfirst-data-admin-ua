@@ -10,12 +10,16 @@
     "geom:latitude":47.554124,
     "geom:longitude":37.22096,
     "iso:country":"UA",
+    "lbl:bbox":"37.20096,47.534124,37.24096,47.574124",
     "lbl:latitude":47.554124,
     "lbl:longitude":37.22096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.554124,
     "mps:longitude":37.22096,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ravnopol'"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u043d\u043e\u043f\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yevreyskaya Koloniya Ravnopol\u2019"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":695780,
         "gp:id":921323,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"19a97ccfa4b6e578fd0cb9a2cc9357cf",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101867117,
-    "wof:lastmodified":1544748993,
+    "wof:lastmodified":1566593518,
     "wof:name":"\u0420\u0456\u0432\u043d\u043e\u043f\u0456\u043b\u044c",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

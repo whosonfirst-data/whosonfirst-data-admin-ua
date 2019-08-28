@@ -10,12 +10,16 @@
     "geom:latitude":45.227454,
     "geom:longitude":33.829872,
     "iso:country":"UA",
+    "lbl:bbox":"33.809872,45.207454,33.849872,45.247454",
     "lbl:latitude":45.227454,
     "lbl:longitude":33.829872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.227454,
     "mps:longitude":33.829872,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krayneye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":704158,
         "gp:id":924565,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"b22c187d290ecfc5498380a4aa0313b1",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857141,
-    "wof:lastmodified":1544743743,
+    "wof:lastmodified":1566593397,
     "wof:name":"\u041a\u0440\u0430\u0439\u043d\u0454",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

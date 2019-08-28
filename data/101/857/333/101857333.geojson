@@ -10,12 +10,16 @@
     "geom:latitude":45.24087,
     "geom:longitude":35.564354,
     "iso:country":"UA",
+    "lbl:bbox":"35.544354,45.22087,35.584354,45.26087",
     "lbl:latitude":45.24087,
     "lbl:longitude":35.564354,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.24087,
     "mps:longitude":35.564354,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Semisotka"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -59,7 +63,7 @@
         "fct:id":"0828131a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":694554,
         "gp:id":933284,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"f32f374a8b3184f93675fa727d94e3ef",
@@ -86,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743840,
+    "wof:lastmodified":1566593392,
     "wof:name":"\u0421\u0435\u043c\u0438\u0441\u043e\u0442\u043a\u0430",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

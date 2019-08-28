@@ -10,13 +10,17 @@
     "geom:latitude":48.324982,
     "geom:longitude":25.225446,
     "iso:country":"UA",
+    "lbl:bbox":"25.205446,48.304982,25.245446,48.344982",
     "lbl:latitude":48.324982,
     "lbl:longitude":25.225446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.324982,
     "mps:longitude":25.225446,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kobaki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":705547,
         "gp:id":932578,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"7f5cf667167c3ae7ab08f7aa5d536718",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101859681,
-    "wof:lastmodified":1544745040,
+    "wof:lastmodified":1566593214,
     "wof:name":"\u041a\u043e\u0431\u0430\u043a\u0438",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

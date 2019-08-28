@@ -10,19 +10,23 @@
     "geom:latitude":51.688051,
     "geom:longitude":24.404753,
     "iso:country":"UA",
+    "lbl:bbox":"24.384753,51.668051,24.424753,51.708051",
     "lbl:latitude":51.688051,
     "lbl:longitude":24.404753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.688051,
     "mps:longitude":24.404753,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Zhyrychi"
     ],
     "name:ukr_x_variant":[
         "\u0416\u0438\u0440\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhyryche"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":687140,
         "gp:id":932151,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"b1c7c58aedd1baa60297ee2c55be9ac3",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864503,
-    "wof:lastmodified":1544747560,
+    "wof:lastmodified":1566593751,
     "wof:name":"\u0416\u0438\u0440\u0438\u0447\u0456",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

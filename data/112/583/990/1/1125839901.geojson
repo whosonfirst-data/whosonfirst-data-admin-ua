@@ -9,15 +9,18 @@
     "geom:bbox":"24.57836,48.34558,24.57836,48.34558",
     "geom:latitude":48.34558,
     "geom:longitude":24.57836,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1508,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1508,
     "iso:country":"UA",
+    "lbl:bbox":"24.55836,48.32558,24.59836,48.36558",
     "lbl:latitude":48.34558,
     "lbl:longitude":24.57836,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Tatariv"
@@ -49,7 +52,7 @@
     "name:ukr_x_variant":[
         "\u0422\u0430\u0442\u0430\u0440\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tartarov"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":83019,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125839901,
-    "wof:lastmodified":1563304025,
+    "wof:lastmodified":1566593978,
     "wof:name":"Tatariv",
     "wof:parent_id":1108730825,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.65918,
     "geom:longitude":35.361953,
     "iso:country":"UA",
+    "lbl:bbox":"35.341953,48.63918,35.381953,48.67918",
     "lbl:latitude":48.65918,
     "lbl:longitude":35.361953,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.65918,
     "mps:longitude":35.361953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Orliwschtschyna"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0440\u043b\u0456\u0432\u0449\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orlowschtschina"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101866931,
-    "wof:lastmodified":1563302397,
+    "wof:lastmodified":1566593248,
     "wof:name":"\u041e\u0440\u043b\u0456\u0432\u0449\u0438\u043d\u0430",
     "wof:parent_id":1108815619,
     "wof:placetype":"locality",

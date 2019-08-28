@@ -9,15 +9,18 @@
     "geom:bbox":"23.98522,49.52372,23.98522,49.52372",
     "geom:latitude":49.52372,
     "geom:longitude":23.98522,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14251,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":14251,
     "iso:country":"UA",
+    "lbl:bbox":"23.96522,49.50372,24.00522,49.54372",
     "lbl:latitude":49.52372,
     "lbl:longitude":23.98522,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0456\u043a\u0430\u043b\u0430\u0435\u045e"
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432"
     ],
-    "name:unk_x_variant":[
-        "Miko\u0142aj\u00f3w"
-    ],
     "name:vie_x_preferred":[
         "Mykolaiv"
     ],
@@ -100,7 +100,7 @@
     "qs_pg:qs_id":1028517,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1125820829,
-    "wof:lastmodified":1563303918,
+    "wof:lastmodified":1566593940,
     "wof:name":"Mykolayiv",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

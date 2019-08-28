@@ -11,12 +11,16 @@
     "geom:longitude":38.072737,
     "gn:population":11300,
     "iso:country":"UA",
+    "lbl:bbox":"38.052737,47.851516,38.092737,47.891516",
     "lbl:latitude":47.871516,
     "lbl:longitude":38.072737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.871516,
     "mps:longitude":38.072737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Mospyne"
     ],
@@ -80,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u043f\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mospino"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -124,7 +128,6 @@
     "wof:concordances":{
         "gn:id":700700,
         "gp:id":927462,
-        "qs:id":128455,
         "qs_pg:id":128455,
         "wd:id":"Q2415358",
         "wk:page":"Mospyne"
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101868545,
-    "wof:lastmodified":1563302642,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u041c\u043e\u0441\u043f\u0438\u043d\u0435",
     "wof:parent_id":1175613717,
     "wof:placetype":"locality",

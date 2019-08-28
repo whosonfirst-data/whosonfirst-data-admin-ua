@@ -10,12 +10,16 @@
     "geom:latitude":49.323795,
     "geom:longitude":38.18968,
     "iso:country":"UA",
+    "lbl:bbox":"38.16968,49.303795,38.20968,49.343795",
     "lbl:latitude":49.323795,
     "lbl:longitude":38.18968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.323795,
     "mps:longitude":38.18968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Miluwatka"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043b\u0443\u0432\u0430\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Melovatko"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":701380,
         "gp:id":928849,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4289628"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101869127,
-    "wof:lastmodified":1561776943,
+    "wof:lastmodified":1566593419,
     "wof:name":"\u041c\u0456\u043b\u0443\u0432\u0430\u0442\u043a\u0430",
     "wof:parent_id":102088909,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":44.902171,
     "geom:longitude":33.781245,
     "iso:country":"UA",
+    "lbl:bbox":"33.761245,44.882171,33.801245,44.922171",
     "lbl:latitude":44.902171,
     "lbl:longitude":33.781245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.902171,
     "mps:longitude":33.781245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prudovoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         85688855,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7039996,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wk:page":"Wojkowiec"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101855879,
-    "wof:lastmodified":1564197765,
+    "wof:lastmodified":1566593746,
     "wof:name":"\u041f\u0440\u0443\u0434\u043e\u0432\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"34.31084,49.34395,34.31084,49.34395",
     "geom:latitude":49.34395,
     "geom:longitude":34.31084,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8020,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":8020,
     "iso:country":"UA",
+    "lbl:bbox":"34.29084,49.32395,34.33084,49.36395",
     "lbl:latitude":49.34395,
     "lbl:longitude":34.31084,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0456 \u0421\u0430\u043d\u0436\u0430\u0440\u044b"
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0456 \u0421\u0430\u043d\u0436\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyye Senzhary"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":929283,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125906301,
-    "wof:lastmodified":1563303872,
+    "wof:lastmodified":1566593924,
     "wof:name":"Novyye Sanzhary",
     "wof:parent_id":102088685,
     "wof:placetype":"locality",

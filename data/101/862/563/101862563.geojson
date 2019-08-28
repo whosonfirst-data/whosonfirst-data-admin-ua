@@ -11,12 +11,16 @@
     "geom:longitude":23.720726,
     "gn:population":6223,
     "iso:country":"UA",
+    "lbl:bbox":"23.700726,49.900756,23.740726,49.940756",
     "lbl:latitude":49.920756,
     "lbl:longitude":23.720726,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.920756,
     "mps:longitude":23.720726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0430-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u044d"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_variant":[
         "Ivano-Frankove"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yanuv"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":686762,
         "gp:id":921417,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1019884"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101862563,
-    "wof:lastmodified":1563303394,
+    "wof:lastmodified":1566593694,
     "wof:name":"\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

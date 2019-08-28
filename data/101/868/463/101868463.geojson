@@ -10,12 +10,16 @@
     "geom:latitude":48.181884,
     "geom:longitude":36.471101,
     "iso:country":"UA",
+    "lbl:bbox":"36.451101,48.161884,36.491101,48.201884",
     "lbl:latitude":48.181884,
     "lbl:longitude":36.471101,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.181884,
     "mps:longitude":36.471101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Demur\u0131ne"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_variant":[
         "\u0414\u0435\u043c\u0443\u0440\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Demurino"
-    ],
     "name:zho_x_preferred":[
         "\u5091\u7a46\u91cc\u6d85"
     ],
@@ -74,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":710165,
         "gp:id":918775,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q3022244"
     },
     "wof:country":"UA",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":101868463,
-    "wof:lastmodified":1563302621,
+    "wof:lastmodified":1566593346,
     "wof:name":"\u0414\u0435\u043c\u0443\u0440\u0438\u043d\u0435",
     "wof:parent_id":102088607,
     "wof:placetype":"locality",

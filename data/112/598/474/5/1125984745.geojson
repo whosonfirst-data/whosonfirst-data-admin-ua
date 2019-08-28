@@ -9,15 +9,18 @@
     "geom:bbox":"32.55371,46.69412,32.55371,46.69412",
     "geom:latitude":46.69412,
     "geom:longitude":32.55371,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8954,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":8954,
     "iso:country":"UA",
+    "lbl:bbox":"32.53371,46.67412,32.57371,46.71412",
     "lbl:latitude":46.69412,
     "lbl:longitude":32.55371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Chornobayivka"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043d\u043e\u0431\u0430\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernovayevka"
     ],
     "qs_pg:aaroncc":"UA",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":275582,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125984745,
-    "wof:lastmodified":1563303891,
+    "wof:lastmodified":1566593930,
     "wof:name":"Chornobayivka",
     "wof:parent_id":102088019,
     "wof:placetype":"locality",

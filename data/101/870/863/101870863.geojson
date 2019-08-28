@@ -10,12 +10,16 @@
     "geom:latitude":50.63883,
     "geom:longitude":30.028479,
     "iso:country":"UA",
+    "lbl:bbox":"30.008479,50.61883,30.048479,50.65883",
     "lbl:latitude":50.63883,
     "lbl:longitude":30.028479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.63883,
     "mps:longitude":30.028479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0431\u044b\u043d\u0446\u0456"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_variant":[
         "Babyntsi"
     ],
-    "name:unk_x_variant":[
-        "Babintsy"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u8cd3\u9f4a"
     ],
@@ -83,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -95,7 +96,7 @@
     "wof:concordances":{
         "gn:id":713017,
         "gp:id":922865,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1961267",
         "wk:page":"Babyntsi"
     },
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":101870863,
-    "wof:lastmodified":1563303125,
+    "wof:lastmodified":1566593565,
     "wof:name":"\u0411\u0430\u0431\u0438\u043d\u0446\u0456",
     "wof:parent_id":102088783,
     "wof:placetype":"locality",

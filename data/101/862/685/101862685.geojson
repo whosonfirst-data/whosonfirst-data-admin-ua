@@ -10,12 +10,16 @@
     "geom:latitude":50.011114,
     "geom:longitude":25.470836,
     "iso:country":"UA",
+    "lbl:bbox":"25.450836,49.991114,25.490836,50.031114",
     "lbl:latitude":50.011114,
     "lbl:longitude":25.470836,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.011114,
     "mps:longitude":25.470836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Ternopil's'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":931031,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"be71ce8c9169e9840b4268efc04e07dc",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101862685,
-    "wof:lastmodified":1544746610,
+    "wof:lastmodified":1566593698,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041f\u043e\u0447\u0430\u0457\u0432",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

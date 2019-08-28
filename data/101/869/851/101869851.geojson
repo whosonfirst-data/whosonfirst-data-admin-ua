@@ -10,12 +10,16 @@
     "geom:latitude":50.101039,
     "geom:longitude":32.961879,
     "iso:country":"UA",
+    "lbl:bbox":"32.941879,50.081039,32.981879,50.121039",
     "lbl:latitude":50.101039,
     "lbl:longitude":32.961879,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.101039,
     "mps:longitude":32.961879,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalaydintsy"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u043b\u0430\u0439\u0434\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolaydintsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":707222,
         "gp:id":925606,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"5b345453202087622d411af39ce16cc0",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869851,
-    "wof:lastmodified":1544750484,
+    "wof:lastmodified":1566593414,
     "wof:name":"\u041a\u0430\u043b\u0430\u0439\u0434\u0438\u043d\u0446\u0456",
     "wof:parent_id":102088799,
     "wof:placetype":"locality",

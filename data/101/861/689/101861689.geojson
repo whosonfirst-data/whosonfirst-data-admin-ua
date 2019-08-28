@@ -10,13 +10,17 @@
     "geom:latitude":49.237215,
     "geom:longitude":24.743485,
     "iso:country":"UA",
+    "lbl:bbox":"24.723485,49.217215,24.763485,49.257215",
     "lbl:latitude":49.237215,
     "lbl:longitude":24.743485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.237215,
     "mps:longitude":24.743485,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kunashuv"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":705874,
         "gp:id":917871,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"efa10b359107f3d87f65628ae73244ad",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861689,
-    "wof:lastmodified":1544746095,
+    "wof:lastmodified":1566593297,
     "wof:name":"\u041a\u0456\u043d\u0430\u0448\u0456\u0432",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":48.735038,
     "geom:longitude":24.423555,
     "iso:country":"UA",
+    "lbl:bbox":"24.403555,48.715038,24.443555,48.755038",
     "lbl:latitude":48.735038,
     "lbl:longitude":24.423555,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.735038,
     "mps:longitude":24.423555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Zvinyach"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":709293,
         "gp:id":921237,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"9553e586d1518d6fb90c10cf09a9b602",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101860007,
-    "wof:lastmodified":1544745212,
+    "wof:lastmodified":1566593456,
     "wof:name":"\u0414\u0437\u0432\u0438\u043d\u044f\u0447",
     "wof:parent_id":102088115,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":50.497964,
     "geom:longitude":32.909418,
     "iso:country":"UA",
+    "lbl:bbox":"32.889418,50.477964,32.929418,50.517964",
     "lbl:latitude":50.497964,
     "lbl:longitude":32.909418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.497964,
     "mps:longitude":32.909418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ozeryany"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0437\u0435\u0440\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ozeryane"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3066,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":698081,
         "gp:id":937005,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"eee90adc556411b7c29ab850d2a09c0a",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101869989,
-    "wof:lastmodified":1544750546,
+    "wof:lastmodified":1566593444,
     "wof:name":"\u041e\u0437\u0435\u0440\u044f\u043d\u0438",
     "wof:parent_id":102088849,
     "wof:placetype":"locality",

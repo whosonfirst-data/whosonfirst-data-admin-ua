@@ -10,16 +10,20 @@
     "geom:latitude":48.858957,
     "geom:longitude":28.579914,
     "iso:country":"UA",
+    "lbl:bbox":"28.559914,48.838957,28.599914,48.878957",
     "lbl:latitude":48.858957,
     "lbl:longitude":28.579914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.858957,
     "mps:longitude":28.579914,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0412\u0443\u043b\u0438\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velyka Vulyha"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":690690,
         "gp:id":933879,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"08be5c1a907497b0ee0bf0a84066925d",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101867437,
-    "wof:lastmodified":1544749176,
+    "wof:lastmodified":1566593509,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u0412\u0443\u043b\u0438\u0433\u0430",
     "wof:parent_id":102088331,
     "wof:placetype":"locality",

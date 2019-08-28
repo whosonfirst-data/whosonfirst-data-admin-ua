@@ -10,12 +10,16 @@
     "geom:latitude":50.005531,
     "geom:longitude":23.27211,
     "iso:country":"UA",
+    "lbl:bbox":"23.25211,49.985531,23.29211,50.025531",
     "lbl:latitude":50.005531,
     "lbl:longitude":23.27211,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.005531,
     "mps:longitude":23.27211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nahatschiw"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":922151,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4311521"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101862281,
-    "wof:lastmodified":1563303362,
+    "wof:lastmodified":1566593679,
     "wof:name":"\u041d\u0430\u0433\u0430\u0447\u0456\u0432",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

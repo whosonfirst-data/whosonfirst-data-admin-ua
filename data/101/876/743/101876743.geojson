@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.509289,
     "lbl:longitude":23.207634,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.509289,
     "mps:longitude":23.207634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0645\u0628\u06cc\u0631"
     ],
@@ -125,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0431\u0456\u0440"
     ],
-    "name:unk_x_variant":[
-        "Sambor"
-    ],
     "name:vie_x_preferred":[
         "Sambir"
     ],
@@ -155,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.516667,
     "wd:longitude":23.2,
@@ -170,7 +170,6 @@
     "wof:concordances":{
         "gn:id":694864,
         "gp:id":932994,
-        "qs:id":128308,
         "qs_pg:id":128308,
         "wd:id":"Q156593",
         "wk:page":"Sambir"
@@ -187,7 +186,7 @@
         }
     ],
     "wof:id":101876743,
-    "wof:lastmodified":1563303222,
+    "wof:lastmodified":1566593618,
     "wof:name":"\u0421\u0430\u043c\u0431\u0456\u0440",
     "wof:parent_id":1108815785,
     "wof:placetype":"locality",

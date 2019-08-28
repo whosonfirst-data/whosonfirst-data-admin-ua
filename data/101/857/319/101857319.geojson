@@ -10,12 +10,16 @@
     "geom:latitude":45.31911,
     "geom:longitude":34.678039,
     "iso:country":"UA",
+    "lbl:bbox":"34.658039,45.29911,34.698039,45.33911",
     "lbl:latitude":45.31911,
     "lbl:longitude":34.678039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.31911,
     "mps:longitude":34.678039,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kostochkovka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":6997414,
         "gp:id":932926,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"4aa954fe439eacd7f87b5d57ce8ac5c6",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857319,
-    "wof:lastmodified":1544743833,
+    "wof:lastmodified":1566593397,
     "wof:name":"\u041a\u0456\u0441\u0442\u043e\u0447\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738641,
     "wof:placetype":"locality",

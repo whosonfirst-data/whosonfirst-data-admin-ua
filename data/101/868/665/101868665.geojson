@@ -11,12 +11,16 @@
     "geom:longitude":33.275344,
     "gn:population":12544,
     "iso:country":"UA",
+    "lbl:bbox":"33.255344,49.358035,33.295344,49.398035",
     "lbl:latitude":49.378035,
     "lbl:longitude":33.275344,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.378035,
     "mps:longitude":33.275344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0647\u0644\u0648\u0628\u064a\u0646\u064a"
     ],
@@ -95,7 +99,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0431\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Globino"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +128,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -137,7 +141,6 @@
     "wof:concordances":{
         "gn:id":708753,
         "gp:id":12518256,
-        "qs:id":128724,
         "qs_pg:id":128724,
         "wd:id":"Q268791",
         "wk:page":"Hlobyne"
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101868665,
-    "wof:lastmodified":1563302683,
+    "wof:lastmodified":1566593372,
     "wof:name":"\u0413\u043b\u043e\u0431\u0438\u043d\u0435",
     "wof:parent_id":102088667,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.349683,
     "geom:longitude":25.27291,
     "iso:country":"UA",
+    "lbl:bbox":"25.25291,48.329683,25.29291,48.369683",
     "lbl:latitude":48.349683,
     "lbl:longitude":25.27291,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.349683,
     "mps:longitude":25.27291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Rybne"
     ],
@@ -25,7 +29,7 @@
     "name:rue_x_preferred":[
         "\u0420\u044b\u0431\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rybnoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":695034,
         "gp:id":932578,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"b19ccac5768b742515eb37b87822885f",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101859691,
-    "wof:lastmodified":1544745045,
+    "wof:lastmodified":1566593240,
     "wof:name":"\u0420\u0438\u0431\u043d\u0435",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

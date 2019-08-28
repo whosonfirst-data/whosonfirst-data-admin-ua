@@ -10,12 +10,16 @@
     "geom:latitude":44.986933,
     "geom:longitude":33.832848,
     "iso:country":"UA",
+    "lbl:bbox":"33.812848,44.966933,33.852848,45.006933",
     "lbl:latitude":44.986933,
     "lbl:longitude":33.832848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.986933,
     "mps:longitude":33.832848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novosyolovka"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":699219,
         "gp:id":933992,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"74f2fec51abcbc16af36e2b1af4963f4",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101855905,
-    "wof:lastmodified":1544743132,
+    "wof:lastmodified":1566593746,
     "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

@@ -11,19 +11,23 @@
     "geom:longitude":24.662374,
     "gn:population":3832,
     "iso:country":"UA",
+    "lbl:bbox":"24.642374,48.49635,24.682374,48.53635",
     "lbl:latitude":48.51635,
     "lbl:longitude":24.662374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.51635,
     "mps:longitude":24.662374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0417\u0430\u0440\u0456\u0447\u0447\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0440\u0456\u0447\u0447\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zazheche"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":687645,
         "gp:id":918733,
-        "qs:id":128159
+        "qs_pg:id":128159
     },
     "wof:country":"UA",
     "wof:geomhash":"aa08681ceed437f7cb872795500bc733",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101859913,
-    "wof:lastmodified":1544745163,
+    "wof:lastmodified":1566593229,
     "wof:name":"\u0417\u0430\u0440\u0456\u0447\u0447\u044f",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

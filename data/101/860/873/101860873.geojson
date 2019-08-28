@@ -11,12 +11,16 @@
     "geom:longitude":23.577751,
     "gn:population":3555,
     "iso:country":"UA",
+    "lbl:bbox":"23.557751,49.065296,23.597751,49.105296",
     "lbl:latitude":49.085296,
     "lbl:longitude":23.577751,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.085296,
     "mps:longitude":23.577751,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Verkhneye Sinevodnoye"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u0440\u0445\u043d\u0454 \u0421\u0438\u043d\u044c\u043e\u0432\u0438\u0434\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Synow\u00f3dzko Wy\u017cne"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":689892,
-        "qs:id":128193
+        "qs_pg:id":128193
     },
     "wof:country":"UA",
     "wof:geomhash":"1483a86e9cefa6d09b3c089040089cbb",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101860873,
-    "wof:lastmodified":1544745667,
+    "wof:lastmodified":1566593453,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u0454 \u0421\u0438\u043d\u044c\u043e\u0432\u0438\u0434\u043d\u0435",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

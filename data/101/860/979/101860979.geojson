@@ -10,12 +10,16 @@
     "geom:latitude":48.413532,
     "geom:longitude":28.171641,
     "iso:country":"UA",
+    "lbl:bbox":"28.151641,48.393532,28.191641,48.433532",
     "lbl:latitude":48.413532,
     "lbl:longitude":28.171641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.413532,
     "mps:longitude":28.171641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Babchintsi"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0447\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bobchintsy"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":713049,
         "gp:id":916131,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q335454"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101860979,
-    "wof:lastmodified":1561776948,
+    "wof:lastmodified":1566593460,
     "wof:name":"\u0411\u0430\u0431\u0447\u0438\u043d\u0446\u0456",
     "wof:parent_id":1108815609,
     "wof:placetype":"locality",

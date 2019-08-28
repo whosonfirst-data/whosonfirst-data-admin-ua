@@ -10,13 +10,17 @@
     "geom:latitude":48.920904,
     "geom:longitude":25.248861,
     "iso:country":"UA",
+    "lbl:bbox":"25.228861,48.900904,25.268861,48.940904",
     "lbl:latitude":48.920904,
     "lbl:longitude":25.248861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.920904,
     "mps:longitude":25.248861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "S\u2019tsyanka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101861709,
-    "wof:lastmodified":1544746105,
+    "wof:lastmodified":1566593293,
     "wof:name":"\u0421\u0442\u0456\u043d\u043a\u0430",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

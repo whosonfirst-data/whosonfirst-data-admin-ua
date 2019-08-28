@@ -10,12 +10,16 @@
     "geom:latitude":48.906263,
     "geom:longitude":33.786943,
     "iso:country":"UA",
+    "lbl:bbox":"33.766943,48.886263,33.806943,48.926263",
     "lbl:latitude":48.906263,
     "lbl:longitude":33.786943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.906263,
     "mps:longitude":33.786943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Derijiwka"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deriyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.914167,
     "wd:longitude":33.765,
     "wd:wordcount":289,
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":710096,
         "gp:id":918822,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1029357",
         "wk:page":"Dereivka"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101868267,
-    "wof:lastmodified":1563302626,
+    "wof:lastmodified":1566593347,
     "wof:name":"\u0414\u0435\u0440\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088533,
     "wof:placetype":"locality",

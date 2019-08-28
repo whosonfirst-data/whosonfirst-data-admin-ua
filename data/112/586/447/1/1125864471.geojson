@@ -9,15 +9,18 @@
     "geom:bbox":"29.96722,46.6557,29.96722,46.6557",
     "geom:latitude":46.6557,
     "geom:longitude":29.96722,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8600,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":8600,
     "iso:country":"UA",
+    "lbl:bbox":"29.94722,46.6357,29.98722,46.6757",
     "lbl:latitude":46.6557,
     "lbl:longitude":29.96722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041b\u044b\u043c\u0430\u043d\u0441\u043a\u044d"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043c\u0430\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sel\u2019ts"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":128551,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125864471,
-    "wof:lastmodified":1563303804,
+    "wof:lastmodified":1566593899,
     "wof:name":"Lymanske",
     "wof:parent_id":102087985,
     "wof:placetype":"locality",

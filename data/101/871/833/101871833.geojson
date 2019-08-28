@@ -10,12 +10,16 @@
     "geom:latitude":51.873837,
     "geom:longitude":32.709286,
     "iso:country":"UA",
+    "lbl:bbox":"32.689286,51.853837,32.729286,51.893837",
     "lbl:latitude":51.873837,
     "lbl:longitude":32.709286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.873837,
     "mps:longitude":32.709286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kozilovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u043e\u0437\u0438\u043b\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Kozilovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":704559,
         "gp:id":922270,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"b2de5eba386d3d91efda0d919709cb86",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101871833,
-    "wof:lastmodified":1544751277,
+    "wof:lastmodified":1566593640,
     "wof:name":"\u041a\u043e\u0437\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102089015,
     "wof:placetype":"locality",

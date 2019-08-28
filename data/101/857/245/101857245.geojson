@@ -10,12 +10,16 @@
     "geom:latitude":45.27125,
     "geom:longitude":34.450854,
     "iso:country":"UA",
+    "lbl:bbox":"34.430854,45.25125,34.470854,45.29125",
     "lbl:latitude":45.27125,
     "lbl:longitude":34.450854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.27125,
     "mps:longitude":34.450854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naydenovka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":700407,
         "gp:id":12518408,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"4d2410a29d45b46976bb071f340a4143",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857245,
-    "wof:lastmodified":1544743795,
+    "wof:lastmodified":1566593385,
     "wof:name":"\u041d\u0430\u0439\u0434\u044c\u043e\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738579,
     "wof:placetype":"locality",

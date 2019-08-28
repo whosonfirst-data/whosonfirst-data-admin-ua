@@ -10,12 +10,16 @@
     "geom:latitude":48.315208,
     "geom:longitude":26.018137,
     "iso:country":"UA",
+    "lbl:bbox":"25.998137,48.295208,26.038137,48.335208",
     "lbl:latitude":48.315208,
     "lbl:longitude":26.018137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.315208,
     "mps:longitude":26.018137,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Siddhartha Gautama"
     ],
@@ -545,7 +549,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11737,
     "wof:belongsto":[
         102191581,
@@ -557,7 +561,7 @@
     "wof:concordances":{
         "gn:id":711337,
         "gp:id":925979,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q9441"
     },
     "wof:country":"UA",
@@ -572,7 +576,7 @@
         }
     ],
     "wof:id":101859799,
-    "wof:lastmodified":1563302285,
+    "wof:lastmodified":1566593208,
     "wof:name":"\u0411\u0443\u0434\u0430",
     "wof:parent_id":102088077,
     "wof:placetype":"locality",

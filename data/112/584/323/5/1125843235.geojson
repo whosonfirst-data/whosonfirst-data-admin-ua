@@ -9,15 +9,18 @@
     "geom:bbox":"27.7969,48.85917,27.7969,48.85917",
     "geom:latitude":48.85917,
     "geom:longitude":27.7969,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1437,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1437,
     "iso:country":"UA",
+    "lbl:bbox":"27.7769,48.83917,27.8169,48.87917",
     "lbl:latitude":48.85917,
     "lbl:longitude":27.7969,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041a\u043e\u043f\u0430\u0439\u0433\u043e\u0440\u043e\u0434"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0430\u0439\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kopayhorod"
     ],
     "qs_pg:aaroncc":"UA",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":923488,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125843235,
-    "wof:lastmodified":1509395417,
+    "wof:lastmodified":1566593962,
     "wof:name":"Kopaygorod",
     "wof:parent_id":102088309,
     "wof:placetype":"locality",

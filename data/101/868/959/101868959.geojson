@@ -11,12 +11,16 @@
     "geom:longitude":38.130993,
     "gn:population":1111,
     "iso:country":"UA",
+    "lbl:bbox":"38.110993,48.891923,38.150993,48.931923",
     "lbl:latitude":48.911923,
     "lbl:longitude":38.130993,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.911923,
     "mps:longitude":38.130993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u044f\u043d\u043e\u0441\u044a\u0440\u0431\u0438\u044f"
     ],
@@ -59,9 +63,6 @@
     "name:ukr_x_variant":[
         "\u0421\u043b\u043e\u0432'\u044f\u043d\u043e\u0441\u0435\u0440\u0431\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Serebryanka"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u6d1b\u74e6\u4f0a\u65af\u514b"
     ],
@@ -84,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":666,
     "wof:belongsto":[
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":694494,
         "gp:id":933340,
-        "qs:id":82816,
+        "qs_pg:id":82816,
         "wd:id":"Q377414"
     },
     "wof:country":"UA",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":101868959,
-    "wof:lastmodified":1563302649,
+    "wof:lastmodified":1566593358,
     "wof:name":"\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043a\u0430",
     "wof:parent_id":1108815983,
     "wof:placetype":"locality",

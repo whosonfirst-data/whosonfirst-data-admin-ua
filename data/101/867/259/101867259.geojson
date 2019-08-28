@@ -10,12 +10,16 @@
     "geom:latitude":48.08293,
     "geom:longitude":37.767341,
     "iso:country":"UA",
+    "lbl:bbox":"37.747341,48.06293,37.787341,48.10293",
     "lbl:latitude":48.08293,
     "lbl:longitude":37.767341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.08293,
     "mps:longitude":37.767341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "BK Spartak Sant Petersburg"
     ],
@@ -95,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         85688779,
@@ -107,7 +111,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":919163,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4430701"
     },
     "wof:country":"UA",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101867259,
-    "wof:lastmodified":1561776954,
+    "wof:lastmodified":1566593509,
     "wof:name":"\u0421\u043f\u0430\u0440\u0442\u0430\u043a",
     "wof:parent_id":1108815751,
     "wof:placetype":"locality",

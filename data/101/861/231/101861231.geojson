@@ -10,12 +10,16 @@
     "geom:latitude":49.463542,
     "geom:longitude":24.032102,
     "iso:country":"UA",
+    "lbl:bbox":"24.012102,49.443542,24.052102,49.483542",
     "lbl:latitude":49.463542,
     "lbl:longitude":24.032102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.463542,
     "mps:longitude":24.032102,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0441\u043a\u0456"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0440\u0443\u043f\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krupsko"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3600,
     "wof:belongsto":[
         102191581,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":703934,
         "gp:id":927588,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2584525"
     },
     "wof:country":"UA",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101861231,
-    "wof:lastmodified":1563302562,
+    "wof:lastmodified":1566593321,
     "wof:name":"\u041a\u0440\u0443\u043f\u0441\u044c\u043a\u0435",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

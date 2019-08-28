@@ -9,15 +9,18 @@
     "geom:bbox":"22.3957,48.69343,22.3957,48.69343",
     "geom:latitude":48.69343,
     "geom:longitude":22.3957,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1886,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1886,
     "iso:country":"UA",
+    "lbl:bbox":"22.3757,48.67343,22.4157,48.71343",
     "lbl:latitude":48.69343,
     "lbl:longitude":22.3957,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Kamianytsia"
@@ -44,7 +47,7 @@
         "\u041a\u0430\u043c\u2019\u044f\u043d\u0438\u0446\u044f",
         "\u041a\u0430\u043c'\u044f\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Okementse"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +65,7 @@
     "qs_pg:qs_id":552625,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126045813,
-    "wof:lastmodified":1563303793,
+    "wof:lastmodified":1566593895,
     "wof:name":"Kamianytsia",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

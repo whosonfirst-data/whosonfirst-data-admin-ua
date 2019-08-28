@@ -9,15 +9,18 @@
     "geom:bbox":"36.85951,49.4627,36.85951,49.4627",
     "geom:latitude":49.4627,
     "geom:longitude":36.85951,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":31156,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":31156,
     "iso:country":"UA",
+    "lbl:bbox":"36.83951,49.4427,36.87951,49.4827",
     "lbl:latitude":49.4627,
     "lbl:longitude":36.85951,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0643\u0644\u064a\u0627"
@@ -100,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Balakliya"
-    ],
     "name:vie_x_preferred":[
         "Balakliia"
     ],
@@ -128,7 +128,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":916231,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":1125930757,
-    "wof:lastmodified":1563303766,
+    "wof:lastmodified":1566593884,
     "wof:name":"Balakleya",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

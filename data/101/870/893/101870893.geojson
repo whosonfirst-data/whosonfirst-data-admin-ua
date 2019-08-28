@@ -11,12 +11,16 @@
     "geom:longitude":28.954577,
     "gn:population":2183,
     "iso:country":"UA",
+    "lbl:bbox":"28.934577,50.806162,28.974577,50.846162",
     "lbl:latitude":50.826162,
     "lbl:longitude":28.954577,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.826162,
     "mps:longitude":28.954577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u043f\u043e\u0432\u044b\u0447\u044b"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043f\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chapovichi"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":61,
     "wof:belongsto":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":710408,
         "gp:id":12518431,
-        "qs:id":128769,
+        "qs_pg:id":128769,
         "wd:id":"Q2980446",
         "wk:page":"Chopovychi"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":101870893,
-    "wof:lastmodified":1563303093,
+    "wof:lastmodified":1566593552,
     "wof:name":"\u0427\u043e\u043f\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088815,
     "wof:placetype":"locality",

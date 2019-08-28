@@ -10,12 +10,16 @@
     "geom:latitude":50.122124,
     "geom:longitude":34.174773,
     "iso:country":"UA",
+    "lbl:bbox":"34.154773,50.102124,34.194773,50.142124",
     "lbl:latitude":50.122124,
     "lbl:longitude":34.174773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.122124,
     "mps:longitude":34.174773,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Borki"
     ],
@@ -38,9 +42,6 @@
         "\u0411\u0456\u0440\u043a\u0438",
         "\u0411\u043e\u0440\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Borki"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Poltavs'ka",
@@ -60,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -72,7 +73,7 @@
     "wof:concordances":{
         "gn:id":711652,
         "gp:id":917408,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4945631"
     },
     "wof:country":"UA",
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":101870047,
-    "wof:lastmodified":1563303087,
+    "wof:lastmodified":1566593549,
     "wof:name":"\u0411\u0456\u0440\u043a\u0438",
     "wof:parent_id":102088873,
     "wof:placetype":"locality",

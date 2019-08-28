@@ -10,12 +10,16 @@
     "geom:latitude":50.463033,
     "geom:longitude":25.808892,
     "iso:country":"UA",
+    "lbl:bbox":"25.788892,50.443033,25.828892,50.483033",
     "lbl:latitude":50.463033,
     "lbl:longitude":25.808892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.463033,
     "mps:longitude":25.808892,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Privol\u2019noye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8438369,
         "gp:id":12518251,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"50f178c139dd59bbde8849eec471d890",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101862877,
-    "wof:lastmodified":1544746709,
+    "wof:lastmodified":1566593698,
     "wof:name":"\u041f\u0440\u0438\u0432\u0456\u043b\u044c\u043d\u0435",
     "wof:parent_id":102088585,
     "wof:placetype":"locality",

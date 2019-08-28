@@ -10,12 +10,16 @@
     "geom:latitude":48.916749,
     "geom:longitude":39.643463,
     "iso:country":"UA",
+    "lbl:bbox":"39.623463,48.896749,39.663463,48.936749",
     "lbl:latitude":48.916749,
     "lbl:longitude":39.643463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.916749,
     "mps:longitude":39.643463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschuhynka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "Chuhynka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnyaya Chuginka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":710376,
         "gp:id":933774,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4517531",
         "wk:page":"Chuhinka"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101869117,
-    "wof:lastmodified":1563302794,
+    "wof:lastmodified":1566593422,
     "wof:name":"\u0427\u0443\u0433\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

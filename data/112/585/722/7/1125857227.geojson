@@ -9,15 +9,18 @@
     "geom:bbox":"25.33926,48.9095,25.33926,48.9095",
     "geom:latitude":48.9095,
     "geom:longitude":25.33926,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2343,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2343,
     "iso:country":"UA",
+    "lbl:bbox":"25.31926,48.8895,25.35926,48.9295",
     "lbl:latitude":48.9095,
     "lbl:longitude":25.33926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0430\u0442\u044b \u041f\u0430\u0446\u0456\u043a"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0442\u0438\u0439 \u041f\u043e\u0442\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potok"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":275402,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125857227,
-    "wof:lastmodified":1563303948,
+    "wof:lastmodified":1566593951,
     "wof:name":"Zolotyy Potik",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

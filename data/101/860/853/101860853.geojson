@@ -10,12 +10,16 @@
     "geom:latitude":49.105542,
     "geom:longitude":23.635137,
     "iso:country":"UA",
+    "lbl:bbox":"23.615137,49.085542,23.655137,49.125542",
     "lbl:latitude":49.105542,
     "lbl:longitude":23.635137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.105542,
     "mps:longitude":23.635137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyzhnie Synovydne"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0454 \u0421\u0438\u043d\u044c\u043e\u0432\u0438\u0434\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyzhnye Syn\u2019ovydne"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":221,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":700001,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4318824"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101860853,
-    "wof:lastmodified":1561776950,
+    "wof:lastmodified":1566593471,
     "wof:name":"\u041d\u0438\u0436\u043d\u0454 \u0421\u0438\u043d\u044c\u043e\u0432\u0438\u0434\u043d\u0435",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

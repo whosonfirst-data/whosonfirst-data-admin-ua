@@ -10,12 +10,16 @@
     "geom:latitude":50.752777,
     "geom:longitude":35.164784,
     "iso:country":"UA",
+    "lbl:bbox":"35.144784,50.732777,35.184784,50.772777",
     "lbl:latitude":50.752777,
     "lbl:longitude":35.164784,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.752777,
     "mps:longitude":35.164784,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chernetchina"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0427\u0435\u0440\u043d\u0435\u0447\u0447\u0438\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Chernetchina"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -60,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":710745,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"c3698421dcf5960cf91a975a7e3fb719",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":101869213,
-    "wof:lastmodified":1544750169,
+    "wof:lastmodified":1566593434,
     "wof:name":"\u0427\u0435\u0440\u043d\u0435\u0447\u0447\u0438\u043d\u0430",
     "wof:parent_id":102088993,
     "wof:placetype":"locality",

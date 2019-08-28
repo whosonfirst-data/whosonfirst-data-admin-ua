@@ -11,12 +11,16 @@
     "geom:longitude":36.284327,
     "gn:population":21380,
     "iso:country":"UA",
+    "lbl:bbox":"36.264327,47.453383,36.304327,47.493383",
     "lbl:latitude":47.473383,
     "lbl:longitude":36.284327,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.473383,
     "mps:longitude":36.284327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0647\u064a"
     ],
@@ -95,7 +99,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chubarovka"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +128,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -137,10 +141,12 @@
     "wof:concordances":{
         "gn:id":696677,
         "gp:id":931341,
-        "qs:id":3,
-        "qs_pg:id":128342,
+        "qs_pg:id":3,
         "wd:id":"Q368856",
         "wk:page":"Polohy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":128342
     },
     "wof:country":"UA",
     "wof:geomhash":"747625ad18b1584ba774d60f2e147ec6",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":101868123,
-    "wof:lastmodified":1563302690,
+    "wof:lastmodified":1566593376,
     "wof:name":"\u041f\u043e\u043b\u043e\u0433\u0438",
     "wof:parent_id":102088369,
     "wof:placetype":"locality",

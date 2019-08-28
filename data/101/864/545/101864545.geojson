@@ -10,12 +10,16 @@
     "geom:latitude":51.728297,
     "geom:longitude":25.164557,
     "iso:country":"UA",
+    "lbl:bbox":"25.144557,51.708297,25.184557,51.748297",
     "lbl:latitude":51.728297,
     "lbl:longitude":25.164557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.728297,
     "mps:longitude":25.164557,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zalaz\u2019ye"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u043b\u0430\u0437\u0437\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zalaze"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":687832,
         "gp:id":931005,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"8865c97aa89015e3cf617f444daa4859",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101864545,
-    "wof:lastmodified":1544747582,
+    "wof:lastmodified":1566593761,
     "wof:name":"\u0417\u0430\u043b\u0430\u0437\u0437\u044f",
     "wof:parent_id":102088883,
     "wof:placetype":"locality",

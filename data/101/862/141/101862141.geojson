@@ -10,12 +10,16 @@
     "geom:latitude":49.770687,
     "geom:longitude":24.042825,
     "iso:country":"UA",
+    "lbl:bbox":"24.022825,49.750687,24.062825,49.790687",
     "lbl:latitude":49.770687,
     "lbl:longitude":24.042825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.770687,
     "mps:longitude":24.042825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zubra"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":686820,
         "gp:id":924943,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12107177"
     },
     "wof:country":"UA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101862141,
-    "wof:lastmodified":1563303429,
+    "wof:lastmodified":1566593710,
     "wof:name":"\u0417\u0443\u0431\u0440\u0430",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":51.550675,
     "geom:longitude":24.95421,
     "iso:country":"UA",
+    "lbl:bbox":"24.93421,51.530675,24.97421,51.570675",
     "lbl:latitude":51.550675,
     "lbl:longitude":24.95421,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.550675,
     "mps:longitude":24.95421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zales\u2019ye"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u043b\u0456\u0441\u0441\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zalesie"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":687828,
         "gp:id":929306,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"9dc2ea177826c89058e02819bbecbbee",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101864413,
-    "wof:lastmodified":1544747513,
+    "wof:lastmodified":1566593753,
     "wof:name":"\u0417\u0430\u043b\u0456\u0441\u0441\u044f",
     "wof:parent_id":102088837,
     "wof:placetype":"locality",

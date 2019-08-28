@@ -10,12 +10,16 @@
     "geom:latitude":48.145866,
     "geom:longitude":28.74231,
     "iso:country":"UA",
+    "lbl:bbox":"28.72231,48.125866,28.76231,48.165866",
     "lbl:latitude":48.145866,
     "lbl:longitude":28.74231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.145866,
     "mps:longitude":28.74231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tiwaans"
     ],
@@ -223,9 +227,6 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u043b\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Bolhan"
-    ],
     "name:uzb_x_preferred":[
         "Tuva tili"
     ],
@@ -254,7 +255,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2153,
     "wof:belongsto":[
         102191581,
@@ -266,7 +267,7 @@
     "wof:concordances":{
         "gn:id":618542,
         "gp:id":480712,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q335694"
     },
     "wof:country":"UA",
@@ -281,7 +282,7 @@
         }
     ],
     "wof:id":101866273,
-    "wof:lastmodified":1563302413,
+    "wof:lastmodified":1566593257,
     "wof:name":"\u0411\u043e\u043b\u0433\u0430\u043d",
     "wof:parent_id":102088139,
     "wof:placetype":"locality",

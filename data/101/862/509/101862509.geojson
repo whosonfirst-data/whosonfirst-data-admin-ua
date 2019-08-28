@@ -10,12 +10,16 @@
     "geom:latitude":49.864049,
     "geom:longitude":24.257326,
     "iso:country":"UA",
+    "lbl:bbox":"24.237326,49.844049,24.277326,49.884049",
     "lbl:latitude":49.864049,
     "lbl:longitude":24.257326,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.864049,
     "mps:longitude":24.257326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pykulovychi"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":937878,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4362641"
     },
     "wof:country":"UA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101862509,
-    "wof:lastmodified":1561776984,
+    "wof:lastmodified":1566593695,
     "wof:name":"\u041f\u0438\u043a\u0443\u043b\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

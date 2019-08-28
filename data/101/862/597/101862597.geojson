@@ -11,12 +11,16 @@
     "geom:longitude":24.896644,
     "gn:population":1800,
     "iso:country":"UA",
+    "lbl:bbox":"24.876644,49.939351,24.916644,49.979351",
     "lbl:latitude":49.959351,
     "lbl:longitude":24.896644,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.959351,
     "mps:longitude":24.896644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u044d\u0441\u044c\u043a\u0430"
     ],
@@ -68,9 +72,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u0441\u044c\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "Olesko"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u5217\u897f\u79d1"
     ],
@@ -94,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -107,7 +108,6 @@
     "wof:concordances":{
         "gn:id":698598,
         "gp:id":930024,
-        "qs:id":128401,
         "qs_pg:id":128401,
         "wd:id":"Q2019437",
         "wk:page":"Olesko"
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":101862597,
-    "wof:lastmodified":1563303395,
+    "wof:lastmodified":1566593694,
     "wof:name":"\u041e\u043b\u0435\u0441\u044c\u043a\u043e",
     "wof:parent_id":102088435,
     "wof:placetype":"locality",

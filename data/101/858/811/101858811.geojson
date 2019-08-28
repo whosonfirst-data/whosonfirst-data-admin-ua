@@ -10,12 +10,16 @@
     "geom:latitude":45.865432,
     "geom:longitude":34.389663,
     "iso:country":"UA",
+    "lbl:bbox":"34.369663,45.845432,34.409663,45.885432",
     "lbl:latitude":45.865432,
     "lbl:longitude":34.389663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.865432,
     "mps:longitude":34.389663,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zavet-Leninskiy"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":687519,
         "gp:id":919507,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"9979975352176e5913cdc110c6c3cbc7",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858811,
-    "wof:lastmodified":1544744594,
+    "wof:lastmodified":1566593481,
     "wof:name":"\u0417\u0430\u0432\u0456\u0442-\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.67362,
     "geom:longitude":34.757242,
     "iso:country":"UA",
+    "lbl:bbox":"34.737242,49.65362,34.777242,49.69362",
     "lbl:latitude":49.67362,
     "lbl:longitude":34.757242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.67362,
     "mps:longitude":34.757242,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Poltavs'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -44,7 +48,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"30836aad44636d5342cf2640aba1e4ee",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":101869757,
-    "wof:lastmodified":1544750442,
+    "wof:lastmodified":1566593427,
     "wof:name":"\u0411\u043e\u0436\u043a\u0456\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815691,
     "wof:placetype":"locality",

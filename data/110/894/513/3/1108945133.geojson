@@ -10,8 +10,10 @@
     "geom:latitude":50.442362,
     "geom:longitude":30.519792,
     "iso:country":"UA",
+    "lbl:bbox":"30.5147923594,50.4373624656,30.5247923594,50.4473624656",
     "lbl:latitude":50.442362,
     "lbl:longitude":30.519792,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u043a\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108945133,
-    "wof:lastmodified":1564196802,
+    "wof:lastmodified":1566592890,
     "wof:name":"Bessarabka",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

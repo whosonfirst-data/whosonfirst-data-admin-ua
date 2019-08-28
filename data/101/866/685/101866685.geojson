@@ -10,12 +10,16 @@
     "geom:latitude":48.609849,
     "geom:longitude":29.740218,
     "iso:country":"UA",
+    "lbl:bbox":"29.720218,48.589849,29.760218,48.629849",
     "lbl:latitude":48.609849,
     "lbl:longitude":29.740218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.609849,
     "mps:longitude":29.740218,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Vinnyts'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":935919,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"766c229e7ba8124ef755af853d7d0756",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101866685,
-    "wof:lastmodified":1544748745,
+    "wof:lastmodified":1566593275,
     "wof:name":"\u0411\u0434\u0436\u0456\u043b\u044c\u043d\u0430",
     "wof:parent_id":102088297,
     "wof:placetype":"locality",

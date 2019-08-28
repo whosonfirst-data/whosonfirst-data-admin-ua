@@ -10,12 +10,16 @@
     "geom:latitude":50.113083,
     "geom:longitude":35.002151,
     "iso:country":"UA",
+    "lbl:bbox":"34.982151,50.093083,35.022151,50.133083",
     "lbl:latitude":50.113083,
     "lbl:longitude":35.002151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.113083,
     "mps:longitude":35.002151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Parchomiwka"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "Parkhomivka"
     ],
-    "name:unk_x_variant":[
-        "Parkhomovka"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u723e\u970d\u7c73\u592b\u5361"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":697971,
         "gp:id":930124,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4346255"
     },
     "wof:country":"UA",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101870113,
-    "wof:lastmodified":1563303130,
+    "wof:lastmodified":1566593567,
     "wof:name":"\u041f\u0430\u0440\u0445\u043e\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815731,
     "wof:placetype":"locality",

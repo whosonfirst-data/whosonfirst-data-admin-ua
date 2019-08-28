@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.428365,
     "lbl:longitude":34.888896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Poltavska",
     "meso:admin_1":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Mashivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":34.873806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0448\u044b\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -77,9 +80,6 @@
         "\u041c\u0430\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
         "\u041c\u0430\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Mashivka"
     ],
@@ -102,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"889",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Mashivka",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":102088733,
-    "wof:lastmodified":1563299494,
+    "wof:lastmodified":1566591399,
     "wof:name":"Mashivskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

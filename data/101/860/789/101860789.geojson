@@ -11,12 +11,16 @@
     "geom:longitude":24.061019,
     "gn:population":2976,
     "iso:country":"UA",
+    "lbl:bbox":"24.041019,48.868492,24.081019,48.908492",
     "lbl:latitude":48.888492,
     "lbl:longitude":24.061019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.888492,
     "mps:longitude":24.061019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u043f\u0430\u0441 \u0414\u0436\u0435\u0432\u0438\u0437\u043e\u0432"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Spas"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u5e15\u65af"
     ],
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -90,7 +91,6 @@
     "wof:concordances":{
         "gn:id":693044,
         "gp:id":932583,
-        "qs:id":128276,
         "qs_pg:id":128276,
         "wd:id":"Q4430770"
     },
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101860789,
-    "wof:lastmodified":1563302925,
+    "wof:lastmodified":1566593477,
     "wof:name":"\u0421\u043f\u0430\u0441",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

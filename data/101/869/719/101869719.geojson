@@ -9,14 +9,18 @@
     "geom:bbox":"30.396828,50.357451,30.396828,50.357451",
     "geom:latitude":50.357451,
     "geom:longitude":30.396828,
-    "geonames:id":"708946,8354606",
+    "gn:id":"708946,8354606",
     "iso:country":"UA",
+    "lbl:bbox":"30.376828,50.337451,30.416828,50.377451",
     "lbl:latitude":50.357451,
     "lbl:longitude":30.396828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.357451,
     "mps:longitude":30.396828,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kyivs'ka",
@@ -36,7 +40,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":924938,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"0df4dafeff68285d5bc51036e9afe852",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101869719,
-    "wof:lastmodified":1544750425,
+    "wof:lastmodified":1566593443,
     "wof:name":"\u0413\u0430\u0442\u043d\u0435",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

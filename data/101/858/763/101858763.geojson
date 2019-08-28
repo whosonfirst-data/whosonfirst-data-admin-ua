@@ -10,12 +10,16 @@
     "geom:latitude":45.58849,
     "geom:longitude":34.550124,
     "iso:country":"UA",
+    "lbl:bbox":"34.530124,45.56849,34.570124,45.60849",
     "lbl:latitude":45.58849,
     "lbl:longitude":34.550124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.58849,
     "mps:longitude":34.550124,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mayskoye"
     ],
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":701491,
         "gp:id":916119,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"183e1229756f6f66b676eda4c1b00497",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101858763,
-    "wof:lastmodified":1544744568,
+    "wof:lastmodified":1566593478,
     "wof:name":"\u041c\u0430\u0439\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

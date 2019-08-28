@@ -11,12 +11,16 @@
     "geom:longitude":37.826433,
     "gn:population":28200,
     "iso:country":"UA",
+    "lbl:bbox":"37.806433,48.946757,37.846433,48.986757",
     "lbl:latitude":48.966757,
     "lbl:longitude":37.826433,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.966757,
     "mps:longitude":37.826433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041b\u044b\u043c\u0430\u043d"
     ],
@@ -117,9 +121,6 @@
         "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041b\u0438\u043c\u0430\u043d",
         "\u041b\u0438\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Liman"
-    ],
     "name:vie_x_preferred":[
         "Lyman"
     ],
@@ -146,7 +147,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":314,
     "wof:belongsto":[
@@ -160,7 +161,7 @@
     "wof:concordances":{
         "gn:id":704204,
         "gp:id":924252,
-        "qs:id":128586,
+        "qs_pg:id":128586,
         "wd:id":"Q2234641",
         "wk:page":"Lyman, Ukraine"
     },
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":101869931,
-    "wof:lastmodified":1563302741,
+    "wof:lastmodified":1566593399,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041b\u0438\u043c\u0430\u043d",
     "wof:parent_id":1108815875,
     "wof:placetype":"locality",

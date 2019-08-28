@@ -9,15 +9,18 @@
     "geom:bbox":"28.84641,48.67448,28.84641,48.67448",
     "geom:latitude":48.67448,
     "geom:longitude":28.84641,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16136,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":16136,
     "iso:country":"UA",
+    "lbl:bbox":"28.82641,48.65448,28.86641,48.69448",
     "lbl:latitude":48.67448,
     "lbl:longitude":28.84641,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bak_x_preferred":[
         "\u0422\u0443\u043b\u044c\u0447\u044b\u043d"
@@ -100,7 +103,7 @@
     "name:ukr_x_variant":[
         "\u0422\u0443\u043b\u044c\u0447\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tultschin"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "qs_pg:qs_id":82738,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1125835589,
-    "wof:lastmodified":1563304023,
+    "wof:lastmodified":1566593977,
     "wof:name":"Tul\u2019chyn",
     "wof:parent_id":102088267,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":50.457046,
     "geom:longitude":30.373251,
     "iso:country":"UA",
+    "lbl:bbox":"30.3682506902,50.4520458783,30.3782506902,50.4620458783",
     "lbl:latitude":50.457046,
     "lbl:longitude":30.373251,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -33,7 +35,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0432\u044f\u0442\u043e\u0448\u0438\u043d"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1108945115,
-    "wof:lastmodified":1564196801,
+    "wof:lastmodified":1566592889,
     "wof:name":"Sviatoshyn",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

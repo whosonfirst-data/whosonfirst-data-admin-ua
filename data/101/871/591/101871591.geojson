@@ -11,12 +11,16 @@
     "geom:longitude":34.775294,
     "gn:population":2819,
     "iso:country":"UA",
+    "lbl:bbox":"34.755294,50.753907,34.795294,50.793907",
     "lbl:latitude":50.773907,
     "lbl:longitude":34.775294,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.773907,
     "mps:longitude":34.775294,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nyzy"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0437\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":699933,
         "gp:id":928179,
-        "qs:id":1103984
+        "qs_pg:id":1103984
     },
     "wof:country":"UA",
     "wof:geomhash":"e9edcf6057d6255f5fb42da4070036de",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101871591,
-    "wof:lastmodified":1544751169,
+    "wof:lastmodified":1566593650,
     "wof:name":"\u041d\u0438\u0437\u0438",
     "wof:parent_id":102088997,
     "wof:placetype":"locality",

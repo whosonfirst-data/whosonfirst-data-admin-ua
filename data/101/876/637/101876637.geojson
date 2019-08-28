@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.023696,
     "lbl:longitude":30.936797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.023696,
     "mps:longitude":30.936797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u054e\u0578\u056c\u0578\u056f\u0561"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101876637,
-    "wof:lastmodified":1527714918,
+    "wof:lastmodified":1566593613,
     "wof:name":"\u0413\u0440\u0443\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815681,
     "wof:placetype":"locality",

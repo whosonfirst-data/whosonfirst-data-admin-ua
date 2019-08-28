@@ -9,14 +9,18 @@
     "geom:bbox":"30.65394,50.21931,30.65394,50.21931",
     "geom:latitude":50.21931,
     "geom:longitude":30.65394,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"30.63394,50.19931,30.67394,50.23931",
     "lbl:latitude":50.21931,
     "lbl:longitude":30.65394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Kozyn"
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kozino"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":923923,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
     "woe:name_adm1":"Kyyivs\u00b4ka Oblast\u00b4",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1125984035,
-    "wof:lastmodified":1563303894,
+    "wof:lastmodified":1566593931,
     "wof:name":"Kozin",
     "wof:parent_id":102088691,
     "wof:placetype":"locality",

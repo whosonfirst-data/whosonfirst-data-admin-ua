@@ -10,12 +10,16 @@
     "geom:latitude":49.249131,
     "geom:longitude":26.261492,
     "iso:country":"UA",
+    "lbl:bbox":"26.241492,49.229131,26.281492,49.269131",
     "lbl:latitude":49.249131,
     "lbl:longitude":26.261492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.249131,
     "mps:longitude":26.261492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0442\u0430\u043d\u0456\u045e"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_variant":[
         "Sataniv"
     ],
-    "name:unk_x_variant":[
-        "Satan\u00f3w"
-    ],
     "name:zho_x_preferred":[
         "\u85a9\u5854\u5c3c\u592b"
     ],
@@ -80,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":470,
     "wof:belongsto":[
         102191581,
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":694771,
         "gp:id":933073,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2629630",
         "wk:page":"Sataniv"
     },
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":101862023,
-    "wof:lastmodified":1563303350,
+    "wof:lastmodified":1566593673,
     "wof:name":"\u0421\u0430\u0442\u0430\u043d\u0456\u0432",
     "wof:parent_id":102088337,
     "wof:placetype":"locality",

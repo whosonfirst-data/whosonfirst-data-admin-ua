@@ -10,12 +10,16 @@
     "geom:latitude":49.24285,
     "geom:longitude":36.906493,
     "iso:country":"UA",
+    "lbl:bbox":"36.886493,49.22285,36.926493,49.26285",
     "lbl:latitude":49.24285,
     "lbl:longitude":36.906493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.24285,
     "mps:longitude":36.906493,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Protopopovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Protopopovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":696140,
         "gp:id":931832,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"246fe51e6c975928e57043d92fe99322",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101869031,
-    "wof:lastmodified":1544750069,
+    "wof:lastmodified":1566593414,
     "wof:name":"\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

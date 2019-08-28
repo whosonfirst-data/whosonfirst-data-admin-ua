@@ -10,12 +10,16 @@
     "geom:latitude":47.417193,
     "geom:longitude":36.011472,
     "iso:country":"UA",
+    "lbl:bbox":"35.991472,47.397193,36.031472,47.437193",
     "lbl:latitude":47.417193,
     "lbl:longitude":36.011472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.417193,
     "mps:longitude":36.011472,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verbove"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0431\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verbovoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":689965,
         "gp:id":937501,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"28e22dc529f9bd8fec651e023d94ced0",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101867005,
-    "wof:lastmodified":1544748930,
+    "wof:lastmodified":1566593533,
     "wof:name":"\u0412\u0435\u0440\u0431\u043e\u0432\u0435",
     "wof:parent_id":102088369,
     "wof:placetype":"locality",

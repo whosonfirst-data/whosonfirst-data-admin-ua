@@ -10,12 +10,16 @@
     "geom:latitude":50.679447,
     "geom:longitude":30.394821,
     "iso:country":"UA",
+    "lbl:bbox":"30.374821,50.659447,30.414821,50.699447",
     "lbl:latitude":50.679447,
     "lbl:longitude":30.394821,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.679447,
     "mps:longitude":30.394821,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liutizh"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0442\u0456\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lutezh"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":702379,
         "gp:id":929281,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"d817ed5b97c0d63d59cf13697632de41",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101871007,
-    "wof:lastmodified":1544750910,
+    "wof:lastmodified":1566593638,
     "wof:name":"\u041b\u044e\u0442\u0456\u0436",
     "wof:parent_id":102088851,
     "wof:placetype":"locality",

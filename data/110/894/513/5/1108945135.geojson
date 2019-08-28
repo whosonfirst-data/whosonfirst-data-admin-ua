@@ -10,8 +10,10 @@
     "geom:latitude":50.434053,
     "geom:longitude":30.557386,
     "iso:country":"UA",
+    "lbl:bbox":"30.5523862199,50.4290531646,30.5623862199,50.4390531646",
     "lbl:latitude":50.434053,
     "lbl:longitude":30.557386,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1108945135,
-    "wof:lastmodified":1561776861,
+    "wof:lastmodified":1566592890,
     "wof:name":"Berestove",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

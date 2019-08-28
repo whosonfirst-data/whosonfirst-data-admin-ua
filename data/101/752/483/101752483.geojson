@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":49.841559,
     "lbl:longitude":24.031393,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":49.841559,
     "mps:longitude":24.031393,
     "mz:hierarchy_label":1,
@@ -378,9 +380,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u044c\u0432\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Lviv"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u06cc\u0648"
     ],
@@ -533,7 +532,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":296.0,
     "wd:latitude":49.83,
@@ -550,7 +549,7 @@
     "wof:concordances":{
         "gn:id":702550,
         "gp:id":924943,
-        "qs:id":128510,
+        "qs_pg:id":128510,
         "wd:id":"Q36036",
         "wk:page":"Lviv"
     },
@@ -566,7 +565,7 @@
         }
     ],
     "wof:id":101752483,
-    "wof:lastmodified":1563302184,
+    "wof:lastmodified":1566593181,
     "wof:name":"\u041b\u044c\u0432\u0456\u0432",
     "wof:parent_id":1108730647,
     "wof:placetype":"locality",

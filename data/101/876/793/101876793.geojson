@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":1752159.987533,
+    "geom:area_square_m":1752159.987534,
     "geom:bbox":"29.8062605426,48.9758828214,29.8249257284,48.9923930683",
     "geom:latitude":48.983623,
     "geom:longitude":29.814947,
@@ -13,17 +13,20 @@
     "iso:country":"UA",
     "lbl:latitude":48.983113,
     "lbl:longitude":29.814769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.983113,
     "mps:longitude":29.814769,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0435 \u041c\u0456\u0441\u0442\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0435 \u041c\u0456\u0441\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nove-Misto"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -42,7 +45,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":699761,
         "gp:id":927377,
-        "qs:id":128432
+        "qs_pg:id":128432
     },
     "wof:country":"UA",
     "wof:geomhash":"afb3cbadb7fd4c39195dc0854927b46b",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101876793,
-    "wof:lastmodified":1505338450,
+    "wof:lastmodified":1566593602,
     "wof:name":"\u041d\u043e\u0432\u0435 \u041c\u0456\u0441\u0442\u043e",
     "wof:parent_id":102088403,
     "wof:placetype":"locality",

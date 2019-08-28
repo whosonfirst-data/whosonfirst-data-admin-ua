@@ -11,12 +11,16 @@
     "geom:longitude":30.354526,
     "gn:population":8258,
     "iso:country":"UA",
+    "lbl:bbox":"30.334526,47.912048,30.374526,47.952048",
     "lbl:latitude":47.932048,
     "lbl:longitude":30.354526,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.932048,
     "mps:longitude":30.354526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_variant":[
         "\u041a\u0440\u044b\u0432\u043e\u0435 \u0412\u043e\u0437\u0435\u0440\u0430"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krivoye Ozero"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":264,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":704010,
         "gp:id":924435,
-        "qs:id":941957,
+        "qs_pg:id":941957,
         "wd:id":"Q2453477"
     },
     "wof:country":"UA",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101873957,
-    "wof:lastmodified":1563302261,
+    "wof:lastmodified":1566593197,
     "wof:name":"\u041a\u0440\u0438\u0432\u0435 \u041e\u0437\u0435\u0440\u043e",
     "wof:parent_id":102088173,
     "wof:placetype":"locality",

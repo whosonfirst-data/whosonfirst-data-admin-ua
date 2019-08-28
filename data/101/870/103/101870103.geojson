@@ -10,12 +10,16 @@
     "geom:latitude":50.028833,
     "geom:longitude":35.245909,
     "iso:country":"UA",
+    "lbl:bbox":"35.225909,50.008833,35.265909,50.048833",
     "lbl:latitude":50.028833,
     "lbl:longitude":35.245909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.028833,
     "mps:longitude":35.245909,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kachalovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u0430\u0447\u0430\u043b\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Kachalovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":707279,
         "gp:id":927530,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"0f1b633459be0609bff3be428398ac6a",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870103,
-    "wof:lastmodified":1544750587,
+    "wof:lastmodified":1566593542,
     "wof:name":"\u041a\u0430\u0447\u0430\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815731,
     "wof:placetype":"locality",

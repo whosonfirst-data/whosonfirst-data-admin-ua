@@ -10,12 +10,16 @@
     "geom:latitude":50.237077,
     "geom:longitude":31.264729,
     "iso:country":"UA",
+    "lbl:bbox":"31.244729,50.217077,31.284729,50.257077",
     "lbl:latitude":50.237077,
     "lbl:longitude":31.264729,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.237077,
     "mps:longitude":31.264729,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veselinovka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skoptsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":689752,
         "gp:id":937699,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"3e16cc8b8c49fb202e5db6366be8b70b",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869791,
-    "wof:lastmodified":1544750457,
+    "wof:lastmodified":1566593403,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088785,
     "wof:placetype":"locality",

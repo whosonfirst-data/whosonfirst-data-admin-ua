@@ -10,12 +10,16 @@
     "geom:latitude":48.522879,
     "geom:longitude":24.849395,
     "iso:country":"UA",
+    "lbl:bbox":"24.829395,48.502879,24.869395,48.542879",
     "lbl:latitude":48.522879,
     "lbl:longitude":24.849395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.522879,
     "mps:longitude":24.849395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0430\u043c\u044b\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0438\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molodyatyn"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":266,
     "wof:belongsto":[
         102191581,
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":700825,
         "gp:id":930287,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1035599"
     },
     "wof:country":"UA",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101860665,
-    "wof:lastmodified":1563302915,
+    "wof:lastmodified":1566593472,
     "wof:name":"\u041c\u043e\u043b\u043e\u0434\u044f\u0442\u0438\u043d",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

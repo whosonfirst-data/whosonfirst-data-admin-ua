@@ -11,12 +11,16 @@
     "geom:longitude":30.136659,
     "gn:population":4046,
     "iso:country":"UA",
+    "lbl:bbox":"30.116659,50.789775,30.156659,50.829775",
     "lbl:latitude":50.809775,
     "lbl:longitude":30.136659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.809775,
     "mps:longitude":30.136659,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Katiuzhanka"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u044e\u0436\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katyuzhanka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":706612,
         "gp:id":933721,
-        "qs:id":128669
+        "qs_pg:id":128669
     },
     "wof:country":"UA",
     "wof:geomhash":"63a4579da1f6bb7ec8efc291f0d40096",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101871019,
-    "wof:lastmodified":1544750915,
+    "wof:lastmodified":1566593656,
     "wof:name":"\u041a\u0430\u0442\u044e\u0436\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088851,
     "wof:placetype":"locality",

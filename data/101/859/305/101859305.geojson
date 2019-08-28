@@ -11,12 +11,16 @@
     "geom:longitude":24.327953,
     "gn:population":3155,
     "iso:country":"UA",
+    "lbl:bbox":"24.307953,48.025525,24.347953,48.065525",
     "lbl:latitude":48.045525,
     "lbl:longitude":24.327953,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.045525,
     "mps:longitude":24.327953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u063a\u062f\u0627\u0646 \u062f\u0648\u062a\u0634\u064a\u0641"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiszabogdany"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":711952,
         "gp:id":932090,
-        "qs:id":1028638,
+        "qs_pg:id":1028638,
         "wd:id":"Q579062"
     },
     "wof:country":"UA",
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":101859305,
-    "wof:lastmodified":1563302355,
+    "wof:lastmodified":1566593234,
     "wof:name":"\u0411\u043e\u0433\u0434\u0430\u043d",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

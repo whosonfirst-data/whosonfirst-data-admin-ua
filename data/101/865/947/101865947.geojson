@@ -10,12 +10,16 @@
     "geom:latitude":46.705916,
     "geom:longitude":32.678636,
     "iso:country":"UA",
+    "lbl:bbox":"32.658636,46.685916,32.698636,46.725916",
     "lbl:latitude":46.705916,
     "lbl:longitude":32.678636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.705916,
     "mps:longitude":32.678636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Khersons'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":927620,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"c7d7a463d259702d04525a5f788a2ba0",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101865947,
-    "wof:lastmodified":1544748330,
+    "wof:lastmodified":1566593726,
     "wof:name":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435",
     "wof:parent_id":1108730653,
     "wof:placetype":"locality",

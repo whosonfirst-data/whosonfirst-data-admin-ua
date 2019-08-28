@@ -9,15 +9,18 @@
     "geom:bbox":"24.89423,48.51551,24.89423,48.51551",
     "geom:latitude":48.51551,
     "geom:longitude":24.89423,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5126,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5126,
     "iso:country":"UA",
+    "lbl:bbox":"24.87423,48.49551,24.91423,48.53551",
     "lbl:latitude":48.51551,
     "lbl:longitude":24.89423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041f\u044d\u0447\u044d\u043d\u0456\u0436\u044b\u043d"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447\u0435\u043d\u0456\u0436\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pechenezhin"
     ],
     "name:yid_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":1028481,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125885313,
-    "wof:lastmodified":1563303837,
+    "wof:lastmodified":1566593911,
     "wof:name":"Pechenizhyn",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

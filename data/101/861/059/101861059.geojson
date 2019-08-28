@@ -10,12 +10,16 @@
     "geom:latitude":49.259677,
     "geom:longitude":23.898781,
     "iso:country":"UA",
+    "lbl:bbox":"23.878781,49.239677,23.918781,49.279677",
     "lbl:latitude":49.259677,
     "lbl:longitude":23.898781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.259677,
     "mps:longitude":23.898781,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Verchany"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":689952,
         "gp:id":935340,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"3bb3e5ea56767312ef9e678d750f4fab",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101861059,
-    "wof:lastmodified":1544745765,
+    "wof:lastmodified":1566593323,
     "wof:name":"\u0412\u0435\u0440\u0447\u0430\u043d\u0438",
     "wof:parent_id":102088221,
     "wof:placetype":"locality",

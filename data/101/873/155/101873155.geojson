@@ -10,12 +10,16 @@
     "geom:latitude":48.744116,
     "geom:longitude":27.943492,
     "iso:country":"UA",
+    "lbl:bbox":"27.923492,48.724116,27.963492,48.764116",
     "lbl:latitude":48.744116,
     "lbl:longitude":27.943492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.744116,
     "mps:longitude":27.943492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Iwaszkowce"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":932652,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"b990db7317c2d0705fde2325da0b249c",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101873155,
-    "wof:lastmodified":1544751501,
+    "wof:lastmodified":1566593199,
     "wof:name":"\u0406\u0432\u0430\u0448\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088263,
     "wof:placetype":"locality",

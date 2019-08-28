@@ -9,15 +9,18 @@
     "geom:bbox":"34.70616,47.27756,34.70616,47.27756",
     "geom:latitude":47.27756,
     "geom:longitude":34.70616,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3511,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3511,
     "iso:country":"UA",
+    "lbl:bbox":"34.68616,47.25756,34.72616,47.29756",
     "lbl:latitude":47.27756,
     "lbl:longitude":34.70616,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u0627 \u0628\u064a\u0644\u0648\u0632\u064a\u0631\u0643\u0627"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0456\u043b\u043e\u0437\u0435\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shaya Belozerka"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":128208,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125778975,
-    "wof:lastmodified":1563304012,
+    "wof:lastmodified":1566593974,
     "wof:name":"Velyka Bilozerka",
     "wof:parent_id":102088201,
     "wof:placetype":"locality",

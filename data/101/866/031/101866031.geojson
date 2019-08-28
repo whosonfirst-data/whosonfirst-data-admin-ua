@@ -10,12 +10,16 @@
     "geom:latitude":46.685831,
     "geom:longitude":33.548645,
     "iso:country":"UA",
+    "lbl:bbox":"33.528645,46.665831,33.568645,46.705831",
     "lbl:latitude":46.685831,
     "lbl:longitude":33.548645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.685831,
     "mps:longitude":33.548645,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rozdol'ne"
     ],
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         102191581,
@@ -91,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":922163,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2506771"
     },
     "wof:country":"UA",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101866031,
-    "wof:lastmodified":1563302425,
+    "wof:lastmodified":1566593262,
     "wof:name":"\u0420\u043e\u0437\u0434\u043e\u043b\u044c\u043d\u0435",
     "wof:parent_id":1108815711,
     "wof:placetype":"locality",

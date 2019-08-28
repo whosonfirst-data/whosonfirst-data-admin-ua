@@ -11,12 +11,16 @@
     "geom:longitude":32.888063,
     "gn:population":2918,
     "iso:country":"UA",
+    "lbl:bbox":"32.868063,48.654761,32.908063,48.694761",
     "lbl:latitude":48.674761,
     "lbl:longitude":32.888063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.674761,
     "mps:longitude":32.888063,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pantayivka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0442\u0430\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pantayevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":698008,
         "gp:id":918882,
-        "qs:id":128371
+        "qs_pg:id":128371
     },
     "wof:country":"UA",
     "wof:geomhash":"f8783f2cda69b58b93a4614d09f61a04",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101867801,
-    "wof:lastmodified":1544749380,
+    "wof:lastmodified":1566593534,
     "wof:name":"\u041f\u0430\u043d\u0442\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":85688881,
     "wof:placetype":"locality",

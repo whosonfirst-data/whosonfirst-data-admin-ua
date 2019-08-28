@@ -10,12 +10,16 @@
     "geom:latitude":51.633288,
     "geom:longitude":24.257329,
     "iso:country":"UA",
+    "lbl:bbox":"24.237329,51.613288,24.277329,51.653288",
     "lbl:latitude":51.633288,
     "lbl:longitude":24.257329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.633288,
     "mps:longitude":24.257329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Zab\u0142ocie"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u0431\u043e\u043b\u043e\u0442\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zablot\u2019ye"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":687958,
         "gp:id":939372,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q952880"
     },
     "wof:country":"UA",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101864485,
-    "wof:lastmodified":1563303529,
+    "wof:lastmodified":1566593752,
     "wof:name":"\u0417\u0430\u0431\u043e\u043b\u043e\u0442\u0442\u044f",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

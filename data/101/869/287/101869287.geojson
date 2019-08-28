@@ -10,19 +10,23 @@
     "geom:latitude":49.666323,
     "geom:longitude":30.616679,
     "iso:country":"UA",
+    "lbl:bbox":"30.596679,49.646323,30.636679,49.686323",
     "lbl:latitude":49.666323,
     "lbl:longitude":30.616679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.666323,
     "mps:longitude":30.616679,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ol'shanitsa"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ol\u2019shanitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":698528,
         "gp:id":929549,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"0b7284110010ea2ffd350b2ecef6252c",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101869287,
-    "wof:lastmodified":1544750210,
+    "wof:lastmodified":1566593408,
     "wof:name":"\u041e\u043b\u044c\u0448\u0430\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088587,
     "wof:placetype":"locality",

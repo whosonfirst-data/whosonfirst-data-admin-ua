@@ -10,12 +10,16 @@
     "geom:latitude":49.348959,
     "geom:longitude":36.75482,
     "iso:country":"UA",
+    "lbl:bbox":"36.73482,49.328959,36.77482,49.368959",
     "lbl:latitude":49.348959,
     "lbl:longitude":36.75482,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.348959,
     "mps:longitude":36.75482,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shevelevka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0428\u0435\u0432\u0435\u043b\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Shevelevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":694114,
         "gp:id":922137,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"e9f28f3e80bb2170c7175fc4f54dceaa",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101869033,
-    "wof:lastmodified":1544750070,
+    "wof:lastmodified":1566593438,
     "wof:name":"\u0428\u0435\u0432\u0435\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

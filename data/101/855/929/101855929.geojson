@@ -11,12 +11,16 @@
     "geom:longitude":33.624883,
     "gn:population":2958,
     "iso:country":"UA",
+    "lbl:bbox":"33.604883,45.001205,33.644883,45.041205",
     "lbl:latitude":45.021205,
     "lbl:longitude":33.624883,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.021205,
     "mps:longitude":33.624883,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Michail Frunse"
     ],
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":185,
     "wof:belongsto":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":709082,
         "gp:id":928052,
-        "qs:id":128741,
+        "qs_pg:id":128741,
         "wd:id":"Q1328239"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101855929,
-    "wof:lastmodified":1563303516,
+    "wof:lastmodified":1566593747,
     "wof:name":"\u0424\u0440\u0443\u043d\u0437\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

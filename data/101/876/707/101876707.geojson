@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.278485,
     "lbl:longitude":25.123774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.278485,
     "mps:longitude":25.123774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pdace"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":790,
     "wof:belongsto":[
@@ -122,7 +125,7 @@
         "gn:id":696966,
         "gp:id":931072,
         "loc:id":"n83214466",
-        "qs:id":128355,
+        "qs_pg:id":128355,
         "wd:id":"Q149170",
         "wk:page":"Pidhaitsi"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101876707,
-    "wof:lastmodified":1563303154,
+    "wof:lastmodified":1566593582,
     "wof:name":"\u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456",
     "wof:parent_id":102088261,
     "wof:placetype":"locality",

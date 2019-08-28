@@ -11,12 +11,16 @@
     "geom:longitude":38.893627,
     "gn:population":6000,
     "iso:country":"UA",
+    "lbl:bbox":"38.873627,48.067639,38.913627,48.107639",
     "lbl:latitude":48.087639,
     "lbl:longitude":38.893627,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.087639,
     "mps:longitude":38.893627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miusyns'k"
     ],
@@ -98,9 +102,6 @@
     "name:ukr_x_variant":[
         "Miusyns\u2019k"
     ],
-    "name:unk_x_variant":[
-        "Miusinsk"
-    ],
     "name:vie_x_preferred":[
         "Miusynsk"
     ],
@@ -123,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -135,7 +136,7 @@
     "wof:concordances":{
         "gn:id":700977,
         "gp:id":927221,
-        "qs:id":98815,
+        "qs_pg:id":98815,
         "wd:id":"Q2415287",
         "wk:page":"Miusynsk"
     },
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":101868767,
-    "wof:lastmodified":1563302650,
+    "wof:lastmodified":1566593358,
     "wof:name":"\u041c\u0456\u0443\u0441\u0438\u043d\u0441\u044c\u043a",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

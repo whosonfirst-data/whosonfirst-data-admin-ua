@@ -10,8 +10,10 @@
     "geom:latitude":50.428002,
     "geom:longitude":30.555727,
     "iso:country":"UA",
+    "lbl:bbox":"30.5507268257,50.4230024928,30.5607268257,50.4330024928",
     "lbl:latitude":50.428002,
     "lbl:longitude":30.555727,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:ukr_x_preferred":[
         "\u0417\u0432\u0456\u0440\u0438\u043d\u0435\u0446\u044c"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108945137,
-    "wof:lastmodified":1500072243,
+    "wof:lastmodified":1566592890,
     "wof:name":"Zvirynets",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

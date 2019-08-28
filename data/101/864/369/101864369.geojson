@@ -10,12 +10,16 @@
     "geom:latitude":50.894512,
     "geom:longitude":28.290661,
     "iso:country":"UA",
+    "lbl:bbox":"28.270661,50.874512,28.310661,50.914512",
     "lbl:latitude":50.894512,
     "lbl:longitude":28.290661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.894512,
     "mps:longitude":28.290661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0448\u0447\u044b\u043a"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043e\u0440\u0449\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorshchik"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -78,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":708277,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4146070"
     },
     "wof:country":"UA",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101864369,
-    "wof:lastmodified":1563303560,
+    "wof:lastmodified":1566593764,
     "wof:name":"\u0413\u043e\u0440\u0449\u0438\u043a",
     "wof:parent_id":1108815631,
     "wof:placetype":"locality",

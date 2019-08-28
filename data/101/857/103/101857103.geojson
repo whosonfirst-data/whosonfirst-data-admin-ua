@@ -10,12 +10,16 @@
     "geom:latitude":45.132517,
     "geom:longitude":34.040356,
     "iso:country":"UA",
+    "lbl:bbox":"34.020356,45.112517,34.060356,45.152517",
     "lbl:latitude":45.132517,
     "lbl:longitude":34.040356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.132517,
     "mps:longitude":34.040356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnaya Zor\u2019ka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":704431,
         "gp:id":920984,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"3d50ac204427f26a75ccd3c0cbf59d9d",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857103,
-    "wof:lastmodified":1544743723,
+    "wof:lastmodified":1566593382,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0430 \u0417\u043e\u0440\u044c\u043a\u0430",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

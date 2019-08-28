@@ -9,15 +9,18 @@
     "geom:bbox":"34.75314,46.33383,34.75314,46.33383",
     "geom:latitude":46.33383,
     "geom:longitude":34.75314,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3738,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3738,
     "iso:country":"UA",
+    "lbl:bbox":"34.73314,46.31383,34.77314,46.35383",
     "lbl:latitude":46.33383,
     "lbl:longitude":34.75314,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438"
@@ -28,7 +31,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bud\u00ebnnovka"
     ],
     "qs_pg:aaroncc":"UA",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":275476,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125857433,
-    "wof:lastmodified":1509396323,
+    "wof:lastmodified":1566593958,
     "wof:name":"Partyzany",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

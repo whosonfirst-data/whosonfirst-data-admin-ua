@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":3080045.897775,
+    "geom:area_square_m":3080045.897772,
     "geom:bbox":"33.6727207087,46.0785858534,33.7052742974,46.1003646847",
     "geom:latitude":46.088789,
     "geom:longitude":33.686951,
     "iso:country":"UA",
     "lbl:latitude":46.087173,
     "lbl:longitude":33.686703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.087173,
     "mps:longitude":33.686703,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Suvorovo"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":7021000,
         "gp:id":915999,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"bdea4fa3259260fee158d840baa6861b",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101875357,
-    "wof:lastmodified":1530299593,
+    "wof:lastmodified":1566593204,
     "wof:name":"\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0435",
     "wof:parent_id":1108738667,
     "wof:placetype":"locality",

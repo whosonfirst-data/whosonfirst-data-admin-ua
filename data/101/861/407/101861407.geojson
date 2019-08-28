@@ -11,12 +11,16 @@
     "geom:longitude":25.414813,
     "gn:population":1809,
     "iso:country":"UA",
+    "lbl:bbox":"25.394813,48.787687,25.434813,48.827687",
     "lbl:latitude":48.807687,
     "lbl:longitude":25.414813,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.807687,
     "mps:longitude":25.414813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u043d\u044d\u043b\u044b\u0446\u044f"
     ],
@@ -47,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Czernelica"
-    ],
     "name:zho_x_preferred":[
         "\u5207\u723e\u6d85\u5229\u9f4a\u4e9e"
     ],
@@ -72,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":710755,
         "gp:id":920371,
-        "qs:id":1028623,
+        "qs_pg:id":1028623,
         "wd:id":"Q4513379"
     },
     "wof:country":"UA",
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":101861407,
-    "wof:lastmodified":1563302519,
+    "wof:lastmodified":1566593302,
     "wof:name":"\u0427\u0435\u0440\u043d\u0435\u043b\u0438\u0446\u044f",
     "wof:parent_id":102088137,
     "wof:placetype":"locality",

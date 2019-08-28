@@ -10,12 +10,16 @@
     "geom:latitude":45.604856,
     "geom:longitude":34.829547,
     "iso:country":"UA",
+    "lbl:bbox":"34.809547,45.584856,34.849547,45.624856",
     "lbl:latitude":45.604856,
     "lbl:longitude":34.829547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.604856,
     "mps:longitude":34.829547,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chkalovo"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":710430,
         "gp:id":921820,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"51fcabd6cf87caf0cbc36dc0a1278fa1",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101858743,
-    "wof:lastmodified":1544744558,
+    "wof:lastmodified":1566593495,
     "wof:name":"\u0427\u043a\u0430\u043b\u043e\u0432\u0435",
     "wof:parent_id":1108738641,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":49.369178,
     "geom:longitude":23.405647,
     "iso:country":"UA",
+    "lbl:bbox":"23.385647,49.349178,23.425647,49.389178",
     "lbl:latitude":49.369178,
     "lbl:longitude":23.405647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.369178,
     "mps:longitude":23.405647,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0423\u043d\u044f\u0442\u0438\u0447\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043d\u044f\u0442\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unyatyche"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":690676,
         "gp:id":919262,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"f530f5b50c07e26d0fa8d7014e108059",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101860087,
-    "wof:lastmodified":1544745255,
+    "wof:lastmodified":1566593467,
     "wof:name":"\u0423\u043d\u044f\u0442\u0438\u0447\u0456",
     "wof:parent_id":1108815671,
     "wof:placetype":"locality",

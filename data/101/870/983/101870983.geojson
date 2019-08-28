@@ -10,12 +10,16 @@
     "geom:latitude":49.601151,
     "geom:longitude":35.792129,
     "iso:country":"UA",
+    "lbl:bbox":"35.772129,49.581151,35.812129,49.621151",
     "lbl:latitude":49.601151,
     "lbl:longitude":35.792129,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.601151,
     "mps:longitude":35.792129,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karavan"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karavanskoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":706787,
         "gp:id":921870,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4083127"
     },
     "wof:country":"UA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101870983,
-    "wof:lastmodified":1563303095,
+    "wof:lastmodified":1566593553,
     "wof:name":"\u041a\u0430\u0440\u0430\u0432\u0430\u043d",
     "wof:parent_id":102088839,
     "wof:placetype":"locality",

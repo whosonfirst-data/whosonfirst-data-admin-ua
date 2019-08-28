@@ -11,12 +11,16 @@
     "geom:longitude":23.803128,
     "gn:population":1162,
     "iso:country":"UA",
+    "lbl:bbox":"23.783128,51.578248,23.823128,51.618248",
     "lbl:latitude":51.598248,
     "lbl:longitude":23.803128,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.598248,
     "mps:longitude":23.803128,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:pol_x_preferred":[
         "Piszcza"
     ],
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":697158,
         "gp:id":824382,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"17680dbc286fc6206317567c4e7fea66",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101864319,
-    "wof:lastmodified":1544747464,
+    "wof:lastmodified":1566593775,
     "wof:name":"\u041f\u0456\u0449\u0430",
     "wof:parent_id":102088779,
     "wof:placetype":"locality",

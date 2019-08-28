@@ -10,12 +10,16 @@
     "geom:latitude":48.662682,
     "geom:longitude":33.703407,
     "iso:country":"UA",
+    "lbl:bbox":"33.683407,48.642682,33.723407,48.682682",
     "lbl:latitude":48.662682,
     "lbl:longitude":33.703407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.662682,
     "mps:longitude":33.703407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Popel'naste"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0435\u043b\u044c\u043d\u0430\u0441\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Popel\u2019nastoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":696559,
         "gp:id":931437,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"647c962e0fa3ae5cd9bc6b1473516976",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101866871,
-    "wof:lastmodified":1544748850,
+    "wof:lastmodified":1566593276,
     "wof:name":"\u041f\u043e\u043f\u0435\u043b\u044c\u043d\u0430\u0441\u0442\u0435",
     "wof:parent_id":102088473,
     "wof:placetype":"locality",

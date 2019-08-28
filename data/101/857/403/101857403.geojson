@@ -10,12 +10,16 @@
     "geom:latitude":46.257459,
     "geom:longitude":34.683852,
     "iso:country":"UA",
+    "lbl:bbox":"34.663852,46.237459,34.703852,46.277459",
     "lbl:latitude":46.257459,
     "lbl:longitude":34.683852,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.257459,
     "mps:longitude":34.683852,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0429\u043e\u0440\u0441\u043e\u0432\u043a\u0430"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0429\u043e\u0440\u0441\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shchorsovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":7032306,
         "gp:id":933549,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"173ba32c698e4c1c176c841587e9ffdd",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101857403,
-    "wof:lastmodified":1544743876,
+    "wof:lastmodified":1566593396,
     "wof:name":"\u0429\u043e\u0440\u0441\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":44.752168,
     "geom:longitude":33.768321,
     "iso:country":"UA",
+    "lbl:bbox":"33.748321,44.732168,33.788321,44.772168",
     "lbl:latitude":44.752168,
     "lbl:longitude":33.768321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.752168,
     "mps:longitude":33.768321,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolinnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":709789,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"0fdfdeb76035d88f304d28f0349f7747",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101857053,
-    "wof:lastmodified":1544743698,
+    "wof:lastmodified":1566593387,
     "wof:name":"\u0414\u043e\u043b\u0438\u043d\u043d\u0435",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

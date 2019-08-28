@@ -11,12 +11,16 @@
     "geom:longitude":23.621202,
     "gn:population":4623,
     "iso:country":"UA",
+    "lbl:bbox":"23.601202,48.476238,23.641202,48.516238",
     "lbl:latitude":48.496238,
     "lbl:longitude":23.621202,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.496238,
     "mps:longitude":23.621202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Sinevir"
     ],
@@ -92,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0435\u0432\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siniyvir"
     ],
     "name:zho_x_preferred":[
@@ -120,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":477,
     "wof:belongsto":[
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":693791,
         "gp:id":936939,
-        "qs:id":1028427,
+        "qs_pg:id":1028427,
         "wd:id":"Q602315"
     },
     "wof:country":"UA",
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":101859781,
-    "wof:lastmodified":1563302383,
+    "wof:lastmodified":1566593243,
     "wof:name":"\u0421\u0438\u043d\u0435\u0432\u0438\u0440",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

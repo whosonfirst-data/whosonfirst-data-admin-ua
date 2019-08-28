@@ -10,12 +10,16 @@
     "geom:latitude":47.589427,
     "geom:longitude":34.010942,
     "iso:country":"UA",
+    "lbl:bbox":"33.990942,47.569427,34.030942,47.609427",
     "lbl:latitude":47.589427,
     "lbl:longitude":34.010942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.589427,
     "mps:longitude":34.010942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Leninske"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grushevskiy Kut"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":703227,
         "gp:id":925117,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4258454"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101865169,
-    "wof:lastmodified":1561776986,
+    "wof:lastmodified":1566593718,
     "wof:name":"\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088271,
     "wof:placetype":"locality",

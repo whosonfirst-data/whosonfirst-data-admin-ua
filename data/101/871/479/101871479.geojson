@@ -10,12 +10,16 @@
     "geom:latitude":51.102543,
     "geom:longitude":32.429349,
     "iso:country":"UA",
+    "lbl:bbox":"32.409349,51.082543,32.449349,51.122543",
     "lbl:latitude":51.102543,
     "lbl:longitude":32.429349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.102543,
     "mps:longitude":32.429349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u043b\u044b\u0441\u043a\u044b"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_variant":[
         "Plysky"
     ],
-    "name:unk_x_variant":[
-        "Pliski"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u5229\u65af\u57fa"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":697084,
         "gp:id":930961,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4365106",
         "wk:page":"Plysky"
     },
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":101871479,
-    "wof:lastmodified":1563303255,
+    "wof:lastmodified":1566593634,
     "wof:name":"\u041f\u043b\u0438\u0441\u043a\u0438",
     "wof:parent_id":102088977,
     "wof:placetype":"locality",

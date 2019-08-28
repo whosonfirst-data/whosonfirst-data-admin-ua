@@ -10,12 +10,16 @@
     "geom:latitude":50.746418,
     "geom:longitude":32.026605,
     "iso:country":"UA",
+    "lbl:bbox":"32.006605,50.726418,32.046605,50.766418",
     "lbl:latitude":50.746418,
     "lbl:longitude":32.026605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.746418,
     "mps:longitude":32.026605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Galitsa"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0413\u0430\u043b\u0438\u0446\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Galitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":709025,
         "gp:id":920954,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"615e67972fa7493988a6f5036a4f29db",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870353,
-    "wof:lastmodified":1544750641,
+    "wof:lastmodified":1566593543,
     "wof:name":"\u0413\u0430\u043b\u0438\u0446\u044f",
     "wof:parent_id":1108815725,
     "wof:placetype":"locality",

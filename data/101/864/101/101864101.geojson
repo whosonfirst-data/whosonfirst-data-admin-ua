@@ -11,12 +11,16 @@
     "geom:longitude":26.657144,
     "gn:population":33063,
     "iso:country":"UA",
+    "lbl:bbox":"26.637144,50.319245,26.677144,50.359245",
     "lbl:latitude":50.339245,
     "lbl:longitude":26.657144,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.339245,
     "mps:longitude":26.657144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0646\u062a\u06cc\u0634\u06cc\u0646"
     ],
@@ -113,7 +117,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0442\u0456\u0448\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Solov\u2019ye Goryn\u2019"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +146,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":118,
     "wof:belongsto":[
@@ -156,7 +160,6 @@
     "wof:concordances":{
         "gn:id":700261,
         "gp:id":927870,
-        "qs:id":1028510,
         "qs_pg:id":1028510,
         "wd:id":"Q997371",
         "wk:page":"Netishyn"
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101864101,
-    "wof:lastmodified":1563303563,
+    "wof:lastmodified":1566593766,
     "wof:name":"\u041d\u0435\u0442\u0456\u0448\u0438\u043d",
     "wof:parent_id":1175613731,
     "wof:placetype":"locality",

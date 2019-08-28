@@ -9,15 +9,18 @@
     "geom:bbox":"30.25976,47.83716,30.25976,47.83716",
     "geom:latitude":47.83716,
     "geom:longitude":30.25976,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9426,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":9426,
     "iso:country":"UA",
+    "lbl:bbox":"30.23976,47.81716,30.27976,47.85716",
     "lbl:latitude":47.83716,
     "lbl:longitude":30.25976,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0448\u044b\u045e\u043a\u0430"
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyubash\u00ebvka"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":128536,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125864447,
-    "wof:lastmodified":1563303819,
+    "wof:lastmodified":1566593904,
     "wof:name":"Lyubashivka",
     "wof:parent_id":102088121,
     "wof:placetype":"locality",

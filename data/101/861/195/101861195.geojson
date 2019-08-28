@@ -10,12 +10,16 @@
     "geom:latitude":49.489089,
     "geom:longitude":22.965184,
     "iso:country":"UA",
+    "lbl:bbox":"22.945184,49.469089,22.985184,49.509089",
     "lbl:latitude":49.489089,
     "lbl:longitude":22.965184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.489089,
     "mps:longitude":22.965184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0421\u0456\u043b\u044c"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0440\u0430 \u0421\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stara Sul\u2019"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":692865,
         "gp:id":935008,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1019877"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101861195,
-    "wof:lastmodified":1563302491,
+    "wof:lastmodified":1566593291,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0421\u0456\u043b\u044c",
     "wof:parent_id":102088273,
     "wof:placetype":"locality",

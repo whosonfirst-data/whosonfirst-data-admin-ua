@@ -10,12 +10,16 @@
     "geom:latitude":51.505655,
     "geom:longitude":24.292383,
     "iso:country":"UA",
+    "lbl:bbox":"24.272383,51.485655,24.312383,51.525655",
     "lbl:latitude":51.505655,
     "lbl:longitude":24.292383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.505655,
     "mps:longitude":24.292383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u043c\u043d\u044d"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0440\u0438\u043c\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Krymno"
-    ],
     "name:zho_x_preferred":[
         "\u514b\u91cc\u59c6\u6d85"
     ],
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":703873,
         "gp:id":934882,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q963681"
     },
     "wof:country":"UA",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":101864337,
-    "wof:lastmodified":1563303522,
+    "wof:lastmodified":1566593750,
     "wof:name":"\u041a\u0440\u0438\u043c\u043d\u0435",
     "wof:parent_id":102088789,
     "wof:placetype":"locality",

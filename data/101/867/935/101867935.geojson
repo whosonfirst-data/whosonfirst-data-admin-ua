@@ -10,20 +10,21 @@
     "geom:latitude":49.488169,
     "geom:longitude":30.824536,
     "iso:country":"UA",
+    "lbl:bbox":"30.804536,49.468169,30.844536,49.508169",
     "lbl:latitude":49.488169,
     "lbl:longitude":30.824536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.488169,
     "mps:longitude":30.824536,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Isayki"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u0430\u0439\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Isayki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":707548,
         "gp:id":12518392,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"69b83352ee0fb8637181d98ff89217ff",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101867935,
-    "wof:lastmodified":1544749453,
+    "wof:lastmodified":1566593521,
     "wof:name":"\u0406\u0441\u0430\u0439\u043a\u0438",
     "wof:parent_id":102088563,
     "wof:placetype":"locality",

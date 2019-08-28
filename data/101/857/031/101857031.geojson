@@ -10,12 +10,16 @@
     "geom:latitude":44.579542,
     "geom:longitude":33.747691,
     "iso:country":"UA",
+    "lbl:bbox":"33.727691,44.559542,33.767691,44.599542",
     "lbl:latitude":44.579542,
     "lbl:longitude":33.747691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.579542,
     "mps:longitude":33.747691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ternovka"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":89,
     "wof:belongsto":[
         85688855,
@@ -70,7 +74,7 @@
         "fct:id":"082856f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":691634,
         "gp:id":935995,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"deb1b21d3113b3a17f859a3f673c0502",
@@ -97,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743687,
+    "wof:lastmodified":1566593387,
     "wof:name":"\u0422\u0435\u0440\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738657,
     "wof:placetype":"locality",

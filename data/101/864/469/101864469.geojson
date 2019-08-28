@@ -10,12 +10,16 @@
     "geom:latitude":51.338573,
     "geom:longitude":25.856318,
     "iso:country":"UA",
+    "lbl:bbox":"25.836318,51.318573,25.876318,51.358573",
     "lbl:latitude":51.338573,
     "lbl:longitude":25.856318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.338573,
     "mps:longitude":25.856318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0627\u0634"
     ],
@@ -116,9 +120,6 @@
         "Kuznetsovs\u2019k",
         "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Kuznetsovsk"
-    ],
     "name:vie_x_preferred":[
         "Varash"
     ],
@@ -144,7 +145,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":286,
     "wof:belongsto":[
         102191581,
@@ -156,7 +157,7 @@
     "wof:concordances":{
         "gn:id":8341919,
         "gp:id":56122716,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q997541",
         "wk:page":"Varash"
     },
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":101864469,
-    "wof:lastmodified":1563303576,
+    "wof:lastmodified":1566593770,
     "wof:name":"\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":1108730675,
     "wof:placetype":"locality",

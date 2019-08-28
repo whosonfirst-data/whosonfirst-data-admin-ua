@@ -10,12 +10,16 @@
     "geom:latitude":48.139314,
     "geom:longitude":23.587747,
     "iso:country":"UA",
+    "lbl:bbox":"23.567747,48.119314,23.607747,48.159314",
     "lbl:latitude":48.139314,
     "lbl:longitude":23.587747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.139314,
     "mps:longitude":23.587747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dulovo"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0443\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dulove"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         102191581,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101859573,
-    "wof:lastmodified":1563302338,
+    "wof:lastmodified":1566593229,
     "wof:name":"\u0414\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

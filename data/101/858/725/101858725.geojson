@@ -10,12 +10,16 @@
     "geom:latitude":45.448954,
     "geom:longitude":34.602825,
     "iso:country":"UA",
+    "lbl:bbox":"34.582825,45.428954,34.622825,45.468954",
     "lbl:latitude":45.448954,
     "lbl:longitude":34.602825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.448954,
     "mps:longitude":34.602825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novogrigoryevka"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":699583,
         "gp:id":933992,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"ed4c865b91d3af00e60af751ba699c10",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101858725,
-    "wof:lastmodified":1544744549,
+    "wof:lastmodified":1566593486,
     "wof:name":"\u041d\u043e\u0432\u043e\u0433\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738641,
     "wof:placetype":"locality",

@@ -10,16 +10,20 @@
     "geom:latitude":48.076819,
     "geom:longitude":23.706465,
     "iso:country":"UA",
+    "lbl:bbox":"23.686465,48.056819,23.726465,48.096819",
     "lbl:latitude":48.076819,
     "lbl:longitude":23.706465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.076819,
     "mps:longitude":23.706465,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u044f\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u2019yagova"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":709855,
         "gp:id":935957,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"7995a378631d183de1582abbb9e7dd57",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101859555,
-    "wof:lastmodified":1544744973,
+    "wof:lastmodified":1566593230,
     "wof:name":"\u0414\u043e\u0431\u0440\u044f\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

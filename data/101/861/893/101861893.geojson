@@ -10,13 +10,17 @@
     "geom:latitude":49.190916,
     "geom:longitude":25.799979,
     "iso:country":"UA",
+    "lbl:bbox":"25.779979,49.170916,25.819979,49.210916",
     "lbl:latitude":49.190916,
     "lbl:longitude":25.799979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.190916,
     "mps:longitude":25.799979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kobylovoloki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":687074,
         "gp:id":922330,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"a3edce1c9ec63a20404acd6d6d67a0f1",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861893,
-    "wof:lastmodified":1544746201,
+    "wof:lastmodified":1566593303,
     "wof:name":"\u041a\u043e\u0431\u0438\u043b\u043e\u0432\u043e\u043b\u043e\u043a\u0438",
     "wof:parent_id":102088293,
     "wof:placetype":"locality",

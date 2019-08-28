@@ -10,12 +10,16 @@
     "geom:latitude":48.570681,
     "geom:longitude":25.97287,
     "iso:country":"UA",
+    "lbl:bbox":"25.95287,48.550681,25.99287,48.590681",
     "lbl:latitude":48.570681,
     "lbl:longitude":25.97287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.570681,
     "mps:longitude":25.97287,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vikno"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Okno"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u514b\u8afe"
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":689625,
         "gp:id":939306,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4332588"
     },
     "wof:country":"UA",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":101860701,
-    "wof:lastmodified":1563302854,
+    "wof:lastmodified":1566593449,
     "wof:name":"\u0412\u0456\u043a\u043d\u043e",
     "wof:parent_id":102088111,
     "wof:placetype":"locality",

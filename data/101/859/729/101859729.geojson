@@ -10,12 +10,16 @@
     "geom:latitude":48.480222,
     "geom:longitude":23.217723,
     "iso:country":"UA",
+    "lbl:bbox":"23.197723,48.460222,23.237723,48.500222",
     "lbl:latitude":48.480222,
     "lbl:longitude":23.217723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.480222,
     "mps:longitude":23.217723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kerezky"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u0435\u0446\u044c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keretski"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":706517,
         "gp:id":936939,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q727130"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101859729,
-    "wof:lastmodified":1563302394,
+    "wof:lastmodified":1566593247,
     "wof:name":"\u041a\u0435\u0440\u0435\u0446\u044c\u043a\u0438",
     "wof:parent_id":102088061,
     "wof:placetype":"locality",

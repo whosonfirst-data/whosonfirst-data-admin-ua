@@ -10,12 +10,16 @@
     "geom:latitude":51.307044,
     "geom:longitude":28.78831,
     "iso:country":"UA",
+    "lbl:bbox":"28.76831,51.287044,28.80831,51.327044",
     "lbl:latitude":51.307044,
     "lbl:longitude":28.78831,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.307044,
     "mps:longitude":28.78831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zarzecze"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u0440\u0456\u0447\u0447\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shvaby"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":693851,
         "gp:id":939695,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"48d05aa411494308cc83a51861e951f2",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101871193,
-    "wof:lastmodified":1544750991,
+    "wof:lastmodified":1566593629,
     "wof:name":"\u0417\u0430\u0440\u0456\u0447\u0447\u044f",
     "wof:parent_id":102088925,
     "wof:placetype":"locality",

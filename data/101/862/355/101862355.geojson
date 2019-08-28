@@ -10,12 +10,16 @@
     "geom:latitude":49.65001,
     "geom:longitude":26.873306,
     "iso:country":"UA",
+    "lbl:bbox":"26.853306,49.63001,26.893306,49.67001",
     "lbl:latitude":49.65001,
     "lbl:longitude":26.873306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.65001,
     "mps:longitude":26.873306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Chepel\u00ebvka"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":710854,
         "gp:id":923987,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"890ce0d5d6c60545049b2089f4e586e1",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101862355,
-    "wof:lastmodified":1544746442,
+    "wof:lastmodified":1566593672,
     "wof:name":"\u0427\u0435\u043f\u0435\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088455,
     "wof:placetype":"locality",

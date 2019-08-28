@@ -10,12 +10,16 @@
     "geom:latitude":49.716928,
     "geom:longitude":37.608348,
     "iso:country":"UA",
+    "lbl:bbox":"37.588348,49.696928,37.628348,49.736928",
     "lbl:latitude":49.716928,
     "lbl:longitude":37.608348,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.716928,
     "mps:longitude":37.608348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u064a\u0627\u0646\u0633\u0643"
     ],
@@ -125,9 +129,6 @@
         "\u041a\u0443\u043f\u2019\u044f\u043d\u0441\u044c\u043a",
         "\u041a\u0443\u043f\u044f\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Kupjansk"
-    ],
     "name:vie_x_preferred":[
         "Kupiansk"
     ],
@@ -154,7 +155,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":156,
     "wof:belongsto":[
         102191581,
@@ -166,9 +167,11 @@
     "wof:concordances":{
         "gn:id":703656,
         "gp:id":924755,
-        "qs:id":5,
-        "qs_pg:id":128579,
+        "qs_pg:id":5,
         "wd:id":"Q889555"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":128579
     },
     "wof:country":"UA",
     "wof:geomhash":"d5cbc011fb57df81b639857c6ae4a3ff",
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101871679,
-    "wof:lastmodified":1563303305,
+    "wof:lastmodified":1566593655,
     "wof:name":"\u041a\u0443\u043f'\u044f\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108730661,
     "wof:placetype":"locality",

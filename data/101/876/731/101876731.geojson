@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.458412,
     "lbl:longitude":24.067628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.458412,
     "mps:longitude":24.067628,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u06cc\u06cc \u0631\u0648\u0632\u062f\u06cc\u0644"
     ],
@@ -87,7 +90,7 @@
         "\u0420\u043e\u0437\u0434\u0456\u043b",
         "\u041d\u043e\u0432\u0438\u0439 \u0420\u043e\u0437\u0434\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Razdol"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -124,7 +127,7 @@
     "wof:concordances":{
         "gn:id":695342,
         "gp:id":929236,
-        "qs:id":56360,
+        "qs_pg:id":56360,
         "wd:id":"Q156809"
     },
     "wof:country":"UA",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101876731,
-    "wof:lastmodified":1563303153,
+    "wof:lastmodified":1566593581,
     "wof:name":"\u0420\u043e\u0437\u0434\u0456\u043b",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

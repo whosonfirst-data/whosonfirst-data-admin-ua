@@ -9,15 +9,18 @@
     "geom:bbox":"29.78938,47.16302,29.78938,47.16302",
     "geom:latitude":47.16302,
     "geom:longitude":29.78938,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3183,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3183,
     "iso:country":"UA",
+    "lbl:bbox":"29.76938,47.14302,29.80938,47.18302",
     "lbl:latitude":47.16302,
     "lbl:longitude":29.78938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041a\u0443\u0447\u0443\u0440\u0433\u0430\u043d"
@@ -28,7 +31,7 @@
     "name:ukr_x_variant":[
         "Kuchurhan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuchurgan"
     ],
     "qs_pg:aaroncc":"UA",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424885,
     "qs_pg:woe_id":480810,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424885,
     "woe:name_adm0":"Moldova",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125773553,
-    "wof:lastmodified":1509391132,
+    "wof:lastmodified":1566593966,
     "wof:name":"Kucurhan",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",

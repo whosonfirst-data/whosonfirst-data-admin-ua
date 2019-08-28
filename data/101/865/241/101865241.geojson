@@ -10,12 +10,16 @@
     "geom:latitude":47.658226,
     "geom:longitude":35.098359,
     "iso:country":"UA",
+    "lbl:bbox":"35.078359,47.638226,35.118359,47.678226",
     "lbl:latitude":47.658226,
     "lbl:longitude":35.098359,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.658226,
     "mps:longitude":35.098359,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
     "qs:a1_alt":"Zaporiz'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":916481,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"e2d892f7ae261a87a909dcd7689ac258",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101865241,
-    "wof:lastmodified":1544747943,
+    "wof:lastmodified":1566593732,
     "wof:name":"\u041b\u0438\u0441\u043e\u0433\u0456\u0440\u043a\u0430",
     "wof:parent_id":1108815653,
     "wof:placetype":"locality",

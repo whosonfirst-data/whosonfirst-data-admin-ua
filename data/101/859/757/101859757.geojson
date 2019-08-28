@@ -11,12 +11,16 @@
     "geom:longitude":22.462038,
     "gn:population":7000,
     "iso:country":"UA",
+    "lbl:bbox":"22.442038,48.71406,22.482038,48.75406",
     "lbl:latitude":48.73406,
     "lbl:longitude":22.462038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.73406,
     "mps:longitude":22.462038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0634\u064a\u0646"
     ],
@@ -107,7 +111,7 @@
     "name:ukr_x_variant":[
         "Perechyn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pere\u010din"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +141,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":461,
     "wof:belongsto":[
@@ -150,7 +154,6 @@
     "wof:concordances":{
         "gn:id":697750,
         "gp:id":930333,
-        "qs:id":1028480,
         "qs_pg:id":1028480,
         "wd:id":"Q146542",
         "wk:page":"Perechyn"
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101859757,
-    "wof:lastmodified":1563302353,
+    "wof:lastmodified":1566593233,
     "wof:name":"\u041f\u0435\u0440\u0435\u0447\u0438\u043d",
     "wof:parent_id":102088067,
     "wof:placetype":"locality",

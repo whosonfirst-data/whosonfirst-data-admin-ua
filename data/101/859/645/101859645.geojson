@@ -10,12 +10,16 @@
     "geom:latitude":48.505675,
     "geom:longitude":22.230294,
     "iso:country":"UA",
+    "lbl:bbox":"22.210294,48.485675,22.250294,48.525675",
     "lbl:latitude":48.505675,
     "lbl:longitude":22.230294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.505675,
     "mps:longitude":22.230294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sjurte"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u044e\u0440\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Siurte"
-    ],
     "name:zho_x_preferred":[
         "\u4f11\u723e\u6377"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":692388,
         "gp:id":936939,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q831393"
     },
     "wof:country":"UA",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":101859645,
-    "wof:lastmodified":1561776906,
+    "wof:lastmodified":1566593216,
     "wof:name":"\u0421\u044e\u0440\u0442\u0435",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

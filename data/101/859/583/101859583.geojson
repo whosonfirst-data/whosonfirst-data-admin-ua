@@ -10,12 +10,16 @@
     "geom:latitude":48.161797,
     "geom:longitude":23.755954,
     "iso:country":"UA",
+    "lbl:bbox":"23.735954,48.141797,23.775954,48.181797",
     "lbl:latitude":48.161797,
     "lbl:longitude":23.755954,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.161797,
     "mps:longitude":23.755954,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0441\u044d\u043b\u044b\u0446\u044f"
     ],
@@ -82,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vizhnya Novoselitsa"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":101859583,
-    "wof:lastmodified":1563302392,
+    "wof:lastmodified":1566593246,
     "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

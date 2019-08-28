@@ -10,13 +10,17 @@
     "geom:latitude":48.441665,
     "geom:longitude":25.282848,
     "iso:country":"UA",
+    "lbl:bbox":"25.262848,48.421665,25.302848,48.461665",
     "lbl:latitude":48.441665,
     "lbl:longitude":25.282848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.441665,
     "mps:longitude":25.282848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ilintsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":707696,
         "gp:id":939364,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"2684c00b917638f8f1cf02e9d120b09a",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101859845,
-    "wof:lastmodified":1544745127,
+    "wof:lastmodified":1566593215,
     "wof:name":"\u0406\u043b\u043b\u0456\u043d\u0446\u0456",
     "wof:parent_id":102088087,
     "wof:placetype":"locality",

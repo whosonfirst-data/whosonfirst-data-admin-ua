@@ -9,14 +9,18 @@
     "geom:bbox":"35.058783,45.109604,35.058783,45.109604",
     "geom:latitude":45.109604,
     "geom:longitude":35.058783,
-    "geonames:id":"692321,696239",
+    "gn:id":"692321,696239",
     "iso:country":"UA",
+    "lbl:bbox":"35.038783,45.089604,35.078783,45.129604",
     "lbl:latitude":45.109604,
     "lbl:longitude":35.058783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.109604,
     "mps:longitude":35.058783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
     "qs:a1_alt":"Krym",
@@ -36,7 +40,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         85688855,
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":934996,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"a9541f539106ece8b396f76cadde696a",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101857263,
-    "wof:lastmodified":1544743804,
+    "wof:lastmodified":1566593396,
     "wof:name":"\u041f\u0440\u0438\u0432\u0456\u0442\u043d\u0435",
     "wof:parent_id":1108738551,
     "wof:placetype":"locality",

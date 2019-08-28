@@ -11,12 +11,16 @@
     "geom:longitude":33.034462,
     "gn:population":4052,
     "iso:country":"UA",
+    "lbl:bbox":"33.014462,45.286312,33.054462,45.326312",
     "lbl:latitude":45.306312,
     "lbl:longitude":33.034462,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.306312,
     "mps:longitude":33.034462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Myrnyy"
     ],
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":186,
     "wof:belongsto":[
@@ -101,7 +105,6 @@
         "fct:id":"082779d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":701057,
         "gp:id":927151,
-        "qs:id":492553,
         "qs_pg:id":492553,
         "wd:id":"Q821951",
         "wk:page":"Myrnyi"
@@ -131,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302943,
+    "wof:lastmodified":1566593486,
     "wof:name":"\u041c\u0438\u0440\u043d\u0438\u0439",
     "wof:parent_id":1108738675,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":37.434213,
     "gn:population":3217,
     "iso:country":"UA",
+    "lbl:bbox":"37.414213,49.151055,37.454213,49.191055",
     "lbl:latitude":49.171055,
     "lbl:longitude":37.434213,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.171055,
     "mps:longitude":37.434213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chervonyy Oskol"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_preferred":[
         "Chervonyy Oskil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasny Oskol"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":710514,
         "gp:id":921166,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"8b87c522213a27396f7e77e47efd3d0a",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101869057,
-    "wof:lastmodified":1544750084,
+    "wof:lastmodified":1566593437,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u041e\u0441\u043a\u0456\u043b",
     "wof:parent_id":102088847,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":36.818632,
     "gn:population":4477,
     "iso:country":"UA",
+    "lbl:bbox":"36.798632,46.896395,36.838632,46.936395",
     "lbl:latitude":46.916395,
     "lbl:longitude":36.818632,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.916395,
     "mps:longitude":36.818632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0441\u044b\u043f\u044d\u043d\u043a\u0430"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0438\u043f\u0435\u043d\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novospasskoye"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":305,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":698316,
         "gp:id":929791,
-        "qs:id":128391,
+        "qs_pg:id":128391,
         "wd:id":"Q4337834"
     },
     "wof:country":"UA",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101866975,
-    "wof:lastmodified":1563302486,
+    "wof:lastmodified":1566593288,
     "wof:name":"\u041e\u0441\u0438\u043f\u0435\u043d\u043a\u043e",
     "wof:parent_id":1108815641,
     "wof:placetype":"locality",

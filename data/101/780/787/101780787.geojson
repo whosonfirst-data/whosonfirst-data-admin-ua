@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.193925,
     "lbl:longitude":26.361442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.193925,
     "mps:longitude":26.361442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tarassiwzi"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101780787,
-    "wof:lastmodified":1561776995,
+    "wof:lastmodified":1566593780,
     "wof:name":"\u0422\u0430\u0440\u0430\u0441\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088077,
     "wof:placetype":"locality",

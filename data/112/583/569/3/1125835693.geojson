@@ -9,15 +9,18 @@
     "geom:bbox":"30.95904,52.04848,30.95904,52.04848",
     "geom:latitude":52.04848,
     "geom:longitude":30.95904,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":131,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":131,
     "iso:country":"UA",
+    "lbl:bbox":"30.93904,52.02848,30.97904,52.06848",
     "lbl:latitude":52.04848,
     "lbl:longitude":30.95904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u042f\u0440\u044b\u043b\u0430\u0432\u044b\u0447\u044b"
@@ -40,9 +43,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0456 \u042f\u0440\u0438\u043b\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
-        "Stari Yarylovychi"
-    ],
     "name:zho_x_preferred":[
         "\u820a\u4e9e\u91cc\u6d1b\u7dad\u5947"
     ],
@@ -58,7 +58,7 @@
     "qs_pg:qs_id":82771,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125835693,
-    "wof:lastmodified":1563304022,
+    "wof:lastmodified":1566593977,
     "wof:name":"Staryye Yarylovichi",
     "wof:parent_id":102088999,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":51.753483,
     "geom:longitude":24.671376,
     "iso:country":"UA",
+    "lbl:bbox":"24.651376,51.733483,24.691376,51.773483",
     "lbl:latitude":51.753483,
     "lbl:longitude":24.671376,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.753483,
     "mps:longitude":24.671376,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Richytsya"
     ],
     "name:ukr_x_variant":[
         "\u0420\u0456\u0447\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhechitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":695703,
         "gp:id":932151,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"a2d57a2a1a77f184ee3cd7a7fd3eea1f",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864507,
-    "wof:lastmodified":1544747563,
+    "wof:lastmodified":1566593764,
     "wof:name":"\u0420\u0456\u0447\u0438\u0446\u044f",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

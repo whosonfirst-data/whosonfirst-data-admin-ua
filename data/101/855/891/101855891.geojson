@@ -9,14 +9,18 @@
     "geom:bbox":"34.004055,44.959289,34.004055,44.959289",
     "geom:latitude":44.959289,
     "geom:longitude":34.004055,
-    "geonames:id":"699016,711285",
+    "gn:id":"699016,711285",
     "iso:country":"UA",
+    "lbl:bbox":"33.984055,44.939289,34.024055,44.979289",
     "lbl:latitude":44.959289,
     "lbl:longitude":34.004055,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.959289,
     "mps:longitude":34.004055,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Verwaltungsgliederung der Republik Dagestan"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":650,
     "wof:belongsto":[
         85688855,
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":933992,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q604885"
     },
     "wof:country":"UA",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101855891,
-    "wof:lastmodified":1544743124,
+    "wof:lastmodified":1566593746,
     "wof:name":"\u0414\u0443\u0431\u043a\u0438",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

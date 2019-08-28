@@ -10,12 +10,16 @@
     "geom:latitude":50.007307,
     "geom:longitude":37.68793,
     "iso:country":"UA",
+    "lbl:bbox":"37.66793,49.987307,37.70793,50.027307",
     "lbl:latitude":50.007307,
     "lbl:longitude":37.68793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.007307,
     "mps:longitude":37.68793,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolodeznoye"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0434\u044f\u0437\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolodyazhnoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":705424,
         "gp:id":2056208,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"1c5f1b1fce4e5b94ff51d9f1df4e451e",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101871425,
-    "wof:lastmodified":1544751095,
+    "wof:lastmodified":1566593632,
     "wof:name":"\u041a\u043e\u043b\u043e\u0434\u044f\u0437\u043d\u0435",
     "wof:parent_id":102088957,
     "wof:placetype":"locality",

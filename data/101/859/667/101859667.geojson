@@ -11,12 +11,16 @@
     "geom:longitude":25.344897,
     "gn:population":3748,
     "iso:country":"UA",
+    "lbl:bbox":"25.324897,48.333335,25.364897,48.373335",
     "lbl:latitude":48.353335,
     "lbl:longitude":25.344897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.353335,
     "mps:longitude":25.344897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u0644\u064a\u0641-\u0628\u064a\u062f\u0647\u064a\u0631\u0646\u064a\u064a"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u043d\u0438\u043b\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Russkiy Banilov"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":712871,
         "gp:id":932578,
-        "qs:id":275606,
+        "qs_pg:id":275606,
         "wd:id":"Q2576268"
     },
     "wof:country":"UA",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101859667,
-    "wof:lastmodified":1563302316,
+    "wof:lastmodified":1566593220,
     "wof:name":"\u0411\u0430\u043d\u0438\u043b\u0456\u0432",
     "wof:parent_id":102088051,
     "wof:placetype":"locality",

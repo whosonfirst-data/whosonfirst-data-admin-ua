@@ -11,12 +11,16 @@
     "geom:longitude":24.010274,
     "gn:population":2386,
     "iso:country":"UA",
+    "lbl:bbox":"23.990274,50.362477,24.030274,50.402477",
     "lbl:latitude":50.382477,
     "lbl:longitude":24.010274,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.382477,
     "mps:longitude":24.010274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0632"
     ],
@@ -113,7 +117,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bele"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +149,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -157,7 +161,6 @@
     "wof:concordances":{
         "gn:id":712471,
         "gp:id":916627,
-        "qs:id":1283139,
         "qs_pg:id":1283139,
         "wd:id":"Q156565",
         "wk:page":"Belz"
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101864037,
-    "wof:lastmodified":1563303545,
+    "wof:lastmodified":1566593758,
     "wof:name":"\u0411\u0435\u043b\u0437",
     "wof:parent_id":102088549,
     "wof:placetype":"locality",

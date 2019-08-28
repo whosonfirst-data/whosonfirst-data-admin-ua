@@ -10,12 +10,16 @@
     "geom:latitude":49.351557,
     "geom:longitude":38.935645,
     "iso:country":"UA",
+    "lbl:bbox":"38.915645,49.331557,38.955645,49.371557",
     "lbl:latitude":49.351557,
     "lbl:longitude":38.935645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.351557,
     "mps:longitude":38.935645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lyman"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041b\u0438\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Liman"
-    ],
     "name:zho_x_preferred":[
         "\u5229\u66fc"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":314,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":703072,
         "gp:id":924832,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4261670"
     },
     "wof:country":"UA",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101869143,
-    "wof:lastmodified":1563302789,
+    "wof:lastmodified":1566593420,
     "wof:name":"\u041b\u0438\u043c\u0430\u043d",
     "wof:parent_id":102088911,
     "wof:placetype":"locality",

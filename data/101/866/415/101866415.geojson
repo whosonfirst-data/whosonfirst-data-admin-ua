@@ -11,12 +11,16 @@
     "geom:longitude":33.918379,
     "gn:population":6847,
     "iso:country":"UA",
+    "lbl:bbox":"33.898379,47.476094,33.938379,47.516094",
     "lbl:latitude":47.496094,
     "lbl:longitude":33.918379,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.496094,
     "mps:longitude":33.918379,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Vorontsovka"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":699034,
         "gp:id":926397,
-        "qs:id":275483,
+        "qs_pg:id":275483,
         "wd:id":"Q2010524"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101866415,
-    "wof:lastmodified":1563302418,
+    "wof:lastmodified":1566593258,
     "wof:name":"\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430",
     "wof:parent_id":102088189,
     "wof:placetype":"locality",

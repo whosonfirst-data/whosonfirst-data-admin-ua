@@ -9,15 +9,18 @@
     "geom:bbox":"38.67222,48.511,38.67222,48.511",
     "geom:latitude":48.511,
     "geom:longitude":38.67222,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":51921,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":51921,
     "iso:country":"UA",
+    "lbl:bbox":"38.65222,48.491,38.69222,48.531",
     "lbl:latitude":48.511,
     "lbl:longitude":38.67222,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0627\u0646\u0643\u0627"
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bryanskiy"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +150,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":917656,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1126033321,
-    "wof:lastmodified":1563303799,
+    "wof:lastmodified":1566593897,
     "wof:name":"Bryanka",
     "wof:parent_id":1108730807,
     "wof:placetype":"locality",

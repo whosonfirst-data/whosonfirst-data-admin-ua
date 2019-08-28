@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"34.17927,51.38563,34.21927,51.42563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bruski"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0411\u0440\u0443\u0441\u043a\u0438"
-    ],
-    "name:und_x_variant":[
-        "Bruski"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1310062175,
-    "wof:lastmodified":1537711303,
+    "wof:lastmodified":1566592989,
     "wof:name":"Brusky",
     "wof:parent_id":102089001,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.914003,
     "geom:longitude":36.294411,
     "iso:country":"UA",
+    "lbl:bbox":"36.274411,49.894003,36.314411,49.934003",
     "lbl:latitude":49.914003,
     "lbl:longitude":36.294411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.914003,
     "mps:longitude":36.294411,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Stepan Kozhumyaka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1017,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12518282,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q7608049"
     },
     "wof:country":"UA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101871355,
-    "wof:lastmodified":1563303244,
+    "wof:lastmodified":1566593629,
     "wof:name":"\u041a\u043e\u043c\u0443\u043d\u0430\u0440",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

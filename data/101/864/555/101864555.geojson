@@ -10,12 +10,16 @@
     "geom:latitude":51.300834,
     "geom:longitude":27.751346,
     "iso:country":"UA",
+    "lbl:bbox":"27.731346,51.280834,27.771346,51.320834",
     "lbl:latitude":51.300834,
     "lbl:longitude":27.751346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.300834,
     "mps:longitude":27.751346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u0448\u0447\u0430\u043d\u044b"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0449\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sushany"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":692167,
         "gp:id":929607,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4447551"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101864555,
-    "wof:lastmodified":1563303558,
+    "wof:lastmodified":1566593763,
     "wof:name":"\u0421\u0443\u0449\u0430\u043d\u0438",
     "wof:parent_id":102088885,
     "wof:placetype":"locality",

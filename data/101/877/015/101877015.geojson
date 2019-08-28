@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.633109,
     "lbl:longitude":38.575966,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.633109,
     "mps:longitude":38.575966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0641\u0648\u0645\u064a\u0633\u0643"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_variant":[
         "Pervomays\u2019k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pervomaika"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":765,
     "wof:belongsto":[
@@ -162,7 +165,6 @@
     "wof:concordances":{
         "gn:id":697592,
         "gp:id":930485,
-        "qs:id":128366,
         "qs_pg:id":128366,
         "wd:id":"Q1844446",
         "wk:page":"Pervomaisk, Luhansk Oblast"
@@ -179,7 +181,7 @@
         }
     ],
     "wof:id":101877015,
-    "wof:lastmodified":1563303133,
+    "wof:lastmodified":1566593568,
     "wof:name":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a",
     "wof:parent_id":1108730795,
     "wof:placetype":"locality",

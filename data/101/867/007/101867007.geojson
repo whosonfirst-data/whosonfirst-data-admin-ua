@@ -11,12 +11,16 @@
     "geom:longitude":36.362992,
     "gn:population":3502,
     "iso:country":"UA",
+    "lbl:bbox":"36.342992,47.457387,36.382992,47.497387",
     "lbl:latitude":47.477387,
     "lbl:longitude":36.362992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.477387,
     "mps:longitude":36.362992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chapayevka"
     ],
@@ -32,7 +36,7 @@
     "name:ukr_x_variant":[
         "\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Tovarishcha Chapayeva"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":710950,
         "gp:id":918038,
-        "qs:id":128780
+        "qs_pg:id":128780
     },
     "wof:country":"UA",
     "wof:geomhash":"ef861bf8aaa71a90679dbd473f971848",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":101867007,
-    "wof:lastmodified":1544748931,
+    "wof:lastmodified":1566593509,
     "wof:name":"\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430",
     "wof:parent_id":102088369,
     "wof:placetype":"locality",

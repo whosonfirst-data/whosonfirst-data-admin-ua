@@ -10,16 +10,20 @@
     "geom:latitude":48.704703,
     "geom:longitude":32.590058,
     "iso:country":"UA",
+    "lbl:bbox":"32.570058,48.684703,32.610058,48.724703",
     "lbl:latitude":48.704703,
     "lbl:longitude":32.590058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.704703,
     "mps:longitude":32.590058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u0417\u043d\u0430\u043c\u2019\u044f\u043d\u043a\u0430 \u0414\u0440\u0443\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Znamenka Vtoraya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":686915,
         "gp:id":940352,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"892bfc2a5183c1c6d9efa479b39f3168",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101868187,
-    "wof:lastmodified":1544749594,
+    "wof:lastmodified":1566593351,
     "wof:name":"\u0417\u043d\u0430\u043c'\u044f\u043d\u043a\u0430 \u0414\u0440\u0443\u0433\u0430",
     "wof:parent_id":1108730811,
     "wof:placetype":"locality",

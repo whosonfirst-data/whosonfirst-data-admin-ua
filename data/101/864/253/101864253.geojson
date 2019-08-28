@@ -10,19 +10,23 @@
     "geom:latitude":50.882416,
     "geom:longitude":26.917308,
     "iso:country":"UA",
+    "lbl:bbox":"26.897308,50.862416,26.937308,50.902416",
     "lbl:latitude":50.882416,
     "lbl:longitude":26.917308,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.882416,
     "mps:longitude":26.917308,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Bystrychi"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bystrzyce"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":711001,
         "gp:id":931237,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"5b3b17dd1e6307c759e88289c5f0124a",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864253,
-    "wof:lastmodified":1544747431,
+    "wof:lastmodified":1566593771,
     "wof:name":"\u0411\u0438\u0441\u0442\u0440\u0438\u0447\u0456",
     "wof:parent_id":1108815693,
     "wof:placetype":"locality",

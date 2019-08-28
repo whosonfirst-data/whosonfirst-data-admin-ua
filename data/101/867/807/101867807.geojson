@@ -10,12 +10,16 @@
     "geom:latitude":48.343786,
     "geom:longitude":34.107635,
     "iso:country":"UA",
+    "lbl:bbox":"34.087635,48.323786,34.127635,48.363786",
     "lbl:latitude":48.343786,
     "lbl:longitude":34.107635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.343786,
     "mps:longitude":34.107635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shchorsk"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0429\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bozhedarovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":694272,
         "gp:id":12518505,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"ba1ae790e14f3a4938ea1a6cb8f00bd5",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101867807,
-    "wof:lastmodified":1544749382,
+    "wof:lastmodified":1566593530,
     "wof:name":"\u0429\u043e\u0440\u0441\u044c\u043a",
     "wof:parent_id":102088477,
     "wof:placetype":"locality",

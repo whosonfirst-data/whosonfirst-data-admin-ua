@@ -11,12 +11,16 @@
     "geom:longitude":24.193997,
     "gn:population":2119,
     "iso:country":"UA",
+    "lbl:bbox":"24.173997,49.676733,24.213997,49.716733",
     "lbl:latitude":49.696733,
     "lbl:longitude":24.193997,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.696733,
     "mps:longitude":24.193997,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Staroye Selo"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0435 \u0421\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Stare Selo"
-    ],
     "name:zho_x_preferred":[
         "\u820a\u8b1d\u6d1b"
     ],
@@ -78,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -91,7 +92,7 @@
     "wof:concordances":{
         "gn:id":692775,
         "gp:id":924943,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7601771",
         "wk:page":"Stare Selo"
     },
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":101862499,
-    "wof:lastmodified":1563303368,
+    "wof:lastmodified":1566593682,
     "wof:name":"\u0421\u0442\u0430\u0440\u0435 \u0421\u0435\u043b\u043e",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

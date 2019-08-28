@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.013127,
     "lbl:longitude":38.297291,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Donetska",
     "meso:admin_1":"\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Shakhtars'kyi",
@@ -28,6 +30,7 @@
     "meso:type_local":"\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u0440\u0430\u0439\u043e\u043d\u0438 \u0442\u0430 \u0440\u0430\u0434\u0438 \u043e\u0431\u043b\u0430\u0441\u043d\u043e\u0433",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u062e\u0627\u0631\u062a\u0633\u06cc\u0632\u06a9"
     ],
@@ -128,7 +131,7 @@
         "\u54c8\u723e\u9f4a\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         1159339531,
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":1175613765,
-    "wof:lastmodified":1563301717,
+    "wof:lastmodified":1566592894,
     "wof:name":"Khartsyzka",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

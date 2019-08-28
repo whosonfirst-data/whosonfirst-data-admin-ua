@@ -9,15 +9,18 @@
     "geom:bbox":"39.47943,48.65433,39.47943,48.65433",
     "geom:latitude":48.65433,
     "geom:longitude":39.47943,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":12765,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"39.45943,48.63433,39.49943,48.67433",
     "lbl:latitude":48.65433,
     "lbl:longitude":39.47943,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Stanytsya Luhans'ka"
@@ -66,7 +69,7 @@
         "Stanychno-Luhans\u2019ke",
         "\u0421\u0442\u0430\u043d\u0438\u0447\u043d\u043e-\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luganskaya"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":934779,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125815663,
-    "wof:lastmodified":1563303831,
+    "wof:lastmodified":1566593908,
     "wof:name":"Stanichno-Luganskoye",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

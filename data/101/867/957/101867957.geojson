@@ -11,12 +11,16 @@
     "geom:longitude":31.098125,
     "gn:population":3859,
     "iso:country":"UA",
+    "lbl:bbox":"31.078125,49.3792,31.118125,49.4192",
     "lbl:latitude":49.3992,
     "lbl:longitude":31.098125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.3992,
     "mps:longitude":31.098125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u044d\u0431\u043b\u0456\u045e"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0431\u043b\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stebl\u00ebv Pervyy"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":288,
     "wof:belongsto":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":692638,
         "gp:id":935092,
-        "qs:id":1028400,
+        "qs_pg:id":1028400,
         "wd:id":"Q1026920"
     },
     "wof:country":"UA",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101867957,
-    "wof:lastmodified":1563303017,
+    "wof:lastmodified":1566593519,
     "wof:name":"\u0421\u0442\u0435\u0431\u043b\u0456\u0432",
     "wof:parent_id":102088565,
     "wof:placetype":"locality",

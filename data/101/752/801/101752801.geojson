@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":46.655115,
     "lbl:longitude":32.603461,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.655115,
     "mps:longitude":32.603461,
     "mz:hierarchy_label":1,
@@ -258,9 +260,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Cherson"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u06cc\u0631\u0633\u0648\u0646"
     ],
@@ -385,7 +384,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1150,
     "wof:belongsto":[
@@ -398,7 +397,7 @@
     "wof:concordances":{
         "gn:id":706448,
         "gp:id":12524010,
-        "qs:id":1028577,
+        "qs_pg:id":1028577,
         "wd:id":"Q156732",
         "wk:page":"Kherson"
     },
@@ -414,7 +413,7 @@
         }
     ],
     "wof:id":101752801,
-    "wof:lastmodified":1563302240,
+    "wof:lastmodified":1566593191,
     "wof:name":"\u0425\u0435\u0440\u0441\u043e\u043d",
     "wof:parent_id":1108730653,
     "wof:placetype":"locality",

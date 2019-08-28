@@ -11,12 +11,16 @@
     "geom:longitude":36.026195,
     "gn:population":4889,
     "iso:country":"UA",
+    "lbl:bbox":"36.006195,49.924832,36.046195,49.964832",
     "lbl:latitude":49.944832,
     "lbl:longitude":36.026195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.944832,
     "mps:longitude":36.026195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Korotych"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0442\u0438\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korotich"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":704881,
         "gp:id":923621,
-        "qs:id":275517,
+        "qs_pg:id":275517,
         "wd:id":"Q4234163"
     },
     "wof:country":"UA",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101871705,
-    "wof:lastmodified":1563303285,
+    "wof:lastmodified":1566593646,
     "wof:name":"\u041a\u043e\u0440\u043e\u0442\u0438\u0447",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":24.308331,
     "gn:population":2929,
     "iso:country":"UA",
+    "lbl:bbox":"24.288331,48.874077,24.328331,48.914077",
     "lbl:latitude":48.894077,
     "lbl:longitude":24.308331,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.894077,
     "mps:longitude":24.308331,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Petra"
     ],
@@ -617,7 +621,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petranka"
     ],
     "name:vec_x_preferred":[
@@ -681,7 +685,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":393,
     "wof:belongsto":[
@@ -694,7 +698,7 @@
     "wof:concordances":{
         "gn:id":697473,
         "gp:id":932583,
-        "qs:id":128362,
+        "qs_pg:id":128362,
         "wd:id":"Q740790"
     },
     "wof:country":"UA",
@@ -709,7 +713,7 @@
         }
     ],
     "wof:id":101860795,
-    "wof:lastmodified":1563302896,
+    "wof:lastmodified":1566593466,
     "wof:name":"\u041f\u0435\u0442\u0440\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

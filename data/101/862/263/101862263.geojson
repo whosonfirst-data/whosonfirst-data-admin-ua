@@ -10,13 +10,17 @@
     "geom:latitude":49.845704,
     "geom:longitude":23.426747,
     "iso:country":"UA",
+    "lbl:bbox":"23.406747,49.825704,23.446747,49.865704",
     "lbl:latitude":49.845704,
     "lbl:longitude":23.426747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.845704,
     "mps:longitude":23.426747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Bol\u2019shaya Ozhomlya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":689432,
         "gp:id":935402,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"cc6b1055473bb0b696c8e9567c5e4e6d",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862263,
-    "wof:lastmodified":1544746395,
+    "wof:lastmodified":1566593706,
     "wof:name":"\u0412\u0456\u0436\u043e\u043c\u043b\u044f",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

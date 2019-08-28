@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"33.53826,52.16415,33.57826,52.20415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uralove"
     ],
@@ -37,11 +41,6 @@
     "name:ukr_x_variant":[
         "Uralovo",
         "Oltar"
-    ],
-    "name:und_x_variant":[
-        "Oltar",
-        "Uralovo",
-        "Uralove"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +65,7 @@
         }
     ],
     "wof:id":1226603381,
-    "wof:lastmodified":1537710289,
+    "wof:lastmodified":1566594478,
     "wof:name":"Uralove",
     "wof:parent_id":102089029,
     "wof:placetype":"locality",

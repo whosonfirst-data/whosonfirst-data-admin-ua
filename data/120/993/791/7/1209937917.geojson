@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"24.6686,49.24337,24.7086,49.28337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
     ],
@@ -86,8 +90,7 @@
         "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Staseva Volya",
-        "Sloboda"
+        "Staseva Volya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1209937917,
-    "wof:lastmodified":1564196232,
+    "wof:lastmodified":1566592495,
     "wof:name":"Sloboda",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

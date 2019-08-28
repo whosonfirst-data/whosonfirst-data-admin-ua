@@ -10,12 +10,16 @@
     "geom:latitude":45.940617,
     "geom:longitude":34.342658,
     "iso:country":"UA",
+    "lbl:bbox":"34.322658,45.920617,34.362658,45.960617",
     "lbl:latitude":45.940617,
     "lbl:longitude":34.342658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.940617,
     "mps:longitude":34.342658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yasnopolyanskoye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":7021130,
         "gp:id":919507,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"ab21632a395e25cce12c80bcd612fd44",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101858819,
-    "wof:lastmodified":1544744599,
+    "wof:lastmodified":1566593483,
     "wof:name":"\u042f\u0441\u043d\u043e\u043f\u043e\u043b\u044f\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

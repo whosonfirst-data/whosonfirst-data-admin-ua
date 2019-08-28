@@ -10,12 +10,16 @@
     "geom:latitude":47.328883,
     "geom:longitude":33.047622,
     "iso:country":"UA",
+    "lbl:bbox":"33.027622,47.308883,33.067622,47.348883",
     "lbl:latitude":47.328883,
     "lbl:longitude":33.047622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.328883,
     "mps:longitude":33.047622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lepetycha"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lepetikha"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101866291,
-    "wof:lastmodified":1563302469,
+    "wof:lastmodified":1566593280,
     "wof:name":"\u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430",
     "wof:parent_id":102088141,
     "wof:placetype":"locality",

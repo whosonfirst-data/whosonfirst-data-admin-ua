@@ -10,19 +10,23 @@
     "geom:latitude":46.486474,
     "geom:longitude":33.073536,
     "iso:country":"UA",
+    "lbl:bbox":"33.053536,46.466474,33.093536,46.506474",
     "lbl:latitude":46.486474,
     "lbl:longitude":33.073536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.486474,
     "mps:longitude":33.073536,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u0431\u0440\u0438\u043a\u043e\u0441\u043e\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0440\u0438\u043a\u043e\u0441\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abrikosovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":7022350,
         "gp:id":935790,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"dd884c5b7d2cac53e82013948bfe0198",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101865541,
-    "wof:lastmodified":1544748098,
+    "wof:lastmodified":1566593741,
     "wof:name":"\u0410\u0431\u0440\u0438\u043a\u043e\u0441\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088007,
     "wof:placetype":"locality",

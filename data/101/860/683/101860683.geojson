@@ -11,12 +11,16 @@
     "geom:longitude":26.485243,
     "gn:population":10799,
     "iso:country":"UA",
+    "lbl:bbox":"26.465243,48.473804,26.505243,48.513804",
     "lbl:latitude":48.493804,
     "lbl:longitude":26.485243,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.493804,
     "mps:longitude":26.485243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u062a\u064a\u0646"
     ],
@@ -166,9 +170,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Hotin"
-    ],
     "name:vie_x_preferred":[
         "Khotyn"
     ],
@@ -195,7 +196,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1867,
     "wof:belongsto":[
@@ -208,10 +209,12 @@
     "wof:concordances":{
         "gn:id":695131,
         "gp:id":922358,
-        "qs:id":275534,
-        "qs_pg:id":1110948,
+        "qs_pg:id":275534,
         "wd:id":"Q45883",
         "wk:page":"Khotyn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1110948
     },
     "wof:country":"UA",
     "wof:geomhash":"673b5d941ba602251b9c33535e012474",
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":101860683,
-    "wof:lastmodified":1563302907,
+    "wof:lastmodified":1566593470,
     "wof:name":"\u0425\u043e\u0442\u0438\u043d",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

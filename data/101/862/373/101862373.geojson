@@ -10,12 +10,16 @@
     "geom:latitude":49.913118,
     "geom:longitude":24.269604,
     "iso:country":"UA",
+    "lbl:bbox":"24.249604,49.893118,24.289604,49.933118",
     "lbl:latitude":49.913118,
     "lbl:longitude":24.269604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.913118,
     "mps:longitude":24.269604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Staryj Jarytschiw"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u042f\u0440\u0438\u0447\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staryy Yarychiv"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":692695,
         "gp:id":924943,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4441174"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101862373,
-    "wof:lastmodified":1561776985,
+    "wof:lastmodified":1566593710,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u042f\u0440\u0438\u0447\u0456\u0432",
     "wof:parent_id":102088459,
     "wof:placetype":"locality",

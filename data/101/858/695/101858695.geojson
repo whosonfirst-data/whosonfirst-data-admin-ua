@@ -10,12 +10,16 @@
     "geom:latitude":45.743559,
     "geom:longitude":34.061153,
     "iso:country":"UA",
+    "lbl:bbox":"34.041153,45.723559,34.081153,45.763559",
     "lbl:latitude":45.743559,
     "lbl:longitude":34.061153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.743559,
     "mps:longitude":34.061153,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ostrovskoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":698200,
         "gp:id":930517,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"129bf917bcdfa45dd48e1403a210162a",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858695,
-    "wof:lastmodified":1544744534,
+    "wof:lastmodified":1566593486,
     "wof:name":"\u041e\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

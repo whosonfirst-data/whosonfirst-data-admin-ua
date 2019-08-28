@@ -10,20 +10,21 @@
     "geom:latitude":49.131328,
     "geom:longitude":30.682745,
     "iso:country":"UA",
+    "lbl:bbox":"30.662745,49.111328,30.702745,49.151328",
     "lbl:latitude":49.131328,
     "lbl:longitude":30.682745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.131328,
     "mps:longitude":30.682745,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chizhovka"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u0436\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Chizhovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":710439,
         "gp:id":917927,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"c34061d2924b9c9283da762b710d94bd",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101867777,
-    "wof:lastmodified":1544749366,
+    "wof:lastmodified":1566593517,
     "wof:name":"\u0427\u0438\u0436\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088469,
     "wof:placetype":"locality",

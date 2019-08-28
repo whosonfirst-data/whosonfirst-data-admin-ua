@@ -10,12 +10,16 @@
     "geom:latitude":49.117101,
     "geom:longitude":23.950828,
     "iso:country":"UA",
+    "lbl:bbox":"23.930828,49.097101,23.970828,49.137101",
     "lbl:latitude":49.117101,
     "lbl:longitude":23.950828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.117101,
     "mps:longitude":23.950828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ay Serez q\u0259s\u0259b\u0259si"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0436\u0440\u0456\u0447\u0447\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mizhrichchya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":198.0,
     "wd:latitude":44.878333,
     "wd:longitude":34.848056,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":701310,
         "gp:id":926895,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"891d298b93ef46b77cf27fa7eb2895a0",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101860877,
-    "wof:lastmodified":1544745668,
+    "wof:lastmodified":1566593467,
     "wof:name":"\u041c\u0456\u0436\u0440\u0456\u0447\u0447\u044f",
     "wof:parent_id":1175613733,
     "wof:placetype":"locality",

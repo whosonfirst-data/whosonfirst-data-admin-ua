@@ -10,13 +10,17 @@
     "geom:latitude":49.084507,
     "geom:longitude":26.12168,
     "iso:country":"UA",
+    "lbl:bbox":"26.10168,49.064507,26.14168,49.104507",
     "lbl:latitude":49.084507,
     "lbl:longitude":26.12168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.084507,
     "mps:longitude":26.12168,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chabaruvka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861943,
-    "wof:lastmodified":1544746227,
+    "wof:lastmodified":1566593330,
     "wof:name":"\u0427\u0430\u0431\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088299,
     "wof:placetype":"locality",

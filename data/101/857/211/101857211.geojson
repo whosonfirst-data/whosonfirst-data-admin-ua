@@ -10,12 +10,16 @@
     "geom:latitude":45.0609,
     "geom:longitude":35.331721,
     "iso:country":"UA",
+    "lbl:bbox":"35.311721,45.0409,35.351721,45.0809",
     "lbl:latitude":45.0609,
     "lbl:longitude":35.331721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.0609,
     "mps:longitude":35.331721,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blizhnyaya Baybuga"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -68,7 +72,7 @@
         "fct:id":"082685d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":712050,
         "gp:id":917011,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"81b4891247bca87fdc140e67138a1f9b",
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743778,
+    "wof:lastmodified":1566593384,
     "wof:name":"\u0411\u043b\u0438\u0436\u043d\u0454",
     "wof:parent_id":1108738663,
     "wof:placetype":"locality",

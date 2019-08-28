@@ -11,12 +11,16 @@
     "geom:longitude":37.277172,
     "gn:population":5519,
     "iso:country":"UA",
+    "lbl:bbox":"37.257172,46.933872,37.297172,46.973872",
     "lbl:latitude":46.953872,
     "lbl:longitude":37.277172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.953872,
     "mps:longitude":37.277172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Yalta"
     ],
@@ -41,9 +45,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043b\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Yalta"
-    ],
     "name:zho_x_preferred":[
         "\u4e9e\u723e\u5854"
     ],
@@ -67,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":40.0,
     "wd:latitude":44.499444,
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":688532,
         "gp:id":938849,
-        "qs:id":1028345,
+        "qs_pg:id":1028345,
         "wd:id":"Q4537455"
     },
     "wof:country":"UA",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":101868119,
-    "wof:lastmodified":1563302643,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u042f\u043b\u0442\u0430",
     "wof:parent_id":102088329,
     "wof:placetype":"locality",

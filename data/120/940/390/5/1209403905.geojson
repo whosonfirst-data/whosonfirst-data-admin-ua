@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"27.07949,48.86551,27.11949,48.90551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633805
@@ -34,7 +38,7 @@
         "gn:id":690248
     },
     "wof:country":"UA",
-    "wof:geomhash":"039f189f41802bdd4aca7f1c2cee918c",
+    "wof:geomhash":"c9ba9d8a7f6c22f91a27ed541c991920",
     "wof:hierarchy":[
         {
             "country_id":85633805,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209403905,
-    "wof:lastmodified":1536288057,
+    "wof:lastmodified":1566592442,
     "wof:name":"Velikaya Kuzheleva",
     "wof:parent_id":85633805,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.099490000000007,
+    27.09949000000001,
     48.88551,
-    27.099490000000007,
+    27.09949000000001,
     48.88551
 ],
   "geometry": {"coordinates":[27.09949000000001,48.88551],"type":"Point"}

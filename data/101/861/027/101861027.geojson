@@ -10,13 +10,17 @@
     "geom:latitude":48.936258,
     "geom:longitude":25.813252,
     "iso:country":"UA",
+    "lbl:bbox":"25.793252,48.916258,25.833252,48.956258",
     "lbl:latitude":48.936258,
     "lbl:longitude":25.813252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.936258,
     "mps:longitude":25.813252,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Rosohach"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":695434,
         "gp:id":938790,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"384af551e8fa3a5c7c1fbd9f78c1e319",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861027,
-    "wof:lastmodified":1544745748,
+    "wof:lastmodified":1566593316,
     "wof:name":"\u0420\u043e\u0441\u043e\u0445\u0430\u0447",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

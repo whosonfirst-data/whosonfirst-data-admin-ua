@@ -11,12 +11,16 @@
     "geom:longitude":37.526884,
     "gn:population":3061,
     "iso:country":"UA",
+    "lbl:bbox":"37.506884,48.664938,37.546884,48.704938",
     "lbl:latitude":48.684938,
     "lbl:longitude":37.526884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.684938,
     "mps:longitude":37.526884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Krasnotorka"
     ],
@@ -35,7 +39,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0442\u043e\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnogorka"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688779,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":704303,
         "gp:id":924161,
-        "qs:id":1283227,
+        "qs_pg:id":1283227,
         "wd:id":"Q4239123"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101869683,
-    "wof:lastmodified":1563302822,
+    "wof:lastmodified":1566593433,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0442\u043e\u0440\u043a\u0430",
     "wof:parent_id":1108730729,
     "wof:placetype":"locality",

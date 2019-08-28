@@ -11,12 +11,16 @@
     "geom:longitude":28.12861,
     "gn:population":3038,
     "iso:country":"UA",
+    "lbl:bbox":"28.10861,49.67553,28.14861,49.71553",
     "lbl:latitude":49.69553,
     "lbl:longitude":28.12861,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.69553,
     "mps:longitude":28.12861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ulanov"
     ],
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":690756,
         "gp:id":936798,
-        "qs:id":942013,
+        "qs_pg:id":942013,
         "wd:id":"Q335665"
     },
     "wof:country":"UA",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101862679,
-    "wof:lastmodified":1563303411,
+    "wof:lastmodified":1566593701,
     "wof:name":"\u0423\u043b\u0430\u043d\u0456\u0432",
     "wof:parent_id":1108815607,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.278258,
     "lbl:longitude":35.907763,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kharkivska",
     "meso:admin_1":"\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Zolochivs'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":35.909967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Lwif-oblast"
     ],
@@ -215,9 +218,6 @@
         "\u0417\u043e\u043b\u043e\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
         "\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:und_x_variant":[
-        "\u0417\u043e\u043b\u043e\u0447\u0456\u0432\u0441\u044c\u043a\u0438\u0439"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06cc\u0626\u0648 \u0627\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
@@ -255,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"969",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Zolochiv",
@@ -288,7 +288,7 @@
         }
     ],
     "wof:id":102088947,
-    "wof:lastmodified":1554317318,
+    "wof:lastmodified":1566591388,
     "wof:name":"Zolochivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

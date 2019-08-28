@@ -10,12 +10,16 @@
     "geom:latitude":50.217025,
     "geom:longitude":28.710875,
     "iso:country":"UA",
+    "lbl:bbox":"28.690875,50.197025,28.730875,50.237025",
     "lbl:latitude":50.217025,
     "lbl:longitude":28.710875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.217025,
     "mps:longitude":28.710875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043d\u044b\u0448\u044b\u045e\u043a\u0430"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u043d\u0438\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanishivka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":692945,
         "gp:id":940165,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4439432"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101869349,
-    "wof:lastmodified":1563302790,
+    "wof:lastmodified":1566593420,
     "wof:name":"\u0421\u0442\u0430\u043d\u0438\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815629,
     "wof:placetype":"locality",

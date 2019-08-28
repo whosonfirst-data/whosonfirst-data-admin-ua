@@ -9,20 +9,23 @@
     "geom:bbox":"23.63176,49.9881,23.63176,49.9881",
     "geom:latitude":49.9881,
     "geom:longitude":23.63176,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":528,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":528,
     "iso:country":"UA",
+    "lbl:bbox":"23.61176,49.9681,23.65176,50.0081",
     "lbl:latitude":49.9881,
     "lbl:longitude":23.63176,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0435\u0449\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vereshnitsa"
     ],
     "qs_pg:aaroncc":"UA",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":82711,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125835563,
-    "wof:lastmodified":1509394953,
+    "wof:lastmodified":1566593977,
     "wof:name":"Vereshitsa",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

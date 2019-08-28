@@ -11,12 +11,16 @@
     "geom:longitude":30.414413,
     "gn:population":400,
     "iso:country":"UA",
+    "lbl:bbox":"30.394413,50.627979,30.434413,50.667979",
     "lbl:latitude":50.647979,
     "lbl:longitude":30.414413,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.647979,
     "mps:longitude":30.414413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u041f\u044d\u0442\u0440\u044b\u045e\u0446\u0456"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0456 \u041f\u0435\u0442\u0440\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staropetrovtsy"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":692737,
         "gp:id":929281,
-        "qs:id":82772,
+        "qs_pg:id":82772,
         "wd:id":"Q4440950"
     },
     "wof:country":"UA",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101871001,
-    "wof:lastmodified":1563303272,
+    "wof:lastmodified":1566593640,
     "wof:name":"\u0421\u0442\u0430\u0440\u0456 \u041f\u0435\u0442\u0440\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088851,
     "wof:placetype":"locality",

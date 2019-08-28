@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":49.483074,
     "lbl:longitude":36.474819,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":49.47596,
     "mps:longitude":36.475949,
@@ -228,7 +229,7 @@
         "Charkowski uobw\u016fd"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb5\u0bcd  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0bb5\u0bcd \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0425\u0430\u0440\u043a\u0430\u0443 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -253,9 +254,6 @@
         "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Kharkivs\u2019ka Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -351,9 +349,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"31,415",
     "statoids:area_mi":"12,129",
     "statoids:as_of_date":"2001-12-05",
@@ -398,7 +396,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737970,
+    "wof:lastmodified":1566591778,
     "wof:name":"Kharkiv",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

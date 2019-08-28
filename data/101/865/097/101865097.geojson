@@ -10,12 +10,16 @@
     "geom:latitude":47.071507,
     "geom:longitude":34.705216,
     "iso:country":"UA",
+    "lbl:bbox":"34.685216,47.051507,34.725216,47.091507",
     "lbl:latitude":47.071507,
     "lbl:longitude":34.705216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.071507,
     "mps:longitude":34.705216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschkalowe"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Chkalova"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101865097,
-    "wof:lastmodified":1563303462,
+    "wof:lastmodified":1566593723,
     "wof:name":"\u0427\u043a\u0430\u043b\u043e\u0432\u0435",
     "wof:parent_id":102088153,
     "wof:placetype":"locality",

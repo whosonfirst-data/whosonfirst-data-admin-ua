@@ -10,12 +10,16 @@
     "geom:latitude":48.11142,
     "geom:longitude":22.638474,
     "iso:country":"UA",
+    "lbl:bbox":"22.618474,48.09142,22.658474,48.13142",
     "lbl:latitude":48.11142,
     "lbl:longitude":22.638474,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.11142,
     "mps:longitude":22.638474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Badalovo"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "Badalovo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bodoliv"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":711975,
         "gp:id":815459,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q788311",
         "wk:page":"Badalovo"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101859169,
-    "wof:lastmodified":1561776905,
+    "wof:lastmodified":1566593213,
     "wof:name":"\u0411\u0430\u0434\u0430\u043b\u043e\u0432\u043e",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

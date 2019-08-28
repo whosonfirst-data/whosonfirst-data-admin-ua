@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":47.944118,
     "lbl:longitude":23.891908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.944118,
     "mps:longitude":23.891908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u043e\u0442\u0432\u044b\u043d\u0430"
     ],
@@ -89,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u043e\u0442\u0432\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Solotvina"
-    ],
     "name:yid_x_preferred":[
         "\u05e1\u05dc\u05d0\u05d8\u05e4\u05d9\u05e0\u05d0"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":185,
     "wof:belongsto":[
@@ -130,10 +130,12 @@
     "wof:concordances":{
         "gn:id":693178,
         "gp:id":934574,
-        "qs:id":275433,
-        "qs_pg:id":1085245,
+        "qs_pg:id":275433,
         "wd:id":"Q918619",
         "wk:page":"Solotvyno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1085245
     },
     "wof:country":"UA",
     "wof:geomhash":"0458a57d58865042cd893a21ea12838e",
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":101834035,
-    "wof:lastmodified":1563303070,
+    "wof:lastmodified":1566593540,
     "wof:name":"\u0421\u043e\u043b\u043e\u0442\u0432\u0438\u043d\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

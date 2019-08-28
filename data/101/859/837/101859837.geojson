@@ -10,12 +10,16 @@
     "geom:latitude":48.406209,
     "geom:longitude":25.449144,
     "iso:country":"UA",
+    "lbl:bbox":"25.429144,48.386209,25.469144,48.426209",
     "lbl:latitude":48.406209,
     "lbl:longitude":25.449144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.406209,
     "mps:longitude":25.449144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0424\u043e\u0440\u043d\u043e\u0441\u043e\u0432\u043e"
     ],
@@ -34,7 +38,7 @@
     "name:srp_x_preferred":[
         "\u0424\u043e\u0440\u043d\u043e\u0441\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Knyazh\u2019ye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1251,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":705566,
         "gp:id":937048,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"39990d41583af509421bff0d86bfa1d5",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101859837,
-    "wof:lastmodified":1544745123,
+    "wof:lastmodified":1566593240,
     "wof:name":"\u041a\u043d\u044f\u0436\u0435",
     "wof:parent_id":102088087,
     "wof:placetype":"locality",

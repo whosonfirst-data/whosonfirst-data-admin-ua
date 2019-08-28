@@ -12,9 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.916767,
     "lbl:longitude":27.739707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.916767,
     "mps:longitude":27.739707,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Zhytomyrs'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":925820,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
-    "wof:geomhash":"ed821a045f86b3cdbe46389785f9a8f5",
+    "wof:geomhash":"766173dfe08b3a15dd15152d890a6b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876881,
-    "wof:lastmodified":1479879142,
+    "wof:lastmodified":1566593587,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041b\u044e\u0431\u0430\u0440",
     "wof:parent_id":102088531,
     "wof:placetype":"locality",

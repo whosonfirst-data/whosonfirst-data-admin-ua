@@ -9,15 +9,18 @@
     "geom:bbox":"31.5339,49.34434,31.5339,49.34434",
     "geom:latitude":49.34434,
     "geom:longitude":31.5339,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4158,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4158,
     "iso:country":"UA",
+    "lbl:bbox":"31.5139,49.32434,31.5539,49.36434",
     "lbl:latitude":49.34434,
     "lbl:longitude":31.5339,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mleyev"
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041c\u043b\u0438\u0435\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mleyevo"
     ],
     "qs_pg:aaroncc":"UA",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":927232,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125873559,
-    "wof:lastmodified":1509397554,
+    "wof:lastmodified":1566593914,
     "wof:name":"Mleyev",
     "wof:parent_id":102088543,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":30.430567,
     "gn:population":3042,
     "iso:country":"UA",
+    "lbl:bbox":"30.410567,49.36063,30.450567,49.40063",
     "lbl:latitude":49.38063,
     "lbl:longitude":30.430567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.38063,
     "mps:longitude":30.430567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Blahodatne"
     ],
@@ -41,9 +45,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Chapayevka"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kyivs'ka",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":710947,
         "gp:id":934790,
-        "qs:id":1028627,
+        "qs_pg:id":1028627,
         "wd:id":"Q4507155"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101866889,
-    "wof:lastmodified":1563302414,
+    "wof:lastmodified":1566593257,
     "wof:name":"\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430",
     "wof:parent_id":102088535,
     "wof:placetype":"locality",

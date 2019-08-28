@@ -10,12 +10,16 @@
     "geom:latitude":48.311949,
     "geom:longitude":22.582253,
     "iso:country":"UA",
+    "lbl:bbox":"22.562253,48.291949,22.602253,48.331949",
     "lbl:latitude":48.311949,
     "lbl:longitude":22.582253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.311949,
     "mps:longitude":22.582253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sankt-Peterburq D\u00f6vl\u0259t Telekommunikasiya Universiteti"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velikaya Gorazdovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":520,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":708976,
         "gp:id":12518201,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"3ee9adf97bdafbf6ec8da95fa5a974c8",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101859161,
-    "wof:lastmodified":1544744771,
+    "wof:lastmodified":1566593210,
     "wof:name":"\u0413\u0443\u0442",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

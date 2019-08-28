@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":2211341.749406,
+    "geom:area_square_m":2211341.749409,
     "geom:bbox":"33.3403342389,46.7885729016,33.3589302731,46.8072934484",
     "geom:latitude":46.798135,
     "geom:longitude":33.349964,
     "iso:country":"UA",
     "lbl:latitude":46.798464,
     "lbl:longitude":33.350141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.798464,
     "mps:longitude":33.350141,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Khersons'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":922062,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
-    "wof:geomhash":"eb2faced59c9616576cc55b46093aa10",
+    "wof:geomhash":"07c30509576df94b6c67aa1cd85d52ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876511,
-    "wof:lastmodified":1479879697,
+    "wof:lastmodified":1566593598,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435",
     "wof:parent_id":102088097,
     "wof:placetype":"locality",

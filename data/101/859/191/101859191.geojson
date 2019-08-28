@@ -10,12 +10,16 @@
     "geom:latitude":48.178164,
     "geom:longitude":22.711096,
     "iso:country":"UA",
+    "lbl:bbox":"22.691096,48.158164,22.731096,48.198164",
     "lbl:latitude":48.178164,
     "lbl:longitude":22.711096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.178164,
     "mps:longitude":22.711096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Muzhiievo"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0436\u0456\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velikoye Muzhiyovo"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":700581,
         "gp:id":938647,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q830924"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101859191,
-    "wof:lastmodified":1561776910,
+    "wof:lastmodified":1566593230,
     "wof:name":"\u041c\u0443\u0436\u0456\u0454\u0432\u043e",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

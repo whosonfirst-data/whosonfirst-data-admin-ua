@@ -9,15 +9,18 @@
     "geom:bbox":"34.49235,47.48746,34.49235,47.48746",
     "geom:latitude":47.48746,
     "geom:longitude":34.49235,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5685,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5685,
     "iso:country":"UA",
+    "lbl:bbox":"34.47235,47.46746,34.51235,47.50746",
     "lbl:latitude":47.48746,
     "lbl:longitude":34.49235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0412\u043e\u0434\u044f\u043d\u0435"
@@ -28,7 +31,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0434\u044f\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vodyanoye"
     ],
     "qs_pg:aaroncc":"UA",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":275414,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1125984553,
-    "wof:lastmodified":1509404997,
+    "wof:lastmodified":1566593929,
     "wof:name":"Vodyane",
     "wof:parent_id":102088255,
     "wof:placetype":"locality",

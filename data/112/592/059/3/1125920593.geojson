@@ -9,14 +9,18 @@
     "geom:bbox":"38.85151,48.14782,38.85151,48.14782",
     "geom:latitude":48.14782,
     "geom:longitude":38.85151,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"38.83151,48.12782,38.87151,48.16782",
     "lbl:latitude":48.14782,
     "lbl:longitude":38.85151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:crh_x_preferred":[
         "Hrustalne"
@@ -45,7 +49,7 @@
     "name:ukr_x_variant":[
         "\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khrustal\u2019nyy"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":922409,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
     "woe:name_adm1":"Luhans\u00b4ka Oblast\u00b4",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1125920593,
-    "wof:lastmodified":1563303775,
+    "wof:lastmodified":1566593887,
     "wof:name":"Khrustal'noye",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.093913,
     "geom:longitude":23.537389,
     "iso:country":"UA",
+    "lbl:bbox":"23.517389,49.073913,23.557389,49.113913",
     "lbl:latitude":49.093913,
     "lbl:longitude":23.537389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.093913,
     "mps:longitude":23.537389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Korchyn"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0438\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Korczyn"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u723e\u6b3d"
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":212,
     "wof:belongsto":[
         102191581,
@@ -67,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":704987,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4234495"
     },
     "wof:country":"UA",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":101860867,
-    "wof:lastmodified":1563302877,
+    "wof:lastmodified":1566593458,
     "wof:name":"\u041a\u043e\u0440\u0447\u0438\u043d",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

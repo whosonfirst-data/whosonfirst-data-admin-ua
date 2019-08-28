@@ -9,15 +9,18 @@
     "geom:bbox":"31.10994,48.17059,31.10994,48.17059",
     "geom:latitude":48.17059,
     "geom:longitude":31.10994,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4312,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4312,
     "iso:country":"UA",
+    "lbl:bbox":"31.08994,48.15059,31.12994,48.19059",
     "lbl:latitude":48.17059,
     "lbl:longitude":31.10994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u0627 \u0647\u0648\u0631\u0627"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0441\u0430 \u0413\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lysaya Gora"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":128509,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125779323,
-    "wof:lastmodified":1563304004,
+    "wof:lastmodified":1566593971,
     "wof:name":"Lysa Hora",
     "wof:parent_id":1108815681,
     "wof:placetype":"locality",

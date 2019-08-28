@@ -10,12 +10,16 @@
     "geom:latitude":49.335595,
     "geom:longitude":24.18985,
     "iso:country":"UA",
+    "lbl:bbox":"24.16985,49.315595,24.20985,49.355595",
     "lbl:latitude":49.335595,
     "lbl:longitude":24.18985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.335595,
     "mps:longitude":24.18985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Bere\u017anica Wy\u017cna"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0436\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berezhnytsya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":712362,
         "gp:id":12518342,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"9ffaa39efdb1e5f4a5d5693de5ef81d5",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101861215,
-    "wof:lastmodified":1544745848,
+    "wof:lastmodified":1566593316,
     "wof:name":"\u0411\u0435\u0440\u0435\u0436\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088289,
     "wof:placetype":"locality",

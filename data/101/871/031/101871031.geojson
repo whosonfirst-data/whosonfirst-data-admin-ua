@@ -10,12 +10,16 @@
     "geom:latitude":49.585278,
     "geom:longitude":36.573596,
     "iso:country":"UA",
+    "lbl:bbox":"36.553596,49.565278,36.593596,49.605278",
     "lbl:latitude":49.585278,
     "lbl:longitude":36.573596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.585278,
     "mps:longitude":36.573596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "\u00c7ervon\u0131y Donets"
     ],
@@ -47,9 +51,6 @@
         "Donets\u2019",
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u0414\u043e\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Donets"
-    ],
     "name:zho_x_preferred":[
         "\u5207\u723e\u535a\u5c3c\u591a\u6d85\u9f4a"
     ],
@@ -75,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         102191581,
@@ -87,7 +88,7 @@
     "wof:concordances":{
         "gn:id":813077,
         "gp:id":923345,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4512408"
     },
     "wof:country":"UA",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":101871031,
-    "wof:lastmodified":1563303267,
+    "wof:lastmodified":1566593638,
     "wof:name":"\u0414\u043e\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088859,
     "wof:placetype":"locality",

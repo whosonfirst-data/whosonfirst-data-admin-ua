@@ -11,12 +11,16 @@
     "geom:longitude":32.892693,
     "gn:population":2964,
     "iso:country":"UA",
+    "lbl:bbox":"32.872693,51.304683,32.912693,51.344683",
     "lbl:latitude":51.324683,
     "lbl:longitude":32.892693,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.324683,
     "mps:longitude":32.892693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0648\u0631\u064a\u0646"
     ],
@@ -122,9 +126,6 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0440\u0442\u0443\u0440\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Baturin"
-    ],
     "name:vie_x_preferred":[
         "Baturyn"
     ],
@@ -151,7 +152,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1634,
     "wof:belongsto":[
@@ -164,7 +165,6 @@
     "wof:concordances":{
         "gn:id":712745,
         "gp:id":916386,
-        "qs:id":128849,
         "qs_pg:id":128849,
         "wd:id":"Q149016",
         "wk:page":"Baturyn"
@@ -181,7 +181,7 @@
         }
     ],
     "wof:id":101871755,
-    "wof:lastmodified":1563303237,
+    "wof:lastmodified":1566593626,
     "wof:name":"\u0411\u0430\u0442\u0443\u0440\u0438\u043d",
     "wof:parent_id":102088979,
     "wof:placetype":"locality",

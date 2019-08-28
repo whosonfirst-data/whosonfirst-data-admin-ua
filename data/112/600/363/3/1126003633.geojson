@@ -9,15 +9,18 @@
     "geom:bbox":"33.34864,46.75451,33.34864,46.75451",
     "geom:latitude":46.75451,
     "geom:longitude":33.34864,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":50672,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":50672,
     "iso:country":"UA",
+    "lbl:bbox":"33.32864,46.73451,33.36864,46.77451",
     "lbl:latitude":46.75451,
     "lbl:longitude":33.34864,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0643\u0627\u062e\u0648\u0641\u0643\u0627"
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Kakhova"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +164,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":928279,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1126003633,
-    "wof:lastmodified":1563303906,
+    "wof:lastmodified":1566593935,
     "wof:name":"Novaya Kakhovka",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

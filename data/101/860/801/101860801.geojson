@@ -10,12 +10,16 @@
     "geom:latitude":48.90977,
     "geom:longitude":24.216408,
     "iso:country":"UA",
+    "lbl:bbox":"24.196408,48.88977,24.236408,48.92977",
     "lbl:latitude":48.90977,
     "lbl:longitude":24.216408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.90977,
     "mps:longitude":24.216408,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rona de Sus"
     ],
@@ -53,7 +57,7 @@
         "Rivnya",
         "\u0420\u0456\u0432\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruvnya"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         102191581,
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":695360,
         "gp:id":932583,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q5063122"
     },
     "wof:country":"UA",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":101860801,
-    "wof:lastmodified":1563302916,
+    "wof:lastmodified":1566593472,
     "wof:name":"\u0420\u0456\u0432\u043d\u044f",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

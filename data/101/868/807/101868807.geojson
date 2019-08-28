@@ -11,12 +11,16 @@
     "geom:longitude":35.270277,
     "gn:population":4217,
     "iso:country":"UA",
+    "lbl:bbox":"35.250277,49.183288,35.290277,49.223288",
     "lbl:latitude":49.203288,
     "lbl:longitude":35.270277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.203288,
     "mps:longitude":35.270277,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zachepylivka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0447\u0435\u043f\u0438\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zachenilovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":687933,
         "gp:id":939404,
-        "qs:id":128169
+        "qs_pg:id":128169
     },
     "wof:country":"UA",
     "wof:geomhash":"bb79d2cf8e9253d2326164b525a46b56",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101868807,
-    "wof:lastmodified":1544749943,
+    "wof:lastmodified":1566593369,
     "wof:name":"\u0417\u0430\u0447\u0435\u043f\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088705,
     "wof:placetype":"locality",

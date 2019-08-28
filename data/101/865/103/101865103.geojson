@@ -11,12 +11,16 @@
     "geom:longitude":35.422117,
     "gn:population":11540,
     "iso:country":"UA",
+    "lbl:bbox":"35.402117,46.796508,35.442117,46.836508",
     "lbl:latitude":46.816508,
     "lbl:longitude":35.422117,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.816508,
     "mps:longitude":35.422117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kostyantynivka"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yedinokhta"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":364,
     "wof:belongsto":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":705115,
         "gp:id":923425,
-        "qs:id":275522,
+        "qs_pg:id":275522,
         "wd:id":"Q4231409"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101865103,
-    "wof:lastmodified":1563303439,
+    "wof:lastmodified":1566593714,
     "wof:name":"\u041a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815655,
     "wof:placetype":"locality",

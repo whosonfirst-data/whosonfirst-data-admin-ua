@@ -10,12 +10,16 @@
     "geom:latitude":49.679821,
     "geom:longitude":30.955689,
     "iso:country":"UA",
+    "lbl:bbox":"30.935689,49.659821,30.975689,49.699821",
     "lbl:latitude":49.679821,
     "lbl:longitude":30.955689,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.679821,
     "mps:longitude":30.955689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u0441\u0430\u0432\u0430"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u0430\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Rossava"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u85a9\u74e6\u6cb3"
@@ -69,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191581,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":101869399,
-    "wof:lastmodified":1563302751,
+    "wof:lastmodified":1566593404,
     "wof:name":"\u0420\u043e\u0441\u0430\u0432\u0430",
     "wof:parent_id":102088649,
     "wof:placetype":"locality",

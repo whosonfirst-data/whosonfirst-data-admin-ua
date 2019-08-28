@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.301509,
     "lbl:longitude":38.936306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.301509,
     "mps:longitude":38.936306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschmyriwka"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_variant":[
         "\u0427\u043c\u0438\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chmirovka"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +74,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":710426,
         "gp:id":934914,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4516972"
     },
     "wof:country":"UA",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101877047,
-    "wof:lastmodified":1563303135,
+    "wof:lastmodified":1566593570,
     "wof:name":"\u0427\u043c\u0438\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088911,
     "wof:placetype":"locality",

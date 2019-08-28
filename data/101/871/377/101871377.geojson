@@ -10,12 +10,16 @@
     "geom:latitude":50.258492,
     "geom:longitude":36.426528,
     "iso:country":"UA",
+    "lbl:bbox":"36.406528,50.238492,36.446528,50.278492",
     "lbl:latitude":50.258492,
     "lbl:longitude":36.426528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.258492,
     "mps:longitude":36.426528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0413\u043b\u0443\u0431\u043e\u043a\u043e\u0435"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043b\u0438\u0431\u043e\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glubokoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":6724780,
         "gp:id":925353,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"b36fa845fb6e95b40833c3ab0836bd24",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101871377,
-    "wof:lastmodified":1544751074,
+    "wof:lastmodified":1566593642,
     "wof:name":"\u0413\u043b\u0438\u0431\u043e\u043a\u0435",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

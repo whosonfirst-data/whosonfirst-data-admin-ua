@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2261062.35867,
+    "geom:area_square_m":2261062.358672,
     "geom:bbox":"32.6848610181,48.6249580114,32.7036969772,48.6437938761",
     "geom:latitude":48.63434,
     "geom:longitude":32.694332,
     "iso:country":"UA",
     "lbl:latitude":48.634376,
     "lbl:longitude":32.694511,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.634376,
     "mps:longitude":32.694511,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moshoryne"
     ],
@@ -24,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0448\u043e\u0440\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moshorino"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -43,7 +47,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":700728,
         "gp:id":927437,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"601dc4290e0a5d5c0ae33617d59e69fc",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":101876845,
-    "wof:lastmodified":1501215536,
+    "wof:lastmodified":1566593583,
     "wof:name":"\u041c\u043e\u0448\u043e\u0440\u0438\u043d\u0435",
     "wof:parent_id":102088479,
     "wof:placetype":"locality",

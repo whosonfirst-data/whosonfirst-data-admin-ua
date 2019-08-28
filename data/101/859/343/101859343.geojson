@@ -11,12 +11,16 @@
     "geom:longitude":22.543744,
     "gn:population":3255,
     "iso:country":"UA",
+    "lbl:bbox":"22.523744,48.36912,22.563744,48.40912",
     "lbl:latitude":48.38912,
     "lbl:longitude":22.543744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.38912,
     "mps:longitude":22.543744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0431\u044b\u0447\u043e\u0432\u0430"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0431\u0438\u0447\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strabichovo"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":692465,
         "gp:id":937369,
-        "qs:id":1028395,
+        "qs_pg:id":1028395,
         "wd:id":"Q603174"
     },
     "wof:country":"UA",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101859343,
-    "wof:lastmodified":1563302395,
+    "wof:lastmodified":1566593247,
     "wof:name":"\u0421\u0442\u0440\u0430\u0431\u0438\u0447\u043e\u0432\u043e",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

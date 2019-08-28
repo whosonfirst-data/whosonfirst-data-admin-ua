@@ -10,13 +10,17 @@
     "geom:latitude":48.494421,
     "geom:longitude":26.235312,
     "iso:country":"UA",
+    "lbl:bbox":"26.215312,48.474421,26.255312,48.514421",
     "lbl:latitude":48.494421,
     "lbl:longitude":26.235312,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.494421,
     "mps:longitude":26.235312,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Poyyana"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":696612,
         "gp:id":922924,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"5bf74c831b6e8f743b1edfba831ca845",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860675,
-    "wof:lastmodified":1544745561,
+    "wof:lastmodified":1566593451,
     "wof:name":"\u041f\u043e\u043b\u044f\u043d\u0430",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

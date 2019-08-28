@@ -11,12 +11,16 @@
     "geom:longitude":39.148817,
     "gn:population":1228,
     "iso:country":"UA",
+    "lbl:bbox":"39.128817,48.41495,39.168817,48.45495",
     "lbl:latitude":48.43495,
     "lbl:longitude":39.148817,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.43495,
     "mps:longitude":39.148817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0446\u044b\u044f \u043c\u0435\u0442\u0440\u043e \u041f\u043b\u043e\u0448\u0447\u0430 \u041b\u0435\u043d\u0456\u043d\u0430"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0435\u043d\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Lenina"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -99,7 +103,6 @@
     "wof:concordances":{
         "gn:id":703270,
         "gp:id":938558,
-        "qs:id":128557,
         "qs_pg:id":128557,
         "wd:id":"Q4258066"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101869613,
-    "wof:lastmodified":1563302811,
+    "wof:lastmodified":1566593429,
     "wof:name":"\u041b\u0435\u043d\u0456\u043d\u0430",
     "wof:parent_id":102088749,
     "wof:placetype":"locality",

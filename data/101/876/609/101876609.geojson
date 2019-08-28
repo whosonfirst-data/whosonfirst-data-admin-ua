@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":1776162.744716,
+    "geom:area_square_m":1776162.744715,
     "geom:bbox":"24.796176831,48.9965901932,24.8145206887,49.0144005997",
     "geom:latitude":49.004654,
     "geom:longitude":24.804512,
     "iso:country":"UA",
     "lbl:latitude":49.004189,
     "lbl:longitude":24.804337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.004189,
     "mps:longitude":24.804337,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ganushovtse"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -34,7 +38,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":708990,
         "gp:id":921237,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"51318c49db1b7fc6e2fc150fb6029650",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101876609,
-    "wof:lastmodified":1501215665,
+    "wof:lastmodified":1566593617,
     "wof:name":"\u0413\u0430\u043d\u043d\u0443\u0441\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

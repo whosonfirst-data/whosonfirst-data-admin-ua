@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"37.79528,49.45972,37.83528,49.49972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Lozova"
     ],
@@ -109,9 +113,6 @@
     "name:ukr_x_variant":[
         "\u041b\u043e\u0437\u043e\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Lozovaya"
-    ],
     "name:vie_x_preferred":[
         "Lozova"
     ],
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1259703833,
-    "wof:lastmodified":1564198639,
+    "wof:lastmodified":1566594276,
     "wof:name":"Lozova",
     "wof:parent_id":102088861,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"30.66599,46.33662,30.66599,46.33662",
     "geom:latitude":46.33662,
     "geom:longitude":30.66599,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"30.64599,46.31662,30.68599,46.35662",
     "lbl:latitude":46.33662,
     "lbl:longitude":30.66599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Burlatscha Balka"
@@ -33,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u043b\u0430\u0447\u0430 \u0411\u0430\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burlach\u2019ya Balka"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":917864,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
     "woe:name_adm1":"Odes\u00b4ka Oblast\u00b4",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125978371,
-    "wof:lastmodified":1561777015,
+    "wof:lastmodified":1566593927,
     "wof:name":"Burlach'ya Balka",
     "wof:parent_id":1108730699,
     "wof:placetype":"locality",

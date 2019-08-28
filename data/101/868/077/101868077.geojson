@@ -10,12 +10,16 @@
     "geom:latitude":48.482183,
     "geom:longitude":36.349775,
     "iso:country":"UA",
+    "lbl:bbox":"36.329775,48.462183,36.369775,48.502183",
     "lbl:latitude":48.482183,
     "lbl:longitude":36.349775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.482183,
     "mps:longitude":36.349775,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Liste der Rajone der Oblast Dnipropetrowsk"
     ],
@@ -34,9 +38,6 @@
     "name:ukr_x_variant":[
         "Brahynivka",
         "\u0411\u0440\u0430\u0433\u0438\u043d\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Braginovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -57,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":586,
     "wof:belongsto":[
         102191581,
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":711488,
         "gp:id":917551,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1850577"
     },
     "wof:country":"UA",
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":101868077,
-    "wof:lastmodified":1544749532,
+    "wof:lastmodified":1566593340,
     "wof:name":"\u0411\u0440\u0430\u0433\u0438\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088615,
     "wof:placetype":"locality",

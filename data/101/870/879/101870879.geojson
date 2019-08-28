@@ -11,12 +11,16 @@
     "geom:longitude":33.996862,
     "gn:population":5671,
     "iso:country":"UA",
+    "lbl:bbox":"33.976862,49.848497,34.016862,49.888497",
     "lbl:latitude":49.868497,
     "lbl:longitude":33.996862,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.868497,
     "mps:longitude":33.996862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0428\u044b\u0448\u0430\u043a\u044b"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0448\u0430\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shishaki"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":694013,
         "gp:id":933798,
-        "qs:id":82805,
+        "qs_pg:id":82805,
         "wd:id":"Q1020043"
     },
     "wof:country":"UA",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":101870879,
-    "wof:lastmodified":1563303111,
+    "wof:lastmodified":1566593559,
     "wof:name":"\u0428\u0438\u0448\u0430\u043a\u0438",
     "wof:parent_id":102088805,
     "wof:placetype":"locality",

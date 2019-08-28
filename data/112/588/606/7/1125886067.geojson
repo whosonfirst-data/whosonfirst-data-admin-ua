@@ -9,15 +9,18 @@
     "geom:bbox":"24.79112,48.15571,24.79112,48.15571",
     "geom:latitude":48.15571,
     "geom:longitude":24.79112,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5290,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5290,
     "iso:country":"UA",
+    "lbl:bbox":"24.77112,48.13571,24.81112,48.17571",
     "lbl:latitude":48.15571,
     "lbl:longitude":24.79112,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e\u0648\u0641\u064a\u0646\u0627"
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0432\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhabeye"
     ],
     "name:zho_x_preferred":[
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":937639,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1125886067,
-    "wof:lastmodified":1563303838,
+    "wof:lastmodified":1566593911,
     "wof:name":"Verkhovina",
     "wof:parent_id":102088011,
     "wof:placetype":"locality",

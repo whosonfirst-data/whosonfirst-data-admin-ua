@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":50.923856,
     "lbl:longitude":34.79148,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.923856,
     "mps:longitude":34.79148,
     "mz:hierarchy_label":1,
@@ -246,9 +248,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043c\u0438"
     ],
-    "name:unk_x_variant":[
-        "Sumi"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0645\u06cc"
     ],
@@ -375,7 +374,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.906799,
     "wd:longitude":34.799235,
@@ -391,7 +390,6 @@
     "wof:concordances":{
         "gn:id":692194,
         "gp:id":935486,
-        "qs:id":1028379,
         "qs_pg:id":1028379,
         "wd:id":"Q156752",
         "wk:page":"Sumy"
@@ -408,7 +406,7 @@
         }
     ],
     "wof:id":101752495,
-    "wof:lastmodified":1563302239,
+    "wof:lastmodified":1566593191,
     "wof:name":"\u0421\u0443\u043c\u0438",
     "wof:parent_id":1108730669,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.55251,
     "geom:longitude":36.466654,
     "iso:country":"UA",
+    "lbl:bbox":"36.446654,48.53251,36.486654,48.57251",
     "lbl:latitude":48.55251,
     "lbl:longitude":36.466654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.55251,
     "mps:longitude":36.466654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chorosche"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u0425\u043e\u0440\u043e\u0448\u0435"
     ],
-    "name:unk_x_variant":[
-        "Khorosheye"
-    ],
     "name:zho_x_preferred":[
         "\u970d\u7f85\u820d"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":666,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":706280,
         "gp:id":922321,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4500134"
     },
     "wof:country":"UA",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101868469,
-    "wof:lastmodified":1563302677,
+    "wof:lastmodified":1566593370,
     "wof:name":"\u0425\u043e\u0440\u043e\u0448\u0435",
     "wof:parent_id":102088615,
     "wof:placetype":"locality",

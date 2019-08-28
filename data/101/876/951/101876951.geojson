@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.385591,
     "lbl:longitude":37.780757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.385591,
     "mps:longitude":37.780757,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrivka"
     ],
@@ -28,7 +31,7 @@
     "name:ukr_x_variant":[
         "Petrivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +50,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         85688779,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":697363,
         "gp:id":930695,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4361001"
     },
     "wof:country":"UA",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101876951,
-    "wof:lastmodified":1563303198,
+    "wof:lastmodified":1566593605,
     "wof:name":"\u041f\u0435\u0442\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815895,
     "wof:placetype":"locality",

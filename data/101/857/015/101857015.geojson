@@ -11,12 +11,16 @@
     "geom:longitude":34.044428,
     "gn:population":8745,
     "iso:country":"UA",
+    "lbl:bbox":"34.024428,44.401794,34.064428,44.441794",
     "lbl:latitude":44.421794,
     "lbl:longitude":34.044428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.421794,
     "mps:longitude":34.044428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0648\u0628\u0643\u0627"
     ],
@@ -175,7 +179,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":67.0,
     "wd:latitude":44.419722,
@@ -195,7 +199,6 @@
         "fct:id":"082662cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":713514,
         "gp:id":915701,
-        "qs:id":1028651,
         "qs_pg:id":1028651,
         "wd:id":"Q448047",
         "wk:page":"Alupka"
@@ -225,7 +228,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302706,
+    "wof:lastmodified":1566593384,
     "wof:name":"\u0410\u043b\u0443\u043f\u043a\u0430",
     "wof:parent_id":1108738659,
     "wof:placetype":"locality",

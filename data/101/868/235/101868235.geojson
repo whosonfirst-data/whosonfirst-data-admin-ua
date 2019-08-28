@@ -10,12 +10,16 @@
     "geom:latitude":49.057002,
     "geom:longitude":32.186921,
     "iso:country":"UA",
+    "lbl:bbox":"32.166921,49.037002,32.206921,49.077002",
     "lbl:latitude":49.057002,
     "lbl:longitude":32.186921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.057002,
     "mps:longitude":32.186921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Vasyl Barvinsky"
     ],
@@ -184,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0432\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0412\u0430\u0441\u0438\u043b\u044c \u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kosara"
     ],
     "name:vec_x_preferred":[
@@ -215,7 +219,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":692,
     "wof:belongsto":[
         102191581,
@@ -227,7 +231,7 @@
     "wof:concordances":{
         "gn:id":704826,
         "gp:id":921722,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4078084"
     },
     "wof:country":"UA",
@@ -242,7 +246,7 @@
         }
     ],
     "wof:id":101868235,
-    "wof:lastmodified":1563302622,
+    "wof:lastmodified":1566593346,
     "wof:name":"\u041a\u043e\u0441\u0430\u0440\u0456",
     "wof:parent_id":102088513,
     "wof:placetype":"locality",

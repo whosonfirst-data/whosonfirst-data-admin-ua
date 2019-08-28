@@ -10,12 +10,16 @@
     "geom:latitude":45.304679,
     "geom:longitude":36.058661,
     "iso:country":"UA",
+    "lbl:bbox":"36.038661,45.284679,36.078661,45.324679",
     "lbl:latitude":45.304679,
     "lbl:longitude":36.058661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.304679,
     "mps:longitude":36.058661,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novonikolayevka"
     ],
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":699437,
         "gp:id":918488,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"227fafd8e059d24999090a95ea901bd6",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101857349,
-    "wof:lastmodified":1544743849,
+    "wof:lastmodified":1566593389,
     "wof:name":"\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

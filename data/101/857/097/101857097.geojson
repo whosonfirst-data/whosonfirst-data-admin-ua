@@ -10,12 +10,16 @@
     "geom:latitude":45.076573,
     "geom:longitude":34.006574,
     "iso:country":"UA",
+    "lbl:bbox":"33.986574,45.056573,34.026574,45.096573",
     "lbl:latitude":45.076573,
     "lbl:longitude":34.006574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.076573,
     "mps:longitude":34.006574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malen\u2019koye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":6980613,
         "gp:id":920984,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"2711ec5dfb71e4f4b7be8a8c338c892b",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857097,
-    "wof:lastmodified":1544743720,
+    "wof:lastmodified":1566593388,
     "wof:name":"\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

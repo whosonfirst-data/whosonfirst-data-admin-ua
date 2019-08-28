@@ -10,12 +10,16 @@
     "geom:latitude":48.123671,
     "geom:longitude":36.227172,
     "iso:country":"UA",
+    "lbl:bbox":"36.207172,48.103671,36.247172,48.143671",
     "lbl:latitude":48.123671,
     "lbl:longitude":36.227172,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.123671,
     "mps:longitude":36.227172,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chaplino"
     ],
@@ -25,7 +29,7 @@
     "name:rus_x_variant":[
         "\u0425\u0443\u0442\u043e\u0440\u043e-\u0427\u0430\u043f\u043b\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khutoro-Chaplino"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":710931,
         "gp:id":918051,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"2ad40b4b959f96e58732095dbd176a39",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101868243,
-    "wof:lastmodified":1544749625,
+    "wof:lastmodified":1566593343,
     "wof:name":"\u0427\u0430\u043f\u043b\u0438\u043d\u0435",
     "wof:parent_id":1108815617,
     "wof:placetype":"locality",

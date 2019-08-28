@@ -10,19 +10,23 @@
     "geom:latitude":46.303771,
     "geom:longitude":34.161273,
     "iso:country":"UA",
+    "lbl:bbox":"34.141273,46.283771,34.181273,46.323771",
     "lbl:latitude":46.303771,
     "lbl:longitude":34.161273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.303771,
     "mps:longitude":34.161273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sergeyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":694466,
         "gp:id":938454,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"1bd513a61dd5c8bdd64093d7d47037b6",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101865637,
-    "wof:lastmodified":1544748156,
+    "wof:lastmodified":1566593737,
     "wof:name":"\u0421\u0435\u0440\u0433\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088045,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":49.379415,
     "lbl:longitude":31.625581,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":49.380809,
     "mps:longitude":31.626323,
@@ -252,7 +253,7 @@
         "Czerkaski uobw\u016fd"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb8\u0bbf  \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
+        "\u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb8\u0bbf \u0b92\u0baa\u0bcd\u0bb3\u0bbe\u0bb8\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u044b \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -275,12 +276,6 @@
     "name:ukr_x_variant":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
         "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Cherkas'ka Oblast'"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0631\u06a9\u0627\u0633\u06cc \u0627\u0648\u0628\u0644\u0627\u0633\u062a"
@@ -378,9 +373,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"20,034",
     "statoids:area_mi":"7,735",
     "statoids:as_of_date":"2001-12-05",
@@ -425,7 +420,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737976,
+    "wof:lastmodified":1566591788,
     "wof:name":"Cherkasy",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

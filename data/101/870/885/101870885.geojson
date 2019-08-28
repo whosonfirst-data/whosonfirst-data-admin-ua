@@ -11,12 +11,16 @@
     "geom:longitude":35.159656,
     "gn:population":6274,
     "iso:country":"UA",
+    "lbl:bbox":"35.139656,49.692585,35.179656,49.732585",
     "lbl:latitude":49.712585,
     "lbl:longitude":35.159656,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.712585,
     "mps:longitude":35.159656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chutove"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0442\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chutovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":710342,
         "gp:id":918580,
-        "qs:id":128764
+        "qs_pg:id":128764
     },
     "wof:country":"UA",
     "wof:geomhash":"a077d98b71051c1de2e3a8fea611eeef",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101870885,
-    "wof:lastmodified":1544750856,
+    "wof:lastmodified":1566593561,
     "wof:name":"\u0427\u0443\u0442\u043e\u0432\u0435",
     "wof:parent_id":102088813,
     "wof:placetype":"locality",

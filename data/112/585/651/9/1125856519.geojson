@@ -9,15 +9,18 @@
     "geom:bbox":"29.8047,48.9909,29.8047,48.9909",
     "geom:latitude":48.9909,
     "geom:longitude":29.8047,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9111,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":9111,
     "iso:country":"UA",
+    "lbl:bbox":"29.7847,48.9709,29.8247,49.0109",
     "lbl:latitude":48.9909,
     "lbl:longitude":29.8047,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u0627\u0633\u062a\u064a\u0631\u064a\u0634\u062a\u0634\u064a"
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0449\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monastyrishche"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "qs_pg:qs_id":128459,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125856519,
-    "wof:lastmodified":1563303946,
+    "wof:lastmodified":1566593949,
     "wof:name":"Monastyryshche",
     "wof:parent_id":102088403,
     "wof:placetype":"locality",

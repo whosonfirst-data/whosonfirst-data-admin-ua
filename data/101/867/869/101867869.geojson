@@ -10,19 +10,23 @@
     "geom:latitude":49.010798,
     "geom:longitude":31.668178,
     "iso:country":"UA",
+    "lbl:bbox":"31.648178,48.990798,31.688178,49.030798",
     "lbl:latitude":49.010798,
     "lbl:longitude":31.668178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.010798,
     "mps:longitude":31.668178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Makiyivka"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0435\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makeyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":169.0,
     "wd:latitude":48.055556,
     "wd:longitude":37.961111,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":702319,
         "gp:id":926649,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"36fa7b4c2e3e8755716384e993be2297",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101867869,
-    "wof:lastmodified":1544749417,
+    "wof:lastmodified":1566593511,
     "wof:name":"\u041c\u0430\u043a\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":1108815713,
     "wof:placetype":"locality",

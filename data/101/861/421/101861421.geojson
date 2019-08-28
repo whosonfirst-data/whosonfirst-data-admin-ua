@@ -10,12 +10,16 @@
     "geom:latitude":48.489969,
     "geom:longitude":27.094575,
     "iso:country":"UA",
+    "lbl:bbox":"27.074575,48.469969,27.114575,48.509969",
     "lbl:latitude":48.489969,
     "lbl:longitude":27.094575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.489969,
     "mps:longitude":27.094575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "urban-type settlement"
     ],
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1221,
     "wof:belongsto":[
         102191581,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101861421,
-    "wof:lastmodified":1563302551,
+    "wof:lastmodified":1566593315,
     "wof:name":"\u0421\u0435\u043b\u0438\u0449\u0435",
     "wof:parent_id":102088147,
     "wof:placetype":"locality",

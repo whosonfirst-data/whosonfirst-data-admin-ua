@@ -10,12 +10,16 @@
     "geom:latitude":46.718928,
     "geom:longitude":35.633707,
     "iso:country":"UA",
+    "lbl:bbox":"35.613707,46.698928,35.653707,46.738928",
     "lbl:latitude":46.718928,
     "lbl:longitude":35.633707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.718928,
     "mps:longitude":35.633707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0430\u0437\u043e\u0432\u0441\u043a\u0435"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0430\u0437\u043e\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vtoraya Pokrovka"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":696332,
         "gp:id":931653,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1967388"
     },
     "wof:country":"UA",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101873959,
-    "wof:lastmodified":1563302262,
+    "wof:lastmodified":1566593198,
     "wof:name":"\u041f\u0440\u0438\u0430\u0437\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088205,
     "wof:placetype":"locality",

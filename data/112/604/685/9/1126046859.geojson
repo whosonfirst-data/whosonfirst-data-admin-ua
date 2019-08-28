@@ -9,15 +9,18 @@
     "geom:bbox":"29.46001,47.54044,29.46001,47.54044",
     "geom:latitude":47.54044,
     "geom:longitude":29.46001,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5461,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":5461,
     "iso:country":"UA",
+    "lbl:bbox":"29.44001,47.52044,29.48001,47.56044",
     "lbl:latitude":47.54044,
     "lbl:longitude":29.46001,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041e\u043a\u043d\u044b"
@@ -87,9 +90,6 @@
         "Krasni Okny",
         "\u041e\u043a\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Okny"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u5c3c"
     ],
@@ -105,7 +105,7 @@
     "qs_pg:qs_id":554566,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1126046859,
-    "wof:lastmodified":1563303793,
+    "wof:lastmodified":1566593895,
     "wof:name":"Krasni Okny",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

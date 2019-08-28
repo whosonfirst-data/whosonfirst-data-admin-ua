@@ -10,12 +10,16 @@
     "geom:latitude":48.455863,
     "geom:longitude":26.908907,
     "iso:country":"UA",
+    "lbl:bbox":"26.888907,48.435863,26.928907,48.475863",
     "lbl:latitude":48.455863,
     "lbl:longitude":26.908907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.455863,
     "mps:longitude":26.908907,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vovchynets"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
         102191581,
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":917939,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4124260"
     },
     "wof:country":"UA",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101861351,
-    "wof:lastmodified":1563302544,
+    "wof:lastmodified":1566593312,
     "wof:name":"\u0412\u043e\u0432\u0447\u0438\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088129,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"30.6596,46.53296,30.6596,46.53296",
     "geom:latitude":46.53296,
     "geom:longitude":30.6596,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7732,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7732,
     "iso:country":"UA",
+    "lbl:bbox":"30.6396,46.51296,30.6796,46.55296",
     "lbl:latitude":46.53296,
     "lbl:longitude":30.6596,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0423\u0441\u0430\u0442\u043e\u0432\u0435"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0430\u0442\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usatove"
     ],
     "qs_pg:aaroncc":"UA",
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":936847,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1125886085,
-    "wof:lastmodified":1509398506,
+    "wof:lastmodified":1566593911,
     "wof:name":"Usatovo",
     "wof:parent_id":85688877,
     "wof:placetype":"locality",

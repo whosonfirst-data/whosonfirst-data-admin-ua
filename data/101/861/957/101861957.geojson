@@ -11,12 +11,16 @@
     "geom:longitude":25.92109,
     "gn:population":6774,
     "iso:country":"UA",
+    "lbl:bbox":"25.90109,49.080924,25.94109,49.120924",
     "lbl:latitude":49.100924,
     "lbl:longitude":25.92109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.100924,
     "mps:longitude":25.92109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u044b\u0447\u044b\u043d\u0446\u0456"
     ],
@@ -98,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0438\u0447\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kopychyn\u2019tse"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +134,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":539,
     "wof:belongsto":[
@@ -143,7 +147,6 @@
     "wof:concordances":{
         "gn:id":705016,
         "gp:id":923502,
-        "qs:id":275520,
         "qs_pg:id":275520,
         "wd:id":"Q997381",
         "wk:page":"Kopychyntsi"
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101861957,
-    "wof:lastmodified":1563302537,
+    "wof:lastmodified":1566593310,
     "wof:name":"\u041a\u043e\u043f\u0438\u0447\u0438\u043d\u0446\u0456",
     "wof:parent_id":102088299,
     "wof:placetype":"locality",

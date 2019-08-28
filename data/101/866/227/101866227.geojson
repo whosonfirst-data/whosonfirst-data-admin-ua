@@ -10,12 +10,16 @@
     "geom:latitude":46.929541,
     "geom:longitude":34.398732,
     "iso:country":"UA",
+    "lbl:bbox":"34.378732,46.909541,34.418732,46.949541",
     "lbl:latitude":46.929541,
     "lbl:longitude":34.398732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.929541,
     "mps:longitude":34.398732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Werchni Sirohosy"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0456 \u0421\u0456\u0440\u043e\u0433\u043e\u0437\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhniye Serogozy"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":689879,
         "gp:id":937591,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4108606"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101866227,
-    "wof:lastmodified":1563302411,
+    "wof:lastmodified":1566593255,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u0456 \u0421\u0456\u0440\u043e\u0433\u043e\u0437\u0438",
     "wof:parent_id":102088123,
     "wof:placetype":"locality",

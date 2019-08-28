@@ -10,8 +10,10 @@
     "geom:latitude":50.412362,
     "geom:longitude":30.556671,
     "iso:country":"UA",
+    "lbl:bbox":"30.5516709638,50.4073619341,30.5616709638,50.4173619341",
     "lbl:latitude":50.412362,
     "lbl:longitude":30.556671,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u0442\u0435\u043b\u0438\u0447\u043a\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108945149,
-    "wof:lastmodified":1500072244,
+    "wof:lastmodified":1566592890,
     "wof:name":"Verkhnia Telychka",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

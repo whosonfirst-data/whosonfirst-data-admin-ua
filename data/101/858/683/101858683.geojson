@@ -10,12 +10,16 @@
     "geom:latitude":45.646142,
     "geom:longitude":33.836484,
     "iso:country":"UA",
+    "lbl:bbox":"33.816484,45.626142,33.856484,45.666142",
     "lbl:latitude":45.646142,
     "lbl:longitude":33.836484,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.646142,
     "mps:longitude":33.836484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:crh_x_historical":[
         "Toqul\u010daq"
     ],
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -74,7 +78,7 @@
         "fct:id":"0826dffe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":708061,
         "gp:id":920665,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"c7b2c22a1fece90fbec942b5a62a2ebd",
@@ -101,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744527,
+    "wof:lastmodified":1566593492,
     "wof:name":"\u0413\u0440\u0438\u0448\u0438\u043d\u0435",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

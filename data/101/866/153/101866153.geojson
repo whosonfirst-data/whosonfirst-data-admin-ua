@@ -10,12 +10,16 @@
     "geom:latitude":47.012825,
     "geom:longitude":33.606537,
     "iso:country":"UA",
+    "lbl:bbox":"33.586537,46.992825,33.626537,47.032825",
     "lbl:latitude":47.012825,
     "lbl:longitude":33.606537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.012825,
     "mps:longitude":33.606537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowokajiry"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u043a\u0430\u0457\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyye Kairy"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":699531,
         "gp:id":918432,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4324156"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101866153,
-    "wof:lastmodified":1563302442,
+    "wof:lastmodified":1566593269,
     "wof:name":"\u041d\u043e\u0432\u043e\u043a\u0430\u0457\u0440\u0438",
     "wof:parent_id":102088097,
     "wof:placetype":"locality",

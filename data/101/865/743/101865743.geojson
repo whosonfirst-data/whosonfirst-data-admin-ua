@@ -10,13 +10,17 @@
     "geom:latitude":47.37354,
     "geom:longitude":31.984939,
     "iso:country":"UA",
+    "lbl:bbox":"31.964939,47.35354,32.004939,47.39354",
     "lbl:latitude":47.37354,
     "lbl:longitude":31.984939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.37354,
     "mps:longitude":31.984939,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Prichepovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":692212,
         "gp:id":927589,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"ecf3b2e967f80427f72238c9ec393208",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101865743,
-    "wof:lastmodified":1544748215,
+    "wof:lastmodified":1566593739,
     "wof:name":"\u0421\u0443\u0445\u0438\u0439 \u0404\u043b\u0430\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088105,
     "wof:placetype":"locality",

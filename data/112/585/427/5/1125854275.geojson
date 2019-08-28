@@ -9,15 +9,18 @@
     "geom:bbox":"31.33314,51.22266,31.33314,51.22266",
     "geom:latitude":51.22266,
     "geom:longitude":31.33314,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2317,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2317,
     "iso:country":"UA",
+    "lbl:bbox":"31.31314,51.20266,31.35314,51.24266",
     "lbl:latitude":51.22266,
     "lbl:longitude":31.33314,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0410\u043b\u044b\u0448\u044b\u045e\u043a\u0430"
@@ -55,7 +58,7 @@
     "name:ukr_x_variant":[
         "\u041e\u043b\u0438\u0448\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olischewka"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":128400,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125854275,
-    "wof:lastmodified":1564198017,
+    "wof:lastmodified":1566593956,
     "wof:name":"Olyshivka",
     "wof:parent_id":1108815729,
     "wof:placetype":"locality",

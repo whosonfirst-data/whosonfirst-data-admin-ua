@@ -10,12 +10,16 @@
     "geom:latitude":48.539437,
     "geom:longitude":34.864315,
     "iso:country":"UA",
+    "lbl:bbox":"34.844315,48.519437,34.884315,48.559437",
     "lbl:latitude":48.539437,
     "lbl:longitude":34.864315,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.539437,
     "mps:longitude":34.864315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Dnipropetrovs'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":148,
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":922779,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"c8f70624be3b73bb9cd2ed4f41bc55fb",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101867905,
-    "wof:lastmodified":1544749436,
+    "wof:lastmodified":1566593523,
     "wof:name":"\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815737,
     "wof:placetype":"locality",

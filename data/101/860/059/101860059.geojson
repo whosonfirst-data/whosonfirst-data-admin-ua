@@ -10,13 +10,17 @@
     "geom:latitude":48.981595,
     "geom:longitude":24.637111,
     "iso:country":"UA",
+    "lbl:bbox":"24.617111,48.961595,24.657111,49.001595",
     "lbl:latitude":48.981595,
     "lbl:longitude":24.637111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.981595,
     "mps:longitude":24.637111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pavelche"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":193,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":697848,
         "gp:id":938183,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"6ab51b65a4b84538b8b4fc88ed0e06a1",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101860059,
-    "wof:lastmodified":1544745240,
+    "wof:lastmodified":1566593471,
     "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

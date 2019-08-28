@@ -10,12 +10,16 @@
     "geom:latitude":50.982041,
     "geom:longitude":34.306938,
     "iso:country":"UA",
+    "lbl:bbox":"34.286938,50.962041,34.326938,51.002041",
     "lbl:latitude":50.982041,
     "lbl:longitude":34.306938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.982041,
     "mps:longitude":34.306938,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ul'yanovka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ul\u2019yanovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871583,
-    "wof:lastmodified":1544751166,
+    "wof:lastmodified":1566593665,
     "wof:name":"\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088995,
     "wof:placetype":"locality",

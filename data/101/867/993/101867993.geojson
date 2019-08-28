@@ -10,20 +10,21 @@
     "geom:latitude":49.521188,
     "geom:longitude":31.830887,
     "iso:country":"UA",
+    "lbl:bbox":"31.810887,49.501188,31.850887,49.541188",
     "lbl:latitude":49.521188,
     "lbl:longitude":31.830887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.521188,
     "mps:longitude":31.830887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Budishche"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0434\u0438\u0449\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Budishche"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -44,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":711291,
         "gp:id":927435,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"2850129ab01a68835728af928231654e",
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101867993,
-    "wof:lastmodified":1544749486,
+    "wof:lastmodified":1566593522,
     "wof:name":"\u0411\u0443\u0434\u0438\u0449\u0435",
     "wof:parent_id":1108815743,
     "wof:placetype":"locality",

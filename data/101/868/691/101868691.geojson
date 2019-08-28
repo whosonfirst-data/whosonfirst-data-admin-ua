@@ -10,12 +10,16 @@
     "geom:latitude":49.545864,
     "geom:longitude":32.226472,
     "iso:country":"UA",
+    "lbl:bbox":"32.206472,49.525864,32.246472,49.565864",
     "lbl:latitude":49.545864,
     "lbl:longitude":32.226472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.545864,
     "mps:longitude":32.226472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mel'niki"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0435\u043b\u044c\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mel\u2019niki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":701394,
         "gp:id":921139,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"41c6dbbafbd28ce3c0062bbaf07b509b",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101868691,
-    "wof:lastmodified":1544749876,
+    "wof:lastmodified":1566593372,
     "wof:name":"\u041c\u0435\u043b\u044c\u043d\u0438\u043a\u0438",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

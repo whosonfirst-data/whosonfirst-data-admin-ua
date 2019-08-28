@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.890145,
     "lbl:longitude":29.136137,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zhytomyrska",
     "meso:admin_1":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Malyns'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":29.199836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Malyns'kyi"
     ],
@@ -41,9 +44,6 @@
         "Malyns'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u041c\u0430\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u041c\u0430\u043b\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102088815,
-    "wof:lastmodified":1555047735,
+    "wof:lastmodified":1566591424,
     "wof:name":"Malynskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

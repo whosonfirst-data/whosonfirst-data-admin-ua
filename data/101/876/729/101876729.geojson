@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":2097735.590467,
+    "geom:area_square_m":2097735.590466,
     "geom:bbox":"23.9446639549,49.4984934584,23.9630099138,49.5168406817",
     "geom:latitude":49.50772,
     "geom:longitude":23.953748,
     "iso:country":"UA",
     "lbl:latitude":49.507667,
     "lbl:longitude":23.953573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.507667,
     "mps:longitude":23.953573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0435\u0434\u043e\u0440\u043e\u0436\u043d\u043e\u0435"
     ],
@@ -25,7 +28,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0440\u043e\u0433\u043e\u0432\u0438\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drogovyzh"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +47,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":709605,
         "gp:id":927588,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"0d63188a2733e71e964d77dee58a90b5",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101876729,
-    "wof:lastmodified":1501215672,
+    "wof:lastmodified":1566593624,
     "wof:name":"\u0414\u0440\u043e\u0433\u043e\u0432\u0438\u0436",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

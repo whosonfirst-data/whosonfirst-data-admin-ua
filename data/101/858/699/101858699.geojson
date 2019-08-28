@@ -10,12 +10,16 @@
     "geom:latitude":45.775668,
     "geom:longitude":33.849438,
     "iso:country":"UA",
+    "lbl:bbox":"33.829438,45.755668,33.869438,45.795668",
     "lbl:latitude":45.775668,
     "lbl:longitude":33.849438,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.775668,
     "mps:longitude":33.849438,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Prawda"
     ],
@@ -224,7 +228,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2200,
     "wof:belongsto":[
         85688855,
@@ -239,7 +243,7 @@
     "wof:concordances":{
         "gn:id":696371,
         "gp:id":930517,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q183644"
     },
     "wof:country":"UA",
@@ -264,7 +268,7 @@
         }
     ],
     "wof:id":101858699,
-    "wof:lastmodified":1563302953,
+    "wof:lastmodified":1566593492,
     "wof:name":"\u041f\u0440\u0430\u0432\u0434\u0430",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

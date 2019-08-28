@@ -10,12 +10,16 @@
     "geom:latitude":50.485964,
     "geom:longitude":24.260141,
     "iso:country":"UA",
+    "lbl:bbox":"24.240141,50.465964,24.280141,50.505964",
     "lbl:latitude":50.485964,
     "lbl:longitude":24.260141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.485964,
     "mps:longitude":24.260141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zabuzh\u2019ye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8424486,
         "gp:id":940303,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"5498bf40f0d3d6923d8531b56b011090",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101862797,
-    "wof:lastmodified":1544746668,
+    "wof:lastmodified":1566593667,
     "wof:name":"\u0417\u0430\u0431\u0443\u0436\u0436\u044f",
     "wof:parent_id":102088549,
     "wof:placetype":"locality",

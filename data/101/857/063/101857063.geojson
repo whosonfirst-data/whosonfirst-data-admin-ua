@@ -10,12 +10,16 @@
     "geom:latitude":44.832997,
     "geom:longitude":33.969962,
     "iso:country":"UA",
+    "lbl:bbox":"33.949962,44.812997,33.989962,44.852997",
     "lbl:latitude":44.832997,
     "lbl:longitude":33.969962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.832997,
     "mps:longitude":33.969962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pochtovoye"
     ],
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":821,
     "wof:belongsto":[
         85688855,
@@ -76,9 +80,11 @@
         "fct:id":"0827e304-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":696999,
         "gp:id":931037,
-        "qs:id":7,
-        "qs_pg:id":231570,
+        "qs_pg:id":7,
         "wd:id":"Q4057732"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":231570
     },
     "wof:country":"UA",
     "wof:geomhash":"8e2116d6f73ab8dc2eefcb18212d8124",
@@ -105,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302713,
+    "wof:lastmodified":1566593387,
     "wof:name":"\u041f\u043e\u0448\u0442\u043e\u0432\u0435",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

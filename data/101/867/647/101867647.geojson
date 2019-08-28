@@ -10,13 +10,17 @@
     "geom:latitude":49.250264,
     "geom:longitude":29.19462,
     "iso:country":"UA",
+    "lbl:bbox":"29.17462,49.230264,29.21462,49.270264",
     "lbl:latitude":49.250264,
     "lbl:longitude":29.19462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.250264,
     "mps:longitude":29.19462,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Rososhe"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101867647,
-    "wof:lastmodified":1544749293,
+    "wof:lastmodified":1566593526,
     "wof:name":"\u0420\u043e\u0441\u043e\u0448\u0430",
     "wof:parent_id":102088421,
     "wof:placetype":"locality",

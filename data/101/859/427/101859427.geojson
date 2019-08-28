@@ -10,12 +10,16 @@
     "geom:latitude":48.410219,
     "geom:longitude":23.266542,
     "iso:country":"UA",
+    "lbl:bbox":"23.246542,48.390219,23.286542,48.430219",
     "lbl:latitude":48.410219,
     "lbl:longitude":23.266542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.410219,
     "mps:longitude":23.266542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bron'ka"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":711406,
         "gp:id":919088,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q714672"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101859427,
-    "wof:lastmodified":1561776912,
+    "wof:lastmodified":1566593237,
     "wof:name":"\u0411\u0440\u043e\u043d\u044c\u043a\u0430",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

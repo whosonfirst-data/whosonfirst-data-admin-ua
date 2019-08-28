@@ -11,12 +11,16 @@
     "geom:longitude":23.003132,
     "gn:population":16507,
     "iso:country":"UA",
+    "lbl:bbox":"22.983132,48.518872,23.023132,48.558872",
     "lbl:latitude":48.538872,
     "lbl:longitude":23.003132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.538872,
     "mps:longitude":23.003132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0633\u0648\u0627\u0644\u06cc\u0627\u0648\u0627"
     ],
@@ -110,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0430\u043b\u044f\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svalava"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +145,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":272,
     "wof:belongsto":[
@@ -154,7 +158,7 @@
     "wof:concordances":{
         "gn:id":692129,
         "gp:id":935548,
-        "qs:id":186282,
+        "qs_pg:id":186282,
         "wd:id":"Q146551",
         "wk:page":"Svaliava"
     },
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":101859739,
-    "wof:lastmodified":1563302288,
+    "wof:lastmodified":1566593209,
     "wof:name":"\u0421\u0432\u0430\u043b\u044f\u0432\u0430",
     "wof:parent_id":102088061,
     "wof:placetype":"locality",

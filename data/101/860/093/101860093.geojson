@@ -11,12 +11,16 @@
     "geom:longitude":23.560433,
     "gn:population":3115,
     "iso:country":"UA",
+    "lbl:bbox":"23.540433,49.375321,23.580433,49.415321",
     "lbl:latitude":49.395321,
     "lbl:longitude":23.560433,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.395321,
     "mps:longitude":23.560433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rykhtichi"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0445\u0442\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rikhtichi"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":695026,
         "gp:id":12518250,
-        "qs:id":128316,
+        "qs_pg:id":128316,
         "wd:id":"Q4402131",
         "wk:page":"Rykhtychi"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101860093,
-    "wof:lastmodified":1563302918,
+    "wof:lastmodified":1566593473,
     "wof:name":"\u0420\u0438\u0445\u0442\u0438\u0447\u0456",
     "wof:parent_id":1108815671,
     "wof:placetype":"locality",

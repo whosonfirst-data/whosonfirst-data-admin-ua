@@ -11,12 +11,16 @@
     "geom:longitude":36.739882,
     "gn:population":7817,
     "iso:country":"UA",
+    "lbl:bbox":"36.719882,48.230575,36.759882,48.270575",
     "lbl:latitude":48.250575,
     "lbl:longitude":36.739882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.250575,
     "mps:longitude":36.739882,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mezhova"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0436\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grigor\u2019yevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":701305,
         "gp:id":926902,
-        "qs:id":128479
+        "qs_pg:id":128479
     },
     "wof:country":"UA",
     "wof:geomhash":"689dbee3b89799b1ddc57c856224bf0d",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101868465,
-    "wof:lastmodified":1544749750,
+    "wof:lastmodified":1566593350,
     "wof:name":"\u041c\u0435\u0436\u043e\u0432\u0430",
     "wof:parent_id":102088607,
     "wof:placetype":"locality",

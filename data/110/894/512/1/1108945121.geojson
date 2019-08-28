@@ -10,8 +10,10 @@
     "geom:latitude":50.469831,
     "geom:longitude":30.512926,
     "iso:country":"UA",
+    "lbl:bbox":"30.5079259009,50.4648310747,30.5179259009,50.4748310747",
     "lbl:latitude":50.469831,
     "lbl:longitude":30.512926,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -66,7 +68,7 @@
     "name:zho_x_preferred":[
         "\u6ce2\u8fea\u723e\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1108945121,
-    "wof:lastmodified":1563301713,
+    "wof:lastmodified":1566592891,
     "wof:name":"Podil",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

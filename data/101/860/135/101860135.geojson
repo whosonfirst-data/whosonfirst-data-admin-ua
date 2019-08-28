@@ -10,12 +10,16 @@
     "geom:latitude":49.447582,
     "geom:longitude":23.253545,
     "iso:country":"UA",
+    "lbl:bbox":"23.233545,49.427582,23.273545,49.467582",
     "lbl:latitude":49.447582,
     "lbl:longitude":23.253545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.447582,
     "mps:longitude":23.253545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Selez"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0435\u043b\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vil\u2019shanin"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1214,
     "wof:belongsto":[
         102191581,
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":698530,
         "gp:id":932994,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1567716"
     },
     "wof:country":"UA",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101860135,
-    "wof:lastmodified":1563302852,
+    "wof:lastmodified":1566593447,
     "wof:name":"\u0412\u0456\u043b\u044c\u0448\u0430\u043d\u0438\u043a",
     "wof:parent_id":1108815683,
     "wof:placetype":"locality",

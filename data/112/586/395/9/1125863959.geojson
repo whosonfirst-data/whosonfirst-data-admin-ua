@@ -9,15 +9,18 @@
     "geom:bbox":"33.94144,50.02314,33.94144,50.02314",
     "geom:latitude":50.02314,
     "geom:longitude":33.94144,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4050,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4050,
     "iso:country":"UA",
+    "lbl:bbox":"33.92144,50.00314,33.96144,50.04314",
     "lbl:latitude":50.02314,
     "lbl:longitude":33.94144,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a \u0633\u0648\u0631\u0648\u062a\u0634\u064a\u0646\u062a\u0633\u064a"
@@ -82,7 +85,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u0421\u043e\u0440\u043e\u0447\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shiye Sorochintsy"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +110,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":937380,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1125863959,
-    "wof:lastmodified":1563303815,
+    "wof:lastmodified":1566593903,
     "wof:name":"Velikiye Sorochintsy",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"30.95153,48.03719,30.95153,48.03719",
     "geom:latitude":48.03719,
     "geom:longitude":30.95153,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1500,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1500,
     "iso:country":"UA",
+    "lbl:bbox":"30.93153,48.01719,30.97153,48.05719",
     "lbl:latitude":48.03719,
     "lbl:longitude":30.95153,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Myhiya"
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0433\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Migeya"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +71,7 @@
     "qs_pg:qs_id":1028533,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125891391,
-    "wof:lastmodified":1563303844,
+    "wof:lastmodified":1566593913,
     "wof:name":"Myhiya",
     "wof:parent_id":1108815681,
     "wof:placetype":"locality",

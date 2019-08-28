@@ -9,15 +9,18 @@
     "geom:bbox":"22.75328,48.66832,22.75328,48.66832",
     "geom:latitude":48.66832,
     "geom:longitude":22.75328,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3645,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3645,
     "iso:country":"UA",
+    "lbl:bbox":"22.73328,48.64832,22.77328,48.68832",
     "lbl:latitude":48.66832,
     "lbl:longitude":22.75328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Poroshkovo"
@@ -49,7 +52,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u0440\u043e\u0448\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poroshkove"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":1028458,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125900529,
-    "wof:lastmodified":1563303862,
+    "wof:lastmodified":1566593920,
     "wof:name":"Poroshkovo",
     "wof:parent_id":102088067,
     "wof:placetype":"locality",

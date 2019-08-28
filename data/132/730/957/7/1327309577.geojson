@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"33.81943,49.2837,33.85943,49.3237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mikhayliki"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0438\u043a\u0438"
-    ],
-    "name:und_x_variant":[
-        "Mikhayliki",
-        "Mykhailyky"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1327309577,
-    "wof:lastmodified":1537710814,
+    "wof:lastmodified":1566591072,
     "wof:name":"Mykhailyky",
     "wof:parent_id":102088651,
     "wof:placetype":"locality",

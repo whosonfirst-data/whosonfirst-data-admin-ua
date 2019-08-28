@@ -11,12 +11,16 @@
     "geom:longitude":38.176697,
     "gn:population":2353,
     "iso:country":"UA",
+    "lbl:bbox":"38.156697,49.571493,38.196697,49.611493",
     "lbl:latitude":49.591493,
     "lbl:longitude":38.176697,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.591493,
     "mps:longitude":38.176697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nyzhnya Duvanka"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nishnjaja Duwanka"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":699963,
         "gp:id":928150,
-        "qs:id":128453,
+        "qs_pg:id":128453,
         "wd:id":"Q4319285"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101871677,
-    "wof:lastmodified":1563303307,
+    "wof:lastmodified":1566593656,
     "wof:name":"\u041d\u0438\u0436\u043d\u044f \u0414\u0443\u0432\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088909,
     "wof:placetype":"locality",

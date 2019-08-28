@@ -10,12 +10,16 @@
     "geom:latitude":51.718124,
     "geom:longitude":32.834939,
     "iso:country":"UA",
+    "lbl:bbox":"32.814939,51.698124,32.854939,51.738124",
     "lbl:latitude":51.718124,
     "lbl:longitude":32.834939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.718124,
     "mps:longitude":32.834939,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ponornitsa"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u043d\u043e\u0440\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ponorniza"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":696572,
         "gp:id":916073,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"82195f6873b89d6e559493dbfb3396f7",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871815,
-    "wof:lastmodified":1544751269,
+    "wof:lastmodified":1566593653,
     "wof:name":"\u041f\u043e\u043d\u043e\u0440\u043d\u0438\u0446\u044f",
     "wof:parent_id":102089009,
     "wof:placetype":"locality",

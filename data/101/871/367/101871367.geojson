@@ -10,12 +10,16 @@
     "geom:latitude":50.166787,
     "geom:longitude":36.531952,
     "iso:country":"UA",
+    "lbl:bbox":"36.511952,50.146787,36.551952,50.186787",
     "lbl:latitude":50.166787,
     "lbl:longitude":36.531952,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.166787,
     "mps:longitude":36.531952,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veseloye"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vesele"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":689723,
         "gp:id":925353,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"b2348cbb9607509948ff35ef747b9c13",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871367,
-    "wof:lastmodified":1544751070,
+    "wof:lastmodified":1566593649,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

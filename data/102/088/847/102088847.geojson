@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.104251,
     "lbl:longitude":37.172821,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kharkivska",
     "meso:admin_1":"\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Iziums'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":37.283137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Iziums'kyi"
     ],
@@ -41,9 +44,6 @@
         "Iziums'kyi"
     ],
     "name:ukr_x_preferred":[
-        "\u0406\u0437\u044e\u043c\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u0406\u0437\u044e\u043c\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1553",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Izium",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102088847,
-    "wof:lastmodified":1554317314,
+    "wof:lastmodified":1566591427,
     "wof:name":"Iziumskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

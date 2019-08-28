@@ -10,12 +10,16 @@
     "geom:latitude":48.063272,
     "geom:longitude":23.731007,
     "iso:country":"UA",
+    "lbl:bbox":"23.711007,48.043272,23.751007,48.083272",
     "lbl:latitude":48.063272,
     "lbl:longitude":23.731007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.063272,
     "mps:longitude":23.731007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ternowo"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "\u0422\u0435\u0440\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternove"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20505,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":691618,
         "gp:id":935957,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q750334"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101859557,
-    "wof:lastmodified":1561776905,
+    "wof:lastmodified":1566593211,
     "wof:name":"\u0422\u0435\u0440\u043d\u043e\u0432\u043e",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

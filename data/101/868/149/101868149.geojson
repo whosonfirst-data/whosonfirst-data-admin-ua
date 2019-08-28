@@ -11,12 +11,16 @@
     "geom:longitude":36.163853,
     "gn:population":1206,
     "iso:country":"UA",
+    "lbl:bbox":"36.143853,47.628997,36.183853,47.668997",
     "lbl:latitude":47.648997,
     "lbl:longitude":36.163853,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.648997,
     "mps:longitude":36.163853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dvadtsatiletiye Oktyabr\u2019"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":687796,
         "gp:id":920819,
-        "qs:id":128163,
+        "qs_pg:id":128163,
         "wd:id":"Q2026977"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101868149,
-    "wof:lastmodified":1563302700,
+    "wof:lastmodified":1566593381,
     "wof:name":"\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",

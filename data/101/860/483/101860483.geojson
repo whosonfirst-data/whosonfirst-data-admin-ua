@@ -10,13 +10,17 @@
     "geom:latitude":48.196853,
     "geom:longitude":25.581028,
     "iso:country":"UA",
+    "lbl:bbox":"25.561028,48.176853,25.601028,48.216853",
     "lbl:latitude":48.196853,
     "lbl:longitude":25.581028,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.196853,
     "mps:longitude":25.581028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Komareshti"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":705235,
         "gp:id":935236,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"bad22f5ba933b9f4de5b5b0947766795",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101860483,
-    "wof:lastmodified":1544745460,
+    "wof:lastmodified":1566593453,
     "wof:name":"\u041a\u043e\u043c\u0430\u0440\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088037,
     "wof:placetype":"locality",

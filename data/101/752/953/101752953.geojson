@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":50.950738,
     "lbl:longitude":28.636444,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.950738,
     "mps:longitude":28.636444,
     "mz:hierarchy_label":1,
@@ -153,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0441\u0442\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korosten\u2019"
     ],
     "name:vie_x_preferred":[
@@ -270,7 +272,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":706,
     "wof:belongsto":[
@@ -283,7 +285,6 @@
     "wof:concordances":{
         "gn:id":704901,
         "gp:id":923607,
-        "qs:id":43859,
         "qs_pg:id":43859,
         "wd:id":"Q158904",
         "wk:page":"Korosten"
@@ -300,7 +301,7 @@
         }
     ],
     "wof:id":101752953,
-    "wof:lastmodified":1563302167,
+    "wof:lastmodified":1566593178,
     "wof:name":"\u041a\u043e\u0440\u043e\u0441\u0442\u0435\u043d\u044c",
     "wof:parent_id":1108815949,
     "wof:placetype":"locality",

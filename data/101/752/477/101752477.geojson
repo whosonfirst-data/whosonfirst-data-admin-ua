@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":48.684484,
     "lbl:longitude":26.584203,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":48.684484,
     "mps:longitude":26.584203,
     "mz:hierarchy_label":1,
@@ -233,7 +235,7 @@
         "\u041a\u0430\u043c\u044f\u043d\u0435\u0446\u044c-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
         "\u041a\u0430\u043c\u2019\u044f\u043d\u0435\u0446\u044c-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamenets Podol\u2019ski"
     ],
     "name:urd_x_preferred":[
@@ -369,7 +371,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -381,7 +383,6 @@
     "wof:concordances":{
         "gn:id":706950,
         "gp:id":921727,
-        "qs:id":128680,
         "qs_pg:id":128680,
         "wd:id":"Q193965",
         "wk:page":"Kamianets-Podilskyi"
@@ -398,7 +399,7 @@
         }
     ],
     "wof:id":101752477,
-    "wof:lastmodified":1563302183,
+    "wof:lastmodified":1566593181,
     "wof:name":"\u041a\u0430\u043c'\u044f\u043d\u0435\u0446\u044c-\u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1108815827,
     "wof:placetype":"locality",

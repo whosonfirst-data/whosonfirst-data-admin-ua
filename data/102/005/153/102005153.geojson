@@ -12,8 +12,11 @@
     "iso:country":"UA",
     "lbl:latitude":52.02413,
     "lbl:longitude":31.97305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0415\u043b\u0435\u043d\u0438\u043d\u043a\u0430"
     ],
@@ -40,9 +43,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0404\u043b\u0456\u043d\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Yeline"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102005153,
-    "wof:lastmodified":1527637960,
+    "wof:lastmodified":1566591478,
     "wof:name":"Yelino",
     "wof:parent_id":102089011,
     "wof:placetype":"locality",

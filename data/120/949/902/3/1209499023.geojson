@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"26.70674,50.08871,26.74674,50.12871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633805
@@ -34,7 +38,7 @@
         "gn:id":712649
     },
     "wof:country":"UA",
-    "wof:geomhash":"3158b6f11201b96bd48ebc2c6dba9fe7",
+    "wof:geomhash":"4e4c570f257587f74d38f21b8e774b99",
     "wof:hierarchy":[
         {
             "country_id":85633805,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209499023,
-    "wof:lastmodified":1536285243,
+    "wof:lastmodified":1566592461,
     "wof:name":"Bel'chinka",
     "wof:parent_id":85633805,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.726740000000003,
+    26.72674,
     50.10871,
-    26.726740000000003,
+    26.72674,
     50.10871
 ],
   "geometry": {"coordinates":[26.72674,50.10871],"type":"Point"}

@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.303673,
     "lbl:longitude":37.270831,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.303673,
     "mps:longitude":37.270831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0646\u0627\u063a\u0631\u062f"
     ],
@@ -157,7 +160,7 @@
         "Dymytrov",
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Dimitrova"
     ],
     "name:vie_x_preferred":[
@@ -185,7 +188,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
     "wof:belongsto":[
@@ -200,7 +203,7 @@
     "wof:concordances":{
         "gn:id":710035,
         "gp:id":918877,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q45872",
         "wk:page":"Myrnohrad"
     },
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":101752873,
-    "wof:lastmodified":1563302181,
+    "wof:lastmodified":1566593181,
     "wof:name":"\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

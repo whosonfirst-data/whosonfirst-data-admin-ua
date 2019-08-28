@@ -10,12 +10,16 @@
     "geom:latitude":48.227817,
     "geom:longitude":30.914382,
     "iso:country":"UA",
+    "lbl:bbox":"30.894382,48.207817,30.934382,48.247817",
     "lbl:latitude":48.227817,
     "lbl:longitude":30.914382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.227817,
     "mps:longitude":30.914382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vil'shanka"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olschanka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101866621,
-    "wof:lastmodified":1544748709,
+    "wof:lastmodified":1566593257,
     "wof:name":"\u0412\u0456\u043b\u044c\u0448\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088257,
     "wof:placetype":"locality",

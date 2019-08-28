@@ -10,12 +10,16 @@
     "geom:latitude":50.622859,
     "geom:longitude":29.868683,
     "iso:country":"UA",
+    "lbl:bbox":"29.848683,50.602859,29.888683,50.642859",
     "lbl:latitude":50.622859,
     "lbl:longitude":29.868683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.622859,
     "mps:longitude":29.868683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Druzhnya"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":709573,
         "gp:id":12518216,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"318f3d3dc67eb550a80f9745734aa6f5",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101870851,
-    "wof:lastmodified":1544750841,
+    "wof:lastmodified":1566593551,
     "wof:name":"\u0414\u0440\u0443\u0436\u043d\u044f",
     "wof:parent_id":102088783,
     "wof:placetype":"locality",

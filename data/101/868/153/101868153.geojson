@@ -11,12 +11,16 @@
     "geom:longitude":36.125483,
     "gn:population":1510,
     "iso:country":"UA",
+    "lbl:bbox":"36.105483,47.809216,36.145483,47.849216",
     "lbl:latitude":47.829216,
     "lbl:longitude":36.125483,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.829216,
     "mps:longitude":36.125483,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ternuvate"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u043d\u0443\u0432\u0430\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternovatoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":691639,
         "gp:id":935978,
-        "qs:id":421877
+        "qs_pg:id":421877
     },
     "wof:country":"UA",
     "wof:geomhash":"db5c2db0ff45171a9cdf114beaeaf180",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101868153,
-    "wof:lastmodified":1544749575,
+    "wof:lastmodified":1566593357,
     "wof:name":"\u0422\u0435\u0440\u043d\u0443\u0432\u0430\u0442\u0435",
     "wof:parent_id":102088443,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.251006,
     "geom:longitude":33.641133,
     "iso:country":"UA",
+    "lbl:bbox":"33.621133,45.231006,33.661133,45.271006",
     "lbl:latitude":45.251006,
     "lbl:longitude":33.641133,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.251006,
     "mps:longitude":33.641133,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhuravli"
     ],
@@ -55,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":139,
     "wof:belongsto":[
         85688855,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":7037529,
         "gp:id":929435,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4411618"
     },
     "wof:country":"UA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101857155,
-    "wof:lastmodified":1544743750,
+    "wof:lastmodified":1566593392,
     "wof:name":"\u0416\u0443\u0440\u0430\u0432\u043b\u0456",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

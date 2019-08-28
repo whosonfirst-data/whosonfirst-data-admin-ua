@@ -10,12 +10,16 @@
     "geom:latitude":50.346024,
     "geom:longitude":26.718624,
     "iso:country":"UA",
+    "lbl:bbox":"26.698624,50.326024,26.738624,50.366024",
     "lbl:latitude":50.346024,
     "lbl:longitude":26.718624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.346024,
     "mps:longitude":26.718624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Staryj Krywyn"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u0432\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krivin"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":692716,
         "gp:id":927870,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4441073"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101862943,
-    "wof:lastmodified":1563303434,
+    "wof:lastmodified":1566593712,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u0432\u0438\u043d",
     "wof:parent_id":1108815715,
     "wof:placetype":"locality",

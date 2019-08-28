@@ -11,12 +11,16 @@
     "geom:longitude":35.263366,
     "gn:population":15012,
     "iso:country":"UA",
+    "lbl:bbox":"35.243366,47.409502,35.283366,47.449502",
     "lbl:latitude":47.429502,
     "lbl:longitude":35.263366,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.429502,
     "mps:longitude":35.263366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u064a\u0644\u064a\u0641\u0643\u0627"
     ],
@@ -98,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasilevka"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +131,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -140,7 +144,6 @@
     "wof:concordances":{
         "gn:id":686729,
         "gp:id":937125,
-        "qs:id":275399,
         "qs_pg:id":275399,
         "wd:id":"Q712272",
         "wk:page":"Vasylivka"
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101866697,
-    "wof:lastmodified":1563302466,
+    "wof:lastmodified":1566593279,
     "wof:name":"\u0412\u0430\u0441\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088303,
     "wof:placetype":"locality",

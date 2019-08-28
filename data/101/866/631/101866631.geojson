@@ -10,12 +10,16 @@
     "geom:latitude":47.670984,
     "geom:longitude":32.865649,
     "iso:country":"UA",
+    "lbl:bbox":"32.845649,47.650984,32.885649,47.690984",
     "lbl:latitude":47.670984,
     "lbl:longitude":32.865649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.670984,
     "mps:longitude":32.865649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Trojizko-Safonowe"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u043e-\u0421\u0430\u0444\u043e\u043d\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Troitsko-Safonovo"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":691292,
         "gp:id":936290,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4463575"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101866631,
-    "wof:lastmodified":1563302475,
+    "wof:lastmodified":1566593283,
     "wof:name":"\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u043e-\u0421\u0430\u0444\u043e\u043d\u043e\u0432\u0435",
     "wof:parent_id":102088265,
     "wof:placetype":"locality",

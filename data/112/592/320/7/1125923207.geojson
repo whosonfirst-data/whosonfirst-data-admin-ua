@@ -9,15 +9,18 @@
     "geom:bbox":"24.55846,49.66523,24.55846,49.66523",
     "geom:latitude":49.66523,
     "geom:longitude":24.55846,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7284,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7284,
     "iso:country":"UA",
+    "lbl:bbox":"24.53846,49.64523,24.57846,49.68523",
     "lbl:latitude":49.66523,
     "lbl:longitude":24.55846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0645\u064a\u0634\u0644\u064a\u0627\u0646\u064a"
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Przemy\u015biany"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +122,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":930382,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1125923207,
-    "wof:lastmodified":1563303775,
+    "wof:lastmodified":1566593887,
     "wof:name":"Peremyshlyany",
     "wof:parent_id":102088335,
     "wof:placetype":"locality",

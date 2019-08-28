@@ -10,12 +10,16 @@
     "geom:latitude":49.269401,
     "geom:longitude":23.787534,
     "iso:country":"UA",
+    "lbl:bbox":"23.767534,49.249401,23.807534,49.289401",
     "lbl:latitude":49.269401,
     "lbl:longitude":23.787534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.269401,
     "mps:longitude":23.787534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nezhukhiv"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0436\u0443\u0445\u0456\u0432"
-    ],
-    "name:unk_x_variant":[
-        "Nezhukhiv"
     ],
     "name:zho_x_preferred":[
         "\u6d85\u8339\u5e0c\u592b"
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":129,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":700216,
         "gp:id":12518443,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4316236"
     },
     "wof:country":"UA",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":101861061,
-    "wof:lastmodified":1561776926,
+    "wof:lastmodified":1566593323,
     "wof:name":"\u041d\u0435\u0436\u0443\u0445\u0456\u0432",
     "wof:parent_id":102088221,
     "wof:placetype":"locality",

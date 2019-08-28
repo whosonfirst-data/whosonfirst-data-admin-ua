@@ -10,12 +10,16 @@
     "geom:latitude":49.037859,
     "geom:longitude":24.859531,
     "iso:country":"UA",
+    "lbl:bbox":"24.839531,49.017859,24.879531,49.057859",
     "lbl:latitude":49.037859,
     "lbl:longitude":24.859531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.037859,
     "mps:longitude":24.859531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Marijampil"
     ],
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3795,
     "wof:belongsto":[
         102191581,
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":921237,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4281734"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101861691,
-    "wof:lastmodified":1563302570,
+    "wof:lastmodified":1566593323,
     "wof:name":"\u041c\u0430\u0440\u0456\u044f\u043c\u043f\u0456\u043b\u044c",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.296555,
     "geom:longitude":35.85136,
     "iso:country":"UA",
+    "lbl:bbox":"35.83136,45.276555,35.87136,45.316555",
     "lbl:latitude":45.296555,
     "lbl:longitude":35.85136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.296555,
     "mps:longitude":35.85136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vinogradnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":290,
     "wof:belongsto":[
         85688855,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":689551,
         "gp:id":12518329,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"0a5108c39ad21c084ec71fa19aaef32d",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101857345,
-    "wof:lastmodified":1544743848,
+    "wof:lastmodified":1566593397,
     "wof:name":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043d\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

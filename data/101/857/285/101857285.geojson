@@ -11,12 +11,16 @@
     "geom:longitude":35.093487,
     "gn:population":9725,
     "iso:country":"UA",
+    "lbl:bbox":"35.073487,45.010475,35.113487,45.050475",
     "lbl:latitude":45.030475,
     "lbl:longitude":35.093487,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.030475,
     "mps:longitude":35.093487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u064a \u0642\u0631\u0645"
     ],
@@ -170,7 +174,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":300.0,
     "wd:latitude":45.029167,
@@ -190,10 +194,12 @@
         "fct:id":"08283f48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":692713,
         "gp:id":934997,
-        "qs:id":1028410,
         "qs_pg:id":250969,
         "wd:id":"Q576937",
         "wk:page":"Stary Krym"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028410
     },
     "wof:country":"UA",
     "wof:geomhash":"b3221c9bb061124279d4ed10bca8610b",
@@ -220,7 +226,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302728,
+    "wof:lastmodified":1566593394,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c",
     "wof:parent_id":1108738551,
     "wof:placetype":"locality",

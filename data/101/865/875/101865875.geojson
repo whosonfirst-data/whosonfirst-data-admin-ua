@@ -10,12 +10,16 @@
     "geom:latitude":48.291708,
     "geom:longitude":34.234404,
     "iso:country":"UA",
+    "lbl:bbox":"34.214404,48.271708,34.254404,48.311708",
     "lbl:latitude":48.291708,
     "lbl:longitude":34.234404,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.291708,
     "mps:longitude":34.234404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Adam\u00f3wka"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_variant":[
         "Adamivka"
     ],
-    "name:unk_x_variant":[
-        "Adamovka"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Dnipropetrovs'ka",
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191581,
@@ -89,7 +90,7 @@
     "wof:concordances":{
         "gn:id":713801,
         "gp:id":918981,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4057319"
     },
     "wof:country":"UA",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":101865875,
-    "wof:lastmodified":1563303456,
+    "wof:lastmodified":1566593721,
     "wof:name":"\u0410\u0434\u0430\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088477,
     "wof:placetype":"locality",

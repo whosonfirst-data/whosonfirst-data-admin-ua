@@ -9,15 +9,18 @@
     "geom:bbox":"24.33542,48.96345,24.33542,48.96345",
     "geom:latitude":48.96345,
     "geom:longitude":24.33542,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3564,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3564,
     "iso:country":"UA",
+    "lbl:bbox":"24.31542,48.94345,24.35542,48.98345",
     "lbl:latitude":48.96345,
     "lbl:longitude":24.33542,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Novytsya"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novitsa"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":275488,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125984625,
-    "wof:lastmodified":1563303889,
+    "wof:lastmodified":1566593930,
     "wof:name":"Novytsya",
     "wof:parent_id":102088203,
     "wof:placetype":"locality",

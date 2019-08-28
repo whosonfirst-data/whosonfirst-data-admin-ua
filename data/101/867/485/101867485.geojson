@@ -11,12 +11,16 @@
     "geom:longitude":32.761964,
     "gn:population":34267,
     "iso:country":"UA",
+    "lbl:bbox":"32.741964,48.096019,32.781964,48.136019",
     "lbl:latitude":48.116019,
     "lbl:longitude":32.761964,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.116019,
     "mps:longitude":32.761964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u064a\u0646\u0633\u0643\u0627"
     ],
@@ -92,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shevchenkovo"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +125,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":87,
     "wof:belongsto":[
@@ -133,7 +137,6 @@
     "wof:concordances":{
         "gn:id":709782,
         "gp:id":919110,
-        "qs:id":83151,
         "qs_pg:id":83151,
         "wd:id":"Q591822",
         "wk:page":"Dolynska"
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101867485,
-    "wof:lastmodified":1563302977,
+    "wof:lastmodified":1566593503,
     "wof:name":"\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
     "wof:parent_id":85688881,
     "wof:placetype":"locality",

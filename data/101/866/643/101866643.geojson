@@ -10,12 +10,16 @@
     "geom:latitude":48.641805,
     "geom:longitude":29.116058,
     "iso:country":"UA",
+    "lbl:bbox":"29.096058,48.621805,29.136058,48.661805",
     "lbl:latitude":48.641805,
     "lbl:longitude":29.116058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.641805,
     "mps:longitude":29.116058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Bogdan"
     ],
@@ -631,7 +635,7 @@
     "name:ukr_x_variant":[
         "\u0411\u043e\u0491\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalinovka"
     ],
     "name:vec_x_preferred":[
@@ -695,7 +699,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":679,
     "wof:belongsto":[
         102191581,
@@ -707,7 +711,7 @@
     "wof:concordances":{
         "gn:id":707202,
         "gp:id":922744,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1065625"
     },
     "wof:country":"UA",
@@ -722,7 +726,7 @@
         }
     ],
     "wof:id":101866643,
-    "wof:lastmodified":1563302412,
+    "wof:lastmodified":1566593256,
     "wof:name":"\u0411\u043e\u0433\u0434\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088267,
     "wof:placetype":"locality",

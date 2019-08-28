@@ -11,12 +11,16 @@
     "geom:longitude":23.350576,
     "gn:population":1104,
     "iso:country":"UA",
+    "lbl:bbox":"23.330576,48.644302,23.370576,48.684302",
     "lbl:latitude":48.664302,
     "lbl:longitude":23.350576,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.664302,
     "mps:longitude":23.350576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pylypets'"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_variant":[
         "Pylypets\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pilipets"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":697230,
         "gp:id":936939,
-        "qs:id":82877,
+        "qs_pg:id":82877,
         "wd:id":"Q740648"
     },
     "wof:country":"UA",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":101859771,
-    "wof:lastmodified":1563302330,
+    "wof:lastmodified":1566593226,
     "wof:name":"\u041f\u0438\u043b\u0438\u043f\u0435\u0446\u044c",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

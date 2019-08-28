@@ -10,12 +10,16 @@
     "geom:latitude":48.898743,
     "geom:longitude":24.665717,
     "iso:country":"UA",
+    "lbl:bbox":"24.645717,48.878743,24.685717,48.918743",
     "lbl:latitude":48.898743,
     "lbl:longitude":24.665717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.898743,
     "mps:longitude":24.665717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krykhivtsi"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0445\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krekhovtse"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":704095,
         "gp:id":924542,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4241399",
         "wk:page":"Krykhivtsi"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101860955,
-    "wof:lastmodified":1563302861,
+    "wof:lastmodified":1566593451,
     "wof:name":"\u041a\u0440\u0438\u0445\u0456\u0432\u0446\u0456",
     "wof:parent_id":1108730767,
     "wof:placetype":"locality",

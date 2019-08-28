@@ -10,12 +10,16 @@
     "geom:latitude":48.785523,
     "geom:longitude":24.511472,
     "iso:country":"UA",
+    "lbl:bbox":"24.491472,48.765523,24.531472,48.805523",
     "lbl:latitude":48.785523,
     "lbl:longitude":24.511472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.785523,
     "mps:longitude":24.511472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Pidhirja"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":917162,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"bb42e9314b0841110a41a9d4a277bf6a",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101860737,
-    "wof:lastmodified":1544745593,
+    "wof:lastmodified":1566593449,
     "wof:name":"\u041f\u0456\u0434\u0433\u0456\u0440'\u044f",
     "wof:parent_id":102088115,
     "wof:placetype":"locality",

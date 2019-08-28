@@ -11,12 +11,16 @@
     "geom:longitude":33.545976,
     "gn:population":10224,
     "iso:country":"UA",
+    "lbl:bbox":"33.525976,46.335824,33.565976,46.375824",
     "lbl:latitude":46.355824,
     "lbl:longitude":33.545976,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.355824,
     "mps:longitude":33.545976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_variant":[
         "\u0427\u0430\u043f\u043b\u044b\u043d\u043a\u0430"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschaplinka"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -95,7 +99,6 @@
     "wof:concordances":{
         "gn:id":710935,
         "gp:id":918049,
-        "qs:id":1028625,
         "qs_pg:id":1028625,
         "wd:id":"Q2658192",
         "wk:page":"Chaplynka"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101865935,
-    "wof:lastmodified":1563303477,
+    "wof:lastmodified":1566593730,
     "wof:name":"\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088009,
     "wof:placetype":"locality",

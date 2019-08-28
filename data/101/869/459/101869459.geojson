@@ -10,19 +10,23 @@
     "geom:latitude":50.363962,
     "geom:longitude":28.977492,
     "iso:country":"UA",
+    "lbl:bbox":"28.957492,50.343962,28.997492,50.383962",
     "lbl:latitude":50.363962,
     "lbl:longitude":28.977492,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.363962,
     "mps:longitude":28.977492,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Bil\u2019kivtsi"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u044c\u043a\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bel\u2019kovtsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":712149,
         "gp:id":923618,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"6d41d7756a59fb10c5c070478718eaeb",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101869459,
-    "wof:lastmodified":1544750308,
+    "wof:lastmodified":1566593439,
     "wof:name":"\u0411\u0456\u043b\u044c\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088679,
     "wof:placetype":"locality",

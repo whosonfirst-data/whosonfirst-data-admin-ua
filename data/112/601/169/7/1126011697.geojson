@@ -9,15 +9,18 @@
     "geom:bbox":"30.82946,49.25229,30.82946,49.25229",
     "geom:latitude":49.25229,
     "geom:longitude":30.82946,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7954,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7954,
     "iso:country":"UA",
+    "lbl:bbox":"30.80946,49.23229,30.84946,49.27229",
     "lbl:latitude":49.25229,
     "lbl:longitude":30.82946,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041b\u044b\u0441\u044f\u043d\u043a\u0430"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0441\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lisyanko"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +93,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":925816,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1126011697,
-    "wof:lastmodified":1563303899,
+    "wof:lastmodified":1566593933,
     "wof:name":"Lysyanka",
     "wof:parent_id":102088487,
     "wof:placetype":"locality",

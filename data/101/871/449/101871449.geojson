@@ -11,12 +11,16 @@
     "geom:longitude":38.717578,
     "gn:population":1135,
     "iso:country":"UA",
+    "lbl:bbox":"38.697578,49.579515,38.737578,49.619515",
     "lbl:latitude":49.599515,
     "lbl:longitude":38.717578,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.599515,
     "mps:longitude":38.717578,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Dolynske"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_variant":[
         "\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavlovka"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":193,
     "wof:belongsto":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":697839,
         "gp:id":924833,
-        "qs:id":1028485,
+        "qs_pg:id":1028485,
         "wd:id":"Q4165026"
     },
     "wof:country":"UA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101871449,
-    "wof:lastmodified":1563303249,
+    "wof:lastmodified":1566593632,
     "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088961,
     "wof:placetype":"locality",

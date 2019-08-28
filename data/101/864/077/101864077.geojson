@@ -11,12 +11,16 @@
     "geom:longitude":25.636048,
     "gn:population":8228,
     "iso:country":"UA",
+    "lbl:bbox":"25.616048,50.483039,25.656048,50.523039",
     "lbl:latitude":50.503039,
     "lbl:longitude":25.636048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.503039,
     "mps:longitude":25.636048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u043b\u044b\u043d\u0456\u045e"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043b\u0438\u043d\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mlynuv"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":147,
     "wof:belongsto":[
@@ -107,7 +111,6 @@
     "wof:concordances":{
         "gn:id":700964,
         "gp:id":927235,
-        "qs:id":128473,
         "qs_pg:id":128473,
         "wd:id":"Q2658207",
         "wk:page":"Mlyniv"
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101864077,
-    "wof:lastmodified":1563303531,
+    "wof:lastmodified":1566593753,
     "wof:name":"\u041c\u043b\u0438\u043d\u0456\u0432",
     "wof:parent_id":102088609,
     "wof:placetype":"locality",

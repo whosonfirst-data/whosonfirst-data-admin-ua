@@ -11,12 +11,16 @@
     "geom:longitude":25.58556,
     "gn:population":10089,
     "iso:country":"UA",
+    "lbl:bbox":"25.56556,48.417148,25.60556,48.457148",
     "lbl:latitude":48.437148,
     "lbl:longitude":25.58556,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":48.437148,
     "mps:longitude":25.58556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0421\u043d\u044f\u0442\u044b\u043d"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043d\u044f\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Snyatin"
     ],
     "name:vie_x_preferred":[
@@ -132,7 +136,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":312,
     "wof:belongsto":[
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":693365,
         "gp:id":934387,
-        "qs:id":128278,
+        "qs_pg:id":128278,
         "wd:id":"Q156818",
         "wk:page":"Sniatyn"
     },
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":101860593,
-    "wof:lastmodified":1563302853,
+    "wof:lastmodified":1566593448,
     "wof:name":"\u0421\u043d\u044f\u0442\u0438\u043d",
     "wof:parent_id":102088087,
     "wof:placetype":"locality",

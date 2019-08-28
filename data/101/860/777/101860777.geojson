@@ -10,12 +10,16 @@
     "geom:latitude":48.775965,
     "geom:longitude":24.205188,
     "iso:country":"UA",
+    "lbl:bbox":"24.185188,48.755965,24.225188,48.795965",
     "lbl:latitude":48.775965,
     "lbl:longitude":24.205188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.775965,
     "mps:longitude":24.205188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Room"
     ],
@@ -212,9 +216,6 @@
         "Slyvky",
         "\u0421\u043b\u0438\u0432\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u015aliwki"
-    ],
     "name:uzb_x_preferred":[
         "Qaymoq"
     ],
@@ -249,7 +250,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1377,
     "wof:belongsto":[
         102191581,
@@ -261,7 +262,7 @@
     "wof:concordances":{
         "gn:id":693560,
         "gp:id":921420,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4423415"
     },
     "wof:country":"UA",
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":101860777,
-    "wof:lastmodified":1563302886,
+    "wof:lastmodified":1566593462,
     "wof:name":"\u0421\u043b\u0438\u0432\u043a\u0438",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":24.84474,
     "gn:population":6054,
     "iso:country":"UA",
+    "lbl:bbox":"24.82474,48.307098,24.86474,48.347098",
     "lbl:latitude":48.327098,
     "lbl:longitude":24.84474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.327098,
     "mps:longitude":24.84474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kosmach"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u043c\u0430\u0447"
-    ],
-    "name:unk_x_variant":[
-        "Kosmacz"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u65af\u99ac\u5947"
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":704773,
         "gp:id":923719,
-        "qs:id":83039,
+        "qs_pg:id":83039,
         "wd:id":"Q4234969",
         "wk:page":"Kosmach"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101859683,
-    "wof:lastmodified":1563302367,
+    "wof:lastmodified":1566593237,
     "wof:name":"\u041a\u043e\u0441\u043c\u0430\u0447",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

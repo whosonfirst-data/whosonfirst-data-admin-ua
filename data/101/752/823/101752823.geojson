@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.254155,
     "lbl:longitude":23.84097,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":49.254155,
     "mps:longitude":23.84097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u064a"
     ],
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stry"
     ],
     "name:vie_x_preferred":[
@@ -178,7 +181,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1238,
     "wof:belongsto":[
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":692372,
         "gp:id":935340,
-        "qs:id":1351897,
+        "qs_pg:id":1351897,
         "wd:id":"Q158923",
         "wk:page":"Stryi"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":101752823,
-    "wof:lastmodified":1563302218,
+    "wof:lastmodified":1566593187,
     "wof:name":"\u0421\u0442\u0440\u0438\u0439",
     "wof:parent_id":1108730639,
     "wof:placetype":"locality",

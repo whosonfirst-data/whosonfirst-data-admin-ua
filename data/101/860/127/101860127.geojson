@@ -10,12 +10,16 @@
     "geom:latitude":49.411448,
     "geom:longitude":24.256746,
     "iso:country":"UA",
+    "lbl:bbox":"24.236746,49.391448,24.276746,49.431448",
     "lbl:latitude":49.411448,
     "lbl:longitude":24.256746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.411448,
     "mps:longitude":24.256746,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Marina Zhirova"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_variant":[
         "\u0416\u0438\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhirava"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":687138,
         "gp:id":922252,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q456567"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101860127,
-    "wof:lastmodified":1563302883,
+    "wof:lastmodified":1566593461,
     "wof:name":"\u0416\u0438\u0440\u043e\u0432\u0430",
     "wof:parent_id":102088289,
     "wof:placetype":"locality",

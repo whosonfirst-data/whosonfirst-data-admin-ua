@@ -11,12 +11,16 @@
     "geom:longitude":25.506306,
     "gn:population":8075,
     "iso:country":"UA",
+    "lbl:bbox":"25.486306,49.982886,25.526306,50.022886",
     "lbl:latitude":50.002886,
     "lbl:longitude":25.506306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.002886,
     "mps:longitude":25.506306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0447\u0430\u0456\u045e"
     ],
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0447\u0430\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pochayuv Stary"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +121,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":697006,
         "gp:id":931031,
-        "qs:id":229213,
+        "qs_pg:id":229213,
         "wd:id":"Q149060",
         "wk:page":"Pochaiv"
     },
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":101862701,
-    "wof:lastmodified":1563303340,
+    "wof:lastmodified":1566593669,
     "wof:name":"\u041f\u043e\u0447\u0430\u0457\u0432",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.97183,
     "geom:longitude":38.967104,
     "iso:country":"UA",
+    "lbl:bbox":"38.947104,48.95183,38.987104,48.99183",
     "lbl:latitude":48.97183,
     "lbl:longitude":38.967104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.97183,
     "mps:longitude":38.967104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ajdar-Mykolajiwka"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0439\u0434\u0430\u0440-\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoaydar-Nikolayevka"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":713095,
         "gp:id":925669,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4058788"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101869099,
-    "wof:lastmodified":1563302774,
+    "wof:lastmodified":1566593414,
     "wof:name":"\u0410\u0439\u0434\u0430\u0440-\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088867,
     "wof:placetype":"locality",

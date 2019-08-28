@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":46.781388,
     "lbl:longitude":33.454774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.781388,
     "mps:longitude":33.454774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malokakhovka"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u043e\u043a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malaya Kakhovka"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +66,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":702073,
         "gp:id":922163,
-        "qs:id":128503,
+        "qs_pg:id":128503,
         "wd:id":"Q4278336"
     },
     "wof:country":"UA",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101876459,
-    "wof:lastmodified":1563303218,
+    "wof:lastmodified":1566593616,
     "wof:name":"\u041c\u0430\u043b\u043e\u043a\u0430\u0445\u043e\u0432\u043a\u0430",
     "wof:parent_id":1108815711,
     "wof:placetype":"locality",

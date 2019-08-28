@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"33.05011,51.80308,33.09011,51.84308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Mezin"
     ],
@@ -37,9 +41,6 @@
     "name:ukr_x_variant":[
         "\u041c\u0435\u0437\u0438\u043d",
         "\u041c\u0456\u0437\u0438\u043d\u0441\u044c\u043a\u0430 \u0441\u0442\u043e\u044f\u043d\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Mezin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1293896089,
-    "wof:lastmodified":1564195384,
+    "wof:lastmodified":1566592020,
     "wof:name":"Mezyn",
     "wof:parent_id":102089009,
     "wof:placetype":"locality",

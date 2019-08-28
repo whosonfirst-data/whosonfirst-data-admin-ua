@@ -10,12 +10,16 @@
     "geom:latitude":49.208256,
     "geom:longitude":33.544705,
     "iso:country":"UA",
+    "lbl:bbox":"33.524705,49.188256,33.564705,49.228256",
     "lbl:latitude":49.208256,
     "lbl:longitude":33.544705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.208256,
     "mps:longitude":33.544705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Omel'nik"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u041e\u043c\u0435\u043b\u044c\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Omel\u2019nik"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":698497,
         "gp:id":929631,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4334593"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101868461,
-    "wof:lastmodified":1563302684,
+    "wof:lastmodified":1566593373,
     "wof:name":"\u041e\u043c\u0435\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":1108815685,
     "wof:placetype":"locality",

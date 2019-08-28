@@ -10,12 +10,16 @@
     "geom:latitude":47.695992,
     "geom:longitude":37.497068,
     "iso:country":"UA",
+    "lbl:bbox":"37.477068,47.675992,37.517068,47.715992",
     "lbl:latitude":47.695992,
     "lbl:longitude":37.497068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.695992,
     "mps:longitude":37.497068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Olg\u0131nka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041e\u043b\u044c\u0433\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olginskoe"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":698584,
         "gp:id":929497,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4334102"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101868215,
-    "wof:lastmodified":1563302665,
+    "wof:lastmodified":1566593365,
     "wof:name":"\u041e\u043b\u044c\u0433\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

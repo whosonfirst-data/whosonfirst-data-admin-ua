@@ -9,15 +9,18 @@
     "geom:bbox":"29.47041,50.63982,29.47041,50.63982",
     "geom:latitude":50.63982,
     "geom:longitude":29.47041,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1029,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1029,
     "iso:country":"UA",
+    "lbl:bbox":"29.45041,50.61982,29.49041,50.65982",
     "lbl:latitude":50.63982,
     "lbl:longitude":29.47041,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0411\u0456\u043b\u0430 \u041a\u0440\u044b\u043d\u044b\u0446\u044f"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0430 \u041a\u0440\u0438\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belaya Krinitsa"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":128840,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125779935,
-    "wof:lastmodified":1563304005,
+    "wof:lastmodified":1566593971,
     "wof:name":"Bila Krynytsya",
     "wof:parent_id":102088751,
     "wof:placetype":"locality",

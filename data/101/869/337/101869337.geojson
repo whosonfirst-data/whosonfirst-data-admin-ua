@@ -10,12 +10,16 @@
     "geom:latitude":50.114967,
     "geom:longitude":28.518395,
     "iso:country":"UA",
+    "lbl:bbox":"28.498395,50.094967,28.538395,50.134967",
     "lbl:latitude":50.114967,
     "lbl:longitude":28.518395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.114967,
     "mps:longitude":28.518395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hegewald"
     ],
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":545,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":936340,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q822883"
     },
     "wof:country":"UA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101869337,
-    "wof:lastmodified":1563302748,
+    "wof:lastmodified":1566593403,
     "wof:name":"\u0422\u0440\u043e\u044f\u043d\u0456\u0432",
     "wof:parent_id":1108815629,
     "wof:placetype":"locality",

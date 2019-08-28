@@ -10,12 +10,16 @@
     "geom:latitude":49.031883,
     "geom:longitude":37.558185,
     "iso:country":"UA",
+    "lbl:bbox":"37.538185,49.011883,37.578185,49.051883",
     "lbl:latitude":49.031883,
     "lbl:longitude":37.558185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.031883,
     "mps:longitude":37.558185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0421\u044c\u0432\u044f\u0442\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -97,7 +101,7 @@
     "name:ukr_x_variant":[
         "Svyatohirs\u2019k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banno-Tat\u2019yanovka"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +129,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":594,
     "wof:belongsto":[
         85688779,
@@ -138,7 +142,7 @@
     "wof:concordances":{
         "gn:id":693577,
         "gp:id":934194,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1020087"
     },
     "wof:country":"UA",
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":101869703,
-    "wof:lastmodified":1563302804,
+    "wof:lastmodified":1566593426,
     "wof:name":"\u0421\u0432\u044f\u0442\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
     "wof:parent_id":1108730787,
     "wof:placetype":"locality",

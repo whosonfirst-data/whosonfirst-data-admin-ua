@@ -10,19 +10,23 @@
     "geom:latitude":51.346436,
     "geom:longitude":29.849983,
     "iso:country":"UA",
+    "lbl:bbox":"29.829983,51.326436,29.869983,51.366436",
     "lbl:latitude":51.346436,
     "lbl:longitude":29.849983,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.346436,
     "mps:longitude":29.849983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Stara Krasnytsya"
     ],
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0440\u0430 \u041a\u0440\u0430\u0441\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Krasnitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101871273,
-    "wof:lastmodified":1544751027,
+    "wof:lastmodified":1566593632,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u041a\u0440\u0430\u0441\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

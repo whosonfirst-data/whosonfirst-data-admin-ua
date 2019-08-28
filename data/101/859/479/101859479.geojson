@@ -10,12 +10,16 @@
     "geom:latitude":48.184956,
     "geom:longitude":25.98334,
     "iso:country":"UA",
+    "lbl:bbox":"25.96334,48.164956,26.00334,48.204956",
     "lbl:latitude":48.184956,
     "lbl:longitude":25.98334,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.184956,
     "mps:longitude":25.98334,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Voloka"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918247,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2091615"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101859479,
-    "wof:lastmodified":1563302308,
+    "wof:lastmodified":1566593217,
     "wof:name":"\u0413\u0440\u0443\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088031,
     "wof:placetype":"locality",

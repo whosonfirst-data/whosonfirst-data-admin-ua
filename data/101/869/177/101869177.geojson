@@ -10,12 +10,16 @@
     "geom:latitude":49.458059,
     "geom:longitude":38.998636,
     "iso:country":"UA",
+    "lbl:bbox":"38.978636,49.438059,39.018636,49.478059",
     "lbl:latitude":49.458059,
     "lbl:longitude":38.998636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.458059,
     "mps:longitude":38.998636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pisky"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0456\u0441\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Peski"
-    ],
     "name:zho_x_preferred":[
         "\u76ae\u65af\u57fa"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":524,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":697502,
         "gp:id":928912,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4359650"
     },
     "wof:country":"UA",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":101869177,
-    "wof:lastmodified":1563302839,
+    "wof:lastmodified":1566593443,
     "wof:name":"\u041f\u0456\u0441\u043a\u0438",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

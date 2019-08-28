@@ -10,12 +10,16 @@
     "geom:latitude":49.463524,
     "geom:longitude":35.573007,
     "iso:country":"UA",
+    "lbl:bbox":"35.553007,49.443524,35.593007,49.483524",
     "lbl:latitude":49.463524,
     "lbl:longitude":35.573007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.463524,
     "mps:longitude":35.573007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kharkivs'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":179,
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":930681,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"5f049e1287c3c91a98e14d18e3cd8281",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101868059,
-    "wof:lastmodified":1544749522,
+    "wof:lastmodified":1566593371,
     "wof:name":"\u041e\u043a\u0442\u044f\u0431\u0440\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088787,
     "wof:placetype":"locality",

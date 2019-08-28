@@ -10,12 +10,16 @@
     "geom:latitude":48.319023,
     "geom:longitude":26.294069,
     "iso:country":"UA",
+    "lbl:bbox":"26.274069,48.299023,26.314069,48.339023",
     "lbl:latitude":48.319023,
     "lbl:longitude":26.294069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.319023,
     "mps:longitude":26.294069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dyniwzi"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918014,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2091592"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101859801,
-    "wof:lastmodified":1561776913,
+    "wof:lastmodified":1566593241,
     "wof:name":"\u0414\u0438\u043d\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088077,
     "wof:placetype":"locality",

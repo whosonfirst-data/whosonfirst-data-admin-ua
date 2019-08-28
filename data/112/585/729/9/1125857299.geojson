@@ -9,15 +9,18 @@
     "geom:bbox":"24.01028,49.75621,24.01028,49.75621",
     "geom:latitude":49.75621,
     "geom:longitude":24.01028,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3391,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3391,
     "iso:country":"UA",
+    "lbl:bbox":"23.99028,49.73621,24.03028,49.77621",
     "lbl:latitude":49.75621,
     "lbl:longitude":24.01028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Solonka"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Solonka Vel'ka"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +61,7 @@
     "qs_pg:qs_id":275434,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125857299,
-    "wof:lastmodified":1563303975,
+    "wof:lastmodified":1566593959,
     "wof:name":"Solonka",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

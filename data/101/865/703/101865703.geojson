@@ -10,12 +10,16 @@
     "geom:latitude":46.649752,
     "geom:longitude":33.578196,
     "iso:country":"UA",
+    "lbl:bbox":"33.558196,46.629752,33.598196,46.669752",
     "lbl:latitude":46.649752,
     "lbl:longitude":33.578196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.649752,
     "mps:longitude":33.578196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschornomoriwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0427\u043e\u0440\u043d\u043e\u043c\u043e\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernomorskiy"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":710693,
         "gp:id":922163,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4514055"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101865703,
-    "wof:lastmodified":1563303480,
+    "wof:lastmodified":1566593731,
     "wof:name":"\u0427\u043e\u0440\u043d\u043e\u043c\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815711,
     "wof:placetype":"locality",

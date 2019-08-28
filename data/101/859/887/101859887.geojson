@@ -11,19 +11,23 @@
     "geom:longitude":24.408161,
     "gn:population":4530,
     "iso:country":"UA",
+    "lbl:bbox":"24.388161,48.543615,24.428161,48.583615",
     "lbl:latitude":48.563615,
     "lbl:longitude":24.408161,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.563615,
     "mps:longitude":24.408161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041f\u0430\u0441\u0456\u0447\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0441\u0456\u0447\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pasechna"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":697945,
         "gp:id":921237,
-        "qs:id":1028488
+        "qs_pg:id":1028488
     },
     "wof:country":"UA",
     "wof:geomhash":"329e092b6cd8f1203e23db3410064316",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101859887,
-    "wof:lastmodified":1544745148,
+    "wof:lastmodified":1566593216,
     "wof:name":"\u041f\u0430\u0441\u0456\u0447\u043d\u0430",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

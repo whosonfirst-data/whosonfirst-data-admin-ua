@@ -10,12 +10,16 @@
     "geom:latitude":44.830143,
     "geom:longitude":34.228563,
     "iso:country":"UA",
+    "lbl:bbox":"34.208563,44.810143,34.248563,44.850143",
     "lbl:latitude":44.830143,
     "lbl:longitude":34.228563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.830143,
     "mps:longitude":34.228563,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnolesye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":704373,
         "gp:id":933992,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"f649c2ce2e4a02c604d53411de7daddf",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101855857,
-    "wof:lastmodified":1544743107,
+    "wof:lastmodified":1566593745,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u043b\u0456\u0441\u0441\u044f",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

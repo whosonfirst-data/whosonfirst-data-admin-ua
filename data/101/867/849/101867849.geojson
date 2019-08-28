@@ -10,20 +10,21 @@
     "geom:latitude":49.095001,
     "geom:longitude":31.963911,
     "iso:country":"UA",
+    "lbl:bbox":"31.943911,49.075001,31.983911,49.115001",
     "lbl:latitude":49.095001,
     "lbl:longitude":31.963911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.095001,
     "mps:longitude":31.963911,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raygorod"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0439\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Raygorod"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -45,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":101867849,
-    "wof:lastmodified":1544749406,
+    "wof:lastmodified":1566593527,
     "wof:name":"\u0420\u0430\u0439\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":102088513,
     "wof:placetype":"locality",

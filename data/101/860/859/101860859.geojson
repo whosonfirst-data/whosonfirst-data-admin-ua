@@ -11,12 +11,16 @@
     "geom:longitude":23.479576,
     "gn:population":1826,
     "iso:country":"UA",
+    "lbl:bbox":"23.459576,48.905095,23.499576,48.945095",
     "lbl:latitude":48.925095,
     "lbl:longitude":23.479576,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.925095,
     "mps:longitude":23.479576,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tuchla"
     ],
@@ -44,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0445\u043b\u044f"
     ],
-    "name:unk_x_variant":[
-        "Tuchla"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u062e\u0644\u0627"
     ],
@@ -69,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -81,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":691019,
-        "qs:id":128232,
+        "qs_pg:id":128232,
         "wd:id":"Q7850979"
     },
     "wof:country":"UA",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":101860859,
-    "wof:lastmodified":1563302871,
+    "wof:lastmodified":1566593455,
     "wof:name":"\u0422\u0443\u0445\u043b\u044f",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

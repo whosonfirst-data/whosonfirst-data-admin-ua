@@ -10,12 +10,16 @@
     "geom:latitude":48.635727,
     "geom:longitude":26.532146,
     "iso:country":"UA",
+    "lbl:bbox":"26.512146,48.615727,26.552146,48.655727",
     "lbl:latitude":48.635727,
     "lbl:longitude":26.532146,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.635727,
     "mps:longitude":26.532146,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Khmel'nyts'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":921727,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"30c937b615cc6919bdf1092d249e9333",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101873147,
-    "wof:lastmodified":1544751498,
+    "wof:lastmodified":1566593201,
     "wof:name":"\u041a\u043e\u043b\u0438\u0431\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":1108815767,
     "wof:placetype":"locality",

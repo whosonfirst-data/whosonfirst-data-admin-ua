@@ -13,6 +13,8 @@
     "iso:country":"UA",
     "lbl:latitude":49.595428,
     "lbl:longitude":34.547883,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.595428,
     "mps:longitude":34.547883,
     "mz:hierarchy_label":1,
@@ -264,9 +266,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Poltawa"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u062a\u0627\u0648\u0627"
     ],
@@ -397,7 +396,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.574444,
     "wd:longitude":34.568611,
@@ -412,7 +411,6 @@
     "wof:concordances":{
         "gn:id":696643,
         "gp:id":931366,
-        "qs:id":1028455,
         "qs_pg:id":1028455,
         "wd:id":"Q156747",
         "wk:page":"Poltava"
@@ -429,7 +427,7 @@
         }
     ],
     "wof:id":101752939,
-    "wof:lastmodified":1563302169,
+    "wof:lastmodified":1566593178,
     "wof:name":"\u041f\u043e\u043b\u0442\u0430\u0432\u0430",
     "wof:parent_id":1108815843,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"26.26231,48.43161,26.26231,48.43161",
     "geom:latitude":48.43161,
     "geom:longitude":26.26231,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6272,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":6272,
     "iso:country":"UA",
+    "lbl:bbox":"26.24231,48.41161,26.28231,48.45161",
     "lbl:latitude":48.43161,
     "lbl:longitude":26.26231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041a\u043b\u0456\u0448\u043a\u0456\u0432\u0446\u0456"
@@ -25,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0456\u0448\u043a\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cli\u015fc\u0103u\u0163i"
     ],
     "qs_pg:aaroncc":"UA",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":922924,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125873563,
-    "wof:lastmodified":1509397554,
+    "wof:lastmodified":1566593915,
     "wof:name":"Klishkivtsi",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

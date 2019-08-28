@@ -10,12 +10,16 @@
     "geom:latitude":48.49482,
     "geom:longitude":37.670122,
     "iso:country":"UA",
+    "lbl:bbox":"37.650122,48.47482,37.690122,48.51482",
     "lbl:latitude":48.49482,
     "lbl:longitude":37.670122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.49482,
     "mps:longitude":37.670122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0443\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442 \u0438\u043c\u0435\u043d\u0438 \u0418\u043b\u044c\u0438\u0447\u0430"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":977,
     "wof:belongsto":[
         85688779,
@@ -53,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":923431,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4281587"
     },
     "wof:country":"UA",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101868087,
-    "wof:lastmodified":1544749539,
+    "wof:lastmodified":1566593363,
     "wof:name":"\u0406\u043b\u043b\u0456\u0447\u0430",
     "wof:parent_id":1108815753,
     "wof:placetype":"locality",

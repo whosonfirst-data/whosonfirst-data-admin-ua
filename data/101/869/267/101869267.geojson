@@ -11,12 +11,16 @@
     "geom:longitude":28.606567,
     "gn:population":4427,
     "iso:country":"UA",
+    "lbl:bbox":"28.586567,49.914245,28.626567,49.954245",
     "lbl:latitude":49.934245,
     "lbl:longitude":28.606567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.934245,
     "mps:longitude":28.606567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u064a\u0634\u0643\u064a\u0641\u062a\u0633\u064a"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0438\u0448\u043a\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grishkovtsy"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":708057,
         "gp:id":920668,
-        "qs:id":128716,
+        "qs_pg:id":128716,
         "wd:id":"Q2993492",
         "wk:page":"Hryshkivtsi"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":101869267,
-    "wof:lastmodified":1563302775,
+    "wof:lastmodified":1566593414,
     "wof:name":"\u0413\u0440\u0438\u0448\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":1108815761,
     "wof:placetype":"locality",

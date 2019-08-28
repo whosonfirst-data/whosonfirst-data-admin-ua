@@ -10,12 +10,16 @@
     "geom:latitude":50.098396,
     "geom:longitude":30.26849,
     "iso:country":"UA",
+    "lbl:bbox":"30.24849,50.078396,30.28849,50.118396",
     "lbl:latitude":50.098396,
     "lbl:longitude":30.26849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.098396,
     "mps:longitude":30.26849,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kodaky"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":705498,
         "gp:id":937058,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"add2f38e37a77f254f5a240f8b888809",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101868737,
-    "wof:lastmodified":1544749903,
+    "wof:lastmodified":1566593335,
     "wof:name":"\u041a\u043e\u0434\u0430\u043a\u0438",
     "wof:parent_id":102088687,
     "wof:placetype":"locality",

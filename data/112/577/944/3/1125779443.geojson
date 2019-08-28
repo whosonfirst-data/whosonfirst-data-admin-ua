@@ -9,15 +9,18 @@
     "geom:bbox":"36.64908,47.358,36.64908,47.358",
     "geom:latitude":47.358,
     "geom:longitude":36.64908,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7832,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7832,
     "iso:country":"UA",
+    "lbl:bbox":"36.62908,47.338,36.66908,47.378",
     "lbl:latitude":47.358,
     "lbl:longitude":36.64908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435"
@@ -65,7 +68,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u044c\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuybyshevo"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +86,7 @@
     "qs_pg:qs_id":128573,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125779443,
-    "wof:lastmodified":1563304018,
+    "wof:lastmodified":1566593976,
     "wof:name":"Kuybysheve",
     "wof:parent_id":102088373,
     "wof:placetype":"locality",

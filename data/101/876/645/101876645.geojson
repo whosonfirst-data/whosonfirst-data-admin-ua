@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2009843.389643,
+    "geom:area_square_m":2009843.389642,
     "geom:bbox":"25.7361483535,48.9407219388,25.7545668777,48.9586122934",
     "geom:latitude":48.949961,
     "geom:longitude":25.74558,
@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.950195,
     "lbl:longitude":25.745755,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.950195,
     "mps:longitude":25.745755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:nld_x_preferred":[
         "Jagielnica"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u0433\u0456\u043b\u044c\u043d\u0438\u0446\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Jagielnica"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06af\u06cc\u0644\u0646\u06cc\u06a9\u0627"
@@ -51,7 +51,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -64,7 +64,7 @@
     "wof:concordances":{
         "gn:id":688602,
         "gp:id":938790,
-        "qs:id":1028348
+        "qs_pg:id":1028348
     },
     "wof:country":"UA",
     "wof:geomhash":"50e05c17d403eaf488245e8cadc4380a",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":101876645,
-    "wof:lastmodified":1527714910,
+    "wof:lastmodified":1566593585,
     "wof:name":"\u042f\u0433\u0456\u043b\u044c\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088219,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.292046,
     "geom:longitude":33.741781,
     "iso:country":"UA",
+    "lbl:bbox":"33.721781,46.272046,33.761781,46.312046",
     "lbl:latitude":46.292046,
     "lbl:longitude":33.741781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.292046,
     "mps:longitude":33.741781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "K\u00f6y \u00c7oqraq"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grigor\u2019yevka"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":708121,
         "gp:id":920623,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4149176"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101873111,
-    "wof:lastmodified":1563302258,
+    "wof:lastmodified":1566593196,
     "wof:name":"\u0413\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088009,
     "wof:placetype":"locality",

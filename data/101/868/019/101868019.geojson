@@ -10,12 +10,16 @@
     "geom:latitude":48.8908,
     "geom:longitude":35.322913,
     "iso:country":"UA",
+    "lbl:bbox":"35.302913,48.8708,35.342913,48.9108",
     "lbl:latitude":48.8908,
     "lbl:longitude":35.322913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.8908,
     "mps:longitude":35.322913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0628\u064a\u0641\u0643\u0627"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kil\u2019chen\u2019"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":708535,
         "gp:id":920240,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4119445"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101868019,
-    "wof:lastmodified":1563302673,
+    "wof:lastmodified":1566593368,
     "wof:name":"\u0413\u043e\u043b\u0443\u0431\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815619,
     "wof:placetype":"locality",

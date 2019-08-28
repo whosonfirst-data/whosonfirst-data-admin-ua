@@ -10,12 +10,16 @@
     "geom:latitude":48.90276,
     "geom:longitude":32.445358,
     "iso:country":"UA",
+    "lbl:bbox":"32.425358,48.88276,32.465358,48.92276",
     "lbl:latitude":48.90276,
     "lbl:longitude":32.445358,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.90276,
     "mps:longitude":32.445358,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnosillya"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnosel\u2019ye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":704318,
         "gp:id":924136,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"21cc086fde6c75edfd18e981533a8b0d",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101868199,
-    "wof:lastmodified":1544749601,
+    "wof:lastmodified":1566593361,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0456\u043b\u043b\u044f",
     "wof:parent_id":1108815663,
     "wof:placetype":"locality",

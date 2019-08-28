@@ -10,12 +10,16 @@
     "geom:latitude":48.321236,
     "geom:longitude":30.230658,
     "iso:country":"UA",
+    "lbl:bbox":"30.210658,48.301236,30.250658,48.341236",
     "lbl:latitude":48.321236,
     "lbl:longitude":30.230658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.321236,
     "mps:longitude":30.230658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0647\u0648\u0641\u064a\u0634\u064a\u0646\u0633\u0643\u064a"
     ],
@@ -94,7 +98,7 @@
     "name:ukr_x_variant":[
         "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ul\u2019yanovka"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +126,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         102191581,
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":690713,
         "gp:id":12518455,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1020103"
     },
     "wof:country":"UA",
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":101867335,
-    "wof:lastmodified":1563303022,
+    "wof:lastmodified":1566593521,
     "wof:name":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430",
     "wof:parent_id":102088241,
     "wof:placetype":"locality",

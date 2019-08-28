@@ -11,12 +11,16 @@
     "geom:longitude":25.926022,
     "gn:population":8942,
     "iso:country":"UA",
+    "lbl:bbox":"25.906022,48.071846,25.946022,48.111846",
     "lbl:latitude":48.091846,
     "lbl:longitude":25.926022,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.091846,
     "mps:longitude":25.926022,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0644\u064a\u0628\u0648\u0643\u0627"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0438\u0431\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glybokaya"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -101,7 +105,6 @@
     "wof:concordances":{
         "gn:id":707757,
         "gp:id":920962,
-        "qs:id":128706,
         "qs_pg:id":128706,
         "wd:id":"Q1621469",
         "wk:page":"Hlyboka"
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101860481,
-    "wof:lastmodified":1563302900,
+    "wof:lastmodified":1566593468,
     "wof:name":"\u0413\u043b\u0438\u0431\u043e\u043a\u0430",
     "wof:parent_id":102088031,
     "wof:placetype":"locality",

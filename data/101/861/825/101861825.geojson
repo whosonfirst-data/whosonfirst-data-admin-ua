@@ -10,12 +10,16 @@
     "geom:latitude":49.259698,
     "geom:longitude":25.151678,
     "iso:country":"UA",
+    "lbl:bbox":"25.131678,49.239698,25.171678,49.279698",
     "lbl:latitude":49.259698,
     "lbl:longitude":25.151678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.259698,
     "mps:longitude":25.151678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0645\u062c\u0627\u0631\u06cc\u0633\u062a\u0627\u0646\u200c\u062f\u0627 \u06cc\u0647\u0648\u062f\u06cc\u200c\u0644\u06cc\u0642"
     ],
@@ -28,7 +32,7 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30f3\u30ac\u30ea\u30fc\u306e\u30e6\u30c0\u30e4\u4eba\u306e\u6b74\u53f2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Syulka"
     ],
     "name:zho_x_preferred":[
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20505,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":694653,
         "gp:id":931072,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q469544"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101861825,
-    "wof:lastmodified":1563302560,
+    "wof:lastmodified":1566593320,
     "wof:name":"\u0421\u0456\u043b\u044c\u0446\u0435",
     "wof:parent_id":102088261,
     "wof:placetype":"locality",

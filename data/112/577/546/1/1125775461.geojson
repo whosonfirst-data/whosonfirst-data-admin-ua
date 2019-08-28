@@ -9,15 +9,18 @@
     "geom:bbox":"31.3948,50.74693,31.3948,50.74693",
     "geom:latitude":50.74693,
     "geom:longitude":31.3948,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11544,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":11544,
     "iso:country":"UA",
+    "lbl:bbox":"31.3748,50.72693,31.4148,50.76693",
     "lbl:latitude":50.74693,
     "lbl:longitude":31.3948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0631\u0648\u0641\u064a\u062a\u0633\u064a\u0627"
@@ -100,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u0440\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bobrovitsy"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "qs_pg:qs_id":1028639,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1125775461,
-    "wof:lastmodified":1563304016,
+    "wof:lastmodified":1566593975,
     "wof:name":"Bobrovytsya",
     "wof:parent_id":102088869,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":32.507865,
     "gn:population":7825,
     "iso:country":"UA",
+    "lbl:bbox":"32.487865,51.506913,32.527865,51.546913",
     "lbl:latitude":51.526913,
     "lbl:longitude":32.507865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.526913,
     "mps:longitude":32.507865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u043e\u0441\u043d\u044b\u0446\u044f"
     ],
@@ -65,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0441\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sosnitsa"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":404,
     "wof:belongsto":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":693100,
         "gp:id":934642,
-        "qs:id":275432,
+        "qs_pg:id":275432,
         "wd:id":"Q1718330",
         "wk:page":"Sosnytsia"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101871797,
-    "wof:lastmodified":1563303234,
+    "wof:lastmodified":1566593625,
     "wof:name":"\u0421\u043e\u0441\u043d\u0438\u0446\u044f",
     "wof:parent_id":102089005,
     "wof:placetype":"locality",

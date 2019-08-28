@@ -10,12 +10,16 @@
     "geom:latitude":46.953197,
     "geom:longitude":33.59693,
     "iso:country":"UA",
+    "lbl:bbox":"33.57693,46.933197,33.61693,46.973197",
     "lbl:latitude":46.953197,
     "lbl:longitude":33.59693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.953197,
     "mps:longitude":33.59693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tscherwonyj Majak"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u041c\u0430\u044f\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnyy Mayak"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":710516,
         "gp:id":918432,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4512447"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101866147,
-    "wof:lastmodified":1561776921,
+    "wof:lastmodified":1566593287,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u041c\u0430\u044f\u043a",
     "wof:parent_id":102088097,
     "wof:placetype":"locality",

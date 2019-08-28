@@ -10,12 +10,16 @@
     "geom:latitude":48.93414,
     "geom:longitude":23.062838,
     "iso:country":"UA",
+    "lbl:bbox":"23.042838,48.91414,23.082838,48.95414",
     "lbl:latitude":48.93414,
     "lbl:longitude":23.062838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.93414,
     "mps:longitude":23.062838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhnye Vysotske"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "Verkhnye Vysots\u2019ke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vysotsko"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":689890,
         "gp:id":922692,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2078717"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101860049,
-    "wof:lastmodified":1561776948,
+    "wof:lastmodified":1566593455,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u0454 \u0412\u0438\u0441\u043e\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

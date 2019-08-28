@@ -10,12 +10,16 @@
     "geom:latitude":50.83153,
     "geom:longitude":33.132931,
     "iso:country":"UA",
+    "lbl:bbox":"33.112931,50.81153,33.152931,50.85153",
     "lbl:latitude":50.83153,
     "lbl:longitude":33.132931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.83153,
     "mps:longitude":33.132931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u043b\u0430\u043b\u0430\u0456\u045e\u043a\u0430"
     ],
@@ -58,7 +62,7 @@
     "name:ukr_x_variant":[
         "Talalayivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Talalayevka"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -96,10 +100,12 @@
     "wof:concordances":{
         "gn:id":691942,
         "gp:id":935710,
-        "qs:id":2,
-        "qs_pg:id":1028380,
+        "qs_pg:id":2,
         "wd:id":"Q1019861",
         "wk:page":"Talalaivka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028380
     },
     "wof:country":"UA",
     "wof:geomhash":"809e772ae064555d8553fa4ea836ae29",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":101871341,
-    "wof:lastmodified":1563303275,
+    "wof:lastmodified":1566593642,
     "wof:name":"\u0422\u0430\u043b\u0430\u043b\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088937,
     "wof:placetype":"locality",

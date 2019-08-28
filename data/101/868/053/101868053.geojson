@@ -10,12 +10,16 @@
     "geom:latitude":49.388559,
     "geom:longitude":35.439512,
     "iso:country":"UA",
+    "lbl:bbox":"35.419512,49.368559,35.459512,49.408559",
     "lbl:latitude":49.388559,
     "lbl:longitude":35.439512,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.388559,
     "mps:longitude":35.439512,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peschanka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041f\u0456\u0449\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pesshanka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":697535,
         "gp:id":924084,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"cfbe71dbdbf17bc3d49268af18554d45",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101868053,
-    "wof:lastmodified":1544749520,
+    "wof:lastmodified":1566593346,
     "wof:name":"\u041f\u0456\u0449\u0430\u043d\u043a\u0430",
     "wof:parent_id":102088787,
     "wof:placetype":"locality",

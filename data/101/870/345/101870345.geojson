@@ -10,12 +10,16 @@
     "geom:latitude":50.892532,
     "geom:longitude":33.477058,
     "iso:country":"UA",
+    "lbl:bbox":"33.457058,50.872532,33.497058,50.912532",
     "lbl:latitude":50.892532,
     "lbl:longitude":33.477058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.892532,
     "mps:longitude":33.477058,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khmelov"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0425\u043c\u0435\u043b\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khmelev"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101870345,
-    "wof:lastmodified":1544750639,
+    "wof:lastmodified":1566593566,
     "wof:name":"\u0425\u043c\u0435\u043b\u0456\u0432",
     "wof:parent_id":1108815707,
     "wof:placetype":"locality",

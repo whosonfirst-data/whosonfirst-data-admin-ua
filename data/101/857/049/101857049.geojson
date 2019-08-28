@@ -10,12 +10,16 @@
     "geom:latitude":44.74019,
     "geom:longitude":33.585557,
     "iso:country":"UA",
+    "lbl:bbox":"33.565557,44.72019,33.605557,44.76019",
     "lbl:latitude":44.74019,
     "lbl:longitude":33.585557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.74019,
     "mps:longitude":33.585557,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0648\u0627 \u0627\u0644\u062e\u064a\u0627\u0644\u0629"
     ],
@@ -107,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":564,
     "wof:belongsto":[
         85688855,
@@ -122,7 +126,7 @@
     "wof:concordances":{
         "gn:id":7040068,
         "gp:id":12518269,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q596389",
         "wk:page":"Alvanq"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":101857049,
-    "wof:lastmodified":1563302710,
+    "wof:lastmodified":1566593386,
     "wof:name":"\u041f\u043e\u043b\u044e\u0448\u043a\u043e",
     "wof:parent_id":1108738685,
     "wof:placetype":"locality",

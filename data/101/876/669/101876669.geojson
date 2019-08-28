@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.058909,
     "lbl:longitude":25.392389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.058909,
     "mps:longitude":25.392389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u0627\u062a\u0634"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0447\u0430\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bugach"
     ],
     "name:vie_x_preferred":[
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1507,
     "wof:belongsto":[
@@ -180,7 +183,6 @@
     "wof:concordances":{
         "gn:id":711348,
         "gp:id":917675,
-        "qs:id":128792,
         "qs_pg:id":128792,
         "wd:id":"Q849109",
         "wk:page":"Buchach"
@@ -197,7 +199,7 @@
         }
     ],
     "wof:id":101876669,
-    "wof:lastmodified":1563303170,
+    "wof:lastmodified":1566593589,
     "wof:name":"\u0411\u0443\u0447\u0430\u0447",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

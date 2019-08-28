@@ -10,12 +10,16 @@
     "geom:latitude":46.677578,
     "geom:longitude":35.835711,
     "iso:country":"UA",
+    "lbl:bbox":"35.815711,46.657578,35.855711,46.697578",
     "lbl:latitude":46.677578,
     "lbl:longitude":35.835711,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.677578,
     "mps:longitude":35.835711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0435\u0432\u043e"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u0456\u0454\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsaredarovka"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":711525,
         "gp:id":917518,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4095160"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101866937,
-    "wof:lastmodified":1561776915,
+    "wof:lastmodified":1566593253,
     "wof:name":"\u0411\u043e\u0442\u0456\u0454\u0432\u0435",
     "wof:parent_id":102088205,
     "wof:placetype":"locality",

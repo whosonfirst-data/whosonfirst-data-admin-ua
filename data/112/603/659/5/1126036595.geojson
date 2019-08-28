@@ -9,15 +9,18 @@
     "geom:bbox":"30.4898,50.58476,30.4898,50.58476",
     "geom:latitude":50.58476,
     "geom:longitude":30.4898,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":22080,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":22080,
     "iso:country":"UA",
+    "lbl:bbox":"30.4698,50.56476,30.5098,50.60476",
     "lbl:latitude":50.58476,
     "lbl:longitude":30.4898,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0634\u0647\u0648\u0631\u0648\u062f"
@@ -151,9 +154,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Vyshhorod"
-    ],
     "name:vie_x_preferred":[
         "Vyshhorod"
     ],
@@ -181,7 +181,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":938670,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":1126036595,
-    "wof:lastmodified":1563303797,
+    "wof:lastmodified":1566593896,
     "wof:name":"Vyshgorod",
     "wof:parent_id":102088851,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"34.24524,49.17015,34.28524,49.21015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0430\u0440\u043e\u045e\u043a\u0430"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u043c\u0430\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "Komarovka"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1225909975,
-    "wof:lastmodified":1564199082,
+    "wof:lastmodified":1566594528,
     "wof:name":"Komarivka",
     "wof:parent_id":102088641,
     "wof:placetype":"locality",

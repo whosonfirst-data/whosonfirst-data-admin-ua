@@ -10,12 +10,16 @@
     "geom:latitude":49.160351,
     "geom:longitude":25.709704,
     "iso:country":"UA",
+    "lbl:bbox":"25.689704,49.140351,25.729704,49.180351",
     "lbl:latitude":49.160351,
     "lbl:longitude":25.709704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.160351,
     "mps:longitude":25.709704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Budaniv"
     ],
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043d\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Budzanuu"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +96,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":175,
     "wof:belongsto":[
         102191581,
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":711327,
         "gp:id":935931,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1000641",
         "wk:page":"Budaniv"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":101861889,
-    "wof:lastmodified":1563302502,
+    "wof:lastmodified":1566593296,
     "wof:name":"\u0411\u0443\u0434\u0430\u043d\u0456\u0432",
     "wof:parent_id":102088293,
     "wof:placetype":"locality",

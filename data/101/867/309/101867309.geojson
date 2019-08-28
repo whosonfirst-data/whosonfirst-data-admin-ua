@@ -10,12 +10,16 @@
     "geom:latitude":48.271647,
     "geom:longitude":39.932856,
     "iso:country":"UA",
+    "lbl:bbox":"39.912856,48.251647,39.952856,48.291647",
     "lbl:latitude":48.271647,
     "lbl:longitude":39.932856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.271647,
     "mps:longitude":39.932856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wlassiwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0412\u043b\u0430\u0441\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vlasov"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":689364,
         "gp:id":921406,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4113524"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101867309,
-    "wof:lastmodified":1563302962,
+    "wof:lastmodified":1566593497,
     "wof:name":"\u0412\u043b\u0430\u0441\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815747,
     "wof:placetype":"locality",

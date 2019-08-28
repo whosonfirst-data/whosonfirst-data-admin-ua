@@ -10,12 +10,16 @@
     "geom:latitude":49.215915,
     "geom:longitude":22.889363,
     "iso:country":"UA",
+    "lbl:bbox":"22.869363,49.195915,22.909363,49.235915",
     "lbl:latitude":49.215915,
     "lbl:longitude":22.889363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.215915,
     "mps:longitude":22.889363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Schwarzmeerdeutsche"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0412\u043e\u0432\u0447\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Volche"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2089,
     "wof:belongsto":[
         102191581,
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":689267,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q704858"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101860915,
-    "wof:lastmodified":1563302882,
+    "wof:lastmodified":1566593460,
     "wof:name":"\u0412\u043e\u0432\u0447\u0435",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

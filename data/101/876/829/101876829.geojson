@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":2848692.48223,
+    "geom:area_square_m":2848692.482232,
     "geom:bbox":"24.3459948675,50.0990878866,24.3733982386,50.1266441352",
     "geom:latitude":50.115728,
     "geom:longitude":24.362333,
     "iso:country":"UA",
     "lbl:latitude":50.117449,
     "lbl:longitude":24.364408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.117449,
     "mps:longitude":24.364408,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Lany Nemetskiye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -35,7 +39,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101876829,
-    "wof:lastmodified":1501215359,
+    "wof:lastmodified":1566593583,
     "wof:name":"\u0417\u0430\u0431\u0443\u0436\u0436\u044f",
     "wof:parent_id":102088459,
     "wof:placetype":"locality",

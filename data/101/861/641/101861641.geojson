@@ -11,19 +11,23 @@
     "geom:longitude":27.787514,
     "gn:population":4182,
     "iso:country":"UA",
+    "lbl:bbox":"27.767514,48.580674,27.807514,48.620674",
     "lbl:latitude":48.600674,
     "lbl:longitude":27.787514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.600674,
     "mps:longitude":27.787514,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u043d\u0434\u0438\u0447\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u0434\u0438\u0447\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bendichany"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":690032,
         "gp:id":937436,
-        "qs:id":421939
+        "qs_pg:id":421939
     },
     "wof:country":"UA",
     "wof:geomhash":"f2c1d66f55d53ac3a2fda850377f7be6",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101861641,
-    "wof:lastmodified":1544746070,
+    "wof:lastmodified":1566593319,
     "wof:name":"\u0412\u0435\u043d\u0434\u0438\u0447\u0430\u043d\u0438",
     "wof:parent_id":1108815765,
     "wof:placetype":"locality",

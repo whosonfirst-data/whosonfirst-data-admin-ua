@@ -10,12 +10,16 @@
     "geom:latitude":48.228314,
     "geom:longitude":22.570414,
     "iso:country":"UA",
+    "lbl:bbox":"22.550414,48.208314,22.590414,48.248314",
     "lbl:latitude":48.228314,
     "lbl:longitude":22.570414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.228314,
     "mps:longitude":22.570414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Diida"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0439\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dyida"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -78,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":710219,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q279178"
     },
     "wof:country":"UA",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":101859193,
-    "wof:lastmodified":1563302296,
+    "wof:lastmodified":1566593212,
     "wof:name":"\u0414\u0438\u0439\u0434\u0430",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

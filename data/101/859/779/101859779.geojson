@@ -10,12 +10,16 @@
     "geom:latitude":48.468838,
     "geom:longitude":23.505036,
     "iso:country":"UA",
+    "lbl:bbox":"23.485036,48.448838,23.525036,48.488838",
     "lbl:latitude":48.468838,
     "lbl:longitude":23.505036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.468838,
     "mps:longitude":23.505036,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Zaperedel\u2019ye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8280398,
         "gp:id":926904,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"33dcd2d96ef851f144debd36ce5c3370",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859779,
-    "wof:lastmodified":1544745092,
+    "wof:lastmodified":1566593229,
     "wof:name":"\u0417\u0430\u043f\u0435\u0440\u0435\u0434\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":33.288326,
     "gn:population":4537,
     "iso:country":"UA",
+    "lbl:bbox":"33.268326,46.726802,33.308326,46.766802",
     "lbl:latitude":46.746802,
     "lbl:longitude":33.288326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.746802,
     "mps:longitude":33.288326,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0414\u043d\u0456\u043f\u0440\u044f\u043d\u0438"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043d\u0456\u043f\u0440\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Britany"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -49,7 +53,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":709940,
         "gp:id":918975,
-        "qs:id":128760
+        "qs_pg:id":128760
     },
     "wof:country":"UA",
     "wof:geomhash":"1471ef7886172737d44d0b5c7dde7bbc",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101866047,
-    "wof:lastmodified":1544748385,
+    "wof:lastmodified":1566593259,
     "wof:name":"\u0414\u043d\u0456\u043f\u0440\u044f\u043d\u0438",
     "wof:parent_id":1175613703,
     "wof:placetype":"locality",

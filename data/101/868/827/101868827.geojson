@@ -10,12 +10,16 @@
     "geom:latitude":48.122206,
     "geom:longitude":39.58962,
     "iso:country":"UA",
+    "lbl:bbox":"39.56962,48.102206,39.60962,48.142206",
     "lbl:latitude":48.122206,
     "lbl:longitude":39.58962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.122206,
     "mps:longitude":39.58962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Volodarsk"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shakhta Imeni Volodarskogo"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":115,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":689155,
         "gp:id":938269,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4123734"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101868827,
-    "wof:lastmodified":1563302603,
+    "wof:lastmodified":1566593338,
     "wof:name":"\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u044c\u043a",
     "wof:parent_id":1108815967,
     "wof:placetype":"locality",

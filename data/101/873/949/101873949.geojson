@@ -11,12 +11,16 @@
     "geom:longitude":33.607425,
     "gn:population":11793,
     "iso:country":"UA",
+    "lbl:bbox":"33.587425,44.599333,33.627425,44.639333",
     "lbl:latitude":44.619333,
     "lbl:longitude":33.607425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.619333,
     "mps:longitude":33.607425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Inkerman"
     ],
@@ -136,7 +140,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":606,
     "wof:belongsto":[
@@ -152,7 +156,6 @@
     "wof:concordances":{
         "gn:id":712576,
         "gp:id":921115,
-        "qs:id":128836,
         "qs_pg:id":128836,
         "wd:id":"Q752183",
         "wk:page":"Inkerman"
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101873949,
-    "wof:lastmodified":1563302260,
+    "wof:lastmodified":1566593197,
     "wof:name":"\u0406\u043d\u043a\u0435\u0440\u043c\u0430\u043d",
     "wof:parent_id":1108738657,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":24.563184,
     "gn:population":7284,
     "iso:country":"UA",
+    "lbl:bbox":"24.543184,49.650096,24.583184,49.690096",
     "lbl:latitude":49.670096,
     "lbl:longitude":24.563184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.670096,
     "mps:longitude":24.563184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0645\u064a\u0634\u0644\u064a\u0627\u0646\u064a"
     ],
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Przemy\u015biany"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":245,
     "wof:belongsto":[
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":697692,
         "gp:id":930382,
-        "qs:id":181588,
+        "qs_pg:id":181588,
         "wd:id":"Q997462",
         "wk:page":"Peremyshliany"
     },
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":101862465,
-    "wof:lastmodified":1563303374,
+    "wof:lastmodified":1566593685,
     "wof:name":"\u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044f\u043d\u0438",
     "wof:parent_id":102088335,
     "wof:placetype":"locality",

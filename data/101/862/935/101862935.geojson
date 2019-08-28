@@ -10,12 +10,16 @@
     "geom:latitude":50.639366,
     "geom:longitude":24.743939,
     "iso:country":"UA",
+    "lbl:bbox":"24.723939,50.619366,24.763939,50.659366",
     "lbl:latitude":50.639366,
     "lbl:longitude":24.743939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.639366,
     "mps:longitude":24.743939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0432\u0456\u0442\u043d\u044d"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0432\u0456\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u015awiniuchy"
-    ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u7dad\u7279\u6d85"
     ],
@@ -83,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.637222,
     "wd:longitude":24.748889,
     "wd:wordcount":456,
@@ -96,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":696237,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2065596",
         "wk:page":"Pryvitne"
     },
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":101862935,
-    "wof:lastmodified":1563303393,
+    "wof:lastmodified":1566593693,
     "wof:name":"\u041f\u0440\u0438\u0432\u0456\u0442\u043d\u0435",
     "wof:parent_id":102088621,
     "wof:placetype":"locality",

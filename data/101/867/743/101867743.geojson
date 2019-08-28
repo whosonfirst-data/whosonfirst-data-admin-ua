@@ -10,12 +10,16 @@
     "geom:latitude":49.463754,
     "geom:longitude":28.76691,
     "iso:country":"UA",
+    "lbl:bbox":"28.74691,49.443754,28.78691,49.483754",
     "lbl:latitude":49.463754,
     "lbl:longitude":28.76691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.463754,
     "mps:longitude":28.76691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Nowa Grobla"
     ],
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":928383,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"6b33a9523151fadbdfa684834a9ad367",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101867743,
-    "wof:lastmodified":1544749347,
+    "wof:lastmodified":1566593535,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0413\u0440\u0435\u0431\u043b\u044f",
     "wof:parent_id":102088463,
     "wof:placetype":"locality",

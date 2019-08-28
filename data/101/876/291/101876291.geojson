@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":47.62189,
     "lbl:longitude":34.442814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.62189,
     "mps:longitude":34.442814,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Prydniprowske"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0434\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pridneprovskoye"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +59,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":829794,
         "gp:id":931861,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4378143"
     },
     "wof:country":"UA",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101876291,
-    "wof:lastmodified":1563303213,
+    "wof:lastmodified":1566593614,
     "wof:name":"\u041f\u0440\u0438\u0434\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088327,
     "wof:placetype":"locality",

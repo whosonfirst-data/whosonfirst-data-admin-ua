@@ -10,12 +10,16 @@
     "geom:latitude":48.196905,
     "geom:longitude":26.068478,
     "iso:country":"UA",
+    "lbl:bbox":"26.048478,48.176905,26.088478,48.216905",
     "lbl:latitude":48.196905,
     "lbl:longitude":26.068478,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.196905,
     "mps:longitude":26.068478,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lukovytsya"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         102191581,
@@ -58,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918247,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q12118746"
     },
     "wof:country":"UA",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101860471,
-    "wof:lastmodified":1563302863,
+    "wof:lastmodified":1566593452,
     "wof:name":"\u041b\u0443\u043a\u043e\u0432\u0438\u0446\u044f",
     "wof:parent_id":102088031,
     "wof:placetype":"locality",

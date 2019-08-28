@@ -11,12 +11,16 @@
     "geom:longitude":24.912699,
     "gn:population":1681,
     "iso:country":"UA",
+    "lbl:bbox":"24.892699,51.529793,24.932699,51.569793",
     "lbl:latitude":51.549793,
     "lbl:longitude":24.912699,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.549793,
     "mps:longitude":24.912699,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041d\u0443\u0439\u043d\u043e"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_variant":[
         "\u041d\u0443\u0439\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nujno"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":698840,
         "gp:id":929301,
-        "qs:id":1283284
+        "qs_pg:id":1283284
     },
     "wof:country":"UA",
     "wof:geomhash":"8d81cb32f02521a19e4c74a75a5d5d03",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101864411,
-    "wof:lastmodified":1544747512,
+    "wof:lastmodified":1566593768,
     "wof:name":"\u041d\u0443\u0439\u043d\u043e",
     "wof:parent_id":102088837,
     "wof:placetype":"locality",

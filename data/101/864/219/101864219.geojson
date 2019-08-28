@@ -10,12 +10,16 @@
     "geom:latitude":50.934508,
     "geom:longitude":26.229083,
     "iso:country":"UA",
+    "lbl:bbox":"26.209083,50.914508,26.249083,50.954508",
     "lbl:latitude":50.934508,
     "lbl:longitude":26.229083,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.934508,
     "mps:longitude":26.229083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0417\u043b\u0430\u0437\u043d\u044d"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043b\u0430\u0437\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zlazno"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":686937,
         "gp:id":932520,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4192352",
         "wk:page":"Zlazne"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101864219,
-    "wof:lastmodified":1563303533,
+    "wof:lastmodified":1566593754,
     "wof:name":"\u0417\u043b\u0430\u0437\u043d\u0435",
     "wof:parent_id":102088725,
     "wof:placetype":"locality",

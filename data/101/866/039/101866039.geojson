@@ -10,16 +10,20 @@
     "geom:latitude":46.759108,
     "geom:longitude":33.195601,
     "iso:country":"UA",
+    "lbl:bbox":"33.175601,46.739108,33.215601,46.779108",
     "lbl:latitude":46.759108,
     "lbl:longitude":33.195601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.759108,
     "mps:longitude":33.195601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0441\u0443\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korsunskiy Poselok"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":704860,
         "gp:id":923640,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"8702e6b5b6846b8548e12c3d64aabc84",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":101866039,
-    "wof:lastmodified":1544748381,
+    "wof:lastmodified":1566593264,
     "wof:name":"\u041a\u043e\u0440\u0441\u0443\u043d\u043a\u0430",
     "wof:parent_id":1175613703,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":50.469066,
     "geom:longitude":30.483772,
     "iso:country":"UA",
+    "lbl:bbox":"30.4787720623,50.4640662572,30.4887720623,50.4740662572",
     "lbl:latitude":50.469066,
     "lbl:longitude":30.483772,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:ukr_x_variant":[
         "Tatarka"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108945185,
-    "wof:lastmodified":1564196798,
+    "wof:lastmodified":1566592888,
     "wof:name":"Tatarka",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

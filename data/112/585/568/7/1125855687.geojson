@@ -9,15 +9,18 @@
     "geom:bbox":"24.84482,48.90219,24.84482,48.90219",
     "geom:latitude":48.90219,
     "geom:longitude":24.84482,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9426,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":9426,
     "iso:country":"UA",
+    "lbl:bbox":"24.82482,48.88219,24.86482,48.92219",
     "lbl:latitude":48.90219,
     "lbl:longitude":24.84482,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0422\u044b\u0441\u043c\u044d\u043d\u044b\u0446\u044f"
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0441\u043c\u0435\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tysmenitsa"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +103,7 @@
     "qs_pg:qs_id":128226,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1125855687,
-    "wof:lastmodified":1563303941,
+    "wof:lastmodified":1566593948,
     "wof:name":"Tysmenytsya",
     "wof:parent_id":102088175,
     "wof:placetype":"locality",

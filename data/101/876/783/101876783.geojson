@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2087982.598143,
+    "geom:area_square_m":2087982.598144,
     "geom:bbox":"27.4059350058,49.4206661555,27.4244739998,49.4392060029",
     "geom:latitude":49.429759,
     "geom:longitude":27.415485,
     "iso:country":"UA",
     "lbl:latitude":49.429406,
     "lbl:longitude":27.415662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.429406,
     "mps:longitude":27.415662,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Khmel'nyts'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":926805,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
-    "wof:geomhash":"434bda5962f89b0f699bc32aed4bc44f",
+    "wof:geomhash":"6ff3d05988b12450a3d6599ec42db1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876783,
-    "wof:lastmodified":1479879542,
+    "wof:lastmodified":1566593598,
     "wof:name":"\u0422\u0440\u0435\u0431\u0443\u0445\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088391,
     "wof:placetype":"locality",

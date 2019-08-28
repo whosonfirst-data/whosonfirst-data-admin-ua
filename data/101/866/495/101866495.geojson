@@ -10,12 +10,16 @@
     "geom:latitude":48.00193,
     "geom:longitude":30.792186,
     "iso:country":"UA",
+    "lbl:bbox":"30.772186,47.98193,30.812186,48.02193",
     "lbl:latitude":48.00193,
     "lbl:longitude":30.792186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.00193,
     "mps:longitude":30.792186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kinezpil"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043d\u0435\u0446\u044c\u043f\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konetspol\u2019"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":705156,
         "gp:id":930480,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4230770"
     },
     "wof:country":"UA",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101866495,
-    "wof:lastmodified":1563302471,
+    "wof:lastmodified":1566593282,
     "wof:name":"\u041a\u0456\u043d\u0435\u0446\u044c\u043f\u0456\u043b\u044c",
     "wof:parent_id":1108815681,
     "wof:placetype":"locality",

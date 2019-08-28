@@ -11,12 +11,16 @@
     "geom:longitude":33.917302,
     "gn:population":2467,
     "iso:country":"UA",
+    "lbl:bbox":"33.897302,48.418554,33.937302,48.458554",
     "lbl:latitude":48.438554,
     "lbl:longitude":33.917302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.438554,
     "mps:longitude":33.917302,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vyshneve"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u0435\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Erastovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":689488,
         "gp:id":932963,
-        "qs:id":1028357
+        "qs_pg:id":1028357
     },
     "wof:country":"UA",
     "wof:geomhash":"0dac71d30b8183bbe24f5527b16a17dd",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101867831,
-    "wof:lastmodified":1544749396,
+    "wof:lastmodified":1566593530,
     "wof:name":"\u0412\u0438\u0448\u043d\u0435\u0432\u0435",
     "wof:parent_id":102088495,
     "wof:placetype":"locality",

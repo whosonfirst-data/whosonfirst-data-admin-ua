@@ -10,12 +10,16 @@
     "geom:latitude":48.152313,
     "geom:longitude":23.456958,
     "iso:country":"UA",
+    "lbl:bbox":"23.436958,48.132313,23.476958,48.172313",
     "lbl:latitude":48.152313,
     "lbl:longitude":23.456958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.152313,
     "mps:longitude":23.456958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Danilovo"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Danilovo"
-    ],
     "name:zho_x_preferred":[
         "\u9054\u5c3c\u6d1b\u6c83"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":710286,
         "gp:id":917893,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q643917"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101859249,
-    "wof:lastmodified":1561776912,
+    "wof:lastmodified":1566593237,
     "wof:name":"\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

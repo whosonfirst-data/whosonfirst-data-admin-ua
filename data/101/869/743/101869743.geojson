@@ -10,12 +10,16 @@
     "geom:latitude":50.388841,
     "geom:longitude":30.240791,
     "iso:country":"UA",
+    "lbl:bbox":"30.220791,50.368841,30.260791,50.408841",
     "lbl:latitude":50.388841,
     "lbl:longitude":30.240791,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.388841,
     "mps:longitude":30.240791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0647\u0648\u0631\u0648\u062f\u0643\u0627\u060c \u0643\u064a\u064a\u064a\u0641\u0633\u0643\u0627"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u043e\u0433\u043e\u0440\u043e\u0434\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belgorodka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":712590,
         "gp:id":12518290,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q450547"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101869743,
-    "wof:lastmodified":1563302836,
+    "wof:lastmodified":1566593441,
     "wof:name":"\u0411\u0456\u043b\u043e\u0433\u043e\u0440\u043e\u0434\u043a\u0430",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

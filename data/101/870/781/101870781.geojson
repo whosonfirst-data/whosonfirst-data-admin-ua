@@ -11,12 +11,16 @@
     "geom:longitude":33.285506,
     "gn:population":14117,
     "iso:country":"UA",
+    "lbl:bbox":"33.265506,49.762855,33.305506,49.802855",
     "lbl:latitude":49.782855,
     "lbl:longitude":33.285506,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.782855,
     "mps:longitude":33.285506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u0440\u043e\u043b"
     ],
@@ -121,7 +125,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -134,7 +138,6 @@
     "wof:concordances":{
         "gn:id":706289,
         "gp:id":922314,
-        "qs:id":275537,
         "qs_pg:id":275537,
         "wd:id":"Q269530",
         "wk:page":"Khorol, Ukraine"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101870781,
-    "wof:lastmodified":1563303126,
+    "wof:lastmodified":1566593565,
     "wof:name":"\u0425\u043e\u0440\u043e\u043b",
     "wof:parent_id":102088729,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":51.131301,
     "geom:longitude":26.307288,
     "iso:country":"UA",
+    "lbl:bbox":"26.287288,51.111301,26.327288,51.151301",
     "lbl:latitude":51.131301,
     "lbl:longitude":26.307288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.131301,
     "mps:longitude":26.307288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u044d\u043f\u0430\u043d\u044c"
     ],
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         102191581,
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":692615,
         "gp:id":935114,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q46511",
         "wk:page":"Stepan"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":101864397,
-    "wof:lastmodified":1563303525,
+    "wof:lastmodified":1566593751,
     "wof:name":"\u0421\u0442\u0435\u043f\u0430\u043d\u044c",
     "wof:parent_id":102088833,
     "wof:placetype":"locality",

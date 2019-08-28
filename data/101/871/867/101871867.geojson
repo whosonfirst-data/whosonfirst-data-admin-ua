@@ -11,12 +11,16 @@
     "geom:longitude":34.041377,
     "gn:population":7161,
     "iso:country":"UA",
+    "lbl:bbox":"34.021377,52.154803,34.061377,52.194803",
     "lbl:latitude":52.174803,
     "lbl:longitude":34.041377,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.174803,
     "mps:longitude":34.041377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044d\u0440\u044d\u0434\u044b\u043d\u0430-\u0411\u0443\u0434\u0430"
     ],
@@ -93,9 +97,6 @@
         "Seredina-Buda",
         "Iseredinabuda"
     ],
-    "name:unk_x_variant":[
-        "Iseredinabuda"
-    ],
     "name:vie_x_preferred":[
         "Seredyna-Buda"
     ],
@@ -123,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":101871867,
-    "wof:lastmodified":1563303270,
+    "wof:lastmodified":1566593640,
     "wof:name":"\u0421\u0435\u0440\u0435\u0434\u0438\u043d\u0430-\u0411\u0443\u0434\u0430",
     "wof:parent_id":102089029,
     "wof:placetype":"locality",

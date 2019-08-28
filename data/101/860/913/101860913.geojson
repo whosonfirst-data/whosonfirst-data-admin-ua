@@ -10,12 +10,16 @@
     "geom:latitude":49.18733,
     "geom:longitude":22.812698,
     "iso:country":"UA",
+    "lbl:bbox":"22.792698,49.16733,22.832698,49.20733",
     "lbl:latitude":49.18733,
     "lbl:longitude":22.812698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.18733,
     "mps:longitude":22.812698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boberka"
     ],
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":712026,
         "gp:id":24942753,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4088545"
     },
     "wof:country":"UA",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101860913,
-    "wof:lastmodified":1561776949,
+    "wof:lastmodified":1566593463,
     "wof:name":"\u0411\u043e\u0431\u0435\u0440\u043a\u0430",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

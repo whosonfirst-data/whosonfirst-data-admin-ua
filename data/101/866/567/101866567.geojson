@@ -11,19 +11,23 @@
     "geom:longitude":29.244182,
     "gn:population":3378,
     "iso:country":"UA",
+    "lbl:bbox":"29.224182,48.373549,29.264182,48.413549",
     "lbl:latitude":48.393549,
     "lbl:longitude":29.244182,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.393549,
     "mps:longitude":29.244182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obodovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":698807,
         "gp:id":929332,
-        "qs:id":1028497
+        "qs_pg:id":1028497
     },
     "wof:country":"UA",
     "wof:geomhash":"2c7d528b4d8d8e7297088ec65d776136",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":101866567,
-    "wof:lastmodified":1544748678,
+    "wof:lastmodified":1566593249,
     "wof:name":"\u041e\u0431\u043e\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088955,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":48.428295,
     "geom:longitude":32.733944,
     "iso:country":"UA",
+    "lbl:bbox":"32.713944,48.408295,32.753944,48.448295",
     "lbl:latitude":48.428295,
     "lbl:longitude":32.733944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.428295,
     "mps:longitude":32.733944,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vershyno-Kam\u201dyanka"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0448\u0438\u043d\u043e-\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vershino-Kamenka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":689786,
         "gp:id":937667,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"2d43828023a9380a8cf9842628f9b63f",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101866789,
-    "wof:lastmodified":1544748804,
+    "wof:lastmodified":1566593287,
     "wof:name":"\u0412\u0435\u0440\u0448\u0438\u043d\u043e-\u041a\u0430\u043c'\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088383,
     "wof:placetype":"locality",

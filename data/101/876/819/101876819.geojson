@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":50.045704,
     "lbl:longitude":23.99659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.045704,
     "mps:longitude":23.99659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Soposchyn"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043f\u043e\u0448\u0438\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Soposzyn"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u6ce2\u7533"
@@ -56,7 +56,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +67,7 @@
     "wof:concordances":{
         "gn:id":693145,
         "gp:id":940180,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4428952"
     },
     "wof:country":"UA",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101876819,
-    "wof:lastmodified":1561776964,
+    "wof:lastmodified":1566593586,
     "wof:name":"\u0421\u043e\u043f\u043e\u0448\u0438\u043d",
     "wof:parent_id":102088445,
     "wof:placetype":"locality",

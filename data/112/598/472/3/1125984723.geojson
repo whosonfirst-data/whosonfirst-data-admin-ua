@@ -9,15 +9,18 @@
     "geom:bbox":"24.62466,48.52354,24.62466,48.52354",
     "geom:latitude":48.52354,
     "geom:longitude":24.62466,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7980,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7980,
     "iso:country":"UA",
+    "lbl:bbox":"24.60466,48.50354,24.64466,48.54354",
     "lbl:latitude":48.52354,
     "lbl:longitude":24.62466,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0644\u064a\u0627\u062a\u064a\u0646"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u044f\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Delyatino"
     ],
     "name:yid_x_preferred":[
@@ -85,7 +88,7 @@
     "qs_pg:qs_id":275572,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125984723,
-    "wof:lastmodified":1563303890,
+    "wof:lastmodified":1566593930,
     "wof:name":"Delyatyn",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

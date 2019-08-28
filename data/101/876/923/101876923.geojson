@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.953031,
     "lbl:longitude":29.450495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.953031,
     "mps:longitude":29.450495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u043f\u0456\u043b\u044c\u043d\u044f"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0456\u043b\u044c\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poelnja"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +78,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":70,
     "wof:belongsto":[
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":696557,
         "gp:id":931439,
-        "qs:id":82865,
+        "qs_pg:id":82865,
         "wd:id":"Q2652368",
         "wk:page":"Popilnia (UTS)"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101876923,
-    "wof:lastmodified":1563303183,
+    "wof:lastmodified":1566593597,
     "wof:name":"\u041f\u043e\u043f\u0456\u043b\u044c\u043d\u044f",
     "wof:parent_id":102088623,
     "wof:placetype":"locality",

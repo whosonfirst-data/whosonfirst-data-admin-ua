@@ -10,12 +10,16 @@
     "geom:latitude":49.398677,
     "geom:longitude":32.590807,
     "iso:country":"UA",
+    "lbl:bbox":"32.570807,49.378677,32.610807,49.418677",
     "lbl:latitude":49.398677,
     "lbl:longitude":32.590807,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.398677,
     "mps:longitude":32.590807,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veremiyevka"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u0440\u0435\u043c\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veremeyevka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":689946,
         "gp:id":937520,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"c4a42a0007a172cbe75a25451aaab1df",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101868671,
-    "wof:lastmodified":1544749865,
+    "wof:lastmodified":1566593365,
     "wof:name":"\u0412\u0435\u0440\u0435\u043c\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

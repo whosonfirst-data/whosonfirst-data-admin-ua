@@ -9,15 +9,18 @@
     "geom:bbox":"24.9307,49.64092,24.9307,49.64092",
     "geom:latitude":49.64092,
     "geom:longitude":24.9307,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1449,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1449,
     "iso:country":"UA",
+    "lbl:bbox":"24.9107,49.62092,24.9507,49.66092",
     "lbl:latitude":49.64092,
     "lbl:longitude":24.9307,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041f\u0430\u043c\u0430\u0440\u0430\u043d\u044b"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043c\u043e\u0440\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pomorzhany"
     ],
     "name:yid_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":1028471,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125825839,
-    "wof:lastmodified":1563303929,
+    "wof:lastmodified":1566593943,
     "wof:name":"Pomoryany",
     "wof:parent_id":102088393,
     "wof:placetype":"locality",

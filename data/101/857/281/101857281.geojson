@@ -10,12 +10,16 @@
     "geom:latitude":45.271591,
     "geom:longitude":35.206372,
     "iso:country":"UA",
+    "lbl:bbox":"35.186372,45.251591,35.226372,45.291591",
     "lbl:latitude":45.271591,
     "lbl:longitude":35.206372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.271591,
     "mps:longitude":35.206372,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shubino"
     ],
@@ -55,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -70,7 +74,7 @@
         "fct:id":"082825e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":693901,
         "gp:id":933900,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"e386ac3c1fb5b95c5d6466bfa2dfa1fd",
@@ -97,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544743813,
+    "wof:lastmodified":1566593386,
     "wof:name":"\u0428\u0443\u0431\u0438\u043d\u0435",
     "wof:parent_id":1108738551,
     "wof:placetype":"locality",

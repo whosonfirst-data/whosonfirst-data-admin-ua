@@ -10,12 +10,16 @@
     "geom:latitude":48.89831,
     "geom:longitude":30.596351,
     "iso:country":"UA",
+    "lbl:bbox":"30.576351,48.87831,30.616351,48.91831",
     "lbl:latitude":48.89831,
     "lbl:longitude":30.596351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.89831,
     "mps:longitude":30.596351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moshuriv"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0448\u0443\u0440\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mashurov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":701632,
         "gp:id":12518448,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4305368"
     },
     "wof:country":"UA",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101867623,
-    "wof:lastmodified":1563303035,
+    "wof:lastmodified":1566593527,
     "wof:name":"\u041c\u043e\u0448\u0443\u0440\u0456\u0432",
     "wof:parent_id":102088407,
     "wof:placetype":"locality",

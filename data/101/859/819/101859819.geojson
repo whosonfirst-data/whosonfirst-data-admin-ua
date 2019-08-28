@@ -10,12 +10,16 @@
     "geom:latitude":48.737812,
     "geom:longitude":23.162346,
     "iso:country":"UA",
+    "lbl:bbox":"23.142346,48.717812,23.182346,48.757812",
     "lbl:latitude":48.737812,
     "lbl:longitude":23.162346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.737812,
     "mps:longitude":23.162346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhni Vorota"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0456 \u0412\u043e\u0440\u043e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Verkhni Vorota"
-    ],
     "name:zho_x_preferred":[
         "\u4e0a\u6c83\u7f85\u5854"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":689875,
         "gp:id":938311,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q749951"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101859819,
-    "wof:lastmodified":1561776906,
+    "wof:lastmodified":1566593217,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u0456 \u0412\u043e\u0440\u043e\u0442\u0430",
     "wof:parent_id":102088085,
     "wof:placetype":"locality",

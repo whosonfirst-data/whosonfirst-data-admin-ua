@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":1965206.464393,
+    "geom:area_square_m":1965206.464392,
     "geom:bbox":"24.8082254422,50.4336027256,24.8266585859,50.4507341184",
     "geom:latitude":50.442276,
     "geom:longitude":24.817528,
     "iso:country":"UA",
     "lbl:latitude":50.441816,
     "lbl:longitude":24.817704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.441816,
     "mps:longitude":24.817704,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Borochitse"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -34,7 +38,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":711641,
         "gp:id":926408,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"f7d7aab1c5b21f0b2b1e12266b722d94",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101876905,
-    "wof:lastmodified":1501215715,
+    "wof:lastmodified":1566593605,
     "wof:name":"\u0411\u043e\u0440\u043e\u0447\u0438\u0447\u0435",
     "wof:parent_id":102088573,
     "wof:placetype":"locality",

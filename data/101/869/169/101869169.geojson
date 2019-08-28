@@ -10,12 +10,16 @@
     "geom:latitude":49.385465,
     "geom:longitude":39.621,
     "iso:country":"UA",
+    "lbl:bbox":"39.601,49.365465,39.641,49.405465",
     "lbl:latitude":49.385465,
     "lbl:longitude":39.621,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.385465,
     "mps:longitude":39.621,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bondarivka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043d\u0434\u0430\u0440\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Bondarivka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":711705,
         "gp:id":926558,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"c0ad6ed579e9bb1db89b297865c3f166",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101869169,
-    "wof:lastmodified":1544750145,
+    "wof:lastmodified":1566593406,
     "wof:name":"\u0411\u043e\u043d\u0434\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815673,
     "wof:placetype":"locality",

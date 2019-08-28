@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zaporozhye",
     "iso:country":"UA",
+    "lbl:bbox":"36.16015,47.73347,36.20015,47.77347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u06cc\u0644\u0648\u06a9\u06cc"
     ],
@@ -109,9 +113,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
     ],
-    "name:und_x_variant":[
-        "Priluki"
-    ],
     "name:vie_x_preferred":[
         "Pryluky"
     ],
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1243601733,
-    "wof:lastmodified":1564198336,
+    "wof:lastmodified":1566594130,
     "wof:name":"Pryluky",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",

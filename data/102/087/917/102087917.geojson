@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":45.492545,
     "lbl:longitude":28.969884,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Odeska",
     "meso:admin_1":"\u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Izma\u2039l's'ka",
@@ -34,6 +36,7 @@
     "mps:longitude":28.931135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Izmail's'kyi"
     ],
@@ -41,9 +44,6 @@
         "Izma\u2039l's'ka"
     ],
     "name:ukr_x_preferred":[
-        "\u0406\u0437\u043c\u0430\u0457\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
         "\u0406\u0437\u043c\u0430\u0457\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102087917,
-    "wof:lastmodified":1555047731,
+    "wof:lastmodified":1566591321,
     "wof:name":"Izmailskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

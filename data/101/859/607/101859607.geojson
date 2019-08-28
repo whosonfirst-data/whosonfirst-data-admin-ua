@@ -10,12 +10,16 @@
     "geom:latitude":48.097833,
     "geom:longitude":26.10813,
     "iso:country":"UA",
+    "lbl:bbox":"26.08813,48.077833,26.12813,48.117833",
     "lbl:latitude":48.097833,
     "lbl:longitude":26.10813,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.097833,
     "mps:longitude":26.10813,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Petraschiwka"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":931594,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4360459"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101859607,
-    "wof:lastmodified":1563302378,
+    "wof:lastmodified":1566593242,
     "wof:name":"\u041f\u0435\u0442\u0440\u0430\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088041,
     "wof:placetype":"locality",

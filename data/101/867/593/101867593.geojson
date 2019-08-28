@@ -10,19 +10,23 @@
     "geom:latitude":48.492794,
     "geom:longitude":32.354935,
     "iso:country":"UA",
+    "lbl:bbox":"32.334935,48.472794,32.374935,48.512794",
     "lbl:latitude":48.492794,
     "lbl:longitude":32.354935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.492794,
     "mps:longitude":32.354935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Berezhynka"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0435\u0440\u0435\u0436\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berezhinka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":712370,
         "gp:id":922917,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"0fecd256bdfef2b10f0fd39b002ac5fc",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101867593,
-    "wof:lastmodified":1544749263,
+    "wof:lastmodified":1566593498,
     "wof:name":"\u0411\u0435\u0440\u0435\u0436\u0438\u043d\u043a\u0430",
     "wof:parent_id":1108815667,
     "wof:placetype":"locality",

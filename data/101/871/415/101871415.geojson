@@ -11,12 +11,16 @@
     "geom:longitude":34.479041,
     "gn:population":27695,
     "iso:country":"UA",
+    "lbl:bbox":"34.459041,50.560321,34.499041,50.600321",
     "lbl:latitude":50.580321,
     "lbl:longitude":34.479041,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.580321,
     "mps:longitude":34.479041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041b\u044d\u0431\u044d\u0434\u044b\u043d"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lebedin"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +137,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -146,10 +150,12 @@
     "wof:concordances":{
         "gn:id":703311,
         "gp:id":925061,
-        "qs:id":1291341,
         "qs_pg:id":128558,
         "wd:id":"Q476688",
         "wk:page":"Lebedyn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1291341
     },
     "wof:country":"UA",
     "wof:geomhash":"9da5f418cb91597b95fd57b9e5dc437f",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":101871415,
-    "wof:lastmodified":1563303257,
+    "wof:lastmodified":1566593634,
     "wof:name":"\u041b\u0435\u0431\u0435\u0434\u0438\u043d",
     "wof:parent_id":1108815803,
     "wof:placetype":"locality",

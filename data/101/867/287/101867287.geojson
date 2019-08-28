@@ -10,12 +10,16 @@
     "geom:latitude":47.941266,
     "geom:longitude":39.134663,
     "iso:country":"UA",
+    "lbl:bbox":"39.114663,47.921266,39.154663,47.961266",
     "lbl:latitude":47.941266,
     "lbl:longitude":39.134663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.941266,
     "mps:longitude":39.134663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Djakowe"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044f\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u2019yakovo"
     ],
     "name:zho_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101867287,
-    "wof:lastmodified":1563302979,
+    "wof:lastmodified":1566593504,
     "wof:name":"\u0414\u044f\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088695,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"37.40909,48.31615,37.44909,48.35615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Malyniwka"
     ],
@@ -56,9 +60,6 @@
     "name:ukr_x_variant":[
         "Ulyanivka",
         "\u0423\u043b\u044f\u043d\u0456\u0432\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "Malyniwka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1310004143,
-    "wof:lastmodified":1564196897,
+    "wof:lastmodified":1566592951,
     "wof:name":"Malynivka",
     "wof:parent_id":1108815625,
     "wof:placetype":"locality",

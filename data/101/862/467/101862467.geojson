@@ -10,12 +10,16 @@
     "geom:latitude":49.675403,
     "geom:longitude":23.477743,
     "iso:country":"UA",
+    "lbl:bbox":"23.457743,49.655403,23.497743,49.695403",
     "lbl:latitude":49.675403,
     "lbl:longitude":23.477743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.675403,
     "mps:longitude":23.477743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0432\u0430 \u0412\u044b\u0448\u043d\u044f"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0432\u0430 \u0412\u0438\u0448\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ven\u2019kova Vishnya"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":636,
     "wof:belongsto":[
         102191581,
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":689473,
         "gp:id":932674,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1026911"
     },
     "wof:country":"UA",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101862467,
-    "wof:lastmodified":1563303414,
+    "wof:lastmodified":1566593702,
     "wof:name":"\u0412\u0438\u0448\u043d\u044f",
     "wof:parent_id":102088313,
     "wof:placetype":"locality",

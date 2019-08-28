@@ -11,12 +11,16 @@
     "geom:longitude":23.767588,
     "gn:population":3617,
     "iso:country":"UA",
+    "lbl:bbox":"23.747588,48.095311,23.787588,48.135311",
     "lbl:latitude":48.115311,
     "lbl:longitude":23.767588,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.115311,
     "mps:longitude":23.767588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Neresnytsya"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0440\u0435\u0441\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoselitsa"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":700295,
         "gp:id":919346,
-        "qs:id":275490,
+        "qs_pg:id":275490,
         "wd:id":"Q750353"
     },
     "wof:country":"UA",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101859537,
-    "wof:lastmodified":1563302340,
+    "wof:lastmodified":1566593229,
     "wof:name":"\u041d\u0435\u0440\u0435\u0441\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.350872,
     "geom:longitude":36.403811,
     "iso:country":"UA",
+    "lbl:bbox":"36.383811,48.330872,36.423811,48.370872",
     "lbl:latitude":48.350872,
     "lbl:longitude":36.403811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.350872,
     "mps:longitude":36.403811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0634\u0648\u062a\u0631\u0627\u0648\u0646\u0633\u06a9"
     ],
@@ -100,7 +104,7 @@
     "name:ukr_x_variant":[
         "Pershotravens\u2019k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shakhterskoye"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -140,7 +144,7 @@
     "wof:concordances":{
         "gn:id":697616,
         "gp:id":930454,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q604607",
         "wk:page":"Pershotravensk"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":101868473,
-    "wof:lastmodified":1563302672,
+    "wof:lastmodified":1566593368,
     "wof:name":"\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u0435\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108730743,
     "wof:placetype":"locality",

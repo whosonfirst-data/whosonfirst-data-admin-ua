@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.922913,
     "lbl:longitude":27.777184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.922913,
     "mps:longitude":27.777184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0440"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Lyubar"
-    ],
     "name:zho_x_preferred":[
         "\u67f3\u5df4\u723e"
     ],
@@ -78,7 +78,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -91,7 +91,7 @@
     "wof:concordances":{
         "gn:id":702486,
         "gp:id":925820,
-        "qs:id":128507,
+        "qs_pg:id":128507,
         "wd:id":"Q2652151",
         "wk:page":"Liubar"
     },
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":101876885,
-    "wof:lastmodified":1563303206,
+    "wof:lastmodified":1566593610,
     "wof:name":"\u041b\u044e\u0431\u0430\u0440",
     "wof:parent_id":102088531,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.695744,
     "lbl:longitude":30.380202,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Cherkaska",
     "meso:admin_1":"\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Umans'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":30.292232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0627\u0646"
     ],
@@ -197,9 +200,6 @@
     "name:ukr_x_variant":[
         "\u0423\u043c\u0430\u043d\u044c"
     ],
-    "name:und_x_variant":[
-        "\u0423\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Uman"
     ],
@@ -228,9 +228,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"1400",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Uman'",
@@ -263,7 +263,7 @@
         }
     ],
     "wof:id":102088345,
-    "wof:lastmodified":1563299526,
+    "wof:lastmodified":1566591465,
     "wof:name":"Umanskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

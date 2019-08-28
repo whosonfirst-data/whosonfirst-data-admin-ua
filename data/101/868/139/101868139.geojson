@@ -11,12 +11,16 @@
     "geom:longitude":38.082076,
     "gn:population":12200,
     "iso:country":"UA",
+    "lbl:bbox":"38.062076,47.093449,38.102076,47.133449",
     "lbl:latitude":47.113449,
     "lbl:longitude":38.082076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.113449,
     "mps:longitude":38.082076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_variant":[
         "\u041d\u043e\u0432\u0430\u0430\u0437\u043e\u045e\u0441\u043a"
     ],
@@ -107,7 +111,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0430\u0437\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Budyenovka"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +140,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":406,
     "wof:belongsto":[
@@ -150,7 +154,6 @@
     "wof:concordances":{
         "gn:id":699675,
         "gp:id":928734,
-        "qs:id":112782,
         "qs_pg:id":112782,
         "wd:id":"Q2353526",
         "wk:page":"Novoazovsk"
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101868139,
-    "wof:lastmodified":1563302657,
+    "wof:lastmodified":1566593361,
     "wof:name":"\u041d\u043e\u0432\u043e\u0430\u0437\u043e\u0432\u0441\u044c\u043a",
     "wof:parent_id":102088405,
     "wof:placetype":"locality",

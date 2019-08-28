@@ -9,15 +9,18 @@
     "geom:bbox":"23.27904,48.36527,23.27904,48.36527",
     "geom:latitude":48.36527,
     "geom:longitude":23.27904,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6541,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":6541,
     "iso:country":"UA",
+    "lbl:bbox":"23.25904,48.34527,23.29904,48.38527",
     "lbl:latitude":48.36527,
     "lbl:longitude":23.27904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u0648\u0641\u0647\u064a\u060c \u0643\u0648\u0644\u0627\u0633\u064a\u0646"
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0432\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolga"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":128750,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125864727,
-    "wof:lastmodified":1563303821,
+    "wof:lastmodified":1566593905,
     "wof:name":"Dovhe",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

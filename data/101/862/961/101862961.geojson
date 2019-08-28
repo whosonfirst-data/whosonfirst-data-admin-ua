@@ -10,12 +10,16 @@
     "geom:latitude":50.719579,
     "geom:longitude":25.395755,
     "iso:country":"UA",
+    "lbl:bbox":"25.375755,50.699579,25.415755,50.739579",
     "lbl:latitude":50.719579,
     "lbl:longitude":25.395755,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.719579,
     "mps:longitude":25.395755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Volyns'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":790,
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":4216190,
         "gp:id":2472696,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"9947ccb9823634dc4f52548d488f7be5",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101862961,
-    "wof:lastmodified":1544746755,
+    "wof:lastmodified":1566593692,
     "wof:name":"\u041f\u0456\u0434\u0433\u0430\u0439\u0446\u0456",
     "wof:parent_id":102088627,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":36586748.457108,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.023111,49.842106,24.023111,49.842106",
     "geom:latitude":49.842106,
     "geom:longitude":24.023111,
     "gn:latitude":49.86667,
     "gn:longitude":24.01667,
     "iso:country":"UA",
+    "lbl:bbox":"24.018111,49.837106,24.028111,49.847106",
     "lbl:latitude":49.842106,
     "lbl:longitude":24.023111,
+    "lbl:max_zoom":18.0,
     "mps:latitude":49.847227,
     "mps:longitude":24.020897,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Goloskovka"
-    ],
-    "name:unk_x_variant":[
         "Goloskovka"
     ],
     "qs:gn_fcode":"PPLX",
@@ -57,19 +56,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85688887,
         102191581,
         85633805,
         101752483,
-        1108730647,
-        85688887
+        1108730647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":708589,
         "gp:id":920185,
-        "qs:id":1038229,
         "qs_pg:id":1038229
     },
     "wof:country":"UA",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935910,
+    "wof:lastmodified":1566591761,
     "wof:name":"Goloskovka",
     "wof:parent_id":101752483,
     "wof:placetype":"neighbourhood",

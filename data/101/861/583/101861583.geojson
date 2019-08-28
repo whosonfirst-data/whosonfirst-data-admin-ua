@@ -10,13 +10,17 @@
     "geom:latitude":48.805801,
     "geom:longitude":26.099666,
     "iso:country":"UA",
+    "lbl:bbox":"26.079666,48.785801,26.119666,48.825801",
     "lbl:latitude":48.805801,
     "lbl:longitude":26.099666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.805801,
     "mps:longitude":26.099666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Mushkatuvka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":693490,
         "gp:id":917464,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"d230f9102c585b7739c453ba09cf8969",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861583,
-    "wof:lastmodified":1544746040,
+    "wof:lastmodified":1566593330,
     "wof:name":"\u041c\u0443\u0448\u043a\u0430\u0442\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088181,
     "wof:placetype":"locality",

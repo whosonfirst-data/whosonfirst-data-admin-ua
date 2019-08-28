@@ -10,12 +10,16 @@
     "geom:latitude":48.011212,
     "geom:longitude":25.600489,
     "iso:country":"UA",
+    "lbl:bbox":"25.580489,47.991212,25.620489,48.031212",
     "lbl:latitude":48.011212,
     "lbl:longitude":25.600489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.011212,
     "mps:longitude":25.600489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u0456\u043b\u044c\u0441\u043a"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0457\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasna Il\u2019ski"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":704379,
         "gp:id":924090,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1786728",
         "wk:page":"Krasnoilsk"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":101860495,
-    "wof:lastmodified":1563302916,
+    "wof:lastmodified":1566593472,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u0457\u043b\u044c\u0441\u044c\u043a",
     "wof:parent_id":102088037,
     "wof:placetype":"locality",

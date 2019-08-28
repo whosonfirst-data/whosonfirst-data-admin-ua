@@ -10,13 +10,17 @@
     "geom:latitude":49.477396,
     "geom:longitude":26.82591,
     "iso:country":"UA",
+    "lbl:bbox":"26.80591,49.457396,26.84591,49.497396",
     "lbl:latitude":49.477396,
     "lbl:longitude":26.82591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.477396,
     "mps:longitude":26.82591,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Gruzevitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":707969,
         "gp:id":918329,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"d1f07c64474ca7f8d1b434f68a808826",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862217,
-    "wof:lastmodified":1544746372,
+    "wof:lastmodified":1566593677,
     "wof:name":"\u0413\u0440\u0443\u0437\u0435\u0432\u0438\u0446\u044f",
     "wof:parent_id":1108815719,
     "wof:placetype":"locality",

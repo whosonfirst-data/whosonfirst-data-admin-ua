@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000221,
-    "geom:area_square_m":1813341.568811,
+    "geom:area_square_m":1813341.56881,
     "geom:bbox":"25.4040421016,48.3501269541,25.422319112,48.3682060291",
     "geom:latitude":48.36003,
     "geom:longitude":25.412321,
     "iso:country":"UA",
     "lbl:latitude":48.360736,
     "lbl:longitude":25.412147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.360736,
     "mps:longitude":25.412147,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Korytnoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -34,7 +38,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":704842,
         "gp:id":937048,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"c8a4f4b2079de85657a14a485751c2f7",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101876421,
-    "wof:lastmodified":1501215612,
+    "wof:lastmodified":1566593607,
     "wof:name":"\u041a\u043e\u0440\u0438\u0442\u043d\u0435",
     "wof:parent_id":102088051,
     "wof:placetype":"locality",

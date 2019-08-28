@@ -10,19 +10,23 @@
     "geom:latitude":48.281424,
     "geom:longitude":22.943143,
     "iso:country":"UA",
+    "lbl:bbox":"22.923143,48.261424,22.963143,48.301424",
     "lbl:latitude":48.281424,
     "lbl:longitude":22.943143,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.281424,
     "mps:longitude":22.943143,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Kam\u201dyans\u2019ke"
     ],
     "name:ukr_x_variant":[
         "\u041a\u0430\u043c\u2019\u044f\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kivyazhd"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":706965,
         "gp:id":937361,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"a50d4fca842093c4328bd2c87ffd1459",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859391,
-    "wof:lastmodified":1544744890,
+    "wof:lastmodified":1566593208,
     "wof:name":"\u041a\u0430\u043c'\u044f\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

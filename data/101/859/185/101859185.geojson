@@ -10,12 +10,16 @@
     "geom:latitude":48.158628,
     "geom:longitude":22.718933,
     "iso:country":"UA",
+    "lbl:bbox":"22.698933,48.138628,22.738933,48.178628",
     "lbl:latitude":48.158628,
     "lbl:longitude":22.718933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.158628,
     "mps:longitude":22.718933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Borschawa"
     ],
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191581,
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":8275228,
         "gp:id":938647,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q854615"
     },
     "wof:country":"UA",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101859185,
-    "wof:lastmodified":1563302396,
+    "wof:lastmodified":1566593247,
     "wof:name":"\u0411\u043e\u0440\u0436\u0430\u0432\u0430",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":50.399087,
     "geom:longitude":30.535728,
     "iso:country":"UA",
+    "lbl:bbox":"30.5307282652,50.3940871067,30.5407282652,50.4040871067",
     "lbl:latitude":50.399087,
     "lbl:longitude":30.535728,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043f\u0435\u0440\u043d\u0430 \u0441\u043b\u043e\u0431\u0456\u0434\u043a\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688801,
         102191581,
         85633805,
         101752489,
-        1108730705,
-        85688801
+        1108730705
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108945153,
-    "wof:lastmodified":1500072244,
+    "wof:lastmodified":1566592891,
     "wof:name":"Saperna Slobidka",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

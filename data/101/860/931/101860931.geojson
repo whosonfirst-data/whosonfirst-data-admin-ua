@@ -10,12 +10,16 @@
     "geom:latitude":49.254828,
     "geom:longitude":22.828856,
     "iso:country":"UA",
+    "lbl:bbox":"22.808856,49.234828,22.848856,49.274828",
     "lbl:latitude":49.254828,
     "lbl:longitude":22.828856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.254828,
     "mps:longitude":22.828856,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Limna"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043c\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lomna"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":703053,
         "gp:id":507163,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q7239851"
     },
     "wof:country":"UA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101860931,
-    "wof:lastmodified":1563302852,
+    "wof:lastmodified":1566593448,
     "wof:name":"\u041b\u0456\u043c\u043d\u0430",
     "wof:parent_id":102088171,
     "wof:placetype":"locality",

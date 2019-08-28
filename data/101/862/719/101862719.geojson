@@ -10,12 +10,16 @@
     "geom:latitude":50.260662,
     "geom:longitude":24.537725,
     "iso:country":"UA",
+    "lbl:bbox":"24.517725,50.240662,24.557725,50.280662",
     "lbl:latitude":50.260662,
     "lbl:longitude":24.537725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.260662,
     "mps:longitude":24.537725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pawliw"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_variant":[
         "Pavliv"
     ],
-    "name:unk_x_variant":[
-        "Paw\u0142\u00f3w"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u592b\u5229\u592b"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":697883,
         "gp:id":12518398,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4341576"
     },
     "wof:country":"UA",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":101862719,
-    "wof:lastmodified":1563303427,
+    "wof:lastmodified":1566593709,
     "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432",
     "wof:parent_id":102088501,
     "wof:placetype":"locality",

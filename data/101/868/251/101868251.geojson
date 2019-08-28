@@ -10,12 +10,16 @@
     "geom:latitude":47.658718,
     "geom:longitude":38.079825,
     "iso:country":"UA",
+    "lbl:bbox":"38.059825,47.638718,38.099825,47.678718",
     "lbl:latitude":47.658718,
     "lbl:longitude":38.079825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.658718,
     "mps:longitude":38.079825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0441\u043a"
     ],
@@ -139,7 +143,7 @@
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a",
         "\u0413\u043e\u0440\u0456\u0448\u043d\u0456 \u041f\u043b\u0430\u0432\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karakubstroy"
     ],
     "name:vie_x_preferred":[
@@ -171,7 +175,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":149,
     "wof:belongsto":[
         85688779,
@@ -184,10 +188,12 @@
     "wof:concordances":{
         "gn:id":6559559,
         "gp:id":923348,
-        "qs:id":1,
-        "qs_pg:id":104785,
+        "qs_pg:id":1,
         "wd:id":"Q1025487",
         "wk:page":"Komsomolske, Donetsk Oblast"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":104785
     },
     "wof:country":"UA",
     "wof:geomhash":"04328594eeead519f3f5580587fdd389",
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":101868251,
-    "wof:lastmodified":1563302628,
+    "wof:lastmodified":1566593348,
     "wof:name":"\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

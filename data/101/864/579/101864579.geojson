@@ -10,12 +10,16 @@
     "geom:latitude":51.586748,
     "geom:longitude":26.615223,
     "iso:country":"UA",
+    "lbl:bbox":"26.595223,51.566748,26.635223,51.606748",
     "lbl:latitude":51.586748,
     "lbl:longitude":26.615223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.586748,
     "mps:longitude":26.615223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u043b\u043a\u044b"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "Kolky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolki"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":705435,
         "gp:id":919370,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4227927",
         "wk:page":"Kolky, Rivne Oblast"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101864579,
-    "wof:lastmodified":1563303589,
+    "wof:lastmodified":1566593775,
     "wof:name":"\u041a\u043e\u043b\u043a\u0438",
     "wof:parent_id":102088889,
     "wof:placetype":"locality",

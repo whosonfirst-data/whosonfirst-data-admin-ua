@@ -10,12 +10,16 @@
     "geom:latitude":48.199588,
     "geom:longitude":37.335847,
     "iso:country":"UA",
+    "lbl:bbox":"37.315847,48.179588,37.355847,48.219588",
     "lbl:latitude":48.199588,
     "lbl:longitude":37.335847,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.199588,
     "mps:longitude":37.335847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0648\u0647\u0631\u0648\u062f\u06cc\u0641\u06a9\u0627"
     ],
@@ -100,9 +104,6 @@
     "name:ukr_x_variant":[
         "Novohrodivka"
     ],
-    "name:unk_x_variant":[
-        "Novogrodovka"
-    ],
     "name:vie_x_preferred":[
         "Novohrodivka"
     ],
@@ -128,7 +129,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         85688779,
@@ -142,7 +143,7 @@
     "wof:concordances":{
         "gn:id":699557,
         "gp:id":928795,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q376473",
         "wk:page":"Novohrodivka"
     },
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":101868415,
-    "wof:lastmodified":1563302615,
+    "wof:lastmodified":1566593343,
     "wof:name":"\u041d\u043e\u0432\u043e\u0433\u0440\u043e\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":1175613711,
     "wof:placetype":"locality",

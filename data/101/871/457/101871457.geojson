@@ -10,12 +10,16 @@
     "geom:latitude":49.738272,
     "geom:longitude":38.223416,
     "iso:country":"UA",
+    "lbl:bbox":"38.203416,49.718272,38.243416,49.758272",
     "lbl:latitude":49.738272,
     "lbl:longitude":38.223416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.738272,
     "mps:longitude":38.223416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pokrowske"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pokrowskoje"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":696717,
         "gp:id":938999,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4369409"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101871457,
-    "wof:lastmodified":1563303317,
+    "wof:lastmodified":1566593660,
     "wof:name":"\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088967,
     "wof:placetype":"locality",

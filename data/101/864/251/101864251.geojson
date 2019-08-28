@@ -10,19 +10,23 @@
     "geom:latitude":50.845701,
     "geom:longitude":26.810067,
     "iso:country":"UA",
+    "lbl:bbox":"26.790067,50.825701,26.830067,50.865701",
     "lbl:latitude":50.845701,
     "lbl:longitude":26.810067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.845701,
     "mps:longitude":26.810067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Polis\u2019ke"
     ],
     "name:ukr_x_variant":[
         "\u041f\u043e\u043b\u0456\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pohoretowka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":672,
     "wof:belongsto":[
         102191581,
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":696786,
         "gp:id":932520,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"a19c82c2da8da524e9c87e7dc87e9f2c",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101864251,
-    "wof:lastmodified":1544747430,
+    "wof:lastmodified":1566593758,
     "wof:name":"\u041f\u043e\u043b\u0456\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815693,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":51.376174,
     "geom:longitude":27.453964,
     "iso:country":"UA",
+    "lbl:bbox":"27.433964,51.356174,27.473964,51.396174",
     "lbl:latitude":51.376174,
     "lbl:longitude":27.453964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.376174,
     "mps:longitude":27.453964,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Bilovizh"
     ],
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u043e\u0432\u0456\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Byalovizh"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":712524,
         "gp:id":917743,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"10a54a387ec64f77baddbaf26a33d7e9",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864519,
-    "wof:lastmodified":1544747568,
+    "wof:lastmodified":1566593759,
     "wof:name":"\u0411\u0456\u043b\u043e\u0432\u0456\u0436",
     "wof:parent_id":102088879,
     "wof:placetype":"locality",

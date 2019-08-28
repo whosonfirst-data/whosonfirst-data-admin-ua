@@ -11,12 +11,16 @@
     "geom:longitude":36.080081,
     "gn:population":8053,
     "iso:country":"UA",
+    "lbl:bbox":"36.060081,49.860266,36.100081,49.900266",
     "lbl:latitude":49.880266,
     "lbl:longitude":36.080081,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.880266,
     "mps:longitude":36.080081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0456\u045e\u0434\u044d\u043d\u043d\u044d"
     ],
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuzhniy"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +120,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -129,7 +133,6 @@
     "wof:concordances":{
         "gn:id":697135,
         "gp:id":930914,
-        "qs:id":1085221,
         "qs_pg:id":1085221,
         "wd:id":"Q785296",
         "wk:page":"Pivdenne"
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101871691,
-    "wof:lastmodified":1563303316,
+    "wof:lastmodified":1566593659,
     "wof:name":"\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0435",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

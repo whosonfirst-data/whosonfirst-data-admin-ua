@@ -10,12 +10,16 @@
     "geom:latitude":45.887246,
     "geom:longitude":34.450416,
     "iso:country":"UA",
+    "lbl:bbox":"34.430416,45.867246,34.470416,45.907246",
     "lbl:latitude":45.887246,
     "lbl:longitude":34.450416,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.887246,
     "mps:longitude":34.450416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Solyonoye Ozero"
     ],
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         85688855,
@@ -75,7 +79,9 @@
     "wof:concordances":{
         "gn:id":693231,
         "gp:id":924007,
-        "qs:id":3,
+        "qs_pg:id":3
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":275436
     },
     "wof:country":"UA",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":101858813,
-    "wof:lastmodified":1544744596,
+    "wof:lastmodified":1566593491,
     "wof:name":"\u0421\u043e\u043b\u043e\u043d\u0435 \u041e\u0437\u0435\u0440\u043e",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

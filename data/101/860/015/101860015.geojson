@@ -10,16 +10,20 @@
     "geom:latitude":48.941709,
     "geom:longitude":24.130198,
     "iso:country":"UA",
+    "lbl:bbox":"24.110198,48.921709,24.150198,48.961709",
     "lbl:latitude":48.941709,
     "lbl:longitude":24.130198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.941709,
     "mps:longitude":24.130198,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u0421\u0442\u0440\u0443\u0442\u0438\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strutyn\u2019-Nizhny"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":699973,
         "gp:id":932583,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"a619b634969d3d4957bd666de2bbd64d",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101860015,
-    "wof:lastmodified":1544745216,
+    "wof:lastmodified":1566593451,
     "wof:name":"\u041d\u0438\u0436\u043d\u0456\u0439 \u0421\u0442\u0440\u0443\u0442\u0438\u043d\u044c",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

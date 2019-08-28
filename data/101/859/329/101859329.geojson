@@ -10,12 +10,16 @@
     "geom:latitude":48.333515,
     "geom:longitude":22.684433,
     "iso:country":"UA",
+    "lbl:bbox":"22.664433,48.313515,22.704433,48.353515",
     "lbl:latitude":48.333515,
     "lbl:longitude":22.684433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.333515,
     "mps:longitude":22.684433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dertsen"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0446\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drisina"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":709616,
         "gp:id":12518201,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q714257"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101859329,
-    "wof:lastmodified":1561776913,
+    "wof:lastmodified":1566593243,
     "wof:name":"\u0414\u0435\u0440\u0446\u0435\u043d",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

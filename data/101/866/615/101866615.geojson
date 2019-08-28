@@ -10,12 +10,16 @@
     "geom:latitude":47.478164,
     "geom:longitude":34.414834,
     "iso:country":"UA",
+    "lbl:bbox":"34.394834,47.458164,34.434834,47.498164",
     "lbl:latitude":47.478164,
     "lbl:longitude":34.414834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.478164,
     "mps:longitude":34.414834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0646\u0643\u0627-\u062f\u0646\u064a\u0628\u0631\u0648\u0641\u0633\u0643\u0627"
     ],
@@ -88,7 +92,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u043c\u2019\u044f\u043d\u043a\u0430-\u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamenka"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +120,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":707026,
         "gp:id":921663,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q760594"
     },
     "wof:country":"UA",
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":101866615,
-    "wof:lastmodified":1563302460,
+    "wof:lastmodified":1566593277,
     "wof:name":"\u041a\u0430\u043c'\u044f\u043d\u043a\u0430-\u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "wof:parent_id":102088255,
     "wof:placetype":"locality",

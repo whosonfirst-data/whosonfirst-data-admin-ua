@@ -10,12 +10,16 @@
     "geom:latitude":48.509154,
     "geom:longitude":22.330981,
     "iso:country":"UA",
+    "lbl:bbox":"22.310981,48.489154,22.350981,48.529154",
     "lbl:latitude":48.509154,
     "lbl:longitude":22.330981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.509154,
     "mps:longitude":22.330981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Veliki Geyivtsi"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u0413\u0435\u0457\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velikoye Geyovtse"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":690174,
         "gp:id":936939,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q835694"
     },
     "wof:country":"UA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101859647,
-    "wof:lastmodified":1561776911,
+    "wof:lastmodified":1566593236,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0456 \u0413\u0435\u0457\u0432\u0446\u0456",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

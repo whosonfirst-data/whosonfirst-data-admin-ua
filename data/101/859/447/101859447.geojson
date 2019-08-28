@@ -10,12 +10,16 @@
     "geom:latitude":48.019065,
     "geom:longitude":25.776449,
     "iso:country":"UA",
+    "lbl:bbox":"25.756449,47.999065,25.796449,48.039065",
     "lbl:latitude":48.019065,
     "lbl:longitude":25.776449,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.019065,
     "mps:longitude":25.776449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Korchivtsi"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korcheshti"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":704983,
         "gp:id":872381,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4234479"
     },
     "wof:country":"UA",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101859447,
-    "wof:lastmodified":1561776905,
+    "wof:lastmodified":1566593213,
     "wof:name":"\u041a\u043e\u0440\u0447\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088031,
     "wof:placetype":"locality",

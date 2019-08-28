@@ -10,12 +10,16 @@
     "geom:latitude":48.024362,
     "geom:longitude":38.811429,
     "iso:country":"UA",
+    "lbl:bbox":"38.791429,48.004362,38.831429,48.044362",
     "lbl:latitude":48.024362,
     "lbl:longitude":38.811429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.024362,
     "mps:longitude":38.811429,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Donets'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939519,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"4ca2132f5a343e0bd76eb8545ada185e",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101868565,
-    "wof:lastmodified":1544749805,
+    "wof:lastmodified":1566593362,
     "wof:name":"\u0417\u0430\u043b\u0456\u0441\u043d\u0435",
     "wof:parent_id":1175613747,
     "wof:placetype":"locality",

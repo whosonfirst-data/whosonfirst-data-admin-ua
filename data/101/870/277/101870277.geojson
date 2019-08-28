@@ -10,12 +10,16 @@
     "geom:latitude":50.934331,
     "geom:longitude":32.127075,
     "iso:country":"UA",
+    "lbl:bbox":"32.107075,50.914331,32.147075,50.954331",
     "lbl:latitude":50.934331,
     "lbl:longitude":32.127075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.934331,
     "mps:longitude":32.127075,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doroginka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0414\u043e\u0440\u043e\u0433\u0438\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Doroginka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":709695,
         "gp:id":927376,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"d19867bfb5e059fdd22fa4ee3b99db70",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101870277,
-    "wof:lastmodified":1544750624,
+    "wof:lastmodified":1566593559,
     "wof:name":"\u0414\u043e\u0440\u043e\u0433\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088931,
     "wof:placetype":"locality",

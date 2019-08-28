@@ -10,12 +10,16 @@
     "geom:latitude":50.528424,
     "geom:longitude":34.905414,
     "iso:country":"UA",
+    "lbl:bbox":"34.885414,50.508424,34.925414,50.548424",
     "lbl:latitude":50.528424,
     "lbl:longitude":34.905414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.528424,
     "mps:longitude":34.905414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Artur Kyshenko"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belka"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1684,
     "wof:belongsto":[
         102191581,
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101870407,
-    "wof:lastmodified":1563303092,
+    "wof:lastmodified":1566593552,
     "wof:name":"\u0411\u0456\u043b\u043a\u0430",
     "wof:parent_id":102088249,
     "wof:placetype":"locality",

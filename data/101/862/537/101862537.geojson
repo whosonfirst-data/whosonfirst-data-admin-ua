@@ -11,12 +11,16 @@
     "geom:longitude":24.950037,
     "gn:population":1449,
     "iso:country":"UA",
+    "lbl:bbox":"24.930037,49.607137,24.970037,49.647137",
     "lbl:latitude":49.627137,
     "lbl:longitude":24.950037,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.627137,
     "mps:longitude":24.950037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u043c\u0430\u0440\u0430\u043d\u044b"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u043c\u043e\u0440\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pomorzhany"
     ],
     "name:yid_x_preferred":[
@@ -86,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":208,
     "wof:belongsto":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":696582,
         "gp:id":935810,
-        "qs:id":1028471,
+        "qs_pg:id":1028471,
         "wd:id":"Q4371769",
         "wk:page":"Pomoriany Castle"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101862537,
-    "wof:lastmodified":1563303388,
+    "wof:lastmodified":1566593692,
     "wof:name":"\u041f\u043e\u043c\u043e\u0440\u044f\u043d\u0438",
     "wof:parent_id":102088393,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":51.413479,
     "lbl:longitude":28.510409,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zhytomyrska",
     "meso:admin_1":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Ovruts'kyi",
@@ -34,6 +36,7 @@
     "mps:longitude":28.508937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Sjitomir-oblast"
     ],
@@ -212,9 +215,6 @@
         "\u041e\u0432\u0440\u0443\u0446\u044c\u043a\u0438\u0439",
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:und_x_variant":[
-        "\u041e\u0432\u0440\u0443\u0446\u044c\u043a\u0438\u0439"
-    ],
     "name:urd_x_preferred":[
         "\u0698\u06cc\u062a\u0648\u0645\u06cc\u0631 \u0627\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
@@ -252,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"3225",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Ovruch",
@@ -285,7 +285,7 @@
         }
     ],
     "wof:id":102088925,
-    "wof:lastmodified":1554317317,
+    "wof:lastmodified":1566591393,
     "wof:name":"Ovrutskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

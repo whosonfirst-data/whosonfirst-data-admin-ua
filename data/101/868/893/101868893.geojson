@@ -10,12 +10,16 @@
     "geom:latitude":49.333329,
     "geom:longitude":35.123008,
     "iso:country":"UA",
+    "lbl:bbox":"35.103008,49.313329,35.143008,49.353329",
     "lbl:latitude":49.333329,
     "lbl:longitude":35.123008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.333329,
     "mps:longitude":35.123008,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klimovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u043b\u0438\u043c\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Klimovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":705640,
         "gp:id":922906,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"a615fe1c51b47c647024e3002146d243",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101868893,
-    "wof:lastmodified":1544749991,
+    "wof:lastmodified":1566593349,
     "wof:name":"\u041a\u043b\u0438\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088761,
     "wof:placetype":"locality",

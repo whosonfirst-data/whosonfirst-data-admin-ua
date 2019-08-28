@@ -9,15 +9,18 @@
     "geom:bbox":"22.99578,48.54853,22.99578,48.54853",
     "geom:latitude":48.54853,
     "geom:longitude":22.99578,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16507,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":16507,
     "iso:country":"UA",
+    "lbl:bbox":"22.97578,48.52853,23.01578,48.56853",
     "lbl:latitude":48.54853,
     "lbl:longitude":22.99578,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0633\u0648\u0627\u0644\u06cc\u0627\u0648\u0627"
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0430\u043b\u044f\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svalava"
     ],
     "name:vie_x_preferred":[
@@ -134,7 +137,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":935548,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1125957391,
-    "wof:lastmodified":1563303776,
+    "wof:lastmodified":1566593888,
     "wof:name":"Svalyava",
     "wof:parent_id":102088061,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":51.218648,
     "lbl:longitude":26.631313,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "mps:latitude":51.209913,
     "mps:longitude":26.629797,
@@ -229,9 +230,6 @@
         "\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
         "Rivnens\u2019ka Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -321,9 +319,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"20,047",
     "statoids:area_mi":"7,740",
     "statoids:as_of_date":"2001-12-05",
@@ -368,7 +366,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1565737972,
+    "wof:lastmodified":1566591782,
     "wof:name":"Rivne",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

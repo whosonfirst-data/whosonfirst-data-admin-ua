@@ -11,12 +11,16 @@
     "geom:longitude":33.34286,
     "gn:population":4693,
     "iso:country":"UA",
+    "lbl:bbox":"33.32286,48.894906,33.36286,48.934906",
     "lbl:latitude":48.914906,
     "lbl:longitude":33.34286,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.914906,
     "mps:longitude":33.34286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pavlysh"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u043b\u0438\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavlichi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":697817,
         "gp:id":930272,
-        "qs:id":1028484
+        "qs_pg:id":1028484
     },
     "wof:country":"UA",
     "wof:geomhash":"f4e1d71160d14dc509a1429daa1c8555",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101868275,
-    "wof:lastmodified":1544749642,
+    "wof:lastmodified":1566593344,
     "wof:name":"\u041f\u0430\u0432\u043b\u0438\u0448",
     "wof:parent_id":102088533,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.438738,
     "geom:longitude":33.589869,
     "iso:country":"UA",
+    "lbl:bbox":"33.569869,45.418738,33.609869,45.458738",
     "lbl:latitude":45.438738,
     "lbl:longitude":33.589869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.438738,
     "mps:longitude":33.589869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Montanay"
     ],
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":821,
     "wof:belongsto":[
         85688855,
@@ -122,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302953,
+    "wof:lastmodified":1566593492,
     "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0456\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738645,
     "wof:placetype":"locality",

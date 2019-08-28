@@ -10,12 +10,16 @@
     "geom:latitude":48.4661,
     "geom:longitude":33.882344,
     "iso:country":"UA",
+    "lbl:bbox":"33.862344,48.4461,33.902344,48.4861",
     "lbl:latitude":48.4661,
     "lbl:longitude":33.882344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.4661,
     "mps:longitude":33.882344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lozuvatka"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0437\u0443\u0432\u0430\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lozovatka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":702770,
         "gp:id":938136,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"d78488154c9d1ee2e1c09b4e0406dfcd",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101865889,
-    "wof:lastmodified":1544748297,
+    "wof:lastmodified":1566593719,
     "wof:name":"\u041b\u043e\u0437\u0443\u0432\u0430\u0442\u043a\u0430",
     "wof:parent_id":102088495,
     "wof:placetype":"locality",

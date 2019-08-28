@@ -11,12 +11,16 @@
     "geom:longitude":32.606661,
     "gn:population":2900,
     "iso:country":"UA",
+    "lbl:bbox":"32.586661,50.45417,32.626661,50.49417",
     "lbl:latitude":50.47417,
     "lbl:longitude":32.606661,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.47417,
     "mps:longitude":32.606661,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zhuravka"
     ],
@@ -25,9 +29,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0443\u0440\u0430\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Zhuravka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -48,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":687009,
         "gp:id":940270,
-        "qs:id":1028327
+        "qs_pg:id":1028327
     },
     "wof:country":"UA",
     "wof:geomhash":"06057065aefa2e5d8ab1d05293f52010",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":101869987,
-    "wof:lastmodified":1544750545,
+    "wof:lastmodified":1566593443,
     "wof:name":"\u0416\u0443\u0440\u0430\u0432\u043a\u0430",
     "wof:parent_id":102088849,
     "wof:placetype":"locality",

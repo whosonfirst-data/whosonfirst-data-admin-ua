@@ -9,15 +9,18 @@
     "geom:bbox":"32.44251,46.6248,32.44251,46.6248",
     "geom:latitude":46.6248,
     "geom:longitude":32.44251,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9348,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":9348,
     "iso:country":"UA",
+    "lbl:bbox":"32.42251,46.6048,32.46251,46.6448",
     "lbl:latitude":46.6248,
     "lbl:longitude":32.44251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0632\u064a\u0631\u0643\u0627"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beloz\u00ebrka"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +93,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":916601,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1125866571,
-    "wof:lastmodified":1563303812,
+    "wof:lastmodified":1566593902,
     "wof:name":"Belozerka",
     "wof:parent_id":102088019,
     "wof:placetype":"locality",

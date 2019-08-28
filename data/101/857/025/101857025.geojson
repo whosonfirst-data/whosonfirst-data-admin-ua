@@ -11,12 +11,16 @@
     "geom:longitude":34.236498,
     "gn:population":2291,
     "iso:country":"UA",
+    "lbl:bbox":"34.216498,44.493137,34.256498,44.533137",
     "lbl:latitude":44.513137,
     "lbl:longitude":34.236498,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.513137,
     "mps:longitude":34.236498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nikita"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u0456\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Botanicheskoye"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -102,7 +106,6 @@
         "fct:id":"08278e68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":711527,
         "gp:id":927933,
-        "qs:id":211592,
         "qs_pg:id":211592,
         "wd:id":"Q2368326",
         "wk:page":"Nikita, Crimea"
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302709,
+    "wof:lastmodified":1566593386,
     "wof:name":"\u041d\u0456\u043a\u0456\u0442\u0430",
     "wof:parent_id":1108738659,
     "wof:placetype":"locality",

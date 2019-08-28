@@ -10,12 +10,16 @@
     "geom:latitude":48.414079,
     "geom:longitude":25.774285,
     "iso:country":"UA",
+    "lbl:bbox":"25.754285,48.394079,25.794285,48.434079",
     "lbl:latitude":48.414079,
     "lbl:longitude":25.774285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.414079,
     "mps:longitude":25.774285,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Chernivets'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918585,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"5613197a99eacf65b3131c731bcd78b4",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101859869,
-    "wof:lastmodified":1544745139,
+    "wof:lastmodified":1566593221,
     "wof:name":"\u041b\u0430\u0448\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088095,
     "wof:placetype":"locality",

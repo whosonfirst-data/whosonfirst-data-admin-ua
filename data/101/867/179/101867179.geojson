@@ -10,16 +10,20 @@
     "geom:latitude":47.698859,
     "geom:longitude":38.080199,
     "iso:country":"UA",
+    "lbl:bbox":"38.060199,47.678859,38.100199,47.718859",
     "lbl:latitude":47.698859,
     "lbl:longitude":38.080199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.698859,
     "mps:longitude":38.080199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":802274,
         "gp:id":923348,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"bc845037e09342fb94a785aa05b8d4bd",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101867179,
-    "wof:lastmodified":1544749027,
+    "wof:lastmodified":1566593538,
     "wof:name":"\u041f\u0435\u0442\u0440\u0456\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

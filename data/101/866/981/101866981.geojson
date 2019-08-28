@@ -10,12 +10,16 @@
     "geom:latitude":47.030794,
     "geom:longitude":37.061988,
     "iso:country":"UA",
+    "lbl:bbox":"37.041988,47.010794,37.081988,47.050794",
     "lbl:latitude":47.030794,
     "lbl:longitude":37.061988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.030794,
     "mps:longitude":37.061988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tscherwone Pole"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0435 \u041f\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnopol\u2019ye"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":188,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":704351,
         "gp:id":934919,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4512323"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101866981,
-    "wof:lastmodified":1563302486,
+    "wof:lastmodified":1566593288,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0435 \u041f\u043e\u043b\u0435",
     "wof:parent_id":1108815641,
     "wof:placetype":"locality",

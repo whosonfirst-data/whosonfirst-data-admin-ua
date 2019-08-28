@@ -10,12 +10,16 @@
     "geom:latitude":50.937345,
     "geom:longitude":34.378797,
     "iso:country":"UA",
+    "lbl:bbox":"34.358797,50.917345,34.398797,50.957345",
     "lbl:latitude":50.937345,
     "lbl:longitude":34.378797,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.937345,
     "mps:longitude":34.378797,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u044b\u0440\u0430\u043b\u044e\u0431\u0456\u045e"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_variant":[
         "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikolayevka-Virivskaya"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":687064,
         "gp:id":940208,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2670481"
     },
     "wof:country":"UA",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":101871581,
-    "wof:lastmodified":1563303276,
+    "wof:lastmodified":1566593643,
     "wof:name":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435",
     "wof:parent_id":102088995,
     "wof:placetype":"locality",

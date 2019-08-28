@@ -9,14 +9,17 @@
     "geom:bbox":"35.0,48.5,35.0,48.5",
     "geom:latitude":48.5,
     "geom:longitude":35.0,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"UA",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"UA",
+    "lbl:bbox":"34.995,48.495,35.005,48.505",
     "lbl:latitude":48.5,
     "lbl:longitude":35.0,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ukr_x_preferred":[
         "Yasnyy"
@@ -45,17 +48,17 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":939024,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
     "woe:name_adm1":"Dnipropetrovs\u00b4ka Oblast\u00b4",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688797,
         102191581,
         85633805,
         101752861,
-        1108815855,
-        85688797
+        1108815855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126085761,
-    "wof:lastmodified":1509411393,
+    "wof:lastmodified":1566593931,
     "wof:name":"Yasnoye",
     "wof:parent_id":101752861,
     "wof:placetype":"neighbourhood",

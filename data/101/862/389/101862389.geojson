@@ -10,12 +10,16 @@
     "geom:latitude":49.798852,
     "geom:longitude":27.562109,
     "iso:country":"UA",
+    "lbl:bbox":"27.542109,49.778852,27.582109,49.818852",
     "lbl:latitude":49.798852,
     "lbl:longitude":27.562109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.798852,
     "mps:longitude":27.562109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Staryj Ostropol"
     ],
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":204,
     "wof:belongsto":[
         102191581,
@@ -88,7 +92,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":929874,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1012604"
     },
     "wof:country":"UA",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":101862389,
-    "wof:lastmodified":1563303426,
+    "wof:lastmodified":1566593709,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041e\u0441\u0442\u0440\u043e\u043f\u0456\u043b\u044c",
     "wof:parent_id":1108815717,
     "wof:placetype":"locality",

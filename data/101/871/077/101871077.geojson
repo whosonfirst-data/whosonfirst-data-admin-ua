@@ -11,12 +11,16 @@
     "geom:longitude":35.193315,
     "gn:population":8008,
     "iso:country":"UA",
+    "lbl:bbox":"35.173315,50.060667,35.213315,50.100667",
     "lbl:latitude":50.080667,
     "lbl:longitude":35.193315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.080667,
     "mps:longitude":35.193315,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Krasnokutsk"
     ],
@@ -28,9 +32,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Krasnokutsk"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -51,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +64,7 @@
     "wof:concordances":{
         "gn:id":704376,
         "gp:id":924093,
-        "qs:id":552606
+        "qs_pg:id":552606
     },
     "wof:country":"UA",
     "wof:geomhash":"2a77f09e3a43b85ee9c6085b0f7076a4",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":101871077,
-    "wof:lastmodified":1544750941,
+    "wof:lastmodified":1566593632,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a",
     "wof:parent_id":1108815731,
     "wof:placetype":"locality",

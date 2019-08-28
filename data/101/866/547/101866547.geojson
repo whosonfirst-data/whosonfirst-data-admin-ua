@@ -10,12 +10,16 @@
     "geom:latitude":48.419743,
     "geom:longitude":30.129561,
     "iso:country":"UA",
+    "lbl:bbox":"30.109561,48.399743,30.149561,48.439743",
     "lbl:latitude":48.419743,
     "lbl:longitude":30.129561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.419743,
     "mps:longitude":30.129561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kirovohrads'ka",
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":939331,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"70310c03a3ba97d3840d42d9ab5f4edc",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101866547,
-    "wof:lastmodified":1544748667,
+    "wof:lastmodified":1566593284,
     "wof:name":"\u041a\u0430\u043c'\u044f\u043d\u0430 \u041a\u0440\u0438\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088241,
     "wof:placetype":"locality",

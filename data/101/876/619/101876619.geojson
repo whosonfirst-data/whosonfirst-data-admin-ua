@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.760405,
     "lbl:longitude":25.989338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.760405,
     "mps:longitude":25.989338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Jezern\u00ed jeskyn\u011b"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1012,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":917464,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2914782"
     },
     "wof:country":"UA",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101876619,
-    "wof:lastmodified":1563303160,
+    "wof:lastmodified":1566593585,
     "wof:name":"\u0421\u0442\u0440\u0456\u043b\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088181,
     "wof:placetype":"locality",

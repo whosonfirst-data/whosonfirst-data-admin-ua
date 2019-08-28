@@ -11,12 +11,16 @@
     "geom:longitude":33.674414,
     "gn:population":2539,
     "iso:country":"UA",
+    "lbl:bbox":"33.654414,50.160197,33.694414,50.200197",
     "lbl:latitude":50.180197,
     "lbl:longitude":33.674414,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.180197,
     "mps:longitude":33.674414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kamyshnya"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0438\u0448\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komyshnya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":706915,
         "gp:id":940449,
-        "qs:id":128674
+        "qs_pg:id":128674
     },
     "wof:country":"UA",
     "wof:geomhash":"b1919d023129eec11f9552a812ce0bcf",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101870971,
-    "wof:lastmodified":1544750895,
+    "wof:lastmodified":1566593554,
     "wof:name":"\u041a\u043e\u043c\u0438\u0448\u043d\u044f",
     "wof:parent_id":1108815689,
     "wof:placetype":"locality",

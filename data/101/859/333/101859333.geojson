@@ -10,12 +10,16 @@
     "geom:latitude":48.359614,
     "geom:longitude":22.860849,
     "iso:country":"UA",
+    "lbl:bbox":"22.840849,48.339614,22.880849,48.379614",
     "lbl:latitude":48.359614,
     "lbl:longitude":22.860849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.359614,
     "mps:longitude":22.860849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zaluzhzhia"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0443\u0436\u0436\u044f"
     ],
-    "name:unk_x_variant":[
-        "Beregkisalm\u00e1s"
-    ],
     "name:zho_x_preferred":[
         "\u624e\u76e7\u65e5\u624e"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":687772,
         "gp:id":918476,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q714249"
     },
     "wof:country":"UA",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":101859333,
-    "wof:lastmodified":1563302354,
+    "wof:lastmodified":1566593233,
     "wof:name":"\u0417\u0430\u043b\u0443\u0436\u0436\u044f",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

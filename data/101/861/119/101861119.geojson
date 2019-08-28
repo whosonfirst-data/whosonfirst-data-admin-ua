@@ -11,12 +11,16 @@
     "geom:longitude":23.646382,
     "gn:population":3671,
     "iso:country":"UA",
+    "lbl:bbox":"23.626382,49.205192,23.666382,49.245192",
     "lbl:latitude":49.225192,
     "lbl:longitude":23.646382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.225192,
     "mps:longitude":23.646382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0423\u043b\u0438\u0447\u043d\u0435"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0438\u0447\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uliczno"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":690745,
-        "qs:id":128223
+        "qs_pg:id":128223
     },
     "wof:country":"UA",
     "wof:geomhash":"9597887156579c0cefdaced68a926342",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":101861119,
-    "wof:lastmodified":1544745797,
+    "wof:lastmodified":1566593309,
     "wof:name":"\u0423\u043b\u0438\u0447\u043d\u0435",
     "wof:parent_id":1108815671,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.030468,
     "geom:longitude":34.836635,
     "iso:country":"UA",
+    "lbl:bbox":"34.816635,46.010468,34.856635,46.050468",
     "lbl:latitude":46.030468,
     "lbl:longitude":34.836635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.030468,
     "mps:longitude":34.836635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Schtschaslywzewe"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0429\u0430\u0441\u043b\u0438\u0432\u0446\u0435\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schastlivtseva"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":694726,
         "gp:id":919923,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4447786"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101858879,
-    "wof:lastmodified":1563302949,
+    "wof:lastmodified":1566593490,
     "wof:name":"\u0429\u0430\u0441\u043b\u0438\u0432\u0446\u0435\u0432\u0435",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

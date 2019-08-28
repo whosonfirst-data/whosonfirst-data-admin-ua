@@ -10,12 +10,16 @@
     "geom:latitude":48.225153,
     "geom:longitude":29.129708,
     "iso:country":"UA",
+    "lbl:bbox":"29.109708,48.205153,29.149708,48.245153",
     "lbl:latitude":48.225153,
     "lbl:longitude":29.129708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.225153,
     "mps:longitude":29.129708,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nazionalnaja konteinernaja kompanija"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1257,
     "wof:belongsto":[
         102191581,
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":918267,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1972634"
     },
     "wof:country":"UA",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":101866355,
-    "wof:lastmodified":1544748559,
+    "wof:lastmodified":1566593254,
     "wof:name":"\u041b\u0443\u0433\u0438",
     "wof:parent_id":102088163,
     "wof:placetype":"locality",

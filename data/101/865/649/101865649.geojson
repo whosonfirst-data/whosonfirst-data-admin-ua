@@ -10,12 +10,16 @@
     "geom:latitude":46.476833,
     "geom:longitude":34.181822,
     "iso:country":"UA",
+    "lbl:bbox":"34.161822,46.456833,34.201822,46.496833",
     "lbl:latitude":46.476833,
     "lbl:longitude":34.181822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.476833,
     "mps:longitude":34.181822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tschkalowe"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chkalovo"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":710436,
         "gp:id":919179,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4516875"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101865649,
-    "wof:lastmodified":1563303485,
+    "wof:lastmodified":1566593733,
     "wof:name":"\u0427\u043a\u0430\u043b\u043e\u0432\u0435",
     "wof:parent_id":102088045,
     "wof:placetype":"locality",

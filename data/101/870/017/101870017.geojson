@@ -10,12 +10,16 @@
     "geom:latitude":50.456518,
     "geom:longitude":33.295586,
     "iso:country":"UA",
+    "lbl:bbox":"33.275586,50.436518,33.315586,50.476518",
     "lbl:latitude":50.456518,
     "lbl:longitude":33.295586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.456518,
     "mps:longitude":33.295586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Holija\u010dka Luka"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Luka"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Poltavs'ka",
@@ -72,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":101870017,
-    "wof:lastmodified":1563303116,
+    "wof:lastmodified":1566593561,
     "wof:name":"\u041b\u0443\u043a\u0430",
     "wof:parent_id":102088865,
     "wof:placetype":"locality",

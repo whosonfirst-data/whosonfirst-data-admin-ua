@@ -9,15 +9,18 @@
     "geom:bbox":"30.19638,47.38052,30.19638,47.38052",
     "geom:latitude":47.38052,
     "geom:longitude":30.19638,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7018,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7018,
     "iso:country":"UA",
+    "lbl:bbox":"30.17638,47.36052,30.21638,47.40052",
     "lbl:latitude":47.38052,
     "lbl:longitude":30.19638,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0428\u0438\u0440\u044f\u0435\u0432\u043e"
@@ -67,7 +70,7 @@
     "name:ukr_x_variant":[
         "\u0428\u0438\u0440\u044f\u0454\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sharayevo"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +88,7 @@
     "qs_pg:qs_id":1028432,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125888955,
-    "wof:lastmodified":1563303834,
+    "wof:lastmodified":1566593910,
     "wof:name":"Shyryayeve",
     "wof:parent_id":102088047,
     "wof:placetype":"locality",

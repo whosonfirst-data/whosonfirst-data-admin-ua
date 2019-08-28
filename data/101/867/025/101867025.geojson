@@ -10,12 +10,16 @@
     "geom:latitude":47.304636,
     "geom:longitude":37.593236,
     "iso:country":"UA",
+    "lbl:bbox":"37.573236,47.284636,37.613236,47.324636",
     "lbl:latitude":47.304636,
     "lbl:longitude":37.593236,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.304636,
     "mps:longitude":37.593236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kalchik"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u043b\u044c\u0447\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kal\u2019chik"
     ],
     "name:zho_x_preferred":[
@@ -104,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         85688779,
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":707219,
         "gp:id":922763,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4210602"
     },
     "wof:country":"UA",
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":101867025,
-    "wof:lastmodified":1561776954,
+    "wof:lastmodified":1566593506,
     "wof:name":"\u041a\u0430\u043b\u044c\u0447\u0438\u043a",
     "wof:parent_id":102088371,
     "wof:placetype":"locality",

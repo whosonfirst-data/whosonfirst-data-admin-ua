@@ -11,12 +11,16 @@
     "geom:longitude":23.543024,
     "gn:population":20087,
     "iso:country":"UA",
+    "lbl:bbox":"23.523024,49.280222,23.563024,49.320222",
     "lbl:latitude":49.300222,
     "lbl:longitude":23.543024,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.300222,
     "mps:longitude":23.543024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0628\u0646\u06a9"
     ],
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0431\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stebniki"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +123,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -132,7 +136,6 @@
     "wof:concordances":{
         "gn:id":692632,
         "gp:id":935097,
-        "qs:id":1085244,
         "qs_pg:id":1085244,
         "wd:id":"Q110668",
         "wk:page":"Stebnyk"
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101861155,
-    "wof:lastmodified":1563302546,
+    "wof:lastmodified":1566593313,
     "wof:name":"\u0421\u0442\u0435\u0431\u043d\u0438\u043a",
     "wof:parent_id":1108815787,
     "wof:placetype":"locality",

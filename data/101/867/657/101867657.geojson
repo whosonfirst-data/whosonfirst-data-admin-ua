@@ -11,12 +11,16 @@
     "geom:longitude":28.722473,
     "gn:population":6740,
     "iso:country":"UA",
+    "lbl:bbox":"28.702473,49.312342,28.742473,49.352342",
     "lbl:latitude":49.332342,
     "lbl:longitude":28.722473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.332342,
     "mps:longitude":28.722473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0628\u064a\u0641"
     ],
@@ -83,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0431\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turbov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -106,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -119,7 +123,6 @@
     "wof:concordances":{
         "gn:id":690985,
         "gp:id":936570,
-        "qs:id":128231,
         "qs_pg:id":128231,
         "wd:id":"Q2353469",
         "wk:page":"Turbiv"
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101867657,
-    "wof:lastmodified":1563303003,
+    "wof:lastmodified":1566593512,
     "wof:name":"\u0422\u0443\u0440\u0431\u0456\u0432",
     "wof:parent_id":102088421,
     "wof:placetype":"locality",

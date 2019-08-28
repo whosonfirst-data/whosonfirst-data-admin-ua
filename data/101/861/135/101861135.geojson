@@ -10,19 +10,23 @@
     "geom:latitude":49.333664,
     "geom:longitude":23.450025,
     "iso:country":"UA",
+    "lbl:bbox":"23.430025,49.313664,23.470025,49.353664",
     "lbl:latitude":49.333664,
     "lbl:longitude":23.450025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.333664,
     "mps:longitude":23.450025,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0414\u0435\u0440\u0435\u0436\u0438\u0447\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0435\u0436\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Derezhychi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":710104,
         "gp:id":919262,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"bf663f03fd989ccc18aa2f54ebbd8d50",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101861135,
-    "wof:lastmodified":1544745806,
+    "wof:lastmodified":1566593289,
     "wof:name":"\u0414\u0435\u0440\u0435\u0436\u0438\u0447\u0456",
     "wof:parent_id":1108815671,
     "wof:placetype":"locality",

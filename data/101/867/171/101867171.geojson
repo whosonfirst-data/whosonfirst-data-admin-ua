@@ -10,12 +10,16 @@
     "geom:latitude":47.625492,
     "geom:longitude":38.266026,
     "iso:country":"UA",
+    "lbl:bbox":"38.246026,47.605492,38.286026,47.645492",
     "lbl:latitude":47.625492,
     "lbl:longitude":38.266026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.625492,
     "mps:longitude":38.266026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kumatschowe"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0430\u0447\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumachovo"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":703695,
         "gp:id":924714,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4246902"
     },
     "wof:country":"UA",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101867171,
-    "wof:lastmodified":1561776959,
+    "wof:lastmodified":1566593540,
     "wof:name":"\u041a\u0443\u043c\u0430\u0447\u043e\u0432\u0435",
     "wof:parent_id":102088523,
     "wof:placetype":"locality",

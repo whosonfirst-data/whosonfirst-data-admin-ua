@@ -11,12 +11,16 @@
     "geom:longitude":30.823325,
     "gn:population":7954,
     "iso:country":"UA",
+    "lbl:bbox":"30.803325,49.225899,30.843325,49.265899",
     "lbl:latitude":49.245899,
     "lbl:longitude":30.823325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.245899,
     "mps:longitude":30.823325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u044b\u0441\u044f\u043d\u043a\u0430"
     ],
@@ -65,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0441\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lisyanko"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":702491,
         "gp:id":925816,
-        "qs:id":128508,
+        "qs_pg:id":128508,
         "wd:id":"Q1879003",
         "wk:page":"Lysianka"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101867819,
-    "wof:lastmodified":1563302985,
+    "wof:lastmodified":1566593506,
     "wof:name":"\u041b\u0438\u0441\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088487,
     "wof:placetype":"locality",

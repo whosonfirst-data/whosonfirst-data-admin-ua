@@ -10,12 +10,16 @@
     "geom:latitude":45.068546,
     "geom:longitude":33.988444,
     "iso:country":"UA",
+    "lbl:bbox":"33.968444,45.048546,34.008444,45.088546",
     "lbl:latitude":45.068546,
     "lbl:longitude":33.988444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.068546,
     "mps:longitude":33.988444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ukromnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":690764,
         "gp:id":920589,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"bb07e90defb6d73900c6784d4d25074c",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857087,
-    "wof:lastmodified":1544743715,
+    "wof:lastmodified":1566593393,
     "wof:name":"\u0423\u043a\u0440\u043e\u043c\u043d\u0435",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.594131,
     "lbl:longitude":22.279742,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.594131,
     "mps:longitude":22.279742,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0423\u0436\u0433\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -89,9 +92,6 @@
     "name:ukr_x_variant":[
         "\u041c\u0438\u043d\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Minaj"
-    ],
     "name:vie_x_preferred":[
         "Uzhhorodskyi"
     ],
@@ -114,7 +114,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":188,
     "wof:belongsto":[
@@ -127,7 +127,7 @@
     "wof:concordances":{
         "gn:id":701091,
         "gp:id":936939,
-        "qs:id":275496,
+        "qs_pg:id":275496,
         "wd:id":"Q428958"
     },
     "wof:country":"UA",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":101876419,
-    "wof:lastmodified":1563303201,
+    "wof:lastmodified":1566593607,
     "wof:name":"\u041c\u0438\u043d\u0430\u0439",
     "wof:parent_id":1108815639,
     "wof:placetype":"locality",

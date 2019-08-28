@@ -10,12 +10,16 @@
     "geom:latitude":45.385905,
     "geom:longitude":33.118258,
     "iso:country":"UA",
+    "lbl:bbox":"33.098258,45.365905,33.138258,45.405905",
     "lbl:latitude":45.385905,
     "lbl:longitude":33.118258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.385905,
     "mps:longitude":33.118258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Novooz\u00f6rnoye"
     ],
@@ -77,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":216,
     "wof:belongsto":[
         85688855,
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":7025405,
         "gp:id":12518248,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q3889296",
         "wk:page":"Novoozerne"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":101858521,
-    "wof:lastmodified":1563302942,
+    "wof:lastmodified":1566593486,
     "wof:name":"\u041d\u043e\u0432\u043e\u043e\u0437\u0435\u0440\u043d\u0435",
     "wof:parent_id":1108738675,
     "wof:placetype":"locality",

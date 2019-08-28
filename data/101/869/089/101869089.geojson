@@ -10,12 +10,16 @@
     "geom:latitude":48.807183,
     "geom:longitude":39.092039,
     "iso:country":"UA",
+    "lbl:bbox":"39.072039,48.787183,39.112039,48.827183",
     "lbl:latitude":48.807183,
     "lbl:longitude":39.092039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.807183,
     "mps:longitude":39.092039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rajhorodka"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u0433\u043e\u0440\u043e\u0434\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Raygorodka"
     ],
     "name:zho_x_preferred":[
         "\u8cf4\u6208\u7f85\u5fb7\u5361"
@@ -62,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +74,7 @@
     "wof:concordances":{
         "gn:id":811593,
         "gp:id":916207,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4388918"
     },
     "wof:country":"UA",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":101869089,
-    "wof:lastmodified":1563302810,
+    "wof:lastmodified":1566593428,
     "wof:name":"\u0420\u0430\u0439\u0433\u043e\u0440\u043e\u0434\u043a\u0430",
     "wof:parent_id":102088867,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":35.164991,
     "gn:population":12353,
     "iso:country":"UA",
+    "lbl:bbox":"35.144991,46.668122,35.184991,46.708122",
     "lbl:latitude":46.688122,
     "lbl:longitude":35.164991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.688122,
     "mps:longitude":35.164991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u042f\u043a\u044b\u043c\u0456\u045e\u043a\u0430"
     ],
@@ -65,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043a\u0438\u043c\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akimovka"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":713743,
         "gp:id":915478,
-        "qs:id":552671,
+        "qs_pg:id":552671,
         "wd:id":"Q1009558",
         "wk:page":"Yakymivka"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":101866115,
-    "wof:lastmodified":1563302477,
+    "wof:lastmodified":1566593284,
     "wof:name":"\u042f\u043a\u0438\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088091,
     "wof:placetype":"locality",

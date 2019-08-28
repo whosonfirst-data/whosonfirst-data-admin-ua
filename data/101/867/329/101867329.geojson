@@ -10,12 +10,16 @@
     "geom:latitude":48.533852,
     "geom:longitude":28.617604,
     "iso:country":"UA",
+    "lbl:bbox":"28.597604,48.513852,28.637604,48.553852",
     "lbl:latitude":48.533852,
     "lbl:longitude":28.617604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.533852,
     "mps:longitude":28.617604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Komarhorod"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u043c\u0430\u0440\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Komargorod"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u99ac\u723e\u6208\u7f85\u5fb7"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":705270,
         "gp:id":936171,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4229229"
     },
     "wof:country":"UA",
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":101867329,
-    "wof:lastmodified":1563303058,
+    "wof:lastmodified":1566593536,
     "wof:name":"\u041a\u043e\u043c\u0430\u0440\u0433\u043e\u0440\u043e\u0434",
     "wof:parent_id":102088209,
     "wof:placetype":"locality",

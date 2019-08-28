@@ -10,19 +10,23 @@
     "geom:latitude":48.782723,
     "geom:longitude":30.642973,
     "iso:country":"UA",
+    "lbl:bbox":"30.622973,48.762723,30.662973,48.802723",
     "lbl:latitude":48.782723,
     "lbl:longitude":30.642973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.782723,
     "mps:longitude":30.642973,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zelen'kiv"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u044c\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zelen\u2019kov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":687395,
         "gp:id":937963,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"1e961c97ae4e7b7c7a5671163382c6c4",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101867615,
-    "wof:lastmodified":1544749276,
+    "wof:lastmodified":1566593528,
     "wof:name":"\u0417\u0435\u043b\u0435\u043d\u044c\u043a\u0456\u0432",
     "wof:parent_id":102088407,
     "wof:placetype":"locality",

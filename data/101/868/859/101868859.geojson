@@ -11,12 +11,16 @@
     "geom:longitude":34.060197,
     "gn:population":9336,
     "iso:country":"UA",
+    "lbl:bbox":"34.040197,49.51888,34.080197,49.55888",
     "lbl:latitude":49.53888,
     "lbl:longitude":34.060197,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.53888,
     "mps:longitude":34.060197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u044d\u0448\u044d\u0442\u044b\u043b\u0456\u045e\u043a\u0430"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0448\u0435\u0442\u0438\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reshetilovka"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":374,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":695643,
         "gp:id":932282,
-        "qs:id":128324,
+        "qs_pg:id":128324,
         "wd:id":"Q1020063",
         "wk:page":"Reshetylivka"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":101868859,
-    "wof:lastmodified":1563302618,
+    "wof:lastmodified":1566593345,
     "wof:name":"\u0420\u0435\u0448\u0435\u0442\u0438\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088731,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.361247,
     "geom:longitude":36.816015,
     "iso:country":"UA",
+    "lbl:bbox":"36.796015,49.341247,36.836015,49.381247",
     "lbl:latitude":49.361247,
     "lbl:longitude":36.816015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.361247,
     "mps:longitude":36.816015,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gusarovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0413\u0443\u0441\u0430\u0440\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Gusarovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":707853,
         "gp:id":922137,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"4253dfbab01a7687e49e73a8b1b65bf4",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101869035,
-    "wof:lastmodified":1544750071,
+    "wof:lastmodified":1566593435,
     "wof:name":"\u0413\u0443\u0441\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

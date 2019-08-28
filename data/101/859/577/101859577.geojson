@@ -10,12 +10,16 @@
     "geom:latitude":48.150184,
     "geom:longitude":23.628664,
     "iso:country":"UA",
+    "lbl:bbox":"23.608664,48.130184,23.648664,48.170184",
     "lbl:latitude":48.150184,
     "lbl:longitude":23.628664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.150184,
     "mps:longitude":23.628664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u043a\u0430 \u0423\u0431\u0430\u0440\u0446\u044c"
     ],
@@ -95,9 +99,6 @@
         "Uhlya",
         "\u0423\u0433\u043b\u044f"
     ],
-    "name:unk_x_variant":[
-        "Uglya"
-    ],
     "name:zho_x_preferred":[
         "\u70cf\u535a\u723e\u5b63\u6cb3"
     ],
@@ -123,7 +124,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":605,
     "wof:belongsto":[
         102191581,
@@ -135,7 +136,7 @@
     "wof:concordances":{
         "gn:id":690816,
         "gp:id":936625,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q704928"
     },
     "wof:country":"UA",
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":101859577,
-    "wof:lastmodified":1563302392,
+    "wof:lastmodified":1566593246,
     "wof:name":"\u0423\u0433\u043b\u044f",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

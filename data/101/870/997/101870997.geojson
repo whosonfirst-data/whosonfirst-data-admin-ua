@@ -11,12 +11,16 @@
     "geom:longitude":32.739939,
     "gn:population":8549,
     "iso:country":"UA",
+    "lbl:bbox":"32.719939,50.4706,32.759939,50.5106",
     "lbl:latitude":50.4906,
     "lbl:longitude":32.739939,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.4906,
     "mps:longitude":32.739939,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0641\u0627"
     ],
@@ -59,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Varva"
-    ],
     "name:zho_x_preferred":[
         "\u74e6\u723e\u74e6"
     ],
@@ -85,7 +86,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -98,7 +99,6 @@
     "wof:concordances":{
         "gn:id":690469,
         "gp:id":937005,
-        "qs:id":128214,
         "qs_pg:id":128214,
         "wd:id":"Q1973753",
         "wk:page":"Varva, Chernihiv Oblast"
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":101870997,
-    "wof:lastmodified":1563303078,
+    "wof:lastmodified":1566593544,
     "wof:name":"\u0412\u0430\u0440\u0432\u0430",
     "wof:parent_id":102088849,
     "wof:placetype":"locality",

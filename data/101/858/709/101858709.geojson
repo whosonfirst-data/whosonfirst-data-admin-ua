@@ -10,12 +10,16 @@
     "geom:latitude":45.446526,
     "geom:longitude":34.977543,
     "iso:country":"UA",
+    "lbl:bbox":"34.957543,45.426526,34.997543,45.466526",
     "lbl:latitude":45.446526,
     "lbl:longitude":34.977543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.446526,
     "mps:longitude":34.977543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowa Nekrassiwka"
     ],
@@ -66,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         85688855,
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":700349,
         "gp:id":922741,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"8dcfa91f293246d4b6f23a1be79cb765",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101858709,
-    "wof:lastmodified":1544744541,
+    "wof:lastmodified":1566593480,
     "wof:name":"\u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u043a\u0430",
     "wof:parent_id":1108738653,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":48.358924,
     "geom:longitude":25.026186,
     "iso:country":"UA",
+    "lbl:bbox":"25.006186,48.338924,25.046186,48.378924",
     "lbl:latitude":48.358924,
     "lbl:longitude":25.026186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.358924,
     "mps:longitude":25.026186,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Pistyn\u2019"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":697140,
         "gp:id":923726,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"8671972350d6e328d1e7fcd64c39b66a",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101859693,
-    "wof:lastmodified":1544745046,
+    "wof:lastmodified":1566593220,
     "wof:name":"\u041f\u0456\u0441\u0442\u0438\u043d\u044c",
     "wof:parent_id":102088059,
     "wof:placetype":"locality",

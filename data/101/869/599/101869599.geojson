@@ -10,12 +10,16 @@
     "geom:latitude":48.969133,
     "geom:longitude":36.01039,
     "iso:country":"UA",
+    "lbl:bbox":"35.99039,48.949133,36.03039,48.989133",
     "lbl:latitude":48.969133,
     "lbl:longitude":36.01039,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.969133,
     "mps:longitude":36.01039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Orilka"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0440\u0456\u043b\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orel\u2019ka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":698405,
         "gp:id":929710,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4336147"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101869599,
-    "wof:lastmodified":1563302799,
+    "wof:lastmodified":1566593424,
     "wof:name":"\u041e\u0440\u0456\u043b\u044c\u043a\u0430",
     "wof:parent_id":102088741,
     "wof:placetype":"locality",

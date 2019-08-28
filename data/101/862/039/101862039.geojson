@@ -10,12 +10,16 @@
     "geom:latitude":49.495496,
     "geom:longitude":25.443729,
     "iso:country":"UA",
+    "lbl:bbox":"25.423729,49.475496,25.463729,49.515496",
     "lbl:latitude":49.495496,
     "lbl:longitude":25.443729,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.495496,
     "mps:longitude":25.443729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044d\u043b\u0456\u043a\u0456\u0439 \u0425\u043e\u0434\u0430\u0447\u043a\u0456\u0432"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0425\u043e\u0434\u0430\u0447\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Chodaczk\u00f3w Wielki"
-    ],
     "name:zho_x_preferred":[
         "\u5927\u970d\u9054\u5947\u57fa\u592b"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":428,
     "wof:belongsto":[
         102191581,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":690135,
         "gp:id":920969,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2062606",
         "wk:page":"Velykyi Khodachkiv"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":101862039,
-    "wof:lastmodified":1563303374,
+    "wof:lastmodified":1566593685,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0425\u043e\u0434\u0430\u0447\u043a\u0456\u0432",
     "wof:parent_id":102088321,
     "wof:placetype":"locality",

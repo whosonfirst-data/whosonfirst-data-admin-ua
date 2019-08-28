@@ -11,12 +11,16 @@
     "geom:longitude":37.305313,
     "gn:population":8153,
     "iso:country":"UA",
+    "lbl:bbox":"37.285313,47.020761,37.325313,47.060761",
     "lbl:latitude":47.040761,
     "lbl:longitude":37.305313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.040761,
     "mps:longitude":37.305313,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Manhush"
     ],
@@ -33,7 +37,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0430\u043d\u0433\u0443\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pershotravneve"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -55,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688779,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":697613,
         "gp:id":930462,
-        "qs:id":128369
+        "qs_pg:id":128369
     },
     "wof:country":"UA",
     "wof:geomhash":"1f418be7ed699911cf5e01db5b54808c",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101868121,
-    "wof:lastmodified":1544749558,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u041c\u0430\u043d\u0433\u0443\u0448",
     "wof:parent_id":102088329,
     "wof:placetype":"locality",

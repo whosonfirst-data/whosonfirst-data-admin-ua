@@ -11,12 +11,16 @@
     "geom:longitude":30.162177,
     "gn:population":8500,
     "iso:country":"UA",
+    "lbl:bbox":"30.142177,50.527087,30.182177,50.567087",
     "lbl:latitude":50.547087,
     "lbl:longitude":30.162177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.547087,
     "mps:longitude":30.162177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0632\u064a\u0644"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u0437\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dachi Vorzel\u2019"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":688956,
         "gp:id":938439,
-        "qs:id":128181,
+        "qs_pg:id":128181,
         "wd:id":"Q2034431",
         "wk:page":"Vorzel"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101870833,
-    "wof:lastmodified":1563303094,
+    "wof:lastmodified":1566593552,
     "wof:name":"\u0412\u043e\u0440\u0437\u0435\u043b\u044c",
     "wof:parent_id":1108730759,
     "wof:placetype":"locality",

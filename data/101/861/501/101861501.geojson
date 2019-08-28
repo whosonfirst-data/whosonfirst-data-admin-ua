@@ -10,12 +10,16 @@
     "geom:latitude":48.861028,
     "geom:longitude":25.611629,
     "iso:country":"UA",
+    "lbl:bbox":"25.591629,48.841028,25.631629,48.881028",
     "lbl:latitude":48.861028,
     "lbl:longitude":25.611629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.861028,
     "mps:longitude":25.611629,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Stadion Podilla w Chmielnickim"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":936155,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q7579344"
     },
     "wof:country":"UA",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":101861501,
-    "wof:lastmodified":1544745996,
+    "wof:lastmodified":1566593311,
     "wof:name":"\u041f\u043e\u0434\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088159,
     "wof:placetype":"locality",

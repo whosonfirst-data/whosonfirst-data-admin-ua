@@ -10,12 +10,16 @@
     "geom:latitude":47.637823,
     "geom:longitude":37.552067,
     "iso:country":"UA",
+    "lbl:bbox":"37.532067,47.617823,37.572067,47.657823",
     "lbl:latitude":47.637823,
     "lbl:longitude":37.552067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.637823,
     "mps:longitude":37.552067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Buhas"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0443\u0433\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bugas"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":702278,
         "gp:id":917769,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4097757"
     },
     "wof:country":"UA",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101867125,
-    "wof:lastmodified":1563303064,
+    "wof:lastmodified":1566593538,
     "wof:name":"\u0411\u0443\u0433\u0430\u0441",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

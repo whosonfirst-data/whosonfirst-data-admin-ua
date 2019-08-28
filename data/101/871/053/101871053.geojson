@@ -10,12 +10,16 @@
     "geom:latitude":50.397528,
     "geom:longitude":33.399581,
     "iso:country":"UA",
+    "lbl:bbox":"33.379581,50.377528,33.419581,50.417528",
     "lbl:latitude":50.397528,
     "lbl:longitude":33.399581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.397528,
     "mps:longitude":33.399581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0417\u0430\u0432\u0430\u0434\u0441\u043a\u044d"
     ],
@@ -112,7 +116,7 @@
     "name:ukr_x_variant":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stalinka"
     ],
     "name:vie_x_preferred":[
@@ -144,7 +148,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         102191581,
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":101871053,
-    "wof:lastmodified":1563303263,
+    "wof:lastmodified":1566593637,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088865,
     "wof:placetype":"locality",

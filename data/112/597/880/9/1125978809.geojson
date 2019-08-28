@@ -9,15 +9,18 @@
     "geom:bbox":"31.10125,49.01256,31.10125,49.01256",
     "geom:latitude":49.01256,
     "geom:longitude":31.10125,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2887,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2887,
     "iso:country":"UA",
+    "lbl:bbox":"31.08125,48.99256,31.12125,49.03256",
     "lbl:latitude":49.01256,
     "lbl:longitude":31.10125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Yurkivka"
@@ -30,9 +33,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u042e\u0440\u043a\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Yurkivka"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -51,7 +51,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":939294,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125978809,
-    "wof:lastmodified":1509404638,
+    "wof:lastmodified":1566593925,
     "wof:name":"Yurkovka",
     "wof:parent_id":102088469,
     "wof:placetype":"locality",

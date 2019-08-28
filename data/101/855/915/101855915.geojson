@@ -10,12 +10,16 @@
     "geom:latitude":44.852013,
     "geom:longitude":34.875051,
     "iso:country":"UA",
+    "lbl:bbox":"34.855051,44.832013,34.895051,44.872013",
     "lbl:latitude":44.852013,
     "lbl:longitude":34.875051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.852013,
     "mps:longitude":34.875051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0412\u044f\u0441\u0451\u043b\u0430\u0435"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kutlak"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":689740,
         "gp:id":937729,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3920760"
     },
     "wof:country":"UA",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101855915,
-    "wof:lastmodified":1563303511,
+    "wof:lastmodified":1566593745,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435",
     "wof:parent_id":1108738661,
     "wof:placetype":"locality",

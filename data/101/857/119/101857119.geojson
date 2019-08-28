@@ -11,12 +11,16 @@
     "geom:longitude":34.971893,
     "gn:population":13956,
     "iso:country":"UA",
+    "lbl:bbox":"34.951893,44.835604,34.991893,44.875604",
     "lbl:latitude":44.855604,
     "lbl:longitude":34.971893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.855604,
     "mps:longitude":34.971893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u0434\u0430\u043a"
     ],
@@ -179,7 +183,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":50.0,
     "wd:latitude":44.851389,
@@ -199,7 +203,6 @@
         "fct:id":"0828488a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":692315,
         "gp:id":935392,
-        "qs:id":1028392,
         "qs_pg:id":1028392,
         "wd:id":"Q7830"
     },
@@ -228,7 +231,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302718,
+    "wof:lastmodified":1566593390,
     "wof:name":"\u0421\u0443\u0434\u0430\u043a",
     "wof:parent_id":1108738661,
     "wof:placetype":"locality",

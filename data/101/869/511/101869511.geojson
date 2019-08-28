@@ -10,12 +10,16 @@
     "geom:latitude":48.470763,
     "geom:longitude":37.95811,
     "iso:country":"UA",
+    "lbl:bbox":"37.93811,48.450763,37.97811,48.490763",
     "lbl:latitude":48.470763,
     "lbl:longitude":37.95811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.470763,
     "mps:longitude":37.95811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "Kurd\u00fcmivka"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u0440\u0434\u044e\u043c\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kurdyumovka"
-    ],
     "name:zho_x_preferred":[
         "\u5eab\u723e\u4e45\u7c73\u592b\u5361"
     ],
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":703633,
         "gp:id":924775,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4248211"
     },
     "wof:country":"UA",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":101869511,
-    "wof:lastmodified":1563302792,
+    "wof:lastmodified":1566593421,
     "wof:name":"\u041a\u0443\u0440\u0434\u044e\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815895,
     "wof:placetype":"locality",

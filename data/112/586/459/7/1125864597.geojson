@@ -9,15 +9,18 @@
     "geom:bbox":"24.70972,48.9215,24.70972,48.9215",
     "geom:latitude":48.9215,
     "geom:longitude":24.70972,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":204200,
+    "gn:country":"UA",
+    "gn:fcode":"PPLA",
     "gn:population":204200,
     "iso:country":"UA",
+    "lbl:bbox":"24.68972,48.9015,24.72972,48.9415",
     "lbl:latitude":48.9215,
     "lbl:longitude":24.70972,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Iwano-Frankifsk"
@@ -253,7 +256,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanislavyv"
     ],
     "name:urd_x_preferred":[
@@ -292,7 +295,7 @@
     "qs_pg:qs_id":128694,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":1125864597,
-    "wof:lastmodified":1563303828,
+    "wof:lastmodified":1566593907,
     "wof:name":"Ivano-Frankivs\u2019k",
     "wof:parent_id":1108730767,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.669263,
     "geom:longitude":35.688392,
     "iso:country":"UA",
+    "lbl:bbox":"35.668392,48.649263,35.708392,48.689263",
     "lbl:latitude":48.669263,
     "lbl:longitude":35.688392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.669263,
     "mps:longitude":35.688392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kotschereschky"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0447\u0435\u0440\u0435\u0436\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kocheryzhki"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101868397,
-    "wof:lastmodified":1563302600,
+    "wof:lastmodified":1566593337,
     "wof:name":"\u041a\u043e\u0447\u0435\u0440\u0435\u0436\u043a\u0438",
     "wof:parent_id":1108815621,
     "wof:placetype":"locality",

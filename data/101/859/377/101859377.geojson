@@ -10,12 +10,16 @@
     "geom:latitude":48.510959,
     "geom:longitude":22.759636,
     "iso:country":"UA",
+    "lbl:bbox":"22.739636,48.490959,22.779636,48.530959",
     "lbl:latitude":48.510959,
     "lbl:longitude":22.759636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.510959,
     "mps:longitude":22.759636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klenovets'"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoye Klenovtse"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":705676,
         "gp:id":918476,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q753225"
     },
     "wof:country":"UA",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101859377,
-    "wof:lastmodified":1561776909,
+    "wof:lastmodified":1566593224,
     "wof:name":"\u041a\u043b\u0435\u043d\u043e\u0432\u0435\u0446\u044c",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

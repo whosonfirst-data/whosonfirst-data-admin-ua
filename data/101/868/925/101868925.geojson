@@ -10,12 +10,16 @@
     "geom:latitude":48.943537,
     "geom:longitude":37.606032,
     "iso:country":"UA",
+    "lbl:bbox":"37.586032,48.923537,37.626032,48.963537",
     "lbl:latitude":48.943537,
     "lbl:longitude":37.606032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.943537,
     "mps:longitude":37.606032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "B\u00f6y\u00fck Zir\u0259"
     ],
@@ -64,9 +68,6 @@
     "name:ukr_x_variant":[
         "\u041c\u0430\u044f\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Mayaki"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Donets'ka",
@@ -86,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":996,
     "wof:belongsto":[
         85688779,
@@ -99,7 +100,7 @@
     "wof:concordances":{
         "gn:id":701559,
         "gp:id":926681,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4286393"
     },
     "wof:country":"UA",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":101868925,
-    "wof:lastmodified":1563302642,
+    "wof:lastmodified":1566593356,
     "wof:name":"\u041c\u0430\u044f\u043a\u0438",
     "wof:parent_id":102088767,
     "wof:placetype":"locality",

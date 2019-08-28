@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2968474.146431,
+    "geom:area_square_m":2968474.146428,
     "geom:bbox":"33.6180755087,45.1160292942,33.6402739398,45.1394220999",
     "geom:latitude":45.12602,
     "geom:longitude":33.628852,
@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":45.125334,
     "lbl:longitude":33.630861,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.125334,
     "mps:longitude":33.630861,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Orekhovo"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688855,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":832394,
         "gp:id":927049,
-        "qs:id":129737
+        "qs_pg:id":129737
     },
     "wof:country":"UA",
     "wof:geomhash":"792b90da284eedfefe86d7fb2926d16f",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101875335,
-    "wof:lastmodified":1530299590,
+    "wof:lastmodified":1566593204,
     "wof:name":"\u041e\u0440\u0456\u0445\u043e\u0432\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

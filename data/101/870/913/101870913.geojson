@@ -11,12 +11,16 @@
     "geom:longitude":31.771742,
     "gn:population":6369,
     "iso:country":"UA",
+    "lbl:bbox":"31.751742,50.471966,31.791742,50.511966",
     "lbl:latitude":50.491966,
     "lbl:longitude":31.771742,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.491966,
     "mps:longitude":31.771742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0647\u0648\u0631\u064a\u0641\u0643\u0627"
     ],
@@ -68,9 +72,6 @@
     "name:ukr_x_variant":[
         "Z\u00b7hurivka"
     ],
-    "name:unk_x_variant":[
-        "Zgurovka"
-    ],
     "name:zho_x_preferred":[
         "\u8332\u53e4\u91cc\u592b\u5361"
     ],
@@ -94,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -107,7 +108,6 @@
     "wof:concordances":{
         "gn:id":687277,
         "gp:id":940032,
-        "qs:id":1028332,
         "qs_pg:id":1028332,
         "wd:id":"Q2652440",
         "wk:page":"Zghurivka"
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":101870913,
-    "wof:lastmodified":1563303101,
+    "wof:lastmodified":1566593555,
     "wof:name":"\u0417\u0433\u0443\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088821,
     "wof:placetype":"locality",

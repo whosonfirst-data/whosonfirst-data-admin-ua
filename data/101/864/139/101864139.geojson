@@ -10,19 +10,23 @@
     "geom:latitude":50.756402,
     "geom:longitude":26.381556,
     "iso:country":"UA",
+    "lbl:bbox":"26.361556,50.736402,26.401556,50.776402",
     "lbl:latitude":50.756402,
     "lbl:longitude":26.381556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.756402,
     "mps:longitude":26.381556,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Nova Lyubomyrka"
     ],
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u043c\u0438\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Lyubomirka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864139,
-    "wof:lastmodified":1544747371,
+    "wof:lastmodified":1566593765,
     "wof:name":"\u041d\u043e\u0432\u0430 \u041b\u044e\u0431\u043e\u043c\u0438\u0440\u043a\u0430",
     "wof:parent_id":1108815695,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":36.299341,
     "gn:population":9294,
     "iso:country":"UA",
+    "lbl:bbox":"36.279341,49.846674,36.319341,49.886674",
     "lbl:latitude":49.866674,
     "lbl:longitude":36.299341,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.866674,
     "mps:longitude":36.299341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ang_x_preferred":[
         "Besliwdifca"
     ],
@@ -102,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0437\u043b\u044e\u0434\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bezlyudovka"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +135,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -144,7 +148,6 @@
     "wof:concordances":{
         "gn:id":712200,
         "gp:id":916862,
-        "qs:id":275599,
         "qs_pg:id":275599,
         "wd:id":"Q829969",
         "wk:page":"Bezliudivka"
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101871689,
-    "wof:lastmodified":1563303254,
+    "wof:lastmodified":1566593633,
     "wof:name":"\u0411\u0435\u0437\u043b\u044e\u0434\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

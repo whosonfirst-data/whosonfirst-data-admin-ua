@@ -10,12 +10,16 @@
     "geom:latitude":49.379356,
     "geom:longitude":35.120946,
     "iso:country":"UA",
+    "lbl:bbox":"35.100946,49.359356,35.140946,49.399356",
     "lbl:latitude":49.379356,
     "lbl:longitude":35.120946,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.379356,
     "mps:longitude":35.120946,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "F\u00ebdorovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0424\u0435\u0434\u043e\u0440\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "F\u00ebdorovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":709195,
         "gp:id":922906,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"a0e5c3bc3dc40e4ae02c0912f3deecbc",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101868895,
-    "wof:lastmodified":1544749992,
+    "wof:lastmodified":1566593345,
     "wof:name":"\u0424\u0435\u0434\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088761,
     "wof:placetype":"locality",

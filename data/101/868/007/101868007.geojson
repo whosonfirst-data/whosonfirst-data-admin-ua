@@ -10,12 +10,16 @@
     "geom:latitude":49.021006,
     "geom:longitude":34.541245,
     "iso:country":"UA",
+    "lbl:bbox":"34.521245,49.001006,34.561245,49.041006",
     "lbl:latitude":49.021006,
     "lbl:longitude":34.541245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.021006,
     "mps:longitude":34.541245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Babajkiwka"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0431\u0430\u0439\u043a\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Babaykovka"
-    ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Dnipropetrovs'ka",
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":713051,
         "gp:id":916129,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4074164"
     },
     "wof:country":"UA",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":101868007,
-    "wof:lastmodified":1563302622,
+    "wof:lastmodified":1566593346,
     "wof:name":"\u0411\u0430\u0431\u0430\u0439\u043a\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088613,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":48.476144,
     "geom:longitude":25.389864,
     "iso:country":"UA",
+    "lbl:bbox":"25.369864,48.456144,25.409864,48.496144",
     "lbl:latitude":48.476144,
     "lbl:longitude":25.389864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.476144,
     "mps:longitude":25.389864,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Volchkovtse"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":689278,
         "gp:id":939364,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"ee16789bc0cdab602e94af74b683e702",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101860575,
-    "wof:lastmodified":1544745508,
+    "wof:lastmodified":1566593460,
     "wof:name":"\u0412\u043e\u0432\u0447\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088087,
     "wof:placetype":"locality",

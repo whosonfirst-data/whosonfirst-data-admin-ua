@@ -9,15 +9,18 @@
     "geom:bbox":"30.85073,48.04433,30.85073,48.04433",
     "geom:latitude":48.04433,
     "geom:longitude":30.85073,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":70746,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":70746,
     "iso:country":"UA",
+    "lbl:bbox":"30.83073,48.02433,30.87073,48.06433",
     "lbl:latitude":48.04433,
     "lbl:longitude":30.85073,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Perwomaisk"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "qs_pg:qs_id":128367,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125856271,
-    "wof:lastmodified":1563303943,
+    "wof:lastmodified":1566593949,
     "wof:name":"Pervomays\u2019k",
     "wof:parent_id":1108815773,
     "wof:placetype":"locality",

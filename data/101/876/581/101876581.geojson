@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.980098,
     "lbl:longitude":24.018515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.980098,
     "mps:longitude":24.018515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vyacheslav Shchyogolev"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u0438\u0447\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novichka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -65,7 +68,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":699749,
         "gp:id":919130,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2382051"
     },
     "wof:country":"UA",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101876581,
-    "wof:lastmodified":1563303180,
+    "wof:lastmodified":1566593595,
     "wof:name":"\u041d\u043e\u0432\u0438\u0447\u043a\u0430",
     "wof:parent_id":1108815659,
     "wof:placetype":"locality",

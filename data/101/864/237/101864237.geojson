@@ -10,12 +10,16 @@
     "geom:latitude":51.331276,
     "geom:longitude":24.076377,
     "iso:country":"UA",
+    "lbl:bbox":"24.056377,51.311276,24.096377,51.351276",
     "lbl:latitude":51.331276,
     "lbl:longitude":24.076377,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.331276,
     "mps:longitude":24.076377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0641\u0646\u064a"
     ],
@@ -65,9 +69,6 @@
         "Holovne",
         "\u0413\u043e\u043b\u043e\u0432\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Ho\u0142owno"
-    ],
     "name:zho_x_preferred":[
         "\u6208\u6d1b\u592b\u6d85"
     ],
@@ -90,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":742,
     "wof:belongsto":[
         102191581,
@@ -102,7 +103,7 @@
     "wof:concordances":{
         "gn:id":708557,
         "gp:id":940030,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2027639"
     },
     "wof:country":"UA",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":101864237,
-    "wof:lastmodified":1563303580,
+    "wof:lastmodified":1566593772,
     "wof:name":"\u0413\u043e\u043b\u043e\u0432\u043d\u0435",
     "wof:parent_id":102088727,
     "wof:placetype":"locality",

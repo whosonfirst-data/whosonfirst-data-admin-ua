@@ -10,12 +10,16 @@
     "geom:latitude":49.804367,
     "geom:longitude":24.762253,
     "iso:country":"UA",
+    "lbl:bbox":"24.742253,49.784367,24.782253,49.824367",
     "lbl:latitude":49.804367,
     "lbl:longitude":24.762253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.804367,
     "mps:longitude":24.762253,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rote Kosaken"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0435 \u043a\u043e\u0437\u0430\u0446\u0442\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chervonnyy"
     ],
     "name:yid_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":710539,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4512183"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101862245,
-    "wof:lastmodified":1563303354,
+    "wof:lastmodified":1566593676,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u0435",
     "wof:parent_id":102088393,
     "wof:placetype":"locality",

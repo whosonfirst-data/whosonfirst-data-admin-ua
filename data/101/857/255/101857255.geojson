@@ -10,12 +10,16 @@
     "geom:latitude":45.05889,
     "geom:longitude":35.168374,
     "iso:country":"UA",
+    "lbl:bbox":"35.148374,45.03889,35.188374,45.07889",
     "lbl:latitude":45.05889,
     "lbl:longitude":35.168374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.05889,
     "mps:longitude":35.168374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pervomayskoye"
     ],
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857255,
-    "wof:lastmodified":1544743801,
+    "wof:lastmodified":1566593396,
     "wof:name":"\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738551,
     "wof:placetype":"locality",

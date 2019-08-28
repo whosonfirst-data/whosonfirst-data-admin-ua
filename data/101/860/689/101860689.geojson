@@ -10,12 +10,16 @@
     "geom:latitude":48.915176,
     "geom:longitude":22.718538,
     "iso:country":"UA",
+    "lbl:bbox":"22.698538,48.895176,22.738538,48.935176",
     "lbl:latitude":48.915176,
     "lbl:longitude":22.718538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.915176,
     "mps:longitude":22.718538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liuta"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ljut\u00e1"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":702385,
         "gp:id":925444,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q766751"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101860689,
-    "wof:lastmodified":1561776948,
+    "wof:lastmodified":1566593453,
     "wof:name":"\u041b\u044e\u0442\u0430",
     "wof:parent_id":102088109,
     "wof:placetype":"locality",

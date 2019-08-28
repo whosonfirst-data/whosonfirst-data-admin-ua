@@ -11,12 +11,16 @@
     "geom:longitude":36.278567,
     "gn:population":7038,
     "iso:country":"UA",
+    "lbl:bbox":"36.258567,48.914827,36.298567,48.954827",
     "lbl:latitude":48.934827,
     "lbl:longitude":36.278567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.934827,
     "mps:longitude":36.278567,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Panyutyne"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u044e\u0442\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panyutina"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":698003,
         "gp:id":930094,
-        "qs:id":275478
+        "qs_pg:id":275478
     },
     "wof:country":"UA",
     "wof:geomhash":"533263b704db690afd4e315c3d0867db",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101869597,
-    "wof:lastmodified":1544750371,
+    "wof:lastmodified":1566593425,
     "wof:name":"\u041f\u0430\u043d\u044e\u0442\u0438\u043d\u0435",
     "wof:parent_id":1108730659,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":51.397582,
     "geom:longitude":29.837378,
     "iso:country":"UA",
+    "lbl:bbox":"29.817378,51.377582,29.857378,51.417582",
     "lbl:latitude":51.397582,
     "lbl:longitude":29.837378,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.397582,
     "mps:longitude":29.837378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Nova Krasnytsya"
     ],
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u0430 \u041a\u0440\u0430\u0441\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Krasnitsa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101871293,
-    "wof:lastmodified":1544751037,
+    "wof:lastmodified":1566593639,
     "wof:name":"\u041d\u043e\u0432\u0430 \u041a\u0440\u0430\u0441\u043d\u0438\u0446\u044f",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

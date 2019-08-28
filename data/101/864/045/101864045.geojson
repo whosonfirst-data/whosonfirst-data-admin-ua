@@ -11,12 +11,16 @@
     "geom:longitude":28.12441,
     "gn:population":6314,
     "iso:country":"UA",
+    "lbl:bbox":"28.10441,50.018692,28.14441,50.058692",
     "lbl:latitude":50.038692,
     "lbl:longitude":28.12441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.038692,
     "mps:longitude":28.12441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0443\u0434\u043d\u0456\u045e"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0434\u043d\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tschudnow"
     ],
     "name:yid_x_preferred":[
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -108,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":710381,
-        "qs:id":128766,
+        "qs_pg:id":128766,
         "wd:id":"Q149271",
         "wk:page":"Chudniv"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":101864045,
-    "wof:lastmodified":1563303565,
+    "wof:lastmodified":1566593767,
     "wof:name":"\u0427\u0443\u0434\u043d\u0456\u0432",
     "wof:parent_id":102088561,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.200138,
     "geom:longitude":34.977182,
     "iso:country":"UA",
+    "lbl:bbox":"34.957182,45.180138,34.997182,45.220138",
     "lbl:latitude":45.200138,
     "lbl:longitude":34.977182,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.200138,
     "mps:longitude":34.977182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pushkino"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":696040,
         "gp:id":12518355,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"7ce4735bc1516119cd8604f83d9f54ef",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857289,
-    "wof:lastmodified":1544743818,
+    "wof:lastmodified":1566593385,
     "wof:name":"\u041f\u0443\u0448\u043a\u0456\u043d\u0435",
     "wof:parent_id":1108738653,
     "wof:placetype":"locality",

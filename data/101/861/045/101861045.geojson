@@ -10,19 +10,23 @@
     "geom:latitude":49.158236,
     "geom:longitude":23.991516,
     "iso:country":"UA",
+    "lbl:bbox":"23.971516,49.138236,24.011516,49.178236",
     "lbl:latitude":49.158236,
     "lbl:longitude":23.991516,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.158236,
     "mps:longitude":23.991516,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u0414\u0435\u0434\u0443\u0448\u0438\u0447\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u0414\u0456\u0434\u0443\u0448\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velyki Didushychi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":690179,
         "gp:id":926895,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"6e04861275500cbeafd6f5abca07ac70",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101861045,
-    "wof:lastmodified":1544745758,
+    "wof:lastmodified":1566593315,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0456 \u0414\u0456\u0434\u0443\u0448\u0438\u0447\u0456",
     "wof:parent_id":102088221,
     "wof:placetype":"locality",

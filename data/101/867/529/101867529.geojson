@@ -11,12 +11,16 @@
     "geom:longitude":33.91428,
     "gn:population":8017,
     "iso:country":"UA",
+    "lbl:bbox":"33.89428,48.087607,33.93428,48.127607",
     "lbl:latitude":48.107607,
     "lbl:longitude":33.91428,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.107607,
     "mps:longitude":33.91428,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sofiyivka"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0444\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sofijewka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":693325,
         "gp:id":934432,
-        "qs:id":128277
+        "qs_pg:id":128277
     },
     "wof:country":"UA",
     "wof:geomhash":"fc922e5a738ed28671fe124c88daaefe",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101867529,
-    "wof:lastmodified":1544749228,
+    "wof:lastmodified":1566593516,
     "wof:name":"\u0421\u043e\u0444\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088363,
     "wof:placetype":"locality",

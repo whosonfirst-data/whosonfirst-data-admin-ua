@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"31.41515,51.33808,31.45515,51.37808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0443\u0434\u044b"
     ],
@@ -53,8 +57,7 @@
         "\u0411\u0443\u0434\u0438"
     ],
     "name:und_x_variant":[
-        "Buda",
-        "Budy"
+        "Buda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1242978501,
-    "wof:lastmodified":1564198445,
+    "wof:lastmodified":1566594181,
     "wof:name":"Budy",
     "wof:parent_id":1108815729,
     "wof:placetype":"locality",

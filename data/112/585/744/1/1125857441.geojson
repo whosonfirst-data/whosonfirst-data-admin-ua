@@ -9,15 +9,18 @@
     "geom:bbox":"36.27563,48.93692,36.27563,48.93692",
     "geom:latitude":48.93692,
     "geom:longitude":36.27563,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7038,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":7038,
     "iso:country":"UA",
+    "lbl:bbox":"36.25563,48.91692,36.29563,48.95692",
     "lbl:latitude":48.93692,
     "lbl:longitude":36.27563,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Panyutyne"
@@ -31,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u044e\u0442\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panyutina"
     ],
     "qs_pg:aaroncc":"UA",
@@ -46,7 +49,7 @@
     "qs_pg:qs_id":275478,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1125857441,
-    "wof:lastmodified":1509396324,
+    "wof:lastmodified":1566593957,
     "wof:name":"Panyutyne",
     "wof:parent_id":1108730659,
     "wof:placetype":"locality",

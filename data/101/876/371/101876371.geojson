@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.463739,
     "lbl:longitude":22.661908,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.463739,
     "mps:longitude":22.661908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klachanovo"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":8247777,
         "gp:id":926934,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2090466"
     },
     "wof:country":"UA",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101876371,
-    "wof:lastmodified":1561776966,
+    "wof:lastmodified":1566593597,
     "wof:name":"\u041a\u043b\u044f\u0447\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":1108815637,
     "wof:placetype":"locality",

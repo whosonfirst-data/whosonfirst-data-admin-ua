@@ -10,12 +10,16 @@
     "geom:latitude":49.134906,
     "geom:longitude":38.272559,
     "iso:country":"UA",
+    "lbl:bbox":"38.252559,49.114906,38.292559,49.154906",
     "lbl:latitude":49.134906,
     "lbl:longitude":38.272559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.134906,
     "mps:longitude":38.272559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nowokrasnjanka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043a\u0440\u0430\u0441\u043d\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnyanka"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":699497,
         "gp:id":940160,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4324284"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101869075,
-    "wof:lastmodified":1563302817,
+    "wof:lastmodified":1566593431,
     "wof:name":"\u041d\u043e\u0432\u043e\u043a\u0440\u0430\u0441\u043d\u044f\u043d\u043a\u0430",
     "wof:parent_id":102088857,
     "wof:placetype":"locality",

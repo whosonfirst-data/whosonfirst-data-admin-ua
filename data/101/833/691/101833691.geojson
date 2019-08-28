@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":47.956287,
     "lbl:longitude":23.977654,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.956287,
     "mps:longitude":23.977654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cr\u0103ciune\u0219ti"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":680366,
         "gp:id":870579,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q842039"
     },
     "wof:country":"UA",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101833691,
-    "wof:lastmodified":1563303069,
+    "wof:lastmodified":1566593540,
     "wof:name":"Cr\u0103ciune\u015fti",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

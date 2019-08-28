@@ -10,13 +10,17 @@
     "geom:latitude":49.918984,
     "geom:longitude":25.515131,
     "iso:country":"UA",
+    "lbl:bbox":"25.495131,49.898984,25.535131,49.938984",
     "lbl:latitude":49.918984,
     "lbl:longitude":25.515131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.918984,
     "mps:longitude":25.515131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Roztoky"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":695397,
         "gp:id":931031,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"c8a1fad518bffa3ef98c413543201074",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101862413,
-    "wof:lastmodified":1544746472,
+    "wof:lastmodified":1566593675,
     "wof:name":"\u0420\u043e\u0437\u0442\u043e\u043a\u0438",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

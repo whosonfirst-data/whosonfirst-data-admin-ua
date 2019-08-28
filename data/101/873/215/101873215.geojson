@@ -10,12 +10,16 @@
     "geom:latitude":49.570176,
     "geom:longitude":39.063887,
     "iso:country":"UA",
+    "lbl:bbox":"39.043887,49.550176,39.083887,49.590176",
     "lbl:latitude":49.570176,
     "lbl:longitude":39.063887,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.570176,
     "mps:longitude":39.063887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ossynowe"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0438\u043d\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Osinovka"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101873215,
-    "wof:lastmodified":1563302265,
+    "wof:lastmodified":1566593199,
     "wof:name":"\u041e\u0441\u0438\u043d\u043e\u0432\u0435",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

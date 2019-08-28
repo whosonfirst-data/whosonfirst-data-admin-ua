@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":50.544867,
     "lbl:longitude":30.226682,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.544867,
     "mps:longitude":30.226682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u0627"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bychansk"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":711350,
         "gp:id":917673,
-        "qs:id":275584,
         "qs_pg:id":275584,
         "wd:id":"Q1013474",
         "wk:page":"Bucha, Kiev Oblast"
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101876995,
-    "wof:lastmodified":1563303190,
+    "wof:lastmodified":1566593601,
     "wof:name":"\u0411\u0443\u0447\u0430",
     "wof:parent_id":1108730819,
     "wof:placetype":"locality",

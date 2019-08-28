@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":2052278.121433,
+    "geom:area_square_m":2052278.121432,
     "geom:bbox":"36.2725906791,47.3123707293,36.2915484486,47.3311141407",
     "geom:latitude":47.320983,
     "geom:longitude":36.281356,
     "iso:country":"UA",
     "lbl:latitude":47.320219,
     "lbl:longitude":36.281175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.320219,
     "mps:longitude":36.281175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u0440\u0443\u043d\u0437\u0456\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -56,7 +59,7 @@
         "\u0424\u0440\u0443\u043d\u0437\u0456\u0432\u043a\u0430",
         "Frunzivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zakhar\u2019yevka"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":264,
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101876299,
-    "wof:lastmodified":1527714920,
+    "wof:lastmodified":1566593617,
     "wof:name":"\u0413\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088369,
     "wof:placetype":"locality",

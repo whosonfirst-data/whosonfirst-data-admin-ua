@@ -10,13 +10,17 @@
     "geom:latitude":49.960698,
     "geom:longitude":24.432872,
     "iso:country":"UA",
+    "lbl:bbox":"24.412872,49.940698,24.452872,49.980698",
     "lbl:latitude":49.960698,
     "lbl:longitude":24.432872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.960698,
     "mps:longitude":24.432872,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Neslukhiv"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":700284,
         "gp:id":924181,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"490e0082a0f2bed13449bcbd461133f8",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862363,
-    "wof:lastmodified":1544746447,
+    "wof:lastmodified":1566593672,
     "wof:name":"\u041d\u0435\u0441\u043b\u0443\u0445\u0456\u0432",
     "wof:parent_id":102088459,
     "wof:placetype":"locality",

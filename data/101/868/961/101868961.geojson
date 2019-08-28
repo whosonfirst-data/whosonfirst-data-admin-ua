@@ -11,12 +11,16 @@
     "geom:longitude":38.443514,
     "gn:population":30200,
     "iso:country":"UA",
+    "lbl:bbox":"38.423514,48.324619,38.463514,48.364619",
     "lbl:latitude":48.344619,
     "lbl:longitude":38.443514,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":48.344619,
     "mps:longitude":38.443514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0628\u0627\u0644\u062a\u0633\u064a\u0641\u064a"
     ],
@@ -150,7 +154,7 @@
     "name:ukr_x_variant":[
         "Debal\u2019tseve"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Debalzewo"
     ],
     "name:vie_x_preferred":[
@@ -178,7 +182,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":514,
     "wof:belongsto":[
@@ -193,7 +197,7 @@
     "wof:concordances":{
         "gn:id":710229,
         "gp:id":918703,
-        "qs:id":519730,
+        "qs_pg:id":519730,
         "wd:id":"Q2371760",
         "wk:page":"Debaltseve"
     },
@@ -218,7 +222,7 @@
         }
     ],
     "wof:id":101868961,
-    "wof:lastmodified":1563302647,
+    "wof:lastmodified":1566593358,
     "wof:name":"\u0414\u0435\u0431\u0430\u043b\u044c\u0446\u0435\u0432\u0435",
     "wof:parent_id":1175613749,
     "wof:placetype":"locality",

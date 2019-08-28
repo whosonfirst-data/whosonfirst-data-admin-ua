@@ -11,12 +11,16 @@
     "geom:longitude":29.344677,
     "gn:population":5100,
     "iso:country":"UA",
+    "lbl:bbox":"29.324677,48.195444,29.364677,48.235444",
     "lbl:latitude":48.215444,
     "lbl:longitude":29.344677,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.215444,
     "mps:longitude":29.344677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u044d\u0447\u044d\u043b\u044c\u043d\u044b\u043a"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0447\u0435\u043b\u044c\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chechel\u2019nik"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":295,
     "wof:belongsto":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":710892,
         "gp:id":918081,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1721808",
         "wk:page":"Chechelnyk"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":101866357,
-    "wof:lastmodified":1563302444,
+    "wof:lastmodified":1566593270,
     "wof:name":"\u0427\u0435\u0447\u0435\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":102088163,
     "wof:placetype":"locality",

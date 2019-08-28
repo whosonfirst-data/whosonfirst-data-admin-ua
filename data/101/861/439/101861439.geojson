@@ -11,12 +11,16 @@
     "geom:longitude":27.406053,
     "gn:population":9877,
     "iso:country":"UA",
+    "lbl:bbox":"27.386053,48.439822,27.426053,48.479822",
     "lbl:latitude":48.459822,
     "lbl:longitude":27.406053,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.459822,
     "mps:longitude":27.406053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043a\u044b\u0440\u0430\u043d\u044b"
     ],
@@ -86,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u0438\u0440\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Secureni"
-    ],
     "name:vie_x_preferred":[
         "Sokyriany"
     ],
@@ -114,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -127,7 +128,7 @@
     "wof:concordances":{
         "gn:id":693284,
         "gp:id":934469,
-        "qs:id":275437,
+        "qs_pg:id":275437,
         "wd:id":"Q149173"
     },
     "wof:country":"UA",
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":101861439,
-    "wof:lastmodified":1563302512,
+    "wof:lastmodified":1566593300,
     "wof:name":"\u0421\u043e\u043a\u0438\u0440\u044f\u043d\u0438",
     "wof:parent_id":102088147,
     "wof:placetype":"locality",

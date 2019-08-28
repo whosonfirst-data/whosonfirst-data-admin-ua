@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"31.13462,51.03648,31.17462,51.07648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kopti"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u0456\u043f\u0442\u0456"
-    ],
-    "name:und_x_variant":[
-        "Kopti"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1309714231,
-    "wof:lastmodified":1537710992,
+    "wof:lastmodified":1566593825,
     "wof:name":"Kipti",
     "wof:parent_id":102088907,
     "wof:placetype":"locality",

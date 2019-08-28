@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":50.401775,
     "lbl:longitude":25.773959,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.401775,
     "mps:longitude":25.773959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0646\u0648"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Dubno"
-    ],
     "name:vie_x_preferred":[
         "Dubno"
     ],
@@ -161,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1407,
     "wof:belongsto":[
@@ -174,7 +174,6 @@
     "wof:concordances":{
         "gn:id":709540,
         "gp:id":919326,
-        "qs:id":128743,
         "qs_pg:id":128743,
         "wd:id":"Q932184",
         "wk:page":"Dubno"
@@ -191,7 +190,7 @@
         }
     ],
     "wof:id":101876921,
-    "wof:lastmodified":1563303230,
+    "wof:lastmodified":1566593622,
     "wof:name":"\u0414\u0443\u0431\u043d\u043e",
     "wof:parent_id":1108730677,
     "wof:placetype":"locality",

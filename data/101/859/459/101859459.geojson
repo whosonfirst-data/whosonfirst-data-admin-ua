@@ -10,12 +10,16 @@
     "geom:latitude":48.051048,
     "geom:longitude":25.766045,
     "iso:country":"UA",
+    "lbl:bbox":"25.746045,48.031048,25.786045,48.071048",
     "lbl:latitude":48.051048,
     "lbl:longitude":25.766045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.051048,
     "mps:longitude":25.766045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kupka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":703662,
         "gp:id":935236,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4247485"
     },
     "wof:country":"UA",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101859459,
-    "wof:lastmodified":1561776913,
+    "wof:lastmodified":1566593241,
     "wof:name":"\u041a\u0443\u043f\u043a\u0430",
     "wof:parent_id":102088031,
     "wof:placetype":"locality",

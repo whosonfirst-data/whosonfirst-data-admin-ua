@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1843403.583901,
+    "geom:area_square_m":1843403.583905,
     "geom:bbox":"25.5726595949,49.4741459974,25.5907586405,49.4925796262",
     "geom:latitude":49.48406,
     "geom:longitude":25.582456,
-    "geonames:id":"698186,698223",
+    "gn:id":"698186,698223",
     "iso:country":"UA",
     "lbl:latitude":49.484915,
     "lbl:longitude":25.582629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.484915,
     "mps:longitude":25.582629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Truchaniw-Insel"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":416,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":937184,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"515cf777e89c0785cd052388098f3e67",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101876771,
-    "wof:lastmodified":1527714913,
+    "wof:lastmodified":1566593597,
     "wof:name":"\u041e\u0441\u0442\u0440\u0456\u0432",
     "wof:parent_id":1108815697,
     "wof:placetype":"locality",

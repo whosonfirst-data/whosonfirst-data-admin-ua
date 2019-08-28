@@ -10,12 +10,16 @@
     "geom:latitude":49.476263,
     "geom:longitude":38.982468,
     "iso:country":"UA",
+    "lbl:bbox":"38.962468,49.456263,39.002468,49.496263",
     "lbl:latitude":49.476263,
     "lbl:longitude":38.982468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.476263,
     "mps:longitude":38.982468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sakotne"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u043a\u043e\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zakatnaya"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":687850,
         "gp:id":929787,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4184983"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101869179,
-    "wof:lastmodified":1563302843,
+    "wof:lastmodified":1566593444,
     "wof:name":"\u0417\u0430\u043a\u043e\u0442\u043d\u0435",
     "wof:parent_id":102088973,
     "wof:placetype":"locality",

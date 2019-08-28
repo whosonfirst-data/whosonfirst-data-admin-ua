@@ -11,12 +11,16 @@
     "geom:longitude":35.337067,
     "gn:population":3365,
     "iso:country":"UA",
+    "lbl:bbox":"35.317067,47.226979,35.357067,47.266979",
     "lbl:latitude":47.246979,
     "lbl:longitude":35.337067,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.246979,
     "mps:longitude":35.337067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0448\u0438\u0431"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0448\u0438\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prishib"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":696262,
         "gp:id":931719,
-        "qs:id":275463,
+        "qs_pg:id":275463,
         "wd:id":"Q2027426"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101866557,
-    "wof:lastmodified":1563302405,
+    "wof:lastmodified":1566593252,
     "wof:name":"\u041f\u0440\u0438\u0448\u0438\u0431",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

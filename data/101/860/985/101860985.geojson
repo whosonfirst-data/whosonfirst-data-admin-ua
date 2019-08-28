@@ -10,12 +10,16 @@
     "geom:latitude":48.895612,
     "geom:longitude":24.381163,
     "iso:country":"UA",
+    "lbl:bbox":"24.361163,48.875612,24.401163,48.915612",
     "lbl:latitude":48.895612,
     "lbl:longitude":24.381163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.895612,
     "mps:longitude":24.381163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Grab\u00f3wka"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -52,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":921592,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"73ab293f697cdaaafef2eac60491c3cc",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101860985,
-    "wof:lastmodified":1544745726,
+    "wof:lastmodified":1566593462,
     "wof:name":"\u0413\u0440\u0430\u0431\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088203,
     "wof:placetype":"locality",

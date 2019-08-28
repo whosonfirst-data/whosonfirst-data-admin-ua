@@ -10,12 +10,16 @@
     "geom:latitude":48.96561,
     "geom:longitude":28.113669,
     "iso:country":"UA",
+    "lbl:bbox":"28.093669,48.94561,28.133669,48.98561",
     "lbl:latitude":48.96561,
     "lbl:longitude":28.113669,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.96561,
     "mps:longitude":28.113669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stanislawtschyk"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_variant":[
         "Stanislavchyk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stniolavchik"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":692942,
         "gp:id":934791,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4439409"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101862093,
-    "wof:lastmodified":1561776985,
+    "wof:lastmodified":1566593706,
     "wof:name":"\u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432\u0447\u0438\u043a",
     "wof:parent_id":1108815613,
     "wof:placetype":"locality",

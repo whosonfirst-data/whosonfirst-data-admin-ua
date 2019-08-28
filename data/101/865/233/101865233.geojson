@@ -10,12 +10,16 @@
     "geom:latitude":47.898315,
     "geom:longitude":33.590616,
     "iso:country":"UA",
+    "lbl:bbox":"33.570616,47.878315,33.610616,47.918315",
     "lbl:latitude":47.898315,
     "lbl:longitude":33.590616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.898315,
     "mps:longitude":33.590616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Krassiwske"
     ],
@@ -41,7 +45,7 @@
         "\u041a\u0440\u0430\u0441\u0456\u043d\u0435",
         "\u041a\u0440\u0430\u0441\u0456\u0432\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasino"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":704480,
         "gp:id":12518322,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4237832"
     },
     "wof:country":"UA",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101865233,
-    "wof:lastmodified":1563303463,
+    "wof:lastmodified":1566593724,
     "wof:name":"\u041a\u0440\u0430\u0441\u0456\u043d\u0435",
     "wof:parent_id":1108815739,
     "wof:placetype":"locality",

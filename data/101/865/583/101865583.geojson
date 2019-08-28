@@ -10,13 +10,17 @@
     "geom:latitude":46.617643,
     "geom:longitude":32.105462,
     "iso:country":"UA",
+    "lbl:bbox":"32.085462,46.597643,32.125462,46.637643",
     "lbl:latitude":46.617643,
     "lbl:longitude":32.105462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.617643,
     "mps:longitude":32.105462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Aleksandrovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":153,
     "wof:belongsto":[
         102191581,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":698628,
         "gp:id":915532,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"8b8f193f5b5111d4f36fd095267cc72d",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101865583,
-    "wof:lastmodified":1544748124,
+    "wof:lastmodified":1566593742,
     "wof:name":"\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088019,
     "wof:placetype":"locality",

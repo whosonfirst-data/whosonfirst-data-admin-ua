@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":2813887.239853,
+    "geom:area_square_m":2813887.239855,
     "geom:bbox":"25.7450026926,49.6582336421,25.7721417501,49.685098837",
     "geom:latitude":49.674519,
     "geom:longitude":25.756622,
     "iso:country":"UA",
     "lbl:latitude":49.675873,
     "lbl:longitude":25.754362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.675873,
     "mps:longitude":25.754362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Za\u0142u\u017c"
     ],
     "name:pol_x_preferred":[
         "Za\u0142u\u017c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaluzhzhya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":687770,
         "gp:id":939863,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"e4833c4b3abfa9faa14c03984b9d97fe",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101876811,
-    "wof:lastmodified":1527714909,
+    "wof:lastmodified":1566593583,
     "wof:name":"\u0417\u0430\u043b\u0443\u0436\u0436\u044f",
     "wof:parent_id":102088429,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.61105,
     "geom:longitude":32.16612,
     "iso:country":"UA",
+    "lbl:bbox":"32.14612,49.59105,32.18612,49.63105",
     "lbl:latitude":49.61105,
     "lbl:longitude":32.16612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.61105,
     "mps:longitude":32.16612,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0633\u0645 \u062c\u0645\u0639"
     ],
@@ -152,7 +156,7 @@
         "\u0414\u0435\u043d\u044c\u0433\u0438",
         "Pluralia tantum"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Den\u2019gi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -174,7 +178,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":756,
     "wof:belongsto":[
         102191581,
@@ -186,7 +190,7 @@
     "wof:concordances":{
         "gn:id":710146,
         "gp:id":918033,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q138246"
     },
     "wof:country":"UA",
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":101870749,
-    "wof:lastmodified":1563303098,
+    "wof:lastmodified":1566593554,
     "wof:name":"\u0414\u0435\u043d\u044c\u0433\u0438",
     "wof:parent_id":1108815745,
     "wof:placetype":"locality",

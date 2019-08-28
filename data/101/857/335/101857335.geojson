@@ -10,12 +10,16 @@
     "geom:latitude":45.248051,
     "geom:longitude":35.92497,
     "iso:country":"UA",
+    "lbl:bbox":"35.90497,45.228051,35.94497,45.268051",
     "lbl:latitude":45.248051,
     "lbl:longitude":35.92497,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.248051,
     "mps:longitude":35.92497,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leninskoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":703230,
         "gp:id":12518329,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"a44bab710f0b1e42ba83c1bfd0a77cef",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857335,
-    "wof:lastmodified":1544743842,
+    "wof:lastmodified":1566593391,
     "wof:name":"\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

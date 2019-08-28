@@ -10,8 +10,10 @@
     "geom:latitude":50.428877,
     "geom:longitude":30.52683,
     "iso:country":"UA",
+    "lbl:bbox":"30.5218304794,50.4238773365,30.5318304794,50.4338773365",
     "lbl:latitude":50.428877,
     "lbl:longitude":30.52683,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u0430 \u0433\u043e\u0440\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
         102191581,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108945139,
-    "wof:lastmodified":1564196801,
+    "wof:lastmodified":1566592890,
     "wof:name":"Cherepanova Hora",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",

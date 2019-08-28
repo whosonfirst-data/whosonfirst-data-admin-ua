@@ -10,12 +10,16 @@
     "geom:latitude":50.049504,
     "geom:longitude":25.048046,
     "iso:country":"UA",
+    "lbl:bbox":"25.028046,50.029504,25.068046,50.069504",
     "lbl:latitude":50.049504,
     "lbl:longitude":25.048046,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.049504,
     "mps:longitude":25.048046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ponykowyzja"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":917612,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4371878"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101862703,
-    "wof:lastmodified":1561776984,
+    "wof:lastmodified":1566593695,
     "wof:name":"\u041f\u043e\u043d\u0438\u043a\u043e\u0432\u0438\u0446\u044f",
     "wof:parent_id":102088491,
     "wof:placetype":"locality",

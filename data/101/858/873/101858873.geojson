@@ -10,12 +10,16 @@
     "geom:latitude":45.902609,
     "geom:longitude":34.872795,
     "iso:country":"UA",
+    "lbl:bbox":"34.852795,45.882609,34.892795,45.922609",
     "lbl:latitude":45.902609,
     "lbl:longitude":34.872795,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.902609,
     "mps:longitude":34.872795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:crh_x_preferred":[
         "\u00c7oqraq"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_variant":[
         "Strilkove"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chokrak"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":687,
     "wof:belongsto":[
         102191581,
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":692440,
         "gp:id":924043,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4443704"
     },
     "wof:country":"UA",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101858873,
-    "wof:lastmodified":1563302934,
+    "wof:lastmodified":1566593482,
     "wof:name":"\u0421\u0442\u0440\u0456\u043b\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

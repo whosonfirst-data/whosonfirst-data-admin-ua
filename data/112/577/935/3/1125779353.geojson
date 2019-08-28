@@ -9,15 +9,18 @@
     "geom:bbox":"25.34244,50.75932,25.34244,50.75932",
     "geom:latitude":50.75932,
     "geom:longitude":25.34244,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":213661,
+    "gn:country":"UA",
+    "gn:fcode":"PPLA",
     "gn:population":213661,
     "iso:country":"UA",
+    "lbl:bbox":"25.32244,50.73932,25.36244,50.77932",
     "lbl:latitude":50.75932,
     "lbl:longitude":25.34244,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Loetsk"
@@ -250,9 +253,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Luck"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u062a\u0633\u06a9"
     ],
@@ -283,7 +283,7 @@
     "qs_pg:qs_id":128514,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -310,7 +310,7 @@
         }
     ],
     "wof:id":1125779353,
-    "wof:lastmodified":1563304004,
+    "wof:lastmodified":1566593971,
     "wof:name":"Luts\u2019k",
     "wof:parent_id":1108730713,
     "wof:placetype":"locality",

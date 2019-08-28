@@ -10,12 +10,16 @@
     "geom:latitude":49.471721,
     "geom:longitude":25.905091,
     "iso:country":"UA",
+    "lbl:bbox":"25.885091,49.451721,25.925091,49.491721",
     "lbl:latitude":49.471721,
     "lbl:longitude":25.905091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.471721,
     "mps:longitude":25.905091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolodiivka"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0434\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolodeyevka"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":136,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101862175,
-    "wof:lastmodified":1563303384,
+    "wof:lastmodified":1566593690,
     "wof:name":"\u041a\u043e\u043b\u043e\u0434\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088379,
     "wof:placetype":"locality",

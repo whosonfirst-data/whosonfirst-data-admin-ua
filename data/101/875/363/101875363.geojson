@@ -11,12 +11,16 @@
     "geom:longitude":22.833875,
     "gn:population":3292,
     "iso:country":"UA",
+    "lbl:bbox":"22.813875,48.090475,22.853875,48.130475",
     "lbl:latitude":48.110475,
     "lbl:longitude":22.833875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.110475,
     "mps:longitude":22.833875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0648\u0643"
     ],
@@ -65,9 +69,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Vilok"
-    ],
     "name:zho_x_preferred":[
         "\u7dad\u6d1b\u514b"
     ],
@@ -91,7 +92,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
     "wof:belongsto":[
@@ -104,7 +105,6 @@
     "wof:concordances":{
         "gn:id":688749,
         "gp:id":816513,
-        "qs:id":1028354,
         "qs_pg:id":1028354,
         "wd:id":"Q744916",
         "wk:page":"Vylok"
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":101875363,
-    "wof:lastmodified":1563302272,
+    "wof:lastmodified":1566593202,
     "wof:name":"\u0412\u0438\u043b\u043e\u043a",
     "wof:parent_id":102087991,
     "wof:placetype":"locality",

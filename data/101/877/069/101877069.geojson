@@ -5,23 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":1683608.218353,
+    "geom:area_square_m":1683608.218354,
     "geom:bbox":"29.8959582125,51.2313813544,29.9147943206,51.2487730924",
     "geom:latitude":51.240908,
     "geom:longitude":29.906292,
     "iso:country":"UA",
     "lbl:latitude":51.241749,
     "lbl:longitude":29.906471,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.241749,
     "mps:longitude":29.906471,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Hlynka"
     ],
     "name:ukr_x_variant":[
         "\u0413\u043b\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glinka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +45,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101877069,
-    "wof:lastmodified":1501215663,
+    "wof:lastmodified":1566593575,
     "wof:name":"\u0413\u043b\u0456\u043d\u043a\u0430",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

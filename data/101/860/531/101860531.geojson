@@ -10,12 +10,16 @@
     "geom:latitude":48.805511,
     "geom:longitude":22.490606,
     "iso:country":"UA",
+    "lbl:bbox":"22.470606,48.785511,22.510606,48.825511",
     "lbl:latitude":48.805511,
     "lbl:longitude":22.490606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.805511,
     "mps:longitude":22.490606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dubrinichi"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0443\u0431\u0440\u0438\u043d\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubrynich"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20505,
     "wof:belongsto":[
         102191581,
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":709503,
         "gp:id":930333,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q744349"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101860531,
-    "wof:lastmodified":1561776949,
+    "wof:lastmodified":1566593465,
     "wof:name":"\u0414\u0443\u0431\u0440\u0438\u043d\u0438\u0447\u0456",
     "wof:parent_id":102088067,
     "wof:placetype":"locality",

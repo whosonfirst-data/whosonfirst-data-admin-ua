@@ -11,12 +11,16 @@
     "geom:longitude":38.73455,
     "gn:population":7712,
     "iso:country":"UA",
+    "lbl:bbox":"38.71455,49.506082,38.75455,49.546082",
     "lbl:latitude":49.526082,
     "lbl:longitude":38.73455,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.526082,
     "mps:longitude":38.73455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0643\u0648\u0631\u0627\u0643\u064a\u0646\u064a\u060c \u0644\u0648\u0647\u0627\u0646\u0633\u0643\u0627"
     ],
@@ -62,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u043a\u0443\u0440\u0430\u043a\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belokurakino"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":712569,
         "gp:id":916547,
-        "qs:id":128835,
+        "qs_pg:id":128835,
         "wd:id":"Q2427489"
     },
     "wof:country":"UA",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":101870421,
-    "wof:lastmodified":1563303110,
+    "wof:lastmodified":1566593559,
     "wof:name":"\u0411\u0456\u043b\u043e\u043a\u0443\u0440\u0430\u043a\u0438\u043d\u0435",
     "wof:parent_id":102088961,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.43994,
     "geom:longitude":35.168098,
     "iso:country":"UA",
+    "lbl:bbox":"35.148098,49.41994,35.188098,49.45994",
     "lbl:latitude":49.43994,
     "lbl:longitude":35.168098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.43994,
     "mps:longitude":35.168098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Popovka"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041f\u043e\u043f\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Popovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430",
@@ -50,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +62,7 @@
     "wof:concordances":{
         "gn:id":696526,
         "gp:id":921906,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"aa3d55bd1d7546d3b5edae792740c273",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":101868897,
-    "wof:lastmodified":1544749993,
+    "wof:lastmodified":1566593375,
     "wof:name":"\u041f\u043e\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088761,
     "wof:placetype":"locality",

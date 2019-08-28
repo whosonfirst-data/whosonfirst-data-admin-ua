@@ -10,12 +10,16 @@
     "geom:latitude":48.12183,
     "geom:longitude":23.714352,
     "iso:country":"UA",
+    "lbl:bbox":"23.694352,48.10183,23.734352,48.14183",
     "lbl:latitude":48.12183,
     "lbl:longitude":23.714352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.12183,
     "mps:longitude":23.714352,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Ol\u2019khovtsy-Lazy"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8282293,
         "gp:id":935957,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"83cdcd99bd1379c74c08af4a5a0cbcdd",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101859541,
-    "wof:lastmodified":1544744967,
+    "wof:lastmodified":1566593245,
     "wof:name":"\u0412\u0456\u043b\u044c\u0445\u0456\u0432\u0446\u0456-\u041b\u0430\u0437\u0438",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

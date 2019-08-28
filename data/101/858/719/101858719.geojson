@@ -11,12 +11,16 @@
     "geom:longitude":34.751906,
     "gn:population":2930,
     "iso:country":"UA",
+    "lbl:bbox":"34.731906,45.377569,34.771906,45.417569",
     "lbl:latitude":45.397569,
     "lbl:longitude":34.751906,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.397569,
     "mps:longitude":34.751906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zhelyabovka"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688855,
@@ -70,7 +74,6 @@
         "fct:id":"0828bebe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":687191,
         "gp:id":940107,
-        "qs:id":421977,
         "qs_pg:id":421977
     },
     "wof:country":"UA",
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744545,
+    "wof:lastmodified":1566593495,
     "wof:name":"\u0416\u0435\u043b\u044f\u0431\u043e\u0432\u043a\u0430",
     "wof:parent_id":1108738641,
     "wof:placetype":"locality",

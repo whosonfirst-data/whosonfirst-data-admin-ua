@@ -11,12 +11,16 @@
     "geom:longitude":26.525113,
     "gn:population":14251,
     "iso:country":"UA",
+    "lbl:bbox":"26.505113,50.308164,26.545113,50.348164",
     "lbl:latitude":50.328164,
     "lbl:longitude":26.525113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.328164,
     "mps:longitude":26.525113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a\u0631\u0648\u0647"
     ],
@@ -125,9 +129,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433"
     ],
-    "name:unk_x_variant":[
-        "Ostrog"
-    ],
     "name:vie_x_preferred":[
         "Ostroh"
     ],
@@ -154,7 +155,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":647,
     "wof:belongsto":[
@@ -167,7 +168,6 @@
     "wof:concordances":{
         "gn:id":698232,
         "gp:id":929870,
-        "qs:id":1351839,
         "qs_pg:id":1351839,
         "wd:id":"Q140671",
         "wk:page":"Ostroh"
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":101864069,
-    "wof:lastmodified":1563303581,
+    "wof:lastmodified":1566593772,
     "wof:name":"\u041e\u0441\u0442\u0440\u043e\u0433",
     "wof:parent_id":1108730671,
     "wof:placetype":"locality",

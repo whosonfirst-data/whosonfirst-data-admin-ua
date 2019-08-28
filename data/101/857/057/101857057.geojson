@@ -11,12 +11,16 @@
     "geom:longitude":33.855762,
     "gn:population":26525,
     "iso:country":"UA",
+    "lbl:bbox":"33.835762,44.730238,33.875762,44.770238",
     "lbl:latitude":44.750238,
     "lbl:longitude":33.855762,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.750238,
     "mps:longitude":33.855762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u062e\u062a\u0634\u064a\u0633\u0627\u0631\u0627\u064a"
     ],
@@ -261,7 +265,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":300.0,
     "wd:latitude":44.752778,
@@ -281,7 +285,6 @@
         "fct:id":"08266e0c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":712969,
         "gp:id":916201,
-        "qs:id":275613,
         "qs_pg:id":275613,
         "wd:id":"Q158604",
         "wk:page":"Bakhchysarai"
@@ -311,7 +314,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563302734,
+    "wof:lastmodified":1566593396,
     "wof:name":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.184608,
     "geom:longitude":33.684,
     "iso:country":"UA",
+    "lbl:bbox":"33.664,45.164608,33.704,45.204608",
     "lbl:latitude":45.184608,
     "lbl:longitude":33.684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.184608,
     "mps:longitude":33.684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shelkovichnoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":694245,
         "gp:id":929435,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"9b9ea6da203bb520a407d88b37766d83",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857129,
-    "wof:lastmodified":1544743737,
+    "wof:lastmodified":1566593389,
     "wof:name":"\u0428\u043e\u0432\u043a\u043e\u0432\u0438\u0447\u043d\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

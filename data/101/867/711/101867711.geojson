@@ -11,12 +11,16 @@
     "geom:longitude":34.866373,
     "gn:population":7304,
     "iso:country":"UA",
+    "lbl:bbox":"34.846373,48.182493,34.886373,48.222493",
     "lbl:latitude":48.202493,
     "lbl:longitude":34.866373,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.202493,
     "mps:longitude":34.866373,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Solone"
     ],
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sol\u00ebnoye"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":693231,
         "gp:id":934524,
-        "qs:id":275436,
+        "qs_pg:id":275436,
         "wd:id":"Q1001064"
     },
     "wof:country":"UA",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101867711,
-    "wof:lastmodified":1563303066,
+    "wof:lastmodified":1566593539,
     "wof:name":"\u0421\u043e\u043b\u043e\u043d\u0435",
     "wof:parent_id":102088437,
     "wof:placetype":"locality",

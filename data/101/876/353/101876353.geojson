@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":48.17486,
     "lbl:longitude":23.246049,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.17486,
     "mps:longitude":23.246049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0440\u0438\u0432\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krivoye"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":127,
     "wof:belongsto":[
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":704055,
         "gp:id":922428,
-        "qs:id":275509,
+        "qs_pg:id":275509,
         "wd:id":"Q1422453"
     },
     "wof:country":"UA",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101876353,
-    "wof:lastmodified":1563303148,
+    "wof:lastmodified":1566593579,
     "wof:name":"\u041a\u0440\u0438\u0432\u0430",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.65934,
     "geom:longitude":34.806353,
     "iso:country":"UA",
+    "lbl:bbox":"34.786353,48.63934,34.826353,48.67934",
     "lbl:latitude":48.65934,
     "lbl:longitude":34.806353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.65934,
     "mps:longitude":34.806353,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zorya"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043e\u0440\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Zorya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":108,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":687594,
         "gp:id":916197,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q8074532"
     },
     "wof:country":"UA",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":101866903,
-    "wof:lastmodified":1563302446,
+    "wof:lastmodified":1566593271,
     "wof:name":"\u0417\u043e\u0440\u044f",
     "wof:parent_id":1108815737,
     "wof:placetype":"locality",

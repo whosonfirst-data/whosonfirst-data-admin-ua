@@ -10,12 +10,16 @@
     "geom:latitude":48.85444,
     "geom:longitude":22.603315,
     "iso:country":"UA",
+    "lbl:bbox":"22.583315,48.83444,22.623315,48.87444",
     "lbl:latitude":48.85444,
     "lbl:longitude":22.603315,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.85444,
     "mps:longitude":22.603315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chornogolova"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u0427\u043e\u0440\u043d\u043e\u0433\u043e\u043b\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cornoholovo"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":710707,
         "gp:id":937287,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q714528"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101860685,
-    "wof:lastmodified":1561776949,
+    "wof:lastmodified":1566593468,
     "wof:name":"\u0427\u043e\u0440\u043d\u043e\u0433\u043e\u043b\u043e\u0432\u0430",
     "wof:parent_id":102088109,
     "wof:placetype":"locality",

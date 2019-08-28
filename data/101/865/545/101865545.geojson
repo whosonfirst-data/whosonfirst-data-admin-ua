@@ -10,19 +10,23 @@
     "geom:latitude":46.505164,
     "geom:longitude":32.853227,
     "iso:country":"UA",
+    "lbl:bbox":"32.833227,46.485164,32.873227,46.525164",
     "lbl:latitude":46.505164,
     "lbl:longitude":32.853227,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.505164,
     "mps:longitude":32.853227,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u0441\u0442\u043e\u0433\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u043e\u0433\u0440\u0438\u0437\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kostogryzovo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":704741,
         "gp:id":932025,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"2a1e5fb581b809124c861fe79b61c7e7",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101865545,
-    "wof:lastmodified":1544748101,
+    "wof:lastmodified":1566593727,
     "wof:name":"\u041a\u043e\u0441\u0442\u043e\u0433\u0440\u0438\u0437\u043e\u0432\u0435",
     "wof:parent_id":102088007,
     "wof:placetype":"locality",

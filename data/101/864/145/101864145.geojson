@@ -10,12 +10,16 @@
     "geom:latitude":50.557721,
     "geom:longitude":26.261111,
     "iso:country":"UA",
+    "lbl:bbox":"26.241111,50.537721,26.281111,50.577721",
     "lbl:latitude":50.557721,
     "lbl:longitude":26.261111,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.557721,
     "mps:longitude":26.261111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0432\u0430\u0441\u044b\u043b\u0456\u045e"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_variant":[
         "Kvasyliv"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kvasilov"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":4.46,
     "wd:elevation":190.0,
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":703460,
         "gp:id":939883,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q932221",
         "wk:page":"Kvasyliv"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":101864145,
-    "wof:lastmodified":1563303547,
+    "wof:lastmodified":1566593759,
     "wof:name":"\u041a\u0432\u0430\u0441\u0438\u043b\u0456\u0432",
     "wof:parent_id":1108815695,
     "wof:placetype":"locality",

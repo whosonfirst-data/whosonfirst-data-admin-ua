@@ -10,12 +10,16 @@
     "geom:latitude":50.357698,
     "geom:longitude":30.114323,
     "iso:country":"UA",
+    "lbl:bbox":"30.094323,50.337698,30.134323,50.377698",
     "lbl:latitude":50.357698,
     "lbl:longitude":30.114323,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.357698,
     "mps:longitude":30.114323,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Muzychi"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":8516325,
         "gp:id":12518221,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"0d5931f3470f7b84abba97c1c415d337",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":101869721,
-    "wof:lastmodified":1544750426,
+    "wof:lastmodified":1566593443,
     "wof:name":"\u041c\u0443\u0437\u0438\u0447\u0456",
     "wof:parent_id":102088769,
     "wof:placetype":"locality",

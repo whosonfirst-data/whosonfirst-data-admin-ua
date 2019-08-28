@@ -10,12 +10,16 @@
     "geom:latitude":48.155852,
     "geom:longitude":35.013521,
     "iso:country":"UA",
+    "lbl:bbox":"34.993521,48.135852,35.033521,48.175852",
     "lbl:latitude":48.155852,
     "lbl:longitude":35.013521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.155852,
     "mps:longitude":35.013521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Baschmatschka"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":712777,
         "gp:id":918981,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4080229"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101865847,
-    "wof:lastmodified":1561776989,
+    "wof:lastmodified":1566593735,
     "wof:name":"\u0411\u0430\u0448\u043c\u0430\u0447\u043a\u0430",
     "wof:parent_id":102088437,
     "wof:placetype":"locality",

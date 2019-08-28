@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.903768,
     "lbl:longitude":38.429073,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Luhanska",
     "meso:admin_1":"\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Lysychans'ka",
@@ -34,6 +36,7 @@
     "mps:longitude":38.429073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u064a\u0646\u0633\u0643"
     ],
@@ -227,9 +230,9 @@
         "\u5229\u897f\u660c\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-12-05",
+    "src:population_date":"2001-12-05",
     "statoids:area_km":"96",
     "statoids:as_of_date":"2001-12-05",
     "statoids:capital":"Lysychans'k",
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":1108730797,
-    "wof:lastmodified":1563301659,
+    "wof:lastmodified":1566592801,
     "wof:name":"Lysychanska",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

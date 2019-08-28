@@ -10,12 +10,16 @@
     "geom:latitude":48.268817,
     "geom:longitude":23.070637,
     "iso:country":"UA",
+    "lbl:bbox":"23.050637,48.248817,23.090637,48.288817",
     "lbl:latitude":48.268817,
     "lbl:longitude":23.070637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.268817,
     "mps:longitude":23.070637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vil'khivka"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0456\u043b\u044c\u0445\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ol\u2019khovka"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":698550,
         "gp:id":921145,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q714437"
     },
     "wof:country":"UA",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101859431,
-    "wof:lastmodified":1563302318,
+    "wof:lastmodified":1566593221,
     "wof:name":"\u0412\u0456\u043b\u044c\u0445\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

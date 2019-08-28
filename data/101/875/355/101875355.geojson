@@ -12,10 +12,13 @@
     "iso:country":"UA",
     "lbl:latitude":45.962568,
     "lbl:longitude":33.772913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.962568,
     "mps:longitude":33.772913,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sovkhoznoye"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":7026896,
         "gp:id":924103,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"45da92470b6d8494706e2ff4caa243e1",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101875355,
-    "wof:lastmodified":1530299593,
+    "wof:lastmodified":1566593202,
     "wof:name":"\u0421\u043e\u0432\u0445\u043e\u0437\u043d\u0435",
     "wof:parent_id":1108738619,
     "wof:placetype":"locality",

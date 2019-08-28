@@ -11,12 +11,16 @@
     "geom:longitude":34.516691,
     "gn:population":6444,
     "iso:country":"UA",
+    "lbl:bbox":"34.496691,47.606708,34.536691,47.646708",
     "lbl:latitude":47.626708,
     "lbl:longitude":34.516691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.626708,
     "mps:longitude":34.516691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chervonohryhorivka"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnogrigor\u2019yevka"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":710552,
         "gp:id":918402,
-        "qs:id":128774,
+        "qs_pg:id":128774,
         "wd:id":"Q3516605"
     },
     "wof:country":"UA",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101866727,
-    "wof:lastmodified":1563302487,
+    "wof:lastmodified":1566593288,
     "wof:name":"\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0438\u0433\u043e\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088327,
     "wof:placetype":"locality",

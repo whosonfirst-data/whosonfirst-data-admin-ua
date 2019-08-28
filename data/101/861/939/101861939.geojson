@@ -10,13 +10,17 @@
     "geom:latitude":49.069309,
     "geom:longitude":25.867573,
     "iso:country":"UA",
+    "lbl:bbox":"25.847573,49.049309,25.887573,49.089309",
     "lbl:latitude":49.069309,
     "lbl:longitude":25.867573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.069309,
     "mps:longitude":25.867573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Oryshkivtsi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":698398,
         "gp:id":923502,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"UA",
     "wof:geomhash":"37b05e106cb74ccf255bfc0ac9b355ac",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861939,
-    "wof:lastmodified":1544746225,
+    "wof:lastmodified":1566593292,
     "wof:name":"\u041e\u0440\u0438\u0448\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088299,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1849948.068913,
+    "geom:area_square_m":1849948.068915,
     "geom:bbox":"35.8414093844,49.95307666,35.8585662736,49.9701020338",
     "geom:latitude":49.961743,
     "geom:longitude":35.849824,
     "iso:country":"UA",
     "lbl:latitude":49.961589,
     "lbl:longitude":35.84966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.961589,
     "mps:longitude":35.84966,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
     "qs:a1_alt":"Kharkivs'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":926358,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
-    "wof:geomhash":"d7dc89dddff2e17027fa1afbd26688c7",
+    "wof:geomhash":"fa503dbbcc7e7f0f5c8a3cc88adae472",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101877079,
-    "wof:lastmodified":1479879519,
+    "wof:lastmodified":1566593569,
     "wof:name":"\u0421\u0430\u043d\u0436\u0430\u0440\u0438",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

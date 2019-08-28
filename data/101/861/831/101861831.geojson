@@ -10,13 +10,17 @@
     "geom:latitude":49.317415,
     "geom:longitude":25.109076,
     "iso:country":"UA",
+    "lbl:bbox":"25.089076,49.297415,25.129076,49.337415",
     "lbl:latitude":49.317415,
     "lbl:longitude":25.109076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.317415,
     "mps:longitude":25.109076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Muzhylov"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":700584,
         "gp:id":935810,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"4ae9b35e90f20bfa275a9dd9869d96e1",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101861831,
-    "wof:lastmodified":1544746169,
+    "wof:lastmodified":1566593322,
     "wof:name":"\u041c\u0443\u0436\u0438\u043b\u0456\u0432",
     "wof:parent_id":102088261,
     "wof:placetype":"locality",

@@ -10,13 +10,17 @@
     "geom:latitude":49.811207,
     "geom:longitude":23.393177,
     "iso:country":"UA",
+    "lbl:bbox":"23.373177,49.791207,23.413177,49.831207",
     "lbl:latitude":49.811207,
     "lbl:longitude":23.393177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.811207,
     "mps:longitude":23.393177,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Bortyanin"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":711551,
         "gp:id":935402,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"2d97549b6771b1733204217283bf9c8b",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101862057,
-    "wof:lastmodified":1544746288,
+    "wof:lastmodified":1566593704,
     "wof:name":"\u0411\u043e\u0440\u0442\u044f\u0442\u0438\u043d",
     "wof:parent_id":102088333,
     "wof:placetype":"locality",

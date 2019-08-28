@@ -12,12 +12,16 @@
     "gn:elevation":105,
     "gn:population":3046,
     "iso:country":"UA",
+    "lbl:bbox":"22.373107,48.339482,22.413107,48.379482",
     "lbl:latitude":48.359482,
     "lbl:longitude":22.393107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.359482,
     "mps:longitude":22.393107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0446\u044c\u0451\u0432\u0430"
     ],
@@ -86,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":503,
     "wof:belongsto":[
@@ -98,7 +102,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":690544,
-        "qs:id":82725,
         "qs_pg:id":82725,
         "wd:id":"Q810842",
         "wk:page":"Batiovo"
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101859199,
-    "wof:lastmodified":1563302351,
+    "wof:lastmodified":1566593233,
     "wof:name":"\u0411\u0430\u0442\u044c\u043e\u0432\u043e",
     "wof:parent_id":1108815635,
     "wof:placetype":"locality",

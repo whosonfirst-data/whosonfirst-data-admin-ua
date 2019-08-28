@@ -10,12 +10,16 @@
     "geom:latitude":49.814421,
     "geom:longitude":32.653715,
     "iso:country":"UA",
+    "lbl:bbox":"32.633715,49.794421,32.673715,49.834421",
     "lbl:latitude":49.814421,
     "lbl:longitude":32.653715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.814421,
     "mps:longitude":32.653715,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zarog"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0430\u0440\u0456\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zarozh\u2019ye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":687629,
         "gp:id":929764,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"4888916ec2eefed9d0ea914d032edd0f",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101869585,
-    "wof:lastmodified":1544750366,
+    "wof:lastmodified":1566593442,
     "wof:name":"\u0417\u0430\u0440\u0456\u0433",
     "wof:parent_id":102088739,
     "wof:placetype":"locality",

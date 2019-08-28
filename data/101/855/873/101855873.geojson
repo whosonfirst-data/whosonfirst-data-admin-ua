@@ -10,12 +10,16 @@
     "geom:latitude":44.88565,
     "geom:longitude":34.103666,
     "iso:country":"UA",
+    "lbl:bbox":"34.083666,44.86565,34.123666,44.90565",
     "lbl:latitude":44.88565,
     "lbl:longitude":34.103666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.88565,
     "mps:longitude":34.103666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zalesye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         85688855,
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":6982932,
         "gp:id":12518423,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"5b1e9f8fd3b123005aa8954683267375",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101855873,
-    "wof:lastmodified":1544743115,
+    "wof:lastmodified":1566593744,
     "wof:name":"\u0417\u0430\u043b\u0456\u0441\u0441\u044f",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

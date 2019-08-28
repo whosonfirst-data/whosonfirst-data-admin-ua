@@ -9,15 +9,18 @@
     "geom:bbox":"38.93715,48.13954,38.93715,48.13954",
     "geom:latitude":48.13954,
     "geom:longitude":38.93715,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":90005,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":90005,
     "iso:country":"UA",
+    "lbl:bbox":"38.91715,48.11954,38.95715,48.15954",
     "lbl:latitude":48.13954,
     "lbl:longitude":38.93715,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Krasnyy Luch"
@@ -31,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041b\u0443\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krassntjlutsch"
     ],
     "qs_pg:aaroncc":"UA",
@@ -53,7 +56,7 @@
     "qs_pg:woe_adm0":23424976,
     "qs_pg:woe_id":924253,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424976,
     "woe:name_adm0":"Ukraine",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126019171,
-    "wof:lastmodified":1509407108,
+    "wof:lastmodified":1566593935,
     "wof:name":"Krasnyy Luch",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

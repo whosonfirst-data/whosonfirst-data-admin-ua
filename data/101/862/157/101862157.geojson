@@ -12,12 +12,16 @@
     "gn:elevation":228,
     "gn:population":1508,
     "iso:country":"UA",
+    "lbl:bbox":"24.282522,49.80282,24.322522,49.84282",
     "lbl:latitude":49.82282,
     "lbl:longitude":24.302522,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.82282,
     "mps:longitude":24.302522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Verkhnyaya Belka"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u0411\u0456\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnya Bilka"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":689854,
         "gp:id":924943,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q955472"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101862157,
-    "wof:lastmodified":1563303340,
+    "wof:lastmodified":1566593669,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u0411\u0456\u043b\u043a\u0430",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

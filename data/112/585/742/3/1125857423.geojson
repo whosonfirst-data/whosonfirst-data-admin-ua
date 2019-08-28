@@ -9,15 +9,18 @@
     "geom:bbox":"37.34744,50.16042,37.34744,50.16042",
     "geom:latitude":50.16042,
     "geom:longitude":37.34744,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2499,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":2499,
     "iso:country":"UA",
+    "lbl:bbox":"37.32744,50.14042,37.36744,50.18042",
     "lbl:latitude":50.16042,
     "lbl:longitude":37.34744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Prykolotne"
@@ -31,9 +34,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043a\u043e\u043b\u043e\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Prykolotne"
-    ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
     "qs_pg:gn_fcode":"PPL",
@@ -46,7 +46,7 @@
     "qs_pg:qs_id":275467,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1125857423,
-    "wof:lastmodified":1509396322,
+    "wof:lastmodified":1566593959,
     "wof:name":"Prikolotnoye",
     "wof:parent_id":102088975,
     "wof:placetype":"locality",

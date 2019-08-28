@@ -9,15 +9,18 @@
     "geom:bbox":"26.82125,50.11947,26.82125,50.11947",
     "geom:latitude":50.11947,
     "geom:longitude":26.82125,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17758,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":17758,
     "iso:country":"UA",
+    "lbl:bbox":"26.80125,50.09947,26.84125,50.13947",
     "lbl:latitude":50.11947,
     "lbl:longitude":26.82125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u06cc\u0627\u0633\u0644\u0627\u0641\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
@@ -124,7 +127,7 @@
     "name:ukr_x_variant":[
         "\u0406\u0437\u044f\u0441\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Izyaslavl\u2019"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +148,7 @@
     "qs_pg:qs_id":128688,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1125864607,
-    "wof:lastmodified":1563303824,
+    "wof:lastmodified":1566593906,
     "wof:name":"Izyaslav",
     "wof:parent_id":102088547,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.311784,
     "geom:longitude":23.946826,
     "iso:country":"UA",
+    "lbl:bbox":"23.926826,48.291784,23.966826,48.331784",
     "lbl:latitude":48.311784,
     "lbl:longitude":23.946826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.311784,
     "mps:longitude":23.946826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "K\u00f6nigsf\u00f6\u00fcd"
     ],
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0427\u043e\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6nigsfeld"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         102191581,
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":690610,
         "gp:id":919346,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q264781",
         "wk:page":"Ust-Chorna"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":101859599,
-    "wof:lastmodified":1563302345,
+    "wof:lastmodified":1566593231,
     "wof:name":"\u0423\u0441\u0442\u044c-\u0427\u043e\u0440\u043d\u0430",
     "wof:parent_id":102088039,
     "wof:placetype":"locality",

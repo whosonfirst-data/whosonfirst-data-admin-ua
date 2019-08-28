@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1595982.850296,
+    "geom:area_square_m":1595982.850297,
     "geom:bbox":"23.8092757561,49.2363483472,23.8274959477,49.25337",
     "geom:latitude":49.24463,
     "geom:longitude":23.817302,
     "iso:country":"UA",
     "lbl:latitude":49.243377,
     "lbl:longitude":23.816218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.243377,
     "mps:longitude":23.816218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0413\u0440\u0430\u0431\u0430\u0432\u0435\u0446"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0431\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hrabovets\u2019"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +56,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":708232,
         "gp:id":12518443,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"892038b727ccd4ceb46253c63765dfe7",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101876659,
-    "wof:lastmodified":1527714912,
+    "wof:lastmodified":1566593592,
     "wof:name":"\u0413\u0440\u0430\u0431\u043e\u0432\u0435\u0446\u044c",
     "wof:parent_id":102088221,
     "wof:placetype":"locality",

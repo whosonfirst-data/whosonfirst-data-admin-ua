@@ -11,12 +11,16 @@
     "geom:longitude":36.032305,
     "gn:population":6742,
     "iso:country":"UA",
+    "lbl:bbox":"36.012305,49.864356,36.052305,49.904356",
     "lbl:latitude":49.884356,
     "lbl:longitude":36.032305,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.884356,
     "mps:longitude":36.032305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Budy"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Budi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":711268,
         "gp:id":917754,
-        "qs:id":256089,
+        "qs_pg:id":256089,
         "wd:id":"Q18210491"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101871695,
-    "wof:lastmodified":1544751215,
+    "wof:lastmodified":1566593640,
     "wof:name":"\u0411\u0443\u0434\u0438",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

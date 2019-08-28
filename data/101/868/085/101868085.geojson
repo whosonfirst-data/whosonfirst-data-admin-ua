@@ -10,12 +10,16 @@
     "geom:latitude":48.48878,
     "geom:longitude":37.758115,
     "iso:country":"UA",
+    "lbl:bbox":"37.738115,48.46878,37.778115,48.50878",
     "lbl:latitude":48.48878,
     "lbl:longitude":37.758115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.48878,
     "mps:longitude":37.758115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Iwanopillja"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e\u043f\u0456\u043b\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ivanopillya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":707464,
         "gp:id":923431,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4196804"
     },
     "wof:country":"UA",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101868085,
-    "wof:lastmodified":1561776931,
+    "wof:lastmodified":1566593343,
     "wof:name":"\u0406\u0432\u0430\u043d\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":1108815753,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.627785,
     "geom:longitude":24.234229,
     "iso:country":"UA",
+    "lbl:bbox":"24.214229,49.607785,24.254229,49.647785",
     "lbl:latitude":49.627785,
     "lbl:longitude":24.234229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.627785,
     "mps:longitude":24.234229,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u0413\u043b\u0435\u0431\u043e\u0432\u0438\u0447\u0438"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u0413\u043b\u0456\u0431\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khlebovitse Vel\u2019ki"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":690173,
         "gp:id":917051,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"af0a95f88864197739cec2a7dc47de42",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101862067,
-    "wof:lastmodified":1544746293,
+    "wof:lastmodified":1566593707,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0456 \u0413\u043b\u0456\u0431\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088335,
     "wof:placetype":"locality",

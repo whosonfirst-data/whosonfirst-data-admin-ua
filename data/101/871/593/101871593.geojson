@@ -10,12 +10,16 @@
     "geom:latitude":50.944248,
     "geom:longitude":34.60616,
     "iso:country":"UA",
+    "lbl:bbox":"34.58616,50.924248,34.62616,50.964248",
     "lbl:latitude":50.944248,
     "lbl:longitude":34.60616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.944248,
     "mps:longitude":34.60616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stepaniwka"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_variant":[
         "Stepanivka"
     ],
-    "name:unk_x_variant":[
-        "Stepanovka"
-    ],
     "name:zho_x_preferred":[
         "\u65af\u6377\u5e15\u5c3c\u592b\u5361"
     ],
@@ -66,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":230,
     "wof:belongsto":[
         102191581,
@@ -78,9 +79,11 @@
     "wof:concordances":{
         "gn:id":692604,
         "gp:id":12518444,
-        "qs:id":1,
-        "qs_pg:id":82768,
+        "qs_pg:id":1,
         "wd:id":"Q4441911"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":82768
     },
     "wof:country":"UA",
     "wof:geomhash":"0f05e3e33d514ce352cc0a621fa139a9",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101871593,
-    "wof:lastmodified":1563303236,
+    "wof:lastmodified":1566593626,
     "wof:name":"\u0421\u0442\u0435\u043f\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088997,
     "wof:placetype":"locality",

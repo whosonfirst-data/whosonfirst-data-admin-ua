@@ -11,12 +11,16 @@
     "geom:longitude":32.344755,
     "gn:population":8053,
     "iso:country":"UA",
+    "lbl:bbox":"32.324755,49.639084,32.364755,49.679084",
     "lbl:latitude":49.659084,
     "lbl:longitude":32.344755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.659084,
     "mps:longitude":32.344755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u043d\u0430\u0431\u0430\u0439"
     ],
@@ -56,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043d\u043e\u0431\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernobay"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":710716,
         "gp:id":918250,
-        "qs:id":1028617,
+        "qs_pg:id":1028617,
         "wd:id":"Q2011669"
     },
     "wof:country":"UA",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101870745,
-    "wof:lastmodified":1563303130,
+    "wof:lastmodified":1566593567,
     "wof:name":"\u0427\u043e\u0440\u043d\u043e\u0431\u0430\u0439",
     "wof:parent_id":102088669,
     "wof:placetype":"locality",

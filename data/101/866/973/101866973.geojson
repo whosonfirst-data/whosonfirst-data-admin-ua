@@ -10,12 +10,16 @@
     "geom:latitude":46.899691,
     "geom:longitude":36.621581,
     "iso:country":"UA",
+    "lbl:bbox":"36.601581,46.879691,36.641581,46.919691",
     "lbl:latitude":46.899691,
     "lbl:longitude":36.621581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.899691,
     "mps:longitude":36.621581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u0440\u043e\u0432\u043e"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Androvka"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":713391,
         "gp:id":915822,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4065996"
     },
     "wof:country":"UA",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101866973,
-    "wof:lastmodified":1561776920,
+    "wof:lastmodified":1566593285,
     "wof:name":"\u0410\u043d\u0434\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815641,
     "wof:placetype":"locality",

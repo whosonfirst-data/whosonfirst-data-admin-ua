@@ -11,12 +11,16 @@
     "geom:longitude":36.382988,
     "gn:population":2981,
     "iso:country":"UA",
+    "lbl:bbox":"36.362988,49.960503,36.402988,50.000503",
     "lbl:latitude":49.980503,
     "lbl:longitude":36.382988,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.980503,
     "mps:longitude":36.382988,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kulynychi"
     ],
@@ -29,7 +33,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u0438\u043d\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kulinichi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":703706,
         "gp:id":922137,
-        "qs:id":128580
+        "qs_pg:id":128580
     },
     "wof:country":"UA",
     "wof:geomhash":"8d22d10722bff7fc56603f03e13c27a0",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101871709,
-    "wof:lastmodified":1544751222,
+    "wof:lastmodified":1566593629,
     "wof:name":"\u041a\u0443\u043b\u0438\u043d\u0438\u0447\u0456",
     "wof:parent_id":1108730667,
     "wof:placetype":"locality",

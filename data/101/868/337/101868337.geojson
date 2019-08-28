@@ -10,19 +10,23 @@
     "geom:latitude":49.829869,
     "geom:longitude":28.622641,
     "iso:country":"UA",
+    "lbl:bbox":"28.602641,49.809869,28.642641,49.849869",
     "lbl:latitude":49.829869,
     "lbl:longitude":28.622641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.829869,
     "mps:longitude":28.622641,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Khazhyn"
     ],
     "name:ukr_x_variant":[
         "\u0425\u0430\u0436\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chasin"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":706450,
         "gp:id":917604,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"ba2812b63049edb80f639347b50dad03",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101868337,
-    "wof:lastmodified":1544749678,
+    "wof:lastmodified":1566593335,
     "wof:name":"\u0425\u0430\u0436\u0438\u043d",
     "wof:parent_id":1108815761,
     "wof:placetype":"locality",

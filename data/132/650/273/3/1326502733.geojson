@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kiev",
     "iso:country":"UA",
+    "lbl:bbox":"23.47819,49.48564,23.51819,49.52564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0443\u043a\u0430"
     ],
@@ -102,8 +106,7 @@
         "\u041b\u0443\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Lonka",
-        "Luka"
+        "Lonka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1326502733,
-    "wof:lastmodified":1564194121,
+    "wof:lastmodified":1566591154,
     "wof:name":"Luka",
     "wof:parent_id":1108815683,
     "wof:placetype":"locality",

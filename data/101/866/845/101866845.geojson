@@ -10,13 +10,17 @@
     "geom:latitude":49.432294,
     "geom:longitude":29.681096,
     "iso:country":"UA",
+    "lbl:bbox":"29.661096,49.412294,29.701096,49.452294",
     "lbl:latitude":49.432294,
     "lbl:longitude":29.681096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.432294,
     "mps:longitude":29.681096,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kashpirovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":706663,
         "gp:id":921982,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"057b7662240b1d232e7464d64278b9a1",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":101866845,
-    "wof:lastmodified":1544748836,
+    "wof:lastmodified":1566593257,
     "wof:name":"\u041a\u0430\u0448\u043f\u0435\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088461,
     "wof:placetype":"locality",

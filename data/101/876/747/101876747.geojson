@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":49.075098,
     "lbl:longitude":27.696138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.075098,
     "mps:longitude":27.696138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631"
     ],
@@ -128,9 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Bar"
-    ],
     "name:vie_x_preferred":[
         "Bar"
     ],
@@ -156,7 +156,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":9098,
     "wof:belongsto":[
@@ -169,7 +169,7 @@
     "wof:concordances":{
         "gn:id":712861,
         "gp:id":916285,
-        "qs:id":1085063,
+        "qs_pg:id":1085063,
         "wd:id":"Q737925",
         "wk:page":"Bar, Vinnytsia Oblast"
     },
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":101876747,
-    "wof:lastmodified":1563303181,
+    "wof:lastmodified":1566593596,
     "wof:name":"\u0411\u0430\u0440",
     "wof:parent_id":102088309,
     "wof:placetype":"locality",

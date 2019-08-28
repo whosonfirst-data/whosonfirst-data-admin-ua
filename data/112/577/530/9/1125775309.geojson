@@ -9,15 +9,18 @@
     "geom:bbox":"31.23488,47.35666,31.23488,47.35666",
     "geom:latitude":47.35666,
     "geom:longitude":31.23488,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6997,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":6997,
     "iso:country":"UA",
+    "lbl:bbox":"31.21488,47.33666,31.25488,47.37666",
     "lbl:latitude":47.35666,
     "lbl:longitude":31.23488,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u064a\u0644\u064a\u0646\u0648\u0641\u064a\u060c \u0645\u064a\u0643\u0648\u0644\u0627\u064a\u064a\u0641\u0633\u0643\u0627"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veselinovo"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":1028365,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125775309,
-    "wof:lastmodified":1563304002,
+    "wof:lastmodified":1566593970,
     "wof:name":"Veselynove",
     "wof:parent_id":102088065,
     "wof:placetype":"locality",

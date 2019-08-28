@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2109300.792947,
+    "geom:area_square_m":2109300.792948,
     "geom:bbox":"26.1310168561,48.5748586211,26.1494409426,48.5932814055",
     "geom:latitude":48.584277,
     "geom:longitude":26.140051,
     "iso:country":"UA",
     "lbl:latitude":48.584596,
     "lbl:longitude":26.139875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.584596,
     "mps:longitude":26.139875,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430",
     "qs:a1_alt":"Chernivets'ka",
@@ -31,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":920458,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
-    "wof:geomhash":"1984db4a9e4131e1401299fb5c0f0a71",
+    "wof:geomhash":"46443c85b569ae4dba5ba1a742a6dbb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101876555,
-    "wof:lastmodified":1479879501,
+    "wof:lastmodified":1566593602,
     "wof:name":"\u041f\u0435\u0440\u0435\u0431\u0438\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088103,
     "wof:placetype":"locality",

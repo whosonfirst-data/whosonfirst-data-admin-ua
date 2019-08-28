@@ -10,12 +10,16 @@
     "geom:latitude":48.854213,
     "geom:longitude":28.723722,
     "iso:country":"UA",
+    "lbl:bbox":"28.703722,48.834213,28.743722,48.874213",
     "lbl:latitude":48.854213,
     "lbl:longitude":28.723722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.854213,
     "mps:longitude":28.723722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041c\u04d9\u0440\u043c\u04d9\u0440 \u043c\u04d9\u043c\u0435\u0440\u0439\u04d9\u04bb\u0435"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u041f\u0435\u0447\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petschara"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":342,
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":697786,
         "gp:id":930301,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"6e7dcfa20854038a0d165eb9e7084cdf",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101867385,
-    "wof:lastmodified":1544749147,
+    "wof:lastmodified":1566593516,
     "wof:name":"\u041f\u0435\u0447\u0435\u0440\u0430",
     "wof:parent_id":102088267,
     "wof:placetype":"locality",

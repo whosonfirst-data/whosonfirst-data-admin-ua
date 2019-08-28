@@ -11,19 +11,23 @@
     "geom:longitude":24.704972,
     "gn:population":3096,
     "iso:country":"UA",
+    "lbl:bbox":"24.684972,48.546146,24.724972,48.586146",
     "lbl:latitude":48.566146,
     "lbl:longitude":24.704972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.566146,
     "mps:longitude":24.704972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnaya"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -45,7 +49,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":704469,
         "gp:id":924980,
-        "qs:id":128608
+        "qs_pg:id":128608
     },
     "wof:country":"UA",
     "wof:geomhash":"9cc1e68840ce746c3894af7bae932533",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101859889,
-    "wof:lastmodified":1544745149,
+    "wof:lastmodified":1566593215,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0430",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

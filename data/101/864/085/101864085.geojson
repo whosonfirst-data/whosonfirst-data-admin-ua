@@ -10,12 +10,16 @@
     "geom:latitude":50.293317,
     "geom:longitude":27.664696,
     "iso:country":"UA",
+    "lbl:bbox":"27.644696,50.273317,27.684696,50.313317",
     "lbl:latitude":50.293317,
     "lbl:longitude":27.664696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.293317,
     "mps:longitude":27.664696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0646\u064a\u0641\u0643\u0627"
     ],
@@ -91,7 +95,7 @@
     "name:ukr_x_variant":[
         "Baranivka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baranowka"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +126,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":712829,
         "gp:id":916312,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q148917",
         "wk:page":"Baranivka (city)"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":101864085,
-    "wof:lastmodified":1563303536,
+    "wof:lastmodified":1566593755,
     "wof:name":"\u0411\u0430\u0440\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088619,
     "wof:placetype":"locality",

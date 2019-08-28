@@ -10,12 +10,16 @@
     "geom:latitude":45.768703,
     "geom:longitude":34.250398,
     "iso:country":"UA",
+    "lbl:bbox":"34.230398,45.748703,34.270398,45.788703",
     "lbl:latitude":45.768703,
     "lbl:longitude":34.250398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.768703,
     "mps:longitude":34.250398,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lobanovo"
     ],
@@ -52,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":702892,
         "gp:id":919507,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"ebbb78b4aa6eda9ca87f0e84b651548b",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101858797,
-    "wof:lastmodified":1544744587,
+    "wof:lastmodified":1566593478,
     "wof:name":"\u041b\u043e\u0431\u0430\u043d\u043e\u0432\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

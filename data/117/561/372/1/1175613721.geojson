@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.059758,
     "lbl:longitude":33.636035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Poltavska",
     "meso:admin_1":"\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "meso:gadm_admin":"Komsomol's'ka",
@@ -34,6 +36,7 @@
     "mps:longitude":33.636035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Komsomol's'ka"
     ],
@@ -41,7 +44,7 @@
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1175613721,
-    "wof:lastmodified":1555047748,
+    "wof:lastmodified":1566592899,
     "wof:name":"Komsomolska",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

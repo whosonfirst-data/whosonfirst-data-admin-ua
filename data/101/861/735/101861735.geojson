@@ -11,12 +11,16 @@
     "geom:longitude":25.334627,
     "gn:population":2343,
     "iso:country":"UA",
+    "lbl:bbox":"25.314627,48.881824,25.354627,48.921824",
     "lbl:latitude":48.901824,
     "lbl:longitude":25.334627,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.901824,
     "mps:longitude":25.334627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0417\u0430\u043b\u0430\u0442\u044b \u041f\u0430\u0446\u0456\u043a"
     ],
@@ -59,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0442\u0438\u0439 \u041f\u043e\u0442\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Potok"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":212,
     "wof:belongsto":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":686863,
         "gp:id":938779,
-        "qs:id":275402,
+        "qs_pg:id":275402,
         "wd:id":"Q2602963",
         "wk:page":"Zolotyi Potik"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":101861735,
-    "wof:lastmodified":1563302544,
+    "wof:lastmodified":1566593313,
     "wof:name":"\u0417\u043e\u043b\u043e\u0442\u0438\u0439 \u041f\u043e\u0442\u0456\u043a",
     "wof:parent_id":102088225,
     "wof:placetype":"locality",

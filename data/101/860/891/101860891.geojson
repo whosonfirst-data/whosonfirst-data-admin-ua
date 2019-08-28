@@ -10,12 +10,16 @@
     "geom:latitude":49.03735,
     "geom:longitude":23.964371,
     "iso:country":"UA",
+    "lbl:bbox":"23.944371,49.01735,23.984371,49.05735",
     "lbl:latitude":49.03735,
     "lbl:longitude":23.964371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.03735,
     "mps:longitude":23.964371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Solukiw"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u043b\u0443\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Solukov"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":8322887,
         "gp:id":919099,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4428518"
     },
     "wof:country":"UA",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101860891,
-    "wof:lastmodified":1563302913,
+    "wof:lastmodified":1566593471,
     "wof:name":"\u0421\u043e\u043b\u0443\u043a\u0456\u0432",
     "wof:parent_id":1108815659,
     "wof:placetype":"locality",

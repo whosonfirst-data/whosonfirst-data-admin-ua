@@ -11,12 +11,16 @@
     "geom:longitude":35.921374,
     "gn:population":22545,
     "iso:country":"UA",
+    "lbl:bbox":"35.901374,49.920696,35.941374,49.960696",
     "lbl:latitude":49.940696,
     "lbl:longitude":35.921374,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.940696,
     "mps:longitude":35.921374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
     ],
@@ -95,7 +99,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyobotin"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +127,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
     "wof:belongsto":[
@@ -136,7 +140,7 @@
     "wof:concordances":{
         "gn:id":702417,
         "gp:id":925882,
-        "qs:id":266819,
+        "qs_pg:id":266819,
         "wd:id":"Q889542",
         "wk:page":"Liubotyn"
     },
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":101871707,
-    "wof:lastmodified":1563303245,
+    "wof:lastmodified":1566593630,
     "wof:name":"\u041b\u044e\u0431\u043e\u0442\u0438\u043d",
     "wof:parent_id":1108730657,
     "wof:placetype":"locality",

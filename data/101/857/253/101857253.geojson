@@ -10,12 +10,16 @@
     "geom:latitude":45.044175,
     "geom:longitude":35.134263,
     "iso:country":"UA",
+    "lbl:bbox":"35.114263,45.024175,35.154263,45.064175",
     "lbl:latitude":45.044175,
     "lbl:longitude":35.134263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.044175,
     "mps:longitude":35.134263,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Izyumovka"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":707291,
         "gp:id":934996,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"UA",
     "wof:geomhash":"666564261d46ab8fe9f5b414ed0871a0",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857253,
-    "wof:lastmodified":1544743800,
+    "wof:lastmodified":1566593395,
     "wof:name":"\u0406\u0437\u044e\u043c\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108738551,
     "wof:placetype":"locality",

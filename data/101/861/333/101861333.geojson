@@ -9,14 +9,18 @@
     "geom:bbox":"24.802406,48.761682,24.802406,48.761682",
     "geom:latitude":48.761682,
     "geom:longitude":24.802406,
-    "geonames:id":"689032,689033",
+    "gn:id":"689032,689033",
     "iso:country":"UA",
+    "lbl:bbox":"24.782406,48.741682,24.822406,48.781682",
     "lbl:latitude":48.761682,
     "lbl:longitude":24.802406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.761682,
     "mps:longitude":24.802406,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Plasticine Crow"
     ],
@@ -49,7 +53,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":462,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101861333,
-    "wof:lastmodified":1563302548,
+    "wof:lastmodified":1566593314,
     "wof:name":"\u0412\u043e\u0440\u043e\u043d\u0430",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",

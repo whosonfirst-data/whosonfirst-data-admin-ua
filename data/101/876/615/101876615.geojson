@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2112745.941535,
+    "geom:area_square_m":2112745.941536,
     "geom:bbox":"26.1407749724,48.5624154332,26.1591991372,48.580838376",
     "geom:latitude":48.571412,
     "geom:longitude":26.150155,
     "iso:country":"UA",
     "lbl:latitude":48.571101,
     "lbl:longitude":26.150331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.571101,
     "mps:longitude":26.150331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Olchowiec"
     ],
     "name:pol_x_preferred":[
         "Olchowiec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vol\u2019khovets"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
     "wof:concordances":{
         "gn:id":698558,
         "gp:id":920458,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"cfe8ff76b2fdb0ed0b6199fc63162cff",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101876615,
-    "wof:lastmodified":1527714917,
+    "wof:lastmodified":1566593610,
     "wof:name":"\u0412\u0456\u043b\u044c\u0445\u043e\u0432\u0435\u0446\u044c",
     "wof:parent_id":102088181,
     "wof:placetype":"locality",

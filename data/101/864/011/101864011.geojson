@@ -10,12 +10,16 @@
     "geom:latitude":50.102264,
     "geom:longitude":23.434036,
     "iso:country":"UA",
+    "lbl:bbox":"23.414036,50.082264,23.454036,50.122264",
     "lbl:latitude":50.102264,
     "lbl:longitude":23.434036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.102264,
     "mps:longitude":23.434036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041d\u044d\u043c\u044b\u0440\u044b\u045e"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_variant":[
         "Nemyriv"
     ],
-    "name:unk_x_variant":[
-        "Niemir\u00f3w"
-    ],
     "name:zho_x_preferred":[
         "\u6d85\u7c73\u91cc\u592b"
     ],
@@ -83,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.103889,
     "wd:longitude":23.434444,
     "wd:wordcount":652,
@@ -97,7 +98,7 @@
     "wof:concordances":{
         "gn:id":700321,
         "gp:id":515232,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1977281",
         "wk:page":"Nemyriv, Lviv Oblast"
     },
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":101864011,
-    "wof:lastmodified":1563303568,
+    "wof:lastmodified":1566593768,
     "wof:name":"\u041d\u0435\u043c\u0438\u0440\u0456\u0432",
     "wof:parent_id":102088411,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":33.449254,
     "gn:population":4298,
     "iso:country":"UA",
+    "lbl:bbox":"33.429254,48.878321,33.469254,48.918321",
     "lbl:latitude":48.898321,
     "lbl:longitude":33.449254,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.898321,
     "mps:longitude":33.449254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Onufriyivka"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0443\u0444\u0440\u0456\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Onufriyevka"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":698479,
         "gp:id":929647,
-        "qs:id":128396,
+        "qs_pg:id":128396,
         "wd:id":"Q1999932"
     },
     "wof:country":"UA",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":101868271,
-    "wof:lastmodified":1563302670,
+    "wof:lastmodified":1566593367,
     "wof:name":"\u041e\u043d\u0443\u0444\u0440\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088533,
     "wof:placetype":"locality",

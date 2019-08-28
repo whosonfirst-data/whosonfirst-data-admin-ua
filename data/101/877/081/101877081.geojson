@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1844322.119559,
+    "geom:area_square_m":1844322.119561,
     "geom:bbox":"36.4050455676,50.1099230431,36.4243603666,50.1255402355",
     "geom:latitude":50.117864,
     "geom:longitude":36.41442,
     "iso:country":"UA",
     "lbl:latitude":50.11715,
     "lbl:longitude":36.414236,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.11715,
     "mps:longitude":36.414236,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cherkasskiye Tishki"
     ],
@@ -24,7 +28,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0456 \u0422\u0438\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cherkasskiye Tishhi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -43,7 +47,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":710796,
         "gp:id":918175,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"UA",
     "wof:geomhash":"db3fc3b2fbd7da95008063ad4cab5f32",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":101877081,
-    "wof:lastmodified":1501215704,
+    "wof:lastmodified":1566593573,
     "wof:name":"\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0456 \u0422\u0438\u0448\u043a\u0438",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

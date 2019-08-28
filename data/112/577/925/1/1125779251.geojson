@@ -9,15 +9,18 @@
     "geom:bbox":"35.85835,49.97982,35.85835,49.97982",
     "geom:latitude":49.97982,
     "geom:longitude":35.85835,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1147,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":1147,
     "iso:country":"UA",
+    "lbl:bbox":"35.83835,49.95982,35.87835,49.99982",
     "lbl:latitude":49.97982,
     "lbl:longitude":35.85835,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Manchenky"
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0447\u0435\u043d\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khutor Manchenkov"
     ],
     "qs_pg:aaroncc":"UA",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":128490,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125779251,
-    "wof:lastmodified":1509391453,
+    "wof:lastmodified":1566593969,
     "wof:name":"Manchenky",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

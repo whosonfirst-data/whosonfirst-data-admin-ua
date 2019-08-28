@@ -11,12 +11,16 @@
     "geom:longitude":25.604821,
     "gn:population":1013,
     "iso:country":"UA",
+    "lbl:bbox":"25.584821,48.792054,25.624821,48.832054",
     "lbl:latitude":48.812054,
     "lbl:longitude":25.604821,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":48.812054,
     "mps:longitude":25.604821,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:pol_x_preferred":[
         "Nyrk\u00f3w"
     ],
@@ -26,7 +30,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0440\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyrkuv"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":698837,
         "gp:id":936155,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"UA",
     "wof:geomhash":"b1c9f15b50fcfd06132e3d1a61570a65",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":101861495,
-    "wof:lastmodified":1544745993,
+    "wof:lastmodified":1566593324,
     "wof:name":"\u041d\u0438\u0440\u043a\u0456\u0432",
     "wof:parent_id":102088159,
     "wof:placetype":"locality",

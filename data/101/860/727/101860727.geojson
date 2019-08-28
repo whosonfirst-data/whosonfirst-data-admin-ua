@@ -11,12 +11,16 @@
     "geom:longitude":25.844118,
     "gn:population":8536,
     "iso:country":"UA",
+    "lbl:bbox":"25.824118,48.501451,25.864118,48.541451",
     "lbl:latitude":48.521451,
     "lbl:longitude":25.844118,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.521451,
     "mps:longitude":25.844118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0633\u062a\u0627\u0641\u0646\u0627"
     ],
@@ -83,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0441\u0442\u0430\u0432\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zastavka"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":687578,
         "gp:id":939757,
-        "qs:id":421978,
+        "qs_pg:id":421978,
         "wd:id":"Q149035",
         "wk:page":"Zastavna"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":101860727,
-    "wof:lastmodified":1563302928,
+    "wof:lastmodified":1566593478,
     "wof:name":"\u0417\u0430\u0441\u0442\u0430\u0432\u043d\u0430",
     "wof:parent_id":102088111,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.542222,
     "geom:longitude":23.022342,
     "iso:country":"UA",
+    "lbl:bbox":"23.002342,49.522222,23.042342,49.562222",
     "lbl:latitude":49.542222,
     "lbl:longitude":23.022342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.542222,
     "mps:longitude":23.022342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sussidowytschi"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0443\u0441\u0456\u0434\u043e\u0432\u0438\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Susidovichi"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":693111,
         "gp:id":924943,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q4429436"
     },
     "wof:country":"UA",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101861189,
-    "wof:lastmodified":1561776924,
+    "wof:lastmodified":1566593306,
     "wof:name":"\u0421\u0443\u0441\u0456\u0434\u043e\u0432\u0438\u0447\u0456",
     "wof:parent_id":102088273,
     "wof:placetype":"locality",

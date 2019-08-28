@@ -10,12 +10,16 @@
     "geom:latitude":48.262915,
     "geom:longitude":25.692163,
     "iso:country":"UA",
+    "lbl:bbox":"25.672163,48.242915,25.712163,48.282915",
     "lbl:latitude":48.262915,
     "lbl:longitude":25.692163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.262915,
     "mps:longitude":25.692163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bobivtsi"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u0456\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bobeshti"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":712022,
         "gp:id":939892,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4088614"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101859509,
-    "wof:lastmodified":1561776911,
+    "wof:lastmodified":1566593233,
     "wof:name":"\u0411\u043e\u0431\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088037,
     "wof:placetype":"locality",

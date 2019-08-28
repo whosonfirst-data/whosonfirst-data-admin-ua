@@ -11,12 +11,16 @@
     "geom:longitude":38.625983,
     "gn:population":7532,
     "iso:country":"UA",
+    "lbl:bbox":"38.605983,48.393115,38.645983,48.433115",
     "lbl:latitude":48.413115,
     "lbl:longitude":38.625983,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.413115,
     "mps:longitude":38.625983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0417\u043e\u0440\u044b\u043d\u0441\u043a"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_variant":[
         "Zoryns\u2019k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yel\u00ebnovka"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":686852,
         "gp:id":925482,
-        "qs:id":552525,
+        "qs_pg:id":552525,
         "wd:id":"Q662097",
         "wk:page":"Zorynsk"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":101869525,
-    "wof:lastmodified":1563302841,
+    "wof:lastmodified":1566593444,
     "wof:name":"\u0417\u043e\u0440\u0438\u043d\u0441\u044c\u043a",
     "wof:parent_id":102088715,
     "wof:placetype":"locality",

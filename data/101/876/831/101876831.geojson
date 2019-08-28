@@ -13,10 +13,13 @@
     "iso:country":"UA",
     "lbl:latitude":50.215811,
     "lbl:longitude":24.378566,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.215811,
     "mps:longitude":24.378566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Staryy Dobrotvir"
     ],
@@ -38,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u0414\u043e\u0431\u0440\u043e\u0442\u0432\u0456\u0440"
     ],
-    "name:unk_x_variant":[
-        "Staryy Dobrotvir"
-    ],
     "name:zho_x_preferred":[
         "\u820a\u591a\u5e03\u7f85\u7279\u7dad\u723e"
     ],
@@ -61,7 +61,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +73,7 @@
     "wof:concordances":{
         "gn:id":616196,
         "gp:id":934653,
-        "qs:id":126182,
+        "qs_pg:id":126182,
         "wd:id":"Q4441040"
     },
     "wof:country":"UA",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101876831,
-    "wof:lastmodified":1563303210,
+    "wof:lastmodified":1566593612,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u0414\u043e\u0431\u0440\u043e\u0442\u0432\u0456\u0440",
     "wof:parent_id":102088459,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":49.631829,
     "geom:longitude":23.093006,
     "iso:country":"UA",
+    "lbl:bbox":"23.073006,49.611829,23.113006,49.651829",
     "lbl:latitude":49.631829,
     "lbl:longitude":23.093006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.631829,
     "mps:longitude":23.093006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verhivtsi"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":924943,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q4109139"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101861971,
-    "wof:lastmodified":1563302531,
+    "wof:lastmodified":1566593307,
     "wof:name":"\u0412\u0435\u0440\u0445\u0456\u0432\u0446\u0456",
     "wof:parent_id":1108815683,
     "wof:placetype":"locality",

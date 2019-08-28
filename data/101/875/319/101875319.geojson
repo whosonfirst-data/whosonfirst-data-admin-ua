@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000368,
-    "geom:area_square_m":3215025.067895,
+    "geom:area_square_m":3215025.067892,
     "geom:bbox":"33.9927826532,45.0894773687,34.0179780095,45.1166221298",
     "geom:latitude":45.100051,
     "geom:longitude":34.004554,
     "iso:country":"UA",
     "lbl:latitude":45.099213,
     "lbl:longitude":34.002265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.099213,
     "mps:longitude":34.002265,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sofyevka"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":693342,
         "gp:id":920984,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"3cca992ab6e84d2955fa961352e9002a",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101875319,
-    "wof:lastmodified":1530299588,
+    "wof:lastmodified":1566593205,
     "wof:name":"\u0421\u043e\u0444\u0456\u0457\u0432\u043a\u0430",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

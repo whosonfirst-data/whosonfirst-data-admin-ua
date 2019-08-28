@@ -10,12 +10,16 @@
     "geom:latitude":49.747853,
     "geom:longitude":23.830935,
     "iso:country":"UA",
+    "lbl:bbox":"23.810935,49.727853,23.850935,49.767853",
     "lbl:latitude":49.747853,
     "lbl:longitude":23.830935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.747853,
     "mps:longitude":23.830935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Stawtschany"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0447\u0430\u043d\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Stavchany"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5854\u592b\u6070\u5c3c"
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1195,
     "wof:belongsto":[
         102191581,
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":692682,
         "gp:id":924943,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q4439057"
     },
     "wof:country":"UA",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":101862139,
-    "wof:lastmodified":1563303398,
+    "wof:lastmodified":1566593695,
     "wof:name":"\u0421\u0442\u0430\u0432\u0447\u0430\u043d\u0438",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

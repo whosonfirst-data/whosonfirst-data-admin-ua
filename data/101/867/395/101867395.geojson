@@ -10,12 +10,16 @@
     "geom:latitude":48.381749,
     "geom:longitude":30.464107,
     "iso:country":"UA",
+    "lbl:bbox":"30.444107,48.361749,30.484107,48.401749",
     "lbl:latitude":48.381749,
     "lbl:longitude":30.464107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.381749,
     "mps:longitude":30.464107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0641\u0627\u0646\u064a\u0641\u0633\u0643"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0432\u0430\u043d\u0456\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Golvanevsk"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":708585,
         "gp:id":920189,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2429530"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101867395,
-    "wof:lastmodified":1563303016,
+    "wof:lastmodified":1566593519,
     "wof:name":"\u0413\u043e\u043b\u043e\u0432\u0430\u043d\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":102088275,
     "wof:placetype":"locality",

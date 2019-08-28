@@ -10,12 +10,16 @@
     "geom:latitude":48.452483,
     "geom:longitude":23.655672,
     "iso:country":"UA",
+    "lbl:bbox":"23.635672,48.432483,23.675672,48.472483",
     "lbl:latitude":48.452483,
     "lbl:longitude":23.655672,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.452483,
     "mps:longitude":23.655672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nehrovec"
     ],
@@ -46,7 +50,7 @@
     "name:ukr_x_variant":[
         "\u041d\u0435\u0433\u0440\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Negrovets"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":700361,
         "gp:id":936939,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q714289"
     },
     "wof:country":"UA",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101859775,
-    "wof:lastmodified":1561776913,
+    "wof:lastmodified":1566593243,
     "wof:name":"\u041d\u0435\u0433\u0440\u043e\u0432\u0435\u0446\u044c",
     "wof:parent_id":102088069,
     "wof:placetype":"locality",

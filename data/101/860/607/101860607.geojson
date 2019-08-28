@@ -10,12 +10,16 @@
     "geom:latitude":48.505351,
     "geom:longitude":25.677552,
     "iso:country":"UA",
+    "lbl:bbox":"25.657552,48.485351,25.697552,48.525351",
     "lbl:latitude":48.505351,
     "lbl:longitude":25.677552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.505351,
     "mps:longitude":25.677552,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khotin Uprising"
     ],
@@ -31,7 +35,7 @@
     "name:tur_x_preferred":[
         "Hotin Ayaklanmas\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stavchane"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -53,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1195,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":692684,
         "gp:id":918585,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2266337"
     },
     "wof:country":"UA",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":101860607,
-    "wof:lastmodified":1563302918,
+    "wof:lastmodified":1566593473,
     "wof:name":"\u0421\u0442\u0430\u0432\u0447\u0430\u043d\u0438",
     "wof:parent_id":102088095,
     "wof:placetype":"locality",

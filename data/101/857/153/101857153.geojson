@@ -10,12 +10,16 @@
     "geom:latitude":45.253136,
     "geom:longitude":33.37331,
     "iso:country":"UA",
+    "lbl:bbox":"33.35331,45.233136,33.39331,45.273136",
     "lbl:latitude":45.253136,
     "lbl:longitude":33.37331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.253136,
     "mps:longitude":33.37331,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Suvorovskoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":692134,
         "gp:id":12518490,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"2b1a7de4089078500064900162fad83a",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857153,
-    "wof:lastmodified":1544743748,
+    "wof:lastmodified":1566593390,
     "wof:name":"\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

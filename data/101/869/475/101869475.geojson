@@ -10,12 +10,16 @@
     "geom:latitude":50.220315,
     "geom:longitude":30.105413,
     "iso:country":"UA",
+    "lbl:bbox":"30.085413,50.200315,30.125413,50.240315",
     "lbl:latitude":50.220315,
     "lbl:longitude":30.105413,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.220315,
     "mps:longitude":30.105413,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Plesets'ke"
     ],
@@ -25,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0435\u0441\u0435\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plesetskoye"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":697106,
         "gp:id":930940,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"a7e60bcca7efbab11ac4be06445439af",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":101869475,
-    "wof:lastmodified":1544750316,
+    "wof:lastmodified":1566593430,
     "wof:name":"\u041f\u043b\u0435\u0441\u0435\u0446\u044c\u043a\u0435",
     "wof:parent_id":102088687,
     "wof:placetype":"locality",

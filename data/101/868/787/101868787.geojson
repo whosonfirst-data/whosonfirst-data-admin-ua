@@ -11,12 +11,16 @@
     "geom:longitude":38.780897,
     "gn:population":2983,
     "iso:country":"UA",
+    "lbl:bbox":"38.760897,48.210928,38.800897,48.250928",
     "lbl:latitude":48.230928,
     "lbl:longitude":38.780897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.230928,
     "mps:longitude":38.780897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Krasnyy Kut"
     ],
@@ -44,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041a\u0443\u0442"
     ],
-    "name:unk_x_variant":[
-        "Krasnyy Kut"
-    ],
     "name:zho_x_preferred":[
         "\u514b\u62c9\u65af\u5c3c\u5eab\u7279"
     ],
@@ -69,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +82,7 @@
     "wof:concordances":{
         "gn:id":704207,
         "gp:id":920727,
-        "qs:id":128587,
+        "qs_pg:id":128587,
         "wd:id":"Q4239502"
     },
     "wof:country":"UA",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":101868787,
-    "wof:lastmodified":1563302696,
+    "wof:lastmodified":1566593379,
     "wof:name":"\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041a\u0443\u0442",
     "wof:parent_id":102088695,
     "wof:placetype":"locality",

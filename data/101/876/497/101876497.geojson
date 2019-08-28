@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":2160964.162618,
+    "geom:area_square_m":2160964.162617,
     "geom:bbox":"25.6867541134,48.3075839292,25.7051434397,48.3259738659",
     "geom:latitude":48.316693,
     "geom:longitude":25.695912,
     "iso:country":"UA",
     "lbl:latitude":48.316779,
     "lbl:longitude":25.695737,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.316779,
     "mps:longitude":25.695737,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Drachintsy"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -34,7 +38,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":709636,
         "gp:id":939892,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"UA",
     "wof:geomhash":"ab291a64a9a943b192cf96d2497c8408",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101876497,
-    "wof:lastmodified":1501215673,
+    "wof:lastmodified":1566593589,
     "wof:name":"\u0414\u0440\u0430\u0447\u0438\u043d\u0446\u0456",
     "wof:parent_id":102088095,
     "wof:placetype":"locality",

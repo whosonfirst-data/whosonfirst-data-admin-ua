@@ -10,12 +10,16 @@
     "geom:latitude":51.372301,
     "geom:longitude":32.816274,
     "iso:country":"UA",
+    "lbl:bbox":"32.796274,51.352301,32.836274,51.392301",
     "lbl:latitude":51.372301,
     "lbl:longitude":32.816274,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.372301,
     "mps:longitude":32.816274,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Obmachev"
     ],
@@ -28,7 +32,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0431\u043c\u0430\u0447\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obmachevo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":698809,
         "gp:id":929330,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"5ed9f7f0f49547cbe6a39c110cda053b",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":101871753,
-    "wof:lastmodified":1544751241,
+    "wof:lastmodified":1566593628,
     "wof:name":"\u041e\u0431\u043c\u0430\u0447\u0456\u0432",
     "wof:parent_id":102088979,
     "wof:placetype":"locality",

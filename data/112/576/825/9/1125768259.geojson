@@ -9,15 +9,18 @@
     "geom:bbox":"29.44353,49.96652,29.44353,49.96652",
     "geom:latitude":49.96652,
     "geom:longitude":29.44353,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6109,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":6109,
     "iso:country":"UA",
+    "lbl:bbox":"29.42353,49.94652,29.46353,49.98652",
     "lbl:latitude":49.96652,
     "lbl:longitude":29.44353,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041f\u0430\u043f\u0456\u043b\u044c\u043d\u044f"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0456\u043b\u044c\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poelnja"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":82865,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125768259,
-    "wof:lastmodified":1563303934,
+    "wof:lastmodified":1566593945,
     "wof:name":"Popil'nya",
     "wof:parent_id":102088623,
     "wof:placetype":"locality",

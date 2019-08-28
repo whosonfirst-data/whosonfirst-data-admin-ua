@@ -10,12 +10,16 @@
     "geom:latitude":45.365501,
     "geom:longitude":36.355194,
     "iso:country":"UA",
+    "lbl:bbox":"36.335194,45.345501,36.375194,45.385501",
     "lbl:latitude":45.365501,
     "lbl:longitude":36.355194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.365501,
     "mps:longitude":36.355194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oktyabr'skoye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":179,
     "wof:belongsto":[
         85688855,
@@ -60,7 +64,7 @@
         "fct:id":"0827bb72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":698651,
         "gp:id":929488,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"UA",
     "wof:geomhash":"5ff0436ded47b6587ab3858246d13257",
@@ -87,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744560,
+    "wof:lastmodified":1566593487,
     "wof:name":"\u041e\u043a\u0442\u044f\u0431\u0440\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738639,
     "wof:placetype":"locality",

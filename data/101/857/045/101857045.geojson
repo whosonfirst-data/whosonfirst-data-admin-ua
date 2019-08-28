@@ -10,12 +10,16 @@
     "geom:latitude":44.699251,
     "geom:longitude":33.986037,
     "iso:country":"UA",
+    "lbl:bbox":"33.966037,44.679251,34.006037,44.719251",
     "lbl:latitude":44.699251,
     "lbl:longitude":33.986037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.699251,
     "mps:longitude":33.986037,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhorechye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":689821,
         "gp:id":927726,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"7b10f88b9ff8685c0a0041d3b7c30d89",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101857045,
-    "wof:lastmodified":1544743694,
+    "wof:lastmodified":1566593393,
     "wof:name":"\u0412\u0435\u0440\u0445\u043e\u0440\u0456\u0447\u0447\u044f",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

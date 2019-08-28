@@ -11,12 +11,16 @@
     "geom:longitude":36.539932,
     "gn:population":15825,
     "iso:country":"UA",
+    "lbl:bbox":"36.519932,49.566649,36.559932,49.606649",
     "lbl:latitude":49.586649,
     "lbl:longitude":36.539932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.586649,
     "mps:longitude":36.539932,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ces_x_preferred":[
         "Kalmiuske"
     ],
@@ -83,7 +87,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u043b\u044c\u043c\u0456\u0443\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komsomol\u2019skoye"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +116,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":705183,
         "gp:id":923345,
-        "qs:id":128627,
+        "qs_pg:id":128627,
         "wd:id":"Q1025487"
     },
     "wof:country":"UA",
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":101871653,
-    "wof:lastmodified":1563303318,
+    "wof:lastmodified":1566593660,
     "wof:name":"\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088859,
     "wof:placetype":"locality",

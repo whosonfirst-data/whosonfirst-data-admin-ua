@@ -10,12 +10,16 @@
     "geom:latitude":45.690806,
     "geom:longitude":34.259524,
     "iso:country":"UA",
+    "lbl:bbox":"34.239524,45.670806,34.279524,45.710806",
     "lbl:latitude":45.690806,
     "lbl:longitude":34.259524,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.690806,
     "mps:longitude":34.259524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yarkoye"
     ],
@@ -50,7 +54,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":688449,
         "gp:id":919507,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"UA",
     "wof:geomhash":"b03ea35e663b3554856bbf1ed656d456",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101858779,
-    "wof:lastmodified":1544744577,
+    "wof:lastmodified":1566593488,
     "wof:name":"\u042f\u0440\u043a\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

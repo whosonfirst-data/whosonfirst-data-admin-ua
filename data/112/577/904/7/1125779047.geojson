@@ -9,15 +9,18 @@
     "geom:bbox":"35.41972,46.96971,35.41972,46.96971",
     "geom:latitude":46.96971,
     "geom:longitude":35.41972,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4656,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":4656,
     "iso:country":"UA",
+    "lbl:bbox":"35.39972,46.94971,35.43972,46.98971",
     "lbl:latitude":46.96971,
     "lbl:longitude":35.41972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Terpinnya"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u043f\u0456\u043d\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Terpeniye"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":128248,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125779047,
-    "wof:lastmodified":1563304004,
+    "wof:lastmodified":1566593971,
     "wof:name":"Terpinnya",
     "wof:parent_id":1108815655,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"25.03649,48.53115,25.03649,48.53115",
     "geom:latitude":48.53115,
     "geom:longitude":25.03649,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":61781,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":61781,
     "iso:country":"UA",
+    "lbl:bbox":"25.01649,48.51115,25.05649,48.55115",
     "lbl:latitude":48.53115,
     "lbl:longitude":25.03649,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0644\u0648\u0645\u06cc\u0627"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kholomya"
     ],
     "name:vie_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:qs_id":128630,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1125779599,
-    "wof:lastmodified":1563304003,
+    "wof:lastmodified":1566593971,
     "wof:name":"Kolomyya",
     "wof:parent_id":1108815919,
     "wof:placetype":"locality",

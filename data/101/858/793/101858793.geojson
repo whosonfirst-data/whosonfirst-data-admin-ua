@@ -10,12 +10,16 @@
     "geom:latitude":45.74314,
     "geom:longitude":34.42351,
     "iso:country":"UA",
+    "lbl:bbox":"34.40351,45.72314,34.44351,45.76314",
     "lbl:latitude":45.74314,
     "lbl:longitude":34.42351,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.74314,
     "mps:longitude":34.42351,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Izumrudnoye"
     ],
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":7021003,
         "gp:id":919507,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"UA",
     "wof:geomhash":"9468c81ba0c421cdb91b18a108ca3a85",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101858793,
-    "wof:lastmodified":1544744585,
+    "wof:lastmodified":1566593488,
     "wof:name":"\u0406\u0437\u0443\u043c\u0440\u0443\u0434\u043d\u0435",
     "wof:parent_id":1108738531,
     "wof:placetype":"locality",

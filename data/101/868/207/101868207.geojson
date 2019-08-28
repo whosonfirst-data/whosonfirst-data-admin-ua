@@ -11,12 +11,16 @@
     "geom:longitude":33.921076,
     "gn:population":2382,
     "iso:country":"UA",
+    "lbl:bbox":"33.901076,48.665928,33.941076,48.705928",
     "lbl:latitude":48.685928,
     "lbl:longitude":33.921076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.685928,
     "mps:longitude":33.921076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lykhivka"
     ],
@@ -50,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0445\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Likhovka"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":703079,
         "gp:id":925270,
-        "qs:id":128553,
+        "qs_pg:id":128553,
         "wd:id":"Q378504"
     },
     "wof:country":"UA",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101868207,
-    "wof:lastmodified":1563302678,
+    "wof:lastmodified":1566593370,
     "wof:name":"\u041b\u0438\u0445\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088495,
     "wof:placetype":"locality",

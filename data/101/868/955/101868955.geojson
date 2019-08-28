@@ -10,12 +10,16 @@
     "geom:latitude":48.809825,
     "geom:longitude":38.080149,
     "iso:country":"UA",
+    "lbl:bbox":"38.060149,48.789825,38.100149,48.829825",
     "lbl:latitude":48.809825,
     "lbl:longitude":38.080149,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.809825,
     "mps:longitude":38.080149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Swaniwka"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_variant":[
         "\u0417\u0432\u0430\u043d\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zvonovka"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688779,
         1159339531,
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":101868955,
-    "wof:lastmodified":1561776929,
+    "wof:lastmodified":1566593337,
     "wof:name":"\u0417\u0432\u0430\u043d\u0456\u0432\u043a\u0430",
     "wof:parent_id":1108815983,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":51.271626,
     "geom:longitude":30.010094,
     "iso:country":"UA",
+    "lbl:bbox":"29.990094,51.251626,30.030094,51.291626",
     "lbl:latitude":51.271626,
     "lbl:longitude":30.010094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.271626,
     "mps:longitude":30.010094,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Korogod"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u043e\u0440\u043e\u0433\u043e\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Korogod"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -51,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":101871253,
-    "wof:lastmodified":1544751019,
+    "wof:lastmodified":1566593658,
     "wof:name":"\u041a\u043e\u0440\u043e\u0433\u043e\u0434",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

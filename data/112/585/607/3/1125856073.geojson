@@ -9,15 +9,18 @@
     "geom:bbox":"25.57901,49.53122,25.57901,49.53122",
     "geom:latitude":49.53122,
     "geom:longitude":25.57901,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3033,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":3033,
     "iso:country":"UA",
+    "lbl:bbox":"25.55901,49.51122,25.59901,49.55122",
     "lbl:latitude":49.53122,
     "lbl:longitude":25.57901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Petrikov"
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0438\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
-        "Petrykiv"
-    ],
     "name:zho_x_preferred":[
         "\u4f69\u7279\u91cc\u57fa\u592b"
     ],
@@ -61,7 +61,7 @@
     "qs_pg:qs_id":128361,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125856073,
-    "wof:lastmodified":1563303966,
+    "wof:lastmodified":1566593957,
     "wof:name":"Petrikov",
     "wof:parent_id":1108815697,
     "wof:placetype":"locality",

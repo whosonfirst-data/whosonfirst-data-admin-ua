@@ -10,12 +10,16 @@
     "geom:latitude":48.683253,
     "geom:longitude":32.371131,
     "iso:country":"UA",
+    "lbl:bbox":"32.351131,48.663253,32.391131,48.703253",
     "lbl:latitude":48.683253,
     "lbl:longitude":32.371131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.683253,
     "mps:longitude":32.371131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Trepivka"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u043f\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trepovka"
     ],
     "name:zho_x_preferred":[
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":691326,
         "gp:id":922771,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4462439"
     },
     "wof:country":"UA",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101868173,
-    "wof:lastmodified":1563302633,
+    "wof:lastmodified":1566593351,
     "wof:name":"\u0422\u0440\u0435\u043f\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088479,
     "wof:placetype":"locality",

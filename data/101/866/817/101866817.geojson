@@ -10,12 +10,16 @@
     "geom:latitude":48.937351,
     "geom:longitude":30.891336,
     "iso:country":"UA",
+    "lbl:bbox":"30.871336,48.917351,30.911336,48.957351",
     "lbl:latitude":48.937351,
     "lbl:longitude":30.891336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.937351,
     "mps:longitude":30.891336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041d\u0430\u0432\u0430\u0441\u0435\u043b\u0456\u0446\u0430"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Novoselitsa"
-    ],
     "name:vie_x_preferred":[
         "Novoselytsia"
     ],
@@ -95,7 +96,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -107,7 +108,7 @@
     "wof:concordances":{
         "gn:id":699280,
         "gp:id":922003,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"51375fadf76839d431f45abd7079897e",
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":101866817,
-    "wof:lastmodified":1544748819,
+    "wof:lastmodified":1566593258,
     "wof:name":"\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044f",
     "wof:parent_id":102088415,
     "wof:placetype":"locality",

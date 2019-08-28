@@ -10,12 +10,16 @@
     "geom:latitude":50.871458,
     "geom:longitude":27.800501,
     "iso:country":"UA",
+    "lbl:bbox":"27.780501,50.851458,27.820501,50.891458",
     "lbl:latitude":50.871458,
     "lbl:longitude":27.800501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.871458,
     "mps:longitude":27.800501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u042f\u043c\u0456\u043b\u044c\u0447\u044b\u043d\u044d"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043c\u0456\u043b\u044c\u0447\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Emil\u2019chino"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":688154,
         "gp:id":939195,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2641633",
         "wk:page":"Yemilchyne"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101864307,
-    "wof:lastmodified":1563303518,
+    "wof:lastmodified":1566593748,
     "wof:name":"\u0404\u043c\u0456\u043b\u044c\u0447\u0438\u043d\u0435",
     "wof:parent_id":102088775,
     "wof:placetype":"locality",

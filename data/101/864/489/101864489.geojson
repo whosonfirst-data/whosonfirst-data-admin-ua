@@ -10,19 +10,23 @@
     "geom:latitude":51.558303,
     "geom:longitude":24.581182,
     "iso:country":"UA",
+    "lbl:bbox":"24.561182,51.538303,24.601182,51.578303",
     "lbl:latitude":51.558303,
     "lbl:longitude":24.581182,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.558303,
     "mps:longitude":24.581182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Zamshany"
     ],
     "name:ukr_x_variant":[
         "\u0417\u0430\u043c\u0448\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zamszany"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
@@ -44,7 +48,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":687738,
         "gp:id":932151,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"UA",
     "wof:geomhash":"24b5fa9e69e3baf6c25c434d24de1e32",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":101864489,
-    "wof:lastmodified":1544747554,
+    "wof:lastmodified":1566593769,
     "wof:name":"\u0417\u0430\u043c\u0448\u0430\u043d\u0438",
     "wof:parent_id":102088855,
     "wof:placetype":"locality",

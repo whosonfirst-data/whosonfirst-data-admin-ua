@@ -9,15 +9,18 @@
     "geom:bbox":"34.91504,47.01479,34.91504,47.01479",
     "geom:latitude":47.01479,
     "geom:longitude":34.91504,
-    "gn:gn_country":"UA",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10683,
+    "gn:country":"UA",
+    "gn:fcode":"PPL",
     "gn:population":10683,
     "iso:country":"UA",
+    "lbl:bbox":"34.89504,46.99479,34.93504,47.03479",
     "lbl:latitude":47.01479,
     "lbl:longitude":34.91504,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0412\u044f\u0441\u0451\u043b\u0430\u0435"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ves\u00ebloye"
     ],
     "qs_pg:aaroncc":"UA",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":1028366,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125775319,
-    "wof:lastmodified":1564198027,
+    "wof:lastmodified":1566593971,
     "wof:name":"Vesele",
     "wof:parent_id":102088153,
     "wof:placetype":"locality",
