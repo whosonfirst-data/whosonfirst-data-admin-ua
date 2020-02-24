@@ -324,7 +324,6 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442\u044c",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes",
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -357,6 +356,9 @@
         "wd:id":"Q171852"
     },
     "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c727d17744d04572d5d6600674bf30b0",
     "wof:hierarchy":[
         {
@@ -374,7 +376,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1566591789,
+    "wof:lastmodified":1582349207,
     "wof:name":"Odessa",
     "wof:parent_id":85633805,
     "wof:placetype":"region",
