@@ -1147,8 +1147,9 @@
     "src:geom":"meso",
     "src:geom_alt":[
         "quattroshapes",
-        "whosonfirst",
-        "naturalearth"
+        "meso",
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -1204,6 +1205,13 @@
     },
     "wof:country":"UA",
     "wof:country_alpha3":"UKR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "whosonfirst"
+    ],
     "wof:geomhash":"95f621bc9299109c9748f98daa63162c",
     "wof:hierarchy":[
         {
@@ -1220,7 +1228,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1566591762,
+    "wof:lastmodified":1582349189,
     "wof:name":"Ukraine",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
