@@ -40,6 +40,9 @@
     "name:bak_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a"
     ],
+    "name:bar_x_preferred":[
+        "Donezk"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u043d\u0435\u0446\u043a"
     ],
@@ -115,6 +118,9 @@
     "name:fra_x_preferred":[
         "Donetsk"
     ],
+    "name:fry_x_preferred":[
+        "Donetsk"
+    ],
     "name:glg_x_preferred":[
         "Donetsk"
     ],
@@ -144,6 +150,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0576\u0565\u0581\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054f\u0578\u0576\u0565\u0581\u0584"
     ],
     "name:ile_x_preferred":[
         "Donetsk"
@@ -321,6 +330,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c4a\u0c28\u0c46\u0c38\u0c4d\u0c15\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0442\u0441\u043a"
+    ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e40\u0e19\u0e15\u0e2a\u0e04\u0e4c"
     ],
@@ -372,7 +384,16 @@
     "name:war_x_preferred":[
         "Donetsk"
     ],
+    "name:wuu_x_preferred":[
+        "\u987f\u6d85\u8328\u514b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d4\u10ea\u10d9\u10d8"
+    ],
     "name:yue_x_preferred":[
+        "\u9813\u6d85\u8328\u514b"
+    ],
+    "name:zho_hk_x_preferred":[
         "\u9813\u6d85\u8328\u514b"
     ],
     "name:zho_x_preferred":[
@@ -393,11 +414,11 @@
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688779,
-        1159339531,
         102191581,
         85633805,
         1108730739,
+        1159339531,
+        85688779,
         1108815897
     ],
     "wof:breaches":[],
@@ -444,7 +465,7 @@
         }
     ],
     "wof:id":1125779757,
-    "wof:lastmodified":1566593977,
+    "wof:lastmodified":1587428357,
     "wof:name":"Donets\u2019k",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
