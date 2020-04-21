@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":70.809747,
-    "geom:area_square_m":572330439226.775879,
+    "geom:area_square_m":572330438029.805054,
     "geom:bbox":"22.137164,45.204173,40.229698,52.379386",
     "geom:latitude":49.165092,
     "geom:longitude":31.272048,
@@ -75,6 +75,9 @@
     "name:arg_x_preferred":[
         "Ucra\u00edna"
     ],
+    "name:ary_x_preferred":[
+        "\u0624\u0643\u0631\u0627\u0646\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0643\u0631\u0627\u0646\u064a\u0627"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:bam_x_variant":[
         "Ukrain"
+    ],
+    "name:ban_x_preferred":[
+        "Ukraina"
     ],
     "name:bar_x_preferred":[
         "Ukraine"
@@ -229,11 +235,20 @@
     "name:dan_x_preferred":[
         "Ukraine"
     ],
+    "name:deu_at_x_preferred":[
+        "Ukraine"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Ukraine"
+    ],
     "name:deu_x_preferred":[
         "Ukraine"
     ],
     "name:deu_x_variant":[
         "Ukrajina"
+    ],
+    "name:din_x_preferred":[
+        "Ukraine"
     ],
     "name:diq_x_preferred":[
         "Ukrayna"
@@ -249,6 +264,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Ukraine"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Ukraine"
     ],
     "name:eng_x_preferred":[
         "Ukraine"
@@ -328,6 +349,9 @@
     ],
     "name:gan_x_preferred":[
         "\u70cf\u514b\u862d"
+    ],
+    "name:gcr_x_preferred":[
+        "Oukr\u00e8n"
     ],
     "name:gla_x_preferred":[
         "An Ucr\u00e0in"
@@ -794,6 +818,9 @@
     "name:pol_x_preferred":[
         "Ukraina"
     ],
+    "name:por_br_x_preferred":[
+        "Ucr\u00e2nia"
+    ],
     "name:por_x_colloquial":[
         "Ucrania"
     ],
@@ -906,6 +933,12 @@
     "name:srn_x_preferred":[
         "Ukrainakondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0423\u043a\u0440\u0430\u0458\u0438\u043d\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Ukrajina"
+    ],
     "name:srp_x_preferred":[
         "\u0423\u043a\u0440\u0430\u0458\u0438\u043d\u0430"
     ],
@@ -929,6 +962,9 @@
     ],
     "name:szl_x_preferred":[
         "Ukrajina"
+    ],
+    "name:szy_x_preferred":[
+        "Ukraine"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0b95\u0bcd\u0bb0\u0bc8\u0ba9\u0bcd"
@@ -1086,8 +1122,17 @@
     "name:zha_x_preferred":[
         "Ukraine"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u514b\u5170"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u70cf\u514b\u862d"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Ukrayina"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u514b\u862d"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u514b\u5170"
@@ -1229,7 +1274,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1583797447,
+    "wof:lastmodified":1587428352,
     "wof:name":"Ukraine",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
