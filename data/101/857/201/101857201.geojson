@@ -1,0 +1,114 @@
+{
+  "id": 101857201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.538515,46.171925,29.538515,46.171925",
+    "geom:latitude":46.171925,
+    "geom:longitude":29.538515,
+    "iso:country":"UA",
+    "lbl:bbox":"29.518515,46.151925,29.558515,46.191925",
+    "lbl:latitude":46.171925,
+    "lbl:longitude":29.538515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":46.171925,
+    "mps:longitude":29.538515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Wwedenka"
+    ],
+    "name:eng_x_preferred":[
+        "Vvedenka"
+    ],
+    "name:lav_x_preferred":[
+        "Vvedenka"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0432\u0435\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vvedenka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0432\u0435\u0434\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tamur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u97cb\u5805\u5361"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0430\u0440\u0430\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Sarats'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0432\u0435\u0434\u0435\u043d\u043a\u0430",
+    "qs:loc_alt":"Vvedenka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102087941,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":688806,
+        "gp:id":938589,
+        "qs_pg:id":5,
+        "wd:id":"Q4105602"
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3e65f798dce6b3274e8ab9b9254951a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087941,
+            "locality_id":101857201,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101857201,
+    "wof:lastmodified":1588640593,
+    "wof:name":"\u0412\u0432\u0435\u0434\u0435\u043d\u043a\u0430",
+    "wof:parent_id":102087941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.538515,
+    46.171925,
+    29.538515,
+    46.171925
+],
+  "geometry": {"coordinates":[29.538515,46.171925],"type":"Point"}
+}

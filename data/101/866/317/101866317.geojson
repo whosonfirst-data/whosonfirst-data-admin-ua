@@ -1,0 +1,95 @@
+{
+  "id": 101866317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.738827,47.827051,29.738827,47.827051",
+    "geom:latitude":47.827051,
+    "geom:longitude":29.738827,
+    "iso:country":"UA",
+    "lbl:bbox":"29.718827,47.807051,29.758827,47.847051",
+    "lbl:latitude":47.827051,
+    "lbl:longitude":29.738827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":47.827051,
+    "mps:longitude":29.738827,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:ukr_x_preferred":[
+        "Pasytsely"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0441\u0438\u0446\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Positsely"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0430\u043b\u0442\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Balts'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0430\u0441\u0438\u0446\u0435\u043b\u0438",
+    "qs:loc_alt":"Pasytsely",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102088151,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":697924,
+        "gp:id":936116,
+        "qs_pg:id":9
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"2adf6cfb60f25067282a378581570347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088151,
+            "locality_id":101866317,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101866317,
+    "wof:lastmodified":1588640593,
+    "wof:name":"\u041f\u0430\u0441\u0438\u0446\u0435\u043b\u0438",
+    "wof:parent_id":102088151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.738827,
+    47.827051,
+    29.738827,
+    47.827051
+],
+  "geometry": {"coordinates":[29.738827,47.827051],"type":"Point"}
+}

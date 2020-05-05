@@ -1,0 +1,117 @@
+{
+  "id": 101866369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.139002,48.06278,30.139002,48.06278",
+    "geom:latitude":48.06278,
+    "geom:longitude":30.139002,
+    "iso:country":"UA",
+    "lbl:bbox":"30.119002,48.04278,30.159002,48.08278",
+    "lbl:latitude":48.06278,
+    "lbl:longitude":30.139002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":48.06278,
+    "mps:longitude":30.139002,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Poljanezke"
+    ],
+    "name:eng_x_preferred":[
+        "Polyanets'ke"
+    ],
+    "name:eng_x_variant":[
+        "Polianetske"
+    ],
+    "name:lav_x_preferred":[
+        "Po\u013canecke"
+    ],
+    "name:ron_x_preferred":[
+        "Poleane\u021bke"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Polianets'ke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Polyanetskoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5229\u4e9e\u6d85\u9f4a\u514b"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0421\u0430\u0432\u0440\u0430\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Savrans'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435",
+    "qs:loc_alt":"Polianets'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102088165,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":696607,
+        "gp:id":924355,
+        "qs_pg:id":8,
+        "wd:id":"Q4371479"
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"0eba4ed8d817b04c9d6861956594baae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088165,
+            "locality_id":101866369,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101866369,
+    "wof:lastmodified":1588640592,
+    "wof:name":"\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c\u043a\u0435",
+    "wof:parent_id":102088165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.139002,
+    48.06278,
+    30.139002,
+    48.06278
+],
+  "geometry": {"coordinates":[30.139002,48.06278],"type":"Point"}
+}

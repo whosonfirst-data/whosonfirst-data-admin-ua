@@ -1,0 +1,85 @@
+{
+  "id": 101858591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.050788,46.103769,30.050788,46.103769",
+    "geom:latitude":46.103769,
+    "geom:longitude":30.050788,
+    "iso:country":"UA",
+    "lbl:bbox":"30.030788,46.083769,30.070788,46.123769",
+    "lbl:latitude":46.103769,
+    "lbl:longitude":30.050788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":46.103769,
+    "mps:longitude":30.050788,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u0456\u043b\u0433\u043e\u0440\u043e\u0434-\u0414\u043d\u0456\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bilhorod-Dnistrovs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u0440\u0430\u0437\u043b\u0456\u0457\u0432\u043a\u0430",
+    "qs:loc_alt":"Marazliivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102087951,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":923099,
+        "qs_pg:id":7
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"923d0047b872bf27e6521ec44770474f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087951,
+            "locality_id":101858591,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101858591,
+    "wof:lastmodified":1588640594,
+    "wof:name":"\u041c\u0430\u0440\u0430\u0437\u043b\u0456\u0457\u0432\u043a\u0430",
+    "wof:parent_id":102087951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.050788,
+    46.103769,
+    30.050788,
+    46.103769
+],
+  "geometry": {"coordinates":[30.050788,46.103769],"type":"Point"}
+}

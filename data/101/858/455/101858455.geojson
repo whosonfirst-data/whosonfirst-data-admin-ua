@@ -1,0 +1,98 @@
+{
+  "id": 101858455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.146699,45.893688,30.146699,45.893688",
+    "geom:latitude":45.893688,
+    "geom:longitude":30.146699,
+    "iso:country":"UA",
+    "lbl:bbox":"30.126699,45.873688,30.166699,45.913688",
+    "lbl:latitude":45.893688,
+    "lbl:longitude":30.146699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":45.893688,
+    "mps:longitude":30.146699,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:rus_x_preferred":[
+        "Bazar\u2019yanka"
+    ],
+    "name:ukr_x_preferred":[
+        "Bazar\u201dyanka"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0437\u0430\u0440\u2019\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bazarianca"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0422\u0430\u0442\u0430\u0440\u0431\u0443\u043d\u0430\u0440\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Tatarbunars'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0430\u0437\u0430\u0440'\u044f\u043d\u043a\u0430",
+    "qs:loc_alt":"Bazarianka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102087929,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":712710,
+        "gp:id":936615,
+        "qs_pg:id":3
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"fb023500adf0bcef0c8d9287e1ba3078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087929,
+            "locality_id":101858455,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101858455,
+    "wof:lastmodified":1588640593,
+    "wof:name":"\u0411\u0430\u0437\u0430\u0440'\u044f\u043d\u043a\u0430",
+    "wof:parent_id":102087929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.146699,
+    45.893688,
+    30.146699,
+    45.893688
+],
+  "geometry": {"coordinates":[30.146699,45.893688],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101865403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.987208,46.780881,29.987208,46.780881",
+    "geom:latitude":46.780881,
+    "geom:longitude":29.987208,
+    "gn:population":1720,
+    "iso:country":"UA",
+    "lbl:bbox":"29.967208,46.760881,30.007208,46.800881",
+    "lbl:latitude":46.780881,
+    "lbl:longitude":29.987208,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
+    "mps:latitude":46.780881,
+    "mps:longitude":29.987208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Stepanivka"
+    ],
+    "name:deu_x_preferred":[
+        "Stepaniwka"
+    ],
+    "name:eng_x_preferred":[
+        "Stepanivka"
+    ],
+    "name:lav_x_preferred":[
+        "Stepa\u0146ivka"
+    ],
+    "name:ron_x_preferred":[
+        "Stepanivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u0430\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6377\u5e15\u5c3c\u592b\u5361"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0420\u043e\u0437\u0434\u0456\u043b\u044c\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Rozdil'nians'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0435\u043f\u0430\u043d\u0456\u0432\u043a\u0430",
+    "qs:loc_alt":"Stepanivka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":230,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102087985,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":692604,
+        "gp:id":481009,
+        "qs_pg:id":82768,
+        "wd:id":"Q4441924"
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"669f76af57ab072c6554365f384abcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087985,
+            "locality_id":101865403,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101865403,
+    "wof:lastmodified":1588640597,
+    "wof:name":"\u0421\u0442\u0435\u043f\u0430\u043d\u0456\u0432\u043a\u0430",
+    "wof:parent_id":102087985,
+    "wof:placetype":"locality",
+    "wof:population":1720,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.987208,
+    46.780881,
+    29.987208,
+    46.780881
+],
+  "geometry": {"coordinates":[29.987208,46.780881],"type":"Point"}
+}

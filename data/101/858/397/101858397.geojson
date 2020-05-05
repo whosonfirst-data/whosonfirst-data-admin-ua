@@ -1,0 +1,85 @@
+{
+  "id": 101858397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.667371,45.526011,28.667371,45.526011",
+    "geom:latitude":45.526011,
+    "geom:longitude":28.667371,
+    "iso:country":"UA",
+    "lbl:bbox":"28.647371,45.506011,28.687371,45.546011",
+    "lbl:latitude":45.526011,
+    "lbl:longitude":28.667371,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":45.526011,
+    "mps:longitude":28.667371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u0411\u043e\u043b\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Bolhrads'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0440\u0438\u043d\u0438\u0447\u043d\u0435",
+    "qs:loc_alt":"Krynychne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102087923,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":924382,
+        "qs_pg:id":8
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5dffc9078360dc2b2b7c493436c8f41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102087923,
+            "locality_id":101858397,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101858397,
+    "wof:lastmodified":1588640593,
+    "wof:name":"\u041a\u0440\u0438\u043d\u0438\u0447\u043d\u0435",
+    "wof:parent_id":102087923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.667371,
+    45.526011,
+    28.667371,
+    45.526011
+],
+  "geometry": {"coordinates":[28.667371,45.526011],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85902617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.646762,50.421995,30.646762,50.421995",
+    "geom:latitude":50.421995,
+    "geom:longitude":30.646762,
+    "gn:latitude":50.43333,
+    "gn:longitude":30.65,
+    "iso:country":"UA",
+    "lbl:bbox":"30.641762,50.416995,30.651762,50.426995",
+    "lbl:latitude":50.421995,
+    "lbl:longitude":30.646762,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":50.426468,
+    "mps:longitude":30.656811,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Novaya Darnitsa"
+    ],
+    "qs:gn_adm0_cc":"UA",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":703448,
+    "qs:gn_namadm1":"12",
+    "qs:gn_name":"Novaya Darnitsa",
+    "qs:local_max":11365,
+    "qs:local_sum":11637,
+    "qs:localhoods":3,
+    "qs:name":"Novaya Darnitsa",
+    "qs:name_adm0":"Ukraine",
+    "qs:name_adm1":"Kyyiv Misto",
+    "qs:name_local":"Kiev",
+    "qs:photo_max":26,
+    "qs:photo_sum":115,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424976,
+    "qs:woe_adm1":20070188,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":924938,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        1108730705,
+        101752489,
+        85688801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":699871,
+        "gp:id":928244,
+        "qs_pg:id":1175103
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"90ad699bd91609373099007b7aba5839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1108730705,
+            "locality_id":101752489,
+            "neighbourhood_id":85902617,
+            "region_id":85688801
+        }
+    ],
+    "wof:id":85902617,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1588640591,
+    "wof:name":"Novaya Darnitsa",
+    "wof:parent_id":101752489,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-uk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.646762,
+    50.421995,
+    30.646762,
+    50.421995
+],
+  "geometry": {"coordinates":[30.646762,50.421995],"type":"Point"}
+}
