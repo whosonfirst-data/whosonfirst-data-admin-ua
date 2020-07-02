@@ -1,0 +1,84 @@
+{
+  "id": 101866163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.142145,48.010665,29.142145,48.010665",
+    "geom:latitude":48.010665,
+    "geom:longitude":29.142145,
+    "iso:country":"UA",
+    "lbl:bbox":"29.122145,47.990665,29.162145,48.030665",
+    "lbl:latitude":48.010665,
+    "lbl:longitude":29.142145,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":48.010665,
+    "mps:longitude":29.142145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0434\u0438\u043c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kodyms'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0430\u0431\u0443\u0448\u043d\u0435",
+    "qs:loc_alt":"Labushne",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102088113,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs_pg:id":5
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"7fe4de916c4af2ab1a434550fcb78b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088113,
+            "locality_id":101866163,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101866163,
+    "wof:lastmodified":1588710628,
+    "wof:name":"\u041b\u0430\u0431\u0443\u0448\u043d\u0435",
+    "wof:parent_id":102088113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.142145,
+    48.010665,
+    29.142145,
+    48.010665
+],
+  "geometry": {"coordinates":[29.142145,48.010665],"type":"Point"}
+}

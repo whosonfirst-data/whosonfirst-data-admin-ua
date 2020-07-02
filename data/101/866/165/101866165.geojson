@@ -1,0 +1,127 @@
+{
+  "id": 101866165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.887871,48.035889,28.887871,48.035889",
+    "geom:latitude":48.035889,
+    "geom:longitude":28.887871,
+    "gn:population":4000,
+    "iso:country":"UA",
+    "lbl:bbox":"28.867871,48.015889,28.907871,48.055889",
+    "lbl:latitude":48.035889,
+    "lbl:longitude":28.887871,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
+    "mps:latitude":48.035889,
+    "mps:longitude":28.887871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0647\u0646\u064a\u062a\u0643\u064a\u0641\u060c \u0623\u0648\u062f\u064a\u0633\u0643\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u0627\u0647\u0646\u064a\u062a\u0643\u064a\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "Zagnitkiv"
+    ],
+    "name:deu_x_preferred":[
+        "Sahnitkiw"
+    ],
+    "name:eng_x_preferred":[
+        "Zahnitkiv"
+    ],
+    "name:est_x_preferred":[
+        "Zagnitkiv"
+    ],
+    "name:lav_x_preferred":[
+        "Zah\u0146itkiva"
+    ],
+    "name:ron_x_preferred":[
+        "Zahnitkiv"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043d\u0438\u0442\u043a\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Zagnitko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u683c\u5c3c\u7279\u57fa\u592b"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041a\u043e\u0434\u0438\u043c\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Kodyms'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432",
+    "qs:loc_alt":"Zahnitkiv",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102088113,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":687901,
+        "gp:id":939432,
+        "qs_pg:id":128168,
+        "wd:id":"Q703597"
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"2cc7b84a8724694f3cff6ae289c3453d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088113,
+            "locality_id":101866165,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101866165,
+    "wof:lastmodified":1588710628,
+    "wof:name":"\u0417\u0430\u0433\u043d\u0456\u0442\u043a\u0456\u0432",
+    "wof:parent_id":102088113,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.887871,
+    48.035889,
+    28.887871,
+    48.035889
+],
+  "geometry": {"coordinates":[28.887871,48.035889],"type":"Point"}
+}

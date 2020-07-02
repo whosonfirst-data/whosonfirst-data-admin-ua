@@ -1,0 +1,90 @@
+{
+  "id": 101866211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.301422,47.621881,30.301422,47.621881",
+    "geom:latitude":47.621881,
+    "geom:longitude":30.301422,
+    "iso:country":"UA",
+    "lbl:bbox":"30.281422,47.601881,30.321422,47.641881",
+    "lbl:latitude":47.621881,
+    "lbl:longitude":30.301422,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":47.621881,
+    "mps:longitude":30.301422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Svyato-Troitskoye"
+    ],
+    "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:a1":"*\u041e\u0434\u0435\u0441\u044c\u043a\u0430",
+    "qs:a1_alt":"Odes'ka",
+    "qs:a1r":"0",
+    "qs:a2":"\u041b\u044e\u0431\u0430\u0448\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+    "qs:a2_alt":"Liubashivs'kyi",
+    "qs:adm0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u0435",
+    "qs:loc_alt":"Troits'ke",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl_centroid":"mapshaper",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85633805,
+        102088121,
+        85688877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":691230,
+        "gp:id":936303,
+        "qs_pg:id":4
+    },
+    "wof:country":"UA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3286dfc6f398005436ffc83fc4ecad3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":102088121,
+            "locality_id":101866211,
+            "region_id":85688877
+        }
+    ],
+    "wof:id":101866211,
+    "wof:lastmodified":1588710627,
+    "wof:name":"\u0422\u0440\u043e\u0457\u0446\u044c\u043a\u0435",
+    "wof:parent_id":102088121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.301422,
+    47.621881,
+    30.301422,
+    47.621881
+],
+  "geometry": {"coordinates":[30.301422,47.621881],"type":"Point"}
+}
