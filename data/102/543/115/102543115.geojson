@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.80138889,45.39555556,28.80138889,45.39555556",
+    "geom:bbox":"28.801389,45.395556,28.801389,45.395556",
     "geom:latitude":45.395556,
     "geom:longitude":28.801389,
     "iso:country":"UA",
@@ -21,6 +21,9 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Ismajil"
+    ],
+    "name:eng_x_variant":[
+        "UKOI"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30ba\u30de\u30a4\u30fc\u30eb\u7a7a\u6e2f"
@@ -58,7 +61,7 @@
         "wd:id":"Q6102047"
     },
     "wof:country":"UA",
-    "wof:geomhash":"691cad967d5ac7c3ebe858cd8e8c78cc",
+    "wof:geomhash":"eacc584e90e5099b2e65ec93d8e18833",
     "wof:hierarchy":[
         {
             "campus_id":102543115,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102543115,
-    "wof:lastmodified":1566591310,
+    "wof:lastmodified":1631750801,
     "wof:name":"Izmail Airport",
     "wof:parent_id":85688877,
     "wof:placetype":"campus",
@@ -79,10 +82,10 @@
     ]
 },
   "bbox": [
-    28.80138889,
-    45.39555556,
-    28.80138889,
-    45.39555556
+    28.801389,
+    45.395556,
+    28.801389,
+    45.395556
 ],
-  "geometry": {"coordinates":[28.80138889,45.39555556],"type":"Point"}
+  "geometry": {"coordinates":[28.801389,45.395556],"type":"Point"}
 }
