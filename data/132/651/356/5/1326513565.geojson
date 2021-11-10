@@ -51,13 +51,22 @@
         "Makarov"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e7\u05e8\u05d5\u05d1"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05e7\u05d0\u05e8\u05d5\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0915\u093e\u0930\u094b\u0935"
     ],
     "name:hun_x_preferred":[
         "Makarov"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u056f\u0561\u0580\u0578\u057e"
+    ],
+    "name:ind_x_preferred":[
+        "Makarov"
     ],
     "name:ita_x_preferred":[
         "Makarov"
@@ -74,6 +83,9 @@
     "name:pol_x_preferred":[
         "Makarow"
     ],
+    "name:por_x_preferred":[
+        "Makarov"
+    ],
     "name:ron_x_preferred":[
         "Makarov"
     ],
@@ -85,6 +97,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0440\u043e\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Makarov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +113,7 @@
         "gn:id":811426
     },
     "wof:country":"UA",
-    "wof:geomhash":"57a2d9373ad4faa0521fadab7d7e1938",
+    "wof:geomhash":"441b98d20838d272f88f1053673b0a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1326513565,
-    "wof:lastmodified":1566591118,
+    "wof:lastmodified":1636501729,
     "wof:name":"Makarov",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",
@@ -119,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.48889000000001,
+    39.48889,
     48.69917,
-    39.48889000000001,
+    39.48889,
     48.69917
 ],
-  "geometry": {"coordinates":[39.48889000000001,48.69917],"type":"Point"}
+  "geometry": {"coordinates":[39.48889,48.69917],"type":"Point"}
 }

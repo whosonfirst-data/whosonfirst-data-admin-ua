@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.5982416481,50.5167530653,30.5982416481,50.5167530653",
+    "geom:bbox":"30.598242,50.516753,30.598242,50.516753",
     "geom:latitude":50.516753,
     "geom:longitude":30.598242,
     "iso:country":"UA",
@@ -29,11 +29,17 @@
     "name:bel_x_preferred":[
         "\u0414\u044d\u0441\u043d\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u09b8\u09a8\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Desna"
     ],
     "name:deu_x_preferred":[
         "Desna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ad\u03c3\u03bd\u03b1"
     ],
     "name:eng_x_variant":[
         "Desnianskyi"
@@ -43,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Desna"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0947\u0938\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Desna"
@@ -80,6 +89,9 @@
     "name:ukr_x_variant":[
         "\u0414\u0435\u0441\u043d\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0633\u0646\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Desna"
     ],
@@ -98,7 +110,7 @@
     "wof:concordances":{},
     "wof:country":"UA",
     "wof:created":1491364813,
-    "wof:geomhash":"9a91009d7bedb9282bbebd90c7e430ad",
+    "wof:geomhash":"9102cf627a7e8fb297658da1793aa6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1108945109,
-    "wof:lastmodified":1566592887,
+    "wof:lastmodified":1636501741,
     "wof:name":"Desna",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",
@@ -120,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.59824164814025,
-    50.51675306529998,
-    30.59824164814025,
-    50.51675306529998
+    30.598242,
+    50.516753,
+    30.598242,
+    50.516753
 ],
-  "geometry": {"coordinates":[30.59824164814025,50.51675306529998],"type":"Point"}
+  "geometry": {"coordinates":[30.598242,50.516753],"type":"Point"}
 }

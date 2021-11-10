@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.0988756904,51.3894071646,30.0988756904,51.3894071646",
+    "geom:bbox":"30.098876,51.389407,30.098876,51.389407",
     "geom:latitude":51.389407,
     "geom:longitude":30.098876,
     "iso:country":"UA",
@@ -38,6 +38,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u09b0\u09a8\u09cb\u09ac\u09bf\u09b2"
     ],
     "name:bos_x_preferred":[
         "\u010cernobilj"
@@ -92,6 +95,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05e8\u05e0\u05d5\u05d1\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0930\u094d\u0928\u094b\u092c\u093f\u0932"
     ],
     "name:hrv_x_preferred":[
         "\u010cornobylj"
@@ -328,7 +334,7 @@
     "wof:concordances":{},
     "wof:country":"UA",
     "wof:created":1499130967,
-    "wof:geomhash":"da312ba85c693a51daec8c99c29a0095",
+    "wof:geomhash":"efc7a19e8fbb94186bfe933596aab21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -339,7 +345,7 @@
         }
     ],
     "wof:id":1141908725,
-    "wof:lastmodified":1566594667,
+    "wof:lastmodified":1636501754,
     "wof:name":"Chernobyl",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",
@@ -349,10 +355,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.09887569043752,
-    51.38940716461002,
-    30.09887569043752,
-    51.38940716461002
+    30.098876,
+    51.389407,
+    30.098876,
+    51.389407
 ],
-  "geometry": {"coordinates":[30.09887569043752,51.38940716461002],"type":"Point"}
+  "geometry": {"coordinates":[30.098876,51.389407],"type":"Point"}
 }

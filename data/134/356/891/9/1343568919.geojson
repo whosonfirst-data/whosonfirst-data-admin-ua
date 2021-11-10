@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0987\u0995\u09cb\u09b2\u09c7\u0987\u09ad"
+    ],
     "name:ukr_x_preferred":[
         "Mykolayiv"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:und_x_variant":[
         "Nikolayev"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0626\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +56,7 @@
         "gn:id":8527344
     },
     "wof:country":"UA",
-    "wof:geomhash":"8cbe80e08d21ede994b480545e775469",
+    "wof:geomhash":"c99e5e5ac5c33d587bfbde73161b43f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1343568919,
-    "wof:lastmodified":1566591658,
+    "wof:lastmodified":1636501733,
     "wof:name":"Mykolayiv",
     "wof:parent_id":102088869,
     "wof:placetype":"locality",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.72112000000001,
+    31.72112,
     50.67167,
-    31.72112000000001,
+    31.72112,
     50.67167
 ],
-  "geometry": {"coordinates":[31.72112000000001,50.67167],"type":"Point"}
+  "geometry": {"coordinates":[31.72112,50.67167],"type":"Point"}
 }

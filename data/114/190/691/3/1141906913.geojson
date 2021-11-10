@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.5980561918,49.7217828563,37.5980561918,49.7217828563",
+    "geom:bbox":"37.598056,49.721783,37.598056,49.721783",
     "geom:latitude":49.721783,
     "geom:longitude":37.598056,
     "iso:country":"UA",
@@ -18,6 +18,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09aa\u09be\u09df\u09be\u09a8\u09b8\u09cd\u0995"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c0\u03b9\u03b1\u03bd\u03c3\u03ba"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u092a\u094d\u092f\u093e\u0902\u0938\u094d\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Kupjanszk"
+    ],
+    "name:ind_x_preferred":[
+        "Kupyansk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d4\u30e3\u30f3\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ubf44\uc2a4\ud06c"
+    ],
+    "name:spa_x_preferred":[
+        "Kupyansk"
+    ],
+    "name:tur_x_preferred":[
+        "Kupyansk"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u067e\u0627\u06cc\u0646\u0633\u06a9"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
     "ne:ADM0_A3":"UKR",
@@ -124,7 +154,7 @@
     "wof:concordances":{},
     "wof:country":"UA",
     "wof:created":1499130655,
-    "wof:geomhash":"2bacf541ccf7b4d2181d445fb5422c78",
+    "wof:geomhash":"62bd17c57efcd31416d2e0696d5edd63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +165,7 @@
         }
     ],
     "wof:id":1141906913,
-    "wof:lastmodified":1566594667,
+    "wof:lastmodified":1636501754,
     "wof:name":"Kupyansk",
     "wof:parent_id":1108730661,
     "wof:placetype":"locality",
@@ -145,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.59805619176956,
-    49.72178285633515,
-    37.59805619176956,
-    49.72178285633515
+    37.598056,
+    49.721783,
+    37.598056,
+    49.721783
 ],
-  "geometry": {"coordinates":[37.59805619176956,49.72178285633515],"type":"Point"}
+  "geometry": {"coordinates":[37.598056,49.721783],"type":"Point"}
 }
