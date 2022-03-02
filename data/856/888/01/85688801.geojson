@@ -11,13 +11,16 @@
     "geom:longitude":30.458027,
     "iso:country":"UA",
     "label:eng_x_preferred_longname":[
-        "Kiev Oblast"
+        "Kyiv Oblast"
     ],
     "label:eng_x_preferred_placetype":[
         "oblast"
     ],
     "label:eng_x_preferred_shortcode":[
         "KV"
+    ],
+    "label:eng_x_variant_longname":[
+        "Kiev Oblast"
     ],
     "lbl:latitude":50.121609,
     "lbl:longitude":30.435489,
@@ -83,14 +86,16 @@
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03b2 \u039f\u03bc\u03c0\u03bb\u03ac\u03c3\u03c4"
     ],
-    "name:eng_x_preferred":[
+    "name:eng_x_historical":[
+        "Kiev Oblast",
         "Kiev"
+    ],
+    "name:eng_x_preferred":[
+        "Kyiv"
     ],
     "name:eng_x_variant":[
         "Kyivs'ka",
-        "Kyiv Oblast",
-        "Kyiv",
-        "Kiev Oblast"
+        "Kyiv Oblast"
     ],
     "name:epo_x_preferred":[
         "Kieva provinco"
@@ -439,8 +444,8 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1614896266,
-    "wof:name":"Kiev",
+    "wof:lastmodified":1646180102,
+    "wof:name":"Kyiv",
     "wof:parent_id":85633805,
     "wof:placetype":"region",
     "wof:placetype_local":"oblast",
