@@ -94,7 +94,7 @@
     "name:ceb_x_preferred":[
         "Dnipro"
     ],
-    "name:ces_x_preferred":[
+    "name:ces_x_historical":[
         "Dn\u011bpropetrovsk"
     ],
     "name:ces_x_variant":[
@@ -124,11 +124,11 @@
     "name:dan_x_preferred":[
         "Dnipro"
     ],
+    "name:deu_x_historical":[
+        "Dnipropetrowsk"
+    ],
     "name:deu_x_preferred":[
         "Dnipro"
-    ],
-    "name:deu_x_variant":[
-        "Dnipropetrowsk"
     ],
     "name:dsb_x_preferred":[
         "Dnipro"
@@ -139,9 +139,6 @@
     "name:ell_x_variant":[
         "\u039d\u03c4\u03bd\u03af\u03c0\u03c1\u03bf"
     ],
-    "name:eng_x_colloquial":[
-        ""
-    ],
     "name:eng_x_historical":[
         "Dnipropetrovs'k",
         "Dnipropetrovsk"
@@ -149,27 +146,20 @@
     "name:eng_x_preferred":[
         "Dnipro"
     ],
-    "name:eng_x_variant":[
-        "Dnipropetrovsk",
-        "Dnipro"
-    ],
-    "name:eng_x_historical":[
-        "Dnipropetrovs'k"
+    "name:epo_x_historical":[
+        "Dnipropetrovsko"
     ],
     "name:epo_x_preferred":[
         "Dnipro"
     ],
-    "name:epo_x_variant":[
-        "Dnipropetrovsko"
-    ],
     "name:est_x_preferred":[
         "Dnipro"
     ],
+    "name:eus_x_historical":[
+        "Dnipropetrovsk"
+    ],
     "name:eus_x_preferred":[
         "Dnipro"
-    ],
-    "name:eus_x_variant":[
-        "Dnipropetrovsk"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0646\u06cc\u067e\u0631\u0648"
@@ -189,17 +179,11 @@
     "name:fra_x_preferred":[
         "Dnipro"
     ],
-    "name:fra_x_variant":[
-        "Dnipropetrovsk",
-        "Dnepropetrovsk",
-        "Iekaterinoslav",
-        "Ekaterinoslav"
+    "name:fry_x_historical":[
+        "Dnjepropetrovsk"
     ],
     "name:fry_x_preferred":[
         "Dnipro"
-    ],
-    "name:fry_x_variant":[
-        "Dnjepropetrovsk"
     ],
     "name:gla_x_preferred":[
         "Dnipro"
@@ -225,11 +209,11 @@
     "name:haw_x_preferred":[
         "\u02bbO Dnipro"
     ],
+    "name:hbs_x_historical":[
+        "Dnjipropetrovsk"
+    ],
     "name:hbs_x_preferred":[
         "Dnjipro"
-    ],
-    "name:hbs_x_variant":[
-        "Dnjipropetrovsk"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05e0\u05d9\u05e4\u05e8\u05d5"
@@ -246,23 +230,23 @@
     "name:hin_x_variant":[
         "\u0928\u093f\u092a\u094d\u0930\u0949"
     ],
+    "name:hrv_x_historical":[
+        "Dnjepropetrovsk"
+    ],
     "name:hrv_x_preferred":[
         "Dnjipro"
     ],
-    "name:hrv_x_variant":[
-        "Dnjepropetrovsk"
+    "name:hsb_x_historical":[
+        "Dnipropetrowsk"
     ],
     "name:hsb_x_preferred":[
         "Dnipro"
     ],
-    "name:hsb_x_variant":[
-        "Dnipropetrowsk"
+    "name:hun_x_historical":[
+        "Dnyipropetrovszk"
     ],
     "name:hun_x_preferred":[
         "Dnyipro"
-    ],
-    "name:hun_x_variant":[
-        "Dnyipropetrovszk"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0576\u0565\u057a\u0580"
@@ -285,11 +269,11 @@
     "name:isl_x_preferred":[
         "Dnipro"
     ],
+    "name:ita_x_historical":[
+        "Dnipropetrovs'k"
+    ],
     "name:ita_x_preferred":[
         "Dnipro"
-    ],
-    "name:ita_x_variant":[
-        "Dnipropetrovs'k"
     ],
     "name:jav_x_preferred":[
         "Dnipro"
@@ -367,8 +351,11 @@
         "Dniepropetrovskas",
         "Dnipras"
     ],
-    "name:ltz_x_preferred":[
+    "name:ltz_x_historical":[
         "Dnepropetrowsk"
+    ],
+    "name:ltz_x_preferred":[
+        "Dnipro"
     ],
     "name:ltz_x_variant":[
         "Dnipro"
@@ -407,14 +394,11 @@
     "name:mri_x_preferred":[
         "Dnipro"
     ],
-    "name:msa_x_preferred":[
-        "Dnipro"
-    ],
-    "name:msa_x_variant":[
-        "Dnipropetrovsk"
-    ],
     "name:msa_x_historical":[
         "Dnipropetrovsk"
+    ],
+    "name:msa_x_preferred":[
+        "Dnipro"
     ],
     "name:mya_x_preferred":[
         "\u1014\u1036\u1015\u102b\u1010\u103a\u101c\u102d\u102f\u101c\u102c\u1038\u101e\u1030"
@@ -422,23 +406,20 @@
     "name:nep_x_preferred":[
         "\u0928\u093f\u092a\u094d\u0930"
     ],
+    "name:nld_x_historical":[
+        "Dnjepropetrovsk"
+    ],
     "name:nld_x_preferred":[
         "Dnipro"
-    ],
-    "name:nld_x_variant":[
-        "Dnjepropetrovsk"
     ],
     "name:nno_x_preferred":[
         "Dnipro"
     ],
-    "name:nob_x_preferred":[
-        "Dnipro"
-    ],
-    "name:nob_x_variant":[
-        "Dnipropetrovsk"
-    ],
     "name:nob_x_historical":[
         "Dnipropetrovsk"
+    ],
+    "name:nob_x_preferred":[
+        "Dnipro"
     ],
     "name:nor_x_preferred":[
         "Dnipro"
@@ -468,24 +449,20 @@
         "\u039d\u03c4\u03bd\u03b9\u03c0\u03c1\u03bf"
     ],
     "name:pol_x_historical":[
-        "Dniepropetrowsk"
-    ],
-    "name:pol_x_preferred":[
+        "Dniepropetrowsk",
         "Dniepropietrowsk"
     ],
+    "name:pol_x_preferred":[
+        "Dnipro"
+    ],
     "name:pol_x_variant":[
-        "Dniepropetrowsk",
-        "Dniepr",
-        "Dnipro"
-    ],
-    "name:por_x_preferred":[
-        "Dnipro"
-    ],
-    "name:por_x_variant":[
-        "Dnipropetrovsk"
+        "Dniepr"
     ],
     "name:por_x_historical":[
         "Dnipropetrovsk"
+    ],
+    "name:por_x_preferred":[
+        "Dnipro"
     ],
     "name:pus_x_preferred":[
         "\u0689\u0646\u067e\u0631\u0648"
@@ -516,11 +493,11 @@
     "name:sah_x_preferred":[
         "\u0414\u043d\u0438\u043f\u0440\u043e"
     ],
+    "name:scn_x_historical":[
+        "Dnipropetrovs'k"
+    ],
     "name:scn_x_preferred":[
         "Dnipro"
-    ],
-    "name:scn_x_variant":[
-        "Dnipropetrovs'k"
     ],
     "name:sco_x_preferred":[
         "Dnipro"
@@ -531,20 +508,17 @@
     "name:sin_x_variant":[
         "\u0da9\u0dd9\u0db1\u0dbb\u0dd9\u0da7\u0dcf"
     ],
+    "name:slk_x_historical":[
+        "Dnepropetrovsk"
+    ],
     "name:slk_x_preferred":[
         "Dnipro"
     ],
-    "name:slk_x_variant":[
+    "name:slv_x_historical":[
         "Dnepropetrovsk"
     ],
     "name:slv_x_preferred":[
         "Dnipro"
-    ],
-    "name:slv_x_variant":[
-        "Dnepropetrovsk"
-    ],
-    "name:slv_x_historical":[
-        "Dnepropetrovsk"
     ],
     "name:smo_x_preferred":[
         "Dnipro"
@@ -561,13 +535,12 @@
     "name:sot_x_preferred":[
         "Dnipro"
     ],
-    "name:spa_x_preferred":[
-        "Dnipro"
-    ],
     "name:spa_x_historical":[
         "Dnipropetrovsk"
     ],
-
+    "name:spa_x_preferred":[
+        "Dnipro"
+    ],
     "name:spa_x_variant":[
         "Dnipr\u00f3"
     ],
@@ -640,7 +613,6 @@
         "\u0414\u043d\u0456\u043f\u0440\u043e"
     ],
     "name:ukr_x_variant":[
-        "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a",
         "Dnipropetrovs\u2019k",
         "Dnipro"
     ],
@@ -831,7 +803,7 @@
         "gp:id":918981,
         "qs_pg:id":128778,
         "wd:id":"Q48256",
-        "wk:page":"Dnipropetrovsk"
+        "wk:page":"Dnipro"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1081889
@@ -851,9 +823,9 @@
         }
     ],
     "wof:id":101752861,
-    "wof:lastmodified":1614896269,
+    "wof:lastmodified":1678726553,
     "wof:megacity":1,
-    "wof:name":"\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a",
+    "wof:name":"Dnipro",
     "wof:parent_id":1108815855,
     "wof:placetype":"locality",
     "wof:population":1007200,
