@@ -29,10 +29,19 @@
     "name:bel_x_preferred":[
         "\u0411\u0456\u043b\u0430\u0437\u044d\u0440\u0441\u043a\u044d"
     ],
+    "name:cat_x_preferred":[
+        "Bilozerske"
+    ],
     "name:ces_x_preferred":[
         "Bilozerske"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0437\u0435\u0440\u0441\u043a\u043e\u0435"
+    ],
     "name:crh_x_preferred":[
+        "Bilozerske"
+    ],
+    "name:dan_x_preferred":[
         "Bilozerske"
     ],
     "name:deu_x_preferred":[
@@ -41,8 +50,14 @@
     "name:eng_x_preferred":[
         "Bilozerske"
     ],
+    "name:est_x_preferred":[
+        "Bilozerske"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0644\u0648\u0632\u0631\u0633\u06a9\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Bilozerske"
     ],
     "name:fra_x_preferred":[
         "Bilozerske"
@@ -61,6 +76,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10da\u10dd\u10d6\u10d4\u10e0\u10e1\u10d9\u10dd\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\ub85c\uc81c\ub974\uc2a4\ucf00"
     ],
     "name:lav_x_preferred":[
         "Bilozerske"
@@ -86,6 +104,9 @@
     "name:pol_x_variant":[
         "Bi\u0142ozerskie"
     ],
+    "name:por_x_preferred":[
+        "Bilozerske"
+    ],
     "name:ron_x_preferred":[
         "Bilozerske"
     ],
@@ -95,8 +116,17 @@
     "name:sco_x_preferred":[
         "Bilozerske"
     ],
+    "name:spa_x_preferred":[
+        "Bilozerske"
+    ],
+    "name:swe_x_preferred":[
+        "Bilozerske"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u043b\u043e\u0437\u0435\u0440\u0441\u043a\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e25\u0e2d\u0e41\u0e0b\u0e23\u0e4c\u0e2a\u0e41\u0e01"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0435"
@@ -106,6 +136,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u6d1b\u6fa4\u723e\u897f\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u6bd4\u6d1b\u6cfd\u5c14\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -165,7 +198,7 @@
         }
     ],
     "wof:id":101869375,
-    "wof:lastmodified":1582349303,
+    "wof:lastmodified":1690876524,
     "wof:name":"\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815865,
     "wof:placetype":"locality",

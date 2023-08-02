@@ -21,11 +21,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0421\u044d\u043d\u0446\u044f\u043d\u0456\u045e\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Frunze"
     ],
+    "name:ceb_x_variant":[
+        "Sentianivka"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d\u0442\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Frunze"
+    ],
+    "name:crh_x_variant":[
+        "Sent\u00e2nivka"
     ],
     "name:deu_x_preferred":[
         "Michail Frunse"
@@ -36,17 +48,27 @@
     "name:eng_x_preferred":[
         "Frunze"
     ],
+    "name:eng_x_variant":[
+        "Sentianivka"
+    ],
     "name:est_x_preferred":[
         "Mihhail Frunze"
     ],
     "name:est_x_variant":[
-        "Frunze"
+        "Frunze",
+        "Sentianivka"
     ],
     "name:lav_x_preferred":[
         "Frunze"
     ],
+    "name:lav_x_variant":[
+        "Sentianivka"
+    ],
     "name:pol_x_preferred":[
         "Frunze"
+    ],
+    "name:pol_x_variant":[
+        "Sentianiwka"
     ],
     "name:ron_x_preferred":[
         "Frunze"
@@ -57,8 +79,14 @@
     "name:rus_x_variant":[
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Sentianivka"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0435\u043d\u0442\u044f\u043d\u0456\u0432\u043a\u0430"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u502b\u6fa4"
@@ -115,7 +143,7 @@
         }
     ],
     "wof:id":101869865,
-    "wof:lastmodified":1582349301,
+    "wof:lastmodified":1690876515,
     "wof:name":"\u0424\u0440\u0443\u043d\u0437\u0435",
     "wof:parent_id":102088801,
     "wof:placetype":"locality",

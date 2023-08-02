@@ -29,11 +29,20 @@
     "name:bel_x_variant":[
         "\u0411\u043b\u0430\u0433\u0430\u0432\u0435\u0448\u0447\u0430\u043d\u0441\u043a\u0430\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Blahovisxenske"
+    ],
     "name:ces_x_preferred":[
         "Blahovi\u0161\u010denske"
     ],
+    "name:che_x_preferred":[
+        "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Blahovi\u015f\u00e7enske"
+    ],
+    "name:dan_x_preferred":[
+        "Blahovisjtjenske"
     ],
     "name:deu_x_preferred":[
         "Blahowischtschenske"
@@ -44,8 +53,14 @@
     "name:eng_x_variant":[
         "Blahovishchenske"
     ],
+    "name:est_x_preferred":[
+        "Blagovi\u0161t\u0161enske"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u06cc\u0627\u0646\u0648\u0641\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Blahovi\u0161t\u0161enske"
     ],
     "name:fra_x_preferred":[
         "Blahovichtchenske"
@@ -59,20 +74,32 @@
     "name:ita_x_preferred":[
         "Blahovichtchenske"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30db\u30f4\u30a3\u30b7\u30a7\u30f3\u30b7\u30b1"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10da\u10d0\u10d2\u10dd\u10d5\u10d4\u10e8\u10e9\u10d4\u10dc\u10e1\u10d9\u10dd\u10d4"
     ],
     "name:kat_x_variant":[
         "\u10e3\u10da\u10d8\u10d0\u10dc\u10dd\u10d5\u10d9\u10d0"
     ],
+    "name:lav_x_preferred":[
+        "Blahovi\u0161\u010denske"
+    ],
     "name:nno_x_preferred":[
         "Uljanovka"
+    ],
+    "name:nob_x_preferred":[
+        "Blahovisjtsjenske"
     ],
     "name:pol_x_preferred":[
         "B\u0142ahowiszczen\u015bke"
     ],
     "name:pol_x_variant":[
         "Ulianowka"
+    ],
+    "name:por_x_preferred":[
+        "Blahovishchenske"
     ],
     "name:ron_x_preferred":[
         "Uleanovka"
@@ -89,8 +116,17 @@
     "name:sco_x_preferred":[
         "Blahovishchenske"
     ],
+    "name:spa_x_preferred":[
+        "Blahovishchenske"
+    ],
+    "name:swe_x_preferred":[
+        "Blahovisjtjenske"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u043b\u0430\u04bb\u043e\u0432\u0438\u0447\u0447\u0435\u043d\u0441\u043a\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e25\u0e32\u0e2e\u0e2d\u0e27\u0e34\u0e0a\u0e41\u0e0a\u0e19\u0e2a\u0e41\u0e01"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0456\u0449\u0435\u043d\u0441\u044c\u043a\u0435"
@@ -101,11 +137,17 @@
     "name:und_x_variant":[
         "Ul\u2019yanovka"
     ],
+    "name:uzb_x_preferred":[
+        "Blahovishchenske tumani"
+    ],
     "name:vie_x_preferred":[
         "Ulianovka"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u91cc\u63da\u8afe\u592b\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u62c9\u970d\u7ef4\u7533\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
@@ -156,7 +198,7 @@
         }
     ],
     "wof:id":101867335,
-    "wof:lastmodified":1582349321,
+    "wof:lastmodified":1690876611,
     "wof:name":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430",
     "wof:parent_id":102088241,
     "wof:placetype":"locality",

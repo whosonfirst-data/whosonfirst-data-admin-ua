@@ -25,14 +25,29 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u062a\u0648\u0645\u064a\u0644"
     ],
+    "name:aze_x_preferred":[
+        "Qostomel"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0441\u0442\u043e\u043c\u044d\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb\u09b8\u09cd\u09a4\u09cb\u09ae\u09c7\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u043e\u043c\u0435\u043b"
     ],
+    "name:cat_x_preferred":[
+        "Host\u00f2mel"
+    ],
     "name:ceb_x_preferred":[
         "Hostomel'"
+    ],
+    "name:ces_x_preferred":[
+        "Hostomel"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u043e\u043c\u0435\u043b\u044c"
     ],
     "name:crh_x_preferred":[
         "Gostomel"
@@ -40,22 +55,79 @@
     "name:deu_x_preferred":[
         "Hostomel"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c3\u03c4\u03cc\u03bc\u03b5\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Hostomel'"
     ],
     "name:eng_x_variant":[
         "Hostomel"
     ],
+    "name:est_x_preferred":[
+        "Hostomel"
+    ],
+    "name:eus_x_preferred":[
+        "Hostomel"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0633\u062a\u0648\u0645\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Hostomel"
+    ],
+    "name:fra_x_preferred":[
+        "Hostomel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e1\u05d8\u05d5\u05de\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Hosztomel"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u057d\u057f\u0578\u0574\u0565\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Hostomel"
     ],
     "name:ita_x_preferred":[
         "Hostomel'"
     ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30b9\u30c8\u30e1\u30ea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10e1\u10e2\u10dd\u10db\u10d4\u10da\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\uc2a4\ud1a0\uba5c"
+    ],
+    "name:lav_x_preferred":[
+        "Hostome\u013ca"
+    ],
+    "name:lit_x_preferred":[
+        "Hostomelis"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u043e\u043c\u0435\u043b\u044c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0441\u0442\u043e\u043c\u0435\u043b"
+    ],
     "name:nld_x_preferred":[
         "Hostomel"
     ],
+    "name:nob_x_preferred":[
+        "Hostomel"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u043e\u043c\u0435\u043b\u044c"
+    ],
     "name:pol_x_preferred":[
+        "Hostomel"
+    ],
+    "name:por_x_preferred":[
         "Hostomel"
     ],
     "name:ron_x_preferred":[
@@ -67,8 +139,23 @@
     "name:sah_x_preferred":[
         "\u0413\u043e\u0441\u0442\u043e\u043c\u0435\u043b\u044c"
     ],
+    "name:slv_x_preferred":[
+        "Gostomel"
+    ],
     "name:spa_x_preferred":[
         "Hostomel"
+    ],
+    "name:spa_x_variant":[
+        "Host\u00f3mel"
+    ],
+    "name:swe_x_preferred":[
+        "Hostomel"
+    ],
+    "name:szl_x_preferred":[
+        "Hostomel"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e2d\u0e2a\u0e15\u0e2d\u0e41\u0e21\u0e25"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0441\u0442\u043e\u043c\u0435\u043b\u044c"
@@ -76,8 +163,14 @@
     "name:und_x_variant":[
         "Gostoml\u2019"
     ],
+    "name:uzb_x_preferred":[
+        "Gostomel"
+    ],
     "name:zho_x_preferred":[
         "\u6208\u65af\u6258\u6885\u5229"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u65af\u6258\u6885\u5c14"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -118,7 +211,7 @@
         }
     ],
     "wof:id":1125766135,
-    "wof:lastmodified":1566593945,
+    "wof:lastmodified":1690876947,
     "wof:name":"Hostomel\u2019",
     "wof:parent_id":1108730759,
     "wof:placetype":"locality",

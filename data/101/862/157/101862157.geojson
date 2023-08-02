@@ -22,8 +22,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0412\u044d\u0440\u0445\u043d\u044f \u0411\u0456\u043b\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Verkhnyaya Belka"
+    ],
+    "name:ceb_x_variant":[
+        "Verkhnia Bilka"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0438 \u0411\u0435\u043b\u043a\u0430"
     ],
     "name:deu_x_preferred":[
         "Werchnja Bilka"
@@ -31,8 +40,23 @@
     "name:eng_x_preferred":[
         "Verkhnia Bilka"
     ],
+    "name:fin_x_preferred":[
+        "V\u0435rh\u2019nja B\u0456lk\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Verkhnia Bilka"
+    ],
+    "name:nno_x_preferred":[
+        "Verkhnja Bilka"
+    ],
+    "name:nob_x_preferred":[
+        "Verkhnja Bilka"
+    ],
     "name:pol_x_preferred":[
         "Bi\u0142ka Szlachecka"
+    ],
+    "name:pol_x_variant":[
+        "Bi\u0142ka G\u00f3rna"
     ],
     "name:ron_x_preferred":[
         "Verhnea Bilka"
@@ -98,7 +122,7 @@
         }
     ],
     "wof:id":101862157,
-    "wof:lastmodified":1582349346,
+    "wof:lastmodified":1690876739,
     "wof:name":"\u0412\u0435\u0440\u0445\u043d\u044f \u0411\u0456\u043b\u043a\u0430",
     "wof:parent_id":102088357,
     "wof:placetype":"locality",

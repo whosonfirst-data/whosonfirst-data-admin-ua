@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u064a\u0627\u0646\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628\u064a\u0627\u0646\u0633\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u067e\u06cc\u0627\u0646\u0633\u06a9"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0443\u043f\u044f\u043d\u0441\u043a"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0443\u043f\u2019\u044f\u043d\u0441\u043a"
@@ -32,23 +38,41 @@
     "name:bel_x_variant":[
         "\u041a\u0443\u043f\u044f\u043d\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Kupiansk"
+    ],
     "name:ceb_x_preferred":[
         "Kupjansk"
     ],
     "name:ces_x_preferred":[
         "Kupjansk"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043f\u044f\u043d\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
         "Kupyansk"
     ],
+    "name:dan_x_preferred":[
+        "Kupjansk"
+    ],
     "name:deu_x_preferred":[
         "Kupjansk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c0\u03b9\u03b1\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kup\"yans'k"
     ],
     "name:eng_x_variant":[
         "Kupiansk"
+    ],
+    "name:epo_x_preferred":[
+        "Kupjansk"
+    ],
+    "name:est_x_preferred":[
+        "Kupjansk"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u067e\u06cc\u0627\u0646\u0633\u06a9"
@@ -59,6 +83,9 @@
     "name:fra_x_preferred":[
         "Koupiansk"
     ],
+    "name:frr_x_preferred":[
+        "Kupjansk"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e4\u05d9\u05d0\u05e0\u05e1\u05e7"
     ],
@@ -68,14 +95,23 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u057a\u0575\u0561\u0576\u057d\u056f"
     ],
+    "name:ina_x_preferred":[
+        "Kupiansk"
+    ],
     "name:ita_x_preferred":[
         "Kupjans'k"
     ],
     "name:ita_x_variant":[
         "Kup\"jans'k"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d7\u30e4\u30f3\u30b7\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10de\u10d8\u10d0\u10dc\u10e1\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ud53c\uc580\uc2a4\ud06c"
     ],
     "name:lav_x_preferred":[
         "Kupjanska"
@@ -83,11 +119,26 @@
     "name:lit_x_preferred":[
         "Kupjanskas"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0443\u043f\u044c\u044f\u043d\u0441\u044c\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Kupiansk"
+    ],
     "name:nld_x_preferred":[
         "Kupiansk"
     ],
+    "name:nld_x_variant":[
+        "Koepjansk"
+    ],
     "name:nno_x_preferred":[
         "Kupjansk"
+    ],
+    "name:nob_x_preferred":[
+        "Kupjansk"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u043f\u044f\u043d\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Kupia\u0144sk"
@@ -110,6 +161,12 @@
     "name:sco_x_preferred":[
         "Kupiansk"
     ],
+    "name:slv_x_preferred":[
+        "Kupjansk"
+    ],
+    "name:spa_x_preferred":[
+        "Kupiansk"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u043f\u0458\u0430\u043d\u0441\u043a"
     ],
@@ -122,6 +179,9 @@
     "name:tat_x_variant":[
         "\u041a\u0443\u043f\u044c\u044f\u043d\u0441\u043a"
     ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e39\u0e1b\u0e34\u0e22\u0e31\u0e19\u0e2a\u0e01\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043f'\u044f\u043d\u0441\u044c\u043a"
     ],
@@ -129,11 +189,17 @@
         "\u041a\u0443\u043f\u2019\u044f\u043d\u0441\u044c\u043a",
         "\u041a\u0443\u043f\u044f\u043d\u0441\u044c\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "Kupiansk"
+    ],
     "name:vie_x_preferred":[
         "Kupiansk"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u76ae\u63da\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u5e93\u76ae\u626c\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -189,7 +255,7 @@
         }
     ],
     "wof:id":101871679,
-    "wof:lastmodified":1582349343,
+    "wof:lastmodified":1690876726,
     "wof:name":"\u041a\u0443\u043f'\u044f\u043d\u0441\u044c\u043a",
     "wof:parent_id":1108730661,
     "wof:placetype":"locality",

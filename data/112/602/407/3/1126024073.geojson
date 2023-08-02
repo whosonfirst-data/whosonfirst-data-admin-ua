@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u0456\u0437\u043d\u044b\u0447\u043d\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
     "name:ceb_x_preferred":[
         "Zaliznychne"
+    ],
+    "name:ces_x_preferred":[
+        "Zalizny\u010dne"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u0438"
     ],
     "name:crh_x_preferred":[
         "Zalizn\u0131\u00e7ne"
@@ -36,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Zaliznychne"
+    ],
+    "name:fra_x_preferred":[
+        "Zaliznytchne"
     ],
     "name:hye_x_preferred":[
         "\u0536\u0561\u056c\u056b\u0566\u0576\u056b\u0579\u0576\u0578\u0565"
@@ -52,6 +64,12 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u043e\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Zaliznichne"
+    ],
+    "name:swe_x_preferred":[
+        "Zaliznytjne"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
@@ -60,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u624e\u5229\u8332\u5c3c\u5947\u6d85"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u5229\u5179\u5c3c\u5947\u5185"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -100,7 +121,7 @@
         }
     ],
     "wof:id":1126024073,
-    "wof:lastmodified":1566593893,
+    "wof:lastmodified":1690876877,
     "wof:name":"Zaliznychne",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",

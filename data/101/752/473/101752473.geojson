@@ -95,6 +95,9 @@
     "name:fra_x_preferred":[
         "Kertch"
     ],
+    "name:gle_x_preferred":[
+        "Kerch"
+    ],
     "name:glg_x_preferred":[
         "Kerch"
     ],
@@ -161,6 +164,9 @@
     ],
     "name:lit_x_preferred":[
         "Ker\u010d\u0117"
+    ],
+    "name:lld_x_preferred":[
+        "Kerc"
     ],
     "name:lmo_x_preferred":[
         "Ker\u010d"
@@ -234,11 +240,17 @@
     "name:srp_x_preferred":[
         "\u041a\u0435\u0440\u0447"
     ],
+    "name:swa_x_preferred":[
+        "Kerch"
+    ],
     "name:swe_x_preferred":[
         "Kertj"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc7\u0bb0\u0bcd\u0b9a\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bc6\u0bb0\u0bcd\u0b9a\u0bcd"
     ],
     "name:tat_x_preferred":[
         "Keri\u00e7"
@@ -258,6 +270,9 @@
     "name:tur_x_preferred":[
         "Ker\u00e7"
     ],
+    "name:tur_x_variant":[
+        "Keri\u00e7"
+    ],
     "name:udm_x_preferred":[
         "\u041a\u0435\u0440\u0447\u044c"
     ],
@@ -269,6 +284,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kerch"
+    ],
+    "name:vec_x_preferred":[
+        "Ker\u010d"
     ],
     "name:vep_x_preferred":[
         "Ker\u010d"
@@ -404,12 +422,12 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688855,
+        1159339547,
         102191581,
         85632685,
-        1108738673,
-        1159339547,
         874393555,
-        85688855,
+        1108738673,
         85633805
     ],
     "wof:breaches":[],
@@ -449,7 +467,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1588710626,
+    "wof:lastmodified":1690876254,
     "wof:name":"\u041a\u0435\u0440\u0447",
     "wof:parent_id":1108738673,
     "wof:placetype":"locality",

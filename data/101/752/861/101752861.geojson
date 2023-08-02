@@ -42,10 +42,20 @@
         "\u062f\u0646\u064a\u0628\u0631\u0648"
     ],
     "name:ara_x_variant":[
-        "\u062f\u0646\u064a\u0628\u0631\u0648\u0628\u062a\u0631\u0648\u0641\u0633\u0643"
+        "\u062f\u0646\u064a\u0628\u0631\u0648\u0628\u062a\u0631\u0648\u0641\u0633\u0643",
+        "\u062f\u0646\u0650\u0628\u0631\u064f\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Dnipr\u00f3"
     ],
     "name:ast_x_preferred":[
         "Dnipr\u00f3"
+    ],
+    "name:avk_x_preferred":[
+        "Dnipro"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0646\u06cc\u067e\u0631\u0648"
     ],
     "name:aze_x_preferred":[
         "Dnipro"
@@ -70,10 +80,14 @@
         "\u09a8\u09bf\u09aa\u09cd\u09b0\u09cb\u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09ad\u09b8\u09cd\u0995"
     ],
     "name:ben_x_variant":[
-        "\u09a6\u09a8\u09c7\u09aa\u09cd\u09b0"
+        "\u09a6\u09a8\u09c7\u09aa\u09cd\u09b0",
+        "\u09a8\u09bf\u09aa\u09cd\u09b0\u09cb"
     ],
     "name:bos_x_preferred":[
         "Dnipro"
+    ],
+    "name:bos_x_variant":[
+        "Dnjipro"
     ],
     "name:bre_x_preferred":[
         "Dnipro"
@@ -91,13 +105,16 @@
     "name:cat_x_preferred":[
         "Dnipr\u00f3"
     ],
+    "name:cat_x_variant":[
+        "Dnipr\u00f2"
+    ],
     "name:ceb_x_preferred":[
         "Dnipro"
     ],
     "name:ces_x_historical":[
         "Dn\u011bpropetrovsk"
     ],
-    "name:ces_x_variant":[
+    "name:ces_x_preferred":[
         "Dnipro"
     ],
     "name:che_x_preferred":[
@@ -108,6 +125,9 @@
     ],
     "name:chv_x_variant":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0646\u06cc\u067e\u0631\u06c6"
     ],
     "name:cos_x_preferred":[
         "Dnipro"
@@ -177,6 +197,9 @@
         "Ekaterinoslav"
     ],
     "name:fra_x_preferred":[
+        "Dnipro"
+    ],
+    "name:frr_x_preferred":[
         "Dnipro"
     ],
     "name:fry_x_historical":[
@@ -254,6 +277,9 @@
     "name:hye_x_variant":[
         "\u0534\u0576\u0565\u057a\u0580\u0578\u057a\u0565\u057f\u0580\u0578\u057e\u057d\u056f"
     ],
+    "name:hyw_x_preferred":[
+        "\u0534\u0576\u0565\u057a\u0580"
+    ],
     "name:ibo_x_preferred":[
         "Dnipro"
     ],
@@ -300,7 +326,8 @@
         "\u10d3\u10dc\u10d4\u10de\u10e0\u10d8"
     ],
     "name:kat_x_variant":[
-        "\u10d3\u10dc\u10d4\u10de\u10e0\u10dd\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8"
+        "\u10d3\u10dc\u10d4\u10de\u10e0\u10dd\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8",
+        "\u10d3\u10dc\u10d8\u10de\u10e0\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u043d\u0456\u043f\u0440\u043e"
@@ -336,7 +363,8 @@
         "D\u0146ipro"
     ],
     "name:lav_x_variant":[
-        "D\u0146epropetrovska"
+        "D\u0146epropetrovska",
+        "Dnipro"
     ],
     "name:lfn_x_preferred":[
         "Dnipro"
@@ -351,13 +379,16 @@
         "Dniepropetrovskas",
         "Dnipras"
     ],
+    "name:lld_x_preferred":[
+        "Dnipro"
+    ],
+    "name:lmo_x_preferred":[
+        "Dnipro"
+    ],
     "name:ltz_x_historical":[
         "Dnepropetrowsk"
     ],
     "name:ltz_x_preferred":[
-        "Dnipro"
-    ],
-    "name:ltz_x_variant":[
         "Dnipro"
     ],
     "name:mah_x_preferred":[
@@ -368,6 +399,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0926\u094d\u0928\u0947\u092a\u094d\u0930\u094b\u092a\u0947\u0924\u094d\u0930\u094b\u0935\u094d\u0938\u094d\u0915"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u043d\u0438\u043f\u0440\u043e"
     ],
     "name:mhr_x_preferred":[
         "\u0414\u043d\u0438\u043f\u0440\u043e"
@@ -380,7 +414,8 @@
         "\u0414\u043d\u0435\u043f\u0430\u0440"
     ],
     "name:mkd_x_variant":[
-        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a"
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+        "\u0414\u043d\u0438\u043f\u0440\u043e"
     ],
     "name:mlg_x_preferred":[
         "Dnipro"
@@ -402,6 +437,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1014\u1036\u1015\u102b\u1010\u103a\u101c\u102d\u102f\u101c\u102c\u1038\u101e\u1030"
+    ],
+    "name:myv_x_preferred":[
+        "\u0414\u043d\u0438\u043f\u0440\u043e \u043e\u0448"
     ],
     "name:nep_x_preferred":[
         "\u0928\u093f\u092a\u094d\u0930"
@@ -441,6 +479,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a21\u0a3e\u0a08\u0a2a\u0a4d\u0a30\u0a4b"
+    ],
+    "name:pms_x_preferred":[
+        "Dnipro"
     ],
     "name:pnb_x_preferred":[
         "\u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u062a\u0631\u0648\u0648\u0633\u06a9"
@@ -563,6 +604,9 @@
     "name:swe_x_preferred":[
         "Dnipro"
     ],
+    "name:szl_x_preferred":[
+        "Dnipro"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0baa\u0bcd\u0bb0\u0bcb\u0baa\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb\u0bb5\u0bcd\u0bb8\u0bcd\u0b95\u0bcd"
     ],
@@ -592,6 +636,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e14\u0e19\u0e35\u0e42\u0e1b\u0e23\u0e40\u0e1b\u0e15\u0e23\u0e2d\u0e1f\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tir_x_preferred":[
+        "\u12f2\u1294\u1355\u122e\u1354\u1275\u122e\u126d\u1235\u12ad"
     ],
     "name:tuk_x_preferred":[
         "Dnipro"
@@ -631,6 +678,9 @@
     "name:vep_x_preferred":[
         "Dnepropetrovsk"
     ],
+    "name:vep_x_variant":[
+        "Dnepro"
+    ],
     "name:vie_x_preferred":[
         "Dnipro"
     ],
@@ -645,6 +695,9 @@
     ],
     "name:xho_x_preferred":[
         "Dnipro"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10dc\u10d4\u10de\u10e0\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05e0\u05d9\u05e4\u05e8\u05d0"
@@ -794,8 +847,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        1108815855,
-        85688797
+        85688797,
+        1108815855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -823,7 +876,7 @@
         }
     ],
     "wof:id":101752861,
-    "wof:lastmodified":1678726553,
+    "wof:lastmodified":1690876241,
     "wof:megacity":1,
     "wof:name":"Dnipro",
     "wof:parent_id":1108815855,

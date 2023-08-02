@@ -28,11 +28,15 @@
     "name:ast_x_preferred":[
         "Chernivtsi"
     ],
+    "name:avk_x_preferred":[
+        "Tcernivtsi"
+    ],
     "name:aze_x_preferred":[
         "\u00c7ernivts\u0131"
     ],
     "name:aze_x_variant":[
-        "\u00c7ernivtsi"
+        "\u00c7ernivtsi",
+        "\u00c7ernovts\u0131"
     ],
     "name:bak_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
@@ -42,6 +46,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099a\u09c7\u09b0\u09a8\u09bf\u09ad\u09a4\u09b8\u09cd\u0995\u09bf"
+    ],
+    "name:bos_x_preferred":[
+        "\u010cernivci"
     ],
     "name:bre_x_preferred":[
         "Tchernivtsi"
@@ -103,6 +110,18 @@
     "name:fra_x_preferred":[
         "Tchernivtsi"
     ],
+    "name:gag_x_preferred":[
+        "\u00c7erniv\u0163i"
+    ],
+    "name:gla_x_preferred":[
+        "Chernivtsi"
+    ],
+    "name:gle_x_preferred":[
+        "Chernivtsi"
+    ],
+    "name:glv_x_preferred":[
+        "Chernivtsi"
+    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac7\u0ab0\u0acd\u0aa8\u0ac0\u0ab5\u0aa4\u0acd\u0ab8\u0ac0"
     ],
@@ -133,6 +152,9 @@
     "name:hye_x_preferred":[
         "\u0549\u0565\u057c\u0576\u0578\u057e\u0581\u056b"
     ],
+    "name:ido_x_preferred":[
+        "Chernivci"
+    ],
     "name:ile_x_preferred":[
         "Chernivtsi"
     ],
@@ -151,6 +173,9 @@
     "name:kat_x_preferred":[
         "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d5\u10ea\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10e9\u10d4\u10e0\u10dc\u10d8\u10d5\u10ea\u10d8"
+    ],
     "name:kir_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
     ],
@@ -166,6 +191,9 @@
     "name:lit_x_preferred":[
         "\u010cernivciai"
     ],
+    "name:lld_x_preferred":[
+        "Cernivtsi"
+    ],
     "name:lmo_x_preferred":[
         "\u010cernivci"
     ],
@@ -175,6 +203,12 @@
     "name:mar_x_preferred":[
         "\u091a\u0947\u0930\u094d\u0928\u093f\u0924\u094d\u0938\u093f"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u044d\u0440\u043d\u0438\u0432\u0446\u0438"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u0438"
     ],
@@ -183,6 +217,9 @@
     ],
     "name:msa_x_preferred":[
         "Chernivtsi"
+    ],
+    "name:myv_x_preferred":[
+        "\u0427\u044d\u0440\u043d\u0438\u0432\u0446\u0438"
     ],
     "name:nld_x_preferred":[
         "Tsjernivtsi"
@@ -198,6 +235,9 @@
     ],
     "name:oci_x_preferred":[
         "Chernivtsi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0631\u0646\u06cc\u0648\u062a\u0633\u06cc"
@@ -232,11 +272,20 @@
     "name:slv_x_preferred":[
         "\u010cernivci"
     ],
+    "name:slv_x_variant":[
+        "\u010crnovice"
+    ],
     "name:spa_x_preferred":[
         "Chernivtsi"
     ],
+    "name:spa_x_variant":[
+        "Chernivetsi"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0432\u0446\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Chernivtsi"
     ],
     "name:swe_x_preferred":[
         "Tjernivtsi"
@@ -246,6 +295,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0bb0\u0bcd\u0ba9\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0bb8\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0bb0\u0bcd\u0ba9\u0bbf\u0bb5\u0bcd\u0b9a\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
@@ -268,6 +320,9 @@
     "name:tur_x_preferred":[
         "\u00c7ernivtsi"
     ],
+    "name:udm_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0432\u0446\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456"
     ],
@@ -277,14 +332,26 @@
     "name:uzb_x_preferred":[
         "Chernovsi"
     ],
+    "name:vec_x_preferred":[
+        "\u010cernivci"
+    ],
     "name:vie_x_preferred":[
         "Chernivtsi"
     ],
     "name:war_x_preferred":[
         "Chernivtsi"
     ],
+    "name:wuu_x_preferred":[
+        "\u5207\u5c14\u8bfa\u592b\u7b56"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d5\u10ea\u10d8"
+    ],
     "name:yid_x_preferred":[
         "\u05d8\u05e9\u05e2\u05e8\u05e0\u05d0\u05d5\u05d5\u05d9\u05e5"
+    ],
+    "name:yue_x_preferred":[
+        "\u5207\u723e\u8afe\u592b\u7b56"
     ],
     "name:zho_x_preferred":[
         "\u5207\u723e\u8afe\u592b\u7b56"
@@ -326,7 +393,7 @@
         }
     ],
     "wof:id":1125900973,
-    "wof:lastmodified":1566593921,
+    "wof:lastmodified":1690876911,
     "wof:name":"Chernivtsi",
     "wof:parent_id":85688869,
     "wof:placetype":"locality",

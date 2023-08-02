@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cym_x_preferred":[
+        "Belyy Karavan"
+    ],
     "name:eng_x_preferred":[
         "Karavan"
     ],
     "name:hun_x_preferred":[
         "Feh\u00e9r karav\u00e1n"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u056b\u057f\u0561\u056f \u0584\u0561\u0580\u0561\u057e\u0561\u0576"
     ],
     "name:kat_x_preferred":[
         "\u10d7\u10d4\u10d7\u10e0\u10d8 \u10e5\u10d0\u10e0\u10d0\u10d5\u10d0\u10dc\u10d8"
@@ -38,8 +44,14 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u0438\u0439 \u043a\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Karavanskoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u8272\u7684\u5927\u7bf7\u8eca"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":101870983,
-    "wof:lastmodified":1582349329,
+    "wof:lastmodified":1690876638,
     "wof:name":"\u041a\u0430\u0440\u0430\u0432\u0430\u043d",
     "wof:parent_id":102088839,
     "wof:placetype":"locality",

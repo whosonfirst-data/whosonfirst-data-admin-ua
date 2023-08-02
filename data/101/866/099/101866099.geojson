@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u0438"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Gandrabur\u0131"
     ],
     "name:deu_x_preferred":[
         "Handrabury"
@@ -29,8 +38,20 @@
     "name:eng_x_preferred":[
         "Handrabury"
     ],
+    "name:fin_x_preferred":[
+        "H\u0430ndr\u0430bury"
+    ],
     "name:lav_x_preferred":[
         "Handraburi"
+    ],
+    "name:nan_x_preferred":[
+        "Handrabury"
+    ],
+    "name:nno_x_preferred":[
+        "Handrabury"
+    ],
+    "name:nob_x_preferred":[
+        "Handrabury"
     ],
     "name:ron_x_preferred":[
         "Handrabura"
@@ -79,8 +100,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088083,
-        85688877
+        85688877,
+        102088083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +125,7 @@
         }
     ],
     "wof:id":101866099,
-    "wof:lastmodified":1588710627,
+    "wof:lastmodified":1690876352,
     "wof:name":"\u0413\u0430\u043d\u0434\u0440\u0430\u0431\u0443\u0440\u0438",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

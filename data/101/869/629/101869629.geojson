@@ -30,13 +30,22 @@
     "name:bel_x_variant":[
         "\u0411\u0430\u0440\u0432\u0435\u043d\u043a\u0430\u0432\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Barv\u00ednkove"
+    ],
     "name:ceb_x_preferred":[
         "Barvinkove"
     ],
     "name:ces_x_preferred":[
         "Barvinkove"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0440\u0432\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
     "name:crh_x_preferred":[
+        "Barvinkove"
+    ],
+    "name:dan_x_preferred":[
         "Barvinkove"
     ],
     "name:deu_x_preferred":[
@@ -45,8 +54,14 @@
     "name:eng_x_preferred":[
         "Barvinkove"
     ],
+    "name:est_x_preferred":[
+        "Barvinkove"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0631\u0648\u06cc\u0646\u06a9\u0648\u0641\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Barvinkove"
     ],
     "name:fra_x_preferred":[
         "Barvinkove"
@@ -60,8 +75,17 @@
     "name:ita_x_preferred":[
         "Barvinkove"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30d3\u30f3\u30b3\u30d9"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10d5\u10d4\u10dc\u10d9\u10dd\u10d5\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub974\ube48\ucf54\ubca0"
+    ],
+    "name:lav_x_preferred":[
+        "Barvinkove"
     ],
     "name:lit_x_preferred":[
         "Barvinkov\u0117"
@@ -72,8 +96,17 @@
     "name:nno_x_preferred":[
         "Barvinkove"
     ],
+    "name:nob_x_preferred":[
+        "Barvinkove"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0440\u0432\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
     "name:pol_x_preferred":[
         "Barwinkowe"
+    ],
+    "name:por_x_preferred":[
+        "Barvinkove"
     ],
     "name:ron_x_preferred":[
         "Barvinkove"
@@ -84,6 +117,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u0440\u0432\u0438\u043d\u043a\u043e\u0432\u0435"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e27\u0e34\u0e19\u0e01\u0e2d\u0e41\u0e27"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0432\u0456\u043d\u043a\u043e\u0432\u0435"
     ],
@@ -93,11 +129,17 @@
     "name:und_x_variant":[
         "Barwenkowa"
     ],
+    "name:uzb_x_preferred":[
+        "Barvinkove"
+    ],
     "name:vie_x_preferred":[
         "Barvinkove"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u6587\u79d1\u4f0f"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u5c14\u6e29\u79d1\u97e6"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -152,7 +194,7 @@
         }
     ],
     "wof:id":101869629,
-    "wof:lastmodified":1582349295,
+    "wof:lastmodified":1690876491,
     "wof:name":"\u0411\u0430\u0440\u0432\u0456\u043d\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088753,
     "wof:placetype":"locality",

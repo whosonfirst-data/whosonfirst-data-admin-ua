@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0441\u0447\u0430\u043d\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Pischtschanka"
     ],
@@ -27,7 +30,11 @@
         "Peschanka"
     ],
     "name:eng_x_variant":[
-        "Pischanka"
+        "Pischanka",
+        "Pishchanka"
+    ],
+    "name:fin_x_preferred":[
+        "P\u0456\u0161t\u0161\u0430nk\u0430"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u057d\u0579\u0561\u0576\u056f\u0561"
@@ -35,11 +42,26 @@
     "name:lav_x_preferred":[
         "Pi\u0161\u010danka"
     ],
+    "name:nan_x_preferred":[
+        "Pishchanka"
+    ],
+    "name:nno_x_preferred":[
+        "Pisjtsjanka"
+    ],
+    "name:nob_x_preferred":[
+        "Pisjtsjanka"
+    ],
+    "name:pol_x_preferred":[
+        "Piszczanka"
+    ],
     "name:ron_x_preferred":[
         "Pi\u0219ceanka"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0441\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pisjtjanka"
     ],
     "name:ukr_x_preferred":[
         "Pishanka"
@@ -99,7 +121,7 @@
         }
     ],
     "wof:id":101866927,
-    "wof:lastmodified":1582349263,
+    "wof:lastmodified":1690876376,
     "wof:name":"\u041f\u0456\u0449\u0430\u043d\u043a\u0430",
     "wof:parent_id":1108815619,
     "wof:placetype":"locality",

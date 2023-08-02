@@ -28,11 +28,17 @@
     "name:azb_x_preferred":[
         "\u0647\u0646\u06cc\u0686\u0633\u06a9"
     ],
+    "name:aze_x_preferred":[
+        "Geni\u00e7esk"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u044d\u043d\u0456\u0447\u044d\u0441\u043a"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0435\u043d\u0438\u0447\u0435\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Hen\u00edtxesk"
     ],
     "name:ceb_x_preferred":[
         "Heniches'k"
@@ -40,8 +46,14 @@
     "name:ces_x_preferred":[
         "Heni\u010desk"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u043d\u0438\u0447\u0435\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
         "Geni\u00e7esk"
+    ],
+    "name:dan_x_preferred":[
+        "Henitjesk"
     ],
     "name:deu_x_preferred":[
         "Henitschesk"
@@ -52,8 +64,14 @@
     "name:eng_x_variant":[
         "Henichesk"
     ],
+    "name:epo_x_preferred":[
+        "Heni\u0109esk"
+    ],
     "name:est_x_preferred":[
         "Henit\u0161esk"
+    ],
+    "name:eus_x_preferred":[
+        "Henitxesk"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0646\u06cc\u0686\u0633\u06a9"
@@ -70,8 +88,14 @@
     "name:hsb_x_preferred":[
         "Heni\u010desk"
     ],
+    "name:hun_x_preferred":[
+        "Henyicseszk"
+    ],
     "name:hye_x_preferred":[
         "\u0533\u0565\u0576\u056b\u0579\u0565\u057d\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Genichesk"
     ],
     "name:ita_x_preferred":[
         "Heni\u010des'k"
@@ -82,11 +106,17 @@
     "name:kat_x_preferred":[
         "\u10d2\u10d4\u10dc\u10d8\u10e9\u10d4\u10e1\u10d9\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0456\u04a3\u0456\u0448\u043a\u0435"
+    ],
     "name:lav_x_preferred":[
         "He\u0146i\u010deska"
     ],
     "name:lit_x_preferred":[
         "Heni\u010deskas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0413\u044d\u043d\u0438\u0447\u044d\u0441\u044c\u043a"
     ],
     "name:nld_x_preferred":[
         "Henitsjesk"
@@ -97,14 +127,23 @@
     "name:nob_x_preferred":[
         "Henitsjesk"
     ],
+    "name:oss_x_preferred":[
+        "\u0413\u0435\u043d\u0438\u0447\u0435\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Heniczesk"
+    ],
+    "name:pol_x_variant":[
+        "Geniczesk"
     ],
     "name:por_x_preferred":[
         "Henichesk"
     ],
     "name:ron_x_preferred":[
         "Henicesk"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u0435\u043d\u0456\u0447\u0435\u0441\u043a"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043d\u0438\u0447\u0435\u0441\u043a"
@@ -115,6 +154,9 @@
     "name:sco_x_preferred":[
         "Henichesk"
     ],
+    "name:slv_x_preferred":[
+        "Geni\u010desk"
+    ],
     "name:spa_x_preferred":[
         "Genichesk"
     ],
@@ -124,8 +166,17 @@
     "name:swe_x_preferred":[
         "Henitjesk"
     ],
+    "name:szl_x_preferred":[
+        "He\u0144icze\u015bk"
+    ],
     "name:tat_x_preferred":[
         "\u04ba\u0435\u043d\u0438\u0447\u0435\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2e\u0e19\u0e35\u0e41\u0e0a\u0e2a\u0e01\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Heni\u00e7esk"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043d\u0456\u0447\u0435\u0441\u044c\u043a"
@@ -133,11 +184,17 @@
     "name:und_x_variant":[
         "Genitschesk"
     ],
+    "name:uzb_x_preferred":[
+        "Ingichka"
+    ],
     "name:vie_x_preferred":[
         "Henichesk"
     ],
     "name:zho_x_preferred":[
         "\u683c\u5c3c\u5947\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u6d77\u5c3c\u5207\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -178,7 +235,7 @@
         }
     ],
     "wof:id":1125936339,
-    "wof:lastmodified":1566593883,
+    "wof:lastmodified":1690876862,
     "wof:name":"Heniches\u2019k",
     "wof:parent_id":102088043,
     "wof:placetype":"locality",

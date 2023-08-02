@@ -21,11 +21,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u0456\u0437\u043d\u044b\u0447\u043d\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
     "name:ceb_x_preferred":[
         "Zaliznychne"
+    ],
+    "name:ces_x_preferred":[
+        "Zalizny\u010dne"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u0438"
     ],
     "name:crh_x_preferred":[
         "Zalizn\u0131\u00e7ne"
@@ -35,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Zaliznychne"
+    ],
+    "name:fra_x_preferred":[
+        "Zaliznytchne"
     ],
     "name:hye_x_preferred":[
         "\u0536\u0561\u056c\u056b\u0566\u0576\u056b\u0579\u0576\u0578\u0565"
@@ -51,6 +63,12 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0437\u043d\u0438\u0447\u043d\u043e\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Zaliznichne"
+    ],
+    "name:swe_x_preferred":[
+        "Zaliznytjne"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435"
     ],
@@ -59,6 +77,9 @@
     ],
     "name:zho_x_preferred":[
         "\u624e\u5229\u8332\u5c3c\u5947\u6d85"
+    ],
+    "name:zho_x_variant":[
+        "\u624e\u5229\u5179\u5c3c\u5947\u5185"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
@@ -109,7 +130,7 @@
         }
     ],
     "wof:id":101868149,
-    "wof:lastmodified":1582349287,
+    "wof:lastmodified":1690876466,
     "wof:name":"\u0417\u0430\u043b\u0456\u0437\u043d\u0438\u0447\u043d\u0435",
     "wof:parent_id":102088425,
     "wof:placetype":"locality",

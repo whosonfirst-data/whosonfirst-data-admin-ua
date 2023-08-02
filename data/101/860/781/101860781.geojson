@@ -23,8 +23,14 @@
     "name:afr_x_preferred":[
         "Idioom"
     ],
+    "name:afr_x_variant":[
+        "idioom"
+    ],
     "name:aka_x_preferred":[
         "Kasakoa"
+    ],
+    "name:aka_x_variant":[
+        "kasakoa"
     ],
     "name:ara_x_preferred":[
         "\u062a\u0639\u0628\u064a\u0631 \u0627\u0635\u0637\u0644\u0627\u062d\u064a"
@@ -32,8 +38,14 @@
     "name:bak_x_preferred":[
         "\u0424\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u043a \u0431\u0435\u0440\u04d9\u043c\u0435\u043a\u0442\u04d9\u0440"
     ],
+    "name:bak_x_variant":[
+        "\u0444\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u043a \u0431\u0435\u0440\u04d9\u043c\u0435\u043a\u0442\u04d9\u0440"
+    ],
     "name:bel_x_preferred":[
         "\u0406\u0434\u044b\u0451\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0456\u0434\u044b\u0451\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09a7\u09be\u09b0\u09be"
@@ -44,11 +56,15 @@
     "name:bul_x_preferred":[
         "\u0418\u0434\u0438\u043e\u043c"
     ],
+    "name:bul_x_variant":[
+        "\u0438\u0434\u0438\u043e\u043c"
+    ],
     "name:cat_x_preferred":[
         "Idiotisme idiom\u00e0tic"
     ],
     "name:cat_x_variant":[
-        "idiotisme idiom\u00e0tic"
+        "idiotisme idiom\u00e0tic",
+        "modisme"
     ],
     "name:ces_x_preferred":[
         "Idiom"
@@ -58,6 +74,12 @@
     ],
     "name:cym_x_preferred":[
         "Idiom"
+    ],
+    "name:cym_x_variant":[
+        "idiom"
+    ],
+    "name:dag_x_preferred":[
+        "y\u025blt\u0254\u0263' ni\u0263ima"
     ],
     "name:dan_x_preferred":[
         "Idiom"
@@ -86,6 +108,9 @@
     "name:est_x_preferred":[
         "Fraseologism"
     ],
+    "name:est_x_variant":[
+        "fraseologism"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0635\u0637\u0644\u0627\u062d"
     ],
@@ -95,11 +120,17 @@
     "name:fin_x_preferred":[
         "Idiomi"
     ],
+    "name:fin_x_variant":[
+        "idiomi"
+    ],
     "name:fra_x_preferred":[
         "Idiotisme"
     ],
     "name:fra_x_variant":[
         "idiotisme"
+    ],
+    "name:gle_x_preferred":[
+        "teilgean cainte"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac2\u0aa2\u0abf\u0aaa\u0acd\u0ab0\u0aaf\u0acb\u0a97"
@@ -110,23 +141,36 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d1"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d8\u05d1\u05e2 \u05dc\u05e9\u05d5\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0939\u093e\u0935\u0930\u093e"
     ],
     "name:hun_x_preferred":[
         "Idiomatikus kifejez\u00e9s"
     ],
+    "name:hun_x_variant":[
+        "idiomatikus kifejez\u00e9s"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u0580\u0571\u057e\u0561\u056e\u0584"
     ],
+    "name:hye_x_variant":[
+        "\u0564\u0561\u0580\u0571\u057e\u0561\u056e\u0584"
+    ],
     "name:ina_x_preferred":[
         "Idioma"
+    ],
+    "name:ina_x_variant":[
+        "idioma"
     ],
     "name:ind_x_preferred":[
         "Ungkapan"
     ],
     "name:ind_x_variant":[
-        "Idiom"
+        "Idiom",
+        "idiom"
     ],
     "name:ita_x_preferred":[
         "Idiotismo"
@@ -143,14 +187,23 @@
     "name:kan_x_preferred":[
         "\u0cad\u0cbe\u0cb7\u0cbe\u0cb5\u0cc8\u0cb6\u0cbf\u0cb7\u0ccd\u0c9f\u0ccd\u0caf"
     ],
+    "name:kas_x_preferred":[
+        "\u0645\u064e\u062d\u0627\u0648\u0631\u0655"
+    ],
     "name:kat_x_preferred":[
         "\u10e4\u10e0\u10d0\u10d6\u10d4\u10dd\u10da\u10dd\u10d2\u10d8\u10d6\u10db\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u0437\u043c"
     ],
+    "name:kaz_x_variant":[
+        "\u0444\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u0437\u043c"
+    ],
     "name:kir_x_preferred":[
         "\u0424\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u0437\u043c"
+    ],
+    "name:kir_x_variant":[
+        "\u0444\u0440\u0430\u0437\u0435\u043e\u043b\u043e\u0433\u0438\u0437\u043c"
     ],
     "name:kor_x_preferred":[
         "\uad00\uc6a9\uad6c"
@@ -158,8 +211,14 @@
     "name:kur_x_preferred":[
         "Biw\u00eaj"
     ],
+    "name:kur_x_variant":[
+        "biw\u00eaj"
+    ],
     "name:lat_x_preferred":[
         "Idioma"
+    ],
+    "name:lat_x_variant":[
+        "idioma"
     ],
     "name:lav_x_preferred":[
         "frazeolo\u0123isms"
@@ -167,8 +226,14 @@
     "name:lit_x_preferred":[
         "Frazeologizmas"
     ],
+    "name:lit_x_variant":[
+        "frazeologizmas"
+    ],
     "name:lmo_x_preferred":[
         "Espressiun idium\u00e0tica"
+    ],
+    "name:lmo_x_variant":[
+        "espressiun idium\u00e0tica"
     ],
     "name:ltz_x_preferred":[
         "Riedensaart"
@@ -176,11 +241,23 @@
     "name:lzh_x_preferred":[
         "\u7fd2\u8a9e"
     ],
+    "name:mal_x_preferred":[
+        "\u0d36\u0d48\u0d32\u0d3f"
+    ],
+    "name:msa_x_preferred":[
+        "simpulan bahasa"
+    ],
     "name:mwl_x_preferred":[
         "Spresson idiom\u00e1tica"
     ],
+    "name:mwl_x_variant":[
+        "spresson idiom\u00e1tica"
+    ],
     "name:mya_x_preferred":[
         "\u1021\u102e\u1012\u102e\u101a\u1019\u103a"
+    ],
+    "name:nds_x_preferred":[
+        "K\u00fcrken"
     ],
     "name:nep_x_preferred":[
         "\u0909\u0916\u093e\u0928-\u091f\u0941\u0915\u094d\u0915\u093e"
@@ -199,6 +276,15 @@
     ],
     "name:nor_x_preferred":[
         "Idiom"
+    ],
+    "name:orm_x_preferred":[
+        "jechama"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a41\u0a39\u0a3e\u0a35\u0a30\u0a3e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06c1\u0627\u0648\u0631\u06c1"
     ],
     "name:pol_x_preferred":[
         "Idiom"
@@ -221,6 +307,9 @@
     "name:rus_x_preferred":[
         "\u0438\u0434\u0438\u043e\u043c\u0430"
     ],
+    "name:sah_x_preferred":[
+        "\u0438\u0434\u0438\u043e\u043c\u0430"
+    ],
     "name:sco_x_preferred":[
         "Idiom"
     ],
@@ -230,11 +319,23 @@
     "name:slk_x_preferred":[
         "Idi\u00f3m"
     ],
+    "name:slk_x_variant":[
+        "idi\u00f3m"
+    ],
     "name:slv_x_preferred":[
         "Idiom"
     ],
+    "name:slv_x_variant":[
+        "idiom"
+    ],
+    "name:sna_x_preferred":[
+        "tsumo"
+    ],
     "name:snd_x_preferred":[
         "\u0645\u062d\u0627\u0648\u0631\u0648"
+    ],
+    "name:som_x_preferred":[
+        "maldahnaan"
     ],
     "name:spa_x_preferred":[
         "Idiotismo"
@@ -251,8 +352,14 @@
     "name:sun_x_preferred":[
         "Babasan"
     ],
+    "name:sun_x_variant":[
+        "babasan"
+    ],
     "name:swa_x_preferred":[
         "Nahau"
+    ],
+    "name:swa_x_variant":[
+        "nahau"
     ],
     "name:swe_x_preferred":[
         "Idiom"
@@ -275,12 +382,16 @@
     "name:tur_x_preferred":[
         "Deyim"
     ],
+    "name:tur_x_variant":[
+        "deyim"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0434\u0456\u043e\u043c\u0430"
     ],
     "name:ukr_x_variant":[
         "Duba",
-        "\u0414\u0443\u0431\u0430"
+        "\u0414\u0443\u0431\u0430",
+        "\u0456\u0434\u0456\u043e\u043c\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0648\u0631\u06c1"
@@ -288,14 +399,26 @@
     "name:uzb_x_preferred":[
         "Idioma"
     ],
+    "name:uzb_x_variant":[
+        "idioma"
+    ],
     "name:vec_x_preferred":[
         "Modo de dir"
+    ],
+    "name:vec_x_variant":[
+        "modismo"
     ],
     "name:vie_x_preferred":[
         "Th\u00e0nh ng\u1eef"
     ],
+    "name:vie_x_variant":[
+        "th\u00e0nh ng\u1eef"
+    ],
     "name:wln_x_preferred":[
         "Ratourneure"
+    ],
+    "name:wln_x_variant":[
+        "ratourneure"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05d3\u05d9\u05d0\u05dd"
@@ -358,7 +481,7 @@
         }
     ],
     "wof:id":101860781,
-    "wof:lastmodified":1582349311,
+    "wof:lastmodified":1690876558,
     "wof:name":"\u0414\u0443\u0431\u0430",
     "wof:parent_id":102088135,
     "wof:placetype":"locality",

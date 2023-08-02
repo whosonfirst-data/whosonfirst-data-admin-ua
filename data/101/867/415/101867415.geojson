@@ -29,8 +29,14 @@
     "name:als_x_preferred":[
         "Tschuwaschische Sprache"
     ],
+    "name:alt_x_preferred":[
+        "\u0427\u0443\u0432\u0430\u0448 \u0442\u0438\u043b"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u063a\u0629 \u062a\u0634\u0648\u0641\u0627\u0634"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u063a\u0647 \u062a\u0634\u0648\u0641\u0627\u0634"
     ],
     "name:ast_x_preferred":[
         "Idioma chuvasiu"
@@ -69,6 +75,9 @@
     "name:cat_x_variant":[
         "txuvaix"
     ],
+    "name:cdo_x_preferred":[
+        "Chuvash-ng\u1e73\u0304"
+    ],
     "name:ces_x_preferred":[
         "\u010cuva\u0161tina"
     ],
@@ -78,6 +87,9 @@
     "name:che_x_preferred":[
         "\u0427\u0443\u0432\u0430\u0448\u0438\u0439\u043d \u043c\u043e\u0442\u0442"
     ],
+    "name:che_x_variant":[
+        "\u0447\u0443\u0432\u0430\u0448\u0438\u0439\u043d \u043c\u043e\u0442\u0442"
+    ],
     "name:chu_x_preferred":[
         "\u0427\u044c\u0432\u0430\u0448\u044c\u0441\u043a\u044a \u0469\ua641\ua651\u043a\u044a"
     ],
@@ -86,6 +98,12 @@
     ],
     "name:crh_x_preferred":[
         "\u00c7uva\u015f tili"
+    ],
+    "name:cym_x_preferred":[
+        "Chuvash"
+    ],
+    "name:dan_x_preferred":[
+        "tjuvasjisk"
     ],
     "name:deu_x_preferred":[
         "Tschuwaschische Sprache"
@@ -124,7 +142,8 @@
         "T\u0161uvassin kieli"
     ],
     "name:fin_x_variant":[
-        "t\u0161uvassin kieli"
+        "t\u0161uvassin kieli",
+        "t\u0161uvassi"
     ],
     "name:fra_x_preferred":[
         "Tchouvache"
@@ -174,6 +193,9 @@
     "name:hye_x_preferred":[
         "\u0579\u0578\u0582\u057e\u0561\u0577\u0565\u0580\u0565\u0576"
     ],
+    "name:ibo_x_preferred":[
+        "Chuvash"
+    ],
     "name:ind_x_preferred":[
         "Bahasa Chuvash"
     ],
@@ -207,6 +229,9 @@
     "name:kor_x_preferred":[
         "\ucd94\ubc14\uc2dc\uc5b4"
     ],
+    "name:kur_x_preferred":[
+        "\u00e7uva\u015f\u00ee"
+    ],
     "name:lat_x_preferred":[
         "Lingua Tschuvaschica"
     ],
@@ -234,8 +259,14 @@
     "name:mar_x_preferred":[
         "\u091a\u0941\u0935\u093e\u0936 \u092d\u093e\u0937\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0443\u0432\u0430\u0436\u0435\u043d\u044c \u043a\u044f\u043b\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u0427\u0443\u0432\u0430\u0448 \u0439\u044b\u043b\u043c\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u0447\u0443\u0432\u0430\u0448 \u0439\u044b\u043b\u043c\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u0427\u0443\u0432\u0430\u0448\u043a\u0438 \u0458\u0430\u0437\u0438\u043a"
@@ -248,6 +279,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0412\u0435\u0442\u044c\u043a\u0435\u043d\u044c \u043a\u0435\u043b\u044c"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0686\u0648\u0627\u0634\u06cc"
     ],
     "name:nan_x_preferred":[
         "Chuvash-g\u00ed"
@@ -272,6 +306,12 @@
     ],
     "name:nor_x_preferred":[
         "Tsjuvasjisk"
+    ],
+    "name:oci_x_preferred":[
+        "Chovash"
+    ],
+    "name:oss_x_preferred":[
+        "\u0447\u0443\u0432\u0430\u0448\u0430\u0433 \u00e6\u0432\u0437\u0430\u0433"
     ],
     "name:pan_x_preferred":[
         "\u0a1a\u0a41\u0a35\u0a3e\u0a38\u0a3c \u0a2d\u0a3e\u0a38\u0a3c\u0a3e"
@@ -315,6 +355,9 @@
     "name:sah_x_preferred":[
         "\u0427\u0443\u0432\u0430\u0448 \u0442\u044b\u043b\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6a\u1c69\u1c75\u1c77\u1c5f\u1c65 \u1c6f\u1c5f\u1c79\u1c68\u1c65\u1c64"
+    ],
     "name:scn_x_preferred":[
         "Lingua ciuvascia"
     ],
@@ -329,6 +372,9 @@
     ],
     "name:slk_x_variant":[
         "\u010duva\u0161tina"
+    ],
+    "name:slv_x_preferred":[
+        "\u010duva\u0161\u010dina"
     ],
     "name:spa_x_preferred":[
         "Idioma chuvasio"
@@ -396,6 +442,9 @@
     "name:uzb_x_preferred":[
         "Chuvash tili"
     ],
+    "name:vec_x_preferred":[
+        "ciuvaso"
+    ],
     "name:vep_x_preferred":[
         "\u010cuva\u0161an kel'"
     ],
@@ -404,6 +453,9 @@
     ],
     "name:vie_x_variant":[
         "ti\u1ebfng Chuvash"
+    ],
+    "name:wuu_x_preferred":[
+        "\u695a\u74e6\u4ec0\u8bed"
     ],
     "name:yue_x_preferred":[
         "\u695a\u74e6\u4ec0\u6587"
@@ -463,7 +515,7 @@
         }
     ],
     "wof:id":101867415,
-    "wof:lastmodified":1582349318,
+    "wof:lastmodified":1690876597,
     "wof:name":"\u041a\u0443\u043d\u0430",
     "wof:parent_id":102088325,
     "wof:placetype":"locality",

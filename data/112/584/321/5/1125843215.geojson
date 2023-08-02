@@ -28,11 +28,20 @@
     "name:ara_x_variant":[
         "\u062f\u0632\u064a\u0631\u0632\u0647\u064a\u0646\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0632\u064a\u0631\u0632\u0647\u064a\u0646\u0633\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0632\u0631\u0698\u06cc\u0646\u0633\u06a9"
     ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u044d\u0446\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0440\u0435\u0446\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Toretsk"
     ],
     "name:ceb_x_preferred":[
         "Torets'k"
@@ -40,7 +49,13 @@
     "name:ces_x_preferred":[
         "Toreck"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
+        "Toretsk"
+    ],
+    "name:dan_x_preferred":[
         "Toretsk"
     ],
     "name:deu_x_preferred":[
@@ -60,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062f\u0632\u0631\u0698\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Toretsk"
     ],
     "name:fra_x_preferred":[
         "Toretsk"
@@ -91,8 +109,14 @@
     "name:nob_x_preferred":[
         "Toresk"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u043e\u0440\u0435\u0446\u043a"
+    ],
     "name:pol_x_preferred":[
         "Tore\u0107k"
+    ],
+    "name:por_x_preferred":[
+        "Toretsk"
     ],
     "name:ron_x_preferred":[
         "Tore\u021bk"
@@ -110,8 +134,14 @@
     "name:srp_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Toretsk"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u043e\u0440\u0435\u0442\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e2d\u0e41\u0e23\u0e15\u0e2a\u0e01\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u044c\u043a"
@@ -122,11 +152,17 @@
     "name:und_x_variant":[
         "Imeni Dzerzhinskogo"
     ],
+    "name:uzb_x_preferred":[
+        "Toretsk"
+    ],
     "name:vie_x_preferred":[
         "Toretsk"
     ],
     "name:zho_x_preferred":[
         "\u6377\u723e\u4efb\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u6258\u96f7\u8328\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -187,7 +223,7 @@
         }
     ],
     "wof:id":1125843215,
-    "wof:lastmodified":1566593963,
+    "wof:lastmodified":1690876971,
     "wof:name":"Dzerzhinsk",
     "wof:parent_id":1108815895,
     "wof:placetype":"locality",

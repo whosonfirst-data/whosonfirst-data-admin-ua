@@ -34,14 +34,26 @@
     "name:bel_x_variant":[
         "\u0427\u0430\u0441\u0430\u045e \u042f\u0440"
     ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0441\u043e\u0432 \u042f\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Tx\u00e0ssiv Iar"
+    ],
     "name:ceb_x_preferred":[
         "Chasiv Yar"
     ],
     "name:ces_x_preferred":[
         "\u010casiv Jar"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u0441\u043e\u0432 \u042f\u0440"
+    ],
     "name:crh_x_preferred":[
         "\u00c7asiv Yar"
+    ],
+    "name:dan_x_preferred":[
+        "Tjasiv Jar"
     ],
     "name:deu_x_preferred":[
         "Tschassiw Jar"
@@ -52,11 +64,23 @@
     "name:eng_x_variant":[
         "Chasiv Yar"
     ],
+    "name:epo_x_preferred":[
+        "\u0108asiv Jar"
+    ],
+    "name:est_x_preferred":[
+        "T\u0161assiv Jar"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0633\u06cc\u0648 \u06cc\u0627\u0631"
     ],
+    "name:fin_x_preferred":[
+        "T\u0161asiv Jar"
+    ],
     "name:fra_x_preferred":[
         "Tchassiv Yar"
+    ],
+    "name:fra_x_variant":[
+        "Tchassiv Iar"
     ],
     "name:hsb_x_preferred":[
         "\u010casiw Jar"
@@ -79,6 +103,9 @@
     "name:lav_x_preferred":[
         "\u010casivjara"
     ],
+    "name:lit_x_preferred":[
+        "\u010casiv Jaras"
+    ],
     "name:nld_x_preferred":[
         "Tsjasiv Jar"
     ],
@@ -88,11 +115,23 @@
     "name:nob_x_preferred":[
         "Tsjasiv Jar"
     ],
+    "name:nor_x_preferred":[
+        "Tjasiv Jar"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0430\u0441\u043e\u0432 \u042f\u0440"
+    ],
     "name:pol_x_preferred":[
         "Czasiw Jar"
     ],
+    "name:por_x_preferred":[
+        "Chasiv Yar"
+    ],
     "name:ron_x_preferred":[
         "Ceasiv Iar"
+    ],
+    "name:ron_x_variant":[
+        "Ceasov Iar"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0441\u043e\u0432-\u042f\u0440"
@@ -100,11 +139,23 @@
     "name:rus_x_variant":[
         "\u0427\u0430\u0441\u043e\u0432 \u042f\u0440"
     ],
+    "name:slv_x_preferred":[
+        "\u010casiv Jar"
+    ],
+    "name:spa_x_preferred":[
+        "Chasiv Yar"
+    ],
+    "name:swe_x_preferred":[
+        "Tjasiv Jar"
+    ],
     "name:szl_x_preferred":[
         "Czasiw Jar"
     ],
     "name:tat_x_preferred":[
         "\u0427\u0430\u0441\u0438\u0432-\u042f\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e32\u0e0b\u0e34\u0e27\u0e22\u0e32\u0e23\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "Chasiv Yar"
@@ -112,11 +163,17 @@
     "name:ukr_x_variant":[
         "\u0427\u0430\u0441\u0456\u0432 \u042f\u0440"
     ],
+    "name:uzb_x_preferred":[
+        "Chasiv Yar"
+    ],
     "name:vie_x_preferred":[
         "Chasiv Yar"
     ],
     "name:zho_x_preferred":[
         "\u6070\u7d22\u592b\u4e9e\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u6070\u897f\u592b\u4e9a\u5c14"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -167,7 +224,7 @@
         }
     ],
     "wof:id":1125900969,
-    "wof:lastmodified":1566593919,
+    "wof:lastmodified":1690876910,
     "wof:name":"Chasov Yar",
     "wof:parent_id":1108815889,
     "wof:placetype":"locality",

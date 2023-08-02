@@ -21,14 +21,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u0440\u0430\u0435\u0432\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u0438\u0440\u044f\u0435\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Xiriaieve"
     ],
     "name:ceb_x_preferred":[
         "Shyryayeve"
     ],
     "name:ces_x_preferred":[
         "\u0160yrjajeve"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0438\u0440\u044f\u0435\u0432\u043e"
     ],
     "name:crh_x_preferred":[
         "\u015e\u0131r\u00e2yeve"
@@ -44,6 +53,9 @@
     ],
     "name:lav_x_preferred":[
         "\u0160irjajeve"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0428\u0438\u0440\u044f\u0435\u0432\u043e"
     ],
     "name:pol_x_preferred":[
         "Szyriajewe"
@@ -63,6 +75,9 @@
     "name:spa_x_preferred":[
         "Shyriaieve"
     ],
+    "name:spa_x_variant":[
+        "Shiriayeve"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0440\u044f\u044d\u0432\u0435"
     ],
@@ -71,6 +86,9 @@
     ],
     "name:und_x_variant":[
         "Sharayevo"
+    ],
+    "name:uzb_x_preferred":[
+        "Shiryayeve"
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u91cc\u4e9e\u8449\u97cb"
@@ -100,8 +118,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088047,
-        85688877
+        85688877,
+        102088047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":101865659,
-    "wof:lastmodified":1588710636,
+    "wof:lastmodified":1690876790,
     "wof:name":"\u0428\u0438\u0440\u044f\u0454\u0432\u0435",
     "wof:parent_id":102088047,
     "wof:placetype":"locality",

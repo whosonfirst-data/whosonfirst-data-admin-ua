@@ -28,8 +28,14 @@
     "name:azb_x_preferred":[
         "\u0628\u0627\u0644\u0627\u06a9\u0644\u06cc\u0627"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043a\u043b\u0435\u044f"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0456\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Balaklia"
     ],
     "name:ceb_x_preferred":[
         "Balakliya"
@@ -37,11 +43,20 @@
     "name:ces_x_preferred":[
         "Balaklija"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043a\u043b\u0435\u044f"
+    ],
     "name:crh_x_preferred":[
         "Balakliya"
     ],
+    "name:dan_x_preferred":[
+        "Balaklija"
+    ],
     "name:deu_x_preferred":[
         "Balaklija"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03b1\u03ba\u03bb\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Balakliya"
@@ -49,16 +64,25 @@
     "name:eng_x_variant":[
         "Balakliia"
     ],
+    "name:epo_x_preferred":[
+        "Balaklijo"
+    ],
     "name:est_x_preferred":[
         "Balaklija"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0644\u0627\u06a9\u0644\u06cc\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Balaklija"
+    ],
     "name:fra_x_preferred":[
         "Balakliia"
     ],
     "name:hsb_x_preferred":[
+        "Balaklija"
+    ],
+    "name:hun_x_preferred":[
         "Balaklija"
     ],
     "name:hye_x_preferred":[
@@ -76,6 +100,12 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0435\u044f"
     ],
+    "name:kor_x_preferred":[
+        "\ubc1c\ub77c\ud074\ub9ac\uc57c"
+    ],
+    "name:lav_x_preferred":[
+        "Balak\u013cija"
+    ],
     "name:lit_x_preferred":[
         "Balaklija"
     ],
@@ -85,8 +115,20 @@
     "name:nno_x_preferred":[
         "Balaklija"
     ],
+    "name:nob_x_preferred":[
+        "Balaklija"
+    ],
+    "name:oci_x_preferred":[
+        "Balakliia"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043a\u043b\u0435\u044f"
+    ],
     "name:pol_x_preferred":[
         "Ba\u0142aklija"
+    ],
+    "name:por_x_preferred":[
+        "Balakliia"
     ],
     "name:ron_x_preferred":[
         "Balakliia"
@@ -94,20 +136,35 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0435\u044f"
     ],
+    "name:spa_x_preferred":[
+        "Balaklia"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Balaklija"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0438\u044f"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e25\u0e32\u0e01\u0e25\u0e35\u0e22\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u043b\u0456\u044f"
+    ],
+    "name:uzb_x_preferred":[
+        "Balakliia"
     ],
     "name:vie_x_preferred":[
         "Balakliia"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u514b\u5217\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u62c9\u514b\u5229\u4e9a"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -160,7 +217,7 @@
         }
     ],
     "wof:id":1125930757,
-    "wof:lastmodified":1566593884,
+    "wof:lastmodified":1690876865,
     "wof:name":"Balakleya",
     "wof:parent_id":102088843,
     "wof:placetype":"locality",

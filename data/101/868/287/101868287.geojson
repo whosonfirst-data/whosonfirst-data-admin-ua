@@ -20,7 +20,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "name:bel_x_variant":[
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0646\u0643\u0627"
+    ],
+    "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u2019\u0456\u043d\u043a\u0430"
     ],
     "name:cat_x_preferred":[
@@ -29,11 +32,20 @@
     "name:ces_x_preferred":[
         "Marjinka"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u044c\u0438\u043d\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Maryinka"
     ],
+    "name:dan_x_preferred":[
+        "Marjinka"
+    ],
     "name:deu_x_preferred":[
         "Marjinka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03b3\u03b9\u03bd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mar'inka"
@@ -53,8 +65,14 @@
     "name:fas_x_variant":[
         "\u0645\u0627\u0631\u0626\u06cc\u0646\u06a9\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Marjinka"
+    ],
     "name:fra_x_preferred":[
         "Mar\u00efnka"
+    ],
+    "name:gla_x_preferred":[
+        "Marinka"
     ],
     "name:hsb_x_preferred":[
         "Marjinka"
@@ -62,8 +80,14 @@
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u0575\u056b\u0576\u056f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Maryinka"
+    ],
     "name:ita_x_preferred":[
         "Marinka"
+    ],
+    "name:ita_x_variant":[
+        "Mar\"\u00efnka"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ea\u30f3\u30ab"
@@ -71,7 +95,13 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10d8\u10dc\u10d9\u10d0"
     ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9b0\uce74"
+    ],
     "name:lav_x_preferred":[
+        "Marjinka"
+    ],
+    "name:lit_x_preferred":[
         "Marjinka"
     ],
     "name:nld_x_preferred":[
@@ -89,10 +119,16 @@
     "name:nor_x_preferred":[
         "Marjinka"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0440\u044c\u0438\u043d\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Marjinka"
     ],
     "name:pol_x_variant":[
+        "Marinka"
+    ],
+    "name:por_x_preferred":[
         "Marinka"
     ],
     "name:ron_x_preferred":[
@@ -107,8 +143,23 @@
     "name:spa_x_preferred":[
         "Marinka"
     ],
+    "name:spa_x_variant":[
+        "M\u00e1rinka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Marjinka"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0440\u044c\u0438\u043d\u043a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e34\u0e22\u0e34\u0e19\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Marinka"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440'\u0457\u043d\u043a\u0430"
@@ -119,6 +170,9 @@
     ],
     "name:und_x_variant":[
         "Mareyka"
+    ],
+    "name:uzb_x_preferred":[
+        "Marinka"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u6797\u5361"
@@ -180,7 +234,7 @@
         }
     ],
     "wof:id":101868287,
-    "wof:lastmodified":1582349278,
+    "wof:lastmodified":1690876428,
     "wof:name":"\u041c\u0430\u0440'\u0457\u043d\u043a\u0430",
     "wof:parent_id":85688779,
     "wof:placetype":"locality",

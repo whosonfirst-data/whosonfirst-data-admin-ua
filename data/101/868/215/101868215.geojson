@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041e\u043b\u044c\u0433\u0438\u043d\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Olg\u0131nka"
     ],
@@ -32,11 +35,17 @@
     "name:eng_x_variant":[
         "Olhynka"
     ],
+    "name:fra_x_preferred":[
+        "Olhynka"
+    ],
     "name:lav_x_preferred":[
         "O\u013chinka"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u044c\u0433\u0438\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Oljinka"
     ],
     "name:ukr_x_preferred":[
         "Ol\u2019hynka"
@@ -49,6 +58,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5967\u5229\u91d1\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u5229\u4ea8\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":101868215,
-    "wof:lastmodified":1582349284,
+    "wof:lastmodified":1690876451,
     "wof:name":"\u041e\u043b\u044c\u0433\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088509,
     "wof:placetype":"locality",

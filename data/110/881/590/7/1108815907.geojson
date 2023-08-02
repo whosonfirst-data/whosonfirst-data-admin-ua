@@ -37,19 +37,40 @@
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0430\u043c\u0430\u0441\u043a\u043e\u045e\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Novomoskovsk"
+    ],
     "name:ceb_x_preferred":[
         "Novomoskovs'k"
     ],
     "name:ces_x_preferred":[
         "Novomoskovsk"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
+        "Novomoskovsk"
+    ],
+    "name:dan_x_preferred":[
         "Novomoskovsk"
     ],
     "name:deu_x_preferred":[
         "Nowomoskowsk"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03b2\u03bf\u03bc\u03bf\u03c3\u03ba\u03cc\u03b2\u03c3\u03ba"
+    ],
     "name:eng_x_preferred":[
+        "Novomoskovsk"
+    ],
+    "name:epo_x_preferred":[
+        "Novomoskovsk"
+    ],
+    "name:est_x_preferred":[
+        "Novomoskovsk"
+    ],
+    "name:eus_x_preferred":[
         "Novomoskovsk"
     ],
     "name:fas_x_preferred":[
@@ -97,8 +118,17 @@
     "name:nno_x_preferred":[
         "Novomoskovsk i Ukraina"
     ],
+    "name:nob_x_preferred":[
+        "Novomoskovsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Nowomoskowsk"
+    ],
+    "name:por_x_preferred":[
+        "Novomoskovsk"
     ],
     "name:ron_x_preferred":[
         "Novomoskovsk"
@@ -115,17 +145,29 @@
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Novomoskovsk"
+    ],
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a"
     ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e2d\u0e27\u0e2d\u0e21\u0e2d\u0e2a\u0e01\u0e47\u0e2d\u0e27\u0e2a\u0e01\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Novomoskovsk"
     ],
     "name:vie_x_preferred":[
         "Novomoskovsk"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u83ab\u65af\u79d1\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u83ab\u65af\u79d1\u592b\u65af\u514b"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +196,7 @@
         }
     ],
     "wof:id":1108815907,
-    "wof:lastmodified":1607983192,
+    "wof:lastmodified":1690876220,
     "wof:name":"Novomoskovska",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

@@ -23,11 +23,26 @@
     "name:cat_x_preferred":[
         "Kalchik"
     ],
+    "name:cat_x_variant":[
+        "Kaltxik"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0447\u0438\u043a"
+    ],
     "name:deu_x_preferred":[
         "Kaltschyk"
     ],
     "name:eng_x_preferred":[
         "Kal'chik"
+    ],
+    "name:eng_x_variant":[
+        "Kalchyk"
+    ],
+    "name:eus_x_preferred":[
+        "Kaltxyk"
+    ],
+    "name:fin_x_preferred":[
+        "K\u0430lt\u0161yk"
     ],
     "name:fra_x_preferred":[
         "Kaltchyk"
@@ -56,7 +71,13 @@
     "name:mon_x_preferred":[
         "\u041a\u0430\u043b\u044c\u0447\u0438\u043a \u0433\u043e\u043b"
     ],
+    "name:nan_x_preferred":[
+        "Kalchyk"
+    ],
     "name:nno_x_preferred":[
+        "Kaltsjyk"
+    ],
+    "name:nob_x_preferred":[
         "Kaltsjyk"
     ],
     "name:nor_x_preferred":[
@@ -80,14 +101,14 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u044c\u0447\u0438\u043a"
     ],
-    "name:ukr_x_variant":[
-        "\u041a\u0430\u043b\u044c\u0447\u0438\u043a"
-    ],
     "name:und_x_variant":[
         "Kal\u2019chik"
     ],
     "name:zho_x_preferred":[
         "\u5361\u5229\u5947\u514b\u6cb3"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u5229\u5947\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":101867025,
-    "wof:lastmodified":1582349318,
+    "wof:lastmodified":1690876596,
     "wof:name":"\u041a\u0430\u043b\u044c\u0447\u0438\u043a",
     "wof:parent_id":102088371,
     "wof:placetype":"locality",

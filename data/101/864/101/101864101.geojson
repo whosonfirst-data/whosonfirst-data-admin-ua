@@ -21,8 +21,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u062a\u0634\u064a\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u062a\u06cc\u0634\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Neti\u015fin"
     ],
     "name:bel_x_preferred":[
         "\u041d\u044d\u0446\u0456\u0448\u044b\u043d"
@@ -30,14 +36,23 @@
     "name:bel_x_variant":[
         "\u041d\u044f\u0446\u0435\u0448\u044b\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Netixin"
+    ],
     "name:ceb_x_preferred":[
         "Netishyn"
     ],
     "name:ces_x_preferred":[
         "Neti\u0161yn"
     ],
+    "name:chu_x_preferred":[
+        "\u041d\u0454\u0442\u0463\u0448\u0438\u043d\u044a"
+    ],
     "name:crh_x_preferred":[
         "Neti\u015f\u0131n"
+    ],
+    "name:dan_x_preferred":[
+        "Netisjyn"
     ],
     "name:deu_x_preferred":[
         "Netischyn"
@@ -69,6 +84,9 @@
     "name:ita_x_preferred":[
         "Neti\u0161yn"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30c1\u30b7\u30a3\u30f3"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10d4\u10e2\u10d4\u10e8\u10d8\u10dc\u10d8"
     ],
@@ -84,11 +102,20 @@
     "name:nno_x_preferred":[
         "Netisjyn"
     ],
+    "name:nob_x_preferred":[
+        "Netisjin"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0435\u0442\u0435\u0448\u0438\u043d"
+    ],
     "name:pol_x_preferred":[
         "Niecieszyn"
     ],
     "name:pol_x_variant":[
         "Nityszyn"
+    ],
+    "name:por_x_preferred":[
+        "Netishyn"
     ],
     "name:ron_x_preferred":[
         "Neti\u0219\u00een"
@@ -114,17 +141,26 @@
     "name:tat_x_variant":[
         "\u041d\u0435\u0442\u0438\u0448\u044b\u043d"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e19\u0e15\u0e35\u0e0a\u0e36\u0e19"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0442\u0456\u0448\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Solov\u2019ye Goryn\u2019"
     ],
+    "name:uzb_x_preferred":[
+        "Netishin"
+    ],
     "name:vie_x_preferred":[
         "Netishyn"
     ],
     "name:zho_x_preferred":[
         "\u8010\u7279\u65af\u6069"
+    ],
+    "name:zho_x_variant":[
+        "\u5185\u5b63\u7533"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -180,7 +216,7 @@
         }
     ],
     "wof:id":101864101,
-    "wof:lastmodified":1582349370,
+    "wof:lastmodified":1690876843,
     "wof:name":"\u041d\u0435\u0442\u0456\u0448\u0438\u043d",
     "wof:parent_id":1175613731,
     "wof:placetype":"locality",

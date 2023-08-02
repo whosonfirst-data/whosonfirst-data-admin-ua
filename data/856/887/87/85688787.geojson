@@ -68,6 +68,12 @@
     "name:ces_x_preferred":[
         "Sumsk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0443\u043c\u0438\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0648\u0645\u06cc \u0626\u06c6\u0628\u0644\u0627\u0633\u062a"
+    ],
     "name:crh_x_preferred":[
         "Sum\u0131 vil\u00e2yeti"
     ],
@@ -82,6 +88,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03cd\u03bc\u03c3\u03ba\u03b1\u03b3\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u038c\u03bc\u03c0\u03bb\u03b1\u03c3\u03c4 \u03a3\u03bf\u03cd\u03bc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Sumy"
@@ -114,6 +123,9 @@
     "name:frr_x_preferred":[
         "Sumy"
     ],
+    "name:gla_x_preferred":[
+        "Sumska Oblast"
+    ],
     "name:gle_x_preferred":[
         "C\u00faige Shumy"
     ],
@@ -144,8 +156,14 @@
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u0574\u056b\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Sumi"
+    ],
     "name:ind_x_preferred":[
         "Oblast Sumy"
+    ],
+    "name:isl_x_preferred":[
+        "Sumska oblast"
     ],
     "name:ita_x_preferred":[
         "Oblast' di Sumy"
@@ -159,11 +177,17 @@
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u0443\u043c\u044b \u043e\u0431\u043b\u0443\u0441\u0443"
+    ],
     "name:kor_x_preferred":[
         "\uc218\ubbf8 \uc8fc"
     ],
     "name:kor_x_variant":[
         "\uc218\ubbf8\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Sumensis"
     ],
     "name:lav_x_preferred":[
         "Sumu apgabals"
@@ -177,14 +201,26 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u092e\u0940 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u0924"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0443\u043c\u044b\u043d\u044c \u0430\u0439\u043c\u0430\u043a"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0443\u043c\u044b \u0432\u0435\u043b"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u043c\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0443\u043c\u0441\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0443\u043c\u044b \u043c\u0443\u0436"
     ],
     "name:msa_x_preferred":[
         "Sumy Oblast"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0443\u043c\u044b\u043d\u044c \u0451\u043d\u043a\u0441"
     ],
     "name:nan_x_preferred":[
         "Sumy s\u00e9ng"
@@ -209,6 +245,9 @@
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d sumski"
+    ],
+    "name:pol_x_variant":[
+        "obw\u00f3d sumski"
     ],
     "name:por_x_preferred":[
         "Oblast de Sumy"
@@ -240,6 +279,9 @@
     "name:slv_x_preferred":[
         "Sumi Oblast"
     ],
+    "name:smn_x_preferred":[
+        "Sumy ku\u00e1vlu"
+    ],
     "name:spa_x_preferred":[
         "\u00d3blast de Sumy"
     ],
@@ -257,6 +299,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c2e\u0c40 \u0c13\u0c2c\u0c4d\u0c32\u0c3e\u0c38\u0c4d\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0443\u043c\u0441\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e0b\u0e39\u0e21\u0e35"
@@ -289,8 +334,17 @@
     "name:war_x_preferred":[
         "Sumy Oblast"
     ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u6885\u5dde"
+    ],
     "name:xmf_x_preferred":[
         "\u10e1\u10e3\u10db\u10d0\u10e8 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d5\u05de\u05d9 \u05d2\u05d5\u05d1\u05e2\u05e8\u05e0\u05d9\u05e2"
+    ],
+    "name:yue_x_preferred":[
+        "\u8607\u6885\u5dde"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sumy s\u00e9ng"
@@ -420,7 +474,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1614896261,
+    "wof:lastmodified":1690876190,
     "wof:name":"Sumy",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

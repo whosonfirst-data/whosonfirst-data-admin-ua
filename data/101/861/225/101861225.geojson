@@ -29,20 +29,41 @@
     "name:bel_x_variant":[
         "\u0416\u044b\u0434\u0430\u0447\u0430\u045e"
     ],
+    "name:cat_x_preferred":[
+        "Jid\u00e0txiv"
+    ],
     "name:ces_x_preferred":[
         "\u017dyda\u010div"
+    ],
+    "name:che_x_preferred":[
+        "\u0416\u0438\u0434\u0430\u0447\u043e\u0432"
     ],
     "name:crh_x_preferred":[
         "J\u0131da\u00e7iv"
     ],
+    "name:dan_x_preferred":[
+        "Zjydatjiv"
+    ],
     "name:deu_x_preferred":[
         "Schydatschiw"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03bd\u03c4\u03ac\u03c4\u03c3\u03b9\u03b2"
     ],
     "name:eng_x_preferred":[
         "Zhydachiv"
     ],
+    "name:est_x_preferred":[
+        "\u017d\u00f5dat\u0161iv"
+    ],
+    "name:eus_x_preferred":[
+        "Zhydatxiv"
+    ],
     "name:fas_x_preferred":[
         "\u0698\u06cc\u062f\u0627\u0634\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "\u017dydat\u0161iv"
     ],
     "name:fra_x_preferred":[
         "Jydatchiv"
@@ -71,6 +92,12 @@
     "name:lav_x_preferred":[
         "\u017dida\u010diva"
     ],
+    "name:lit_x_preferred":[
+        "\u017dyda\u010divas"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0416\u0438\u0434\u0430\u0447\u0451\u0432"
+    ],
     "name:nno_x_preferred":[
         "Zjydatsjiv"
     ],
@@ -82,6 +109,9 @@
     ],
     "name:pol_x_preferred":[
         "\u017bydacz\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Zhydachiv"
     ],
     "name:ron_x_preferred":[
         "J\u00eedaciv"
@@ -101,6 +131,9 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c4d\u0c39\u0c48\u0c26\u0c3e\u0c1a\u0c3f\u0c35\u0c4d"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0c\u0e37\u0e2d\u0e14\u0e32\u0e0a\u0e34\u0e27"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0434\u0430\u0447\u0456\u0432"
     ],
@@ -110,11 +143,20 @@
     "name:und_x_variant":[
         "Zhidachev"
     ],
+    "name:uzb_x_preferred":[
+        "Jidachiv"
+    ],
     "name:vie_x_preferred":[
         "Zhydachiv"
     ],
+    "name:yid_x_preferred":[
+        "\u05d6\u05d9\u05d3\u05d9\u05d8\u05e9\u05d5\u05d1"
+    ],
     "name:zho_x_preferred":[
         "\u65e5\u9054\u55ac\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u65e5\u8fbe\u5947\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -166,7 +208,7 @@
         }
     ],
     "wof:id":101861225,
-    "wof:lastmodified":1582349273,
+    "wof:lastmodified":1690876406,
     "wof:name":"\u0416\u0438\u0434\u0430\u0447\u0456\u0432",
     "wof:parent_id":102088289,
     "wof:placetype":"locality",

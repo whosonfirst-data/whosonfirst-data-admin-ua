@@ -24,11 +24,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0647\u0648\u0633\u0644\u0627\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0647\u0648\u0633\u0644\u0627\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0647\u0648\u0633\u0644\u0627\u0648"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0433\u0443\u0441\u043b\u0430\u045e"
+    ],
+    "name:cat_x_preferred":[
+        "Bohuslav"
     ],
     "name:ceb_x_preferred":[
         "Bohuslav"
@@ -36,8 +42,14 @@
     "name:ces_x_preferred":[
         "Bohuslav"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432"
+    ],
     "name:crh_x_preferred":[
         "Boguslav"
+    ],
+    "name:dan_x_preferred":[
+        "Bohuslav"
     ],
     "name:deu_x_preferred":[
         "Bohuslaw"
@@ -45,10 +57,16 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03cc\u03b3\u03bf\u03c5\u03c3\u03bb\u03b1\u03b2"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03bf\u03c7\u03bf\u03c5\u03c3\u03bb\u03ac\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Bohuslav"
     ],
     "name:eng_x_variant":[
+        "Boguslav"
+    ],
+    "name:est_x_preferred":[
         "Boguslav"
     ],
     "name:fas_x_preferred":[
@@ -59,6 +77,9 @@
     ],
     "name:fra_x_preferred":[
         "Bohouslav"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d2\u05d5\u05e1\u05dc\u05d1"
     ],
     "name:hsb_x_preferred":[
         "Bohuslaw"
@@ -75,8 +96,17 @@
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d2\u10e3\u10e1\u10da\u10d0\u10d5\u10d8"
     ],
+    "name:lat_x_preferred":[
+        "Boguslavia"
+    ],
+    "name:lav_x_preferred":[
+        "Bohuslava"
+    ],
     "name:lit_x_preferred":[
         "Bohuslavas"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432"
     ],
     "name:nld_x_preferred":[
         "Boguslav"
@@ -84,8 +114,17 @@
     "name:nno_x_preferred":[
         "Bohuslav"
     ],
+    "name:nob_x_preferred":[
+        "Bohuslav"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432"
+    ],
     "name:pol_x_preferred":[
         "Bohus\u0142aw"
+    ],
+    "name:por_x_preferred":[
+        "Bohuslav"
     ],
     "name:ron_x_preferred":[
         "Bohuslav"
@@ -96,8 +135,14 @@
     "name:sah_x_preferred":[
         "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432"
     ],
+    "name:swe_x_preferred":[
+        "Bohuslav"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u043e\u04bb\u0443\u0441\u043b\u0430\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e2e\u0e38\u0e2a\u0e40\u0e25\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432"
@@ -164,7 +209,7 @@
         }
     ],
     "wof:id":101867943,
-    "wof:lastmodified":1582349326,
+    "wof:lastmodified":1690876627,
     "wof:name":"\u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432",
     "wof:parent_id":102088563,
     "wof:placetype":"locality",

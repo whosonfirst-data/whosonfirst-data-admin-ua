@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u043d\u0430\u0441\u0442\u0430\u0439\u043f\u0456\u043b\u044c"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439\u043f\u043e\u043b\u044c"
+    ],
     "name:deu_x_preferred":[
         "Hornostajpil"
     ],
@@ -32,11 +35,23 @@
     "name:eng_x_variant":[
         "Hornostaipil"
     ],
+    "name:fin_x_preferred":[
+        "H\u043ern\u043est\u0430ip\u0456l"
+    ],
     "name:fra_x_preferred":[
         "Hornostaypil"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05e8\u05e0\u05d5\u05e1\u05d8\u05d9\u05d9\u05e4\u05dc"
+    ],
+    "name:nan_x_preferred":[
+        "Hornostaipil"
+    ],
+    "name:nno_x_preferred":[
+        "Hornostajpil"
+    ],
+    "name:nob_x_preferred":[
+        "Hornostajpil"
     ],
     "name:pol_x_preferred":[
         "Hornostajpol"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":101871205,
-    "wof:lastmodified":1582349339,
+    "wof:lastmodified":1690876714,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439\u043f\u0456\u043b\u044c",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:cat_x_variant":[
         "isba"
     ],
+    "name:chv_x_preferred":[
+        "\u041f\u04f3\u0440\u0442"
+    ],
     "name:deu_x_preferred":[
         "Izba"
     ],
@@ -56,17 +59,32 @@
     "name:hye_x_preferred":[
         "\u056d\u0580\u0573\u056b\u0569"
     ],
+    "name:ind_x_preferred":[
+        "Rumah Izba"
+    ],
     "name:ita_x_preferred":[
         "Isba"
     ],
+    "name:ita_x_variant":[
+        "isba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6728\u9020\u306e\u6c11\u5bb6"
+    ],
     "name:nld_x_preferred":[
         "Izba"
+    ],
+    "name:nld_x_variant":[
+        "izba"
     ],
     "name:nno_x_preferred":[
         "rom"
     ],
     "name:pol_x_preferred":[
         "Izba"
+    ],
+    "name:pol_x_variant":[
+        "izba"
     ],
     "name:por_x_preferred":[
         "Isb\u00e1"
@@ -78,7 +96,8 @@
         "\u0418\u0437\u0431\u0430"
     ],
     "name:rus_x_variant":[
-        "\u041c\u0430\u0437\u0430\u043d\u043a\u0430"
+        "\u041c\u0430\u0437\u0430\u043d\u043a\u0430",
+        "\u0438\u0437\u0431\u0430"
     ],
     "name:slk_x_preferred":[
         "Izba"
@@ -88,6 +107,9 @@
     ],
     "name:tat_x_preferred":[
         "\u042b\u0437\u0431\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Izba"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0437\u0430\u043d\u043a\u0430"
@@ -160,7 +182,7 @@
         }
     ],
     "wof:id":101855911,
-    "wof:lastmodified":1582349366,
+    "wof:lastmodified":1690876824,
     "wof:name":"\u041c\u0430\u0437\u0430\u043d\u043a\u0430",
     "wof:parent_id":1108738651,
     "wof:placetype":"locality",

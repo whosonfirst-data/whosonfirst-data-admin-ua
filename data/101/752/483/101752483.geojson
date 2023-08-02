@@ -23,6 +23,9 @@
     "name:abk_x_preferred":[
         "\u041b\u044c\u0432\u0438\u0432"
     ],
+    "name:abk_x_variant":[
+        "\u041b\u044c\u0432\u043e\u0432"
+    ],
     "name:afr_x_preferred":[
         "Lwif"
     ],
@@ -41,8 +44,17 @@
     "name:arg_x_preferred":[
         "Lviv"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0641\u064a\u0641"
+    ],
     "name:ast_x_preferred":[
         "Le\u00f3polis"
+    ],
+    "name:ast_x_variant":[
+        "Lviv"
+    ],
+    "name:avk_x_preferred":[
+        "Lviv"
     ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0648\u0641"
@@ -64,6 +76,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09ac\u09bf\u09ac"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09bf\u09ad\u09bf\u0989"
     ],
     "name:bos_x_preferred":[
         "Lavov"
@@ -137,7 +152,25 @@
     "name:fra_x_preferred":[
         "Lviv"
     ],
+    "name:frp_x_preferred":[
+        "Lviv"
+    ],
+    "name:fry_x_preferred":[
+        "Lviv"
+    ],
+    "name:gag_x_preferred":[
+        "Lviv"
+    ],
+    "name:gla_x_preferred":[
+        "Lviv"
+    ],
+    "name:gle_x_preferred":[
+        "Lviv"
+    ],
     "name:glg_x_preferred":[
+        "Lviv"
+    ],
+    "name:glv_x_preferred":[
         "Lviv"
     ],
     "name:gsw_x_preferred":[
@@ -200,6 +233,9 @@
     "name:kat_x_preferred":[
         "\u10da\u10d5\u10dd\u10d5\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10da\u10d5\u10d8\u10d5\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
     ],
@@ -210,7 +246,17 @@
         "\ub9ac\ube44\uc6b0"
     ],
     "name:kor_x_variant":[
-        "\ub9ac\ube44\ube0c"
+        "\ub9ac\ube44\ube0c",
+        "\ub974\ube44\uc6b0"
+    ],
+    "name:kur_x_preferred":[
+        "Lv\u00eev"
+    ],
+    "name:lad_x_preferred":[
+        "Leopolis"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea5\u0eb0\u0ea7\u0eb5\u0e9f"
     ],
     "name:lat_x_preferred":[
         "Leopolis"
@@ -218,8 +264,14 @@
     "name:lav_x_preferred":[
         "\u013bvova"
     ],
+    "name:lav_x_variant":[
+        "\u013bviva"
+    ],
     "name:lit_x_preferred":[
         "Lvovas"
+    ],
+    "name:lld_x_preferred":[
+        "Leopolis"
     ],
     "name:lmo_x_preferred":[
         "Leopul"
@@ -227,14 +279,29 @@
     "name:ltz_x_preferred":[
         "Lwow"
     ],
+    "name:ltz_x_variant":[
+        "Lwiw"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d0e\u0d7d\u0d35\u0d40\u0d35\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0935\u094d\u0939\u093f\u0935"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044c\u0432\u0438\u0432"
     ],
     "name:mhr_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0432\u043e\u0432"
+    ],
+    "name:mlg_x_preferred":[
+        "Lviv"
+    ],
+    "name:mlt_x_preferred":[
+        "Lviv"
     ],
     "name:mon_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
@@ -247,6 +314,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432 \u043e\u0448"
+    ],
+    "name:myv_x_variant":[
+        "\u041b\u044c\u0432\u0438\u0432"
     ],
     "name:nld_x_preferred":[
         "Lviv"
@@ -267,6 +337,9 @@
         "\u041b\u044c\u0432\u043e\u0432"
     ],
     "name:pap_x_preferred":[
+        "Lviv"
+    ],
+    "name:pcd_x_preferred":[
         "Lviv"
     ],
     "name:pfl_x_preferred":[
@@ -323,6 +396,9 @@
     "name:slv_x_preferred":[
         "Lvov"
     ],
+    "name:snd_x_preferred":[
+        "\u0644\u0648\u064a\u0641"
+    ],
     "name:spa_x_preferred":[
         "Le\u00f3polis"
     ],
@@ -337,6 +413,9 @@
     ],
     "name:srp_x_variant":[
         "\u041b\u0430\u0432\u043e\u0432"
+    ],
+    "name:swa_x_preferred":[
+        "Lviv"
     ],
     "name:swe_x_preferred":[
         "Lviv"
@@ -380,6 +459,9 @@
     "name:tyv_x_preferred":[
         "\u041b\u044c\u0432\u0438\u0432"
     ],
+    "name:udm_x_preferred":[
+        "\u041b\u044c\u0432\u043e\u0432"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u044c\u0432\u0456\u0432"
     ],
@@ -412,6 +494,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5229\u6c83\u592b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d5\u10dd\u10d5\u10d8"
     ],
     "name:yid_x_historical":[
         "\u05dc\u05e2\u05de\u05d1\u05e8\u05d9\u05e7"
@@ -545,8 +630,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        1108730647,
-        85688887
+        85688887,
+        1108730647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -568,7 +653,7 @@
         }
     ],
     "wof:id":101752483,
-    "wof:lastmodified":1614896268,
+    "wof:lastmodified":1690876239,
     "wof:name":"\u041b\u044c\u0432\u0456\u0432",
     "wof:parent_id":1108730647,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u064a \u0642\u0631\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u0627\u0631\u06cc \u06a9\u0631\u06cc\u0645"
+    ],
     "name:aze_x_preferred":[
         "Star\u0131y Kr\u0131m"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Staryi Krym"
+    ],
+    "name:cat_x_variant":[
+        "Star\u00ed Krim"
     ],
     "name:ceb_x_preferred":[
         "Staryy Krym"
@@ -82,6 +88,9 @@
     "name:fra_x_preferred":[
         "Stary\u00ef Krym"
     ],
+    "name:glg_x_preferred":[
+        "Qirim"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d0\u05e8\u05d9 \u05e7\u05e8\u05d9\u05dd"
     ],
@@ -103,6 +112,9 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud0c0\ub9ac\ud06c\ub9bc"
     ],
+    "name:lav_x_preferred":[
+        "Starijkrima"
+    ],
     "name:lit_x_preferred":[
         "Senasis Krymas"
     ],
@@ -121,6 +133,9 @@
     "name:pol_x_preferred":[
         "Stary Krym"
     ],
+    "name:por_x_preferred":[
+        "Staryi Krym"
+    ],
     "name:ron_x_preferred":[
         "Star\u00eei Kr\u00eem"
     ],
@@ -136,8 +151,14 @@
     "name:spa_x_preferred":[
         "Staryi Krym"
     ],
+    "name:swe_x_preferred":[
+        "Staryj Krym"
+    ],
     "name:tat_x_preferred":[
         "\u0130ske Q\u0131r\u0131m"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e15\u0e32\u0e23\u0e36\u0e22\u0e01\u0e23\u0e36\u0e21"
     ],
     "name:tur_x_preferred":[
         "Eski K\u0131r\u0131m"
@@ -153,6 +174,9 @@
     ],
     "name:zho_x_preferred":[
         "\u820a\u514b\u91cc\u6728"
+    ],
+    "name:zho_x_variant":[
+        "\u65e7\u514b\u91cc\u6728"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
@@ -230,7 +254,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582349291,
+    "wof:lastmodified":1690876476,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0440\u0438\u043c",
     "wof:parent_id":1108738551,
     "wof:placetype":"locality",

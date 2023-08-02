@@ -36,23 +36,47 @@
     "name:bel_x_variant":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0456\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Khmilnik"
+    ],
     "name:ceb_x_preferred":[
         "Khmil'nyk"
     ],
     "name:ces_x_preferred":[
         "Chmilnyk"
     ],
+    "name:ces_x_variant":[
+        "Chmi\u013enyk"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u043a"
+    ],
     "name:crh_x_preferred":[
         "Hmiln\u0131k"
+    ],
+    "name:dan_x_preferred":[
+        "Khmilnyk"
     ],
     "name:deu_x_preferred":[
         "Chmilnyk"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bc\u03b9\u03bb\u03bd\u03af\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Khmilnyk"
     ],
+    "name:epo_x_preferred":[
+        "\u0124milnik"
+    ],
+    "name:est_x_preferred":[
+        "Hmiln\u00f5k"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0645\u06cc\u0644\u0646\u06cc\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "H\u2019milnyk"
     ],
     "name:fra_x_preferred":[
         "Khmilnyk"
@@ -84,6 +108,9 @@
     "name:lav_x_preferred":[
         "Hmi\u013cnika"
     ],
+    "name:mhr_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u043a"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u043a"
     ],
@@ -93,8 +120,17 @@
     "name:nno_x_preferred":[
         "Khmilnyk"
     ],
+    "name:nob_x_preferred":[
+        "Khmilnyk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u043a"
+    ],
     "name:pol_x_preferred":[
         "Chmielnik"
+    ],
+    "name:por_x_preferred":[
+        "Khmilnyk"
     ],
     "name:ron_x_preferred":[
         "Hmiln\u00eek"
@@ -114,11 +150,17 @@
     "name:srp_x_variant":[
         "\u0425\u043c\u0456\u043b\u044c\u043d\u0438\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Chmilnyk"
+    ],
     "name:tat_x_preferred":[
         "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u043a"
     ],
     "name:tat_x_variant":[
         "\u0425\u043c\u0438\u043b\u043d\u044b\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e21\u0e34\u0e25\u0e19\u0e36\u0e01"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043c\u0456\u043b\u044c\u043d\u0438\u043a"
@@ -131,6 +173,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u6885\u5229\u5c3c\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u8d6b\u7c73\u5229\u5c3c\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -184,7 +229,7 @@
         }
     ],
     "wof:id":101873969,
-    "wof:lastmodified":1582349242,
+    "wof:lastmodified":1690876267,
     "wof:name":"\u0425\u043c\u0456\u043b\u044c\u043d\u0438\u043a",
     "wof:parent_id":1108815857,
     "wof:placetype":"locality",

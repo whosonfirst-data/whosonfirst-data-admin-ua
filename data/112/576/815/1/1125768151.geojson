@@ -22,14 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "B\u00f2ikivske"
+    ],
     "name:ceb_x_preferred":[
         "Tel'manove"
+    ],
+    "name:ceb_x_variant":[
+        "Boykivske"
     ],
     "name:ces_x_preferred":[
         "Telmanove"
     ],
+    "name:ces_x_variant":[
+        "Bojkivske"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:che_x_variant":[
+        "\u0411\u043e\u0439\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "name:crh_x_preferred":[
         "Boykivske"
@@ -41,13 +53,23 @@
         "Tel'manove"
     ],
     "name:eng_x_variant":[
-        "Telmanove"
+        "Telmanove",
+        "Boykivske"
     ],
     "name:est_x_preferred":[
         "Telmanove"
     ],
+    "name:est_x_variant":[
+        "Boikivske"
+    ],
+    "name:eus_x_preferred":[
+        "Boikivske"
+    ],
     "name:fra_x_preferred":[
         "Telmanovo"
+    ],
+    "name:fra_x_variant":[
+        "Bo\u00efkivske"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u043e\u0432\u043e"
@@ -58,8 +80,20 @@
     "name:pol_x_preferred":[
         "Telmanowe"
     ],
+    "name:pol_x_variant":[
+        "Bojkiw\u015bke"
+    ],
+    "name:ron_x_preferred":[
+        "Boikivske"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Boikivske"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043b\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u043e\u0432\u0435"
@@ -72,6 +106,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6377\u5229\u99ac\u8afe\u97cb"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u4f0a\u57fa\u592b\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -122,7 +159,7 @@
         }
     ],
     "wof:id":1125768151,
-    "wof:lastmodified":1566593945,
+    "wof:lastmodified":1690876947,
     "wof:name":"Tel\u2019manove",
     "wof:parent_id":102088451,
     "wof:placetype":"locality",

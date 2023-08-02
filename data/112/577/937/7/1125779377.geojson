@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0641\u064a \u0631\u064a\u0647"
     ],
+    "name:ary_x_preferred":[
+        "\u0643\u0631\u064a\u06a4\u064a \u0631\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Kriv\u00f3i Rog"
     ],
@@ -43,6 +46,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09bf\u09ad\u09bf\u09b0\u09bf"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09cd\u09b0\u09bf\u0993\u09af\u09bc\u09bf\u099c \u09b0\u09bf\u09b9"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0439 \u0440\u043e\u0433"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:ces_x_preferred":[
         "Krivoj Rog"
+    ],
+    "name:ces_x_variant":[
+        "Kryvyj Rih"
     ],
     "name:che_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433"
@@ -97,8 +106,20 @@
     "name:fra_x_preferred":[
         "Kryvy\u00ef Rih"
     ],
+    "name:gla_x_preferred":[
+        "Kryvyi Rih"
+    ],
+    "name:gle_x_preferred":[
+        "Kryvyi Rih"
+    ],
+    "name:glv_x_preferred":[
+        "Kryvyi Rih"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abf\u0ab5\u0aaf\u0ac0 \u0ab0\u0abf\u0ab9"
+    ],
+    "name:guw_x_preferred":[
+        "Kryvyi Rih"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d1\u05d9 \u05e8\u05d9\u05d4"
@@ -118,11 +139,17 @@
     "name:hye_x_preferred":[
         "\u053f\u0580\u056b\u057e\u0578\u0575 \u054c\u0578\u0563"
     ],
+    "name:ido_x_preferred":[
+        "Kryvyi Rih"
+    ],
     "name:ile_x_preferred":[
         "Kryvyi Rih"
     ],
     "name:ind_x_preferred":[
         "Kryvyi Rih"
+    ],
+    "name:isl_x_preferred":[
+        "Kr\u00edv\u00edj Rjig"
     ],
     "name:ita_x_preferred":[
         "Kryvyj Rih"
@@ -140,7 +167,8 @@
         "\u10d9\u10e0\u10d8\u10d5\u10dd\u10d8-\u10e0\u10dd\u10d2\u10d8"
     ],
     "name:kat_x_variant":[
-        "\u10d9\u10e0\u10d8\u10d5\u10dd\u10d8 \u10e0\u10dd\u10d2\u10d8"
+        "\u10d9\u10e0\u10d8\u10d5\u10dd\u10d8 \u10e0\u10dd\u10d2\u10d8",
+        "\u10d9\u10e0\u10d8\u10d5\u10d8-\u10e0\u10d8\u10f0\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433"
@@ -148,14 +176,26 @@
     "name:kor_x_preferred":[
         "\ud06c\ub9ac\ube44\ub9ac\ud750"
     ],
+    "name:kur_x_preferred":[
+        "Kryvyi Rih"
+    ],
     "name:lav_x_preferred":[
         "Krivojroga"
     ],
     "name:lit_x_preferred":[
         "Kryvyj Rihas"
     ],
+    "name:lmo_x_preferred":[
+        "Kryvyj Rih"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4d\u0d30\u0d48\u0d35\u0d3f \u0d31\u0d3f\u0d39\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u093f\u0935\u0940\u0907 \u0930\u093f\u0939"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0440\u044b\u0432\u044b\u0439 \u0420\u0438\u0433"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433"
@@ -180,6 +220,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0439 \u0420\u043e\u0433"
+    ],
+    "name:pms_x_preferred":[
+        "Kryvyj Rih"
     ],
     "name:pol_x_preferred":[
         "Krzywy R\u00f3g"
@@ -211,14 +254,23 @@
     "name:slk_x_preferred":[
         "Kryvyj Rih"
     ],
+    "name:slv_x_preferred":[
+        "Krivi Rog"
+    ],
     "name:spa_x_preferred":[
         "Kriv\u00f3i Rog"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0438 \u0420\u043e\u0433"
     ],
+    "name:swa_x_preferred":[
+        "Kryvyi Rih"
+    ],
     "name:swe_x_preferred":[
         "Kryvyj Rih"
+    ],
+    "name:szl_x_preferred":[
+        "Krywyj Rih"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0baf\u0bbf \u0bb0\u0bbf\u0bb9\u0bcd"
@@ -239,10 +291,14 @@
         "\u0e04\u0e23\u0e35\u0e27\u0e35\u0e23\u0e34\u0e04"
     ],
     "name:tha_x_variant":[
-        "\u0e01\u0e23\u0e37\u0e2d\u0e27\u0e36\u0e22\u0e23\u0e35\u0e2e\u0e4c"
+        "\u0e01\u0e23\u0e37\u0e2d\u0e27\u0e36\u0e22\u0e23\u0e35\u0e2e\u0e4c",
+        "\u0e01\u0e23\u0e37\u0e2d\u0e27\u0e36\u0e22\u0e23\u0e35\u0e2b\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kryvyi Rih"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u0631\u0649\u06cb\u0648\u064a \u0631\u0648\u06af"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433"
@@ -256,6 +312,12 @@
     "name:uzb_x_preferred":[
         "Krivoy rog"
     ],
+    "name:vec_x_preferred":[
+        "Kryvyj Rih"
+    ],
+    "name:vep_x_preferred":[
+        "Krivii Roh"
+    ],
     "name:vie_x_preferred":[
         "Kryvyi Rih"
     ],
@@ -265,11 +327,20 @@
     "name:war_x_preferred":[
         "Kryvyi Rih"
     ],
+    "name:wuu_x_preferred":[
+        "\u514b\u91cc\u6c83\u7f57\u683c"
+    ],
     "name:xmf_x_preferred":[
         "\u10d9\u10e0\u10d8\u10d5\u10dd\u10d8-\u10e0\u10dd\u10d2\u10d8"
     ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d5\u05d5\u05d0\u05e8\u05d0\u05d2"
+    ],
     "name:zho_x_preferred":[
         "\u514b\u91cc\u6c83\u7f57\u683c"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u91cc\u7ef4\u91cc\u8d6b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -310,7 +381,7 @@
         }
     ],
     "wof:id":1125779377,
-    "wof:lastmodified":1566593965,
+    "wof:lastmodified":1690876974,
     "wof:name":"Kryvyy Rih",
     "wof:parent_id":1108815909,
     "wof:placetype":"locality",

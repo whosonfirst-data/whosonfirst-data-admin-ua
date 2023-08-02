@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Sloboda"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
     ],
     "name:deu_x_preferred":[
         "Sloboda"
@@ -31,8 +37,23 @@
     "name:eng_x_preferred":[
         "Sloboda"
     ],
+    "name:fin_x_preferred":[
+        "Sl\u043eb\u043ed\u0430"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u056c\u0578\u0562\u0578\u0564\u0561"
+    ],
+    "name:nan_x_preferred":[
+        "Sloboda"
+    ],
+    "name:nno_x_preferred":[
+        "Sloboda"
+    ],
+    "name:nob_x_preferred":[
+        "Sloboda"
+    ],
+    "name:pol_x_preferred":[
+        "S\u0142oboda"
     ],
     "name:ron_x_preferred":[
         "Sloboda"
@@ -88,7 +109,7 @@
         }
     ],
     "wof:id":1125864025,
-    "wof:lastmodified":1566593906,
+    "wof:lastmodified":1690876896,
     "wof:name":"Sloboda",
     "wof:parent_id":102088985,
     "wof:placetype":"locality",

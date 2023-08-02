@@ -40,6 +40,15 @@
     "name:bel_x_preferred":[
         "\u0414\u044d\u0440\u0430\u0436\u043d\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Derazhnyans'kyy Rayon"
+    ],
+    "name:ces_x_preferred":[
+        "Dera\u017ee\u0148sk\u00fd raj\u00f3n"
+    ],
+    "name:dan_x_preferred":[
+        "Deraschnja Rajon"
+    ],
     "name:deu_x_preferred":[
         "Rajon Deraschnja"
     ],
@@ -47,8 +56,10 @@
         "Derazhnians'kyi"
     ],
     "name:eng_x_variant":[
-        "Derazhnians'kyi",
         "Derazhnia Raion"
+    ],
+    "name:fin_x_preferred":[
+        "Dera\u017enjan piiri"
     ],
     "name:fra_x_preferred":[
         "Derazhnianskyi"
@@ -58,6 +69,9 @@
     ],
     "name:ita_x_preferred":[
         "Dera\u017enjans'kyj rajon"
+    ],
+    "name:nan_x_preferred":[
+        "Derazhnia Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Derazhnia Raion"
@@ -78,11 +92,17 @@
         "\u0414\u0435\u0440\u0430\u0436\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439",
         "\u0414\u0435\u0440\u0430\u0436\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Derajniya tumani"
+    ],
     "name:vie_x_preferred":[
         "Derazhnia"
     ],
     "name:zho_x_preferred":[
         "\u5091\u62c9\u65e5\u5c3c\u4e9e\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5fb7\u62c9\u65e5\u5c3c\u4e9a\u533a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
@@ -138,7 +158,7 @@
         }
     ],
     "wof:id":102088343,
-    "wof:lastmodified":1627522889,
+    "wof:lastmodified":1690876185,
     "wof:name":"Derazhnianskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

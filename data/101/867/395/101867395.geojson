@@ -23,8 +23,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0648\u0641\u0627\u0646\u064a\u0641\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0644\u0648\u0641\u0627\u0646\u064a\u0641\u0633\u0643"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u043b\u0430\u0432\u0430\u043d\u0435\u045e\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Holovanivsk"
+    ],
+    "name:ces_x_preferred":[
+        "Holovanivsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0432\u0430\u043d\u0435\u0432\u0441\u043a"
     ],
     "name:crh_x_preferred":[
         "Golovanivsk"
@@ -38,8 +50,23 @@
     "name:eng_x_variant":[
         "Holovanivsk"
     ],
+    "name:fin_x_preferred":[
+        "Holovanivsk"
+    ],
+    "name:fra_x_preferred":[
+        "Holovanivsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ed\u30f4\u30a1\u30cb\u30d5\u30b9\u30af"
+    ],
+    "name:lav_x_preferred":[
+        "Holova\u0146ivska"
+    ],
     "name:pol_x_preferred":[
         "Ho\u0142owaniewskie"
+    ],
+    "name:pol_x_variant":[
+        "Ho\u0142owaniwsk"
     ],
     "name:ron_x_preferred":[
         "Holovanivsk"
@@ -47,14 +74,29 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0432\u0430\u043d\u0435\u0432\u0441\u043a"
     ],
+    "name:slv_x_preferred":[
+        "Golovanivsk"
+    ],
+    "name:spa_x_preferred":[
+        "Holovanivsk"
+    ],
+    "name:swe_x_preferred":[
+        "Holovanivsk"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0432\u0430\u043d\u0456\u0432\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Golvanevsk"
     ],
+    "name:uzb_x_preferred":[
+        "Holovanivsk"
+    ],
     "name:zho_x_preferred":[
         "\u6208\u6d1b\u74e6\u5c3c\u592b\u897f\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u6d1b\u74e6\u5c3c\u592b\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430",
@@ -104,7 +146,7 @@
         }
     ],
     "wof:id":101867395,
-    "wof:lastmodified":1582349321,
+    "wof:lastmodified":1690876608,
     "wof:name":"\u0413\u043e\u043b\u043e\u0432\u0430\u043d\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":102088275,
     "wof:placetype":"locality",

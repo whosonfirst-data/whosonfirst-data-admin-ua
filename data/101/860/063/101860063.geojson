@@ -23,6 +23,15 @@
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u0423\u0433\u0440\u044b\u043d\u0430\u045e"
     ],
+    "name:cat_x_preferred":[
+        "Stari Ugr\u00edniv"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0423\u0433\u0440\u0438\u043d\u043e\u0432"
+    ],
+    "name:dan_x_preferred":[
+        "Staryj Uhryniv"
+    ],
     "name:deu_x_preferred":[
         "Staryj Uhryniw"
     ],
@@ -34,6 +43,18 @@
     ],
     "name:eng_x_preferred":[
         "Staryi Uhryniv"
+    ],
+    "name:eus_x_preferred":[
+        "Stary Uhryniv"
+    ],
+    "name:fin_x_preferred":[
+        "St\u0430ryi Uhryn\u0456v"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e8\u05d9 \u05d9\u05d5\u05d2\u05e8\u05d9\u05e0\u05d5\u05d1"
+    ],
+    "name:hun_x_preferred":[
+        "Sztarij Uhrinyiv"
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0580\u056b \u0548\u0582\u0563\u0580\u056b\u0576\u0578\u057e"
@@ -48,13 +69,26 @@
         ""
     ],
     "name:kor_x_variant":[
-        "(\uc6b0\ud06c\uc5b4)\u0421\u0442\u0430\u0440\u0438\u0439 \u0423\u0433\u0440\u0438\u043d\u0456\u0432"
+        "(\uc6b0\ud06c\uc5b4)\u0421\u0442\u0430\u0440\u0438\u0439 \u0423\u0433\u0440\u0438\u043d\u0456\u0432",
+        "\uc2a4\ud0c0\ub9ac \uc6b0\ud750\ub9ac\ub2c8\uc6b0"
+    ],
+    "name:lit_x_preferred":[
+        "Senasis Uhrynivas"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0423\u0433\u0440\u0438\u043d\u043e\u0432"
     ],
+    "name:nan_x_preferred":[
+        "Staryi Uhryniv"
+    ],
     "name:nld_x_preferred":[
         "Stary Oegryniv"
+    ],
+    "name:nno_x_preferred":[
+        "Staryj Uhryniv"
+    ],
+    "name:nob_x_preferred":[
+        "Staryj Uhryni"
     ],
     "name:pol_x_preferred":[
         "Uhryn\u00f3w Stary"
@@ -64,6 +98,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0423\u0433\u0440\u0438\u043d\u043e\u0432"
+    ],
+    "name:slv_x_preferred":[
+        "Stari Ugriniv"
+    ],
+    "name:swe_x_preferred":[
+        "Staryj Uhryniv"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u0423\u0433\u0440\u0438\u043d\u0456\u0432"
@@ -123,7 +163,7 @@
         }
     ],
     "wof:id":101860063,
-    "wof:lastmodified":1582349306,
+    "wof:lastmodified":1690876537,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u0423\u0433\u0440\u0438\u043d\u0456\u0432",
     "wof:parent_id":102088203,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627 \u062a\u0633\u064a\u0631\u0643\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0627 \u062a\u0633\u064a\u0631\u0643\u0641\u0627"
+    ],
     "name:ast_x_preferred":[
         "Bila Tserkva"
     ],
@@ -58,6 +61,9 @@
     "name:ces_x_preferred":[
         "Bila Cerkva"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u043b\u0438 \u0426\u0435\u0440\u043a\u043e\u0432\u044c"
+    ],
     "name:chv_x_preferred":[
         "\u0428\u0443\u0440\u0103 \u0427\u0438\u0440\u043a\u04f3"
     ],
@@ -89,6 +95,9 @@
         "Bila Tserkva"
     ],
     "name:fra_x_preferred":[
+        "Bila Tserkva"
+    ],
+    "name:gla_x_preferred":[
         "Bila Tserkva"
     ],
     "name:guj_x_preferred":[
@@ -133,6 +142,9 @@
     "name:kor_x_preferred":[
         "\ube4c\ub77c\uccb4\ub974\ud06c\ubc14"
     ],
+    "name:lat_x_preferred":[
+        "Bialoquerca"
+    ],
     "name:lav_x_preferred":[
         "Bila Cerkva"
     ],
@@ -141,6 +153,15 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u093f\u0932\u093e \u0938\u0947\u0930\u0947\u0915\u093e\u0935\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0438\u043b\u0430 \u0426\u044d\u0440\u043a\u0432\u0430"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u044f \u0426\u0435\u0440\u043a\u043e\u0432\u044c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430"
     ],
     "name:msa_x_preferred":[
         "Bila Tserkva"
@@ -156,6 +177,9 @@
     ],
     "name:oci_x_preferred":[
         "Bila Tserkva"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u044f \u0426\u0435\u0440\u043a\u043e\u0432\u044c"
     ],
     "name:pol_x_preferred":[
         "Bia\u0142a Cerkiew"
@@ -190,8 +214,14 @@
     "name:spa_x_preferred":[
         "Bila Tserkva"
     ],
+    "name:spa_x_variant":[
+        "Belaya Tserkov"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u043b\u0430 \u0426\u0435\u0440\u043a\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Bila Tserkva"
     ],
     "name:swe_x_preferred":[
         "Bila Tserkva"
@@ -211,8 +241,14 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c32\u0c3e \u0c38\u0c4d\u0c15\u0c4d\u0c30\u0c4d\u0c2f\u0c3e\u0c35"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0438\u043b\u0430 \u0422\u0441\u0435\u0440\u043a\u0432\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e35\u0e25\u0e32 \u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e01\u0e27\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e35\u0e25\u0e31\u0e15\u0e41\u0e0b\u0e23\u0e4c\u0e01\u0e27\u0e32"
     ],
     "name:tur_x_preferred":[
         "Bila Tserkva"
@@ -240,6 +276,9 @@
     ],
     "name:zho_x_preferred":[
         "\u767d\u91c7\u5c14\u79d1\u7ef4"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u91c7\u5c14\u514b\u74e6"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -280,7 +319,7 @@
         }
     ],
     "wof:id":1125857901,
-    "wof:lastmodified":1566593946,
+    "wof:lastmodified":1690876948,
     "wof:name":"Bila Tserkva",
     "wof:parent_id":1108815917,
     "wof:placetype":"locality",

@@ -21,17 +21,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u043c\u044b\u043a\u0430\u043b\u0430\u0456\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0438\u0432\u043a\u0430"
     ],
     "name:cat_x_preferred":[
         "Novomykolaivka"
     ],
+    "name:cat_x_variant":[
+        "Novomikolaivka"
+    ],
     "name:ceb_x_preferred":[
         "Novomykolayivka"
     ],
     "name:ces_x_preferred":[
         "Novomykolajivka"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Novom\u0131kolayivka"
@@ -41,6 +50,9 @@
     ],
     "name:eng_x_preferred":[
         "Novomykolaivka"
+    ],
+    "name:fra_x_preferred":[
+        "Novomykola\u00efvka"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u057e\u0578\u0576\u056b\u056f\u0578\u056c\u0561\u0587\u056f\u0561"
@@ -57,14 +69,26 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Novomikolaivka"
+    ],
+    "name:swe_x_preferred":[
+        "Novomykolajivka"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Novonikolayevka"
     ],
+    "name:uzb_x_preferred":[
+        "Novomykolaivka"
+    ],
     "name:zho_x_preferred":[
         "\u8afe\u6c83\u7c73\u79d1\u62c9\u4f0a\u592b\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u7c73\u79d1\u62c9\u4f0a\u592b\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
@@ -116,7 +140,7 @@
         }
     ],
     "wof:id":101868155,
-    "wof:lastmodified":1582349283,
+    "wof:lastmodified":1690876447,
     "wof:name":"\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088443,
     "wof:placetype":"locality",

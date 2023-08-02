@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:avk_x_preferred":[
+        "Rovenki"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0648\u0648\u0646\u06a9\u06cc"
     ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u0432\u044f\u043d\u044c\u043a\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0432\u044d\u043d\u044c\u043a\u044b"
     ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0432\u0435\u043d\u043a\u0438"
@@ -40,17 +46,26 @@
     "name:ces_x_preferred":[
         "Rove\u0148ky"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
         "Rovenk\u0131"
     ],
     "name:deu_x_preferred":[
         "Rowenky"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b2\u03b5\u03bd\u03ba\u03af"
+    ],
     "name:eng_x_preferred":[
         "Rovenki"
     ],
     "name:eng_x_variant":[
         "Rovenky"
+    ],
+    "name:est_x_preferred":[
+        "Rovenk\u00f5"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0648\u0646\u06a9\u06cc"
@@ -70,6 +85,9 @@
     "name:ita_x_preferred":[
         "Roven'ky"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30f4\u30a7\u30cb\u30ad"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10dd\u10d5\u10d4\u10dc\u10d9\u10d8"
     ],
@@ -85,8 +103,20 @@
     "name:nno_x_preferred":[
         "Rovenky"
     ],
+    "name:nob_x_preferred":[
+        "Rovenky"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
+    ],
     "name:pol_x_preferred":[
         "Rowe\u0144ky"
+    ],
+    "name:pol_x_variant":[
+        "Rowe\u0144ki"
+    ],
+    "name:por_x_preferred":[
+        "Rovenky"
     ],
     "name:ron_x_preferred":[
         "Rovenk\u00ee"
@@ -94,17 +124,27 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Rovenki"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Rovenky"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u043e\u0432\u0435\u043d\u043a\u044b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u043e\u0432\u0435\u043d\u043a\u0438"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e23\u0e40\u0e27\u0e19\u0e01\u0e35"
     ],
     "name:tha_x_variant":[
-        "\u0e23\u0e2d\u0e41\u0e27\u0e19\u0e01\u0e37\u0e2d"
+        "\u0e23\u0e2d\u0e41\u0e27\u0e19\u0e01\u0e37\u0e2d",
+        "\u0e23\u0e2d\u0e41\u0e27\u0e0d\u0e01\u0e37\u0e2d"
     ],
     "name:udm_x_preferred":[
         "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
@@ -118,8 +158,14 @@
     "name:und_x_variant":[
         "Rowenki"
     ],
+    "name:uzb_x_preferred":[
+        "Rovenki shahri"
+    ],
     "name:vie_x_preferred":[
         "Rovenky"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10dd\u10d5\u10d4\u10dc\u10d9\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u7f57\u97e6\u5c3c\u57fa"
@@ -171,7 +217,7 @@
         }
     ],
     "wof:id":1125954085,
-    "wof:lastmodified":1566593890,
+    "wof:lastmodified":1690876873,
     "wof:name":"Roven\u2019ki",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

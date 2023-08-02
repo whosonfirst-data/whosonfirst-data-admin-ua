@@ -26,11 +26,17 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0432\u043e\u0440\u043a\u0438"
     ],
+    "name:ces_x_preferred":[
+        "Bo\u017e\u00ed milosti"
+    ],
     "name:dan_x_preferred":[
         "Klejner"
     ],
     "name:dan_x_variant":[
         "klejne"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03c4\u03b5\u03c1\u03ac \u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Verguny"
@@ -44,6 +50,12 @@
     "name:fra_x_variant":[
         "bugne"
     ],
+    "name:fur_x_preferred":[
+        "Crostui"
+    ],
+    "name:hrv_x_preferred":[
+        "Kro\u0161tule"
+    ],
     "name:hun_x_preferred":[
         "cs\u00f6r\u00f6gef\u00e1nk"
     ],
@@ -56,11 +68,17 @@
     "name:ita_x_variant":[
         "chiacchiera"
     ],
+    "name:jav_x_preferred":[
+        "Swiwi mala\u00e9kat"
+    ],
     "name:jpn_x_preferred":[
         "\u30d3\u30e5\u30fc\u30cb\u30e5"
     ],
     "name:kor_x_preferred":[
         "\ucc9c\uc0ac\uc758 \ub0a0\uac1c"
+    ],
+    "name:lav_x_preferred":[
+        "\u017eagari\u0146i"
     ],
     "name:lit_x_preferred":[
         "\u017dagar\u0117lis"
@@ -68,8 +86,14 @@
     "name:lit_x_variant":[
         "\u017eagar\u0117lis"
     ],
+    "name:ltg_x_preferred":[
+        "\u017eagareni"
+    ],
     "name:nob_x_preferred":[
         "fattigmann"
+    ],
+    "name:pms_x_preferred":[
+        "Bus\u00ece"
     ],
     "name:pol_x_preferred":[
         "Faworki"
@@ -96,13 +120,17 @@
         "Sfrappole"
     ],
     "name:spa_x_variant":[
-        "pesti\u00f1o"
+        "pesti\u00f1o",
+        "sfrappole"
     ],
     "name:srd_x_preferred":[
         "Maravillas"
     ],
     "name:srd_x_variant":[
         "maravilla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u043e\u0448\u0442\u0443\u043b\u0435"
     ],
     "name:swe_x_preferred":[
         "klen\u00e4t"
@@ -124,6 +152,9 @@
     ],
     "name:vec_x_variant":[
         "gr\u00f3sto\u0142o"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d72\u5e36\u8106\u9905"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -173,7 +204,7 @@
         }
     ],
     "wof:id":101868377,
-    "wof:lastmodified":1582349281,
+    "wof:lastmodified":1690876439,
     "wof:name":"\u0412\u0435\u0440\u0433\u0443\u043d\u0438",
     "wof:parent_id":1108815743,
     "wof:placetype":"locality",

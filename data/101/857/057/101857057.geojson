@@ -42,6 +42,9 @@
     "name:bel_x_variant":[
         "\u0411\u0430\u0445\u0447\u044b\u0441\u0430\u0440\u0430\u0439"
     ],
+    "name:bos_x_preferred":[
+        "Bah\u010disaraj"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439"
     ],
@@ -66,11 +69,17 @@
     "name:crh_x_variant":[
         "Ba\u0263\u010da Saraj"
     ],
+    "name:dan_x_preferred":[
+        "Bakhtjisaraj"
+    ],
     "name:deu_x_preferred":[
         "Bachtschyssaraj"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03ba\u03c4\u03c3\u03af\u03c3\u03b1\u03c1\u03b1\u03ca"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03c7\u03c4\u03c3\u03b9\u03c3\u03b1\u03c1\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bakhchysaray"
@@ -104,6 +113,9 @@
     "name:fra_x_variant":[
         "Bakhtchyssara\u00ef"
     ],
+    "name:gle_x_preferred":[
+        "Bakhchysarai"
+    ],
     "name:hbs_x_preferred":[
         "Bah\u010disaraj"
     ],
@@ -128,6 +140,9 @@
     "name:ita_x_preferred":[
         "Bach\u010dysaraj"
     ],
+    "name:ita_x_variant":[
+        "Bach\u010disaraj"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30d5\u30c1\u30b5\u30e9\u30a4"
     ],
@@ -149,11 +164,17 @@
     "name:lit_x_preferred":[
         "Bach\u010disarajus"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0445\u0447\u044b\u0441\u0430\u0440\u0430\u0439"
+    ],
     "name:mhr_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0458"
+    ],
+    "name:mlt_x_preferred":[
+        "Bakhchisaray"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439"
@@ -182,6 +203,9 @@
     "name:pol_x_preferred":[
         "Bakczysaraj"
     ],
+    "name:por_x_preferred":[
+        "Bajchisarai"
+    ],
     "name:ron_x_preferred":[
         "Bahcisarai"
     ],
@@ -191,11 +215,17 @@
     "name:sco_x_preferred":[
         "Bakhchysarai"
     ],
+    "name:slk_x_preferred":[
+        "Bach\u010disaraj"
+    ],
     "name:slv_x_preferred":[
         "Bah\u010disaraj"
     ],
     "name:spa_x_preferred":[
         "Bajchisar\u00e1i"
+    ],
+    "name:sqi_x_preferred":[
+        "Bakhchysarai"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0458"
@@ -214,6 +244,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0411\u043e\u0493\u0447\u0430\u0441\u0430\u0440\u043e\u0439"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e31\u0e04\u0e0a\u0e37\u0e2d\u0e0b\u0e32\u0e23\u0e31\u0e22"
     ],
     "name:tur_x_preferred":[
         "Bah\u00e7esaray"
@@ -242,8 +275,17 @@
     "name:wln_x_preferred":[
         "Baxhtchissaray"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u8d6b\u5947\u8428\u8d56"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u8d6b\u5947\u85a9\u8cf4"
+    ],
     "name:zho_x_preferred":[
         "\u5df4\u8d6b\u5947\u85a9\u8cf4"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u8d6b\u5947\u8428\u8d56"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
@@ -318,7 +360,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582349291,
+    "wof:lastmodified":1690876479,
     "wof:name":"\u0411\u0430\u0445\u0447\u0438\u0441\u0430\u0440\u0430\u0439",
     "wof:parent_id":1108738493,
     "wof:placetype":"locality",

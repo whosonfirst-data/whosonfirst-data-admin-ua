@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0628\u0627\u0631\u0648\u062c\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u067e\u0648\u0631\u064a\u0686\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Zaporiyia"
+    ],
+    "name:avk_x_preferred":[
+        "Zaporijya"
     ],
     "name:azb_x_preferred":[
         "\u0632\u0627\u067e\u0631\u0648\u0698\u06cc\u0627"
@@ -43,6 +49,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09aa\u09cb\u09b0\u09bf\u099c\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u099c\u09be\u09aa\u09b0\u09bf\u099c\u099c\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "Zaporo\u017eje"
@@ -92,7 +101,8 @@
     "name:eng_x_variant":[
         "Zaporizhia",
         "Alexandrovsk",
-        "Zaporizhzhya"
+        "Zaporizhzhya",
+        "Zaporizhzhia"
     ],
     "name:epo_x_preferred":[
         "Zapori\u0135o"
@@ -112,8 +122,20 @@
     "name:fra_x_preferred":[
         "Zaporijia"
     ],
+    "name:fra_x_variant":[
+        "Zaporijjia"
+    ],
     "name:gag_x_preferred":[
         "Zaporojye"
+    ],
+    "name:gla_x_preferred":[
+        "Zaporizhzhia"
+    ],
+    "name:gle_x_preferred":[
+        "Saporo\u00edsia"
+    ],
+    "name:glv_x_preferred":[
+        "Zaporizhzhia"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0aaa\u0acb\u0ab0\u0ac0\u0a9c\u0ac0\u0aaf\u0abe"
@@ -133,6 +155,9 @@
     "name:hrv_x_preferred":[
         "Zapori\u017e\u017eja"
     ],
+    "name:hrv_x_variant":[
+        "Zaporo\u017eje"
+    ],
     "name:hsb_x_preferred":[
         "Zapori\u017e\u017eja"
     ],
@@ -148,11 +173,23 @@
     "name:hyw_x_preferred":[
         "\u0536\u0561\u057a\u0578\u0580\u0578\u056a\u056b\u0565"
     ],
+    "name:ido_x_preferred":[
+        "Zaporijjya"
+    ],
     "name:ile_x_preferred":[
         "Zaporizhia"
     ],
+    "name:ina_x_preferred":[
+        "Zapori\u017e\u017eja"
+    ],
     "name:ind_x_preferred":[
         "Zaporizhia"
+    ],
+    "name:ind_x_variant":[
+        "Zaporizhzhia"
+    ],
+    "name:isl_x_preferred":[
+        "Sapor\u00edzja"
     ],
     "name:ita_x_preferred":[
         "Zapori\u017e\u017eja"
@@ -169,11 +206,17 @@
     "name:kat_x_preferred":[
         "\u10d6\u10d0\u10de\u10dd\u10e0\u10dd\u10df\u10d8\u10d4"
     ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435"
+    ],
     "name:kir_x_preferred":[
         "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435"
     ],
     "name:kor_x_preferred":[
         "\uc790\ud3ec\ub9ac\uc790"
+    ],
+    "name:kur_x_preferred":[
+        "Zapor\u00eejya"
     ],
     "name:lat_x_preferred":[
         "Zaporizhia"
@@ -184,11 +227,23 @@
     "name:lit_x_preferred":[
         "Zaporo\u017e\u0117"
     ],
+    "name:lld_x_preferred":[
+        "Saporijjia"
+    ],
+    "name:lmo_x_preferred":[
+        "Zapori\u017e\u017eja"
+    ],
     "name:ltz_x_preferred":[
         "Saporojje"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d2a\u0d4d\u0d2a\u0d4b\u0d31\u0d3f\u0d37\u0d3f\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u091d\u093e\u092a\u094b\u0930\u093f\u091d\u093f\u092f\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u0440\u0438\u0436\u0436\u044f"
     ],
     "name:mhr_x_preferred":[
         "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435"
@@ -202,6 +257,9 @@
     "name:msa_x_preferred":[
         "Zaporizhzhya"
     ],
+    "name:myv_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435 \u043e\u0448"
+    ],
     "name:nld_x_preferred":[
         "Zaporizja"
     ],
@@ -214,8 +272,14 @@
     "name:nor_x_preferred":[
         "Zaporizjzja"
     ],
+    "name:oci_x_preferred":[
+        "Zaporizhzhia"
+    ],
     "name:oss_x_preferred":[
         "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435"
+    ],
+    "name:pms_x_preferred":[
+        "Zapori\u017e\u017eja"
     ],
     "name:pnb_x_preferred":[
         "\u0632\u0627\u067e\u0648\u0631\u06cc\u0698\u06cc\u0646\u0627"
@@ -228,6 +292,9 @@
     ],
     "name:por_x_preferred":[
         "Zaporizhzhya"
+    ],
+    "name:por_x_variant":[
+        "Zapor\u00edjia"
     ],
     "name:rom_x_preferred":[
         "Zaporijjea"
@@ -262,11 +329,17 @@
     "name:slv_x_preferred":[
         "Zaporo\u017eje"
     ],
+    "name:snd_x_preferred":[
+        "\u0632\u067e\u0648\u0631\u064a\u0632\u064a\u0627"
+    ],
     "name:spa_x_preferred":[
         "Zaporiyia"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0458\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Zaporizhia"
     ],
     "name:swe_x_preferred":[
         "Zaporizjzja"
@@ -295,6 +368,9 @@
     "name:tur_x_preferred":[
         "Zaporijya"
     ],
+    "name:udm_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f"
     ],
@@ -310,6 +386,12 @@
     "name:uzb_x_preferred":[
         "Zaporojye"
     ],
+    "name:vec_x_preferred":[
+        "Zapori\u017e\u017eja"
+    ],
+    "name:vep_x_preferred":[
+        "Zaporo\u017eje"
+    ],
     "name:vie_x_preferred":[
         "Zaporizhia"
     ],
@@ -318,6 +400,12 @@
     ],
     "name:war_x_preferred":[
         "Zaporizhia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u624e\u6ce2\u7f57\u70ed"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d6\u10d0\u10de\u10dd\u10e0\u10dd\u10df\u10d8\u10d4"
     ],
     "name:yid_x_preferred":[
         "\u05d6\u05d0\u05e4\u05d0\u05e8\u05d0\u05d6\u05e9\u05d9\u05e2"
@@ -447,8 +535,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        1108815931,
-        85688851
+        85688851,
+        1108815931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -473,7 +561,7 @@
         }
     ],
     "wof:id":101752845,
-    "wof:lastmodified":1614896268,
+    "wof:lastmodified":1690876237,
     "wof:megacity":1,
     "wof:name":"\u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f",
     "wof:parent_id":1108815931,

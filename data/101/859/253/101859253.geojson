@@ -26,14 +26,23 @@
     "name:ara_x_variant":[
         "\u0632\u0648\u0644\u0648\u062a\u0627\u0631\u0648\u0641\u0648"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0430\u0440\u0435\u0432\u043e"
+    ],
     "name:deu_x_preferred":[
         "Solotarjowo"
     ],
     "name:eng_x_preferred":[
         "Zakarpatska"
     ],
+    "name:eng_x_variant":[
+        "Zolotarovo"
+    ],
     "name:epo_x_preferred":[
         "Zolotarovo"
+    ],
+    "name:fin_x_preferred":[
+        "Z\u043el\u043et\u0430r\u043ev\u043e"
     ],
     "name:hun_x_preferred":[
         "\u00d6tv\u00f6sfalva"
@@ -41,11 +50,23 @@
     "name:hye_x_preferred":[
         "\u0536\u0578\u056c\u0578\u057f\u0561\u0580\u0575\u0578\u057e\u0578"
     ],
+    "name:nan_x_preferred":[
+        "Zolotarovo"
+    ],
     "name:nld_x_preferred":[
         "Zakarpatska"
     ],
+    "name:nno_x_preferred":[
+        "Zolotarovo"
+    ],
+    "name:nob_x_preferred":[
+        "Zolotarovo"
+    ],
     "name:ron_x_preferred":[
         "Zolotarovo"
+    ],
+    "name:rue_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0430\u0440\u044c\u043e\u0432\u043e"
     ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0442\u0430\u0440\u0451\u0432\u043e"
@@ -58,6 +79,9 @@
     ],
     "name:und_x_variant":[
         "Zolotareve"
+    ],
+    "name:uzb_x_preferred":[
+        "Zolotarevo"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430",
@@ -107,7 +131,7 @@
         }
     ],
     "wof:id":101859253,
-    "wof:lastmodified":1582349252,
+    "wof:lastmodified":1690876325,
     "wof:name":"\u0417\u043e\u043b\u043e\u0442\u0430\u0440\u044c\u043e\u0432\u043e",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

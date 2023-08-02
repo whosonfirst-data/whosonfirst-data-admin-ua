@@ -22,8 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b \u041c\u044d\u0440\u0447\u044b\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Stari M\u00e9rtxik"
+    ],
     "name:ceb_x_preferred":[
         "Staryy Merchyk"
+    ],
+    "name:ces_x_preferred":[
+        "Staryj Mer\u010dyk"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u041c\u0435\u0440\u0447\u0438\u043a"
     ],
     "name:crh_x_preferred":[
         "Star\u0131y Mer\u00e7\u0131k"
@@ -40,6 +52,9 @@
     "name:fra_x_preferred":[
         "Stary Mertchik"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e6'\u05d9\u05e7 \u05d4\u05d9\u05e9\u05e0\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0580\u056b\u0575 \u0544\u0565\u0580\u0579\u056b\u056f"
     ],
@@ -55,6 +70,9 @@
     ],
     "name:und_x_variant":[
         "Staryy Merchik"
+    ],
+    "name:uzb_x_preferred":[
+        "Stariy Merchik"
     ],
     "name:zho_x_preferred":[
         "\u820a\u6885\u723e\u5947\u514b"
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":1125775355,
-    "wof:lastmodified":1566593966,
+    "wof:lastmodified":1690876975,
     "wof:name":"Staryy Merchyk",
     "wof:parent_id":102088871,
     "wof:placetype":"locality",

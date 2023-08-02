@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0430\u044f\u0441\u043b\u0430\u045e\u0441\u043a\u0430\u0435 \u043a\u043d\u044f\u0441\u0442\u0432\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Perejaslavsk\u00e9 kn\u00ed\u017eectv\u00ed"
+    ],
     "name:deu_x_preferred":[
         "F\u00fcrstentum Perejaslawl"
     ],
@@ -38,6 +41,9 @@
     "name:jpn_x_preferred":[
         "\u30da\u30ec\u30e4\u30fc\u30b9\u30e9\u30a6\u516c\u56fd"
     ],
+    "name:kor_x_preferred":[
+        "\ud398\ub808\uc57c\uc2ac\ub77c\uc6b0 \uacf5\uad6d"
+    ],
     "name:lat_x_preferred":[
         "Ducatus Pereaslaviensis"
     ],
@@ -47,14 +53,23 @@
     "name:lit_x_preferred":[
         "Perejaslavlio kunigaik\u0161tyst\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Vorstendom Perejaslavl"
+    ],
     "name:pol_x_preferred":[
         "Ksi\u0119stwo perejas\u0142awskie"
+    ],
+    "name:ron_x_preferred":[
+        "Cnezatul Pereiaslav"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0435 \u043a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e"
     ],
     "name:spa_x_preferred":[
         "Principado de Perey\u00e1slavl"
+    ],
+    "name:tur_x_preferred":[
+        "Pereyaslav Knezli\u011fi"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0435 \u043a\u043d\u044f\u0437\u0456\u0432\u0441\u0442\u0432\u043e"
@@ -65,6 +80,9 @@
     ],
     "name:und_x_variant":[
         "Pereyaslavskoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5217\u4e9a\u65af\u62c9\u592b\u516c\u56fd"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":101869563,
-    "wof:lastmodified":1582349298,
+    "wof:lastmodified":1690876506,
     "wof:name":"\u041f\u0435\u0440\u0435\u044f\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108815771,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u064a\u062f\u0648\u0641\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0644\u06cc\u062f\u0648\u0641\u0647"
     ],
@@ -30,14 +33,23 @@
     "name:bel_x_variant":[
         "\u0421\u044f\u043b\u0456\u0434\u0430\u0432\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Sel\u00eddove"
+    ],
     "name:ceb_x_preferred":[
         "Selydove"
     ],
     "name:ces_x_preferred":[
         "Selydove"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0434\u043e\u0432\u043e"
+    ],
     "name:crh_x_preferred":[
         "Sel\u0131dove"
+    ],
+    "name:dan_x_preferred":[
+        "Selydove"
     ],
     "name:deu_x_preferred":[
         "Selydowe"
@@ -48,14 +60,23 @@
     "name:eng_x_variant":[
         "Selydove"
     ],
+    "name:est_x_preferred":[
+        "Sel\u00f5dove"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0644\u06cc\u062f\u0648\u0641\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Selydove"
     ],
     "name:fra_x_preferred":[
         "S\u00e9lydov\u00e9"
     ],
     "name:fra_x_variant":[
         "Selydove"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d9\u05d3\u05d5\u05d1\u05d5"
     ],
     "name:hsb_x_preferred":[
         "Selydowe"
@@ -93,6 +114,9 @@
     "name:pol_x_variant":[
         "Se\u0142ydowo"
     ],
+    "name:por_x_preferred":[
+        "Selydove"
+    ],
     "name:ron_x_preferred":[
         "Sel\u00eedove"
     ],
@@ -101,6 +125,9 @@
     ],
     "name:sco_x_preferred":[
         "Selydove"
+    ],
+    "name:spa_x_preferred":[
+        "Sel\u00eddove"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043b\u0438\u0434\u043e\u0432\u0435"
@@ -111,6 +138,9 @@
     "name:tat_x_variant":[
         "\u0421\u0435\u043b\u044b\u0434\u043e\u0432\u0435"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e25\u0e37\u0e2d\u0e14\u0e2d\u0e41\u0e27"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0438\u0434\u043e\u0432\u0435"
     ],
@@ -120,11 +150,17 @@
     "name:und_x_variant":[
         "Selidovka"
     ],
+    "name:uzb_x_preferred":[
+        "Selidov"
+    ],
     "name:vie_x_preferred":[
         "Selydove"
     ],
     "name:zho_x_preferred":[
         "\u8b1d\u5229\u591a\u97cb"
+    ],
+    "name:zho_x_variant":[
+        "\u585e\u5229\u591a\u97e6"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -188,7 +224,7 @@
         }
     ],
     "wof:id":101868413,
-    "wof:lastmodified":1582349278,
+    "wof:lastmodified":1690876428,
     "wof:name":"\u0421\u0435\u043b\u0438\u0434\u043e\u0432\u0435",
     "wof:parent_id":1175613739,
     "wof:placetype":"locality",

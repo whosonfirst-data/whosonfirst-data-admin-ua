@@ -26,11 +26,20 @@
     "name:bel_x_variant":[
         "\u041f\u0435\u0440\u0430\u0448\u0447\u044d\u043f\u0456\u043d\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Peresx\u00e8pine"
+    ],
     "name:ces_x_preferred":[
         "Pere\u0161\u010depyne"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0449\u0435\u043f\u0438\u043d\u043e"
+    ],
     "name:crh_x_preferred":[
         "Pere\u015f\u00e7ep\u0131ne"
+    ],
+    "name:dan_x_preferred":[
+        "Peresjtsjepyne"
     ],
     "name:deu_x_preferred":[
         "Pereschtschepyne"
@@ -41,8 +50,17 @@
     "name:eng_x_variant":[
         "Pereschepyne"
     ],
+    "name:est_x_preferred":[
+        "Pere\u0161t\u0161ep\u00f5ne"
+    ],
+    "name:eus_x_preferred":[
+        "Perestxepyne"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0634\u0686\u067e\u06cc\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Pere\u0161t\u0161epyne"
     ],
     "name:fra_x_preferred":[
         "Perechtchepyne"
@@ -62,14 +80,26 @@
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e0\u10d4\u10e8\u10e9\u10d4\u10de\u10d8\u10dc\u10dd"
     ],
+    "name:lav_x_preferred":[
+        "Pere\u0161\u010depine"
+    ],
     "name:nld_x_preferred":[
         "Pereschepyne"
     ],
     "name:nno_x_preferred":[
         "Peresjtsjepyne"
     ],
+    "name:nob_x_preferred":[
+        "Peresjtsjepyne"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0449\u0435\u043f\u0438\u043d\u043e"
+    ],
     "name:pol_x_preferred":[
         "Pereszczepyne"
+    ],
+    "name:por_x_preferred":[
+        "Pereshchepyne"
     ],
     "name:ron_x_preferred":[
         "Pere\u0219cep\u00eene"
@@ -83,6 +113,9 @@
     "name:tat_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0447\u0447\u0435\u043f\u044b\u043d\u0435"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1b\u0e41\u0e23\u0e0a\u0e41\u0e0a\u0e1b\u0e37\u0e2d\u0e41\u0e19"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0449\u0435\u043f\u0438\u043d\u0435"
     ],
@@ -92,11 +125,17 @@
     "name:und_x_variant":[
         "Pereshepino"
     ],
+    "name:uzb_x_preferred":[
+        "Pereshepyne"
+    ],
     "name:vie_x_preferred":[
         "Pereschepyne"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u5217\u8b1d\u76ae\u8afe"
+    ],
+    "name:zho_x_variant":[
+        "\u4f69\u96f7\u8c22\u76ae\u5185"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -148,7 +187,7 @@
         }
     ],
     "wof:id":101868523,
-    "wof:lastmodified":1582349287,
+    "wof:lastmodified":1690876465,
     "wof:name":"\u041f\u0435\u0440\u0435\u0449\u0435\u043f\u0438\u043d\u0435",
     "wof:parent_id":1108815619,
     "wof:placetype":"locality",

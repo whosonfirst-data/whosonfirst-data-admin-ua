@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0427\u0430\u043c\u044f\u0440\u044b\u045e\u0446\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:ces_x_preferred":[
+        "Dunajivci"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u043e\u0432\u0446\u044b"
     ],
     "name:crh_x_preferred":[
         "\u00c7emerivtsi"
@@ -32,8 +41,14 @@
     "name:eng_x_preferred":[
         "Chemerivtsi"
     ],
+    "name:fra_x_preferred":[
+        "Tchemerivtsi"
+    ],
     "name:lit_x_preferred":[
         "\u010cemerivciai"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0427\u0435\u043c\u0435\u0440\u043e\u0432\u0446\u044b"
     ],
     "name:pol_x_preferred":[
         "Czemerowce"
@@ -55,6 +70,9 @@
     ],
     "name:und_x_variant":[
         "Chemirovtsy"
+    ],
+    "name:uzb_x_preferred":[
+        "Chemerivtsi"
     ],
     "name:zho_x_preferred":[
         "\u5207\u6885\u91cc\u592b\u9f4a"
@@ -109,7 +127,7 @@
         }
     ],
     "wof:id":101861819,
-    "wof:lastmodified":1582349267,
+    "wof:lastmodified":1690876387,
     "wof:name":"\u0427\u0435\u043c\u0435\u0440\u0456\u0432\u0446\u0456",
     "wof:parent_id":102088243,
     "wof:placetype":"locality",

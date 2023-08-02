@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u064a\u0647\u0648\u0631\u064a\u0641\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u043d\u0456\u0433\u0443\u0440\u044b\u045e\u043a\u0430"
     ],
@@ -30,23 +33,44 @@
     "name:bul_x_preferred":[
         "\u0421\u043d\u0438\u0433\u0443\u0440\u0438\u0432\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Snihurivka"
+    ],
     "name:ceb_x_preferred":[
         "Snihurivka"
     ],
     "name:ces_x_preferred":[
         "Snihurivka"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043d\u0438\u0433\u0438\u0440\u0435\u0432\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Snigurivka"
+    ],
+    "name:dan_x_preferred":[
+        "Snihurivka"
     ],
     "name:deu_x_preferred":[
         "Snihuriwka"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bd\u03b9\u03c7\u03bf\u03c5\u03c1\u03af\u03b2\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Snihurivka"
     ],
+    "name:epo_x_preferred":[
+        "Snihurivka"
+    ],
+    "name:est_x_preferred":[
+        "Snigurivka"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0647\u0648\u0631\u06cc\u0641\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Snihurivka"
     ],
     "name:fra_x_preferred":[
         "Snihourivka"
@@ -60,17 +84,32 @@
     "name:ita_x_preferred":[
         "Snihurivka"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30cb\u30d5\u30ea\u30a6\u30ab"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10dc\u10d8\u10d2\u10d8\u10e0\u10d8\u10dd\u10d5\u10d9\u10d0"
     ],
     "name:lav_x_preferred":[
         "S\u0146ihurivka"
     ],
+    "name:nld_x_preferred":[
+        "Snihoerivka"
+    ],
     "name:nno_x_preferred":[
         "Snihurivka"
     ],
+    "name:nob_x_preferred":[
+        "Snihurivka"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u043d\u0438\u0433\u0438\u0440\u0451\u0432\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Snihuriwka"
+    ],
+    "name:por_x_preferred":[
+        "Snihurivka"
     ],
     "name:ron_x_preferred":[
         "Snihurivka"
@@ -87,14 +126,26 @@
     "name:spa_x_preferred":[
         "Snihurivka"
     ],
+    "name:swe_x_preferred":[
+        "Snihurivka"
+    ],
+    "name:szl_x_preferred":[
+        "S\u0144ihur\u016fwka"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u043d\u0438\u04bb\u0443\u0440\u0438\u0432\u043a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e19\u0e35\u0e2e\u0e39\u0e23\u0e34\u0e27\u0e01\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043d\u0456\u0433\u0443\u0440\u0456\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Snegir\u00ebvka"
+    ],
+    "name:uzb_x_preferred":[
+        "Snixurivka"
     ],
     "name:vie_x_preferred":[
         "Snihurivka"
@@ -155,7 +206,7 @@
         }
     ],
     "wof:id":101866073,
-    "wof:lastmodified":1582349260,
+    "wof:lastmodified":1690876367,
     "wof:name":"\u0421\u043d\u0456\u0433\u0443\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088073,
     "wof:placetype":"locality",

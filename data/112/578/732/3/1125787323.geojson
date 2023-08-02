@@ -25,8 +25,17 @@
     "name:bel_x_preferred":[
         "\u0421\u043e\u0441\u043d\u044b\u0446\u044f"
     ],
+    "name:cat_x_preferred":[
+        "S\u00f2snitsia"
+    ],
     "name:ceb_x_preferred":[
         "Sosnytsya"
+    ],
+    "name:ces_x_preferred":[
+        "Sosnycja"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u0438\u0446\u0430"
     ],
     "name:crh_x_preferred":[
         "Sosn\u0131ts\u00e2"
@@ -37,10 +46,19 @@
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03c3\u03bd\u03cd\u03c4\u03c3\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03cc\u03c3\u03bd\u03b9\u03c4\u03c3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Sosnytsya"
     ],
     "name:eng_x_variant":[
+        "Sosnytsia"
+    ],
+    "name:fin_x_preferred":[
+        "Sosnytsja"
+    ],
+    "name:fra_x_preferred":[
         "Sosnytsia"
     ],
     "name:heb_x_preferred":[
@@ -48,6 +66,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u057d\u0576\u056b\u0581\u0561"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30b9\u30cb\u30c1\u30e3"
     ],
     "name:pol_x_preferred":[
         "So\u015bnica"
@@ -64,11 +85,17 @@
     "name:sah_x_preferred":[
         "\u0421\u043e\u0441\u043d\u0438\u0446\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Sosnytsia"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0441\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
         "Sosnitsa"
+    ],
+    "name:uzb_x_preferred":[
+        "Sosnitsia"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u65af\u5c3c\u9f4a\u4e9e"
@@ -112,7 +139,7 @@
         }
     ],
     "wof:id":1125787323,
-    "wof:lastmodified":1566593961,
+    "wof:lastmodified":1690876968,
     "wof:name":"Sosnytsya",
     "wof:parent_id":102089005,
     "wof:placetype":"locality",

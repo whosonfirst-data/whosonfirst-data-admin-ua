@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0644\u064a\u0646\u064a\u06a4\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u044d\u043d\u0456\u045e\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ol\u00e9nevka"
     ],
     "name:ceb_x_preferred":[
         "Olenevka"
@@ -37,11 +43,26 @@
     "name:crh_x_variant":[
         "Qara Ac\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03af\u03bd\u03b9\u03c6\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Olenevka"
     ],
+    "name:eng_x_variant":[
+        "Olenivka"
+    ],
+    "name:fra_x_preferred":[
+        "Olenivka"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u056c\u0565\u0576\u0587\u056f\u0561"
+    ],
+    "name:nno_x_preferred":[
+        "Olenivka"
+    ],
+    "name:nob_x_preferred":[
+        "Olenivka"
     ],
     "name:ron_x_preferred":[
         "Olenivka"
@@ -57,6 +78,15 @@
     ],
     "name:spa_x_preferred":[
         "Olenevka"
+    ],
+    "name:spa_x_variant":[
+        "Olenivka"
+    ],
+    "name:sqi_x_preferred":[
+        "Olenivka"
+    ],
+    "name:swe_x_preferred":[
+        "Olenivka"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
@@ -113,7 +143,7 @@
         }
     ],
     "wof:id":1126020605,
-    "wof:lastmodified":1566593894,
+    "wof:lastmodified":1690876879,
     "wof:name":"Olenevka",
     "wof:parent_id":1108738655,
     "wof:placetype":"locality",

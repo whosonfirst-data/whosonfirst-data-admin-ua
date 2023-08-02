@@ -28,6 +28,9 @@
     "name:bel_x_preferred":[
         "\u0427\u0443\u0433\u0443\u0456\u045e"
     ],
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0445\u0443\u0438\u0432"
+    ],
     "name:cat_x_preferred":[
         "Txuguiv"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ces_x_preferred":[
         "\u010cuhujiv"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0443\u0433\u0443\u0435\u0432"
     ],
     "name:crh_x_preferred":[
         "\u00c7uguyiv"
@@ -49,6 +55,9 @@
     "name:deu_x_preferred":[
         "Tschuhujiw"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03c7\u03bf\u03cd\u03b9\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Chuhuyiv"
     ],
@@ -58,8 +67,14 @@
     "name:epo_x_preferred":[
         "\u0108uguevo"
     ],
+    "name:epo_x_variant":[
+        "\u0108uhujivo"
+    ],
     "name:est_x_preferred":[
         "T\u0161ugujiv"
+    ],
+    "name:eus_x_preferred":[
+        "Txuhuiv"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u0647\u0648\u0626\u06cc\u0641"
@@ -75,6 +90,9 @@
     ],
     "name:hsb_x_preferred":[
         "\u010cuhujiw"
+    ],
+    "name:hun_x_preferred":[
+        "Csuhujiv"
     ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u0582\u0563\u0578\u0582\u0587"
@@ -97,14 +115,26 @@
     "name:nld_x_preferred":[
         "Chuhuiv"
     ],
+    "name:nld_x_variant":[
+        "Tsjoehoejiv"
+    ],
     "name:nno_x_preferred":[
         "Tsjuhujiv"
     ],
     "name:nob_x_preferred":[
         "Tsjuhujiv"
     ],
+    "name:oss_x_preferred":[
+        "\u0427\u0443\u0433\u0443\u0435\u0432"
+    ],
     "name:pol_x_preferred":[
         "Czuhujiw"
+    ],
+    "name:pol_x_variant":[
+        "Czuhujew"
+    ],
+    "name:por_x_preferred":[
+        "Chuhuiv"
     ],
     "name:ron_x_preferred":[
         "Ciuhuiv"
@@ -115,8 +145,14 @@
     "name:slv_x_preferred":[
         "\u010cugujev"
     ],
+    "name:slv_x_variant":[
+        "\u010cugujiv"
+    ],
     "name:spa_x_preferred":[
         "Chug\u00fayev"
+    ],
+    "name:spa_x_variant":[
+        "Chuj\u00fayiv"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0443\u0433\u0443\u0457\u0432"
@@ -126,6 +162,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u0443\u04bb\u0443\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e39\u0e2e\u0e39\u0e22\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0433\u0443\u0457\u0432"
@@ -138,6 +177,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e18\u53e4\u8036\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u4e18\u80e1\u4f0a\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -178,7 +220,7 @@
         }
     ],
     "wof:id":1125864813,
-    "wof:lastmodified":1566593904,
+    "wof:lastmodified":1690876893,
     "wof:name":"Chuhuyiv",
     "wof:parent_id":1108815793,
     "wof:placetype":"locality",

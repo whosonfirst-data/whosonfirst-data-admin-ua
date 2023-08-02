@@ -22,8 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u044b\u043d\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Slatin\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Slatyne"
+    ],
+    "name:ces_x_preferred":[
+        "Slatyne"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
     ],
     "name:crh_x_preferred":[
         "Slat\u0131ne"
@@ -31,11 +43,20 @@
     "name:deu_x_preferred":[
         "Slatyne"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bb\u03ac\u03c4\u03b9\u03bd\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Slatyne"
+    ],
+    "name:fra_x_preferred":[
         "Slatyne"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056c\u0561\u057f\u056b\u0576\u0578"
+    ],
+    "name:pol_x_preferred":[
+        "S\u0142atyne"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u0435"
@@ -48,6 +69,9 @@
     ],
     "name:und_x_variant":[
         "Pos\u00eblok Slatino"
+    ],
+    "name:uzb_x_preferred":[
+        "Slatyne"
     ],
     "name:zho_x_preferred":[
         "\u65af\u62c9\u5b63\u6d85"
@@ -101,7 +125,7 @@
         }
     ],
     "wof:id":1125931719,
-    "wof:lastmodified":1566593885,
+    "wof:lastmodified":1690876867,
     "wof:name":"Slatino",
     "wof:parent_id":102088945,
     "wof:placetype":"locality",

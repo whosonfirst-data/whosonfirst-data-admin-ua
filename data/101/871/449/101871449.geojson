@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d\u0441\u043a\u0438"
+    ],
     "name:deu_x_preferred":[
         "Dolynske"
     ],
@@ -30,8 +33,20 @@
     "name:eng_x_variant":[
         "Dolynske"
     ],
+    "name:fin_x_preferred":[
+        "D\u043elynsk\u0435"
+    ],
     "name:lav_x_preferred":[
         "Dolinske"
+    ],
+    "name:nan_x_preferred":[
+        "Dolynske"
+    ],
+    "name:nno_x_preferred":[
+        "Dolynske"
+    ],
+    "name:nob_x_preferred":[
+        "Dolynske"
     ],
     "name:ron_x_preferred":[
         "Dol\u00eenske"
@@ -53,6 +68,9 @@
     ],
     "name:zho_x_preferred":[
         "\u591a\u5229\u897f\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u591a\u6797\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":101871449,
-    "wof:lastmodified":1582349337,
+    "wof:lastmodified":1690876707,
     "wof:name":"\u041f\u0430\u0432\u043b\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088961,
     "wof:placetype":"locality",

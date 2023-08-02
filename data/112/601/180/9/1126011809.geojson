@@ -25,11 +25,17 @@
     "name:azb_x_preferred":[
         "\u0686\u0631\u0648\u0648\u0646\u0648\u0647\u0631\u0627\u062f"
     ],
+    "name:aze_x_preferred":[
+        "\u00c7ervonoqrad"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u0432\u0430\u043d\u0430\u0433\u0440\u0430\u0434"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Txervonohrad"
     ],
     "name:ceb_x_preferred":[
         "Chervonohrad"
@@ -37,8 +43,14 @@
     "name:ces_x_preferred":[
         "\u010cervonohrad"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
+    ],
     "name:crh_x_preferred":[
         "\u00c7ervonograd"
+    ],
+    "name:dan_x_preferred":[
+        "Tjervonohrad"
     ],
     "name:deu_x_preferred":[
         "Tscherwonohrad"
@@ -49,8 +61,14 @@
     "name:eng_x_preferred":[
         "Chervonohrad"
     ],
+    "name:epo_x_preferred":[
+        "\u0108ervonohrad"
+    ],
     "name:est_x_preferred":[
         "T\u0161ervonograd"
+    ],
+    "name:eus_x_preferred":[
+        "Txervonohrad"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0631\u0648\u0648\u0646\u0648\u0647\u0631\u0627\u062f"
@@ -64,8 +82,14 @@
     "name:fra_x_variant":[
         "Chervonograd"
     ],
+    "name:glg_x_preferred":[
+        "Chervonohrad"
+    ],
     "name:heb_x_preferred":[
         "\u05e6'\u05e8\u05d1\u05d5\u05e0\u05d5\u05d4\u05e8\u05d0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cervonograd"
     ],
     "name:hsb_x_preferred":[
         "\u010cerwonohrad"
@@ -94,6 +118,12 @@
     "name:lit_x_variant":[
         "\u010cervonohgradas"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u044d\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
+    ],
     "name:nld_x_preferred":[
         "Chervonohrad"
     ],
@@ -103,8 +133,17 @@
     "name:nno_x_variant":[
         "Tsjervonograd"
     ],
+    "name:nob_x_preferred":[
+        "Tsjervonohrad"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
+    ],
     "name:pol_x_preferred":[
         "Czerwonogr\u00f3d"
+    ],
+    "name:por_x_preferred":[
+        "Chervonohrad"
     ],
     "name:ron_x_preferred":[
         "Cervonohrad"
@@ -118,11 +157,32 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:slk_x_preferred":[
+        "\u010cervonohrad"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cervonograd"
+    ],
+    "name:spa_x_preferred":[
+        "Chervonohrad"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
     ],
+    "name:swe_x_preferred":[
+        "Tjervonohrad"
+    ],
+    "name:szl_x_preferred":[
+        "Czerwonohrad"
+    ],
     "name:tat_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u04bb\u0440\u0430\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0a\u0e23\u0e4c\u0e27\u0e2d\u0e19\u0e2d\u0e2e\u0e23\u0e31\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7ervonohrad"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u043e\u043d\u043e\u0433\u0440\u0430\u0434"
@@ -132,6 +192,9 @@
     ],
     "name:und_x_variant":[
         "Krvstonopol"
+    ],
+    "name:uzb_x_preferred":[
+        "Chervonohrad"
     ],
     "name:vie_x_preferred":[
         "Chervonohrad"
@@ -144,6 +207,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5207\u723e\u6c83\u8afe\u683c\u52d2"
+    ],
+    "name:zho_x_variant":[
+        "\u5207\u5c14\u6c83\u8bfa\u8d6b\u62c9\u5fb7"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -198,7 +264,7 @@
         }
     ],
     "wof:id":1126011809,
-    "wof:lastmodified":1566593933,
+    "wof:lastmodified":1690876929,
     "wof:name":"Chervonograd",
     "wof:parent_id":1108730633,
     "wof:placetype":"locality",

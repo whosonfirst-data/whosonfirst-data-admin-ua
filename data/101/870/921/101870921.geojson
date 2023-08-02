@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0433\u0430\u043b\u0456\u045e"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0433\u043e\u043b\u0435\u0432"
+    ],
     "name:deu_x_preferred":[
         "Hoholiw"
     ],
@@ -33,7 +36,23 @@
         "Gogoliv"
     ],
     "name:eng_x_variant":[
-        "Gogoliv(Brovary raion)"
+        "Gogoliv(Brovary raion)",
+        "Hoholiv"
+    ],
+    "name:fin_x_preferred":[
+        "H\u043eh\u043el\u0456v"
+    ],
+    "name:nan_x_preferred":[
+        "Hoholiv"
+    ],
+    "name:nno_x_preferred":[
+        "Hoholiv"
+    ],
+    "name:nob_x_preferred":[
+        "Hoholiv"
+    ],
+    "name:pol_x_preferred":[
+        "Hoholiw"
     ],
     "name:ron_x_preferred":[
         "Hoholiv"
@@ -100,7 +119,7 @@
         }
     ],
     "wof:id":101870921,
-    "wof:lastmodified":1582349333,
+    "wof:lastmodified":1690876651,
     "wof:name":"\u0413\u043e\u0433\u043e\u043b\u0456\u0432",
     "wof:parent_id":1108815649,
     "wof:placetype":"locality",

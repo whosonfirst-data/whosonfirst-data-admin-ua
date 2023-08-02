@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0441\u044f\u043d\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Prosyana"
+    ],
+    "name:ces_x_preferred":[
+        "Prosjana"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u044f\u043d\u0438"
     ],
     "name:crh_x_preferred":[
         "Pros\u00e2na"
@@ -33,7 +42,8 @@
         "Prosyanaya"
     ],
     "name:eng_x_variant":[
-        "Prosiana"
+        "Prosiana",
+        "Prosyana"
     ],
     "name:fra_x_preferred":[
         "Prossiana"
@@ -43,6 +53,9 @@
     ],
     "name:lav_x_preferred":[
         "Prosjana"
+    ],
+    "name:pol_x_preferred":[
+        "Prosiana"
     ],
     "name:ron_x_preferred":[
         "Proseana"
@@ -58,6 +71,9 @@
     ],
     "name:und_x_variant":[
         "Prosyanoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Prosyana shaharchasi"
     ],
     "name:zho_x_preferred":[
         "\u666e\u7f85\u897f\u4e9e\u7d0d"
@@ -110,7 +126,7 @@
         }
     ],
     "wof:id":101868209,
-    "wof:lastmodified":1582349285,
+    "wof:lastmodified":1690876457,
     "wof:name":"\u041f\u0440\u043e\u0441\u044f\u043d\u0430",
     "wof:parent_id":102088497,
     "wof:placetype":"locality",

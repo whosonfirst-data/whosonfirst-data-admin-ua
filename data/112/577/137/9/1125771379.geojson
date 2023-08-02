@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:abk_x_preferred":[
+        "\u041b\u0438\u0443\u0431\u043e\u0442\u0438\u043d"
+    ],
+    "name:amh_x_preferred":[
+        "\u120a\u1301\u1266\u1272\u1295"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
     ],
     "name:bel_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u044b\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Liubot\u00edn"
     ],
     "name:ceb_x_preferred":[
         "Lyubotyn"
@@ -34,11 +43,20 @@
     "name:ces_x_preferred":[
         "Ljubotyn"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
+    ],
     "name:crh_x_preferred":[
         "L\u00fcbot\u0131n"
     ],
+    "name:dan_x_preferred":[
+        "Ljubotyn"
+    ],
     "name:deu_x_preferred":[
         "Ljubotyn"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bf\u03c5\u03bc\u03c0\u03bf\u03c4\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lyubotyn"
@@ -46,8 +64,20 @@
     "name:eng_x_variant":[
         "Liubotyn"
     ],
+    "name:epo_x_preferred":[
+        "Ljubotin"
+    ],
+    "name:est_x_preferred":[
+        "Ljubot\u00f5n"
+    ],
+    "name:eus_x_preferred":[
+        "Liubotyn"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0648\u0628\u0648\u062a\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ljubotyn"
     ],
     "name:fra_x_preferred":[
         "Lioubotyn"
@@ -64,6 +94,9 @@
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10e3\u10d1\u10dd\u10e2\u10d8\u10dc\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u179b\u17b8\u1799\u17bc\u1794\u17bc\u1791\u17b8\u1793"
+    ],
     "name:lav_x_preferred":[
         "\u013bubotina"
     ],
@@ -76,8 +109,17 @@
     "name:nno_x_preferred":[
         "Ljubotyn"
     ],
+    "name:nob_x_preferred":[
+        "Ljubotyn"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
+    ],
     "name:pol_x_preferred":[
         "Lubotyn"
+    ],
+    "name:por_x_preferred":[
+        "Liubotyn"
     ],
     "name:ron_x_preferred":[
         "Liubot\u00een"
@@ -88,11 +130,20 @@
     "name:sco_x_preferred":[
         "Liubotyn"
     ],
+    "name:slv_x_preferred":[
+        "Ljubotin"
+    ],
     "name:srp_x_preferred":[
         "\u0409\u0443\u0431\u043e\u0442\u0438\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Ljubotyn"
+    ],
     "name:tat_x_preferred":[
         "\u041b\u04af\u0431\u043e\u0442\u044b\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e39\u0e1a\u0e2d\u0e15\u0e36\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0442\u0438\u043d"
@@ -100,11 +151,20 @@
     "name:und_x_variant":[
         "Lyobotin"
     ],
+    "name:uzb_x_preferred":[
+        "Liubotyn"
+    ],
     "name:vie_x_preferred":[
         "Liubotyn"
     ],
+    "name:wol_x_preferred":[
+        "Lubotin"
+    ],
     "name:zho_x_preferred":[
         "\u67f3\u535a\u4eac"
+    ],
+    "name:zho_x_variant":[
+        "\u67f3\u535a\u6ed5"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -159,7 +219,7 @@
         }
     ],
     "wof:id":1125771379,
-    "wof:lastmodified":1566593972,
+    "wof:lastmodified":1690876983,
     "wof:name":"Lyubotin",
     "wof:parent_id":1108730657,
     "wof:placetype":"locality",

@@ -22,14 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bak_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0443\u0445\u0438\u043d\u043e"
+    ],
     "name:ceb_x_preferred":[
         "Chornukhyne"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0443\u0445\u0438\u043d\u043e"
     ],
     "name:crh_x_preferred":[
         "\u00c7ornuh\u0131ne"
     ],
+    "name:dan_x_preferred":[
+        "Tjornukhyne"
+    ],
     "name:deu_x_preferred":[
         "Tschornuchyne"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c1\u03bd\u03bf\u03cd\u03c7\u03b9\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Chernukhino"
@@ -40,11 +52,17 @@
     "name:est_x_preferred":[
         "T\u0161ornuhh\u00f5ne"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30eb\u30cc\u30af\u30d2\u30cd"
+    ],
     "name:lav_x_preferred":[
         "\u010cornuhine"
     ],
     "name:nob_x_preferred":[
         "Tsjornukhine"
+    ],
+    "name:pol_x_preferred":[
+        "Czornuchyne"
     ],
     "name:ron_x_preferred":[
         "Cernuh\u00eene"
@@ -54,6 +72,9 @@
     ],
     "name:spa_x_preferred":[
         "Chornukhyne"
+    ],
+    "name:spa_x_variant":[
+        "Chorn\u00fajine"
     ],
     "name:ukr_x_preferred":[
         "Chornukhyne"
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1125780229,
-    "wof:lastmodified":1566593960,
+    "wof:lastmodified":1690876968,
     "wof:name":"Chernukhino",
     "wof:parent_id":102088803,
     "wof:placetype":"locality",

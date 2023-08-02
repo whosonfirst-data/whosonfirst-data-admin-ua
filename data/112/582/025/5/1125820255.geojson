@@ -31,14 +31,23 @@
     "name:bul_x_preferred":[
         "\u0426\u044e\u0440\u0443\u043f\u0438\u043d\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Oleixki"
+    ],
     "name:ceb_x_preferred":[
         "Oleshki"
     ],
     "name:ces_x_preferred":[
         "Ole\u0161ky"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u0451\u0448\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
         "Ole\u015fk\u0131"
+    ],
+    "name:dan_x_preferred":[
+        "Olesjky"
     ],
     "name:deu_x_preferred":[
         "Oleschky"
@@ -49,17 +58,32 @@
     "name:eng_x_variant":[
         "Oleshky"
     ],
+    "name:epo_x_preferred":[
+        "Ole\u015dki"
+    ],
+    "name:est_x_preferred":[
+        "Ole\u0161k\u00f5"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0633\u06cc\u0648\u0631\u0648\u067e\u06cc\u0646\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "Tsjurupynsk"
     ],
+    "name:fin_x_variant":[
+        "Ole\u0161ky"
+    ],
     "name:fra_x_preferred":[
         "Olechky"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05e9\u05e7\u05d9"
+    ],
     "name:hsb_x_preferred":[
         "Ole\u0161ky"
+    ],
+    "name:hun_x_preferred":[
+        "Oleski"
     ],
     "name:hye_x_preferred":[
         "\u0551\u0575\u0578\u0582\u0580\u0578\u0582\u057a\u056b\u0576\u057d\u056f"
@@ -73,11 +97,26 @@
     "name:lav_x_preferred":[
         "Ole\u0161ki"
     ],
+    "name:nld_x_preferred":[
+        "Olesjky"
+    ],
     "name:nno_x_preferred":[
         "Tsiurupynsk"
     ],
+    "name:nob_x_preferred":[
+        "Olesjky"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043b\u0451\u0448\u043a\u0438"
+    ],
     "name:pol_x_preferred":[
         "Ciurupi\u0144sk"
+    ],
+    "name:pol_x_variant":[
+        "Oleszki"
+    ],
+    "name:por_x_preferred":[
+        "Oleshky"
     ],
     "name:ron_x_preferred":[
         "\u021aiurup\u00eensk"
@@ -86,7 +125,8 @@
         "\u0426\u044e\u0440\u0443\u043f\u0438\u043d\u0441\u043a"
     ],
     "name:rus_x_variant":[
-        "\u0410\u043b\u0451\u0448\u043a\u0438"
+        "\u0410\u043b\u0451\u0448\u043a\u0438",
+        "\u0410\u043b\u0435\u0448\u043a\u0438"
     ],
     "name:sah_x_preferred":[
         "\u041e\u043b\u044d\u0448\u043a\u044b"
@@ -94,14 +134,23 @@
     "name:sco_x_preferred":[
         "Tsiurupynsk"
     ],
+    "name:spa_x_preferred":[
+        "Oleshki"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0458\u0443\u0440\u0443\u043f\u0438\u043d\u0441\u043a"
     ],
     "name:swe_x_preferred":[
         "Tsiurupynsk"
     ],
+    "name:swe_x_variant":[
+        "Olesjky"
+    ],
     "name:tat_x_preferred":[
         "\u041e\u043b\u0435\u0448\u043a\u044b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e41\u0e25\u0e0a\u0e01\u0e37\u0e2d"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u044e\u0440\u0443\u043f\u0438\u043d\u0441\u044c\u043a"
@@ -112,11 +161,17 @@
     "name:und_x_variant":[
         "Aleshki"
     ],
+    "name:uzb_x_preferred":[
+        "Oleshki"
+    ],
     "name:vie_x_preferred":[
         "Tsiurupynsk"
     ],
     "name:zho_x_preferred":[
         "\u79cb\u9b6f\u5e73\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u83b1\u4ec0\u57fa"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -171,7 +226,7 @@
         }
     ],
     "wof:id":1125820255,
-    "wof:lastmodified":1566593940,
+    "wof:lastmodified":1690876939,
     "wof:name":"Tsyurupinsk",
     "wof:parent_id":102088007,
     "wof:placetype":"locality",

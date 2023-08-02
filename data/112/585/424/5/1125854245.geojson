@@ -22,8 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0443\u0444\u0440\u044b\u0456\u045e\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "On\u00fafr\u00efivka"
+    ],
     "name:ceb_x_preferred":[
         "Onufriyivka"
+    ],
+    "name:ces_x_preferred":[
+        "Onufrijivka"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043d\u0443\u0444\u0440\u0438\u0435\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Onufriyivka"
@@ -36,6 +48,12 @@
     ],
     "name:eng_x_variant":[
         "Onufriivka"
+    ],
+    "name:fra_x_preferred":[
+        "Onoufri\u00efvka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30cc\u30d5\u30ea\u30a6\u30ab"
     ],
     "name:pol_x_preferred":[
         "Onufry\u00f3wka"
@@ -54,6 +72,9 @@
     ],
     "name:und_x_variant":[
         "Onufriyevka"
+    ],
+    "name:uzb_x_preferred":[
+        "Onufriivka"
     ],
     "name:zho_x_preferred":[
         "\u5967\u52aa\u592b\u91cc\u4f0a\u592b\u5361"
@@ -97,7 +118,7 @@
         }
     ],
     "wof:id":1125854245,
-    "wof:lastmodified":1566593949,
+    "wof:lastmodified":1690876952,
     "wof:name":"Onufriyivka",
     "wof:parent_id":102088533,
     "wof:placetype":"locality",

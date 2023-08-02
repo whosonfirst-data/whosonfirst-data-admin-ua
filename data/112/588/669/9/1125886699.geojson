@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.605876,46.6332595,32.605876,46.6332595",
+    "geom:bbox":"32.605876,46.63326,32.605876,46.63326",
     "geom:latitude":46.63326,
     "geom:longitude":32.605876,
     "gn:country":"UA",
@@ -26,8 +26,20 @@
     "name:ara_x_preferred":[
         "\u062e\u064a\u0631\u0633\u0648\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Kherson"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u064a\u0631\u0633\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Jers\u00f3n"
+    ],
+    "name:ast_x_variant":[
+        "Kherson"
+    ],
+    "name:avk_x_preferred":[
+        "Xerson"
     ],
     "name:azb_x_preferred":[
         "\u062e\u0631\u0633\u0648\u0646"
@@ -43,6 +55,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0996\u09c7\u09b0\u09b8\u09a8"
+    ],
+    "name:bos_x_preferred":[
+        "Herson"
     ],
     "name:bre_x_preferred":[
         "Kherson"
@@ -60,6 +75,9 @@
         "Cherson"
     ],
     "name:che_x_preferred":[
+        "\u0425\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:chv_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
     "name:crh_x_preferred":[
@@ -98,6 +116,18 @@
     "name:fra_x_preferred":[
         "Kherson"
     ],
+    "name:frr_x_preferred":[
+        "Cherson"
+    ],
+    "name:gla_x_preferred":[
+        "Kherson"
+    ],
+    "name:gle_x_preferred":[
+        "Kherson"
+    ],
+    "name:glv_x_preferred":[
+        "Kherson"
+    ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac7\u0ab0\u0acd\u0ab8\u0aa8"
     ],
@@ -119,7 +149,13 @@
     "name:hye_x_preferred":[
         "\u053d\u0565\u0580\u057d\u0578\u0576"
     ],
+    "name:ile_x_preferred":[
+        "Cherson"
+    ],
     "name:ind_x_preferred":[
+        "Kherson"
+    ],
+    "name:isl_x_preferred":[
         "Kherson"
     ],
     "name:ita_x_preferred":[
@@ -134,11 +170,17 @@
     "name:kat_x_preferred":[
         "\u10ee\u10d4\u10e0\u10e1\u10dd\u10dc\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17ba\u179f\u17bb\u1793"
+    ],
     "name:kir_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
     "name:kor_x_preferred":[
         "\ud5e4\ub974\uc190"
+    ],
+    "name:kur_x_preferred":[
+        "Xerson"
     ],
     "name:lat_x_preferred":[
         "Chersonium"
@@ -146,14 +188,26 @@
     "name:lav_x_preferred":[
         "Hersona"
     ],
+    "name:lim_x_preferred":[
+        "Cherson"
+    ],
     "name:lit_x_preferred":[
         "Chersonas"
+    ],
+    "name:lld_x_preferred":[
+        "Kherson"
     ],
     "name:lmo_x_preferred":[
         "Cherson"
     ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d46\u0d7c\u0d38\u0d7a"
+    ],
     "name:mar_x_preferred":[
         "\u0916\u0947\u0930\u094d\u0938\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0425\u044d\u0440\u0441\u043e\u043d"
     ],
     "name:mhr_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
@@ -161,11 +215,17 @@
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
+    "name:mlt_x_preferred":[
+        "Kerson"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
     "name:msa_x_preferred":[
         "Kherson"
+    ],
+    "name:myv_x_preferred":[
+        "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
     "name:nld_x_preferred":[
         "Cherson"
@@ -176,8 +236,14 @@
     "name:nob_x_preferred":[
         "Kherson"
     ],
+    "name:oci_x_preferred":[
+        "Kherson"
+    ],
     "name:oss_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:pms_x_preferred":[
+        "Cherson"
     ],
     "name:pnb_x_preferred":[
         "\u062e\u06cc\u0631\u0633\u0648\u0646"
@@ -215,11 +281,17 @@
     "name:slv_x_preferred":[
         "Herson"
     ],
+    "name:snd_x_preferred":[
+        "\u062e\u064a\u0631\u0633\u0648\u0646"
+    ],
     "name:spa_x_preferred":[
         "Jers\u00f3n"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Kherson"
     ],
     "name:swe_x_preferred":[
         "Cherson"
@@ -236,6 +308,9 @@
     "name:tel_x_preferred":[
         "\u0c16\u0c4d\u0c30\u0c3f \u0c38\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0425\u0435\u0440\u0441\u0443\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e04\u0e2d\u0e23\u0e4c\u0e0b\u0e31\u0e19"
     ],
@@ -244,6 +319,9 @@
     ],
     "name:tur_x_preferred":[
         "Herson"
+    ],
+    "name:udm_x_preferred":[
+        "\u0425\u0435\u0440\u0441\u043e\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0440\u0441\u043e\u043d"
@@ -259,6 +337,18 @@
     ],
     "name:war_x_preferred":[
         "Kherson"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d6b\u5c14\u677e"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10d4\u10e0\u10e1\u10dd\u10dc\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u8d6b\u723e\u677e"
+    ],
+    "name:zea_x_preferred":[
+        "Cherson"
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u5c14\u677e"
@@ -300,7 +390,7 @@
     },
     "wof:country":"UA",
     "wof:created":1497295114,
-    "wof:geomhash":"3a253b9713afbc27e2fc54f5a9523ab5",
+    "wof:geomhash":"860d43e52a3012a4815e073c2df778e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +401,7 @@
         }
     ],
     "wof:id":1125886699,
-    "wof:lastmodified":1566593910,
+    "wof:lastmodified":1690876900,
     "wof:name":"Kherson",
     "wof:parent_id":1108730653,
     "wof:placetype":"locality",
@@ -322,9 +412,9 @@
 },
   "bbox": [
     32.605876,
-    46.6332595,
+    46.63326,
     32.605876,
-    46.6332595
+    46.63326
 ],
-  "geometry": {"coordinates":[32.605876,46.6332595],"type":"Point"}
+  "geometry": {"coordinates":[32.605876,46.63326],"type":"Point"}
 }

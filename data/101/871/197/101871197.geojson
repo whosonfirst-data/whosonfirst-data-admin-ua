@@ -24,11 +24,17 @@
     "name:bel_x_preferred":[
         "\u041f\u044d\u0440\u0448\u0430\u0442\u0440\u0430\u045e\u043d\u044d\u0432\u044d"
     ],
+    "name:cat_x_preferred":[
+        "Perxotravneve"
+    ],
     "name:ceb_x_preferred":[
         "Pershotravneve"
     ],
     "name:ces_x_preferred":[
         "Per\u0161otravneve"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0438"
     ],
     "name:crh_x_preferred":[
         "Per\u015fotravneve"
@@ -42,6 +48,9 @@
     "name:fra_x_preferred":[
         "Perchotravneve"
     ],
+    "name:mhr_x_preferred":[
+        "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u043e\u0435"
+    ],
     "name:pol_x_preferred":[
         "Perszotrawnewe"
     ],
@@ -54,14 +63,23 @@
     "name:sah_x_preferred":[
         "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u043e\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Persjotravneve"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0435"
     ],
     "name:und_x_variant":[
         "Pershotravnevoye"
     ],
+    "name:uzb_x_preferred":[
+        "Pershotravneve"
+    ],
     "name:zho_x_preferred":[
         "\u4f69\u723e\u7d39\u7279\u62c9\u592b\u6d85\u97cb"
+    ],
+    "name:zho_x_variant":[
+        "\u4f69\u5c14\u7ecd\u7279\u62c9\u592b\u5185\u97e6"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430",
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":101871197,
-    "wof:lastmodified":1582349341,
+    "wof:lastmodified":1690876722,
     "wof:name":"\u041f\u0435\u0440\u0448\u043e\u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0435",
     "wof:parent_id":102088925,
     "wof:placetype":"locality",

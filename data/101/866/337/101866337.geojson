@@ -20,11 +20,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0415\u043b\u0430\u043d\u044d\u0446\u044c"
+    ],
     "name:bel_x_variant":[
         "\u042f\u043b\u0430\u043d\u044d\u0446"
     ],
     "name:bul_x_preferred":[
         "\u0419\u0435\u043b\u0430\u043d\u0435\u0446"
+    ],
+    "name:cat_x_preferred":[
+        "Iel\u00e0nets"
+    ],
+    "name:ces_x_preferred":[
+        "Jelanec"
+    ],
+    "name:che_x_preferred":[
+        "\u0415\u043b\u0430\u043d\u0435\u0446"
     ],
     "name:crh_x_preferred":[
         "Yelanets"
@@ -53,11 +65,20 @@
     "name:slv_x_preferred":[
         "Jelanez"
     ],
+    "name:slv_x_variant":[
+        "Jelanec"
+    ],
+    "name:spa_x_preferred":[
+        "Yelanets"
+    ],
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0430\u043d\u0435\u0446\u044c"
     ],
     "name:ukr_x_variant":[
         "Yelanets\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Yelanets"
     ],
     "name:zho_x_preferred":[
         "\u8449\u62c9\u6d85\u9f4a"
@@ -111,7 +132,7 @@
         }
     ],
     "wof:id":101866337,
-    "wof:lastmodified":1582349255,
+    "wof:lastmodified":1690876343,
     "wof:name":"\u0404\u043b\u0430\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088157,
     "wof:placetype":"locality",

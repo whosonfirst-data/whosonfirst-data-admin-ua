@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:che_x_preferred":[
+        "\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0435"
+    ],
     "name:crh_x_preferred":[
         "Hrustalne"
     ],
@@ -37,11 +40,17 @@
     "name:lav_x_preferred":[
         "Hrusta\u013cne"
     ],
+    "name:pol_x_preferred":[
+        "Chrustalne"
+    ],
     "name:ron_x_preferred":[
         "Hrustalne"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Jrustalne"
     ],
     "name:ukr_x_preferred":[
         "Khrustal\u2019ne"
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125920593,
-    "wof:lastmodified":1566593887,
+    "wof:lastmodified":1690876870,
     "wof:name":"Khrustal'noye",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

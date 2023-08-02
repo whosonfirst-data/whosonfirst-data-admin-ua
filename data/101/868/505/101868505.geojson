@@ -23,8 +23,17 @@
     "name:azb_x_preferred":[
         "\u0628\u0648\u0646\u06af\u0647"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u043d\u0433\u044d"
+    ],
+    "name:cat_x_preferred":[
+        "Bunhe"
+    ],
     "name:ces_x_preferred":[
         "Bunhe"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u043d\u0433\u0435"
     ],
     "name:crh_x_preferred":[
         "Bunge"
@@ -34,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Yunokomunarivsk"
+    ],
+    "name:eng_x_variant":[
+        "Bunhe"
     ],
     "name:est_x_preferred":[
         "Junokomunarivsk"
@@ -47,6 +59,9 @@
     "name:fas_x_variant":[
         "\u06cc\u0648\u0646\u0648\u06a9\u0648\u0645\u0648\u0646\u0627\u0631\u06cc\u0641\u0633\u06a9"
     ],
+    "name:fin_x_preferred":[
+        "Bunhe"
+    ],
     "name:fra_x_preferred":[
         "Bounhe"
     ],
@@ -59,8 +74,14 @@
     "name:hye_x_preferred":[
         "\u0545\u0578\u0582\u0576\u0578\u056f\u0578\u0574\u0574\u0578\u0582\u0576\u0561\u0580\u0578\u057e\u057d\u056f"
     ],
+    "name:hye_x_variant":[
+        "\u0532\u0578\u0582\u0576\u0563\u0565"
+    ],
     "name:ita_x_preferred":[
         "Junokomunarivs'k"
+    ],
+    "name:ita_x_variant":[
+        "Bunhe"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10dc\u10d2\u10d4"
@@ -74,14 +95,26 @@
     "name:lav_x_variant":[
         "Junokomunarivska"
     ],
+    "name:lit_x_preferred":[
+        "Bunh\u0117"
+    ],
     "name:nno_x_preferred":[
         "Junokomunarivsk"
+    ],
+    "name:nno_x_variant":[
+        "Bunhe"
     ],
     "name:nob_x_preferred":[
         "Junokomunarivsk"
     ],
+    "name:nob_x_variant":[
+        "Bunhe"
+    ],
     "name:nor_x_preferred":[
         "Junokomunarivsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0443\u043d\u0433\u0435"
     ],
     "name:pol_x_preferred":[
         "Bunhe"
@@ -89,8 +122,14 @@
     "name:pol_x_variant":[
         "Junokomunariwsk"
     ],
+    "name:por_x_preferred":[
+        "Bunhe"
+    ],
     "name:ron_x_preferred":[
         "Iunokomunarivsk"
+    ],
+    "name:ron_x_variant":[
+        "Bunhe"
     ],
     "name:rus_x_preferred":[
         "\u042e\u043d\u043e\u043a\u043e\u043c\u043c\u0443\u043d\u0430\u0440\u043e\u0432\u0441\u043a"
@@ -98,11 +137,20 @@
     "name:tat_x_preferred":[
         "\u0411\u0443\u043d\u04bb\u0435"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e38\u0e19\u0e41\u0e2e"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043d\u0433\u0435"
     ],
+    "name:uzb_x_preferred":[
+        "Yunokomunarivsk"
+    ],
     "name:vie_x_preferred":[
         "Yunokomunarivsk"
+    ],
+    "name:vie_x_variant":[
+        "Bunhe"
     ],
     "name:zho_x_preferred":[
         "\u5c24\u8afe\u79d1\u7a46\u7d0d\u91cc\u592b\u897f\u514b"
@@ -166,7 +214,7 @@
         }
     ],
     "wof:id":101868505,
-    "wof:lastmodified":1582349277,
+    "wof:lastmodified":1690876422,
     "wof:name":"\u042e\u043d\u043e\u043a\u043e\u043c\u0443\u043d\u0430\u0440\u0456\u0432\u0441\u044c\u043a",
     "wof:parent_id":1175613761,
     "wof:placetype":"locality",

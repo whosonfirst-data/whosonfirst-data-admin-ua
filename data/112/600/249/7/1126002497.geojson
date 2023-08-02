@@ -31,20 +31,41 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u0437\u044f\u0446\u0456\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0437\u044f\u0442\u044b\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Koziatin"
+    ],
     "name:ceb_x_preferred":[
         "Kozyatyn"
     ],
     "name:ces_x_preferred":[
         "Kozjatyn"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0442\u0438\u043d \u0441\u0435\u043b\u043e"
+    ],
     "name:crh_x_preferred":[
         "Koz\u00e2t\u0131n"
+    ],
+    "name:dan_x_preferred":[
+        "Kozjatyn"
     ],
     "name:deu_x_preferred":[
         "Kosjatyn"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b6\u03b9\u03ac\u03c4\u03b9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Koziatyn"
+    ],
+    "name:eng_x_variant":[
+        "Kozyatyn"
+    ],
+    "name:epo_x_preferred":[
+        "Kozjatin"
     ],
     "name:est_x_preferred":[
         "Kozjat\u00f5n"
@@ -79,6 +100,12 @@
     "name:lav_x_preferred":[
         "Kozjatina"
     ],
+    "name:lit_x_preferred":[
+        "Koziatynas"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0442\u0438\u043d"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0442\u0438\u043d"
     ],
@@ -88,11 +115,23 @@
     "name:nno_x_preferred":[
         "Koziatyn"
     ],
+    "name:nob_x_preferred":[
+        "Koziatyn"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0442\u0438\u043d"
+    ],
     "name:pol_x_preferred":[
+        "Koziatyn"
+    ],
+    "name:por_x_preferred":[
         "Koziatyn"
     ],
     "name:ron_x_preferred":[
         "Koziat\u00een"
+    ],
+    "name:ron_x_variant":[
+        "Kozeat\u00een"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0437\u044f\u0442\u0438\u043d"
@@ -112,6 +151,9 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u0437\u04d9\u0442\u044b\u043d"
     ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e40\u0e0b\u0e35\u0e22\u0e15\u0e36\u0e19"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u044f\u0442\u0438\u043d"
     ],
@@ -123,6 +165,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u624e\u4eac"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u8d3e\u5ef7"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -163,7 +208,7 @@
         }
     ],
     "wof:id":1126002497,
-    "wof:lastmodified":1566593937,
+    "wof:lastmodified":1690876935,
     "wof:name":"Kozyatyn",
     "wof:parent_id":1108815947,
     "wof:placetype":"locality",

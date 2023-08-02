@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448-\u0417\u0430\u0440\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0438\u0448 \u0417\u043e\u0440\u044f"
     ],
     "name:ceb_x_preferred":[
         "Komysh-Zorya"
+    ],
+    "name:ces_x_preferred":[
+        "Komy\u0161-Zorja"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448-\u0417\u0430\u0440\u044f"
     ],
     "name:crh_x_preferred":[
         "Kom\u0131\u015f-Zor\u00e2"
@@ -39,6 +48,12 @@
     ],
     "name:eng_x_variant":[
         "Komysh-Zoria"
+    ],
+    "name:epo_x_preferred":[
+        "Komi\u015d-Zorja"
+    ],
+    "name:fra_x_preferred":[
+        "Komych-Zoria"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0574\u056b\u0577-\u0536\u0561\u0580\u0575\u0561"
@@ -57,6 +72,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u044b\u0448-\u0417\u0430\u0440\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Komish-Zoria"
+    ],
+    "name:swe_x_preferred":[
+        "Komysj-Zorja"
     ],
     "name:ukr_x_preferred":[
         "Komysh-Zorya"
@@ -106,7 +127,7 @@
         }
     ],
     "wof:id":1125791787,
-    "wof:lastmodified":1566593962,
+    "wof:lastmodified":1690876969,
     "wof:name":"Kamysh-Zarya",
     "wof:parent_id":102088373,
     "wof:placetype":"locality",

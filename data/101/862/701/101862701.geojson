@@ -27,23 +27,41 @@
     "name:bel_x_variant":[
         "\u041f\u0430\u0447\u0430\u0435\u045e"
     ],
+    "name:cat_x_preferred":[
+        "Potxaiv"
+    ],
     "name:ceb_x_preferred":[
         "Pochayiv"
     ],
     "name:ces_x_preferred":[
         "Po\u010dajiv"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0447\u0430\u0435\u0432"
+    ],
     "name:crh_x_preferred":[
         "Po\u00e7ayiv"
+    ],
+    "name:dan_x_preferred":[
+        "Potjajiv"
     ],
     "name:deu_x_preferred":[
         "Potschajiw"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03c3\u03ac\u03b9\u03c6"
+    ],
     "name:eng_x_preferred":[
         "Pochaiv"
     ],
+    "name:est_x_preferred":[
+        "Pot\u0161ajiv"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0686\u0627\u0626\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Pot\u0161ajiv"
     ],
     "name:fra_x_preferred":[
         "Potcha\u00efv"
@@ -60,11 +78,17 @@
     "name:ita_x_preferred":[
         "Po\u010da\u00efv"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ab\u30a4\u30e6"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e9\u10d0\u10d4\u10d5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ucc28\uc774\uc6b0"
+    ],
+    "name:lat_x_preferred":[
+        "Po\u010daiovia"
     ],
     "name:lav_x_preferred":[
         "Po\u010dajiva"
@@ -75,8 +99,17 @@
     "name:nno_x_preferred":[
         "Potsjajiv"
     ],
+    "name:nob_x_preferred":[
+        "Potsjajiv"
+    ],
+    "name:nor_x_preferred":[
+        "Potjajiv"
+    ],
     "name:pol_x_preferred":[
         "Poczaj\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Pochaiv"
     ],
     "name:ron_x_preferred":[
         "Poceaiiv"
@@ -87,8 +120,17 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0447\u0430\u0435\u0432"
     ],
+    "name:spa_x_preferred":[
+        "Poch\u00e1yiv"
+    ],
+    "name:swe_x_preferred":[
+        "Potjajiv"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u043e\u0447\u0430\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e2d\u0e0a\u0e32\u0e22\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0447\u0430\u0457\u0432"
@@ -96,11 +138,17 @@
     "name:und_x_variant":[
         "Pochayuv Stary"
     ],
+    "name:uzb_x_preferred":[
+        "Pochaiv"
+    ],
     "name:vie_x_preferred":[
         "Pochaiv"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u6070\u8036\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u6070\u4f0a\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
@@ -153,7 +201,7 @@
         }
     ],
     "wof:id":101862701,
-    "wof:lastmodified":1582349346,
+    "wof:lastmodified":1690876739,
     "wof:name":"\u041f\u043e\u0447\u0430\u0457\u0432",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

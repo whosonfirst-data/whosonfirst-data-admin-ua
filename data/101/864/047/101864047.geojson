@@ -48,14 +48,23 @@
     "name:crh_x_preferred":[
         "Polonne"
     ],
+    "name:dan_x_preferred":[
+        "Polonne"
+    ],
     "name:deu_x_preferred":[
         "Polonne"
     ],
     "name:eng_x_preferred":[
         "Polonne"
     ],
+    "name:est_x_preferred":[
+        "Polonne"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0644\u0648\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Polonne"
     ],
     "name:fra_x_preferred":[
         "Polonne"
@@ -72,11 +81,20 @@
     "name:ita_x_preferred":[
         "Polonne"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30ed\u30f3\u30cd"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10dd\u10dc\u10dd\u10d4"
     ],
+    "name:lav_x_preferred":[
+        "Polonne"
+    ],
     "name:lit_x_preferred":[
         "Polon\u0117"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043d\u043d\u043e\u0435"
     ],
     "name:nld_x_preferred":[
         "Polonne"
@@ -84,8 +102,17 @@
     "name:nno_x_preferred":[
         "Polonne"
     ],
+    "name:nob_x_preferred":[
+        "Polonne"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u043e\u043b\u043e\u043d\u043d\u043e\u0435"
+    ],
     "name:pol_x_preferred":[
         "Po\u0142onne"
+    ],
+    "name:por_x_preferred":[
+        "Polonne"
     ],
     "name:ron_x_preferred":[
         "Polonne"
@@ -102,14 +129,23 @@
     "name:srp_x_variant":[
         "\u041f\u043e\u043b\u043e\u043d\u043d\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Polonne"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043d\u043d\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e2d\u0e25\u0e2d\u0e19\u0e41\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043d\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Polonnoje"
+    ],
+    "name:uzb_x_preferred":[
+        "Polonna"
     ],
     "name:vie_x_preferred":[
         "Polonne"
@@ -119,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u9686\u6d85"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u9686\u5185"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -174,7 +213,7 @@
         }
     ],
     "wof:id":101864047,
-    "wof:lastmodified":1582349367,
+    "wof:lastmodified":1690876833,
     "wof:name":"\u041f\u043e\u043b\u043e\u043d\u043d\u0435",
     "wof:parent_id":102088571,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u0645\u0627\u0632\u0646\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0437\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Almazna"
+    ],
     "name:ces_x_preferred":[
         "Almazna"
     ],
@@ -32,17 +38,32 @@
     "name:crh_x_preferred":[
         "Almazna"
     ],
+    "name:dan_x_preferred":[
+        "Almazna"
+    ],
     "name:deu_x_preferred":[
         "Almasna"
     ],
     "name:eng_x_preferred":[
         "Almazna"
     ],
+    "name:epo_x_preferred":[
+        "Almazna"
+    ],
+    "name:est_x_preferred":[
+        "Almazna"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u0645\u0627\u0632\u0646\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Almazna"
+    ],
     "name:fra_x_preferred":[
         "Almazna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05de\u05d6\u05e0\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Almazna"
@@ -52,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Almazna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30de\u30ba\u30ca"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10db\u10d0\u10d6\u10dc\u10d0\u10d8\u10d0"
@@ -77,8 +101,14 @@
     "name:nor_x_preferred":[
         "Almazna"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0437\u043d\u0430\u044f"
+    ],
     "name:pol_x_preferred":[
         "A\u0142mazna"
+    ],
+    "name:por_x_preferred":[
+        "Almazna"
     ],
     "name:ron_x_preferred":[
         "Almazna"
@@ -92,6 +122,9 @@
     "name:tat_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0437\u043d\u0430"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e31\u0e0b\u0e19\u0e32"
+    ],
     "name:udm_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0437\u043d\u0430\u044f"
     ],
@@ -104,11 +137,17 @@
     "name:und_x_variant":[
         "Almaznoye"
     ],
+    "name:uzb_x_preferred":[
+        "Almazna"
+    ],
     "name:vie_x_preferred":[
         "Almazna"
     ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u7c73\u8332\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c14\u9a6c\u5179\u7eb3"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -160,7 +199,7 @@
         }
     ],
     "wof:id":101869869,
-    "wof:lastmodified":1582349296,
+    "wof:lastmodified":1690876495,
     "wof:name":"\u0410\u043b\u043c\u0430\u0437\u043d\u0430",
     "wof:parent_id":1108730649,
     "wof:placetype":"locality",

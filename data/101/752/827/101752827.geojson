@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
     "geom:area_square_m":2265682.231038,
-    "geom:bbox":"34.6441895,47.489045,34.670623,47.509217",
+    "geom:bbox":"34.644189,47.489045,34.670623,47.509217",
     "geom:latitude":47.498632,
     "geom:longitude":34.656743,
     "gn:population":55800,
@@ -26,11 +26,17 @@
     "name:azb_x_preferred":[
         "\u0627\u0646\u0631\u0647\u0648\u062f\u0627\u0631"
     ],
+    "name:bak_x_preferred":[
+        "\u042d\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u043d\u044d\u0440\u0433\u0430\u0434\u0430\u0440"
     ],
     "name:bul_x_preferred":[
         "\u0415\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Enerhodar"
     ],
     "name:ceb_x_preferred":[
         "Energodar"
@@ -41,10 +47,25 @@
     "name:crh_x_preferred":[
         "Energodar"
     ],
+    "name:dan_x_preferred":[
+        "Enerhodar"
+    ],
     "name:deu_x_preferred":[
         "Enerhodar"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bd\u03b5\u03c1\u03c7\u03bf\u03bd\u03c4\u03ac\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "Enerhodar"
+    ],
+    "name:epo_x_preferred":[
+        "Enerhodar"
+    ],
+    "name:est_x_preferred":[
+        "Energodar"
+    ],
+    "name:eus_x_preferred":[
         "Enerhodar"
     ],
     "name:fas_x_preferred":[
@@ -62,6 +83,9 @@
     "name:hsb_x_preferred":[
         "Enerhodar"
     ],
+    "name:hun_x_preferred":[
+        "Enerhodar"
+    ],
     "name:hye_x_preferred":[
         "\u0537\u0576\u0565\u0580\u0563\u0578\u0564\u0561\u0580"
     ],
@@ -71,8 +95,14 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30cd\u30fc\u30db\u30c0\u30fc"
     ],
+    "name:jpn_x_variant":[
+        "\u30a8\u30cd\u30eb\u30db\u30c0\u30fc\u30eb"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10dc\u10d4\u10e0\u10d2\u10dd\u10d3\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ub124\ub974\ud638\ub2e4\ub974"
     ],
     "name:lav_x_preferred":[
         "Enerhodara"
@@ -92,7 +122,13 @@
     "name:nor_x_preferred":[
         "Enerhodar"
     ],
+    "name:oss_x_preferred":[
+        "\u042d\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440"
+    ],
     "name:pol_x_preferred":[
+        "Enerhodar"
+    ],
+    "name:por_x_preferred":[
         "Enerhodar"
     ],
     "name:ron_x_preferred":[
@@ -104,8 +140,14 @@
     "name:sco_x_preferred":[
         "Enerhodar"
     ],
+    "name:slv_x_preferred":[
+        "Energodar"
+    ],
     "name:spa_x_preferred":[
         "Enerhodar"
+    ],
+    "name:spa_x_variant":[
+        "Enerjodar"
     ],
     "name:srp_x_preferred":[
         "\u0415\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440"
@@ -119,14 +161,26 @@
     "name:tat_x_variant":[
         "\u042d\u043d\u0435\u0440\u04bb\u043e\u0434\u0430\u0440"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e2d\u0e41\u0e19\u0e23\u0e4c\u0e2e\u0e2d\u0e14\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Enerhodar"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Enerhodar"
     ],
     "name:vie_x_preferred":[
         "Enerhodar"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u6d85\u723e\u6208\u9054\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u5185\u5c14\u970d\u8fbe\u5c14"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430",
@@ -167,7 +221,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b5bbdfb98c618bb55610000531a650fe",
+    "wof:geomhash":"382f2e586864029ab41f58873e677830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +232,7 @@
         }
     ],
     "wof:id":101752827,
-    "wof:lastmodified":1582349239,
+    "wof:lastmodified":1690876235,
     "wof:name":"\u0415\u043d\u0435\u0440\u0433\u043e\u0434\u0430\u0440",
     "wof:parent_id":1108730769,
     "wof:placetype":"locality",
@@ -190,10 +244,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.64418949999987,
+    34.644189,
     47.489045,
-    34.67062299999975,
-    47.50921699999986
+    34.670623,
+    47.509217
 ],
-  "geometry": {"coordinates":[[[34.659051,47.504114],[34.661625,47.50035399999985],[34.66552049999984,47.501139],[34.66532099999984,47.50042],[34.66538699999978,47.49970099999979],[34.6656509999998,47.49862299999978],[34.66591499999976,47.49790499999989],[34.66677499999986,47.49610749999982],[34.66763499999979,47.49431099999987],[34.668231,47.49359299999981],[34.66929249999981,47.493189],[34.66975599999978,47.49283],[34.67028599999975,47.492695],[34.67062299999975,47.49174299999987],[34.65810849999991,47.48950299999979],[34.65554899999989,47.489045],[34.64691599999986,47.499958],[34.64811899999978,47.5028595],[34.64885799999979,47.50464099999982],[34.64418949999987,47.505999],[34.647655,47.50921699999986],[34.66079099999985,47.505912],[34.66154699999987,47.5049889999998],[34.659051,47.504114]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.659051,47.504114],[34.661625,47.500354],[34.66552,47.501139],[34.665321,47.50042],[34.665387,47.499701],[34.665651,47.498623],[34.665915,47.497905],[34.666775,47.496107],[34.667635,47.494311],[34.668231,47.493593],[34.669292,47.493189],[34.669756,47.49283],[34.670286,47.492695],[34.670623,47.491743],[34.658108,47.489503],[34.655549,47.489045],[34.646916,47.499958],[34.648119,47.502859],[34.648858,47.504641],[34.644189,47.505999],[34.647655,47.509217],[34.660791,47.505912],[34.661547,47.504989],[34.659051,47.504114]]],"type":"Polygon"}
 }

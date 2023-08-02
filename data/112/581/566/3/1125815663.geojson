@@ -22,17 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0456\u0446\u0430 \u041b\u0443\u0433\u0430\u043d\u0441\u043a\u0430\u044f"
+    ],
     "name:ceb_x_preferred":[
         "Stanytsya Luhans'ka"
     ],
     "name:ces_x_preferred":[
         "Stanycja Luhanska"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0438\u0446\u0430 \u041b\u0443\u0433\u0430\u043d\u0441\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
         "Stan\u0131ts\u00e2 Luganska"
     ],
     "name:deu_x_preferred":[
         "Stanyzja Luhanska"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03bd\u03af\u03c4\u03c3\u03b9\u03b1 \u039b\u03bf\u03c5\u03c7\u03ac\u03bd\u03c3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Stanichno-Luganskoye"
@@ -43,11 +52,35 @@
     "name:est_x_preferred":[
         "Stan\u00f5tsja Luganska"
     ],
+    "name:fin_x_preferred":[
+        "St\u0430nytsja Luh\u0430nsk\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Stanytsia Louhanska"
+    ],
+    "name:ita_x_preferred":[
+        "Stanytsia Luhanska"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30cb\u30c4\u30a3\u30a2\u30fb\u30eb\u30cf\u30f3\u30b9\u30ab"
+    ],
     "name:lav_x_preferred":[
         "Stanica Luhanska"
     ],
+    "name:nld_x_preferred":[
+        "Stanyzja Luhanska"
+    ],
+    "name:nno_x_preferred":[
+        "Stanytsia Luhanska"
+    ],
+    "name:nob_x_preferred":[
+        "Stanytsia Luhanska"
+    ],
     "name:pol_x_preferred":[
         "Stanycia \u0141uhan\u015bka"
+    ],
+    "name:por_x_preferred":[
+        "Stanytsia Luhanska"
     ],
     "name:ron_x_preferred":[
         "Stan\u00eecino-Luhanske"
@@ -61,6 +94,12 @@
     "name:spa_x_preferred":[
         "Luganska"
     ],
+    "name:spa_x_variant":[
+        "Stanitsa Lug\u00e1nskaya"
+    ],
+    "name:swe_x_preferred":[
+        "Stanytsia Luhanska"
+    ],
     "name:ukr_x_preferred":[
         "Stanytsya Luhans\u2019ka"
     ],
@@ -72,8 +111,14 @@
     "name:und_x_variant":[
         "Luganskaya"
     ],
+    "name:uzb_x_preferred":[
+        "Stanitsia Luganska"
+    ],
     "name:zho_x_preferred":[
         "\u65af\u5854\u5c3c\u9f4a\u4e9e\u76e7\u7518\u897f\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u5854\u5c3c\u9f50\u4e9a\u5362\u6c49\u65af\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -128,7 +173,7 @@
         }
     ],
     "wof:id":1125815663,
-    "wof:lastmodified":1566593908,
+    "wof:lastmodified":1690876899,
     "wof:name":"Stanichno-Luganskoye",
     "wof:parent_id":102088875,
     "wof:placetype":"locality",

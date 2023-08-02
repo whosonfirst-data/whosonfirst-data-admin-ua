@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.5348413477,50.4434921263,30.5348413477,50.4434921263",
+    "geom:bbox":"30.534841,50.443492,30.534841,50.443492",
     "geom:latitude":50.443492,
     "geom:longitude":30.534841,
     "iso:country":"UA",
@@ -26,8 +26,20 @@
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u043a\u0456"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c0\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Lypky"
+    ],
+    "name:fra_x_preferred":[
+        "Lypky"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e4\u05e7\u05d9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d7\u30ad\u30fc"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u043a\u0438"
@@ -37,6 +49,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043a\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u666e\u57fa"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
     },
     "wof:country":"UA",
     "wof:created":1491364828,
-    "wof:geomhash":"8fad61b7057db77a2bcf44e7f63a2869",
+    "wof:geomhash":"18fcfe29b4bde56c0a4026425cb3ff51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1108945129,
-    "wof:lastmodified":1566592890,
+    "wof:lastmodified":1690876225,
     "wof:name":"Lypky",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",
@@ -74,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.53484134768567,
-    50.44349212628962,
-    30.53484134768567,
-    50.44349212628962
+    30.534841,
+    50.443492,
+    30.534841,
+    50.443492
 ],
-  "geometry": {"coordinates":[30.53484134768567,50.44349212628962],"type":"Point"}
+  "geometry": {"coordinates":[30.534841,50.443492],"type":"Point"}
 }

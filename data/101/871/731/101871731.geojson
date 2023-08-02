@@ -24,11 +24,20 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0644\u0648\u062a\u0634\u064a\u0641"
     ],
+    "name:bel_x_preferred":[
+        "\u0417\u043e\u043b\u0430\u0447\u044b\u045e"
+    ],
     "name:bel_x_variant":[
         "\u0417\u043e\u043b\u0430\u0447\u0430\u045e"
     ],
     "name:ceb_x_preferred":[
         "Zolochiv"
+    ],
+    "name:ces_x_preferred":[
+        "Zolo\u010div"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0447\u0435\u0432"
     ],
     "name:crh_x_preferred":[
         "Zolo\u00e7iv"
@@ -36,17 +45,32 @@
     "name:deu_x_preferred":[
         "Solotschiw"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03cc\u03bb\u03bf\u03c4\u03c3\u03b9\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Zolochiv"
     ],
+    "name:fra_x_preferred":[
+        "Zolotchiv"
+    ],
     "name:hye_x_preferred":[
         "\u0536\u0578\u056c\u0578\u0579\u0587"
+    ],
+    "name:nno_x_preferred":[
+        "Zolotsjiv"
+    ],
+    "name:nob_x_preferred":[
+        "Zolotsjiv"
     ],
     "name:pol_x_preferred":[
         "Zo\u0142ocziw"
     ],
     "name:pol_x_variant":[
         "Zo\u0142oczow"
+    ],
+    "name:ron_x_preferred":[
+        "Zolociv"
     ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0447\u0435\u0432"
@@ -57,8 +81,14 @@
     "name:und_x_variant":[
         "Zolochev"
     ],
+    "name:uzb_x_preferred":[
+        "Zolochiv"
+    ],
     "name:zho_x_preferred":[
         "\u4f50\u6d1b\u55ac\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u4f50\u6d1b\u5947\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -111,7 +141,7 @@
         }
     ],
     "wof:id":101871731,
-    "wof:lastmodified":1582349337,
+    "wof:lastmodified":1690876704,
     "wof:name":"\u0417\u043e\u043b\u043e\u0447\u0456\u0432",
     "wof:parent_id":102088947,
     "wof:placetype":"locality",

@@ -30,11 +30,20 @@
     "name:bel_x_preferred":[
         "\u0417\u0430\u0446\u0456\u0448\u0448\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0417\u0430\u0442\u044b\u0448\u0448\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u0442\u0438\u0448\u044f"
     ],
     "name:ceb_x_preferred":[
         "Zatyshshya"
+    ],
+    "name:ces_x_preferred":[
+        "Zaty\u0161\u0161ja"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0442\u0438\u0448\u044c\u0435"
     ],
     "name:crh_x_preferred":[
         "Zat\u0131\u015f\u015f\u00e2"
@@ -45,8 +54,20 @@
     "name:eng_x_preferred":[
         "Zatyshshia"
     ],
+    "name:epo_x_preferred":[
+        "Zati\u015d\u015dja"
+    ],
+    "name:fra_x_preferred":[
+        "Zatychchia"
+    ],
+    "name:hun_x_preferred":[
+        "Zatissja"
+    ],
     "name:lav_x_preferred":[
         "Zati\u0161ja"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0417\u0430\u0442\u0438\u0448\u044c\u0435"
     ],
     "name:pol_x_preferred":[
         "Zatyszszia"
@@ -75,6 +96,9 @@
     ],
     "name:ukr_x_variant":[
         "Zatyshshya"
+    ],
+    "name:uzb_x_preferred":[
+        "Zatishshiya"
     ],
     "name:zho_x_preferred":[
         "\u624e\u5b63\u4ec0\u6c99"
@@ -105,8 +129,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088023,
-        85688877
+        85688877,
+        102088023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +154,7 @@
         }
     ],
     "wof:id":101865599,
-    "wof:lastmodified":1588710637,
+    "wof:lastmodified":1690876799,
     "wof:name":"\u0417\u0430\u0442\u0438\u0448\u0448\u044f",
     "wof:parent_id":102088023,
     "wof:placetype":"locality",

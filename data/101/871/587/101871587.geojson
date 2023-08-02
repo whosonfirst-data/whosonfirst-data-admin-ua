@@ -27,11 +27,17 @@
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0644\u0648\u067e\u06cc\u0644\u06cc\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Belopolye"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0456\u043b\u0430\u043f\u0456\u043b\u043b\u044f"
     ],
     "name:bel_x_variant":[
         "\u0411\u0435\u043b\u0430\u043f\u043e\u043b\u044c\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Bilop\u00edl\u00b7lia"
     ],
     "name:ceb_x_preferred":[
         "Bilopillya"
@@ -39,11 +45,20 @@
     "name:ces_x_preferred":[
         "Bilopillja"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
     "name:crh_x_preferred":[
         "Bilopill\u00e2"
     ],
+    "name:dan_x_preferred":[
+        "Bilop\u00edllja"
+    ],
     "name:deu_x_preferred":[
         "Bilopillja"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bb\u03bf\u03c0\u03af\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bilopillya"
@@ -51,8 +66,17 @@
     "name:eng_x_variant":[
         "Bilopillia"
     ],
+    "name:epo_x_preferred":[
+        "Bilopillja"
+    ],
+    "name:est_x_preferred":[
+        "Bilopillja"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0644\u0648\u067e\u06cc\u0644\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Bilopillja"
     ],
     "name:fra_x_preferred":[
         "Bilopillia"
@@ -69,8 +93,14 @@
     "name:ita_x_preferred":[
         "Bilopillja"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30ed\u30d4\u30ea\u30a2"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10da\u10dd\u10de\u10dd\u10da\u10d8\u10d4"
+    ],
+    "name:lav_x_preferred":[
+        "Bilopi\u013c\u013ca"
     ],
     "name:lit_x_preferred":[
         "Bilopilia"
@@ -87,11 +117,17 @@
     "name:nor_x_preferred":[
         "Bilopillja"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
     "name:pol_x_preferred":[
         "Bia\u0142opole"
     ],
     "name:pol_x_variant":[
         "Bi\u0142opillia"
+    ],
+    "name:por_x_preferred":[
+        "Bilopillia"
     ],
     "name:ron_x_preferred":[
         "Bilopillia"
@@ -105,11 +141,17 @@
     "name:sah_x_preferred":[
         "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u044c\u0435"
     ],
+    "name:slv_x_preferred":[
+        "Belopolje"
+    ],
     "name:swe_x_preferred":[
         "Bilopillja"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u043b\u043e\u043f\u0438\u043b\u043b\u04d9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e25\u0e2d\u0e1b\u0e34\u0e25\u0e40\u0e25\u0e35\u0e22"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u043b\u044f"
@@ -117,11 +159,17 @@
     "name:und_x_variant":[
         "Belopol\u2019ye"
     ],
+    "name:uzb_x_preferred":[
+        "Bilopiliya"
+    ],
     "name:vie_x_preferred":[
         "Bilopillia"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u6d1b\u76ae\u5229\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u6bd4\u6d1b\u76ae\u5229\u4e9a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0421\u0443\u043c\u0441\u044c\u043a\u0430",
@@ -174,7 +222,7 @@
         }
     ],
     "wof:id":101871587,
-    "wof:lastmodified":1582349340,
+    "wof:lastmodified":1690876719,
     "wof:name":"\u0411\u0456\u043b\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":102088995,
     "wof:placetype":"locality",

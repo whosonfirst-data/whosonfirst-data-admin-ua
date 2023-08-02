@@ -43,6 +43,15 @@
     "name:bel_x_variant":[
         "\u0410\u0440\u044d\u0445\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Orekhovskiy Rayon"
+    ],
+    "name:ces_x_preferred":[
+        "Orichivsk\u00fd raj\u00f3n"
+    ],
+    "name:dan_x_preferred":[
+        "Orichiw Rajon"
+    ],
     "name:deu_x_preferred":[
         "Rajon Orichiw"
     ],
@@ -50,8 +59,10 @@
         "Orikhivs'kyi"
     ],
     "name:eng_x_variant":[
-        "Orikhivs'kyi",
         "Orikhiv Raion"
+    ],
+    "name:fin_x_preferred":[
+        "Orih\u2019ivin piiri"
     ],
     "name:fra_x_preferred":[
         "Orikhiv"
@@ -61,6 +72,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10e0\u10d4\u10ee\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Orikhiv Ko\u0101n"
     ],
     "name:pol_x_preferred":[
         "Rejon orichiwski"
@@ -77,6 +91,9 @@
     "name:spa_x_preferred":[
         "Rai\u00f3n de Orijiv"
     ],
+    "name:swe_x_preferred":[
+        "Orichiv rajon"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0456\u0445\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
         "\u041e\u0440\u0456\u0445\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -86,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5967\u5217\u970d\u592b\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u91cc\u5e0c\u592b\u533a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
@@ -141,7 +161,7 @@
         }
     ],
     "wof:id":102088375,
-    "wof:lastmodified":1627522921,
+    "wof:lastmodified":1690876184,
     "wof:name":"Orikhivskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

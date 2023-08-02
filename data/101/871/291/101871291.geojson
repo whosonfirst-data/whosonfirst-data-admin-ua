@@ -32,6 +32,9 @@
     "name:ang_x_preferred":[
         "Gautama Budda"
     ],
+    "name:anp_x_preferred":[
+        "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0648\u062a\u0627\u0645\u0627 \u0628\u0648\u062f\u0627"
     ],
@@ -50,6 +53,9 @@
     "name:ast_x_preferred":[
         "Buda Gautama"
     ],
+    "name:awa_x_preferred":[
+        "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u062a\u0627\u0645\u0627 \u0628\u0648\u062f\u0627"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:bam_x_preferred":[
         "Gautama Buddha"
+    ],
+    "name:ban_x_preferred":[
+        "Siddhartha Gautama"
     ],
     "name:bcl_x_preferred":[
         "Siddhartha Gautama"
@@ -74,11 +83,20 @@
     "name:bho_x_preferred":[
         "\u092d\u0917\u0935\u093e\u0928 \u092c\u0941\u0926\u094d\u0927"
     ],
+    "name:bho_x_variant":[
+        "\u0917\u094c\u0924\u092e \u092c\u0941\u0926\u094d\u0927"
+    ],
     "name:bis_x_preferred":[
         "Buddha"
     ],
+    "name:blk_x_preferred":[
+        "\u1016\u101b\u102c\uaa7b\u1002\u1031\u102b\u1010\u1019"
+    ],
     "name:bod_x_preferred":[
         "\u0f56\u0f45\u0f7c\u0f58\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f60\u0f51\u0f66\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f64\u0f71\u0f40\u0fb1\u0f0b\u0f58\u0f74\u0f0b\u0f53\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Buda"
@@ -110,10 +128,16 @@
     "name:ceb_x_preferred":[
         "Siddh\u0101rtha Gautama"
     ],
+    "name:ceb_x_variant":[
+        "Siddhattha Gotama"
+    ],
     "name:ces_x_preferred":[
         "Gautama Buddha"
     ],
     "name:che_x_preferred":[
+        "\u0411\u0443\u0434\u0434\u0430 \u0428\u0430\u043a\u044c\u044f\u043c\u0443\u043d\u0438"
+    ],
+    "name:chv_x_preferred":[
         "\u0411\u0443\u0434\u0434\u0430 \u0428\u0430\u043a\u044c\u044f\u043c\u0443\u043d\u0438"
     ],
     "name:ckb_x_preferred":[
@@ -128,8 +152,14 @@
     "name:cos_x_preferred":[
         "Gautama Siddhartha"
     ],
+    "name:crh_x_preferred":[
+        "Budda"
+    ],
     "name:cym_x_preferred":[
         "Siddhartha Gotama"
+    ],
+    "name:cym_x_variant":[
+        "Siddhartha Gautama"
     ],
     "name:dan_x_preferred":[
         "Siddharta Gautama"
@@ -197,11 +227,20 @@
     "name:gla_x_preferred":[
         "Buddha"
     ],
+    "name:gle_x_preferred":[
+        "An B\u00fada"
+    ],
     "name:glg_x_preferred":[
         "Siddhartha Gautama"
     ],
     "name:gom_x_preferred":[
         "Buddh"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf32\ud800\udf30\ud800\udf3f\ud800\udf44\ud800\udf30\ud800\udf3c\ud800\udf30 \ud800\udf31\ud800\udf3f\ud800\udf44\ud800\udf44\ud800\udf30"
+    ],
+    "name:grn_x_preferred":[
+        "V\u00fada Gaut\u00e1ma"
     ],
     "name:gsw_x_preferred":[
         "Siddhattha Gotama"
@@ -209,8 +248,17 @@
     "name:guj_x_preferred":[
         "\u0a97\u0acc\u0aa4\u0aae \u0aac\u0ac1\u0aa6\u0acd\u0aa7"
     ],
+    "name:guw_x_preferred":[
+        "Gautama Buddha"
+    ],
     "name:hak_x_preferred":[
         "S\u1e73t-k\u00e2-m\u00e8u-n\u00ec"
+    ],
+    "name:hat_x_preferred":[
+        "Gautama Buddha"
+    ],
+    "name:hau_x_preferred":[
+        "Gautama Buddha"
     ],
     "name:haw_x_preferred":[
         "Buda"
@@ -235,6 +283,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0564\u0564\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0578\u0582\u057f\u057f\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Buddha"
     ],
     "name:ido_x_preferred":[
         "Budo"
@@ -290,11 +344,23 @@
     "name:khm_x_preferred":[
         "\u1796\u17bb\u1791\u17d2\u1792\u1794\u17d2\u179a\u179c\u178f\u17d2\u178f\u17b7\u179f\u1784\u17d2\u1781\u17c1\u1794"
     ],
+    "name:kin_x_preferred":[
+        "Budha"
+    ],
     "name:kir_x_preferred":[
         "\u0413\u0430\u0443\u0442\u0430\u043c\u0430 \u0411\u0443\u0434\u0434\u0430"
     ],
     "name:kor_x_preferred":[
         "\uc11d\uac00\ubaa8\ub2c8"
+    ],
+    "name:krj_x_preferred":[
+        "Siddhattha Gotama"
+    ],
+    "name:kur_x_preferred":[
+        "Buda"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9e\u0ea3\u0eb0\u0e9e\u0eb8\u0e94\u0e97\u0eb0\u0ec0\u0e88\u0ebb\u0ec9\u0eb2"
     ],
     "name:lat_x_preferred":[
         "Gautama Buddha"
@@ -317,11 +383,17 @@
     "name:lit_x_variant":[
         "Buda"
     ],
+    "name:lld_x_preferred":[
+        "Gauthama Buddha"
+    ],
     "name:lmo_x_preferred":[
         "Siddharta Gautama"
     ],
     "name:ltz_x_preferred":[
         "Siddhartha Gautama"
+    ],
+    "name:lug_x_preferred":[
+        "Buddha"
     ],
     "name:lzh_x_preferred":[
         "\u91cb\u8fe6\u725f\u5c3c"
@@ -349,6 +421,9 @@
     ],
     "name:mlt_x_preferred":[
         "Gautama Buddha"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabe7\uabc7\uabdd \uabd5\uabe8\uabd7\uabed\uabd9"
     ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u0443\u0442\u0430\u043c\u0430 \u0411\u0443\u0434\u0434\u0430"
@@ -413,11 +488,17 @@
     "name:pli_x_preferred":[
         "\u092c\u0941\u0926\u094d\u0927\u094b"
     ],
+    "name:pli_x_variant":[
+        "\ud804\udc32\ud804\udc3a\ud804\udc24\ud804\udc46\ud804\udc25\ud804\udc22\ud804\udc46\ud804\udc23 \ud804\udc15\ud804\udc44\ud804\udc22\ud804\udc2b"
+    ],
     "name:pms_x_preferred":[
         "Boda"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u062f\u06be\u0627\u0631\u062a\u06be \u06af\u0648\u062a\u0645"
+    ],
+    "name:pnb_x_variant":[
+        "\u0645\u06c1\u0627\u062a\u0645\u0627 \u0628\u062f\u06be"
     ],
     "name:pol_x_preferred":[
         "Budda Siakjamuni"
@@ -488,11 +569,17 @@
     "name:smo_x_preferred":[
         "Puta Kotama"
     ],
+    "name:sna_x_preferred":[
+        "Gautama Buddha"
+    ],
     "name:snd_x_preferred":[
         "\u06af\u0648\u062a\u0645 \u067b\u068c"
     ],
     "name:som_x_preferred":[
         "Gootama buuda"
+    ],
+    "name:sot_x_preferred":[
+        "Buddha"
     ],
     "name:spa_x_preferred":[
         "Buda Gautama"
@@ -510,7 +597,8 @@
         "Siddhartha Gautama"
     ],
     "name:sun_x_variant":[
-        "Buddha"
+        "Buddha",
+        "Siddharta Gautama"
     ],
     "name:swa_x_preferred":[
         "Gautama Buddha"
@@ -526,6 +614,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0443\u0434\u0434\u0430"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0c97\u0ccc\u0ca4\u0cae \u0cac\u0cc1\u0ca6\u0ccd\u0ca7"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4c\u0c24\u0c2e \u0c2c\u0c41\u0c26\u0c4d\u0c27\u0c41\u0c21\u0c41"
@@ -563,6 +654,9 @@
     ],
     "name:uzb_x_preferred":[
         "Budda"
+    ],
+    "name:vec_x_preferred":[
+        "Siddhattha Gotama"
     ],
     "name:vie_x_preferred":[
         "T\u1ea5t-\u0111\u1ea1t-\u0111a C\u1ed3-\u0111\u00e0m"
@@ -610,10 +704,14 @@
         "\u91ca\u8fe6\u725f\u5c3c"
     ],
     "name:zho_x_variant":[
-        "\u91cb\u8fe6\u725f\u5c3c"
+        "\u91cb\u8fe6\u725f\u5c3c",
+        "\u91ca\u8fe6\u725f\u5c3c\u4f5b"
     ],
     "name:zho_yue_x_preferred":[
         "\u91cb\u8fe6\u725f\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Siddharta Gautama"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -664,7 +762,7 @@
         }
     ],
     "wof:id":101871291,
-    "wof:lastmodified":1582349344,
+    "wof:lastmodified":1690876731,
     "wof:name":"\u0411\u0443\u0434\u0430",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

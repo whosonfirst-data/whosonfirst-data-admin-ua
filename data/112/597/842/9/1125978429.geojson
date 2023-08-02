@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u043a\u0430\u0437\u0430\u0447\u044d"
+    ],
     "name:ceb_x_preferred":[
         "Starokozache"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u043a\u0430\u0437\u0430\u0447\u044c\u0435"
+    ],
+    "name:crh_x_preferred":[
+        "Starokoza\u00e7e"
     ],
     "name:deu_x_preferred":[
         "Starokosatsche"
@@ -31,8 +40,20 @@
     "name:eng_x_preferred":[
         "Starokozache"
     ],
+    "name:fin_x_preferred":[
+        "St\u0430r\u043ek\u043ez\u0430t\u0161\u0435"
+    ],
     "name:lav_x_preferred":[
         "Starokoza\u010de"
+    ],
+    "name:nan_x_preferred":[
+        "Starokozache"
+    ],
+    "name:nno_x_preferred":[
+        "Starokozatsje"
+    ],
+    "name:nob_x_preferred":[
+        "Starokozatsje"
     ],
     "name:ron_x_preferred":[
         "Cazaci"
@@ -104,7 +125,7 @@
         }
     ],
     "wof:id":1125978429,
-    "wof:lastmodified":1566593925,
+    "wof:lastmodified":1690876917,
     "wof:name":"Starokazach'ye",
     "wof:parent_id":102087951,
     "wof:placetype":"locality",

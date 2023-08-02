@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041d\u044b\u0436\u043d\u0456 \u0421\u0456\u0440\u0430\u0433\u043e\u0437\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0438 \u0421\u0438\u0440\u0433\u043e\u0437\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Nijni Sirohozi"
+    ],
     "name:ceb_x_preferred":[
         "Nyzhni Sirohozy"
+    ],
+    "name:ces_x_preferred":[
+        "Ny\u017eni Sirohozy"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0435 \u0421\u0435\u0440\u043e\u0433\u043e\u0437\u044b"
     ],
     "name:crh_x_preferred":[
         "N\u0131jni Sirogoz\u0131"
@@ -36,6 +48,12 @@
     ],
     "name:eng_x_preferred":[
         "Nyzhni Sirohozy"
+    ],
+    "name:fin_x_preferred":[
+        "Ny\u017eni Sirohozy"
+    ],
+    "name:fra_x_preferred":[
+        "Nyjni Sirohozy"
     ],
     "name:lav_x_preferred":[
         "Ni\u017e\u0146i Sirohozi"
@@ -52,14 +70,23 @@
     "name:rus_x_variant":[
         "\u041d\u0438\u0436\u043d\u0438\u0435 \u0421\u0435\u0440\u043e\u0433\u043e\u0437\u044b"
     ],
+    "name:spa_x_preferred":[
+        "Nizhni Sirogozi"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456 \u0421\u0456\u0440\u043e\u0433\u043e\u0437\u0438"
     ],
     "name:und_x_variant":[
         "Nizhniye Serogozy"
     ],
+    "name:uzb_x_preferred":[
+        "Nijni Sirogozi"
+    ],
     "name:zho_x_preferred":[
         "\u4e0b\u897f\u7f85\u6208\u6fdf"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u9521\u7f57\u970d\u6d4e"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":1125900649,
-    "wof:lastmodified":1566593921,
+    "wof:lastmodified":1690876912,
     "wof:name":"Nyzhni Sirohozy",
     "wof:parent_id":102088123,
     "wof:placetype":"locality",

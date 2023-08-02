@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0426\u044b\u0431\u0443\u043b\u0456\u045e\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Tsybulevka"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u0431\u0443\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Ts\u0131bulivka"
     ],
     "name:deu_x_preferred":[
         "Zybuliwka"
@@ -31,11 +40,23 @@
     "name:eng_x_preferred":[
         "Tsybulivka"
     ],
+    "name:fin_x_preferred":[
+        "Tsybul\u0456vk\u0430"
+    ],
     "name:heb_x_preferred":[
         "\u05e6\u05d9\u05d1\u05d5\u05dc\u05d5\u05d5\u05e7\u05d4"
     ],
     "name:hye_x_preferred":[
         "\u0551\u056b\u0562\u0578\u0582\u056c\u0587\u056f\u0561"
+    ],
+    "name:nan_x_preferred":[
+        "Tsybulivka"
+    ],
+    "name:nno_x_preferred":[
+        "Tsybulivka"
+    ],
+    "name:nob_x_preferred":[
+        "Tsybulivka"
     ],
     "name:pol_x_preferred":[
         "Cybul\u00f3wka"
@@ -91,7 +112,7 @@
         }
     ],
     "wof:id":1125778997,
-    "wof:lastmodified":1566593974,
+    "wof:lastmodified":1690876984,
     "wof:name":"Tsybulevka",
     "wof:parent_id":102088955,
     "wof:placetype":"locality",

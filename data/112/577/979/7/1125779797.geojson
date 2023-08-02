@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0627 \u0628\u0631\u064a\u0633\u062a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0644\u0627 \u0628\u0631\u064a\u0633\u062a\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u043e\u043b\u0430\u044f \u041f\u0440\u044b\u0441\u0442\u0430\u043d\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u043b\u0430 \u041f\u0440\u044b\u0441\u0442\u0430\u043d\u044c"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0430 \u041f\u0440\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Hola Pr\u00edstan"
     ],
     "name:ceb_x_preferred":[
         "Hola Prystan'"
@@ -37,8 +46,14 @@
     "name:ces_x_preferred":[
         "Hola Prysta\u0148"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u043b\u0438 \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
+    ],
     "name:crh_x_preferred":[
         "Gola Pr\u0131stan"
+    ],
+    "name:dan_x_preferred":[
+        "Hola Prystan"
     ],
     "name:deu_x_preferred":[
         "Hola Prystan"
@@ -46,8 +61,17 @@
     "name:eng_x_preferred":[
         "Hola Prystan"
     ],
+    "name:epo_x_preferred":[
+        "Hola Pristan"
+    ],
+    "name:est_x_preferred":[
+        "Gola Pr\u00f5stan"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0644\u0627 \u067e\u0631\u06cc\u0633\u062a\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hola Prystan"
     ],
     "name:fra_x_preferred":[
         "Hola Prystan"
@@ -70,6 +94,12 @@
     "name:lit_x_preferred":[
         "Hola Prystan\u0117"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u043e\u043b\u0430 \u041f\u0440\u044b\u0441\u0442\u0430\u043d\u044c"
+    ],
+    "name:myv_x_preferred":[
+        "\u0413\u043e\u043b\u0430 \u041f\u0440\u044b\u0441\u0442\u0430\u043d\u044c"
+    ],
     "name:nld_x_preferred":[
         "Hola Prystan"
     ],
@@ -78,6 +108,9 @@
     ],
     "name:nob_x_preferred":[
         "Hola Prystan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u043e\u043b\u0430\u044f \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
     ],
     "name:pol_x_preferred":[
         "Ho\u0142a Prysta\u0144"
@@ -94,8 +127,17 @@
     "name:sco_x_preferred":[
         "Hola Prystan"
     ],
+    "name:spa_x_preferred":[
+        "Gola Pristan"
+    ],
+    "name:swe_x_preferred":[
+        "Hola Prystan"
+    ],
     "name:tat_x_preferred":[
         "\u04ba\u043e\u043b\u0430-\u041f\u0440\u044b\u0441\u0442\u0430\u043d\u044c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e2d\u0e25\u0e32\u0e1b\u0e23\u0e36\u0e2a\u0e15\u0e31\u0e0d"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0430 \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
@@ -103,11 +145,17 @@
     "name:und_x_variant":[
         "Golaya Pristan\u2019"
     ],
+    "name:uzb_x_preferred":[
+        "Xola Pristan"
+    ],
     "name:vie_x_preferred":[
         "Hola Prystan"
     ],
     "name:zho_x_preferred":[
         "\u6208\u62c9\u4e9e\u666e\u91cc\u65af\u5766"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u62c9\u666e\u91cc\u65af\u5766"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -148,7 +196,7 @@
         }
     ],
     "wof:id":1125779797,
-    "wof:lastmodified":1566593968,
+    "wof:lastmodified":1690876976,
     "wof:name":"Hola Prystan\u2019",
     "wof:parent_id":102087989,
     "wof:placetype":"locality",

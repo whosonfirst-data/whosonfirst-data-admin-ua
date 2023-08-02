@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0448\u044b\u0431"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0448\u0438\u0431"
     ],
     "name:ceb_x_preferred":[
         "Pryshyb"
+    ],
+    "name:ces_x_preferred":[
+        "Pry\u0161yb"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0438\u0448\u0438\u0431"
     ],
     "name:crh_x_preferred":[
         "Pr\u0131\u015f\u0131b"
@@ -36,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Pryshyb"
+    ],
+    "name:fra_x_preferred":[
+        "Prychyb"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0580\u056b\u0577\u056b\u0562"
@@ -52,11 +64,17 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0448\u0438\u0431"
     ],
+    "name:spa_x_preferred":[
+        "Prishib"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0448\u0438\u0431"
     ],
     "name:und_x_variant":[
         "Prishib"
+    ],
+    "name:uzb_x_preferred":[
+        "Pryshyb"
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u5e0c\u5e03"
@@ -100,7 +118,7 @@
         }
     ],
     "wof:id":1125857389,
-    "wof:lastmodified":1566593948,
+    "wof:lastmodified":1690876951,
     "wof:name":"Pryshyb",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

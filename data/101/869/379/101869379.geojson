@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0648\u0628\u064a\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0628\u064a\u0644\u064a\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0648\u067e\u06cc\u0644\u06cc\u0627"
     ],
@@ -32,20 +35,38 @@
     "name:bel_x_variant":[
         "\u0414\u0430\u0431\u0440\u0430\u043f\u043e\u043b\u044c\u043b\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Dobrop\u00edllia"
+    ],
     "name:ceb_x_preferred":[
         "Dobropillya"
+    ],
+    "name:ceb_x_variant":[
+        "Dobropillia"
     ],
     "name:ces_x_preferred":[
         "Dobropillja"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043f\u043e\u043b\u044c\u0435"
+    ],
     "name:crh_x_preferred":[
         "Dobropill\u00e2"
+    ],
+    "name:dan_x_preferred":[
+        "Dobropillja"
     ],
     "name:deu_x_preferred":[
         "Dobropillja"
     ],
     "name:eng_x_preferred":[
         "Dobropillia"
+    ],
+    "name:epo_x_preferred":[
+        "Dobropillja"
+    ],
+    "name:est_x_preferred":[
+        "Dobropillja"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0648\u067e\u06cc\u0644\u06cc\u0627"
@@ -89,6 +110,9 @@
     "name:pol_x_preferred":[
         "Dobropole"
     ],
+    "name:por_x_preferred":[
+        "Dobropillia"
+    ],
     "name:ron_x_preferred":[
         "Dobropillea"
     ],
@@ -101,8 +125,14 @@
     "name:sco_x_preferred":[
         "Dobropillia"
     ],
+    "name:spa_x_preferred":[
+        "Dobropilia"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u043f\u0438\u0459\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dobropillia"
     ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u043f\u043e\u043b\u044c\u0435"
@@ -110,14 +140,23 @@
     "name:tat_x_variant":[
         "\u0414\u043e\u0431\u0440\u043e\u043f\u0438\u043b\u043b\u04d9"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e2d\u0e1a\u0e23\u0e2d\u0e1b\u0e34\u0e25\u0e40\u0e25\u0e35\u0e22"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u043f\u0456\u043b\u043b\u044f"
+    ],
+    "name:uzb_x_preferred":[
+        "Dobropillia"
     ],
     "name:vie_x_preferred":[
         "Dobropillia"
     ],
     "name:zho_x_preferred":[
         "\u591a\u5e03\u7f85\u76ae\u5229\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u591a\u5e03\u7f57\u76ae\u5229\u4e9a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -177,7 +216,7 @@
         }
     ],
     "wof:id":101869379,
-    "wof:lastmodified":1582349296,
+    "wof:lastmodified":1690876497,
     "wof:name":"\u0414\u043e\u0431\u0440\u043e\u043f\u0456\u043b\u043b\u044f",
     "wof:parent_id":1108815865,
     "wof:placetype":"locality",

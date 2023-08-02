@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Hrabove"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u0430\u0432\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0431\u043e\u0432\u043e"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:ces_x_preferred":[
         "Hrabove"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "Grabove"
     ],
     "name:deu_x_preferred":[
         "Hrabowe"
@@ -42,6 +51,9 @@
     ],
     "name:est_x_preferred":[
         "Grabove"
+    ],
+    "name:fin_x_preferred":[
+        "Hr\u0430b\u043ev\u0435"
     ],
     "name:fra_x_preferred":[
         "Hrabove"
@@ -67,7 +79,16 @@
     "name:lav_x_preferred":[
         "Hrabove"
     ],
+    "name:nan_x_preferred":[
+        "Hrabove"
+    ],
     "name:nld_x_preferred":[
+        "Hrabove"
+    ],
+    "name:nno_x_preferred":[
+        "Hrabove"
+    ],
+    "name:nob_x_preferred":[
         "Hrabove"
     ],
     "name:nor_x_preferred":[
@@ -121,8 +142,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088113,
-        85688877
+        85688877,
+        102088113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +163,7 @@
         }
     ],
     "wof:id":101876557,
-    "wof:lastmodified":1588710634,
+    "wof:lastmodified":1690876659,
     "wof:name":"\u0413\u0440\u0430\u0431\u043e\u0432\u0435",
     "wof:parent_id":102088113,
     "wof:placetype":"locality",

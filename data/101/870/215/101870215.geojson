@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u0627\u062a\u0648\u0641\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u062a\u0648\u0641\u0647"
     ],
@@ -30,11 +33,17 @@
     "name:bel_x_variant":[
         "\u0421\u0432\u0430\u0442\u0430\u0432\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Sv\u00e0tove"
+    ],
     "name:ceb_x_preferred":[
         "Svatove"
     ],
     "name:ces_x_preferred":[
         "Svatove"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043e\u0432\u043e"
     ],
     "name:crh_x_preferred":[
         "Svatove"
@@ -42,7 +51,13 @@
     "name:deu_x_preferred":[
         "Swatowe"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b2\u03ac\u03c4\u03bf\u03b2\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Svatove"
+    ],
+    "name:epo_x_preferred":[
         "Svatove"
     ],
     "name:est_x_preferred":[
@@ -50,6 +65,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0648\u0627\u062a\u0648\u0641\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Svatove"
     ],
     "name:fra_x_preferred":[
         "Svatove"
@@ -60,17 +78,26 @@
     "name:hsb_x_preferred":[
         "Swatowe"
     ],
+    "name:hun_x_preferred":[
+        "Szvatove"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u057e\u0561\u057f\u0578\u057e\u0578"
     ],
     "name:ita_x_preferred":[
         "Svatove"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a1\u30c8\u30f4\u30a7"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d5\u10d0\u10e2\u10dd\u10d5\u10dd"
     ],
     "name:lav_x_preferred":[
         "Svatove"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043e\u0432\u044d"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0432\u0430\u0442\u043e\u0432\u043e"
@@ -81,8 +108,17 @@
     "name:nno_x_preferred":[
         "Svatove"
     ],
+    "name:nob_x_preferred":[
+        "Svatove"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0432\u0430\u0442\u043e\u0432\u043e"
+    ],
     "name:pol_x_preferred":[
         "Swatowe"
+    ],
+    "name:por_x_preferred":[
+        "Svatove"
     ],
     "name:ron_x_preferred":[
         "Svatove"
@@ -93,8 +129,17 @@
     "name:rus_x_variant":[
         "\u0421\u0432\u0430\u0442\u043e\u0432\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Svatove"
+    ],
+    "name:swe_x_preferred":[
+        "Svatove"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0432\u0430\u0442\u043e\u0432\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e27\u0e32\u0e15\u0e2d\u0e41\u0e27"
     ],
     "name:udm_x_preferred":[
         "\u0421\u0432\u0430\u0442\u043e\u0432\u043e"
@@ -105,11 +150,17 @@
     "name:und_x_variant":[
         "Svatovo"
     ],
+    "name:uzb_x_preferred":[
+        "Svatove"
+    ],
     "name:vie_x_preferred":[
         "Svatove"
     ],
     "name:zho_x_preferred":[
         "\u65af\u74e6\u6258\u97cb"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u74e6\u6258\u97e6"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -164,7 +215,7 @@
         }
     ],
     "wof:id":101870215,
-    "wof:lastmodified":1582349331,
+    "wof:lastmodified":1690876645,
     "wof:name":"\u0421\u0432\u0430\u0442\u043e\u0432\u0435",
     "wof:parent_id":102088909,
     "wof:placetype":"locality",

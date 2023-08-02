@@ -25,20 +25,32 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627 \u0643\u0627\u062e\u0648\u0641\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0648\u06a4\u0627 \u0643\u0627\u062e\u0648\u06a4\u0643\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0627 \u06a9\u0627\u062e\u0648\u0641\u06a9\u0627"
     ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u0445\u043e\u045e\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09ad\u09be \u0995\u09be\u0996\u09cb\u09ad\u0995\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nova Kakhovka"
     ],
     "name:ceb_x_preferred":[
         "Nova Kakhovka"
     ],
     "name:ces_x_preferred":[
         "Nova Kachovka"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Nova Kahovka"
@@ -49,8 +61,17 @@
     "name:deu_x_preferred":[
         "Nowa Kachowka"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03b2\u03ac \u039a\u03b1\u03c7\u03cc\u03b2\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nova Kakhovka"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Ka\u0125ovka"
+    ],
+    "name:est_x_preferred":[
+        "Nova Kahhovka"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0648\u0627 \u06a9\u0627\u062e\u0648\u0641\u06a9\u0627"
@@ -69,6 +90,9 @@
     ],
     "name:hsb_x_preferred":[
         "Nowa Kachowka"
+    ],
+    "name:hun_x_preferred":[
+        "Nova Kahovka"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u057e\u0561\u0575\u0561 \u053f\u0561\u056d\u0578\u057e\u056f\u0561"
@@ -97,8 +121,17 @@
     "name:nno_x_preferred":[
         "Nova Kakhovka"
     ],
+    "name:nob_x_preferred":[
+        "Nova Kakhovka"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0433 \u041a\u0430\u0445\u043e\u0432\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Nowa Kachowka"
+    ],
+    "name:por_x_preferred":[
+        "Nova Kakhovka"
     ],
     "name:ron_x_preferred":[
         "Nova Kahovka"
@@ -118,6 +151,9 @@
     "name:spa_x_preferred":[
         "Nova Kajovka"
     ],
+    "name:spa_x_variant":[
+        "Nueva Kajovka"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
@@ -130,6 +166,9 @@
     "name:tat_x_variant":[
         "\u041d\u043e\u0432\u0430-\u041a\u0430\u0445\u043e\u0432\u043a\u0430"
     ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e2d\u0e27\u0e32\u0e01\u0e32\u0e04\u0e2d\u0e27\u0e4c\u0e01\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Nova Kahovka"
     ],
@@ -138,6 +177,9 @@
     ],
     "name:und_x_variant":[
         "Novaya Kakhova"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangi Kaxovka"
     ],
     "name:vie_x_preferred":[
         "Nova Kakhovka"
@@ -204,7 +246,7 @@
         }
     ],
     "wof:id":1126003633,
-    "wof:lastmodified":1566593935,
+    "wof:lastmodified":1690876932,
     "wof:name":"Novaya Kakhovka",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

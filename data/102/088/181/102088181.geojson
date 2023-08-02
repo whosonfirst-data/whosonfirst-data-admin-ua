@@ -37,6 +37,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0628\u0648\u0631\u0634\u062a\u0634\u064a\u0641"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0448\u0447\u044b\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:ceb_x_preferred":[
         "Borshchevskiy Rayon"
+    ],
+    "name:ces_x_preferred":[
+        "Bor\u0161\u010divsk\u00fd raj\u00f3n"
+    ],
+    "name:dan_x_preferred":[
+        "Borschtschiw Rajon"
     ],
     "name:deu_x_preferred":[
         "Rajon Borschtschiw"
@@ -57,14 +66,23 @@
         "Borschiv Raion",
         "Borshchiv Raion"
     ],
+    "name:fin_x_preferred":[
+        "Bor\u0161t\u0161ivin piiri"
+    ],
     "name:fra_x_preferred":[
         "Borshchivs'kyi"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0580\u0577\u0579\u0575\u0578\u057e\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10e8\u10e9\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Bor\u0161\u010divas rajons"
+    ],
+    "name:nan_x_preferred":[
+        "Borshchiv Ko\u0101n"
     ],
     "name:pol_x_preferred":[
         "Rejon borszczowski"
@@ -77,6 +95,9 @@
     ],
     "name:spa_x_preferred":[
         "Rai\u00f3n de Borshchivskyi"
+    ],
+    "name:swe_x_preferred":[
+        "Borsjtjivskyj rajon"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0449\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
@@ -142,7 +163,7 @@
         }
     ],
     "wof:id":102088181,
-    "wof:lastmodified":1627522885,
+    "wof:lastmodified":1690876175,
     "wof:name":"Borshchivskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

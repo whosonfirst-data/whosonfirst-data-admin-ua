@@ -30,14 +30,23 @@
     "name:bel_x_variant":[
         "\u0423\u0433\u043d\u0430\u045e"
     ],
+    "name:cat_x_preferred":[
+        "\u00dahniv"
+    ],
     "name:ceb_x_preferred":[
         "Uhniv"
     ],
     "name:ces_x_preferred":[
         "Uhniv"
     ],
+    "name:che_x_preferred":[
+        "\u0423\u0433\u043d\u0435\u0432"
+    ],
     "name:crh_x_preferred":[
         "Ugniv"
+    ],
+    "name:dan_x_preferred":[
+        "Uhniv"
     ],
     "name:deu_x_preferred":[
         "Uhniw"
@@ -48,8 +57,14 @@
     "name:est_x_preferred":[
         "Ugniv"
     ],
+    "name:eus_x_preferred":[
+        "Uhniv"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0646\u0648\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Uhniv"
     ],
     "name:fra_x_preferred":[
         "Ouhniv"
@@ -66,17 +81,35 @@
     "name:ita_x_preferred":[
         "Uhniv"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30cb\u30a6"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10d2\u10dc\u10d4\u10d5\u10d8"
     ],
     "name:lav_x_preferred":[
         "Uh\u0146iva"
     ],
+    "name:mal_x_preferred":[
+        "\u0d09\u0d39\u0d4d\u0d28\u0d3f\u0d35\u0d4d"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0423\u0433\u043d\u0438\u0432"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0423\u0433\u043d\u0435\u0432"
+    ],
     "name:nno_x_preferred":[
+        "Uhniv"
+    ],
+    "name:nob_x_preferred":[
         "Uhniv"
     ],
     "name:pol_x_preferred":[
         "Uhn\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Uhniv"
     ],
     "name:ron_x_preferred":[
         "Uhniv"
@@ -84,8 +117,14 @@
     "name:rus_x_preferred":[
         "\u0423\u0433\u043d\u0435\u0432"
     ],
+    "name:spa_x_preferred":[
+        "\u00dahniv"
+    ],
     "name:tat_x_preferred":[
         "\u0423\u04bb\u043d\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e39\u0e2b\u0e4c\u0e19\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0433\u043d\u0456\u0432"
@@ -96,11 +135,17 @@
     "name:und_x_variant":[
         "Ugnuv"
     ],
+    "name:uzb_x_preferred":[
+        "Uhniv"
+    ],
     "name:vie_x_preferred":[
         "Uhniv"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u683c\u5c3c\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u8d6b\u5c3c\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -155,7 +200,7 @@
         }
     ],
     "wof:id":101864035,
-    "wof:lastmodified":1582349371,
+    "wof:lastmodified":1690876849,
     "wof:name":"\u0423\u0433\u043d\u0456\u0432",
     "wof:parent_id":102088549,
     "wof:placetype":"locality",

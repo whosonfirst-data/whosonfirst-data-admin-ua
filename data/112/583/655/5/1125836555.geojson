@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:che_x_preferred":[
+        "\u0422\u0438\u0441\u043e\u0431\u0438\u043a\u0435\u043d\u044c"
+    ],
     "name:deu_x_preferred":[
         "Tyssobyken"
     ],
@@ -31,17 +34,32 @@
     "name:epo_x_preferred":[
         "Tisobikenj"
     ],
+    "name:fin_x_preferred":[
+        "Tys\u043ebyk\u0435n"
+    ],
     "name:hun_x_preferred":[
         "Bobovoje"
     ],
     "name:hun_x_variant":[
         "Tiszab\u00f6k\u00e9ny"
     ],
+    "name:nan_x_preferred":[
+        "Tysobyken"
+    ],
     "name:nld_x_preferred":[
+        "Tysobyken"
+    ],
+    "name:nno_x_preferred":[
+        "Tysobyken"
+    ],
+    "name:nob_x_preferred":[
         "Tysobyken"
     ],
     "name:ron_x_preferred":[
         "T\u00eesob\u00eeken"
+    ],
+    "name:ron_x_variant":[
+        "Boceni"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0441\u043e\u0431\u0438\u043a\u0435\u043d\u044c"
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":1125836555,
-    "wof:lastmodified":1566593981,
+    "wof:lastmodified":1690876998,
     "wof:name":"Bobovo",
     "wof:parent_id":102087991,
     "wof:placetype":"locality",

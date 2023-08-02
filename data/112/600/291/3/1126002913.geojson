@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Deb\u00e0ltsevo"
     ],
+    "name:cat_x_variant":[
+        "Deb\u00e0ltseve"
+    ],
     "name:ceb_x_preferred":[
         "Debal'tseve"
     ],
@@ -52,6 +55,9 @@
     "name:crh_x_preferred":[
         "Debaltseve"
     ],
+    "name:dan_x_preferred":[
+        "Debaltseve"
+    ],
     "name:deu_x_preferred":[
         "Debalzewe"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:eng_x_variant":[
         "Debaltseve"
+    ],
+    "name:epo_x_preferred":[
+        "Debalceve"
     ],
     "name:est_x_preferred":[
         "Debaltseve"
@@ -88,6 +97,9 @@
     "name:ita_x_preferred":[
         "Debal'ceve"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30d0\u30fc\u30ea\u30c4\u30a7\u30f4\u30a7"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10d1\u10d0\u10da\u10ea\u10d4\u10d5\u10dd"
     ],
@@ -100,6 +112,9 @@
     "name:lit_x_preferred":[
         "Debalcev\u0117"
     ],
+    "name:mal_x_preferred":[
+        "\u0d21\u0d46\u0d2c\u0d3e\u0d7e\u0d1f\u0d4d\u0d1f\u0d4d\u0d38\u0d46\u0d35\u0d4d"
+    ],
     "name:nld_x_preferred":[
         "Debaltseve"
     ],
@@ -109,8 +124,17 @@
     "name:nob_x_preferred":[
         "Debaltseve"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0435\u0431\u0430\u043b\u044c\u0446\u0435\u0432\u043e"
+    ],
     "name:pol_x_preferred":[
         "Debalcewe"
+    ],
+    "name:pol_x_variant":[
+        "Debalcewo"
+    ],
+    "name:por_x_preferred":[
+        "Debaltseve"
     ],
     "name:ron_x_preferred":[
         "Debal\u021beve"
@@ -124,6 +148,9 @@
     "name:spa_x_preferred":[
         "Deb\u00e1ltsevo"
     ],
+    "name:spa_x_variant":[
+        "Deb\u00e1ltseve"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0431\u0430\u0459\u0446\u0435\u0432\u0435"
     ],
@@ -132,6 +159,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0414\u0435\u0431\u0430\u043b\u044c\u0442\u0441\u0435\u0432\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u0414\u0435\u0431\u0430\u043b\u044c\u0446\u0435\u0432\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e14\u0e1a\u0e31\u0e25\u0e15\u0e4c\u0e41\u0e0b\u0e41\u0e27"
     ],
     "name:ukr_x_preferred":[
         "Debal\u2019tseve"
@@ -147,6 +180,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5091\u5df4\u5229\u91c7\u97cb"
+    ],
+    "name:zho_x_variant":[
+        "\u5fb7\u5df4\u5229\u91c7\u97e6"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -228,7 +264,7 @@
         }
     ],
     "wof:id":1126002913,
-    "wof:lastmodified":1566593938,
+    "wof:lastmodified":1690876936,
     "wof:name":"Debal'tsevo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

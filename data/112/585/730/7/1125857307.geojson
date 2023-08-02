@@ -22,8 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043d\u044b\u0446\u0456\u045e\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Solonitsivka"
+    ],
     "name:ceb_x_preferred":[
         "Solonytsivka"
+    ],
+    "name:ces_x_preferred":[
+        "Solonycivka"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u0438\u0446\u0435\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Solon\u0131tsivka"
@@ -31,7 +43,13 @@
     "name:deu_x_preferred":[
         "Solonyziwka"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bb\u03bf\u03bd\u03b9\u03c4\u03c3\u03af\u03b2\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Solonytsivka"
+    ],
+    "name:fra_x_preferred":[
         "Solonytsivka"
     ],
     "name:hye_x_preferred":[
@@ -45,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Sinelitsovka"
+    ],
+    "name:uzb_x_preferred":[
+        "Solonitsivka"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u6d1b\u5c3c\u9f4a\u592b\u5361"
@@ -88,7 +109,7 @@
         }
     ],
     "wof:id":1125857307,
-    "wof:lastmodified":1566593947,
+    "wof:lastmodified":1690876949,
     "wof:name":"Solonytsivka",
     "wof:parent_id":102088945,
     "wof:placetype":"locality",

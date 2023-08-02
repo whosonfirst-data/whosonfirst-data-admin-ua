@@ -22,14 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u045e\u0441\u044b\u043d\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Miussinsk"
+    ],
     "name:ceb_x_preferred":[
         "Miusyns'k"
     ],
     "name:ces_x_preferred":[
         "Miusynsk"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0443\u0441\u0438\u043d\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
         "Mius\u0131nsk"
+    ],
+    "name:dan_x_preferred":[
+        "Miusynsk"
     ],
     "name:deu_x_preferred":[
         "Miussynsk"
@@ -48,6 +60,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0633\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Miusynsk"
     ],
     "name:fra_x_preferred":[
         "Mioussynsk"
@@ -73,7 +88,16 @@
     "name:nno_x_preferred":[
         "Miusynsk"
     ],
+    "name:nob_x_preferred":[
+        "Miusynsk"
+    ],
     "name:pol_x_preferred":[
+        "Miusynsk"
+    ],
+    "name:pol_x_variant":[
+        "Miusyn\u015bk"
+    ],
+    "name:por_x_preferred":[
         "Miusynsk"
     ],
     "name:ron_x_preferred":[
@@ -85,8 +109,14 @@
     "name:spa_x_preferred":[
         "Miusynsk"
     ],
+    "name:spa_x_variant":[
+        "Miusinsk"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0438\u0443\u0441\u044b\u043d\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e35\u0e2d\u0e39\u0e0b\u0e36\u0e19\u0e2a\u0e01\u0e4c"
     ],
     "name:udm_x_preferred":[
         "\u041c\u0438\u0443\u0441\u0438\u043d\u0441\u043a"
@@ -97,8 +127,14 @@
     "name:ukr_x_variant":[
         "Miusyns\u2019k"
     ],
+    "name:uzb_x_preferred":[
+        "Miusinsk"
+    ],
     "name:vie_x_preferred":[
         "Miusynsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u4e4c\u8f9b\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -149,7 +185,7 @@
         }
     ],
     "wof:id":1125877137,
-    "wof:lastmodified":1566593915,
+    "wof:lastmodified":1690876905,
     "wof:name":"Miusinsk",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

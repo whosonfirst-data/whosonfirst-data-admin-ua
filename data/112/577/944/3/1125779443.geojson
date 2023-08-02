@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u043b\u044c\u043c\u0430\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435"
     ],
     "name:ceb_x_preferred":[
         "Kuybysheve"
+    ],
+    "name:ces_x_preferred":[
+        "Kamjanka"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Bilmak"
@@ -34,10 +43,17 @@
     "name:deu_x_preferred":[
         "Bilmak"
     ],
+    "name:deu_x_variant":[
+        "Kamjanka"
+    ],
     "name:eng_x_preferred":[
         "Kuybysheve"
     ],
     "name:eng_x_variant":[
+        "Bilmak",
+        "Kamianka"
+    ],
+    "name:fra_x_preferred":[
         "Bilmak"
     ],
     "name:hye_x_preferred":[
@@ -60,19 +76,30 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435",
-        "\u0411\u0438\u043b\u044c\u043c\u0430\u043a"
+        "\u0411\u0438\u043b\u044c\u043c\u0430\u043a",
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "K\u00e1mianka"
+    ],
+    "name:swe_x_preferred":[
+        "Kamjanka"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0439\u0431\u0438\u0448\u0435\u0432\u0435"
     ],
     "name:ukr_x_variant":[
-        "\u0411\u0456\u043b\u044c\u043c\u0430\u043a"
+        "\u0411\u0456\u043b\u044c\u043c\u0430\u043a",
+        "\u041a\u0430\u043c'\u044f\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Kuybyshevo"
     ],
     "name:zho_x_preferred":[
         "\u594e\u6bd4\u820d\u97cb"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u59c6\u626c\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -113,7 +140,7 @@
         }
     ],
     "wof:id":1125779443,
-    "wof:lastmodified":1566593976,
+    "wof:lastmodified":1690876989,
     "wof:name":"Kuybysheve",
     "wof:parent_id":102088373,
     "wof:placetype":"locality",

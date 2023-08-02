@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0643\u0648\u062a\u0634\u064a\u0641\u0633\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0648\u06a9\u0648\u0686\u0627\u06cc\u0641\u0633\u06a9"
     ],
@@ -37,11 +40,20 @@
     "name:ces_x_preferred":[
         "Doku\u010dajivsk"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
         "Doku\u00e7ayevsk"
     ],
+    "name:dan_x_preferred":[
+        "Dokutsjajevsk"
+    ],
     "name:deu_x_preferred":[
         "Dokutschajewsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03ba\u03bf\u03c5\u03c4\u03c3\u03ac\u03b9\u03b5\u03b2\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Dokuchayevsk"
@@ -54,6 +66,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u06a9\u0648\u0686\u0627\u06cc\u0641\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Dokut\u0161ajevsk"
     ],
     "name:fra_x_preferred":[
         "Dokoutcha\u00efevsk"
@@ -85,8 +100,14 @@
     "name:nob_x_preferred":[
         "Dokutsjajevsk"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Dokuczajewsk"
+    ],
+    "name:por_x_preferred":[
+        "Dokuchaievsk"
     ],
     "name:ron_x_preferred":[
         "Dokuceaievsk"
@@ -97,11 +118,20 @@
     "name:sco_x_preferred":[
         "Dokuchaievsk"
     ],
+    "name:spa_x_preferred":[
+        "Dokuch\u00e1yevsk"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u043a\u0443\u0447\u0430\u0458\u0435\u0432\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Dokutjajevsk"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e14\u0e01\u0e39\u0e0a\u0e32\u0e40\u0e22\u0e27\u0e2a\u0e01\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "Dokuchayevs\u2019k"
@@ -112,11 +142,17 @@
     "name:und_x_variant":[
         "Yelenovskiy Kar\u2019yer"
     ],
+    "name:uzb_x_preferred":[
+        "Dokuchayevsk"
+    ],
     "name:vie_x_preferred":[
         "Dokuchaievsk"
     ],
     "name:zho_x_preferred":[
         "\u591a\u5eab\u6070\u8036\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u591a\u5e93\u6070\u8036\u592b\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -179,7 +215,7 @@
         }
     ],
     "wof:id":1125930795,
-    "wof:lastmodified":1566593882,
+    "wof:lastmodified":1690876861,
     "wof:name":"Dokuchayevsk",
     "wof:parent_id":1108730717,
     "wof:placetype":"locality",

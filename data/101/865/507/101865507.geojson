@@ -20,6 +20,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0412\u044d\u043b\u044b\u043a\u0430\u043a\u0430\u043c\u0430\u0440\u044b\u045e\u043a\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u043a\u043e\u043c\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Vel\u0131kokomarivka"
+    ],
     "name:deu_x_preferred":[
         "Immanuel Winkler"
     ],
@@ -29,8 +38,20 @@
     "name:eng_x_preferred":[
         "Velykokomarivka"
     ],
+    "name:fin_x_preferred":[
+        "V\u0435lyk\u043ek\u043em\u0430r\u0456vk\u0430"
+    ],
     "name:lav_x_preferred":[
         "Velikokomarivka"
+    ],
+    "name:nan_x_preferred":[
+        "Velykokomarivka"
+    ],
+    "name:nno_x_preferred":[
+        "Velykokomarivka"
+    ],
+    "name:nob_x_preferred":[
+        "Velykokomarivka"
     ],
     "name:ron_x_preferred":[
         "Vel\u00eekokomarivka"
@@ -46,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Kolkhoz Kassel\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Velykokomarivka"
     ],
     "name:zho_x_preferred":[
         "\u5927\u79d1\u99ac\u91cc\u592b\u5361"
@@ -74,8 +98,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088003,
-        85688877
+        85688877,
+        102088003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,7 +122,7 @@
         }
     ],
     "wof:id":101865507,
-    "wof:lastmodified":1588710638,
+    "wof:lastmodified":1690876802,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u043e\u043a\u043e\u043c\u0430\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088003,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629 \u0644\u0641\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u0644\u06a4\u064a\u06a4"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0648\u0641 \u0628\u06cc\u0644\u06cc\u0645\u200c\u06cc\u0648\u0631\u062f\u0648"
     ],
@@ -74,6 +77,12 @@
     "name:fra_x_preferred":[
         "Universit\u00e9 de Lviv"
     ],
+    "name:gla_x_preferred":[
+        "Oilthigh Lviv"
+    ],
+    "name:gle_x_preferred":[
+        "Ollscoil Lviv"
+    ],
     "name:hbs_x_preferred":[
         "\u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442 \u0443 \u041b\u0430\u0432\u043e\u0432\u0443"
     ],
@@ -89,6 +98,9 @@
     "name:hye_x_preferred":[
         "\u053c\u057e\u0578\u057e\u056b \u0570\u0561\u0574\u0561\u056c\u057d\u0561\u0580\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u057e\u0578\u057e\u056b \u0540\u0561\u0574\u0561\u056c\u057d\u0561\u0580\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Universit\u00e0 di Leopoli"
     ],
@@ -98,11 +110,20 @@
     "name:kat_x_preferred":[
         "\u10da\u10d5\u10dd\u10d5\u10d8\u10e1 \u10e3\u10dc\u10d8\u10d5\u10d4\u10e0\u10e1\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10da\u10d5\u10d8\u10d5\u10d8\u10e1 \u10e3\u10dc\u10d8\u10d5\u10d4\u10e0\u10e1\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\ube44\uc6b0 \ub300\ud559\uad50"
     ],
+    "name:kor_x_variant":[
+        "\ub974\ube44\uc6b0 \ub300\ud559\uad50"
+    ],
     "name:lat_x_preferred":[
         "Universitas Leopolitana"
+    ],
+    "name:lav_x_preferred":[
+        "\u013bvivas Universit\u0101te"
     ],
     "name:lit_x_preferred":[
         "Lvovo universitetas"
@@ -133,6 +154,12 @@
     ],
     "name:swe_x_preferred":[
         "Lvivs universitet"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u0448\u0433\u043e\u04b3\u0438 \u041b\u0432\u0438\u0444"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e25\u0e27\u0e34\u0e27"
     ],
     "name:tur_x_preferred":[
         "Lviv \u00dcniversitesi"
@@ -207,7 +234,7 @@
         }
     ],
     "wof:id":101860085,
-    "wof:lastmodified":1582349305,
+    "wof:lastmodified":1690876533,
     "wof:name":"\u0406\u0432\u0430\u043d\u0430-\u0424\u0440\u0430\u043d\u043a\u0430",
     "wof:parent_id":1108815671,
     "wof:placetype":"locality",
