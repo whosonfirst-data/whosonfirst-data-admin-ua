@@ -31,14 +31,23 @@
     "name:bel_x_preferred":[
         "\u0406\u043b\u0430\u0432\u0430\u0439\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Ilovaisk"
+    ],
     "name:ceb_x_preferred":[
         "Ilovays'k"
     ],
     "name:ces_x_preferred":[
         "Ilovajsk"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u043b\u043e\u0432\u0430\u0439\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
         "\u0130lovaysk"
+    ],
+    "name:dan_x_preferred":[
+        "Ilovajsk"
     ],
     "name:deu_x_preferred":[
         "Ilowajsk"
@@ -48,6 +57,9 @@
     ],
     "name:eng_x_variant":[
         "Ilovaisk"
+    ],
+    "name:epo_x_preferred":[
+        "Ilovajsk"
     ],
     "name:est_x_preferred":[
         "Ilovaisk"
@@ -79,14 +91,26 @@
     "name:lav_x_preferred":[
         "Ilovajska"
     ],
+    "name:lit_x_preferred":[
+        "Ilovaiskas"
+    ],
     "name:nno_x_preferred":[
         "Ilovajsk"
     ],
     "name:nob_x_preferred":[
         "Ilovajsk"
     ],
+    "name:oss_x_preferred":[
+        "\u0418\u043b\u043e\u0432\u0430\u0439\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "I\u0142owajsk"
+    ],
+    "name:pol_x_variant":[
+        "I\u0142owaj\u015bk"
+    ],
+    "name:por_x_preferred":[
+        "Ilovaisk"
     ],
     "name:ron_x_preferred":[
         "Ilovaisk"
@@ -109,11 +133,17 @@
     "name:tat_x_preferred":[
         "\u0418\u043b\u043e\u0432\u0430\u0439\u0441\u043a"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e35\u0e25\u0e2d\u0e27\u0e31\u0e22\u0e2a\u0e01\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u043e\u0432\u0430\u0439\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Ilovaiskaia"
+    ],
+    "name:uzb_x_preferred":[
+        "Ilovaysk"
     ],
     "name:vie_x_preferred":[
         "Ilovaisk"
@@ -187,7 +217,7 @@
         }
     ],
     "wof:id":1125864697,
-    "wof:lastmodified":1566593906,
+    "wof:lastmodified":1690876895,
     "wof:name":"Ilovays\u2019k",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

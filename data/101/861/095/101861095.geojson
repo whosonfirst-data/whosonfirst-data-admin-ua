@@ -24,17 +24,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u062a\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u062a\u064a\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u0440\u0448\u0442\u044b\u043d"
     ],
     "name:cat_x_preferred":[
         "Ambre"
     ],
+    "name:cat_x_variant":[
+        "Burxt\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Burshtyn"
     ],
     "name:ces_x_preferred":[
         "Bur\u0161tyn"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0440\u0448\u0442\u044b\u043d"
     ],
     "name:crh_x_preferred":[
         "Bur\u015ft\u0131n"
@@ -45,8 +54,14 @@
     "name:dan_x_preferred":[
         "Rav"
     ],
+    "name:dan_x_variant":[
+        "Bursjtyn"
+    ],
     "name:deu_x_preferred":[
         "Burschtyn"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c1\u03c3\u03c4\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Burshtyn"
@@ -54,14 +69,23 @@
     "name:epo_x_preferred":[
         "Sukceno"
     ],
+    "name:epo_x_variant":[
+        "Bur\u015dtin"
+    ],
     "name:est_x_preferred":[
         "Merevaik"
+    ],
+    "name:est_x_variant":[
+        "Bur\u0161t\u00f5n"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0631\u0634\u062a\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Meripihka"
+    ],
+    "name:fin_x_variant":[
+        "Bur\u0161tyn"
     ],
     "name:fra_x_preferred":[
         "Bourchtyn"
@@ -103,20 +127,32 @@
     "name:lit_x_preferred":[
         "Gintaras"
     ],
+    "name:lit_x_variant":[
+        "Bur\u0161tynas"
+    ],
     "name:nld_x_preferred":[
         "Boersjtyn"
     ],
     "name:nno_x_preferred":[
         "Bursjtyn"
     ],
+    "name:nob_x_preferred":[
+        "Bursjtyn"
+    ],
     "name:nor_x_preferred":[
         "Rav"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0443\u0440\u0448\u0442\u044b\u043d"
     ],
     "name:pol_x_preferred":[
         "Bursztyn"
     ],
     "name:por_x_preferred":[
         "\u00c2mbar"
+    ],
+    "name:por_x_variant":[
+        "Burshtyn"
     ],
     "name:ron_x_preferred":[
         "Bur\u0219t\u00een"
@@ -133,6 +169,9 @@
     "name:spa_x_preferred":[
         "Bursht\u00fdn"
     ],
+    "name:spa_x_variant":[
+        "Bursht\u00edn"
+    ],
     "name:swe_x_preferred":[
         "Bursjtyn"
     ],
@@ -142,8 +181,14 @@
     "name:tat_x_preferred":[
         "\u0411\u0443\u0440\u0448\u0442\u044b\u043d"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e39\u0e23\u0e4c\u0e0a\u0e15\u0e36\u0e19"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0448\u0442\u0438\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Burshtin"
     ],
     "name:vie_x_preferred":[
         "Burshtyn"
@@ -156,6 +201,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7425\u73c0"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u5c14\u4ec0\u6ed5"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -210,7 +258,7 @@
         }
     ],
     "wof:id":101861095,
-    "wof:lastmodified":1582349273,
+    "wof:lastmodified":1690876410,
     "wof:name":"\u0411\u0443\u0440\u0448\u0442\u0438\u043d",
     "wof:parent_id":102088223,
     "wof:placetype":"locality",

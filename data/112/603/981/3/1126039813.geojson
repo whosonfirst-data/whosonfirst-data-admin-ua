@@ -34,11 +34,17 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0434\u0438\u043b\u043d\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Rozdilna"
+    ],
     "name:ceb_x_preferred":[
         "Rozdil'na"
     ],
     "name:ces_x_preferred":[
         "Rozdilna"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u0430\u044f"
     ],
     "name:crh_x_preferred":[
         "Rozdilna"
@@ -52,8 +58,17 @@
     "name:eng_x_preferred":[
         "Rozdilna"
     ],
+    "name:epo_x_preferred":[
+        "Rozdilna"
+    ],
+    "name:est_x_preferred":[
+        "Rozdilna"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0632\u062f\u06cc\u0644\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Rozdilna"
     ],
     "name:fra_x_preferred":[
         "Rozdilna"
@@ -76,13 +91,25 @@
     "name:lav_x_preferred":[
         "Rozdi\u013cna"
     ],
+    "name:mhr_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u0430\u044f"
+    ],
     "name:nld_x_preferred":[
         "Rozdilna"
     ],
     "name:nno_x_preferred":[
         "Rozdilna"
     ],
+    "name:nob_x_preferred":[
+        "Rozdilna"
+    ],
     "name:pol_x_preferred":[
+        "Rozdilna"
+    ],
+    "name:pol_x_variant":[
+        "Rozdzielna"
+    ],
+    "name:por_x_preferred":[
         "Rozdilna"
     ],
     "name:ron_x_preferred":[
@@ -100,8 +127,14 @@
     "name:spa_x_preferred":[
         "Rozdilna"
     ],
+    "name:szl_x_preferred":[
+        "Rozdilna"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u043e\u0437\u0434\u0438\u043b\u043d\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e2d\u0e0b\u0e14\u0e34\u0e25\u0e19\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0437\u0434\u0456\u043b\u044c\u043d\u0430"
@@ -109,11 +142,17 @@
     "name:und_x_variant":[
         "Razdel\u2019naya"
     ],
+    "name:uzb_x_preferred":[
+        "Rozdilna"
+    ],
     "name:vie_x_preferred":[
         "Rozdilna"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u8332\u5091\u5229\u7d0d\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u7f57\u5179\u5b63\u5229\u7eb3"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -166,7 +205,7 @@
         }
     ],
     "wof:id":1126039813,
-    "wof:lastmodified":1566593898,
+    "wof:lastmodified":1690876883,
     "wof:name":"Rozdil'na",
     "wof:parent_id":102087985,
     "wof:placetype":"locality",

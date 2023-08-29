@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0633\u0645 \u062c\u0645\u0639"
     ],
+    "name:ast_x_preferred":[
+        "plurale tantum"
+    ],
     "name:bar_x_preferred":[
         "Pluraletantum"
     ],
@@ -80,6 +83,9 @@
     "name:glg_x_preferred":[
         "Plurale tantum"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d1\u05d5\u05d9 \u05ea\u05de\u05d9\u05d3\u05d9"
+    ],
     "name:hun_x_preferred":[
         "plurale tantum"
     ],
@@ -95,6 +101,12 @@
     "name:ita_x_variant":[
         "plurale tantum"
     ],
+    "name:jpn_x_preferred":[
+        "\u8907\u6570\u5f62"
+    ],
+    "name:lav_x_preferred":[
+        "daudzskaitlinieks"
+    ],
     "name:mkd_x_preferred":[
         "\u043c\u043d\u043e\u0436\u0438\u043d\u0441\u043a\u0430 \u0438\u043c\u0435\u043d\u043a\u0430"
     ],
@@ -103,6 +115,9 @@
     ],
     "name:nld_x_preferred":[
         "Plurale tantum"
+    ],
+    "name:nld_x_variant":[
+        "plurale tantum"
     ],
     "name:nno_x_preferred":[
         "fleirtalsord"
@@ -132,7 +147,11 @@
         "Pluralia tantum"
     ],
     "name:rus_x_variant":[
-        "\u0414\u0435\u043d\u044c\u0433\u0438"
+        "\u0414\u0435\u043d\u044c\u0433\u0438",
+        "pluralia tantum"
+    ],
+    "name:slv_x_preferred":[
+        "mno\u017einski samostalnik"
     ],
     "name:spa_x_preferred":[
         "Plurale tantum"
@@ -149,15 +168,25 @@
     "name:swe_x_preferred":[
         "Plurale tantum"
     ],
+    "name:swe_x_variant":[
+        "plurale tantum"
+    ],
+    "name:tur_x_preferred":[
+        "\u00e7o\u011ful b\u00fct\u00fcn"
+    ],
     "name:ukr_x_preferred":[
         "Den\u2019hy"
     ],
     "name:ukr_x_variant":[
         "\u0414\u0435\u043d\u044c\u0433\u0438",
-        "Pluralia tantum"
+        "Pluralia tantum",
+        "pluralia tantum"
     ],
     "name:und_x_variant":[
         "Den\u2019gi"
+    ],
+    "name:vec_x_preferred":[
+        "plurale tantum"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -208,7 +237,7 @@
         }
     ],
     "wof:id":101870749,
-    "wof:lastmodified":1582349330,
+    "wof:lastmodified":1690876639,
     "wof:name":"\u0414\u0435\u043d\u044c\u0433\u0438",
     "wof:parent_id":1108815745,
     "wof:placetype":"locality",

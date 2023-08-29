@@ -49,6 +49,9 @@
     "name:ceb_x_preferred":[
         "Amvrosiyevskiy Rayon"
     ],
+    "name:ces_x_preferred":[
+        "Amvrosijivsk\u00fd raj\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "Rajon Amwrossijiwka"
     ],
@@ -59,6 +62,9 @@
         "Amvrosi\u2039vs'kyi",
         "Amvrosi\u00efvs'kyi",
         "Amvrosiivka Raion"
+    ],
+    "name:eus_x_preferred":[
+        "Amvrosiivkako raiona"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u0648\u0631\u0627\u0633\u06cc\u0648\u06a9\u0627 \u0631\u0627\u06cc\u0646"
@@ -84,6 +90,9 @@
     "name:lav_x_preferred":[
         "Amvrosijivkas rajons"
     ],
+    "name:nan_x_preferred":[
+        "Amvrosiivka Ko\u0101n"
+    ],
     "name:pol_x_preferred":[
         "Rejon amwrosijiwski"
     ],
@@ -96,9 +105,18 @@
     "name:spa_x_preferred":[
         "Rai\u00f3n de Amvrosiivka"
     ],
+    "name:swe_x_preferred":[
+        "Amvrosijivka rajon"
+    ],
+    "name:tgk_x_preferred":[
+        "\u043d\u043e\u04b3\u0438\u044f\u0438 \u0410\u043c\u0432\u0440\u043e\u0441\u0438\u0435\u0432\u0441\u043a"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439",
         "\u0410\u043c\u0432\u0440\u043e\u0441\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Amvrosiivka tumani"
     ],
     "name:vie_x_preferred":[
         "Amvrosiivka"
@@ -107,7 +125,8 @@
         "\u963f\u59c6\u592b\u7f57\u897f\u8036\u592b\u5361\u53bf"
     ],
     "name:zho_x_variant":[
-        "\u963f\u59c6\u592b\u7f57\u897f\u8036\u592b\u5361\u533a"
+        "\u963f\u59c6\u592b\u7f57\u897f\u8036\u592b\u5361\u533a",
+        "\u963f\u59c6\u592b\u7f57\u897f\u4f0a\u592b\u5361\u533a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a0_lc":"UA0000000000",
@@ -172,7 +191,7 @@
         }
     ],
     "wof:id":102088577,
-    "wof:lastmodified":1627522879,
+    "wof:lastmodified":1690876184,
     "wof:name":"Amvrosiivskyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

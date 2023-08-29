@@ -24,6 +24,9 @@
     "name:ast_x_preferred":[
         "Inkerman"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0646\u06a9\u0631\u0645\u0646"
+    ],
     "name:ceb_x_preferred":[
         "Inkerman"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:deu_x_preferred":[
         "Inkerman"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bd\u03ba\u03b5\u03c1\u03bc\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Inkerman"
@@ -66,8 +72,14 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30f3\u30b1\u30eb\u30de\u30f3"
     ],
+    "name:kor_x_preferred":[
+        "\uc778\ucf00\ub974\ub9cc"
+    ],
     "name:lat_x_preferred":[
         "Inceromania"
+    ],
+    "name:lav_x_preferred":[
+        "Inkermana"
     ],
     "name:lit_x_preferred":[
         "Inkermanas"
@@ -87,6 +99,9 @@
     "name:pol_x_preferred":[
         "Inkerman"
     ],
+    "name:por_x_preferred":[
+        "Inkerman"
+    ],
     "name:ron_x_preferred":[
         "Inkerman"
     ],
@@ -99,17 +114,26 @@
     "name:rus_x_variant":[
         "\u0411\u0435\u043b\u043e\u043a\u0430\u0301\u043c\u0435\u043d\u0441\u043a"
     ],
+    "name:slv_x_preferred":[
+        "Inkerman"
+    ],
     "name:spa_x_preferred":[
         "Inkerman"
     ],
     "name:swe_x_preferred":[
         "Inkerman"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e19\u0e41\u0e01\u0e23\u0e4c\u0e21\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "\u0130nkerman"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043d\u043a\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u06a9\u0631\u0645\u06cc\u0646"
     ],
     "name:vep_x_preferred":[
         "Inkerman"
@@ -119,6 +143,9 @@
     ],
     "name:zho_x_preferred":[
         "\u56e0\u514b\u723e\u66fc"
+    ],
+    "name:zho_x_variant":[
+        "\u56e0\u514b\u5c14\u66fc"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0440\u0438\u043c",
@@ -186,7 +213,7 @@
         }
     ],
     "wof:id":101873949,
-    "wof:lastmodified":1582349242,
+    "wof:lastmodified":1690876266,
     "wof:name":"\u0406\u043d\u043a\u0435\u0440\u043c\u0430\u043d",
     "wof:parent_id":1108738657,
     "wof:placetype":"locality",

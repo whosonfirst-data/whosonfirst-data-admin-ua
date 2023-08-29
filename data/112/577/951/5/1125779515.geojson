@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0645\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u044b\u043c\u0430\u043d"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043c\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Liman"
     ],
     "name:ceb_x_preferred":[
         "Krasnyy Lyman"
@@ -34,11 +40,20 @@
     "name:ces_x_preferred":[
         "Lyman"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d"
+    ],
     "name:crh_x_preferred":[
         "L\u0131man"
     ],
+    "name:dan_x_preferred":[
+        "Lyman"
+    ],
     "name:deu_x_preferred":[
         "Lyman"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03c5\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Krasniy Liman"
@@ -46,8 +61,14 @@
     "name:eng_x_variant":[
         "Lyman"
     ],
+    "name:epo_x_preferred":[
+        "Liman"
+    ],
     "name:est_x_preferred":[
         "L\u00f5man"
+    ],
+    "name:eus_x_preferred":[
+        "Lyman"
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0645\u0627\u0646"
@@ -57,6 +78,15 @@
     ],
     "name:fra_x_preferred":[
         "Lyman"
+    ],
+    "name:gle_x_preferred":[
+        "Lyman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05de\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u092e\u093e\u0928"
     ],
     "name:hsb_x_preferred":[
         "Lyman"
@@ -88,11 +118,29 @@
     "name:nob_x_preferred":[
         "Liman"
     ],
+    "name:nob_x_variant":[
+        "Lyman"
+    ],
+    "name:oci_x_preferred":[
+        "Liman"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d"
+    ],
     "name:pol_x_preferred":[
         "\u0141yman"
     ],
+    "name:por_x_preferred":[
+        "Lyman"
+    ],
     "name:ron_x_preferred":[
         "L\u00eeman"
+    ],
+    "name:ron_x_variant":[
+        "Liman"
+    ],
+    "name:rue_x_preferred":[
+        "\u041b\u0456\u043c\u0430\u043d"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041b\u0438\u043c\u0430\u043d"
@@ -103,6 +151,9 @@
     "name:sco_x_preferred":[
         "Lyman"
     ],
+    "name:slv_x_preferred":[
+        "Liman"
+    ],
     "name:spa_x_preferred":[
         "Lim\u00e1n"
     ],
@@ -112,8 +163,14 @@
     "name:swe_x_preferred":[
         "Lyman"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc8\u0bae\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041b\u044b\u043c\u0430\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e37\u0e2d\u0e21\u0e31\u0e19"
     ],
     "name:ukr_x_preferred":[
         "Krasnyy Lyman"
@@ -121,6 +178,9 @@
     "name:ukr_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041b\u0438\u043c\u0430\u043d",
         "\u041b\u0438\u043c\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Lyman"
     ],
     "name:vie_x_preferred":[
         "Lyman"
@@ -177,7 +237,7 @@
         }
     ],
     "wof:id":1125779515,
-    "wof:lastmodified":1566593972,
+    "wof:lastmodified":1690876982,
     "wof:name":"Krasnyy Liman",
     "wof:parent_id":1108815875,
     "wof:placetype":"locality",

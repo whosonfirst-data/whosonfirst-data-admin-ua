@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u044d\u043b\u0456\u044f\u0440\u0430\u0442\u044b\u045e\u043d\u044d"
+    ],
     "name:ceb_x_preferred":[
         "Melioratyvne"
+    ],
+    "name:ces_x_preferred":[
+        "Melioratyvne"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0438"
     ],
     "name:crh_x_preferred":[
         "Meliorat\u0131vne"
@@ -46,6 +55,9 @@
     "name:lav_x_preferred":[
         "Meliorativne"
     ],
+    "name:pol_x_preferred":[
+        "Melioratywne"
+    ],
     "name:ron_x_preferred":[
         "Meliorat\u00eevne"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:ukr_x_variant":[
         "\u041c\u0435\u043b\u0456\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Meliorativne"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5229\u5967\u62c9\u5b63\u592b\u6d85"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1126002439,
-    "wof:lastmodified":1566593936,
+    "wof:lastmodified":1690876933,
     "wof:name":"Meliorativnoye",
     "wof:parent_id":1108815619,
     "wof:placetype":"locality",

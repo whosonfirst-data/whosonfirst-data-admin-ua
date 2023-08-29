@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9 "
+    ],
     "name:bel_x_preferred":[
         "\u041f\u044d\u0440\u0432\u0430\u043c\u0430\u0439\u0441\u043a\u044d"
     ],
+    "name:cat_x_preferred":[
+        "Pervom\u00e0iskoie"
+    ],
     "name:ceb_x_preferred":[
         "Pervomays'ke"
+    ],
+    "name:ces_x_preferred":[
+        "Permomajske"
     ],
     "name:crh_x_historical":[
         "\u011eurt\u010du"
@@ -39,6 +48,9 @@
     ],
     "name:deu_x_preferred":[
         "Perwomajske"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b2\u03bf\u03bc\u03ac\u03b9\u03c3\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pervomayskoye"
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":1125856229,
-    "wof:lastmodified":1566593956,
+    "wof:lastmodified":1690876962,
     "wof:name":"Pervomays\u2019ke",
     "wof:parent_id":1108738643,
     "wof:placetype":"locality",

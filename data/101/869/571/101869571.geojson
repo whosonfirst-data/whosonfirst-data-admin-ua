@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u044f\u043a\u0438"
+    ],
     "name:deu_x_preferred":[
         "Wyschnjaky"
     ],
@@ -27,7 +30,11 @@
         "Vishnyaki"
     ],
     "name:eng_x_variant":[
-        "Vishniaki"
+        "Vishniaki",
+        "Vyshniaky"
+    ],
+    "name:fin_x_preferred":[
+        "Vy\u0161njaky"
     ],
     "name:hun_x_preferred":[
         "Visnyaki"
@@ -35,11 +42,26 @@
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10e8\u10dc\u10d8\u10d0\u10d9\u10d8"
     ],
+    "name:nan_x_preferred":[
+        "Vyshniaky"
+    ],
+    "name:nno_x_preferred":[
+        "Vysjnjaky"
+    ],
+    "name:nob_x_preferred":[
+        "Vysjnjaky"
+    ],
+    "name:pol_x_preferred":[
+        "Wyszniaky"
+    ],
     "name:ron_x_preferred":[
         "V\u00ee\u0219neak\u00ee"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0448\u043d\u044f\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vysjnjaky"
     ],
     "name:ukr_x_preferred":[
         "Vyshnyaky"
@@ -98,7 +120,7 @@
         }
     ],
     "wof:id":101869571,
-    "wof:lastmodified":1582349302,
+    "wof:lastmodified":1690876518,
     "wof:name":"\u0412\u0438\u0448\u043d\u044f\u043a\u0438",
     "wof:parent_id":102088729,
     "wof:placetype":"locality",

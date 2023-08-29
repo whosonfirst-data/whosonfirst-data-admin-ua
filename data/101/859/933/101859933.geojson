@@ -33,11 +33,20 @@
     "name:bel_x_variant":[
         "\u041d\u0430\u0434\u0432\u043e\u0440\u043d\u0430\u044f"
     ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0434\u0432\u0438\u0440\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nadvirna"
+    ],
     "name:ceb_x_preferred":[
         "Nadvirna"
     ],
     "name:ces_x_preferred":[
         "Nadvirna"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u0434\u0432\u043e\u0440\u043d\u0438"
     ],
     "name:crh_x_preferred":[
         "Nadvirna"
@@ -54,8 +63,17 @@
     "name:eng_x_preferred":[
         "Nadvirna"
     ],
+    "name:epo_x_preferred":[
+        "Nadvirna"
+    ],
+    "name:est_x_preferred":[
+        "Nadvirna"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062f\u0648\u06cc\u0631\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nadvirna"
     ],
     "name:fra_x_preferred":[
         "Nadvirna"
@@ -65,6 +83,9 @@
     ],
     "name:hsb_x_preferred":[
         "Nadwirna"
+    ],
+    "name:hun_x_preferred":[
+        "Nadvirna"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0564\u057e\u0578\u0580\u0576\u0561\u0575\u0561"
@@ -81,10 +102,16 @@
     "name:lav_x_preferred":[
         "Nadvirna"
     ],
+    "name:mdf_x_preferred":[
+        "\u041d\u0430\u0434\u0432\u0438\u0440\u043d\u0430"
+    ],
     "name:nld_x_preferred":[
         "Nadvirna"
     ],
     "name:nno_x_preferred":[
+        "Nadvirna"
+    ],
+    "name:nob_x_preferred":[
         "Nadvirna"
     ],
     "name:pol_x_preferred":[
@@ -92,6 +119,9 @@
     ],
     "name:pol_x_variant":[
         "Nadworna"
+    ],
+    "name:por_x_preferred":[
+        "Nadvirna"
     ],
     "name:ron_x_preferred":[
         "Nadvirna"
@@ -105,8 +135,14 @@
     "name:swe_x_preferred":[
         "Nadvirna"
     ],
+    "name:szl_x_preferred":[
+        "Nadwirna"
+    ],
     "name:tat_x_preferred":[
         "\u041d\u0430\u0434\u0432\u0438\u0440\u043d\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e31\u0e14\u0e27\u0e35\u0e23\u0e4c\u0e19\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0434\u0432\u0456\u0440\u043d\u0430"
@@ -122,6 +158,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u5fb7\u6c83\u723e\u7d0d\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u7eb3\u5fb7\u7ef4\u5c14\u7eb3"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -176,7 +215,7 @@
         }
     ],
     "wof:id":101859933,
-    "wof:lastmodified":1582349250,
+    "wof:lastmodified":1690876317,
     "wof:name":"\u041d\u0430\u0434\u0432\u0456\u0440\u043d\u0430",
     "wof:parent_id":102088099,
     "wof:placetype":"locality",

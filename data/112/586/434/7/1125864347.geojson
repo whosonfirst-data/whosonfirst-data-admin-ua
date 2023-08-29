@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0430\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Novoarkh\u00e0nhelsk"
+    ],
     "name:ceb_x_preferred":[
         "Novoarkhanhel's'k"
     ],
     "name:ces_x_preferred":[
         "Novoarchangelsk"
+    ],
+    "name:ces_x_variant":[
+        "Novoarchanhelsk"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0430\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a"
     ],
     "name:crh_x_preferred":[
         "Novoarhangelsk"
@@ -39,6 +51,9 @@
     ],
     "name:eng_x_variant":[
         "Novoarkhangelsk"
+    ],
+    "name:fra_x_preferred":[
+        "Novoarkhanhelsk"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d1\u05d5\u05d0\u05e8\u05db\u05e0\u05d2\u05dc\u05e1\u05e7"
@@ -67,8 +82,14 @@
     "name:und_x_variant":[
         "Novoarkhangel\u2019sk"
     ],
+    "name:uzb_x_preferred":[
+        "Novoarkhanhelsk"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u963f\u723e\u6f22\u683c\u5229\u897f\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u963f\u5c14\u6c49\u6d77\u5229\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -109,7 +130,7 @@
         }
     ],
     "wof:id":1125864347,
-    "wof:lastmodified":1566593907,
+    "wof:lastmodified":1690876896,
     "wof:name":"Novoarkhanhel\u2019s\u2019k",
     "wof:parent_id":102088353,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u0440\u043f\u0456\u043d\u043d\u044f"
+    ],
     "name:ceb_x_preferred":[
         "Terpinnya"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0440\u043f\u0435\u043d\u044c\u0435"
     ],
     "name:deu_x_preferred":[
         "Terpinnja"
@@ -31,11 +37,26 @@
     "name:eng_x_preferred":[
         "Terpinnia"
     ],
+    "name:fin_x_preferred":[
+        "T\u0435rp\u0456nnja"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0565\u0580\u057a\u0565\u0576\u056b\u0565"
     ],
     "name:lav_x_preferred":[
         "Terpi\u0146\u0146a"
+    ],
+    "name:nan_x_preferred":[
+        "Terpinnia"
+    ],
+    "name:nno_x_preferred":[
+        "Terpinnja"
+    ],
+    "name:nob_x_preferred":[
+        "Terpinnja"
+    ],
+    "name:pol_x_preferred":[
+        "Terpinnia"
     ],
     "name:ron_x_preferred":[
         "Terpinnea"
@@ -94,7 +115,7 @@
         }
     ],
     "wof:id":1125779047,
-    "wof:lastmodified":1566593971,
+    "wof:lastmodified":1690876981,
     "wof:name":"Terpinnya",
     "wof:parent_id":1108815655,
     "wof:placetype":"locality",

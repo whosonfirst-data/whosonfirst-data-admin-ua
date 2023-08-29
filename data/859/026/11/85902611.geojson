@@ -31,6 +31,9 @@
     "name:afr_x_preferred":[
         "Simferopol"
     ],
+    "name:ang_x_preferred":[
+        "Sympheropolis"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0641\u0631\u0648\u0628\u0648\u0644"
     ],
@@ -100,6 +103,9 @@
     "name:deu_x_preferred":[
         "Simferopol"
     ],
+    "name:diq_x_preferred":[
+        "Simferopol"
+    ],
     "name:dsb_x_preferred":[
         "Simferopol"
     ],
@@ -139,6 +145,9 @@
     "name:glv_x_preferred":[
         "Simferopol"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf39\ud800\udf3c\ud800\udf46\ud800\udf30\ud800\udf39\ud800\udf42\ud800\udf30\ud800\udf3f\ud800\udf40\ud800\udf49\ud800\udf3b"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aae\u0acd\u0aab\u0ac7\u0ab0\u0acb\u0aaa\u0acb\u0ab2"
     ],
@@ -169,6 +178,9 @@
     "name:ind_x_preferred":[
         "Simferopol"
     ],
+    "name:isl_x_preferred":[
+        "S\u00edmferopol"
+    ],
     "name:ita_x_preferred":[
         "Sinferopoli"
     ],
@@ -183,6 +195,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10db\u10e4\u10d4\u10e0\u10dd\u10de\u10dd\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u049b\u043c\u0435\u0448\u0456\u0442"
     ],
     "name:kir_x_preferred":[
         "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c"
@@ -199,11 +214,20 @@
     "name:lit_x_preferred":[
         "Simferopolis"
     ],
+    "name:lld_x_preferred":[
+        "Simferopol"
+    ],
     "name:ltz_x_preferred":[
         "Simferopol"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d02\u0d2b\u0d46\u0d31\u0d4b\u0d2a\u0d4b\u0d7e"
+    ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0902\u092b\u0947\u0930\u094b\u092a\u094b\u0932"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0438\u043c\u0444\u044d\u0440\u043e\u043f\u043e\u043b\u044c"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c"
@@ -255,6 +279,9 @@
     ],
     "name:por_x_preferred":[
         "Simferopol"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0645\u0641\u0631\u0648\u067e\u0648\u0644"
     ],
     "name:ron_x_preferred":[
         "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b"
@@ -310,6 +337,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e34\u0e21\u0e40\u0e1f\u0e2d\u0e42\u0e23\u0e42\u0e1e\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e34\u0e21\u0e40\u0e1f\u0e42\u0e23\u0e1b\u0e2d\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Akmescit"
     ],
@@ -340,8 +370,17 @@
     "name:wln_x_preferred":[
         "Simferopol"
     ],
+    "name:wuu_x_preferred":[
+        "\u8f9b\u83f2\u7f57\u6ce2\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d8\u10db\u10e4\u10d4\u10e0\u10dd\u10de\u10dd\u10da\u10d8"
+    ],
     "name:yue_x_preferred":[
         "\u8f9b\u83f2\u6d1b\u666e"
+    ],
+    "name:yue_x_variant":[
+        "\u8f9b\u83f2\u7f85\u6ce2\u723e"
     ],
     "name:zho_x_preferred":[
         "\u8f9b\u83f2\u7f57\u6ce2\u5c14"
@@ -377,12 +416,12 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        1159339547,
         102191581,
         85632685,
-        1108738681,
-        1159339547,
-        874393555,
         101752789,
+        874393555,
+        1108738681,
         85688855,
         85633805
     ],
@@ -422,7 +461,7 @@
         }
     ],
     "wof:id":85902611,
-    "wof:lastmodified":1588710626,
+    "wof:lastmodified":1690876187,
     "wof:name":"Ak-Mechet",
     "wof:parent_id":101752789,
     "wof:placetype":"neighbourhood",

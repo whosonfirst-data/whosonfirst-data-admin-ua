@@ -26,11 +26,17 @@
     "name:bel_x_variant":[
         "\u041c\u0456\u0440\u043e\u043d\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Myroniwka"
     ],
     "name:eng_x_preferred":[
         "Myronivka"
+    ],
+    "name:fin_x_preferred":[
+        "Myr\u043en\u0456vk\u0430"
     ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u0580\u0578\u0576\u0578\u057e\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -44,8 +50,20 @@
     "name:lav_x_preferred":[
         "Miro\u0146ivka"
     ],
+    "name:nan_x_preferred":[
+        "Myronivka"
+    ],
+    "name:nno_x_preferred":[
+        "Myronivka"
+    ],
+    "name:nob_x_preferred":[
+        "Myronivka"
+    ],
     "name:pol_x_preferred":[
         "Rejon mironowski"
+    ],
+    "name:pol_x_variant":[
+        "Myroniwka"
     ],
     "name:ron_x_preferred":[
         "Raionul M\u00eeronivka"
@@ -61,6 +79,9 @@
     ],
     "name:spa_x_preferred":[
         "Rai\u00f3n de Myronivka"
+    ],
+    "name:spa_x_variant":[
+        "Mironovka"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u043e\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -136,7 +157,7 @@
         }
     ],
     "wof:id":101869771,
-    "wof:lastmodified":1582349297,
+    "wof:lastmodified":1690876500,
     "wof:name":"\u041c\u0438\u0440\u043e\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
     "wof:parent_id":1175613749,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0643\u0627\u0646\u064a\u0627-\u0646\u0648\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0633\u0643\u0627\u0646\u064a\u0627 \u0646\u0648\u0641\u0627"
+    ],
     "name:aze_x_preferred":[
         "Askaniya-Nova"
     ],
@@ -34,16 +37,25 @@
         "\u0410\u0441\u043a\u0430\u043d\u0456\u044f-\u041d\u043e\u0432\u0430"
     ],
     "name:bel_x_variant":[
-        "\u0410\u0441\u043a\u0430\u043d\u0456\u044f-\u041d\u043e\u0432\u0430"
+        "\u0410\u0441\u043a\u0430\u043d\u0456\u044f-\u041d\u0430\u0432\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u043a\u0430\u043d\u0438\u044f \u041d\u043e\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Nova Ask\u00e0nia"
     ],
     "name:ceb_x_preferred":[
         "Askaniya-Nova"
     ],
     "name:ces_x_preferred":[
         "Askania-Nova"
+    ],
+    "name:ces_x_variant":[
+        "Askanija-Nova"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0441\u043a\u0430\u043d\u0438\u044f-\u041d\u043e\u0432\u0430"
     ],
     "name:crh_x_preferred":[
         "Askaniya-Nova"
@@ -56,6 +68,9 @@
     ],
     "name:fra_x_preferred":[
         "Ascania-Nova"
+    ],
+    "name:fra_x_variant":[
+        "Askaniia-Nova"
     ],
     "name:hrv_x_preferred":[
         "NP Askanija Nova"
@@ -90,8 +105,14 @@
     "name:rus_x_variant":[
         "\u0410\u0441\u043a\u0430\u043d\u0456\u044f-\u041d\u043e\u0432\u0430"
     ],
+    "name:sah_x_preferred":[
+        "\u0410\u0441\u043a\u0430\u043d\u0438\u044f-\u041d\u043e\u0432\u0430"
+    ],
     "name:spa_x_preferred":[
         "Askania-Nova"
+    ],
+    "name:spa_x_variant":[
+        "Nueva Askania"
     ],
     "name:swe_x_preferred":[
         "Askanija-nova"
@@ -108,8 +129,14 @@
     "name:uzb_x_preferred":[
         "Askaniya-nova"
     ],
+    "name:uzb_x_variant":[
+        "Askaniya-Nova"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u5361\u5c3c\u4e9e-\u8afe\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u963f\u65af\u5361\u5c3c\u4e9a"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
@@ -164,7 +191,7 @@
         }
     ],
     "wof:id":101865937,
-    "wof:lastmodified":1582349358,
+    "wof:lastmodified":1690876779,
     "wof:name":"\u0410\u0441\u043a\u0430\u043d\u0456\u044f-\u041d\u043e\u0432\u0430",
     "wof:parent_id":102088009,
     "wof:placetype":"locality",

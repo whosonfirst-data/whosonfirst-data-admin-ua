@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u041b\u044c\u0432\u043e\u045e"
     ],
+    "name:bul_x_preferred":[
+        "\u0424\u041a \u041b\u0432\u043e\u0432"
+    ],
     "name:ces_x_preferred":[
         "FK Lviv"
     ],
@@ -38,17 +41,29 @@
     "name:epo_x_preferred":[
         "Lvivo FK"
     ],
+    "name:epo_x_variant":[
+        "Lvivo"
+    ],
+    "name:est_x_preferred":[
+        "FK Lviv"
+    ],
     "name:fin_x_preferred":[
         "FK Lviv"
     ],
     "name:fra_x_preferred":[
         "FK Lviv"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1\u05d5\u05d1"
+    ],
     "name:hun_x_preferred":[
         "FK Lviv"
     ],
     "name:ita_x_preferred":[
         "Futbol'nyj Klub L'viv"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044c\u0432\u043e\u0432"
     ],
     "name:lav_x_preferred":[
         "FK Lviv"
@@ -59,10 +74,16 @@
     "name:nld_x_preferred":[
         "FK Lviv"
     ],
+    "name:nob_x_preferred":[
+        "FK Lviv"
+    ],
     "name:pol_x_preferred":[
         "FK Lw\u00f3w"
     ],
     "name:por_x_preferred":[
+        "FC Lviv"
+    ],
+    "name:ron_x_preferred":[
         "FC Lviv"
     ],
     "name:rus_x_preferred":[
@@ -82,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5229\u6c83\u592b\u8db3\u7403\u6703"
+    ],
+    "name:zho_x_variant":[
+        "\u5229\u6c83\u592b\u8db3\u7403\u4ff1\u4e50\u90e8"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -131,7 +155,7 @@
         }
     ],
     "wof:id":101867781,
-    "wof:lastmodified":1582349325,
+    "wof:lastmodified":1690876624,
     "wof:name":"\u041a\u043d\u044f\u0436\u0430",
     "wof:parent_id":102088469,
     "wof:placetype":"locality",

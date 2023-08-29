@@ -22,6 +22,18 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u045e\u044f\u0433\u044b"
+    ],
+    "name:cat_x_preferred":[
+        "Koviagui"
+    ],
+    "name:ces_x_preferred":[
+        "Kovjahy"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0432\u044f\u0433\u0438"
+    ],
     "name:crh_x_preferred":[
         "Kovyag\u0131"
     ],
@@ -34,8 +46,14 @@
     "name:eng_x_variant":[
         "Koviahy"
     ],
+    "name:fra_x_preferred":[
+        "Koviahy"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u057e\u0575\u0561\u0563\u056b"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f4\u30e3\u30d2"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0432\u044f\u0433\u0438"
@@ -45,6 +63,9 @@
     ],
     "name:ukr_x_variant":[
         "\u041a\u043e\u0432'\u044f\u0433\u0438"
+    ],
+    "name:uzb_x_preferred":[
+        "Koviahy"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7dad\u4e9e\u5409"
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":1125984025,
-    "wof:lastmodified":1566593930,
+    "wof:lastmodified":1690876925,
     "wof:name":"Kovyagi",
     "wof:parent_id":102088871,
     "wof:placetype":"locality",

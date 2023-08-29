@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041b\u044b\u0445\u0456\u045e\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Lykhivka"
+    ],
+    "name:ces_x_preferred":[
+        "Lychivka"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u0445\u043e\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "L\u0131hivka"
@@ -43,6 +52,9 @@
     "name:lav_x_preferred":[
         "Lihivka"
     ],
+    "name:pol_x_preferred":[
+        "\u0141ychiwka"
+    ],
     "name:ron_x_preferred":[
         "L\u00eehivka"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:und_x_variant":[
         "Likhovka"
+    ],
+    "name:uzb_x_preferred":[
+        "Lixivka"
     ],
     "name:zho_x_preferred":[
         "\u5229\u5e0c\u592b\u5361"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1125864481,
-    "wof:lastmodified":1566593900,
+    "wof:lastmodified":1690876886,
     "wof:name":"Lykhivka",
     "wof:parent_id":102088495,
     "wof:placetype":"locality",

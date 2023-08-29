@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0634\u0627\u0643\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u062a\u0634\u0627\u0643\u064a\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0686\u0627\u06a9\u06cc\u0641"
     ],
@@ -48,8 +51,14 @@
     "name:ces_x_preferred":[
         "O\u010dakiv"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0447\u0430\u043a\u043e\u0432"
+    ],
     "name:crh_x_preferred":[
         "O\u00e7akiv"
+    ],
+    "name:dan_x_preferred":[
+        "Otjakiv"
     ],
     "name:deu_x_preferred":[
         "Otschakiw"
@@ -57,17 +66,26 @@
     "name:dsb_x_preferred":[
         "O\u010dakiw"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03c3\u03ac\u03ba\u03b9\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Ochakiv"
     ],
     "name:epo_x_preferred":[
         "O\u0109akiv"
     ],
+    "name:est_x_preferred":[
+        "Ot\u0161akiv"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0686\u0627\u06a9\u06cc\u0641"
     ],
     "name:fin_x_preferred":[
         "Ot\u0161akov"
+    ],
+    "name:fin_x_variant":[
+        "Ot\u0161akiv"
     ],
     "name:fra_x_preferred":[
         "Otchakiv"
@@ -84,6 +102,9 @@
     "name:hsb_x_preferred":[
         "O\u010dakiw"
     ],
+    "name:hun_x_preferred":[
+        "Ocsakiv"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0579\u0561\u056f\u0578\u057e"
     ],
@@ -98,6 +119,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ucc28\ud0a4\uc6b0"
+    ],
+    "name:lat_x_preferred":[
+        "Ordesus"
     ],
     "name:lav_x_preferred":[
         "O\u010dakiva"
@@ -117,8 +141,14 @@
     "name:nor_x_preferred":[
         "Otsjakiv"
     ],
+    "name:oss_x_preferred":[
+        "\u041e\u0447\u0430\u043a\u043e\u0432"
+    ],
     "name:pol_x_preferred":[
         "Oczak\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Ochakiv"
     ],
     "name:ron_x_preferred":[
         "Oceac"
@@ -135,11 +165,17 @@
     "name:srp_x_preferred":[
         "\u041e\u0447\u0430\u043a\u043e\u0432"
     ],
+    "name:swe_x_preferred":[
+        "Otjakiv"
+    ],
     "name:tat_x_preferred":[
         "\u041e\u0447\u0430\u043a\u043e\u0432"
     ],
     "name:tat_x_variant":[
         "\u041e\u0447\u0430\u043a\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e0a\u0e32\u0e01\u0e34\u0e27"
     ],
     "name:tur_x_preferred":[
         "\u00d6zi"
@@ -150,11 +186,17 @@
     "name:und_x_variant":[
         "Ochakov"
     ],
+    "name:uzb_x_preferred":[
+        "Ochakiv"
+    ],
     "name:vie_x_preferred":[
         "Ochakiv"
     ],
     "name:zho_x_preferred":[
         "\u5967\u6070\u57fa\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u6070\u57fa\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -207,7 +249,7 @@
         }
     ],
     "wof:id":101865449,
-    "wof:lastmodified":1582349358,
+    "wof:lastmodified":1690876781,
     "wof:name":"\u041e\u0447\u0430\u043a\u0456\u0432",
     "wof:parent_id":1108815775,
     "wof:placetype":"locality",

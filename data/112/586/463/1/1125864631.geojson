@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Isa"
+    ],
     "name:ceb_x_preferred":[
         "Iza"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0437\u0430"
     ],
     "name:deu_x_preferred":[
         "Isa"
@@ -34,6 +40,12 @@
     "name:epo_x_preferred":[
         "Iza"
     ],
+    "name:fin_x_preferred":[
+        "\u0406z\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Isa"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d6\u05d4"
     ],
@@ -43,11 +55,23 @@
     "name:hye_x_preferred":[
         "\u053b\u0566\u0561"
     ],
+    "name:nan_x_preferred":[
+        "Iza"
+    ],
     "name:nld_x_preferred":[
+        "Iza"
+    ],
+    "name:nno_x_preferred":[
+        "Iza"
+    ],
+    "name:nob_x_preferred":[
         "Iza"
     ],
     "name:ron_x_preferred":[
         "Iza"
+    ],
+    "name:rue_x_preferred":[
+        "\u0418\u0437\u0430"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0437\u0430"
@@ -94,7 +118,7 @@
         }
     ],
     "wof:id":1125864631,
-    "wof:lastmodified":1566593901,
+    "wof:lastmodified":1690876887,
     "wof:name":"Iza",
     "wof:parent_id":102088013,
     "wof:placetype":"locality",

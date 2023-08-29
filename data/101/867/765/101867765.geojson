@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0421\u0438\u0433\u043d\u0430\u0435\u0432\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Syhnajiwka"
     ],
@@ -27,7 +30,23 @@
         "Signayevka"
     ],
     "name:eng_x_variant":[
+        "Syhnaivka",
+        "Syhnaiivka"
+    ],
+    "name:fin_x_preferred":[
+        "Syhn\u0430jivk\u0430"
+    ],
+    "name:nan_x_preferred":[
         "Syhnaivka"
+    ],
+    "name:nno_x_preferred":[
+        "Syhnajivka"
+    ],
+    "name:nob_x_preferred":[
+        "Syhnajivka"
+    ],
+    "name:pol_x_preferred":[
+        "Syhnajiwka"
     ],
     "name:ron_x_preferred":[
         "S\u00eehnaiivka"
@@ -92,7 +111,7 @@
         }
     ],
     "wof:id":101867765,
-    "wof:lastmodified":1582349316,
+    "wof:lastmodified":1690876588,
     "wof:name":"\u0421\u0438\u0433\u043d\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088465,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0633\u064a\u0627\u062a\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0633\u064a\u0627\u062a\u064a\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0443\u0441\u044f\u0442\u044b\u043d"
     ],
@@ -33,14 +36,26 @@
     "name:ceb_x_preferred":[
         "Husyatyn"
     ],
+    "name:ces_x_preferred":[
+        "Husjatyn"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0443\u0441\u044f\u0442\u0438\u043d"
+    ],
     "name:crh_x_preferred":[
         "Gus\u00e2t\u0131n"
     ],
     "name:deu_x_preferred":[
         "Husjatyn"
     ],
+    "name:deu_x_variant":[
+        "Hussjatyn"
+    ],
     "name:eng_x_preferred":[
         "Husiatyn"
+    ],
+    "name:epo_x_preferred":[
+        "Husjatin"
     ],
     "name:fra_x_preferred":[
         "Houssiatyn"
@@ -57,6 +72,9 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30b7\u30e3\u30c6\u30a3\u30f3"
     ],
+    "name:lat_x_preferred":[
+        "Husiatinum"
+    ],
     "name:pol_x_preferred":[
         "Husiatyn"
     ],
@@ -66,10 +84,16 @@
     "name:rus_x_preferred":[
         "\u0413\u0443\u0441\u044f\u0442\u0438\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Husiatyn"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0441\u044f\u0442\u0438\u043d"
     ],
     "name:und_x_variant":[
+        "Gusyatin"
+    ],
+    "name:uzb_x_preferred":[
         "Gusyatin"
     ],
     "name:yid_x_preferred":[
@@ -130,7 +154,7 @@
         }
     ],
     "wof:id":1175613715,
-    "wof:lastmodified":1582349232,
+    "wof:lastmodified":1690876227,
     "wof:name":"\u0413\u0443\u0441\u044f\u0442\u0438\u043d",
     "wof:parent_id":102088243,
     "wof:placetype":"locality",

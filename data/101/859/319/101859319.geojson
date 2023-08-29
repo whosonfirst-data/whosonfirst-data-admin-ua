@@ -24,14 +24,21 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u062e\u064a\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u062e\u064a\u0641"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0445\u0456\u045e"
     ],
     "name:bel_x_variant":[
-        "\u0420\u0430\u0445\u0430\u045e"
+        "\u0420\u0430\u0445\u0430\u045e",
+        "\u0420\u0430\u0445\u0456\u045e"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0445\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00e0khiv"
     ],
     "name:ceb_x_preferred":[
         "Rakhiv"
@@ -39,10 +46,16 @@
     "name:ces_x_preferred":[
         "Rachov"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0445\u043e\u0432"
+    ],
     "name:crh_x_preferred":[
         "Rahiv"
     ],
     "name:cym_x_preferred":[
+        "Rakhiv"
+    ],
+    "name:dan_x_preferred":[
         "Rakhiv"
     ],
     "name:deu_x_preferred":[
@@ -53,6 +66,12 @@
     ],
     "name:epo_x_preferred":[
         "Ra\u0125iv"
+    ],
+    "name:est_x_preferred":[
+        "Rahhiv"
+    ],
+    "name:eus_x_preferred":[
+        "Rakhiv"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u062e\u06cc\u0641"
@@ -90,11 +109,23 @@
     "name:lmo_x_preferred":[
         "Rachiv"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0430\u0445\u0438\u0432"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0445\u043e\u0432"
+    ],
     "name:nld_x_preferred":[
         "Rachiv"
     ],
     "name:nno_x_preferred":[
         "Rakhiv"
+    ],
+    "name:nob_x_preferred":[
+        "Rakhiv"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0430\u0445\u043e\u0432"
     ],
     "name:pol_x_preferred":[
         "Rach\u00f3w"
@@ -126,10 +157,19 @@
     "name:tat_x_preferred":[
         "\u0420\u0430\u0445\u0438\u0432"
     ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e04\u0e34\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Rahiv"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0445\u0456\u0432"
     ],
     "name:ukr_x_variant":[
+        "Rakhiv"
+    ],
+    "name:uzb_x_preferred":[
         "Rakhiv"
     ],
     "name:vep_x_preferred":[
@@ -194,7 +234,7 @@
         }
     ],
     "wof:id":101859319,
-    "wof:lastmodified":1582349253,
+    "wof:lastmodified":1690876335,
     "wof:name":"\u0420\u0430\u0445\u0456\u0432",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043d\u0447\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Sencha"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d\u0447\u0430"
     ],
     "name:deu_x_preferred":[
         "Sentscha"
@@ -31,8 +37,20 @@
     "name:eng_x_preferred":[
         "Sencha"
     ],
+    "name:fin_x_preferred":[
+        "S\u0435nt\u0161\u0430"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u0576\u0579\u0561"
+    ],
+    "name:nan_x_preferred":[
+        "Sencha"
+    ],
+    "name:nno_x_preferred":[
+        "Sentsja"
+    ],
+    "name:nob_x_preferred":[
+        "Sentsja"
     ],
     "name:ron_x_preferred":[
         "Sencea"
@@ -85,7 +103,7 @@
         }
     ],
     "wof:id":1125851831,
-    "wof:lastmodified":1566593958,
+    "wof:lastmodified":1690876964,
     "wof:name":"Sencha",
     "wof:parent_id":102088865,
     "wof:placetype":"locality",

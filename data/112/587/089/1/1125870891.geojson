@@ -25,8 +25,17 @@
     "name:bel_x_preferred":[
         "\u0428\u0447\u0430\u0441\u0446\u044f"
     ],
+    "name:cat_x_preferred":[
+        "Sx\u00e0stia"
+    ],
     "name:ceb_x_preferred":[
         "Shchastya"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160\u010das\u0165a"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0447\u0430\u0441\u0442\u044c\u0435"
     ],
     "name:crh_x_preferred":[
         "\u015e\u00e7ast\u00e2"
@@ -64,6 +73,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10e9\u10d0\u10e1\u10e2\u10d8\u10d4"
     ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ucc28\uc2a4\ud0f8"
+    ],
     "name:lav_x_preferred":[
         "\u0160\u010dastja"
     ],
@@ -73,11 +85,23 @@
     "name:nno_x_preferred":[
         "Sjtsjastja"
     ],
+    "name:nob_x_preferred":[
+        "Sjtsjastja"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0447\u0430\u0441\u0442\u044c\u0435"
+    ],
     "name:pol_x_preferred":[
         "Szczastia"
     ],
+    "name:por_x_preferred":[
+        "Shchastia"
+    ],
     "name:ron_x_preferred":[
         "\u0218ceastia"
+    ],
+    "name:ron_x_variant":[
+        "\u0218ceastea"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0447\u0430\u0441\u0442\u044c\u0435"
@@ -85,8 +109,14 @@
     "name:spa_x_preferred":[
         "Shchastia"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0447\u0430\u0441\u0442\u0458\u0435"
+    ],
     "name:swe_x_preferred":[
         "Sjtjastja"
+    ],
+    "name:swe_x_variant":[
+        "Sjtjastia"
     ],
     "name:tat_x_preferred":[
         "\u0427\u0430\u0441\u0442\u04d9"
@@ -103,11 +133,17 @@
     "name:und_x_variant":[
         "Schast\u2019ye"
     ],
+    "name:uzb_x_preferred":[
+        "Shastya"
+    ],
     "name:vie_x_preferred":[
         "Schastia"
     ],
     "name:zho_x_preferred":[
         "\u590f\u65af\u5b63\u8036"
+    ],
+    "name:zho_x_variant":[
+        "\u590f\u65af\u5b63\u4e9a"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -162,7 +198,7 @@
         }
     ],
     "wof:id":1125870891,
-    "wof:lastmodified":1566593915,
+    "wof:lastmodified":1690876905,
     "wof:name":"Schast'ye",
     "wof:parent_id":1108730801,
     "wof:placetype":"locality",

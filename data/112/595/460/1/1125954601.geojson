@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0410\u0443\u043b\u044b"
+    ],
     "name:ceb_x_preferred":[
         "Auly"
+    ],
+    "name:ces_x_preferred":[
+        "Auly"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0443\u043b\u044b"
     ],
     "name:crh_x_preferred":[
         "Aul\u0131"
@@ -34,6 +43,9 @@
     "name:eng_x_preferred":[
         "Auly"
     ],
+    "name:fin_x_preferred":[
+        "\u0410uly"
+    ],
     "name:fra_x_preferred":[
         "Aouly"
     ],
@@ -42,6 +54,15 @@
     ],
     "name:lav_x_preferred":[
         "Auli"
+    ],
+    "name:nno_x_preferred":[
+        "Auly"
+    ],
+    "name:nob_x_preferred":[
+        "Auly"
+    ],
+    "name:pol_x_preferred":[
+        "Au\u0142y"
     ],
     "name:ron_x_preferred":[
         "Aul\u00ee"
@@ -57,6 +78,9 @@
     ],
     "name:und_x_variant":[
         "Romankovo"
+    ],
+    "name:uzb_x_preferred":[
+        "Auly"
     ],
     "name:zho_x_preferred":[
         "\u5967\u5229"
@@ -112,7 +136,7 @@
         }
     ],
     "wof:id":1125954601,
-    "wof:lastmodified":1566593891,
+    "wof:lastmodified":1690876874,
     "wof:name":"Auly",
     "wof:parent_id":102088471,
     "wof:placetype":"locality",

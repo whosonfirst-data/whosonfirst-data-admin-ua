@@ -30,14 +30,23 @@
     "name:bel_x_variant":[
         "\u041f\u044f\u0446\u0456\u0445\u0430\u0442\u043a\u0456"
     ],
+    "name:cat_x_preferred":[
+        "Piatikhatki"
+    ],
     "name:ceb_x_preferred":[
         "Piatykhatky"
     ],
     "name:ces_x_preferred":[
         "Pjatychatky"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u044f\u0442\u0438\u0445\u0430\u0442\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
         "Pyat\u0131hatk\u0131"
+    ],
+    "name:dan_x_preferred":[
+        "Pjatykhatky"
     ],
     "name:deu_x_preferred":[
         "Pjatychatky"
@@ -48,8 +57,20 @@
     "name:eng_x_variant":[
         "Piatykhatky"
     ],
+    "name:epo_x_preferred":[
+        "Pjati\u0125atki"
+    ],
+    "name:est_x_preferred":[
+        "Pjat\u00f5hhatk\u00f5"
+    ],
+    "name:eus_x_preferred":[
+        "Piatykhatky"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0627\u062a\u06cc\u062e\u0627\u062a\u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Pjatyh\u2019atky"
     ],
     "name:fra_x_preferred":[
         "Piatykhatky"
@@ -75,8 +96,17 @@
     "name:nno_x_preferred":[
         "Pjatykhatky i Dnipropetrovsk oblast"
     ],
+    "name:nob_x_preferred":[
+        "Pjatykhatky"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u044f\u0442\u0438\u0445\u0430\u0442\u043a\u0438"
+    ],
     "name:pol_x_preferred":[
         "Pjatychatky"
+    ],
+    "name:por_x_preferred":[
+        "Piatykhatky"
     ],
     "name:ron_x_preferred":[
         "Peat\u00eehatk\u00ee"
@@ -93,8 +123,14 @@
     "name:srp_x_preferred":[
         "\u041f\u0458\u0430\u0442\u0438\u0445\u0430\u0442\u043a\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Pjatychatky"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u044c\u044f\u0442\u044b\u0445\u0430\u0442\u043a\u044b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e34\u0e22\u0e32\u0e15\u0e37\u0e2d\u0e04\u0e31\u0e15\u0e01\u0e37\u0e2d"
     ],
     "name:ukr_x_preferred":[
         "\u041f'\u044f\u0442\u0438\u0445\u0430\u0442\u043a\u0438"
@@ -110,6 +146,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76ae\u4e9e\u5b63\u54c8\u7279\u57fa"
+    ],
+    "name:zho_x_variant":[
+        "\u76ae\u4e9e\u8482\u54c8\u7279\u57fa"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -164,7 +203,7 @@
         }
     ],
     "wof:id":101867829,
-    "wof:lastmodified":1582349317,
+    "wof:lastmodified":1690876592,
     "wof:name":"\u041f'\u044f\u0442\u0438\u0445\u0430\u0442\u043a\u0438",
     "wof:parent_id":102088495,
     "wof:placetype":"locality",

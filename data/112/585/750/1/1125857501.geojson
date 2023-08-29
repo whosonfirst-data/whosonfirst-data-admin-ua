@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u064a\u0641\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0643\u064a\u0641\u0643\u0627"
+    ],
     "name:ast_x_preferred":[
         "Makiivka"
     ],
@@ -121,6 +124,9 @@
     "name:ind_x_preferred":[
         "Makiivka"
     ],
+    "name:isl_x_preferred":[
+        "Makj\u00edj\u00edvka"
+    ],
     "name:ita_x_preferred":[
         "Maki\u00efvka"
     ],
@@ -139,14 +145,23 @@
     "name:kor_x_preferred":[
         "\ub9c8\ud0a4\uc774\uc6b0\uce74"
     ],
+    "name:kur_x_preferred":[
+        "Mak\u00eey\u00eevka"
+    ],
     "name:lav_x_preferred":[
         "Makijivka"
     ],
     "name:lit_x_preferred":[
         "Makijivka"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d15\u0d4d\u0d15\u0d3f\u0d35\u0d4d\u0d15"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u0915\u0940\u0935\u0915\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u0438\u0432\u043a\u0430"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0435\u0432\u043a\u0435"
@@ -166,6 +181,9 @@
     "name:nob_x_preferred":[
         "Makijivka"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0435\u0432\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Makiejewka"
     ],
@@ -181,11 +199,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0435\u0432\u043a\u0430"
     ],
+    "name:sah_x_preferred":[
+        "\u041c\u0430\u043a\u0435\u0435\u0432\u043a\u0430"
+    ],
     "name:sco_x_preferred":[
         "Makiivka"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0d9a\u0dd3\u0dc0\u0dca\u0d9a\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Makijivka"
     ],
     "name:slv_x_preferred":[
         "Makejevka"
@@ -193,11 +217,20 @@
     "name:spa_x_preferred":[
         "Makiivka"
     ],
+    "name:spa_x_variant":[
+        "Mak\u00e9yevka"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0458\u0435\u0432\u043a\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Makiivka"
+    ],
     "name:swe_x_preferred":[
         "Makijivka"
+    ],
+    "name:szl_x_preferred":[
+        "Makijiwka"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b95\u0bbf\u0baf\u0bcd\u0bb5\u0b95\u0bbe"
@@ -208,8 +241,14 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c15\u0c40\u0c35\u0c15"
     ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u043a\u0438\u0438\u0432\u043a\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e31\u0e19\u0e01\u0e35\u0e1f\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e01\u0e35\u0e22\u0e34\u0e27\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Makiivka"
@@ -301,7 +340,7 @@
         }
     ],
     "wof:id":1125857501,
-    "wof:lastmodified":1566593955,
+    "wof:lastmodified":1690876961,
     "wof:name":"Makiyivka",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

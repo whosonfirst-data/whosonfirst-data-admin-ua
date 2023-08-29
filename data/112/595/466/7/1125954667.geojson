@@ -37,14 +37,23 @@
     "name:bul_x_preferred":[
         "\u0410\u0445\u0442\u0438\u0440\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Okhtirka"
+    ],
     "name:ceb_x_preferred":[
         "Okhtyrka"
     ],
     "name:ces_x_preferred":[
         "Ochtyrka"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0442\u044b\u0440\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Oht\u0131rka"
+    ],
+    "name:dan_x_preferred":[
+        "Okhtyrka"
     ],
     "name:deu_x_historical":[
         "Achtyrka"
@@ -55,7 +64,19 @@
     "name:deu_x_variant":[
         "Ochtyrka"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c7\u03c4\u03af\u03c1\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Okhtyrka"
+    ],
+    "name:epo_x_preferred":[
+        "O\u0125tirka"
+    ],
+    "name:est_x_preferred":[
+        "Oht\u00f5rka"
+    ],
+    "name:eus_x_preferred":[
         "Okhtyrka"
     ],
     "name:fas_x_preferred":[
@@ -63,6 +84,9 @@
     ],
     "name:fin_x_preferred":[
         "Oh'tyrka"
+    ],
+    "name:fin_x_variant":[
+        "Oh\u2019tyrka"
     ],
     "name:fra_x_preferred":[
         "Okhtyrka"
@@ -72,6 +96,9 @@
     ],
     "name:hsb_x_preferred":[
         "Ochtyrka"
+    ],
+    "name:hun_x_preferred":[
+        "Ohtirka"
     ],
     "name:hye_x_preferred":[
         "\u0531\u056d\u057f\u056b\u0580\u056f\u0561"
@@ -103,11 +130,23 @@
     "name:nno_x_preferred":[
         "Okhtyrka"
     ],
+    "name:nob_x_preferred":[
+        "Okhtyrka"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0445\u0442\u044b\u0440\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Ochtyrka"
     ],
+    "name:por_x_preferred":[
+        "Okhtyrka"
+    ],
     "name:ron_x_preferred":[
         "Oht\u00eerka"
+    ],
+    "name:ron_x_variant":[
+        "Aht\u00eerka"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0445\u0442\u044b\u0440\u043a\u0430"
@@ -118,11 +157,26 @@
     "name:sah_x_preferred":[
         "\u0410\u0445\u0442\u044b\u0440\u043a\u0430"
     ],
+    "name:slv_x_preferred":[
+        "Ohtirka"
+    ],
+    "name:spa_x_preferred":[
+        "Ojtirka"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0445\u0442\u0438\u0440\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Ochtyrka"
+    ],
     "name:tat_x_preferred":[
         "\u041e\u0445\u0442\u044b\u0440\u043a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e04\u0e15\u0e37\u0e2d\u0e23\u0e4c\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Oht\u0131rka"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0445\u0442\u0438\u0440\u043a\u0430"
@@ -130,11 +184,17 @@
     "name:und_x_variant":[
         "Akhtirka"
     ],
+    "name:uzb_x_preferred":[
+        "Ohtirka shahri"
+    ],
     "name:vie_x_preferred":[
         "Okhtyrka"
     ],
     "name:zho_x_preferred":[
         "\u963f\u8d6b\u7279\u723e\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u8d6b\u8482\u5c14\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -187,7 +247,7 @@
         }
     ],
     "wof:id":1125954667,
-    "wof:lastmodified":1566593892,
+    "wof:lastmodified":1690876875,
     "wof:name":"Akhtyrka",
     "wof:parent_id":1108815809,
     "wof:placetype":"locality",

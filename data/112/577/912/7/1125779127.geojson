@@ -22,14 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0644\u0648\u0643\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0631\u06cc\u0644\u0648\u06a9\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Priluki"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u043b\u0443\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0440\u044b\u043b\u0443\u043a\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Priluki"
     ],
     "name:ceb_x_preferred":[
         "Pryluky"
@@ -46,10 +58,25 @@
     "name:cym_x_preferred":[
         "Pryluky"
     ],
+    "name:dan_x_preferred":[
+        "Pryluky"
+    ],
     "name:deu_x_preferred":[
         "Pryluky"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03b9\u03bb\u03bf\u03cd\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
+        "Pryluky"
+    ],
+    "name:epo_x_preferred":[
+        "Priluki"
+    ],
+    "name:est_x_preferred":[
+        "Pr\u00f5luk\u00f5"
+    ],
+    "name:eus_x_preferred":[
         "Pryluky"
     ],
     "name:fas_x_preferred":[
@@ -94,8 +121,14 @@
     "name:nob_x_preferred":[
         "Pryluky"
     ],
+    "name:oss_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
+    ],
     "name:pol_x_preferred":[
         "Pry\u0142uki"
+    ],
+    "name:por_x_preferred":[
+        "Pryluky"
     ],
     "name:ron_x_preferred":[
         "Pr\u00eeluk\u00ee"
@@ -112,6 +145,9 @@
     "name:slv_x_preferred":[
         "Priluki"
     ],
+    "name:spa_x_preferred":[
+        "Priluki"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
     ],
@@ -124,14 +160,23 @@
     "name:tgk_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e37\u0e2d\u0e25\u0e39\u0e01\u0e37\u0e2d"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0443\u043a\u0438"
+    ],
+    "name:uzb_x_preferred":[
+        "Pryluky"
     ],
     "name:vie_x_preferred":[
         "Pryluky"
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u76e7\u57fa"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u91cc\u5362\u57fa"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -172,7 +217,7 @@
         }
     ],
     "wof:id":1125779127,
-    "wof:lastmodified":1566593968,
+    "wof:lastmodified":1690876977,
     "wof:name":"Pryluky",
     "wof:parent_id":1108815845,
     "wof:placetype":"locality",

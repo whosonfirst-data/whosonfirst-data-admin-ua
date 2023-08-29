@@ -26,8 +26,17 @@
     "name:bel_x_variant":[
         "\u0422\u0430\u043b\u0430\u043b\u0430\u0435\u045e\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Talalaivka"
+    ],
     "name:ceb_x_preferred":[
         "Talalayivka"
+    ],
+    "name:ces_x_preferred":[
+        "Talalajivka"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u043b\u0430\u0435\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Talalayivka"
@@ -35,11 +44,23 @@
     "name:deu_x_preferred":[
         "Talalajiwka"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03b1\u03bb\u03ac\u03b9\u03b2\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Talalayivka"
     ],
     "name:eng_x_variant":[
         "Talalaivka"
+    ],
+    "name:epo_x_preferred":[
+        "Talalajivka"
+    ],
+    "name:fin_x_preferred":[
+        "Talalajivka"
+    ],
+    "name:fra_x_preferred":[
+        "Talala\u00efvka"
     ],
     "name:lav_x_preferred":[
         "Talalajivka"
@@ -64,6 +85,9 @@
     ],
     "name:und_x_variant":[
         "Talalayevka"
+    ],
+    "name:uzb_x_preferred":[
+        "Talalaivka"
     ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u62c9\u4f0a\u592b\u5361"
@@ -123,7 +147,7 @@
         }
     ],
     "wof:id":101871341,
-    "wof:lastmodified":1582349340,
+    "wof:lastmodified":1690876716,
     "wof:name":"\u0422\u0430\u043b\u0430\u043b\u0430\u0457\u0432\u043a\u0430",
     "wof:parent_id":102088937,
     "wof:placetype":"locality",

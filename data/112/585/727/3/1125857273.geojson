@@ -31,14 +31,26 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0443\u0433\u043b\u044d\u0433\u0456\u0440\u0441\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u0412\u0443\u0433\u043b\u044d\u0433\u0456\u0440\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Vuhlehirsk"
+    ],
     "name:ceb_x_preferred":[
         "Vuhlehirs'k"
     ],
     "name:ces_x_preferred":[
         "Vuhlehirsk"
     ],
+    "name:che_x_preferred":[
+        "\u0423\u0433\u043b\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
         "Vuglegirsk"
+    ],
+    "name:dan_x_preferred":[
+        "Vuhlehirsk"
     ],
     "name:deu_x_preferred":[
         "Wuhlehirsk"
@@ -49,11 +61,17 @@
     "name:eng_x_variant":[
         "Vuhlehirsk"
     ],
+    "name:epo_x_preferred":[
+        "Vuhlehirsk"
+    ],
     "name:est_x_preferred":[
         "Vuglegirsk"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u0647\u0644\u0647\u06cc\u0631\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Vuhlehirsk"
     ],
     "name:fra_x_preferred":[
         "Vouhlehirsk"
@@ -67,6 +85,9 @@
     "name:ita_x_preferred":[
         "Vuhlehirs'k"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30d5\u30ec\u30d2\u30eb\u30b9\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10d2\u10da\u10d4\u10d2\u10dd\u10e0\u10e1\u10d9\u10d8"
     ],
@@ -79,8 +100,17 @@
     "name:nob_x_preferred":[
         "Vuhlehirsk"
     ],
+    "name:oss_x_preferred":[
+        "\u0423\u0433\u043b\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Wuh\u0142ehirsk"
+    ],
+    "name:pol_x_variant":[
+        "Wuh\u0142ehir\u015bk"
+    ],
+    "name:por_x_preferred":[
+        "Vuhlehirsk"
     ],
     "name:ron_x_preferred":[
         "Vuhlehirsk"
@@ -88,8 +118,20 @@
     "name:rus_x_preferred":[
         "\u0423\u0433\u043b\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:slv_x_preferred":[
+        "Vuglegirsk"
+    ],
+    "name:spa_x_preferred":[
+        "Vuglegirsk"
+    ],
+    "name:swe_x_preferred":[
+        "Vuhlehirsk"
+    ],
     "name:tat_x_preferred":[
         "\u0412\u0443\u04bb\u043b\u0435\u04bb\u0438\u0440\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e39\u0e2e\u0e41\u0e25\u0e2e\u0e35\u0e2a\u0e01\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "Vuhlehirs\u2019k"
@@ -99,6 +141,9 @@
     ],
     "name:und_x_variant":[
         "Chazepetowka"
+    ],
+    "name:uzb_x_preferred":[
+        "Vuhlehirsk"
     ],
     "name:vie_x_preferred":[
         "Uglegorsk"
@@ -111,6 +156,9 @@
     ],
     "name:zho_x_preferred":[
         "\u70cf\u683c\u5217\u6208\u723e\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u6b66\u8d6b\u83b1\u5e0c\u5c14\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -161,7 +209,7 @@
         }
     ],
     "wof:id":1125857273,
-    "wof:lastmodified":1636501746,
+    "wof:lastmodified":1690876967,
     "wof:name":"Uglegorsk",
     "wof:parent_id":1108815983,
     "wof:placetype":"locality",

@@ -29,11 +29,23 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u043d\u0438\u0435\u0432"
     ],
+    "name:cat_x_preferred":[
+        "An\u00e0niv"
+    ],
     "name:ces_x_preferred":[
         "Ananjiv"
     ],
+    "name:ces_x_variant":[
+        "Ana\u0148jiv"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u044c\u0435\u0432"
+    ],
     "name:crh_x_preferred":[
         "Ananyiv"
+    ],
+    "name:dan_x_preferred":[
+        "Ananjiv"
     ],
     "name:deu_x_preferred":[
         "Ananjiw"
@@ -41,11 +53,20 @@
     "name:eng_x_preferred":[
         "Ananyiv"
     ],
+    "name:eng_x_variant":[
+        "Ananiv"
+    ],
+    "name:est_x_preferred":[
+        "Ananjiv"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0627\u0646\u0626\u06cc\u0648"
     ],
     "name:fas_x_variant":[
         "\u0622\u0646\u0627\u0646\u0626\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Ananjiv"
     ],
     "name:fra_x_preferred":[
         "Ananiv"
@@ -74,6 +95,9 @@
     "name:lit_x_preferred":[
         "Ananjivas"
     ],
+    "name:mhr_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u044c\u0435\u0432"
+    ],
     "name:nno_x_preferred":[
         "Ananjiv"
     ],
@@ -83,11 +107,17 @@
     "name:nor_x_preferred":[
         "Ananjiv"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u044c\u0435\u0432"
+    ],
     "name:pol_x_preferred":[
         "Ana\u0144jiw"
     ],
     "name:pol_x_variant":[
         "Ananiw"
+    ],
+    "name:por_x_preferred":[
+        "Ananiv"
     ],
     "name:ron_x_preferred":[
         "Ananiev"
@@ -104,8 +134,14 @@
     "name:spa_x_preferred":[
         "Ananiv"
     ],
+    "name:spa_x_variant":[
+        "An\u00e1niv"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u043d\u0430\u043d\u044c\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e19\u0e32\u0e0d\u0e34\u0e22\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u043d\u044c\u0457\u0432"
@@ -146,8 +182,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088083,
-        85688877
+        85688877,
+        102088083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,7 +207,7 @@
         }
     ],
     "wof:id":101866109,
-    "wof:lastmodified":1588710628,
+    "wof:lastmodified":1690876362,
     "wof:name":"\u0410\u043d\u0430\u043d\u044c\u0457\u0432",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

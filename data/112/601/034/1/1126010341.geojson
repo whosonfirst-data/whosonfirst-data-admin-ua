@@ -28,8 +28,14 @@
     "name:ara_x_variant":[
         "\u062f\u0631\u0648\u0632\u0647\u0643\u064a\u0641\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0648\u0632\u0647\u0643\u064a\u0641\u0643\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0631\u0648\u0698\u06a9\u06cc\u0641\u06a9\u0627"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u043a\u043e\u0432\u043a\u0430"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0440\u0443\u0436\u043a\u0456\u045e\u043a\u0430"
@@ -46,6 +52,9 @@
     "name:ces_x_preferred":[
         "Dru\u017ekivka"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u043a\u043e\u0432\u043a\u0430"
+    ],
     "name:crh_x_preferred":[
         "Drujkivka"
     ],
@@ -60,6 +69,12 @@
     ],
     "name:eng_x_variant":[
         "Druzhkivka"
+    ],
+    "name:epo_x_preferred":[
+        "Dru\u0135kivka"
+    ],
+    "name:est_x_preferred":[
+        "Dru\u017ekivka"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0648\u0698\u06a9\u06cc\u0641\u06a9\u0627"
@@ -103,8 +118,14 @@
     "name:nob_x_preferred":[
         "Druzjkivka"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u043a\u043e\u0432\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Dru\u017ckiwka"
+    ],
+    "name:por_x_preferred":[
+        "Druzhkivka"
     ],
     "name:ron_x_preferred":[
         "Drujkivka"
@@ -124,11 +145,17 @@
     "name:tat_x_preferred":[
         "\u0414\u0440\u0443\u0436\u043a\u0438\u0432\u043a\u0430"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e23\u0e38\u0e0c\u0e01\u0e34\u0e27\u0e01\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "Druzhkivka"
     ],
     "name:ukr_x_variant":[
         "\u0414\u0440\u0443\u0436\u043a\u0456\u0432\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Drujkivka"
     ],
     "name:vie_x_preferred":[
         "Druzhkivka"
@@ -214,7 +241,7 @@
         }
     ],
     "wof:id":1126010341,
-    "wof:lastmodified":1566593934,
+    "wof:lastmodified":1690876931,
     "wof:name":"Druzhkovka",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

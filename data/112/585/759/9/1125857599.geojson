@@ -25,11 +25,17 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u0443\u043a\u0456\u045e\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Kori\u00fakivka"
+    ],
     "name:ceb_x_preferred":[
         "Koryukivka"
     ],
     "name:ces_x_preferred":[
         "Korjukivka"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0440\u044e\u043a\u043e\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Kor\u00fckivka"
@@ -37,13 +43,28 @@
     "name:cym_x_preferred":[
         "Koriukivka"
     ],
+    "name:dan_x_preferred":[
+        "Korjukivka"
+    ],
     "name:deu_x_preferred":[
         "Korjukiwka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03b9\u03bf\u03cd\u03ba\u03b9\u03b2\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Koryukivka"
     ],
     "name:eng_x_variant":[
+        "Koriukivka"
+    ],
+    "name:epo_x_preferred":[
+        "Korjukivka"
+    ],
+    "name:est_x_preferred":[
+        "Korjukivka"
+    ],
+    "name:eus_x_preferred":[
         "Koriukivka"
     ],
     "name:fas_x_preferred":[
@@ -73,6 +94,9 @@
     "name:lit_x_preferred":[
         "Koriukivka"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u043e\u0440\u044e\u043a\u0438\u0432\u043a\u0430"
+    ],
     "name:nld_x_preferred":[
         "Koriukivka"
     ],
@@ -82,8 +106,17 @@
     "name:nob_x_preferred":[
         "Korjukivka"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u0440\u044e\u043a\u043e\u0432\u043a\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Koriukiwka"
+    ],
+    "name:pol_x_variant":[
+        "Koriuk\u00f3wka"
+    ],
+    "name:por_x_preferred":[
+        "Koriukivka"
     ],
     "name:ron_x_preferred":[
         "Koriukivka"
@@ -97,8 +130,14 @@
     "name:sah_x_preferred":[
         "\u041a\u043e\u0440\u044e\u043a\u043e\u0432\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Korjukivka"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u043e\u0440\u04af\u043a\u0438\u0432\u043a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e23\u0e39\u0e01\u0e34\u0e27\u0e01\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u044e\u043a\u0456\u0432\u043a\u0430"
@@ -106,11 +145,17 @@
     "name:und_x_variant":[
         "Karyukovka"
     ],
+    "name:uzb_x_preferred":[
+        "Koriukivka"
+    ],
     "name:vie_x_preferred":[
         "Koriukivka"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7559\u79d1\u592b\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u7559\u57fa\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -151,7 +196,7 @@
         }
     ],
     "wof:id":1125857599,
-    "wof:lastmodified":1566593956,
+    "wof:lastmodified":1690876961,
     "wof:name":"Koryukivka",
     "wof:parent_id":102089015,
     "wof:placetype":"locality",

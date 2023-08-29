@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.5573862199,50.4340531646,30.5573862199,50.4340531646",
+    "geom:bbox":"30.557386,50.434053,30.557386,50.434053",
     "geom:latitude":50.434053,
     "geom:longitude":30.557386,
     "iso:country":"UA",
@@ -38,11 +38,20 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30ec\u30b9\u30c8\u30f4\u30a7"
     ],
+    "name:ron_x_preferred":[
+        "Berestove"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u043e"
     ],
     "name:slv_x_preferred":[
         "Berestova"
+    ],
+    "name:swe_x_preferred":[
+        "Berestove"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u0435"
@@ -61,7 +70,7 @@
     },
     "wof:country":"UA",
     "wof:created":1491364841,
-    "wof:geomhash":"e72b6fb13d08e5442c6ac7106e657ae7",
+    "wof:geomhash":"4ad13352db4ed252c520449e6ed10c09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1108945135,
-    "wof:lastmodified":1566592890,
+    "wof:lastmodified":1690876225,
     "wof:name":"Berestove",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",
@@ -83,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.55738621986897,
-    50.43405316460111,
-    30.55738621986897,
-    50.43405316460111
+    30.557386,
+    50.434053,
+    30.557386,
+    50.434053
 ],
-  "geometry": {"coordinates":[30.55738621986897,50.43405316460111],"type":"Point"}
+  "geometry": {"coordinates":[30.557386,50.434053],"type":"Point"}
 }

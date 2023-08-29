@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u043f\u044b\u043d\u0446\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Shypyntsi"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0438\u043f\u0438\u043d\u0446\u044b"
     ],
     "name:deu_x_preferred":[
         "Schypynzi"
@@ -31,8 +37,20 @@
     "name:eng_x_preferred":[
         "Shypyntsi"
     ],
+    "name:fin_x_preferred":[
+        "\u0160ypynts\u0456"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u056b\u057a\u056b\u0576\u0581\u056b"
+    ],
+    "name:nno_x_preferred":[
+        "Sjypyntsi"
+    ],
+    "name:nob_x_preferred":[
+        "Sjypyntsi"
+    ],
+    "name:pol_x_preferred":[
+        "Szypynci"
     ],
     "name:ron_x_preferred":[
         "\u0218ipeni\u021b"
@@ -42,6 +60,9 @@
     ],
     "name:rus_x_variant":[
         "\u0428\u0438\u043f\u0438\u043d\u0446\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Sjypyntsi"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043f\u0438\u043d\u0446\u0456"
@@ -88,7 +109,7 @@
         }
     ],
     "wof:id":1125864053,
-    "wof:lastmodified":1566593906,
+    "wof:lastmodified":1690876896,
     "wof:name":"Shypyntsi",
     "wof:parent_id":102088095,
     "wof:placetype":"locality",

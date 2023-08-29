@@ -25,23 +25,48 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0631\u0648\u0641\u0633\u0643\u064a"
     ],
+    "name:bak_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0435"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u044d\u0442\u0440\u043e\u0432\u0430-\u041a\u0440\u0430\u0441\u043d\u0430\u0441\u0456\u043b\u043b\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Petr\u00f2vo-Krasnoss\u00edllia"
+    ],
     "name:ces_x_preferred":[
         "Petrovo-Krasnosele"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0435"
     ],
     "name:crh_x_preferred":[
         "Petrovske"
     ],
+    "name:crh_x_variant":[
+        "Petrov\u043e-Krasnosill\u00e2"
+    ],
     "name:deu_x_preferred":[
         "Petrowo-Krasnosillja"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c1\u03cc\u03b2\u03bf-\u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03c3\u03af\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Petrovskoye"
     ],
     "name:eng_x_variant":[
-        "Petrovo-Krasnosill'a"
+        "Petrovo-Krasnosill'a",
+        "Petrovo-Krasnosillia"
+    ],
+    "name:est_x_preferred":[
+        "Petrovo-Krasnosillja"
     ],
     "name:fas_x_preferred":[
         "\u067e\u062a\u0631\u0648\u0641\u0633\u06a9\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Petrovo-Krasnosillja"
     ],
     "name:fra_x_preferred":[
         "Petrovo Krasnosillia"
@@ -52,35 +77,74 @@
     "name:hye_x_preferred":[
         "\u054a\u0565\u057f\u0580\u0578\u057e\u057d\u056f\u0578\u0565"
     ],
+    "name:hye_x_variant":[
+        "\u054a\u0565\u057f\u0580\u0578\u057e\u0578-\u053f\u0580\u0561\u057d\u0576\u0578\u057d\u0565\u056c\u056b\u0565"
+    ],
     "name:ita_x_preferred":[
         "Petrovs'ke"
+    ],
+    "name:ita_x_variant":[
+        "Petrovo-Krasnosillja"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10dd\u10d4"
     ],
+    "name:kat_x_variant":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10dd-\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10e1\u10d4\u10da\u10d8\u10d4"
+    ],
     "name:lav_x_preferred":[
         "Petrovske"
+    ],
+    "name:lav_x_variant":[
+        "Petrovo-Krasnosi\u013c\u013ca"
     ],
     "name:mhr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
+    "name:mhr_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0435"
+    ],
     "name:nno_x_preferred":[
         "Petrovske"
+    ],
+    "name:nno_x_variant":[
+        "Petrovo-Krasnosillja"
+    ],
+    "name:nob_x_preferred":[
+        "Petrovo-Krasnosillja"
     ],
     "name:pol_x_preferred":[
         "Petrowo-Krasnosilla"
     ],
+    "name:por_x_preferred":[
+        "Petrovo-Krasnosillia"
+    ],
     "name:ron_x_preferred":[
         "Petrovske"
+    ],
+    "name:ron_x_variant":[
+        "Petrovo-Krasnosillya"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Petrovo-Krasnosilia"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0438\u043b\u043b\u04d9"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1b\u0e15\u0e23\u0e2d\u0e27\u0e2d-\u0e01\u0e23\u0e31\u0e2a\u0e19\u0e2d\u0e0b\u0e34\u0e25\u0e40\u0e25\u0e35\u0e22"
+    ],
     "name:udm_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:udm_x_variant":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0435"
     ],
     "name:ukr_x_preferred":[
         "Petrovs\u2019ke"
@@ -92,11 +156,20 @@
     "name:und_x_variant":[
         "Shterovskiy Zavod Imeni Petrovskogo"
     ],
+    "name:uzb_x_preferred":[
+        "Petrovske"
+    ],
     "name:vie_x_preferred":[
         "Petrovske"
     ],
+    "name:vie_x_variant":[
+        "Petrovo-Krasnosilla"
+    ],
     "name:zho_x_preferred":[
         "\u5f7c\u5f97\u7f85\u592b\u65af\u79d1\u8036"
+    ],
+    "name:zho_x_variant":[
+        "\u5f7c\u5f97\u7f57\u6c83-\u514b\u62c9\u65af\u8bfa\u897f\u5229\u4e9a"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -148,7 +221,7 @@
         }
     ],
     "wof:id":1125923927,
-    "wof:lastmodified":1566593887,
+    "wof:lastmodified":1690876869,
     "wof:name":"Petrovskoye",
     "wof:parent_id":85688805,
     "wof:placetype":"locality",

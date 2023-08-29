@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0442\u044b\u0447"
+    ],
     "name:ceb_x_preferred":[
         "Korotych"
+    ],
+    "name:ces_x_preferred":[
+        "Koroty\u010d"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0442\u0438\u0447"
     ],
     "name:crh_x_preferred":[
         "Korot\u0131\u00e7"
@@ -40,6 +49,9 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0580\u0578\u057f\u056b\u0579"
     ],
+    "name:pol_x_preferred":[
+        "Korotycz"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0442\u044b\u0447"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Korotich"
+    ],
+    "name:uzb_x_preferred":[
+        "Korotych"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7f85\u5b63\u5947"
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1125857609,
-    "wof:lastmodified":1566593954,
+    "wof:lastmodified":1690876960,
     "wof:name":"Korotych",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

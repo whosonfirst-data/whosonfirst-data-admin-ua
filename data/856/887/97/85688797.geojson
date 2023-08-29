@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0646\u064a\u0628\u0631\u0648\u0628\u062a\u0631\u0648\u0641\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0646\u06cc\u067e\u0631\u0648\u067e\u062a\u0631\u0648\u0641\u0633\u06a9 \u0627\u0648\u0628\u0644\u0627\u0633\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Dnepropetrovsk vilay\u0259ti"
     ],
@@ -62,8 +65,14 @@
     "name:ces_x_preferred":[
         "Dn\u011bpropetrovsk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "name:chv_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a \u043e\u0431\u043b\u0430\u00e7\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0646\u06cc\u067e\u0631\u06c6\u067e\u06ce\u062a\u0631\u06c6\u06a4\u0633\u06a9 \u0626\u06c6\u0628\u0644\u0627\u0633\u062a"
     ],
     "name:crh_x_preferred":[
         "Dnipropetrovsk vil\u00e2yeti"
@@ -99,6 +108,9 @@
     "name:fin_x_preferred":[
         "Dnepropetrovskin alue"
     ],
+    "name:fin_x_variant":[
+        "Dnipropetrovskin alue"
+    ],
     "name:fra_x_preferred":[
         "Oblast de Dnipropetrovsk"
     ],
@@ -107,6 +119,9 @@
     ],
     "name:frr_x_preferred":[
         "Dnipropetrowsk"
+    ],
+    "name:gla_x_preferred":[
+        "Dnipropetrovska Oblast"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Dnipropetrovsk"
@@ -132,8 +147,14 @@
     "name:hye_x_preferred":[
         "\u0534\u0576\u0565\u057a\u0580\u0578\u057a\u0565\u057f\u0580\u0578\u057e\u057d\u056f\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Dnipropetrovsk"
+    ],
     "name:ind_x_preferred":[
         "Oblast Dnipropetrovsk"
+    ],
+    "name:isl_x_preferred":[
+        "Dn\u00edpr\u00f3petrovskfylki"
     ],
     "name:ita_x_preferred":[
         "Oblast' di Dnipropetrovs'k"
@@ -147,14 +168,29 @@
     "name:kat_x_preferred":[
         "\u10d3\u10dc\u10d4\u10de\u10e0\u10dd\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d3\u10dc\u10d8\u10de\u10e0\u10dd\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a \u043e\u0431\u043b\u0443\u0441\u0443"
+    ],
     "name:kor_x_preferred":[
         "\ub4dc\ub2c8\ud504\ub85c\ud398\ud2b8\ub85c\uc6b0\uc2a4\ud06c \uc8fc"
     ],
     "name:kor_x_variant":[
         "\ub4dc\ub2c8\ud504\ub85c\ud398\ud2b8\ub85c\uc6b0\uc2a4\ud06c\uc8fc"
     ],
+    "name:kur_x_preferred":[
+        "Oblasta Dn\u00eepropetrovsk\u00ea"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Dnepropetrovskensis"
+    ],
     "name:lav_x_preferred":[
         "D\u0146epropetrovskas apgabals"
+    ],
+    "name:lav_x_variant":[
+        "Dnipropetrovskas apgabals"
     ],
     "name:lit_x_preferred":[
         "Dniepropetrovsko sritis"
@@ -165,17 +201,29 @@
     "name:mar_x_preferred":[
         "\u0926\u094d\u0928\u0947\u092a\u094d\u0930\u094b\u092a\u0947\u0924\u094d\u0930\u094b\u0935\u094d\u0938\u094d\u0915 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u0924"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u043d\u0438\u043f\u0440\u043e\u043f\u044d\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u043d\u044c \u0430\u0439\u043c\u0430\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a \u0432\u0435\u043b"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
+    "name:mkd_x_variant":[
+        "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:mon_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a \u043c\u0443\u0436"
     ],
     "name:msa_x_preferred":[
         "Dnipropetrovsk Oblast"
+    ],
+    "name:msa_x_variant":[
+        "Oblast Dnipropetrovsk"
+    ],
+    "name:myv_x_preferred":[
+        "\u0414\u043d\u0438\u043f\u0440\u043e\u043f\u044d\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435\u043d\u044c \u0451\u043d\u043a\u0441"
     ],
     "name:nan_x_preferred":[
         "Dnipropetrovsk s\u00e9ng"
@@ -200,6 +248,9 @@
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d dniepropetrowski"
+    ],
+    "name:pol_x_variant":[
+        "obw\u00f3d dniepropetrowski"
     ],
     "name:por_x_preferred":[
         "Oblast de Dnipropetrovsk"
@@ -230,6 +281,12 @@
     ],
     "name:slk_x_preferred":[
         "Dnepropetrovsk\u00e1 oblas\u0165"
+    ],
+    "name:slv_x_preferred":[
+        "Dnepropetrovska oblast"
+    ],
+    "name:smn_x_preferred":[
+        "Dnipropetrovsk ku\u00e1vlu"
     ],
     "name:spa_x_preferred":[
         "\u00d3blast de Dnipropetrovsk"
@@ -285,8 +342,17 @@
     "name:war_x_preferred":[
         "Dnipropetrovsk Oblast"
     ],
+    "name:wuu_x_preferred":[
+        "\u7b2c\u8042\u4f2f\u7f57\u5f7c\u5f97\u7f57\u592b\u65af\u514b\u5dde"
+    ],
     "name:xmf_x_preferred":[
         "\u10d3\u10dc\u10d4\u10de\u10e0\u10dd\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8\u10e8 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05e0\u05d9\u05e4\u05e8\u05d0\u05e4\u05e2\u05d8\u05e8\u05d0\u05d5\u05d5\u05e1\u05e7 \u05d2\u05d5\u05d1\u05e2\u05e8\u05e0\u05d9\u05e2"
+    ],
+    "name:yue_x_preferred":[
+        "\u7b2c\u8076\u4f2f\u7f85\u5f7c\u5f97\u7f85\u592b\u65af\u514b\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7b2c\u8042\u4f2f\u7f57\u5f7c\u5f97\u7f57\u592b\u65af\u514b\u5dde"
@@ -413,7 +479,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1614896262,
+    "wof:lastmodified":1690876192,
     "wof:name":"Dnipropetrovs'k",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

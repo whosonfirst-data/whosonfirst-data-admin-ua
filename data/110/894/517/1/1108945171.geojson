@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.4533307629,50.3690226606,30.4533307629,50.3690226606",
+    "geom:bbox":"30.453331,50.369023,30.453331,50.369023",
     "geom:latitude":50.369023,
     "geom:longitude":30.453331,
     "iso:country":"UA",
@@ -35,6 +35,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u0435\u043c\u043a\u0438"
     ],
+    "name:zho_x_preferred":[
+        "\u7279\u5217\u59c6\u57fa\u533a"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688801,
@@ -49,7 +52,7 @@
     },
     "wof:country":"UA",
     "wof:created":1491364864,
-    "wof:geomhash":"d498161d9711278ad17a9d32985d01a4",
+    "wof:geomhash":"a2d5aa6c6a97e9dd6c78fa24e4448bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108945171,
-    "wof:lastmodified":1566592887,
+    "wof:lastmodified":1690876225,
     "wof:name":"Teremky",
     "wof:parent_id":101752489,
     "wof:placetype":"neighbourhood",
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.45333076285038,
-    50.36902266055769,
-    30.45333076285038,
-    50.36902266055769
+    30.453331,
+    50.369023,
+    30.453331,
+    50.369023
 ],
-  "geometry": {"coordinates":[30.45333076285038,50.36902266055769],"type":"Point"}
+  "geometry": {"coordinates":[30.453331,50.369023],"type":"Point"}
 }

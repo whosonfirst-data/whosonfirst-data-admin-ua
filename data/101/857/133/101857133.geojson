@@ -35,8 +35,14 @@
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u043c\u0441\u043a\u0430\u0435 \u0445\u0430\u043d\u0441\u0442\u0432\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09bf\u09ae\u09c0\u09af\u09bc \u0996\u09be\u09a8\u09be\u09a4"
+    ],
     "name:bos_x_preferred":[
         "Krimski kanat"
+    ],
+    "name:bos_x_variant":[
+        "Krimski Kanat"
     ],
     "name:bre_x_preferred":[
         "Khanat Krimea"
@@ -77,11 +83,17 @@
     "name:heb_x_preferred":[
         "\u05d7'\u05d0\u05e0\u05d5\u05ea \u05e7\u05e8\u05d9\u05dd"
     ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d0\u05e0\u05d5\u05ea \u05e7\u05e8\u05d9\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094d\u0930\u093e\u0907\u092e\u093f\u092f\u093e\u0908 \u0916\u093c\u093e\u0928\u0924"
     ],
     "name:hrv_x_preferred":[
         "Krimski kanat"
+    ],
+    "name:hrv_x_variant":[
+        "Krimski Kanat"
     ],
     "name:hye_x_preferred":[
         "\u0542\u0580\u056b\u0574\u056b \u056d\u0561\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
@@ -113,6 +125,9 @@
     "name:krc_x_preferred":[
         "\u041a\u044a\u0440\u044b\u043c \u0445\u0430\u043d\u043b\u044b\u043a\u044a"
     ],
+    "name:lat_x_preferred":[
+        "Tartaria Minor"
+    ],
     "name:lav_x_preferred":[
         "Krimas haniste"
     ],
@@ -121,6 +136,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0438\u043c\u0441\u043a\u043e \u0425\u0430\u043d\u0441\u0442\u0432\u043e"
+    ],
+    "name:mlt_x_preferred":[
+        "Il-Khanate tal-Krimea"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0440\u044b\u043c\u044b\u043d \u0445\u0430\u043d\u043b\u0438\u0433"
@@ -171,11 +189,17 @@
     "name:slv_x_preferred":[
         "Krimski kanat"
     ],
+    "name:sqi_x_preferred":[
+        "Khanate Krimes\u00eb"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0438\u043c\u0441\u043a\u0438 \u043a\u0430\u043d\u0430\u0442"
     ],
     "name:swe_x_preferred":[
         "Krimkhanatet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bbf\u0bae\u0bbf\u0baf \u0b95\u0bbe\u0ba9\u0bc7\u0b9f\u0bc1"
     ],
     "name:tat_x_preferred":[
         "\u041a\u044b\u0440\u044b\u043c \u0445\u0430\u043d\u043b\u044b\u0433\u044b"
@@ -197,6 +221,12 @@
     ],
     "name:uzb_x_preferred":[
         "Qrim xonligi"
+    ],
+    "name:vro_x_preferred":[
+        "Krimmi khaaniriik"
+    ],
+    "name:wuu_x_preferred":[
+        "\u514b\u91cc\u7c73\u4e9a\u6c57\u56fd"
     ],
     "name:yue_x_preferred":[
         "\u514b\u91cc\u7c73\u4e9e\u6c57\u570b"
@@ -270,7 +300,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582349288,
+    "wof:lastmodified":1690876468,
     "wof:name":"\u041a\u0440\u0438\u043c\u0441\u044c\u043a\u0435",
     "wof:parent_id":1108738649,
     "wof:placetype":"locality",

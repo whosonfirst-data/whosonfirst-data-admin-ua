@@ -29,6 +29,9 @@
     "name:bel_x_variant":[
         "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 \u0422\u0440\u044b\u043f\u043e\u043b\u044c\u0435-\u041a\u0443\u043a\u0443\u0442\u0435\u043d\u044c"
     ],
+    "name:bos_x_preferred":[
+        "Kultura Cucuteni"
+    ],
     "name:cat_x_preferred":[
         "Cultura de Cucuteni"
     ],
@@ -56,11 +59,20 @@
     "name:fin_x_preferred":[
         "Tripoljen kulttuuri"
     ],
+    "name:fin_x_variant":[
+        "Cucutenin\u2013Tripoljen kulttuuri"
+    ],
     "name:fra_x_preferred":[
         "Culture de Cucuteni-Trypillia"
     ],
     "name:hbs_x_preferred":[
         "Kultura Cucuteni"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05ea\u05e8\u05d1\u05d5\u05ea \u05d4\u05e7\u05d5\u05e7\u05d5\u05d8\u05e0\u05d9-\u05d8\u05e8\u05d9\u05e4\u05d9\u05dc\u05d9\u05d0\u05e0\u05d9\u05ea"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0941\u0915\u0941\u091f\u0947\u0928\u0940-\u091f\u094d\u0930\u093f\u092a\u093f\u0932\u093f\u092f\u093e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f"
     ],
     "name:hrv_x_preferred":[
         "Tripiljska kultura"
@@ -76,6 +88,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30af\u30c6\u30cb\u6587\u5316"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ucfe0\ud14c\ub2c8-\ud2b8\ub9ac\ud544\ub7b4 \ubb38\ud654"
     ],
     "name:lfn_x_preferred":[
         "Cultur Cucuteni-Trypillia"
@@ -119,6 +134,9 @@
     "name:swe_x_preferred":[
         "Trypilljakulturen"
     ],
+    "name:tur_x_preferred":[
+        "Cucuteni-Tripoli k\u00fclt\u00fcr\u00fc"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0438\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430"
     ],
@@ -127,6 +145,9 @@
     ],
     "name:uzb_x_preferred":[
         "Tripolye madaniyati"
+    ],
+    "name:uzb_x_variant":[
+        "Kukutini madaniyati"
     ],
     "name:vie_x_preferred":[
         "V\u0103n h\u00f3a Cucuteni-Tripillia"
@@ -182,7 +203,7 @@
         }
     ],
     "wof:id":101862843,
-    "wof:lastmodified":1582349349,
+    "wof:lastmodified":1690876746,
     "wof:name":"\u041b\u0435\u043d\u043a\u0456\u0432\u0446\u0456",
     "wof:parent_id":1108815721,
     "wof:placetype":"locality",

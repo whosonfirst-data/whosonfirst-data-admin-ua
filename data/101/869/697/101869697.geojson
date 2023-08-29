@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u043a\u0430\u0441\u043a\u044d"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u043e\u0435"
+    ],
     "name:crh_x_preferred":[
         "\u00c7erkaske"
     ],
@@ -47,11 +50,17 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u0441\u043a\u043e\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Tjerkaske"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0435"
     ],
     "name:zho_x_preferred":[
         "\u5207\u723e\u5361\u897f\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u5207\u5c14\u5361\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":101869697,
-    "wof:lastmodified":1582349301,
+    "wof:lastmodified":1690876515,
     "wof:name":"\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088767,
     "wof:placetype":"locality",

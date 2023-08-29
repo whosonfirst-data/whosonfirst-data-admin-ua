@@ -29,11 +29,20 @@
     "name:bel_x_variant":[
         "\u0412\u044f\u0440\u0445\u043e\u045e\u0446\u0430\u0432\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Verkh\u00edvtseve"
+    ],
     "name:ces_x_preferred":[
         "Verchivceve"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043e\u0432\u0446\u0435\u0432\u043e"
+    ],
     "name:crh_x_preferred":[
         "Verhivtseve"
+    ],
+    "name:dan_x_preferred":[
+        "Verkhivtseve"
     ],
     "name:deu_x_preferred":[
         "Werchiwzewe"
@@ -44,8 +53,20 @@
     "name:eng_x_variant":[
         "Verkhivtseve"
     ],
+    "name:epo_x_preferred":[
+        "Ver\u0125ivceve"
+    ],
+    "name:est_x_preferred":[
+        "Verhivtseve"
+    ],
+    "name:eus_x_preferred":[
+        "Verkhivtseve"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u062e\u06cc\u0641\u062a\u0633\u0641\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Verh\u2019ivtseve"
     ],
     "name:fra_x_preferred":[
         "Verkhivtseve"
@@ -74,8 +95,20 @@
     "name:nno_x_preferred":[
         "Verkhivtseve"
     ],
+    "name:nob_x_preferred":[
+        "Verkhivtseve"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043e\u0432\u0446\u0435\u0432\u043e"
+    ],
     "name:pol_x_preferred":[
         "Werchiwcewo"
+    ],
+    "name:pol_x_variant":[
+        "Werchiwcewe"
+    ],
+    "name:por_x_preferred":[
+        "Verkhivtseve"
     ],
     "name:ron_x_preferred":[
         "Verhiv\u021beve"
@@ -89,6 +122,9 @@
     "name:tat_x_preferred":[
         "\u0412\u0435\u0440\u0445\u0438\u0432\u0441\u0435\u0432\u0435"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e27\u0e23\u0e4c\u0e04\u0e34\u0e27\u0e15\u0e4c\u0e41\u0e0b\u0e41\u0e27"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u0456\u0432\u0446\u0435\u0432\u0435"
     ],
@@ -98,11 +134,17 @@
     "name:und_x_variant":[
         "Verkovtsevo"
     ],
+    "name:uzb_x_preferred":[
+        "Verhivtseve"
+    ],
     "name:vie_x_preferred":[
         "Verkhivtseve"
     ],
     "name:zho_x_preferred":[
         "\u97cb\u723e\u970d\u592b\u91c7\u6c83"
+    ],
+    "name:zho_x_variant":[
+        "\u97e6\u5c14\u5e0c\u592b\u91c7\u97e6"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -154,7 +196,7 @@
         }
     ],
     "wof:id":101867863,
-    "wof:lastmodified":1582349325,
+    "wof:lastmodified":1690876622,
     "wof:name":"\u0412\u0435\u0440\u0445\u0456\u0432\u0446\u0435\u0432\u0435",
     "wof:parent_id":102088525,
     "wof:placetype":"locality",

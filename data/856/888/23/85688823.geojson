@@ -77,6 +77,12 @@
     "name:ces_x_preferred":[
         "Ivanofrankivsk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06cc\u06a4\u0627\u0646\u06c6-\u0641\u0631\u0627\u0646\u06a9\u06cc\u06a4\u0633\u06a9 \u0626\u06c6\u0628\u0644\u0627\u0633\u062a"
+    ],
     "name:crh_x_preferred":[
         "\u0130vano-Frankivsk vil\u00e2yeti"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03b2\u03ac\u03bd\u03bf-\u03a6\u03c1\u03b1\u03bd\u03ba\u03af\u03b2\u03c3\u03ba \u039f\u03bc\u03c0\u03bb\u03ac\u03c3\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u038c\u03bc\u03c0\u03bb\u03b1\u03c3\u03c4 \u0399\u03b2\u03ac\u03bd\u03bf-\u03a6\u03c1\u03b1\u03bd\u03ba\u03af\u03b2\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Ivano-Frankivs'k"
@@ -115,10 +124,14 @@
         "Oblast d'Ivano-Frankivsk"
     ],
     "name:fra_x_variant":[
-        "Ivano-Frankivsk"
+        "Ivano-Frankivsk",
+        "oblast d'Ivano-Frankivsk"
     ],
     "name:frr_x_preferred":[
         "Iwano-Frankiwsjk"
+    ],
+    "name:gla_x_preferred":[
+        "Ivano-Frankivska Oblast"
     ],
     "name:glv_x_preferred":[
         "Queiggey Ivano-Frankivsk"
@@ -133,7 +146,8 @@
         "\u05d0\u05d9\u05d5\u05d5\u05e0\u05d5-\u05e4\u05e8\u05e0\u05e7\u05d9\u05d1\u05e1\u05e7"
     ],
     "name:heb_x_variant":[
-        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d9\u05d5\u05d5\u05e0\u05d5-\u05e4\u05e8\u05e0\u05e7\u05d9\u05d1\u05e1\u05e7"
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d9\u05d5\u05d5\u05e0\u05d5-\u05e4\u05e8\u05e0\u05e7\u05d9\u05d1\u05e1\u05e7",
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d9\u05d5\u05d5\u05d0\u05e0\u05d5-\u05e4\u05e8\u05e0\u05e7\u05d9\u05d1\u05e1\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0935\u0948\u0928\u094b-\u092b\u094d\u0930\u0948\u0902\u0915\u093f\u0935\u094d\u0938\u094d\u0915 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u091f"
@@ -150,8 +164,14 @@
     "name:hye_x_preferred":[
         "\u053b\u057e\u0561\u0576\u0578-\u0556\u0580\u0561\u0576\u056f\u0578\u057e\u057d\u056f\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Ivano-Frankivsk"
+    ],
     "name:ind_x_preferred":[
         "Oblast Ivano-Frankivsk"
+    ],
+    "name:isl_x_preferred":[
+        "\u00cdvano-Frank\u00edvskfylki"
     ],
     "name:ita_x_preferred":[
         "Oblast' di Ivano-Frankivs'k"
@@ -165,11 +185,17 @@
     "name:kat_x_preferred":[
         "\u10d8\u10d5\u10d0\u10dc\u10dd-\u10e4\u10e0\u10d0\u10dc\u10d9\u10dd\u10d5\u10e1\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
+    "name:kir_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a \u043e\u0431\u043b\u0443\u0441\u0443"
+    ],
     "name:kor_x_preferred":[
         "\uc774\ubc14\ub178\ud504\ub780\ud0a4\uc6b0\uc2a4\ud06c \uc8fc"
     ],
     "name:kor_x_variant":[
         "\uc774\ubc14\ub178\ud504\ub780\ud0a4\uc6b0\uc2a4\ud06c\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Ivano-Frankivskensis"
     ],
     "name:lav_x_preferred":[
         "Ivanofrankivskas apgabals"
@@ -183,14 +209,26 @@
     "name:mar_x_preferred":[
         "\u0907\u0935\u094d\u0939\u093e\u0928\u094b-\u092b\u094d\u0930\u093e\u0902\u0915\u093f\u0935\u094d\u0939\u094d\u0938\u094d\u0915 \u0913\u092c\u094d\u0932\u093e\u0938\u094d\u0924"
     ],
+    "name:mdf_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0438\u0432\u0441\u044c\u043a\u043e\u043d\u044c \u0430\u0439\u043c\u0430\u043a"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a \u0432\u0435\u043b"
+    ],
     "name:mkd_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:mkd_x_variant":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0444\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0430 \u041e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a \u043c\u0443\u0436"
     ],
     "name:msa_x_preferred":[
         "Ivano-Frankivsk Oblast"
+    ],
+    "name:myv_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0438\u0432\u0441\u043a\u043e\u0435\u043d\u044c \u0451\u043d\u043a\u0441"
     ],
     "name:nan_x_preferred":[
         "Ivano-Frankivsk s\u00e9ng"
@@ -228,6 +266,9 @@
     "name:ron_x_preferred":[
         "Regiunea Ivano-Frankivsk"
     ],
+    "name:ron_x_variant":[
+        "regiunea Ivano-Frankivsk"
+    ],
     "name:rue_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
@@ -245,6 +286,9 @@
     ],
     "name:slk_x_preferred":[
         "Ivanofrankivsk\u00e1 oblas\u0165"
+    ],
+    "name:smn_x_preferred":[
+        "Ivano-Frankivsk ku\u00e1vlu"
     ],
     "name:spa_x_preferred":[
         "\u00d3blast de Ivano-Frankivsk"
@@ -266,6 +310,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c35\u0c3e\u0c28\u0c4b-\u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c3f\u0c35\u0c38\u0c4d\u0c15\u0c4d \u0c13\u0c2c\u0c4d\u0c32\u0c3e\u0c38\u0c4d\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0418\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e35\u0e27\u0e32\u0e42\u0e19\u0e1f\u0e23\u0e31\u0e07\u0e04\u0e35\u0e1f\u0e2a\u0e04\u0e4c"
@@ -301,8 +348,17 @@
     "name:war_x_preferred":[
         "Ivano-Frankivsk Oblast"
     ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u4e07\u8bfa-\u5f17\u5170\u79d1\u592b\u65af\u514b\u5dde"
+    ],
     "name:xmf_x_preferred":[
         "\u10d8\u10d5\u10d0\u10dc\u10dd-\u10e4\u10e0\u10d0\u10dc\u10d9\u10dd\u10d5\u10e1\u10d9\u10d8\u10e8 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05d9\u05d5\u05d5\u05d0\u05e0\u05d0-\u05e4\u05e8\u05d0\u05e0\u05e7\u05d9\u05d5\u05d5\u05e1\u05e7 \u05d2\u05d5\u05d1\u05e2\u05e8\u05e0\u05d9\u05e2"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u842c\u8afe-\u5f17\u862d\u79d1\u592b\u65af\u514b\u5dde"
     ],
     "name:zho_min_nan_x_preferred":[
         "Ivano-Frankivsk s\u00e9ng"
@@ -435,7 +491,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1614896267,
+    "wof:lastmodified":1690876205,
     "wof:name":"Ivano-Frankivs'k",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

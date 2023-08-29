@@ -26,6 +26,12 @@
     "name:bel_x_variant":[
         "\u0421\u0442\u0430\u0440\u044b \u0427\u0430\u0440\u0442\u0430\u0440\u044b\u0439\u0441\u043a"
     ],
+    "name:ces_x_preferred":[
+        "Staryj \u010cartoryjsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0427\u0435\u0440\u0442\u043e\u0440\u0438\u0439\u0441\u043a"
+    ],
     "name:cym_x_preferred":[
         "Staryi Chortoryisk"
     ],
@@ -37,6 +43,12 @@
     ],
     "name:eng_x_preferred":[
         "Staryi Chortoryisk"
+    ],
+    "name:eng_x_variant":[
+        "Chartoryisk"
+    ],
+    "name:fin_x_preferred":[
+        "T\u0161\u0430rt\u043eryisk"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d0\u05e8\u05d9 \u05e6'\u05d5\u05e8\u05d8\u05d5\u05e8\u05d9\u05e1\u05e7"
@@ -53,8 +65,20 @@
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10d0\u10e0\u10d8 \u10e9\u10d0\u10e0\u10e2\u10dd\u10e0\u10d8\u10e1\u10d9\u10d8"
     ],
+    "name:lat_x_preferred":[
+        "Czartoriscum"
+    ],
     "name:lav_x_preferred":[
         "Starij\u010dortorijska"
+    ],
+    "name:nan_x_preferred":[
+        "Staryi Chortoryisk"
+    ],
+    "name:nno_x_preferred":[
+        "Tsjartoryjsk"
+    ],
+    "name:nob_x_preferred":[
+        "Tsjartoryjsk"
     ],
     "name:pol_x_preferred":[
         "Czartorysk"
@@ -65,11 +89,21 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0427\u0430\u0440\u0442\u043e\u0440\u0438\u0439\u0441\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0427\u0430\u0440\u0442\u043e\u0440\u0438\u0439\u0441\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cartorijsk"
+    ],
+    "name:swe_x_preferred":[
+        "Staryj Tjortoryjsk"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u0427\u043e\u0440\u0442\u043e\u0440\u0438\u0439\u0441\u044c\u043a"
     ],
     "name:ukr_x_variant":[
-        "Staryy Chortoryys\u2019k"
+        "Staryy Chortoryys\u2019k",
+        "\u0427\u0430\u0440\u0442\u043e\u0440\u0438\u0439\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Chartoriysk"
@@ -127,7 +161,7 @@
         }
     ],
     "wof:id":101864341,
-    "wof:lastmodified":1582349368,
+    "wof:lastmodified":1690876837,
     "wof:name":"\u0421\u0442\u0430\u0440\u0438\u0439 \u0427\u043e\u0440\u0442\u043e\u0440\u0438\u0439\u0441\u044c\u043a",
     "wof:parent_id":102088807,
     "wof:placetype":"locality",

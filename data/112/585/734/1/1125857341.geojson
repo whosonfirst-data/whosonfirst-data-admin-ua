@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0431\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Shabo"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0431\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "\u015eabo"
     ],
     "name:deu_x_preferred":[
         "Schabo"
@@ -31,11 +40,29 @@
     "name:eng_x_preferred":[
         "Shabo"
     ],
+    "name:fin_x_preferred":[
+        "\u0160\u0430b\u043e"
+    ],
     "name:fra_x_preferred":[
         "Chabo"
     ],
+    "name:gsw_x_preferred":[
+        "Schabo"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160abo"
+    ],
     "name:lav_x_preferred":[
         "\u0160abo"
+    ],
+    "name:nan_x_preferred":[
+        "Shabo"
+    ],
+    "name:nno_x_preferred":[
+        "Sjabo"
+    ],
+    "name:nob_x_preferred":[
+        "Sjabo"
     ],
     "name:pol_x_preferred":[
         "Szabo"
@@ -97,7 +124,7 @@
         }
     ],
     "wof:id":1125857341,
-    "wof:lastmodified":1566593954,
+    "wof:lastmodified":1690876959,
     "wof:name":"Shabo",
     "wof:parent_id":102087951,
     "wof:placetype":"locality",

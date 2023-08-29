@@ -24,11 +24,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0634\u062a\u0634\u064a\u0641"
     ],
+    "name:aze_x_preferred":[
+        "Bor\u015f\u00e7iv"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0448\u0447\u044b\u045e"
     ],
     "name:bel_x_variant":[
         "\u0411\u0430\u0440\u0448\u0447\u043e\u045e"
+    ],
+    "name:cat_x_preferred":[
+        "Borsxiv"
     ],
     "name:ceb_x_preferred":[
         "Borshchiv"
@@ -36,11 +42,20 @@
     "name:ces_x_preferred":[
         "Bor\u0161\u010div"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0440\u0449\u0435\u0432"
+    ],
     "name:crh_x_preferred":[
         "Bor\u015f\u00e7iv"
     ],
+    "name:dan_x_preferred":[
+        "Borsjtjiv"
+    ],
     "name:deu_x_preferred":[
         "Borschtschiw"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03c3\u03c4\u03c3\u03af\u03b2"
     ],
     "name:eng_x_preferred":[
         "Borschiv"
@@ -48,8 +63,17 @@
     "name:eng_x_variant":[
         "Borshchiv"
     ],
+    "name:epo_x_preferred":[
+        "Bor\u015d\u0109iv"
+    ],
+    "name:est_x_preferred":[
+        "Bor\u0161t\u0161iv"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0631\u0634\u0686\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Bor\u0161t\u0161iv"
     ],
     "name:fra_x_preferred":[
         "Borchtchiv"
@@ -60,11 +84,17 @@
     "name:hsb_x_preferred":[
         "Bor\u0161\u0107iw"
     ],
+    "name:hun_x_preferred":[
+        "Borscsov"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0580\u0577\u0579\u0575\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Bor\u0161\u010div"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b7\u30e5\u30c1\u30d5"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10e0\u10e8\u10e9\u10dd\u10d5\u10d8"
@@ -75,11 +105,23 @@
     "name:lit_x_preferred":[
         "Bor\u0161\u010divas"
     ],
+    "name:nld_x_preferred":[
+        "Borsjtsjiv"
+    ],
     "name:nno_x_preferred":[
         "Borsjtsjiv"
     ],
+    "name:nob_x_preferred":[
+        "Borsjtsjiv"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u0440\u0449\u0451\u0432"
+    ],
     "name:pol_x_preferred":[
         "Borszcz\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Borshchiv"
     ],
     "name:ron_x_preferred":[
         "Bor\u0219civ"
@@ -93,8 +135,20 @@
     "name:slv_x_preferred":[
         "Borschiv"
     ],
+    "name:spa_x_preferred":[
+        "Borshchiv"
+    ],
+    "name:swe_x_preferred":[
+        "Borsjtjiv"
+    ],
+    "name:szl_x_preferred":[
+        "Borszcziw"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u043e\u0440\u0447\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e23\u0e4c\u0e0a\u0e0a\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0449\u0456\u0432"
@@ -102,8 +156,14 @@
     "name:und_x_variant":[
         "Berchev"
     ],
+    "name:uzb_x_preferred":[
+        "Borshiv"
+    ],
     "name:vie_x_preferred":[
         "Borschiv"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05b8\u05e8\u05e9\u05d8\u05e9\u05e2\u05d5\u05d5"
     ],
     "name:zho_x_preferred":[
         "\u535a\u723e\u66c9\u592b"
@@ -159,7 +219,7 @@
         }
     ],
     "wof:id":101861601,
-    "wof:lastmodified":1582349274,
+    "wof:lastmodified":1690876411,
     "wof:name":"\u0411\u043e\u0440\u0449\u0456\u0432",
     "wof:parent_id":102088181,
     "wof:placetype":"locality",

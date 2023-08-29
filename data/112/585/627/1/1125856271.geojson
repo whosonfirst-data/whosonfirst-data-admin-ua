@@ -28,14 +28,23 @@
     "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0432\u0430\u043c\u0430\u0439\u0441\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u044d\u0440\u0432\u0430\u043c\u0430\u0439\u0441\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Pervomaisk"
     ],
     "name:ceb_x_preferred":[
         "Pervomays'k"
     ],
     "name:ces_x_preferred":[
         "Pervomajsk"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
     ],
     "name:crh_x_preferred":[
         "Pervomaysk"
@@ -51,6 +60,9 @@
     ],
     "name:eng_x_variant":[
         "Pervomaisk"
+    ],
+    "name:epo_x_preferred":[
+        "Pervomajsk"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0648\u0648\u0645\u0627\u06cc\u0633\u06a9\u060c \u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u06a9\u0648\u0644\u0627\u0626\u06cc\u0641"
@@ -79,8 +91,14 @@
     "name:ita_x_preferred":[
         "Pervomajs'k"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30eb\u30dd\u30de\u30a4\u30b9\u30ad\u30fc"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e0\u10d5\u10dd\u10db\u10d0\u10d8\u10e1\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub974\ubcf4\ub9c8\uc774\uc2a4\ud06c"
     ],
     "name:lav_x_preferred":[
         "Pervomajska"
@@ -91,8 +109,17 @@
     "name:nno_x_preferred":[
         "Pervomajsk i Mykolajiv oblast"
     ],
+    "name:nob_x_preferred":[
+        "Pervomajsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Pierwomajsk"
+    ],
+    "name:por_x_preferred":[
+        "Pervomaisk"
     ],
     "name:ron_x_preferred":[
         "Pervomaisk"
@@ -103,11 +130,20 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
     ],
+    "name:slv_x_preferred":[
+        "Pervomajsk"
+    ],
+    "name:spa_x_preferred":[
+        "Pervomaisk"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0458\u0441\u043a"
     ],
     "name:tat_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1b\u0e23\u0e4c\u0e27\u0e2d\u0e21\u0e31\u0e22\u0e2a\u0e01\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a"
@@ -115,11 +151,17 @@
     "name:und_x_variant":[
         "Perwomaisk"
     ],
+    "name:uzb_x_preferred":[
+        "Pervomaysk"
+    ],
     "name:vie_x_preferred":[
         "Pervomaisk"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u723e\u6c83\u9081\u65af\u57fa"
+    ],
+    "name:zho_x_variant":[
+        "\u4e94\u4e00\u57ce"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -160,7 +202,7 @@
         }
     ],
     "wof:id":1125856271,
-    "wof:lastmodified":1566593949,
+    "wof:lastmodified":1690876952,
     "wof:name":"Pervomays\u2019k",
     "wof:parent_id":1108815773,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043f\u0447\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Ropcha"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u043f\u0447\u0430"
     ],
     "name:deu_x_preferred":[
         "Roptscha"
@@ -31,8 +37,20 @@
     "name:eng_x_preferred":[
         "Ropcha"
     ],
+    "name:fin_x_preferred":[
+        "R\u043ept\u0161\u0430"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u057a\u0579\u0561"
+    ],
+    "name:nan_x_preferred":[
+        "Ropcha"
+    ],
+    "name:nno_x_preferred":[
+        "Roptsja"
+    ],
+    "name:nob_x_preferred":[
+        "Roptsja"
     ],
     "name:ron_x_preferred":[
         "Ropcea"
@@ -45,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Ropche"
+    ],
+    "name:uzb_x_preferred":[
+        "Ropcha"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -85,7 +106,7 @@
         }
     ],
     "wof:id":1125787361,
-    "wof:lastmodified":1566593960,
+    "wof:lastmodified":1690876967,
     "wof:name":"Ropcha",
     "wof:parent_id":102088037,
     "wof:placetype":"locality",

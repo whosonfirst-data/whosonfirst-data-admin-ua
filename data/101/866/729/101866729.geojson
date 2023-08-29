@@ -36,6 +36,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0433\u0430\u043d\u0435\u0446"
     ],
+    "name:cat_x_preferred":[
+        "M\u00e0rhanets"
+    ],
     "name:ceb_x_preferred":[
         "Marhanets'"
     ],
@@ -45,14 +48,23 @@
     "name:crh_x_preferred":[
         "Marganets"
     ],
+    "name:dan_x_preferred":[
+        "Marhanets"
+    ],
     "name:deu_x_preferred":[
         "Marhanez"
     ],
     "name:eng_x_preferred":[
         "Marhanets"
     ],
+    "name:epo_x_preferred":[
+        "Marhanec"
+    ],
     "name:est_x_preferred":[
         "Marganets"
+    ],
+    "name:eus_x_preferred":[
+        "Marhanets"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u0647\u0627\u0646\u062a\u0633"
@@ -99,8 +111,14 @@
     "name:nor_x_preferred":[
         "Marhanets"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0440\u0433\u0430\u043d\u0435\u0446"
+    ],
     "name:pol_x_preferred":[
         "Marganiec"
+    ],
+    "name:por_x_preferred":[
+        "Marhanets"
     ],
     "name:ron_x_preferred":[
         "Marhane\u021b"
@@ -129,11 +147,17 @@
     "name:und_x_variant":[
         "Komintern"
     ],
+    "name:uzb_x_preferred":[
+        "Marganets shahri"
+    ],
     "name:vie_x_preferred":[
         "Marhanets"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u723e\u52a0\u6d85\u8328"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5c14\u54c8\u5185\u8328"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -185,7 +209,7 @@
         }
     ],
     "wof:id":101866729,
-    "wof:lastmodified":1582349264,
+    "wof:lastmodified":1690876380,
     "wof:name":"\u041c\u0430\u0440\u0433\u0430\u043d\u0435\u0446\u044c",
     "wof:parent_id":1108730751,
     "wof:placetype":"locality",

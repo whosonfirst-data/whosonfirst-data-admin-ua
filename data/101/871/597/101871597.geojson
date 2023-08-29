@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0627\u0641\u0648\u062a\u064a\u062a\u0634"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0644\u0627\u0648\u0648\u062a\u06cc\u0686"
     ],
@@ -36,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447"
     ],
+    "name:cat_x_preferred":[
+        "Slav\u00fatitx"
+    ],
     "name:ceb_x_preferred":[
         "Slavutych"
     ],
@@ -44,6 +50,9 @@
     ],
     "name:crh_x_preferred":[
         "Slavut\u0131\u00e7"
+    ],
+    "name:dan_x_preferred":[
+        "Slavutytj"
     ],
     "name:deu_x_preferred":[
         "Slawutytsch"
@@ -54,8 +63,14 @@
     "name:eng_x_preferred":[
         "Slavutych"
     ],
+    "name:epo_x_preferred":[
+        "Slavuti\u0109"
+    ],
     "name:est_x_preferred":[
         "Slavut\u00f5t\u0161"
+    ],
+    "name:eus_x_preferred":[
+        "Slavutytx"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0644\u0627\u0648\u0648\u062a\u06cc\u0686"
@@ -68,6 +83,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d0\u05d1\u05d5\u05d8\u05d9\u05e5'"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05dc\u05d1\u05d5\u05d8\u05d9\u05e5'"
     ],
     "name:hsb_x_preferred":[
         "Slawuty\u010d"
@@ -90,11 +108,23 @@
     "name:kat_x_preferred":[
         "\u10e1\u10da\u10d0\u10d5\u10e3\u10e2\u10d8\u10e9\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uc2ac\ub77c\ubd80\ud2f0\uce58"
+    ],
     "name:lav_x_preferred":[
         "Slavuti\u010da"
     ],
     "name:lit_x_preferred":[
         "Slavuty\u010dius"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0443\u0442\u044b\u0447"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447"
     ],
     "name:nld_x_preferred":[
         "Slavoetytsj"
@@ -107,6 +137,9 @@
     ],
     "name:nor_x_preferred":[
         "Slavutytsj"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447"
     ],
     "name:pol_x_preferred":[
         "S\u0142awutycz"
@@ -126,6 +159,9 @@
     "name:sah_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447"
     ],
+    "name:slv_x_preferred":[
+        "Slavuti\u010d"
+    ],
     "name:spa_x_preferred":[
         "Slavutich"
     ],
@@ -141,17 +177,26 @@
     "name:tat_x_variant":[
         "\u0421\u043b\u0430\u0432\u0443\u0442\u044b\u0447"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e25\u0e32\u0e27\u0e39\u0e15\u0e36\u0e0a"
+    ],
     "name:tur_x_preferred":[
         "Slavut\u0131\u00e7"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447"
     ],
+    "name:uzb_x_preferred":[
+        "Slavutych"
+    ],
     "name:vie_x_preferred":[
         "Slavutych"
     ],
     "name:zho_x_preferred":[
         "\u65af\u62c9\u592b\u8482\u5947"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u62c9\u6b66\u7279\u5947"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -206,7 +251,7 @@
         }
     ],
     "wof:id":101871597,
-    "wof:lastmodified":1582349341,
+    "wof:lastmodified":1690876721,
     "wof:name":"\u0421\u043b\u0430\u0432\u0443\u0442\u0438\u0447",
     "wof:parent_id":1108730813,
     "wof:placetype":"locality",

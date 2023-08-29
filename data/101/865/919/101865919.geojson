@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0442\u0430\u0440\u043e\u043c\u0441\u043a\u044d"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0442\u0430\u0440\u043e\u043c\u0441\u043a\u0438"
+    ],
     "name:deu_x_preferred":[
         "Nowotaromske"
     ],
@@ -29,6 +35,12 @@
     "name:lav_x_preferred":[
         "Novotaromske"
     ],
+    "name:nno_x_preferred":[
+        "Novotaromske"
+    ],
+    "name:nob_x_preferred":[
+        "Novotaromske"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0430\u0440\u043e\u043c\u0441\u043a\u043e\u0435"
     ],
@@ -36,7 +48,8 @@
         "Ordzhonikidze"
     ],
     "name:ukr_x_variant":[
-        "\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435"
+        "\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435",
+        "\u041d\u043e\u0432\u043e\u0442\u0430\u0440\u043e\u043c\u0441\u044c\u043a\u0435"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -87,7 +100,7 @@
         }
     ],
     "wof:id":101865919,
-    "wof:lastmodified":1582349364,
+    "wof:lastmodified":1690876819,
     "wof:name":"\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435",
     "wof:parent_id":1108815737,
     "wof:placetype":"locality",

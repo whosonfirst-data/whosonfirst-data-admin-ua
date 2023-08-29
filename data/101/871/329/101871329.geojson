@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0628\u064a\u0627\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0628\u064a\u0627\u062a"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0631\u06cc\u067e\u06cc\u0627\u062a"
     ],
@@ -36,6 +39,12 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0440\u044b\u043f\u044f\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0440\u044b\u043f\u2019\u044f\u0446\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b0\u09bf\u09aa\u09bf\u09af\u09bc\u09be\u09a4"
+    ],
     "name:bos_x_preferred":[
         "Pripjat"
     ],
@@ -47,6 +56,9 @@
     ],
     "name:ces_x_preferred":[
         "Pripja\u0165"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u044f\u0442\u044c"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0631\u06cc\u067e\u06cc\u0627\u062a"
@@ -103,6 +115,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d9\u05e4\u05d9\u05d0\u05d8"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u0940\u092a\u094d\u092f\u0924"
+    ],
     "name:hrv_x_preferred":[
         "Pripjat"
     ],
@@ -125,7 +140,8 @@
         "Prypjat"
     ],
     "name:ita_x_variant":[
-        "Pryp'jat'"
+        "Pryp'jat'",
+        "Pryp\"jat'"
     ],
     "name:jav_x_preferred":[
         "Pripyat"
@@ -144,6 +160,12 @@
     ],
     "name:lit_x_preferred":[
         "Pripet\u0117"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4d\u0d30\u0d3f\u0d2a\u0d4d\u0d2f\u0d3e\u0d31\u0d4d\u0d31\u0d4d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u044f\u0442\u044c"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0438\u043f\u0458\u0430\u0442"
@@ -193,6 +215,9 @@
     "name:ron_x_variant":[
         "Pr\u00e2pia\u021bi"
     ],
+    "name:rue_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u044f\u0442\u044c"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043f\u044f\u0442\u044c"
     ],
@@ -214,14 +239,23 @@
     "name:spa_x_preferred":[
         "Pr\u00edpiat"
     ],
+    "name:sqi_x_preferred":[
+        "Pripyat"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u043f\u0458\u0430\u0442"
     ],
     "name:swe_x_preferred":[
         "Pripjat"
     ],
+    "name:swe_x_variant":[
+        "Prypjat"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0440\u044b\u043f\u044c\u044f\u0442\u044c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e37\u0e2d\u0e1b\u0e34\u0e22\u0e31\u0e08"
     ],
     "name:tur_x_preferred":[
         "Pripyat"
@@ -308,7 +342,7 @@
         }
     ],
     "wof:id":101871329,
-    "wof:lastmodified":1582349345,
+    "wof:lastmodified":1690876735,
     "wof:name":"\u041f\u0440\u0438\u043f'\u044f\u0442\u044c",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

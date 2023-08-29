@@ -26,8 +26,14 @@
     "name:ast_x_preferred":[
         "Rivne"
     ],
+    "name:avk_x_preferred":[
+        "Rivne"
+    ],
     "name:aze_x_preferred":[
         "Rivne"
+    ],
+    "name:aze_x_variant":[
+        "Rovno"
     ],
     "name:bak_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
@@ -92,6 +98,9 @@
     "name:fra_x_preferred":[
         "Rivne"
     ],
+    "name:gla_x_preferred":[
+        "Rivne"
+    ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0ab5\u0acd\u0aa8\u0ac7"
     ],
@@ -112,6 +121,12 @@
     ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u057e\u0576\u0578"
+    ],
+    "name:ido_x_preferred":[
+        "Rivne"
+    ],
+    "name:ile_x_preferred":[
+        "Rivne"
     ],
     "name:ind_x_preferred":[
         "Rivne"
@@ -146,11 +161,26 @@
     "name:lit_x_preferred":[
         "Rivn\u0117"
     ],
+    "name:lld_x_preferred":[
+        "Rivne"
+    ],
+    "name:lmo_x_preferred":[
+        "Rivne"
+    ],
     "name:mar_x_preferred":[
         "\u0930\u093f\u0935\u094d\u0928\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u0438\u0432\u043d\u044d"
+    ],
     "name:mhr_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0432\u043d\u043e"
+    ],
+    "name:mlt_x_preferred":[
+        "Rivne"
     ],
     "name:mon_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
@@ -161,6 +191,9 @@
     "name:msa_x_preferred":[
         "Rivne"
     ],
+    "name:myv_x_preferred":[
+        "\u0420\u0438\u0432\u043d\u044d"
+    ],
     "name:nld_x_preferred":[
         "Rivne"
     ],
@@ -169,6 +202,9 @@
     ],
     "name:nob_x_preferred":[
         "Rivne"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u043e\u0432\u043d\u043e"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0648\u0646"
@@ -197,14 +233,23 @@
     "name:sin_x_preferred":[
         "\u0dbb\u0dba\u0dd2\u0dc0\u0dca\u0db1\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Rivne"
+    ],
     "name:slv_x_preferred":[
         "Rivne"
+    ],
+    "name:slv_x_variant":[
+        "Rovno"
     ],
     "name:spa_x_preferred":[
         "Rivne"
     ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Rivne"
     ],
     "name:swe_x_preferred":[
         "Rivne"
@@ -230,6 +275,9 @@
     "name:tyv_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e"
     ],
+    "name:udm_x_preferred":[
+        "\u0420\u043e\u0432\u043d\u043e"
+    ],
     "name:ukr_x_preferred":[
         "Rivne"
     ],
@@ -251,8 +299,17 @@
     "name:war_x_preferred":[
         "Rivne"
     ],
+    "name:wuu_x_preferred":[
+        "\u7f57\u592b\u8bfa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10dd\u10d5\u10dc\u10dd"
+    ],
     "name:yid_x_preferred":[
         "\u05e8\u05d0\u05d5\u05d5\u05e0\u05e2"
+    ],
+    "name:yue_x_preferred":[
+        "\u7f85\u592b\u8afe"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u592b\u8afe"
@@ -281,8 +338,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102087949,
-        85688877
+        85688877,
+        102087949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -306,7 +363,7 @@
         }
     ],
     "wof:id":101858567,
-    "wof:lastmodified":1588710630,
+    "wof:lastmodified":1690876561,
     "wof:name":"\u0420\u0456\u0432\u043d\u0435",
     "wof:parent_id":102087949,
     "wof:placetype":"locality",

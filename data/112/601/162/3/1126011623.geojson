@@ -25,11 +25,20 @@
     "name:bel_x_preferred":[
         "\u0420\u0436\u044b\u0448\u0447\u044b\u045e"
     ],
+    "name:cat_x_preferred":[
+        "Rj\u00edsxiv"
+    ],
     "name:ceb_x_preferred":[
         "Rzhyshchiv"
     ],
     "name:ces_x_preferred":[
         "R\u017ei\u0161iv"
+    ],
+    "name:ces_x_variant":[
+        "R\u017ey\u0161\u010div"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0436\u0438\u0449\u0435\u0432"
     ],
     "name:crh_x_preferred":[
         "Rj\u0131\u015f\u00e7iv"
@@ -37,11 +46,20 @@
     "name:cym_x_preferred":[
         "Rzhyshchiv"
     ],
+    "name:dan_x_preferred":[
+        "Rzjysjtjiv"
+    ],
     "name:deu_x_preferred":[
         "Rschyschtschiw"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b6\u03af\u03c3\u03c4\u03c3\u03b9\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Rzhyshchiv"
+    ],
+    "name:est_x_preferred":[
+        "R\u017e\u00f5\u0161t\u0161iv"
     ],
     "name:fas_x_preferred":[
         "\u0670\u0631\u0698\u06cc\u0634\u0686\u06cc\u0641"
@@ -58,6 +76,9 @@
     "name:hsb_x_preferred":[
         "R\u017ey\u0161\u0107iw"
     ],
+    "name:hun_x_preferred":[
+        "Rzsiscsiv"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u056a\u056b\u0577\u0579\u0587"
     ],
@@ -70,6 +91,9 @@
     "name:lav_x_preferred":[
         "R\u017ei\u0161\u010diva"
     ],
+    "name:mhr_x_preferred":[
+        "\u0420\u0436\u0438\u0449\u0435\u0432"
+    ],
     "name:nld_x_preferred":[
         "Rzhyshchiv"
     ],
@@ -79,8 +103,14 @@
     "name:nob_x_preferred":[
         "Rzjysjtsjiv"
     ],
+    "name:oss_x_preferred":[
+        "\u0420\u0436\u0438\u0449\u0435\u0432"
+    ],
     "name:pol_x_preferred":[
         "Rzyszcz\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Rzhyshchiv"
     ],
     "name:ron_x_preferred":[
         "Rj\u00ee\u0219civ"
@@ -94,8 +124,14 @@
     "name:sah_x_preferred":[
         "\u0420\u0436\u0438\u0449\u0435\u0432"
     ],
+    "name:swe_x_preferred":[
+        "Rzjysjtsiv"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u0436\u044b\u0447\u0447\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e0c\u0e36\u0e0a\u0e0a\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0436\u0438\u0449\u0456\u0432"
@@ -103,8 +139,14 @@
     "name:und_x_variant":[
         "Rzhishch\u00ebv"
     ],
+    "name:uzb_x_preferred":[
+        "Rjishchiv"
+    ],
     "name:vie_x_preferred":[
         "Rzhyschiv"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u65e5\u5e0c\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -159,7 +201,7 @@
         }
     ],
     "wof:id":1126011623,
-    "wof:lastmodified":1566593933,
+    "wof:lastmodified":1690876930,
     "wof:name":"Rzhishchev",
     "wof:parent_id":1108730815,
     "wof:placetype":"locality",

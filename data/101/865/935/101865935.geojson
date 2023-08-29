@@ -21,14 +21,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0427\u0430\u043f\u043b\u044b\u043d\u043a\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Txaplinka"
+    ],
     "name:ceb_x_preferred":[
         "Chaplynka"
+    ],
+    "name:ces_x_preferred":[
+        "\u010caplynka"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "\u00c7apl\u0131nka"
@@ -39,11 +48,26 @@
     "name:eng_x_preferred":[
         "Chaplynka"
     ],
+    "name:est_x_preferred":[
+        "T\u0161apl\u00f5nka"
+    ],
+    "name:fin_x_preferred":[
+        "T\u0161aplynka"
+    ],
     "name:fra_x_preferred":[
         "Chaplynka"
     ],
+    "name:fra_x_variant":[
+        "Tchaplynka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10de\u10da\u10d8\u10dc\u10d9\u10d0"
+    ],
     "name:lav_x_preferred":[
         "\u010caplinka"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u00e6"
     ],
     "name:pol_x_preferred":[
         "Czap\u0142ynka"
@@ -56,6 +80,12 @@
     ],
     "name:sco_x_preferred":[
         "Chaplynka"
+    ],
+    "name:spa_x_preferred":[
+        "Chaplinka"
+    ],
+    "name:swe_x_preferred":[
+        "Tjaplynka"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u0430"
@@ -119,7 +149,7 @@
         }
     ],
     "wof:id":101865935,
-    "wof:lastmodified":1582349361,
+    "wof:lastmodified":1690876800,
     "wof:name":"\u0427\u0430\u043f\u043b\u0438\u043d\u043a\u0430",
     "wof:parent_id":102088009,
     "wof:placetype":"locality",

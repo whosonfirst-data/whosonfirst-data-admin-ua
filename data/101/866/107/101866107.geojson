@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0416\u044d\u0440\u044d\u0431\u043a\u043e\u0432\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0435\u0440\u0435\u0431\u043a\u043e\u0432\u0435"
+    ],
+    "name:che_x_preferred":[
+        "\u0416\u0435\u0440\u0435\u0431\u043a\u043e\u0432\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "Jerebkove"
     ],
     "name:deu_x_preferred":[
         "Scherebkowe"
@@ -29,8 +38,20 @@
     "name:eng_x_preferred":[
         "Zherebkove"
     ],
+    "name:fin_x_preferred":[
+        "\u017d\u0435r\u0435bk\u043ev\u0435"
+    ],
     "name:lav_x_preferred":[
         "\u017derebkove"
+    ],
+    "name:nan_x_preferred":[
+        "Zherebkove"
+    ],
+    "name:nno_x_preferred":[
+        "Zjerebkove"
+    ],
+    "name:nob_x_preferred":[
+        "Zjerebkove"
     ],
     "name:ron_x_preferred":[
         "Jerebkove"
@@ -76,8 +97,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088083,
-        85688877
+        85688877,
+        102088083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":101866107,
-    "wof:lastmodified":1588710628,
+    "wof:lastmodified":1690876362,
     "wof:name":"\u0416\u0435\u0440\u0435\u0431\u043a\u043e\u0432\u0435",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

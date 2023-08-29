@@ -27,14 +27,29 @@
     "name:bel_x_variant":[
         "\u0425\u044b\u0440\u0430\u045e"
     ],
+    "name:cat_x_preferred":[
+        "Khiriv"
+    ],
     "name:ceb_x_preferred":[
         "Khyriv"
+    ],
+    "name:ces_x_preferred":[
+        "Chyriv"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u044b\u0440\u043e\u0432"
     ],
     "name:crh_x_preferred":[
         "H\u0131riv"
     ],
+    "name:dan_x_preferred":[
+        "Khyriv"
+    ],
     "name:deu_x_preferred":[
         "Chyriw"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03af\u03c1\u03b9\u03b2"
     ],
     "name:eng_x_preferred":[
         "Khyriv"
@@ -42,8 +57,14 @@
     "name:est_x_preferred":[
         "H\u00f5riv"
     ],
+    "name:eus_x_preferred":[
+        "Khyriv"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u06cc\u0631\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "H\u2019yriv"
     ],
     "name:fra_x_preferred":[
         "Khyriv"
@@ -53,6 +74,9 @@
     ],
     "name:hsb_x_preferred":[
         "Chyriw"
+    ],
+    "name:hun_x_preferred":[
+        "Hiriv"
     ],
     "name:hye_x_preferred":[
         "\u053d\u056b\u0580\u0578\u057e"
@@ -66,14 +90,23 @@
     "name:lav_x_preferred":[
         "Hiriva"
     ],
+    "name:mhr_x_preferred":[
+        "\u0425\u044b\u0440\u043e\u0432"
+    ],
     "name:nld_x_preferred":[
         "Khyriv"
     ],
     "name:nno_x_preferred":[
         "Khyriv"
     ],
+    "name:nob_x_preferred":[
+        "Khyriv"
+    ],
     "name:pol_x_preferred":[
         "Chyr\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Khyriv"
     ],
     "name:ron_x_preferred":[
         "H\u00eeriv"
@@ -87,14 +120,23 @@
     "name:tat_x_preferred":[
         "\u0425\u044b\u0440\u0438\u0432"
     ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e37\u0e2d\u0e23\u0e34\u0e27"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0438\u0440\u0456\u0432"
+    ],
+    "name:uzb_x_preferred":[
+        "Khyriv"
     ],
     "name:vie_x_preferred":[
         "Khyriv"
     ],
     "name:zho_x_preferred":[
         "\u9ed1\u7f85\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u9ed1\u91cc\u592b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -149,7 +191,7 @@
         }
     ],
     "wof:id":101861197,
-    "wof:lastmodified":1582349271,
+    "wof:lastmodified":1690876402,
     "wof:name":"\u0425\u0438\u0440\u0456\u0432",
     "wof:parent_id":102088273,
     "wof:placetype":"locality",

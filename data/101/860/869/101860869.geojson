@@ -30,6 +30,9 @@
     "name:ces_x_preferred":[
         "Slavske"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0441\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
         "Slavske"
     ],
@@ -43,14 +46,23 @@
         "Slavs'ke",
         "Slavske"
     ],
+    "name:epo_x_preferred":[
+        "Slavske"
+    ],
     "name:fra_x_preferred":[
         "Slavsko"
     ],
     "name:hbs_x_preferred":[
         "slawskoye"
     ],
+    "name:hun_x_preferred":[
+        "Szlavszke"
+    ],
     "name:lit_x_preferred":[
         "Slavsk\u0117"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0441\u043a\u043e"
     ],
     "name:pol_x_preferred":[
         "S\u0142awsko"
@@ -68,10 +80,17 @@
         "\u0421\u043b\u0430\u0432\u0441\u044c\u043a\u0435"
     ],
     "name:ukr_x_variant":[
-        "Slavs\u2019ke"
+        "Slavs\u2019ke",
+        "\u0421\u043b\u0430\u0432\u0441\u044c\u043a\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Slavske"
     ],
     "name:zho_x_preferred":[
         "\u65af\u62c9\u592b\u897f\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u62c9\u592b\u65af\u51ef"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -124,7 +143,7 @@
         }
     ],
     "wof:id":101860869,
-    "wof:lastmodified":1582349306,
+    "wof:lastmodified":1690876536,
     "wof:name":"\u0421\u043b\u0430\u0432\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088167,
     "wof:placetype":"locality",

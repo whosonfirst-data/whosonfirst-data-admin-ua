@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Tern\u00f3pil"
     ],
+    "name:avk_x_preferred":[
+        "Ternopil"
+    ],
     "name:aze_x_preferred":[
         "Ternop\u0131l"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09cd\u09aa\u09be\u09a8\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09c7\u09b0\u09cd\u09a8\u09cb\u09aa\u09bf\u09b2"
     ],
     "name:bre_x_preferred":[
         "Ternopil"
@@ -79,6 +85,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bc\u03bf\u03c0\u03af\u03bb"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b5\u03c1\u03bd\u03cc\u03c0\u03b9\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Ternopil"
     ],
@@ -98,6 +107,9 @@
         "Ternopil"
     ],
     "name:fra_x_preferred":[
+        "Ternopil"
+    ],
+    "name:gla_x_preferred":[
         "Ternopil"
     ],
     "name:guj_x_preferred":[
@@ -145,6 +157,9 @@
     "name:kor_x_preferred":[
         "\ud14c\ub974\ub178\ud544"
     ],
+    "name:kur_x_preferred":[
+        "Ternop\u00eel"
+    ],
     "name:lat_x_preferred":[
         "Tarnopolis"
     ],
@@ -154,17 +169,32 @@
     "name:lit_x_preferred":[
         "Ternopilis"
     ],
+    "name:lld_x_preferred":[
+        "Ternopil"
+    ],
+    "name:lmo_x_preferred":[
+        "Ternopil'"
+    ],
     "name:mar_x_preferred":[
         "\u091f\u0947\u0930\u094b\u0928\u094b\u092a\u093f\u0932"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u044d\u0440\u043d\u043e\u043f\u0438\u043b\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u043e\u043f\u0438\u0459"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
     ],
     "name:msa_x_preferred":[
         "Ternopil"
+    ],
+    "name:myv_x_preferred":[
+        "\u0422\u044d\u0440\u043d\u043e\u043f\u0438\u043b\u044c"
     ],
     "name:nld_x_preferred":[
         "Ternopil"
@@ -177,6 +207,9 @@
     ],
     "name:nor_x_preferred":[
         "Ternopil"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
     ],
     "name:pol_x_preferred":[
         "Tarnopol"
@@ -211,10 +244,19 @@
     "name:spa_x_preferred":[
         "Ternopil"
     ],
+    "name:spa_x_variant":[
+        "Tern\u00f3pil"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u0459"
     ],
+    "name:swa_x_preferred":[
+        "Ternopil"
+    ],
     "name:swe_x_preferred":[
+        "Ternopil"
+    ],
+    "name:szl_x_preferred":[
         "Ternopil"
     ],
     "name:tam_x_preferred":[
@@ -238,6 +280,9 @@
     "name:tyv_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u0438\u043b\u044c"
     ],
+    "name:udm_x_preferred":[
+        "\u0422\u0435\u0440\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c"
     ],
@@ -259,8 +304,17 @@
     "name:war_x_preferred":[
         "Ternopil"
     ],
+    "name:wuu_x_preferred":[
+        "\u6377\u5c14\u8bfa\u6ce2\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d4\u10e0\u10dc\u10dd\u10de\u10dd\u10da\u10d8"
+    ],
     "name:yid_x_preferred":[
         "\u05d8\u05d0\u05e8\u05e0\u05d0\u05e4\u05d0\u05dc"
+    ],
+    "name:yue_x_preferred":[
+        "\u6377\u723e\u8afe\u6ce2\u723e"
     ],
     "name:zho_x_preferred":[
         "\u6377\u5c14\u8bfa\u6ce2\u5c14"
@@ -304,7 +358,7 @@
         }
     ],
     "wof:id":1126002313,
-    "wof:lastmodified":1566593937,
+    "wof:lastmodified":1690876936,
     "wof:name":"Ternopil\u2019",
     "wof:parent_id":1108815797,
     "wof:placetype":"locality",

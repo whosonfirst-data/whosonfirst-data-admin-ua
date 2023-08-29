@@ -39,6 +39,9 @@
     "name:ces_x_preferred":[
         "Popasna"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u043f\u0430\u0441\u043d\u0430"
+    ],
     "name:crh_x_preferred":[
         "Popasna"
     ],
@@ -48,17 +51,32 @@
     "name:eng_x_preferred":[
         "Popasna"
     ],
+    "name:epo_x_preferred":[
+        "Popasna"
+    ],
     "name:est_x_preferred":[
+        "Popasna"
+    ],
+    "name:eus_x_preferred":[
         "Popasna"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u067e\u0627\u0633\u0646\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Popasna"
+    ],
     "name:fra_x_preferred":[
+        "Popasna"
+    ],
+    "name:gla_x_preferred":[
         "Popasna"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e4\u05e1\u05e0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05e4\u05d0\u05e1\u05e0\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Popasna"
@@ -68,6 +86,9 @@
     ],
     "name:ita_x_preferred":[
         "Popasna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30d1\u30b9\u30ca"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10de\u10d0\u10e1\u10dc\u10d0\u10d8\u10d0"
@@ -84,7 +105,13 @@
     "name:nno_x_preferred":[
         "Popasna"
     ],
+    "name:nob_x_preferred":[
+        "Popasna"
+    ],
     "name:pol_x_preferred":[
+        "Popasna"
+    ],
+    "name:por_x_preferred":[
         "Popasna"
     ],
     "name:ron_x_preferred":[
@@ -99,8 +126,14 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u043f\u0430\u0441\u043d\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Popasna"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u043e\u043f\u0430\u0441\u043d\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e2d\u0e1b\u0e31\u0e2a\u0e19\u0e32"
     ],
     "name:udm_x_preferred":[
         "\u041f\u043e\u043f\u0430\u0441\u043d\u0430\u044f"
@@ -108,11 +141,17 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0430\u0441\u043d\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Popasna"
+    ],
     "name:vie_x_preferred":[
         "Popasna"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u5e15\u65af\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u5e15\u65af\u7eb3"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430",
@@ -162,7 +201,7 @@
         }
     ],
     "wof:id":101869877,
-    "wof:lastmodified":1582349299,
+    "wof:lastmodified":1690876510,
     "wof:name":"\u041f\u043e\u043f\u0430\u0441\u043d\u0430",
     "wof:parent_id":102088803,
     "wof:placetype":"locality",

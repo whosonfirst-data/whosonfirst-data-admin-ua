@@ -30,23 +30,44 @@
     "name:bel_x_preferred":[
         "\u041c\u044d\u0440\u044d\u0444\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Merefa"
+    ],
     "name:ceb_x_preferred":[
         "Merefa"
     ],
     "name:ces_x_preferred":[
         "Merefa"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0440\u0435\u0444\u0430"
+    ],
     "name:crh_x_preferred":[
+        "Merefa"
+    ],
+    "name:dan_x_preferred":[
         "Merefa"
     ],
     "name:deu_x_preferred":[
         "Merefa"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c1\u03ad\u03c6\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Merefa"
+    ],
+    "name:epo_x_preferred":[
+        "Merefa"
+    ],
+    "name:est_x_preferred":[
         "Merefa"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u0641\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Merefa"
     ],
     "name:fra_x_preferred":[
         "Merefa"
@@ -63,6 +84,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e0\u10d4\u10e4\u10d0"
     ],
+    "name:lav_x_preferred":[
+        "Merefa"
+    ],
     "name:lit_x_preferred":[
         "Merefa"
     ],
@@ -71,6 +95,12 @@
     ],
     "name:nno_x_preferred":[
         "Merefa"
+    ],
+    "name:nob_x_preferred":[
+        "Merefa"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u0440\u0435\u0444\u00e6"
     ],
     "name:pol_x_preferred":[
         "Merefa"
@@ -87,8 +117,14 @@
     "name:srp_x_preferred":[
         "\u041c\u0435\u0440\u0435\u0444\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Merefa"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0435\u0440\u0435\u0444\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e21\u0e41\u0e23\u0e1f\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0435\u0444\u0430"
@@ -96,11 +132,17 @@
     "name:und_x_variant":[
         "Meref"
     ],
+    "name:uzb_x_preferred":[
+        "Merefa"
+    ],
     "name:vie_x_preferred":[
         "Merefa"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5217\u6cd5"
+    ],
+    "name:zho_x_variant":[
+        "\u6885\u96f7\u6cd5"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -155,7 +197,7 @@
         }
     ],
     "wof:id":101871683,
-    "wof:lastmodified":1582349343,
+    "wof:lastmodified":1690876727,
     "wof:name":"\u041c\u0435\u0440\u0435\u0444\u0430",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

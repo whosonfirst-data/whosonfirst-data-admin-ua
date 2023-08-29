@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:bel_x_preferred":[
+        "\u041f\u044d\u0440\u044d\u0432\u0430\u043b\u044c\u0441\u043a"
+    ],
     "name:cat_x_preferred":[
         "Perevalsk"
     ],
@@ -30,7 +33,13 @@
     "name:ces_x_preferred":[
         "Perevalsk"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u044c\u0441\u043a"
+    ],
     "name:crh_x_preferred":[
+        "Perevalsk"
+    ],
+    "name:dan_x_preferred":[
         "Perevalsk"
     ],
     "name:deu_x_preferred":[
@@ -42,8 +51,14 @@
     "name:eng_x_variant":[
         "Perevalsk"
     ],
+    "name:est_x_preferred":[
+        "Perevalsk"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0648\u0627\u0644\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Perevalsk"
     ],
     "name:fra_x_preferred":[
         "Perevalsk"
@@ -75,11 +90,17 @@
     "name:nno_x_preferred":[
         "Perevalsk"
     ],
+    "name:nob_x_preferred":[
+        "Perevalsk"
+    ],
     "name:pol_x_preferred":[
         "Perewal\u015bk"
     ],
     "name:pol_x_variant":[
         "Perewalsk"
+    ],
+    "name:por_x_preferred":[
+        "Perevalsk"
     ],
     "name:ron_x_preferred":[
         "Perevalsk"
@@ -99,6 +120,12 @@
     "name:tat_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u044c\u0441\u043a"
     ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1b\u0e41\u0e23\u0e27\u0e31\u0e25\u0e2a\u0e01\u0e4c"
+    ],
     "name:udm_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u044c\u0441\u043a"
     ],
@@ -110,6 +137,9 @@
     ],
     "name:und_x_variant":[
         "Pereval\u2019sk"
+    ],
+    "name:uzb_x_preferred":[
+        "Perevalsk"
     ],
     "name:vie_x_preferred":[
         "Perevalsk"
@@ -170,7 +200,7 @@
         }
     ],
     "wof:id":101869529,
-    "wof:lastmodified":1582349297,
+    "wof:lastmodified":1690876501,
     "wof:name":"\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u044c\u0441\u044c\u043a",
     "wof:parent_id":102088715,
     "wof:placetype":"locality",

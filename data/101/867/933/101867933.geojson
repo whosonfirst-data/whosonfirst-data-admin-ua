@@ -27,14 +27,23 @@
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Horodisxe"
+    ],
     "name:ceb_x_preferred":[
         "Horodyshche"
     ],
     "name:ces_x_preferred":[
         "Horody\u0161\u010de"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
+    ],
     "name:crh_x_preferred":[
         "Gorod\u0131\u015f\u00e7e"
+    ],
+    "name:dan_x_preferred":[
+        "Horodysjtje"
     ],
     "name:deu_x_preferred":[
         "Horodyschtsche"
@@ -45,14 +54,29 @@
     "name:eng_x_variant":[
         "Horodysche"
     ],
+    "name:est_x_preferred":[
+        "Horod\u00f5\u0161t\u0161e"
+    ],
+    "name:eus_x_preferred":[
+        "Horodystxe"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0631\u0648\u062f\u06cc\u0634\u0686\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Horody\u0161t\u0161e"
     ],
     "name:fra_x_preferred":[
         "Horodychtche"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e8\u05d5\u05d3\u05d9\u05e9\u05e6'\u05d4"
+    ],
     "name:hsb_x_preferred":[
         "Horody\u0161\u0107e"
+    ],
+    "name:hun_x_preferred":[
+        "Horodiscse"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0578\u0580\u0578\u0564\u056b\u0577\u0579\u0565"
@@ -75,8 +99,14 @@
     "name:nno_x_preferred":[
         "Horodysjtsje"
     ],
+    "name:nob_x_preferred":[
+        "Horodysjtsje"
+    ],
     "name:pol_x_preferred":[
         "Horodyszcze"
+    ],
+    "name:por_x_preferred":[
+        "Horodyshche"
     ],
     "name:ron_x_preferred":[
         "Horod\u00ee\u0219ce"
@@ -86,6 +116,9 @@
     ],
     "name:tat_x_preferred":[
         "\u04ba\u043e\u0440\u043e\u0434\u044b\u0447\u0447\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e2d\u0e23\u0e2d\u0e14\u0e36\u0e0a\u0e41\u0e0a"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
@@ -98,6 +131,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6208\u7f85\u5b63\u8b1d"
+    ],
+    "name:zho_x_variant":[
+        "\u970d\u7f57\u8fea\u8c22"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430",
@@ -150,7 +186,7 @@
         }
     ],
     "wof:id":101867933,
-    "wof:lastmodified":1582349322,
+    "wof:lastmodified":1690876614,
     "wof:name":"\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435",
     "wof:parent_id":102088543,
     "wof:placetype":"locality",

@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0641\u064a\u0644\u064a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0432\u0456\u043b\u043b\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Priv\u00edl\u00b7lia"
+    ],
     "name:ceb_x_preferred":[
         "Pryvillya"
     ],
     "name:ces_x_preferred":[
         "Pryvillja"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u0435"
     ],
     "name:crh_x_preferred":[
         "Pr\u0131vill\u00e2"
@@ -40,11 +52,20 @@
     "name:eng_x_variant":[
         "Pryvillia"
     ],
+    "name:est_x_preferred":[
+        "Pr\u00f5villja"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u06cc\u0648\u06cc\u0644\u06cc\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Pryvillja"
+    ],
     "name:fra_x_preferred":[
         "Pryvillia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d5\u05d5\u05d9\u05dc\u05d9\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Prywillja"
@@ -54,6 +75,9 @@
     ],
     "name:ita_x_preferred":[
         "Pryvillja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30d3\u30ea\u30a2"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e0\u10d8\u10d5\u10dd\u10da\u10d8\u10d4"
@@ -67,8 +91,20 @@
     "name:nno_x_preferred":[
         "Pryvillja"
     ],
+    "name:nob_x_preferred":[
+        "Pryvillja"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u0435"
+    ],
     "name:pol_x_preferred":[
         "Prywillia"
+    ],
+    "name:pol_x_variant":[
+        "Prywilla"
+    ],
+    "name:por_x_preferred":[
+        "Pryvillia"
     ],
     "name:ron_x_preferred":[
         "Pr\u00eevillia"
@@ -79,8 +115,14 @@
     "name:rus_x_variant":[
         "\u041f\u0440\u0438\u0432\u0456\u043b\u043b\u044f"
     ],
+    "name:spa_x_preferred":[
+        "Privilia"
+    ],
     "name:tat_x_preferred":[
         "\u041f\u0440\u044b\u0432\u0438\u043b\u043b\u04d9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e37\u0e2d\u0e27\u0e34\u0e25\u0e40\u0e25\u0e35\u0e22"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0432\u0456\u043b\u043b\u044f"
@@ -88,8 +130,14 @@
     "name:und_x_variant":[
         "Privol\u2019noye"
     ],
+    "name:uzb_x_preferred":[
+        "Privillia"
+    ],
     "name:vie_x_preferred":[
         "Pryvillia"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u7ef4\u5229\u4e9a"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -130,7 +178,7 @@
         }
     ],
     "wof:id":1125857377,
-    "wof:lastmodified":1566593947,
+    "wof:lastmodified":1690876949,
     "wof:name":"Pryvillya",
     "wof:parent_id":1108730797,
     "wof:placetype":"locality",

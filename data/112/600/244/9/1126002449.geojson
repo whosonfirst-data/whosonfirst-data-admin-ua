@@ -22,8 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u044f\u043a\u044b"
+    ],
     "name:ceb_x_preferred":[
         "Mayaky"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u044f\u043a\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Mayak\u0131"
     ],
     "name:deu_x_preferred":[
         "Majaky"
@@ -31,14 +40,32 @@
     "name:eng_x_preferred":[
         "Maiaky"
     ],
+    "name:fin_x_preferred":[
+        "M\u0430jaky"
+    ],
+    "name:fra_x_preferred":[
+        "Ma\u00efaki"
+    ],
     "name:lav_x_preferred":[
         "Majaki"
+    ],
+    "name:nan_x_preferred":[
+        "Maiaky"
+    ],
+    "name:nno_x_preferred":[
+        "Majaky"
+    ],
+    "name:nob_x_preferred":[
+        "Majaky"
     ],
     "name:ron_x_preferred":[
         "Maiak\u00ee"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u044f\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Majaky"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u044f\u043a\u0438"
@@ -91,7 +118,7 @@
         }
     ],
     "wof:id":1126002449,
-    "wof:lastmodified":1566593936,
+    "wof:lastmodified":1690876933,
     "wof:name":"Mayaky",
     "wof:parent_id":102088029,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:ast_x_preferred":[
         "Zhyt\u00f3myr"
     ],
+    "name:avk_x_preferred":[
+        "Jitomir"
+    ],
     "name:azb_x_preferred":[
         "\u0698\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099d\u09be\u0987\u09a4\u09cb\u09ae\u09bf\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u099c\u09bf\u09a4\u09cb\u09ae\u09bf\u09b0"
     ],
     "name:bre_x_preferred":[
         "Jitomir"
@@ -89,6 +95,9 @@
     "name:ell_x_preferred":[
         "\u0396\u03c5\u03c4\u03bf\u03bc\u03cd\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u0396\u03c5\u03c4\u03cc\u03bc\u03c5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Zhytomyr"
     ],
@@ -114,6 +123,9 @@
         "Jytomyr"
     ],
     "name:gla_x_preferred":[
+        "Zhytomyr"
+    ],
+    "name:gle_x_preferred":[
         "Zhytomyr"
     ],
     "name:glg_x_preferred":[
@@ -167,6 +179,9 @@
     "name:kor_x_preferred":[
         "\uc9c0\ud1a0\ubbf8\ub974"
     ],
+    "name:kur_x_preferred":[
+        "Jitomir"
+    ],
     "name:lat_x_preferred":[
         "Zitomiria"
     ],
@@ -176,8 +191,20 @@
     "name:lit_x_preferred":[
         "\u017dytomyras"
     ],
+    "name:lld_x_preferred":[
+        "Zhytomyr"
+    ],
+    "name:lmo_x_preferred":[
+        "\u017dytomyr"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d48\u0d31\u0d4d\u0d31\u0d4b\u0d2e\u0d3f\u0d7c"
+    ],
     "name:mar_x_preferred":[
         "\u091d\u0940\u091f\u094b\u092e\u093f\u0930"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0416\u044b\u0442\u043e\u043c\u044b\u0440"
     ],
     "name:mhr_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
@@ -190,6 +217,9 @@
     ],
     "name:msa_x_preferred":[
         "Zhytomyr"
+    ],
+    "name:myv_x_preferred":[
+        "\u0416\u044b\u0442\u043e\u043c\u044b\u0440"
     ],
     "name:nld_x_preferred":[
         "Zjytomyr"
@@ -212,6 +242,9 @@
     "name:pnb_x_preferred":[
         "\u0698\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
+    "name:pnb_x_variant":[
+        "\u0698\u06cc\u062a\u0648\u0645\u0631"
+    ],
     "name:pol_x_preferred":[
         "\u017bytomierz"
     ],
@@ -226,6 +259,9 @@
     ],
     "name:ron_x_preferred":[
         "J\u00eetom\u00eer"
+    ],
+    "name:ron_x_variant":[
+        "Jitomir"
     ],
     "name:rue_x_preferred":[
         "\u0416\u044b\u0442\u043e\u043c\u0438\u0440"
@@ -251,8 +287,14 @@
     "name:spa_x_preferred":[
         "Zhytomyr"
     ],
+    "name:spa_x_variant":[
+        "Zhit\u00f3mir"
+    ],
     "name:srp_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Zhytomyr"
     ],
     "name:swe_x_preferred":[
         "Zjytomyr"
@@ -272,6 +314,9 @@
     "name:tel_x_preferred":[
         "\u0c1c\u0c39\u0c1f\u0c2e\u0c40\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e37\u0e22\u0e42\u0e15\u0e21\u0e36\u0e22"
     ],
@@ -280,6 +325,9 @@
     ],
     "name:tur_x_preferred":[
         "Jitomir"
+    ],
+    "name:tur_x_variant":[
+        "J\u0131tom\u0131r"
     ],
     "name:udm_x_preferred":[
         "\u0416\u0438\u0442\u043e\u043c\u0438\u0440"
@@ -290,14 +338,26 @@
     "name:urd_x_preferred":[
         "\u0632\u062d\u06cc\u062a\u0648\u0645\u06cc\u0631"
     ],
+    "name:urd_x_variant":[
+        "\u0698\u06cc\u062a\u0648\u0645\u0631"
+    ],
     "name:uzb_x_preferred":[
         "Jitomir"
     ],
     "name:vie_x_preferred":[
         "Zhytomyr"
     ],
+    "name:vol_x_preferred":[
+        "J\u00fctom\u00fcr"
+    ],
     "name:war_x_preferred":[
         "Zhytomyr"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65e5\u6258\u7c73\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10df\u10d8\u10e2\u10dd\u10db\u10d8\u10e0\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d6\u05e9\u05d9\u05d8\u05d0\u05de\u05d9\u05e8"
@@ -307,6 +367,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65e5\u6258\u7c73\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u65e5\u6258\u7c73\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ukraine",
@@ -423,8 +486,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        1108815945,
-        85688791
+        85688791,
+        1108815945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -446,7 +509,7 @@
         }
     ],
     "wof:id":101752889,
-    "wof:lastmodified":1614896268,
+    "wof:lastmodified":1690876237,
     "wof:name":"\u0416\u0438\u0442\u043e\u043c\u0438\u0440",
     "wof:parent_id":1108815945,
     "wof:placetype":"locality",

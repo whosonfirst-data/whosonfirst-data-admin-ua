@@ -25,14 +25,26 @@
     "name:azb_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0631\u0648\u06a9\u0648\u0633\u062a\u06cc\u0627\u0646\u062a\u06cc\u0646\u06cc\u0641"
     ],
+    "name:aze_x_preferred":[
+        "Starokonstantinov"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u043a\u0430\u0441\u0446\u044f\u043d\u0442\u044b\u043d\u0456\u045e"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Starokostiant\u00edniv"
     ],
     "name:ceb_x_preferred":[
         "Starokostyantyniv"
     ],
     "name:ces_x_preferred":[
         "Starokos\u0165antyniv"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432"
     ],
     "name:crh_x_preferred":[
         "Starokost\u00e2nt\u0131niv"
@@ -43,14 +55,26 @@
     "name:deu_x_preferred":[
         "Starokostjantyniw"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c1\u03bf\u03ba\u03bf\u03c3\u03c4\u03b9\u03b1\u03bd\u03c4\u03af\u03bd\u03b9\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Starokostiantyniv"
     ],
     "name:epo_x_preferred":[
         "Starokostjantijniv"
     ],
+    "name:epo_x_variant":[
+        "Starokostjantiniv"
+    ],
+    "name:est_x_preferred":[
+        "Starokostjant\u00f5niv"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0631\u0648\u06a9\u0648\u0633\u062a\u06cc\u0627\u0646\u062a\u06cc\u0646\u06cc\u0641"
+    ],
+    "name:fin_x_preferred":[
+        "Starokostjantyniv"
     ],
     "name:fra_x_preferred":[
         "Starokostiantyniv"
@@ -76,6 +100,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10d0\u10e0\u10dd\u10d9\u10dd\u10dc\u10e1\u10e2\u10d0\u10dc\u10e2\u10d8\u10dc\u10dd\u10d5\u10d8"
     ],
+    "name:lat_x_preferred":[
+        "Constantinovia"
+    ],
     "name:lav_x_preferred":[
         "Starokostjanti\u0146iva"
     ],
@@ -88,8 +115,17 @@
     "name:nno_x_preferred":[
         "Starokostjantyniv"
     ],
+    "name:nob_x_preferred":[
+        "Starokostjantyniv"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432"
+    ],
     "name:pol_x_preferred":[
         "Starokonstantyn\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Starokostiantyniv"
     ],
     "name:ron_x_preferred":[
         "Starokostiant\u00eeniv"
@@ -103,8 +139,14 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432"
     ],
+    "name:swe_x_preferred":[
+        "Starokostjantyniv"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0441\u0442\u04d9\u043d\u0442\u044b\u043d\u0438\u0432"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e15\u0e32\u0e23\u0e2d\u0e01\u0e2d\u0e2a\u0e08\u0e31\u0e19\u0e15\u0e37\u0e2d\u0e19\u0e34\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u043a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d\u0456\u0432"
@@ -112,11 +154,17 @@
     "name:und_x_variant":[
         "Starokonstantinow"
     ],
+    "name:uzb_x_preferred":[
+        "Starokostiantyniv"
+    ],
     "name:vie_x_preferred":[
         "Starokostiantyniv"
     ],
     "name:zho_x_preferred":[
         "\u820a\u5eb7\u65af\u5766\u4e01\u8afe\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u65e7\u5eb7\u65af\u5766\u4e01\u5c3c\u592b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -157,7 +205,7 @@
         }
     ],
     "wof:id":1125775421,
-    "wof:lastmodified":1566593970,
+    "wof:lastmodified":1690876980,
     "wof:name":"Starokostyantyniv",
     "wof:parent_id":1108815819,
     "wof:placetype":"locality",

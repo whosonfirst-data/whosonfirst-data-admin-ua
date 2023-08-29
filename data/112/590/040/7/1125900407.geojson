@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:avk_x_preferred":[
+        "Dovjansk"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0631\u062f\u0644\u0648\u0641\u0633\u06a9\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
     ],
     "name:azb_x_variant":[
         "\u0627\u0633\u0648\u0631\u062f\u0644\u0648\u0641\u0633\u06a9"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u045e\u0436\u0430\u043d\u0441\u043a"
     ],
     "name:cat_x_preferred":[
         "Sverdlovsk"
@@ -37,14 +43,26 @@
     "name:ceb_x_preferred":[
         "Sverdlovs'k"
     ],
+    "name:ceb_x_variant":[
+        "Dovzhans'k"
+    ],
     "name:ces_x_preferred":[
         "Dov\u017eansk"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
     ],
     "name:crh_x_preferred":[
         "Dovjansk"
     ],
+    "name:dan_x_preferred":[
+        "Dovzjansk"
+    ],
     "name:deu_x_preferred":[
         "Swerdlowsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03b2\u03b6\u03ac\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sverdlovs'k"
@@ -52,8 +70,14 @@
     "name:eng_x_variant":[
         "Dovzhansk"
     ],
+    "name:epo_x_preferred":[
+        "Dov\u0135ansk"
+    ],
     "name:est_x_preferred":[
         "Sverdlovsk"
+    ],
+    "name:est_x_variant":[
+        "Dov\u017eansk"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0648\u0631\u062f\u0644\u0648\u0641\u0633\u06a9\u060c \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
@@ -67,14 +91,23 @@
     "name:fra_x_preferred":[
         "Sverdlovsk"
     ],
+    "name:fra_x_variant":[
+        "Dovjansk"
+    ],
     "name:hsb_x_preferred":[
         "Dow\u017eansk"
     ],
     "name:hye_x_preferred":[
         "\u054d\u057e\u0565\u0580\u0564\u056c\u0578\u057e\u057d\u056f"
     ],
+    "name:hye_x_variant":[
+        "\u0534\u0578\u057e\u056a\u0561\u0576\u057d\u056f"
+    ],
     "name:ita_x_preferred":[
         "Sverdlovs'k"
+    ],
+    "name:ita_x_variant":[
+        "Dov\u017eans'k"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30f4\u30a7\u30eb\u30c9\u30ed\u30fc\u30a6\u30b7\u30af"
@@ -85,20 +118,47 @@
     "name:lav_x_preferred":[
         "Sverdlovska"
     ],
+    "name:lav_x_variant":[
+        "Dov\u017eanska"
+    ],
     "name:lit_x_preferred":[
         "Sverdlovskas"
+    ],
+    "name:lit_x_variant":[
+        "Dov\u017eanskas"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
     ],
     "name:nld_x_preferred":[
         "Sverdlovsk"
     ],
+    "name:nld_x_variant":[
+        "Dovzjansk"
+    ],
     "name:nno_x_preferred":[
         "Sverdlovsk i Ukraina"
+    ],
+    "name:nno_x_variant":[
+        "Dovzhansk"
     ],
     "name:nob_x_preferred":[
         "Sverdlovsk"
     ],
+    "name:nob_x_variant":[
+        "Dovzjansk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u043e\u043b\u0436\u0430\u043d\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Dowzan\u015bk"
+    ],
+    "name:pol_x_variant":[
+        "Do\u0142\u017ca\u0144sk"
+    ],
+    "name:por_x_preferred":[
+        "Dovzhansk"
     ],
     "name:ron_x_preferred":[
         "Sverdlovsk"
@@ -108,6 +168,9 @@
     ],
     "name:rue_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a"
+    ],
+    "name:rue_x_variant":[
+        "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a"
@@ -119,6 +182,12 @@
     "name:sco_x_preferred":[
         "Sverdlovsk"
     ],
+    "name:sco_x_variant":[
+        "Dovzhansk"
+    ],
+    "name:slv_x_preferred":[
+        "Dov\u017eansk"
+    ],
     "name:spa_x_preferred":[
         "Sverdlovsk"
     ],
@@ -128,11 +197,29 @@
     "name:srp_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a"
     ],
+    "name:srp_x_variant":[
+        "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Dovzjansk"
+    ],
+    "name:szl_x_preferred":[
+        "Dow\u017can\u015bk"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e2d\u0e27\u0e4c\u0e0c\u0e31\u0e19\u0e2a\u0e01\u0e4c"
+    ],
     "name:udm_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a"
+    ],
+    "name:udm_x_variant":[
+        "\u0414\u043e\u0432\u0436\u0430\u043d\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u044c\u043a"
@@ -143,11 +230,23 @@
     "name:und_x_variant":[
         "Imeni Sverdlova"
     ],
+    "name:uzb_x_preferred":[
+        "Sverdlovsk"
+    ],
     "name:vie_x_preferred":[
         "Sverdlovsk"
     ],
+    "name:vie_x_variant":[
+        "Dovzhansk"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10dd\u10d5\u10df\u10d0\u10dc\u10e1\u10d9\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u65af\u7dad\u723e\u5fb7\u6d1b\u592b\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u591a\u592b\u7136\u65af\u514b"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -188,7 +287,7 @@
         }
     ],
     "wof:id":1125900407,
-    "wof:lastmodified":1566593919,
+    "wof:lastmodified":1690876909,
     "wof:name":"Sverdlovs\u2019k",
     "wof:parent_id":1108815967,
     "wof:placetype":"locality",

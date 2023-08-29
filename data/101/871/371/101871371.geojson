@@ -23,6 +23,12 @@
     "name:bel_x_preferred":[
         "\u041c\u044b\u0440\u0430\u043b\u044e\u0431\u0456\u045e"
     ],
+    "name:ces_x_preferred":[
+        "Myroljubiv"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u043e\u0432"
+    ],
     "name:crh_x_preferred":[
         "M\u0131rol\u00fcbiv"
     ],
@@ -32,8 +38,14 @@
     "name:eng_x_preferred":[
         "Zhovtneve"
     ],
+    "name:eng_x_variant":[
+        "Myroliubiv"
+    ],
     "name:fra_x_preferred":[
         "Jovtneve"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u043e\u0432"
     ],
     "name:pol_x_preferred":[
         "\u017bowtnewe"
@@ -51,10 +63,14 @@
         "Zhovtneve"
     ],
     "name:ukr_x_variant":[
-        "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435"
+        "\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435",
+        "\u041c\u0438\u0440\u043e\u043b\u044e\u0431\u0456\u0432"
     ],
     "name:und_x_variant":[
         "Kolupayevka"
+    ],
+    "name:uzb_x_preferred":[
+        "Myroliubiv"
     ],
     "name:zho_x_preferred":[
         "\u82e5\u592b\u7279\u6d85\u97cb"
@@ -108,7 +124,7 @@
         }
     ],
     "wof:id":101871371,
-    "wof:lastmodified":1582349340,
+    "wof:lastmodified":1690876718,
     "wof:name":"\u0416\u043e\u0432\u0442\u043d\u0435\u0432\u0435",
     "wof:parent_id":102088941,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0632\u0645\u0627\u0626\u064a\u0644"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u0645\u0627\u0626\u06cc\u0644"
     ],
@@ -49,6 +52,9 @@
     "name:ces_x_preferred":[
         "Izmajil"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u0437\u043c\u0430\u0438\u043b"
+    ],
     "name:crh_x_preferred":[
         "\u0130zmayil"
     ],
@@ -61,11 +67,17 @@
     "name:dsb_x_preferred":[
         "Izmajil"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03bc\u03b1\u03ae\u03bb\u03b9\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Izmail"
     ],
     "name:epo_x_preferred":[
         "Ismajil"
+    ],
+    "name:epo_x_variant":[
+        "Izmajil"
     ],
     "name:est_x_preferred":[
         "Izmajil"
@@ -127,7 +139,13 @@
     "name:lit_x_preferred":[
         "Izmajilas"
     ],
+    "name:mhr_x_preferred":[
+        "\u0418\u0437\u043c\u0430\u0438\u043b"
+    ],
     "name:mkd_x_preferred":[
+        "\u0418\u0437\u043c\u0430\u0438\u043b"
+    ],
+    "name:myv_x_preferred":[
         "\u0418\u0437\u043c\u0430\u0438\u043b"
     ],
     "name:nld_x_preferred":[
@@ -138,6 +156,12 @@
     ],
     "name:nob_x_preferred":[
         "Izmail"
+    ],
+    "name:nob_x_variant":[
+        "Izmajil"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u0437\u043c\u0430\u0438\u043b"
     ],
     "name:pol_x_preferred":[
         "Izmai\u0142"
@@ -172,6 +196,9 @@
     "name:slv_x_preferred":[
         "Izmail"
     ],
+    "name:slv_x_variant":[
+        "Izmajil"
+    ],
     "name:spa_x_preferred":[
         "Izmail"
     ],
@@ -183,6 +210,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0418\u0437\u043c\u0430\u0438\u043b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0437\u043c\u0430\u0438\u043b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e0b\u0e21\u0e32\u0e22\u0e34\u0e25"
     ],
     "name:tur_x_preferred":[
         "\u0130smail"
@@ -210,6 +243,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u6885\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u5179\u6885\u5c14"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -264,7 +300,7 @@
         }
     ],
     "wof:id":1126005775,
-    "wof:lastmodified":1636501746,
+    "wof:lastmodified":1690876937,
     "wof:name":"Izmayil",
     "wof:parent_id":1108730625,
     "wof:placetype":"locality",

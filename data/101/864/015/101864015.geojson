@@ -24,23 +24,47 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u043a\u0430\u044f"
     ],
+    "name:cat_x_preferred":[
+        "Rava-Ruska"
+    ],
     "name:ceb_x_preferred":[
         "Rava-Rus'ka"
     ],
     "name:ces_x_preferred":[
         "Rava-Ruska"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u0441\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
+        "Rava-Ruska"
+    ],
+    "name:dan_x_preferred":[
         "Rava-Ruska"
     ],
     "name:deu_x_preferred":[
         "Rawa-Ruska"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03b2\u03b1-\u03a1\u03bf\u03cd\u03c3\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Rava-Ruska"
+    ],
+    "name:epo_x_preferred":[
+        "Rava-Ruska"
+    ],
+    "name:est_x_preferred":[
+        "Rava-Ruska"
+    ],
+    "name:eus_x_preferred":[
         "Rava-Ruska"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0648\u0627-\u0631\u0648\u0633\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Rava-Ruska"
     ],
     "name:fra_x_preferred":[
         "Rawa Ruska"
@@ -50,6 +74,9 @@
     ],
     "name:hsb_x_preferred":[
         "Rawa-Ruska"
+    ],
+    "name:hun_x_preferred":[
+        "Rava-Ruszka"
     ],
     "name:hye_x_preferred":[
         "\u054c\u0561\u057e\u0561-\u054c\u0578\u0582\u057d\u056f\u0561\u0575\u0561"
@@ -66,11 +93,20 @@
     "name:lav_x_preferred":[
         "Rava-Ruska"
     ],
+    "name:mhr_x_preferred":[
+        "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u0441\u043a\u0430\u044f"
+    ],
     "name:nno_x_preferred":[
+        "Rava-Ruska"
+    ],
+    "name:nob_x_preferred":[
         "Rava-Ruska"
     ],
     "name:pol_x_preferred":[
         "Rawa Ruska"
+    ],
+    "name:por_x_preferred":[
+        "Rava-Ruska"
     ],
     "name:ron_x_preferred":[
         "Rava-Ruska"
@@ -81,8 +117,14 @@
     "name:swe_x_preferred":[
         "Rava-Ruska"
     ],
+    "name:szl_x_preferred":[
+        "Rawa-Ru\u015bka"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u043a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e32\u0e27\u0e32-\u0e23\u0e38\u0e2a\u0e01\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u044c\u043a\u0430"
@@ -90,11 +132,17 @@
     "name:und_x_variant":[
         "Rava-Russkaya"
     ],
+    "name:uzb_x_preferred":[
+        "Rava-Ruska"
+    ],
     "name:vie_x_preferred":[
         "Rava-Ruska"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u74e6\u7f85\u65af\u5361\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u74e6-\u9c81\u65af\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430",
@@ -147,7 +195,7 @@
         }
     ],
     "wof:id":101864015,
-    "wof:lastmodified":1582349367,
+    "wof:lastmodified":1690876829,
     "wof:name":"\u0420\u0430\u0432\u0430-\u0420\u0443\u0441\u044c\u043a\u0430",
     "wof:parent_id":102088445,
     "wof:placetype":"locality",

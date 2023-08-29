@@ -43,6 +43,9 @@
     "name:ces_x_preferred":[
         "Kremenec"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446"
+    ],
     "name:crh_x_preferred":[
         "Kremenets"
     ],
@@ -55,7 +58,16 @@
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03b5\u03bc\u03b5\u03bd\u03ad\u03c4\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03c1\u03ad\u03bc\u03b5\u03bd\u03b5\u03c4\u03c2"
+    ],
     "name:eng_x_preferred":[
+        "Kremenets"
+    ],
+    "name:epo_x_preferred":[
+        "Kremenec"
+    ],
+    "name:est_x_preferred":[
         "Kremenets"
     ],
     "name:fas_x_preferred":[
@@ -71,6 +83,9 @@
         "\u05e7\u05e8\u05de\u05e0\u05d9\u05e5"
     ],
     "name:hsb_x_preferred":[
+        "Kremenec"
+    ],
+    "name:hun_x_preferred":[
         "Kremenec"
     ],
     "name:hye_x_preferred":[
@@ -91,6 +106,9 @@
     "name:kor_x_preferred":[
         "\ud06c\ub808\uba54\ub124\uce20"
     ],
+    "name:lat_x_preferred":[
+        "Cremenecia"
+    ],
     "name:lav_x_preferred":[
         "Kremeneca"
     ],
@@ -109,14 +127,23 @@
     "name:nor_x_preferred":[
         "Kremenets"
     ],
+    "name:oss_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446"
+    ],
     "name:pol_x_preferred":[
         "Krzemieniec"
+    ],
+    "name:por_x_preferred":[
+        "Kremenets"
     ],
     "name:ron_x_preferred":[
         "Kremene\u021b"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Kremenec"
     ],
     "name:spa_x_preferred":[
         "Kremenets"
@@ -127,6 +154,9 @@
     "name:srp_x_variant":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446\u044c"
     ],
+    "name:swe_x_preferred":[
+        "Kremenets"
+    ],
     "name:szl_x_preferred":[
         "Kremene\u0107"
     ],
@@ -136,8 +166,17 @@
     "name:tat_x_variant":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0442\u0441"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e01\u0e23\u0e41\u0e21\u0e41\u0e19\u0e15\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Kremenets"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Kremenets"
     ],
     "name:vie_x_preferred":[
         "Kremenets"
@@ -147,6 +186,9 @@
     ],
     "name:zho_x_preferred":[
         "\u514b\u5217\u6885\u6d85\u8328"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u96f7\u6885\u5185\u8328"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430",
@@ -201,7 +243,7 @@
         }
     ],
     "wof:id":101864017,
-    "wof:lastmodified":1582349371,
+    "wof:lastmodified":1690876847,
     "wof:name":"\u041a\u0440\u0435\u043c\u0435\u043d\u0435\u0446\u044c",
     "wof:parent_id":102088483,
     "wof:placetype":"locality",

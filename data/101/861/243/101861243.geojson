@@ -50,13 +50,17 @@
     ],
     "name:bel_x_variant":[
         "\u041c\u0456\u043a\u0430\u043b\u0430\u0435\u045e",
-        "\u0413\u043e\u0440\u0430\u0434 \u041b\u044c\u0432\u043e\u045e"
+        "\u0413\u043e\u0440\u0430\u0434 \u041b\u044c\u0432\u043e\u045e",
+        "\u041c\u044b\u043a\u0430\u043b\u0430\u0456\u045e"
     ],
     "name:bos_x_preferred":[
         "Lavov"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0432\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Mikolaiv"
     ],
     "name:ceb_x_preferred":[
         "Mykolayiv"
@@ -69,6 +73,9 @@
     ],
     "name:che_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
+    ],
+    "name:che_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
     ],
     "name:chv_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
@@ -84,6 +91,9 @@
     ],
     "name:dan_x_preferred":[
         "Lviv"
+    ],
+    "name:dan_x_variant":[
+        "Mykolajiv"
     ],
     "name:deu_x_historical":[
         "Lemberg"
@@ -107,8 +117,17 @@
     "name:epo_x_preferred":[
         "Lvivo"
     ],
+    "name:epo_x_variant":[
+        "Mikolajiv"
+    ],
     "name:est_x_preferred":[
         "Lviv"
+    ],
+    "name:est_x_variant":[
+        "M\u00f5kolajiv"
+    ],
+    "name:eus_x_preferred":[
+        "Mykolaiv"
     ],
     "name:fao_x_preferred":[
         "Ljviv"
@@ -121,6 +140,9 @@
     ],
     "name:fin_x_preferred":[
         "Lviv"
+    ],
+    "name:fin_x_variant":[
+        "Mykolajiv"
     ],
     "name:fra_x_preferred":[
         "Mykola\u00efv"
@@ -209,6 +231,9 @@
     "name:mhr_x_preferred":[
         "\u041b\u044c\u0432\u043e\u0432"
     ],
+    "name:mhr_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0432\u043e\u0432"
     ],
@@ -224,8 +249,14 @@
     "name:nld_x_preferred":[
         "Lviv"
     ],
+    "name:nld_x_variant":[
+        "Mykolajiv"
+    ],
     "name:nno_x_preferred":[
         "Mykolajiv i Lviv oblast"
+    ],
+    "name:nob_x_preferred":[
+        "Mykolajiv"
     ],
     "name:nor_x_preferred":[
         "Lviv"
@@ -250,6 +281,9 @@
     ],
     "name:por_x_preferred":[
         "Lviv"
+    ],
+    "name:por_x_variant":[
+        "Mykolaiv"
     ],
     "name:que_x_preferred":[
         "Lwiw"
@@ -312,6 +346,9 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e27\u0e35\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e37\u0e2d\u0e01\u0e2d\u0e25\u0e32\u0e22\u0e34\u0e27"
+    ],
     "name:tuk_x_preferred":[
         "Lwiw"
     ],
@@ -326,6 +363,9 @@
     ],
     "name:uzb_x_preferred":[
         "Lvov"
+    ],
+    "name:uzb_x_variant":[
+        "Nikolaev"
     ],
     "name:vec_x_preferred":[
         "Leopo\u0142i"
@@ -408,7 +448,7 @@
         }
     ],
     "wof:id":101861243,
-    "wof:lastmodified":1582349267,
+    "wof:lastmodified":1690876387,
     "wof:name":"\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
     "wof:parent_id":85688887,
     "wof:placetype":"locality",

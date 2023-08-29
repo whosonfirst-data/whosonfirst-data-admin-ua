@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0647\u0648\u0631\u064a\u0641\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0647\u0648\u0631\u064a\u0641\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0433\u0443\u0440\u044b\u045e\u043a\u0430"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:ceb_x_preferred":[
         "Zgurovka"
+    ],
+    "name:ces_x_preferred":[
+        "Zhurivka"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0433\u0443\u0440\u043e\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Zgurivka"
@@ -44,6 +53,15 @@
     ],
     "name:eng_x_variant":[
         "Zgurivka"
+    ],
+    "name:est_x_preferred":[
+        "Zhurivka"
+    ],
+    "name:fra_x_preferred":[
+        "Zhourivka"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0417\u0433\u0443\u0440\u043e\u0432\u043a\u0430"
     ],
     "name:pol_x_preferred":[
         "Zhuriwka"
@@ -72,8 +90,14 @@
     "name:ukr_x_variant":[
         "Z\u00b7hurivka"
     ],
+    "name:uzb_x_preferred":[
+        "Zhurivka"
+    ],
     "name:zho_x_preferred":[
         "\u8332\u53e4\u91cc\u592b\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u5179\u80e1\u91cc\u592b\u5361"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -128,7 +152,7 @@
         }
     ],
     "wof:id":101870913,
-    "wof:lastmodified":1582349330,
+    "wof:lastmodified":1690876641,
     "wof:name":"\u0417\u0433\u0443\u0440\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088821,
     "wof:placetype":"locality",

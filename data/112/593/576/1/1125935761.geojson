@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Novhorod-Siverskyi"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u045e\u0433\u0430\u0440\u0430\u0434-\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0456"
+    ],
+    "name:cat_x_preferred":[
+        "N\u00f2vhorod-S\u00edverski"
     ],
     "name:ceb_x_preferred":[
         "Novhorod-Sivers'kyy"
@@ -31,8 +37,14 @@
     "name:ces_x_preferred":[
         "Novhorod-Siverskyj"
     ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0438\u0439"
+    ],
     "name:crh_x_preferred":[
         "Novgorod-Siversk\u0131y"
+    ],
+    "name:dan_x_preferred":[
+        "Novhorod-Siverskyj"
     ],
     "name:deu_x_preferred":[
         "Nowhorod-Siwerskyj"
@@ -40,11 +52,23 @@
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03b2\u03c7\u03bf\u03c1\u03cc\u03bd\u03c4-\u03a3\u03b9\u03b2\u03b5\u03c1\u03c3\u03ba\u03af\u03b9"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03cc\u03b2\u03c7\u03bf\u03c1\u03bf\u03bd\u03c4-\u03a3\u03af\u03b2\u03b5\u03c1\u03c3\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Novhorod-Sivers'kyy"
     ],
     "name:eng_x_variant":[
         "Novhorod-Siverskyi"
+    ],
+    "name:epo_x_preferred":[
+        "Novhorod-Siverskij"
+    ],
+    "name:est_x_preferred":[
+        "Novgorod-Siversk\u00f5i"
+    ],
+    "name:eus_x_preferred":[
+        "Novhorod-Siverski"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0648\u0647\u0648\u0631\u0648\u062f-\u0633\u06cc\u0648\u0631\u0633\u06a9\u06cc\u06cc"
@@ -55,11 +79,17 @@
     "name:fra_x_preferred":[
         "Novhorod-Siversky\u00ef"
     ],
+    "name:glg_x_preferred":[
+        "N\u00f3vgorod-Siversky"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d1\u05d4\u05d5\u05e8\u05d5\u05d3-\u05e1\u05d9\u05d5\u05d5\u05e8\u05e1\u05e7\u05d9"
     ],
     "name:hsb_x_preferred":[
         "Nowhorod-Siwerskyj"
+    ],
+    "name:hun_x_preferred":[
+        "Novhorod-Sziverszkij"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u057e\u0563\u0578\u0580\u0578\u0564-\u054d\u0587\u0565\u0580\u057d\u056f\u056b"
@@ -91,8 +121,14 @@
     "name:nob_x_preferred":[
         "Novhorod-Siverskyj"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0438\u0439"
+    ],
     "name:pol_x_preferred":[
         "Nowogr\u00f3d Siewierski"
+    ],
+    "name:por_x_preferred":[
+        "Novhorod-Siverskyi"
     ],
     "name:ron_x_preferred":[
         "Novhorod-Siversk\u00eei"
@@ -103,8 +139,14 @@
     "name:sah_x_preferred":[
         "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0438\u0439"
     ],
+    "name:slv_x_preferred":[
+        "Novgorod-Siverski"
+    ],
     "name:spa_x_preferred":[
         "N\u00f3vgorod-S\u00edverski"
+    ],
+    "name:spa_x_variant":[
+        "N\u00f3vhorod-S\u00edverski"
     ],
     "name:swe_x_preferred":[
         "Novhorod-Siverskyj"
@@ -112,17 +154,26 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u04bb\u043e\u0440\u043e\u0434-\u0421\u0438\u0432\u0435\u0440\u0441\u043a\u044b\u0439"
     ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e2d\u0e27\u0e4c\u0e2e\u0e2d\u0e23\u0e2d\u0e14-\u0e0b\u0e35\u0e41\u0e27\u0e23\u0e4c\u0e2a\u0e01\u0e36\u0e22"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434-\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
     "name:und_x_variant":[
         "Novogorod-Severskiy"
     ],
+    "name:uzb_x_preferred":[
+        "Novhorod-Siverskyi"
+    ],
     "name:vie_x_preferred":[
         "Novhorod-Siverskyi"
     ],
     "name:zho_x_preferred":[
         "\u8bfa\u592b\u54e5\u7f57\u5fb7-\u8c22\u97e6\u5c14\u65af\u57fa"
+    ],
+    "name:zho_x_variant":[
+        "\u8bfa\u592b\u970d\u7f57\u5fb7-\u9521\u97e6\u5c14\u65af\u57fa"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -163,7 +214,7 @@
         }
     ],
     "wof:id":1125935761,
-    "wof:lastmodified":1566593884,
+    "wof:lastmodified":1690876866,
     "wof:name":"Novhorod-Sivers\u2019kyy",
     "wof:parent_id":102089027,
     "wof:placetype":"locality",

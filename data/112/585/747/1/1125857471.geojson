@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0432\u0430\u0440\u0430\u043d\u0446\u043e\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
     "name:ceb_x_preferred":[
         "Novovorontsovka"
+    ],
+    "name:ces_x_preferred":[
+        "Novovoroncovka"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Novovorontsovka"
@@ -34,8 +43,23 @@
     "name:deu_x_preferred":[
         "Nowoworonzowka"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03b2\u03bf\u03b2\u03bf\u03c1\u03bf\u03bd\u03c4\u03c3\u03cc\u03b2\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Novovorontsovka"
+    ],
+    "name:est_x_preferred":[
+        "Novovorontsovka"
+    ],
+    "name:fin_x_preferred":[
+        "Novovorontsovka"
+    ],
+    "name:fra_x_preferred":[
+        "Novovorontsovka"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd\u10d5\u10dd\u10e0\u10dd\u10dc\u10ea\u10dd\u10d5\u10d9\u10d0"
     ],
     "name:lav_x_preferred":[
         "Novovoroncovka"
@@ -49,14 +73,23 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Novovorontsovka"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Novaya Vorontsovka"
     ],
+    "name:uzb_x_preferred":[
+        "Novovorontsovka"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u6c83\u9f8d\u63aa\u592b\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u6c83\u9f99\u4f50\u592b\u5361"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -97,7 +130,7 @@
         }
     ],
     "wof:id":1125857471,
-    "wof:lastmodified":1566593952,
+    "wof:lastmodified":1690876956,
     "wof:name":"Novovorontsovka",
     "wof:parent_id":102088189,
     "wof:placetype":"locality",

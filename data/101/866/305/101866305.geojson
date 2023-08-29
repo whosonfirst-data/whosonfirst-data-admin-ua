@@ -27,11 +27,26 @@
     "name:ara_x_variant":[
         "\u0641\u064a\u0644\u064a\u0643\u0627 \u0644\u064a\u0628\u064a\u062a\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u064a\u0643\u0627 \u0644\u064a\u0628\u064a\u062a\u064a\u0643\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u044d\u043b\u044b\u043a\u0430 \u041b\u044d\u043f\u044d\u0442\u044b\u0445\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Velika Lepetikha"
+    ],
     "name:ceb_x_preferred":[
         "Velyka Lepetykha"
+    ],
+    "name:ces_x_preferred":[
+        "Velyka Lepetycha"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430"
     ],
     "name:crh_x_preferred":[
         "Vel\u0131ka Lepet\u0131ha"
@@ -42,8 +57,14 @@
     "name:eng_x_preferred":[
         "Velyka Lepetykha"
     ],
+    "name:fin_x_preferred":[
+        "Velyka Lepetyh\u2019a"
+    ],
     "name:fra_x_preferred":[
         "Grand L\u00e9p\u00e9tykha"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d8\u10d9\u10d0-\u10da\u10d4\u10de\u10d4\u10e2\u10d8\u10ee\u10d0"
     ],
     "name:lav_x_preferred":[
         "Velika Lepetiha"
@@ -60,14 +81,23 @@
     "name:rus_x_variant":[
         "\u0412\u0435\u043b\u0438\u043a\u0430\u044f \u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Velika Lepetija"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430"
     ],
     "name:und_x_variant":[
         "Bolschaja Lepeticha"
     ],
+    "name:uzb_x_preferred":[
+        "Velika Lepetixa"
+    ],
     "name:zho_x_preferred":[
         "\u5927\u5217\u4f69\u6377\u54c8"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5217\u4f69\u5b63\u54c8"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430",
@@ -118,7 +148,7 @@
         }
     ],
     "wof:id":101866305,
-    "wof:lastmodified":1582349260,
+    "wof:lastmodified":1690876365,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u041b\u0435\u043f\u0435\u0442\u0438\u0445\u0430",
     "wof:parent_id":102088145,
     "wof:placetype":"locality",

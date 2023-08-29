@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Kuschnyzja"
+    ],
     "name:ceb_x_preferred":[
         "Kushnytsya"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0448\u043d\u0438\u0446\u0430"
     ],
     "name:deu_x_preferred":[
         "Kuschnyzja"
@@ -34,14 +40,29 @@
     "name:epo_x_preferred":[
         "Ku\u015dnicja"
     ],
+    "name:fin_x_preferred":[
+        "Ku\u0161nytsja"
+    ],
+    "name:fra_x_preferred":[
+        "Kushnitsia"
+    ],
     "name:hun_x_preferred":[
         "Kov\u00e1csr\u00e9t"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0577\u0576\u056b\u0581\u0561"
     ],
+    "name:nan_x_preferred":[
+        "Kushnytsia"
+    ],
     "name:nld_x_preferred":[
         "Kov\u00e1csr\u00e9t"
+    ],
+    "name:nno_x_preferred":[
+        "Kusjnytsia"
+    ],
+    "name:nob_x_preferred":[
+        "Kusjnytsia"
     ],
     "name:ron_x_preferred":[
         "Ku\u0219n\u00ee\u021bea"
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1125779477,
-    "wof:lastmodified":1566593969,
+    "wof:lastmodified":1690876978,
     "wof:name":"Kushnytsya",
     "wof:parent_id":102088027,
     "wof:placetype":"locality",

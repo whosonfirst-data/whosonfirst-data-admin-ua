@@ -30,14 +30,23 @@
     "name:bel_x_preferred":[
         "\u0411\u0435\u0440\u0430\u0441\u0442\u044d\u0447\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Berestetxko"
+    ],
     "name:ceb_x_preferred":[
         "Berestechko"
     ],
     "name:ces_x_preferred":[
         "Bereste\u010dko"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
+    ],
     "name:crh_x_preferred":[
         "Bereste\u00e7ko"
+    ],
+    "name:dan_x_preferred":[
+        "Berestetjko"
     ],
     "name:deu_x_preferred":[
         "Berestetschko"
@@ -45,8 +54,14 @@
     "name:eng_x_preferred":[
         "Berestechko"
     ],
+    "name:est_x_preferred":[
+        "Berestet\u0161ko"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0633\u062a\u0686\u06a9\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Berestet\u0161ko"
     ],
     "name:fra_x_preferred":[
         "Berestetchko"
@@ -75,6 +90,15 @@
     "name:lit_x_preferred":[
         "Bereste\u010dka"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u044d\u0440\u044d\u0441\u0442\u044d\u0447\u043a\u043e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u044d\u0440\u044d\u0441\u0442\u044d\u0447\u043a\u043e"
+    ],
     "name:nld_x_preferred":[
         "Berestechko"
     ],
@@ -87,8 +111,14 @@
     "name:nor_x_preferred":[
         "Berestetsjko"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
+    ],
     "name:pol_x_preferred":[
         "Beresteczko"
+    ],
+    "name:por_x_preferred":[
+        "Berestechko"
     ],
     "name:ron_x_preferred":[
         "Beresteciko"
@@ -99,17 +129,26 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Berestechko"
+    ],
     "name:swe_x_preferred":[
         "Berestetjko"
     ],
     "name:tat_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
     ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1a\u0e41\u0e23\u0e2a\u0e41\u0e15\u0e0a\u0e01\u0e2d"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e"
     ],
     "name:und_x_variant":[
         "Beresteczo"
+    ],
+    "name:uzb_x_preferred":[
+        "Berestechko"
     ],
     "name:vie_x_preferred":[
         "Berestechko"
@@ -119,6 +158,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67cf\u65af\u53f0\u5947\u53ef"
+    ],
+    "name:zho_x_variant":[
+        "\u8d1d\u96f7\u65af\u6cf0\u5947\u79d1"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430",
@@ -174,7 +216,7 @@
         }
     ],
     "wof:id":101864051,
-    "wof:lastmodified":1582349372,
+    "wof:lastmodified":1690876852,
     "wof:name":"\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0447\u043a\u043e",
     "wof:parent_id":102088573,
     "wof:placetype":"locality",

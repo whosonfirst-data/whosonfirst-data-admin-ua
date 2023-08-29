@@ -21,11 +21,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0434\u0433\u0430\u0440\u043e\u0434\u043d\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0434\u0433\u043e\u0440\u043e\u0434\u043d\u0430"
     ],
     "name:ceb_x_preferred":[
         "Pidhorodna"
+    ],
+    "name:ces_x_preferred":[
+        "Pidhorodna"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u043e\u0434\u043d\u0430\u044f"
     ],
     "name:crh_x_preferred":[
         "Pidgorodna"
@@ -34,6 +43,9 @@
         "Pidhorodna"
     ],
     "name:eng_x_preferred":[
+        "Pidhorodna"
+    ],
+    "name:fra_x_preferred":[
         "Pidhorodna"
     ],
     "name:hye_x_preferred":[
@@ -57,8 +69,14 @@
     "name:und_x_variant":[
         "Podgorodnaya"
     ],
+    "name:uzb_x_preferred":[
+        "Pidhorodna"
+    ],
     "name:zho_x_preferred":[
         "\u76ae\u5fb7\u6208\u7f85\u5fb7\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u76ae\u5fb7\u970d\u7f57\u5fb7\u7eb3"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430",
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":101866503,
-    "wof:lastmodified":1582349255,
+    "wof:lastmodified":1690876344,
     "wof:name":"\u041f\u0456\u0434\u0433\u043e\u0440\u043e\u0434\u043d\u0430",
     "wof:parent_id":1108815681,
     "wof:placetype":"locality",

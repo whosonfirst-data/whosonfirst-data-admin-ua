@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0448\u0443\u0433\u0443\u043c"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0448\u0443\u0433\u0443\u043c"
     ],
     "name:ceb_x_preferred":[
         "Kushuhum"
+    ],
+    "name:ces_x_preferred":[
+        "Ku\u0161uhum"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0448\u0443\u0433\u0443\u043c"
     ],
     "name:crh_x_preferred":[
         "Ku\u015fugum"
@@ -36,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Kushuhum"
+    ],
+    "name:fra_x_preferred":[
+        "Kouchouhoum"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0577\u0578\u0582\u0563\u0578\u0582\u0574"
@@ -52,6 +64,12 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0448\u0443\u0433\u0443\u043c"
     ],
+    "name:spa_x_preferred":[
+        "Kushugum"
+    ],
+    "name:swe_x_preferred":[
+        "Kusjuhum"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0448\u0443\u0433\u0443\u043c"
     ],
@@ -60,6 +78,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5eab\u8212\u53e4\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u5e93\u8212\u80e1\u59c6"
     ],
     "qs_pg:aaroncc":"UA",
     "qs_pg:gn_country":"UA",
@@ -112,7 +133,7 @@
         }
     ],
     "wof:id":1126011719,
-    "wof:lastmodified":1566593935,
+    "wof:lastmodified":1690876932,
     "wof:name":"Kushugum",
     "wof:parent_id":1108815653,
     "wof:placetype":"locality",

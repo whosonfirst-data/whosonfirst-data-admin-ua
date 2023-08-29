@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u067e\u0648\u0644\u0632\u0646\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041e\u043f\u0430\u043b\u0437\u043d\u044d\u0432\u044d"
+    ],
     "name:crh_x_preferred":[
         "Kikineiz"
     ],
@@ -31,8 +37,20 @@
     "name:eng_x_variant":[
         "Opolzneve"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u0648\u0644\u0632\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "\u041ep\u043elzn\u0435v\u0435"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u057a\u0578\u056c\u0566\u0576\u0587\u0578\u0565"
+    ],
+    "name:nno_x_preferred":[
+        "Opolznevoje"
+    ],
+    "name:nob_x_preferred":[
+        "Opolznevoje"
     ],
     "name:ron_x_preferred":[
         "Opolzneve"
@@ -45,6 +63,9 @@
     ],
     "name:rus_x_variant":[
         "\u041e\u043f\u043e\u043b\u0437\u043d\u0435\u0432\u043e\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Opolznevoe"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043f\u043e\u043b\u0437\u043d\u0435\u0432\u0435"
@@ -115,7 +136,7 @@
         }
     ],
     "wof:id":1125873817,
-    "wof:lastmodified":1566593916,
+    "wof:lastmodified":1690876906,
     "wof:name":"Opolznevoye",
     "wof:parent_id":1108738659,
     "wof:placetype":"locality",

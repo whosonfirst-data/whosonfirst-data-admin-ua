@@ -32,11 +32,17 @@
     "name:bel_x_variant":[
         "\u0412\u0430\u043b\u044c\u043d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Vilnohirsk"
+    ],
     "name:ces_x_preferred":[
         "Vilnohirsk"
     ],
     "name:crh_x_preferred":[
         "Vilnogirsk"
+    ],
+    "name:dan_x_preferred":[
+        "Vilnohirsk"
     ],
     "name:deu_x_preferred":[
         "Wilnohirsk"
@@ -47,8 +53,17 @@
     "name:eng_x_variant":[
         "Vilnohirsk"
     ],
+    "name:est_x_preferred":[
+        "Vilnogirsk"
+    ],
+    "name:eus_x_preferred":[
+        "Vilnohirsk"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0644\u0646\u0648\u0647\u06cc\u0631\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Vilnohirsk"
     ],
     "name:fra_x_preferred":[
         "Vilnohirsk"
@@ -77,8 +92,20 @@
     "name:nno_x_preferred":[
         "Vilnohirsk"
     ],
+    "name:nob_x_preferred":[
+        "Vilnohirsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Wilnohirsk"
+    ],
+    "name:pol_x_variant":[
+        "Wilnohir\u015bk"
+    ],
+    "name:por_x_preferred":[
+        "Vilnohirsk"
     ],
     "name:ron_x_preferred":[
         "Vilnohirsk"
@@ -98,6 +125,9 @@
     "name:tat_x_variant":[
         "\u0412\u0438\u043b\u043d\u043e\u04bb\u0438\u0440\u0441\u043a"
     ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e34\u0e25\u0e19\u0e2d\u0e2e\u0e35\u0e2a\u0e01\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u043d\u043e\u0433\u0456\u0440\u0441\u044c\u043a"
     ],
@@ -107,11 +137,17 @@
     "name:und_x_variant":[
         "Vol\u2019nogorsk"
     ],
+    "name:uzb_x_preferred":[
+        "Vilnohirsk"
+    ],
     "name:vie_x_preferred":[
         "Vilnohirsk"
     ],
     "name:zho_x_preferred":[
         "\u6c83\u5229\u8afe\u6208\u723e\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u7ef4\u5229\u8bfa\u5e0c\u5c14\u65af\u514b"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430",
@@ -163,7 +199,7 @@
         }
     ],
     "wof:id":101867861,
-    "wof:lastmodified":1582349318,
+    "wof:lastmodified":1690876599,
     "wof:name":"\u0412\u0456\u043b\u044c\u043d\u043e\u0433\u0456\u0440\u0441\u044c\u043a",
     "wof:parent_id":1108730711,
     "wof:placetype":"locality",

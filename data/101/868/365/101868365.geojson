@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0422\u044d\u043b\u044d\u0448\u044b\u045e\u043a\u0430"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u043b\u0435\u0448\u043e\u0432\u043a\u0430"
+    ],
     "name:deu_x_preferred":[
         "Teleschiwka"
     ],
@@ -32,8 +35,20 @@
     "name:eng_x_variant":[
         "Teleshivka"
     ],
+    "name:fin_x_preferred":[
+        "T\u0435l\u0435\u0161\u0456vk\u0430"
+    ],
     "name:lav_x_preferred":[
         "Tele\u0161ivka"
+    ],
+    "name:nan_x_preferred":[
+        "Teleshivka"
+    ],
+    "name:nno_x_preferred":[
+        "Telesjivka"
+    ],
+    "name:nob_x_preferred":[
+        "Telesjivka"
     ],
     "name:ron_x_preferred":[
         "Tele\u0219ivka"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":101868365,
-    "wof:lastmodified":1582349277,
+    "wof:lastmodified":1690876421,
     "wof:name":"\u0422\u0435\u043b\u0435\u0448\u0456\u0432\u043a\u0430",
     "wof:parent_id":102088587,
     "wof:placetype":"locality",

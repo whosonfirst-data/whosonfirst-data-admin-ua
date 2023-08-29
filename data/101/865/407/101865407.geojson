@@ -30,6 +30,12 @@
     "name:ceb_x_preferred":[
         "Lymanske"
     ],
+    "name:ces_x_preferred":[
+        "Lymanske"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d\u0441\u043a\u0438"
+    ],
     "name:crh_x_preferred":[
         "L\u0131manske"
     ],
@@ -39,11 +45,17 @@
     "name:eng_x_preferred":[
         "Lymanske"
     ],
+    "name:fra_x_preferred":[
+        "Lymanske"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30de\u30fc\u30f3\u30b7\u30b1"
     ],
     "name:lav_x_preferred":[
         "Limanske"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u043d\u0441\u043a\u043e\u0435"
     ],
     "name:pol_x_preferred":[
         "\u0141yman\u015bke"
@@ -62,6 +74,9 @@
     ],
     "name:und_x_variant":[
         "Sel\u2019ts"
+    ],
+    "name:uzb_x_preferred":[
+        "Limansk"
     ],
     "name:zho_x_preferred":[
         "\u5229\u66fc\u897f\u514b"
@@ -91,8 +106,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102087985,
-        85688877
+        85688877,
+        102087985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":101865407,
-    "wof:lastmodified":1588710636,
+    "wof:lastmodified":1690876790,
     "wof:name":"\u041b\u0438\u043c\u0430\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102087985,
     "wof:placetype":"locality",

@@ -24,11 +24,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0648\u0646\u064a\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0646\u062a\u0648\u0646\u064a\u0646\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043d\u0456\u043d\u044b"
     ],
     "name:ceb_x_preferred":[
         "Antoniny"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0438\u043d\u044b"
     ],
     "name:crh_x_preferred":[
         "Antonin\u0131"
@@ -48,6 +54,12 @@
     "name:hye_x_preferred":[
         "\u0531\u0576\u057f\u0578\u0576\u056b\u0576\u056b"
     ],
+    "name:lit_x_preferred":[
+        "Antoninai"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0438\u043d\u044b"
+    ],
     "name:nld_x_preferred":[
         "Antoniny"
     ],
@@ -66,8 +78,14 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043d\u0456\u043d\u0438"
     ],
+    "name:uzb_x_preferred":[
+        "Antoniniy"
+    ],
     "name:zho_x_preferred":[
         "\u5b89\u6258\u5c3c\u5c3c"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u4e1c\u5c3c\u5c3c"
     ],
     "qs:a0":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
     "qs:a1":"*\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430",
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":101862653,
-    "wof:lastmodified":1582349355,
+    "wof:lastmodified":1690876767,
     "wof:name":"\u0410\u043d\u0442\u043e\u043d\u0456\u043d\u0438",
     "wof:parent_id":102088455,
     "wof:placetype":"locality",

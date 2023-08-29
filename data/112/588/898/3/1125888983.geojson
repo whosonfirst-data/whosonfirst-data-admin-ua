@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u044b\u0445\u0430\u0439\u043b\u0456\u045e\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0438\u0432\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Mikhailivka"
     ],
     "name:ceb_x_preferred":[
         "Mykhaylivka"
     ],
     "name:ces_x_preferred":[
         "Mychajlivka"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
     "name:crh_x_preferred":[
         "Yedi Qure\u00f1"
@@ -40,11 +49,17 @@
     "name:eng_x_preferred":[
         "Mykhailivka"
     ],
+    "name:fra_x_preferred":[
+        "Mykha\u00eflivka"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05db\u05d0\u05d9\u05dc\u05d5\u05d1\u05e7\u05d4"
     ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u056d\u0561\u0575\u056c\u0578\u057e\u056f\u0561"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30cf\u30a4\u30ea\u30d5\u30ab"
     ],
     "name:lav_x_preferred":[
         "Mihaj\u013civka"
@@ -52,11 +67,20 @@
     "name:pol_x_preferred":[
         "Mychajliwka"
     ],
+    "name:ron_x_preferred":[
+        "M\u00eehailivka"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
     ],
     "name:rus_x_variant":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mij\u00e1livka"
+    ],
+    "name:swe_x_preferred":[
+        "Mychajlivka"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
@@ -106,7 +130,7 @@
         }
     ],
     "wof:id":1125888983,
-    "wof:lastmodified":1566593912,
+    "wof:lastmodified":1690876903,
     "wof:name":"Mykhaylivka",
     "wof:parent_id":102088247,
     "wof:placetype":"locality",

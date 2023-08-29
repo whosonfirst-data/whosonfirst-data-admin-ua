@@ -26,8 +26,17 @@
     "name:ara_x_variant":[
         "\u062f\u0648\u0644\u064a\u0646\u0633\u0643\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043b\u044b\u043d\u0441\u043a\u044d"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u0441\u043a\u0435"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d\u0441\u043a\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Dol\u0131nske"
     ],
     "name:deu_x_preferred":[
         "Dolynske"
@@ -35,8 +44,29 @@
     "name:eng_x_preferred":[
         "Dolynske"
     ],
+    "name:fin_x_preferred":[
+        "D\u043elynsk\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Dolynsk\u00e9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d9\u05e0\u05e1\u05e7\u05d4"
+    ],
     "name:lav_x_preferred":[
         "Dolinske"
+    ],
+    "name:nan_x_preferred":[
+        "Dolynske"
+    ],
+    "name:nno_x_preferred":[
+        "Dolynske"
+    ],
+    "name:nob_x_preferred":[
+        "Dolynske"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142yn\u015bke"
     ],
     "name:ron_x_preferred":[
         "Dol\u00eenske"
@@ -86,8 +116,8 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        102088083,
-        85688877
+        85688877,
+        102088083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +140,7 @@
         }
     ],
     "wof:id":101865729,
-    "wof:lastmodified":1588710640,
+    "wof:lastmodified":1690876821,
     "wof:name":"\u0414\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0435",
     "wof:parent_id":102088083,
     "wof:placetype":"locality",

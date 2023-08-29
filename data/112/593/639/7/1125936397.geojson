@@ -46,6 +46,9 @@
     "name:bos_x_preferred":[
         "\u010cernobil"
     ],
+    "name:bos_x_variant":[
+        "\u010cernobilj"
+    ],
     "name:bre_x_preferred":[
         "Tchornobyl"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ces_x_preferred":[
         "\u010cernobyl"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
     ],
     "name:crh_x_preferred":[
         "\u00c7ornob\u0131l"
@@ -104,6 +110,9 @@
     "name:glg_x_preferred":[
         "Chern\u00f3bil"
     ],
+    "name:glv_x_preferred":[
+        "Chornobyl"
+    ],
     "name:hbs_x_preferred":[
         "Chernobil"
     ],
@@ -125,6 +134,12 @@
     "name:hye_x_preferred":[
         "\u0549\u0565\u057c\u0576\u0578\u0562\u056b\u056c"
     ],
+    "name:ido_x_preferred":[
+        "Chornobil"
+    ],
+    "name:ina_x_preferred":[
+        "\u010cornobyl"
+    ],
     "name:ind_x_preferred":[
         "Chernobyl"
     ],
@@ -139,6 +154,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30eb\u30ce\u30fc\u30d6\u30a3\u30ea"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c1\u30e7\u30eb\u30ce\u30fc\u30d3\u30ea"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d1\u10d8\u10da\u10d8"
@@ -155,11 +173,17 @@
     "name:lav_x_preferred":[
         "\u010cernobi\u013ca"
     ],
+    "name:lav_x_variant":[
+        "\u010cornobi\u013ca"
+    ],
     "name:lit_x_preferred":[
         "\u010cernobylis"
     ],
     "name:ltz_x_preferred":[
         "Tschernobyl"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
     ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0431\u0438\u043b"
@@ -169,6 +193,12 @@
     ],
     "name:msa_x_preferred":[
         "Chernobyl"
+    ],
+    "name:msa_x_variant":[
+        "Chornobyl"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u0628\u06cc\u0644"
     ],
     "name:nld_x_preferred":[
         "Tsjernobyl"
@@ -185,6 +215,9 @@
     "name:oci_x_preferred":[
         "Chornobyl"
     ],
+    "name:oss_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
+    ],
     "name:pol_x_preferred":[
         "Czarnobyl"
     ],
@@ -199,6 +232,9 @@
     ],
     "name:ron_x_variant":[
         "Cernob\u00eel"
+    ],
+    "name:rue_x_preferred":[
+        "\u0427\u043e\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
@@ -229,6 +265,9 @@
         "Chorn\u00f3bil",
         "Chernobyl"
     ],
+    "name:sqi_x_preferred":[
+        "Chernobyl"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0431\u0438\u0459"
     ],
@@ -240,6 +279,12 @@
     ],
     "name:tat_x_preferred":[
         "\u0427\u043e\u0440\u043d\u043e\u0431\u044b\u043b\u044c"
+    ],
+    "name:tgl_x_preferred":[
+        "Chernobyl"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e2d\u0e23\u0e4c\u0e19\u0e2d\u0e1a\u0e36\u0e25"
     ],
     "name:tuk_x_preferred":[
         "\u00c7ernobyl"
@@ -256,17 +301,26 @@
     "name:urd_x_preferred":[
         "\u0686\u0631\u0646\u0648\u0628\u0644"
     ],
+    "name:uzb_x_preferred":[
+        "Chernobil"
+    ],
     "name:vie_x_preferred":[
         "Chernobyl"
     ],
     "name:war_x_preferred":[
         "Chernobyl"
     ],
+    "name:wuu_x_preferred":[
+        "\u5207\u5c14\u8bfa\u8d1d\u5229"
+    ],
     "name:xmf_x_preferred":[
         "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d1\u10d8\u10da\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05e9\u05e2\u05e8\u05e0\u05d0\u05d1\u05dc"
+    ],
+    "name:yue_x_preferred":[
+        "\u5207\u723e\u8afe\u8c9d\u723e"
     ],
     "name:zho_x_preferred":[
         "\u5207\u5c14\u8bfa\u8d1d\u5229"
@@ -310,7 +364,7 @@
         }
     ],
     "wof:id":1125936397,
-    "wof:lastmodified":1566593884,
+    "wof:lastmodified":1690876866,
     "wof:name":"Chornobyl\u2019",
     "wof:parent_id":102088927,
     "wof:placetype":"locality",

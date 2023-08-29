@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Simeikine"
+    ],
     "name:ceb_x_preferred":[
         "Simeykyne"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u0435\u0439\u043a\u0438\u043d\u043e"
     ],
     "name:crh_x_preferred":[
         "Simeyk\u0131ne"
@@ -48,6 +54,9 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u0456\u043c\u0435\u0439\u043a\u0438\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Simeikine"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u0435\u0439\u043a\u0438\u043d\u0435"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1125978703,
-    "wof:lastmodified":1566593926,
+    "wof:lastmodified":1690876919,
     "wof:name":"Semeykino",
     "wof:parent_id":1108815747,
     "wof:placetype":"locality",

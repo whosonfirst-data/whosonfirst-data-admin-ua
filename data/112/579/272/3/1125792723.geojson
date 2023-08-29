@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u044b\u0448\u0443\u0432\u0430\u0445\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430"
     ],
     "name:ceb_x_preferred":[
         "Komyshuvakha"
+    ],
+    "name:ces_x_preferred":[
+        "Komy\u0161uvacha"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430"
     ],
     "name:crh_x_preferred":[
         "Kom\u0131\u015fuvaha"
@@ -36,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Komyshuvakha"
+    ],
+    "name:fra_x_preferred":[
+        "Komychouvakha"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0574\u056b\u0577\u0587\u0561\u056d\u0561"
@@ -54,6 +66,12 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0430\u043c\u044b\u0448\u0435\u0432\u0430\u0445\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Komishuvaja"
+    ],
+    "name:swe_x_preferred":[
+        "Komysjuvacha"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0438\u0448\u0443\u0432\u0430\u0445\u0430"
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":1125792723,
-    "wof:lastmodified":1566593961,
+    "wof:lastmodified":1690876968,
     "wof:name":"Kamyshevakha",
     "wof:parent_id":102088375,
     "wof:placetype":"locality",
