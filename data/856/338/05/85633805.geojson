@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":70.907449,
-    "geom:area_square_m":572330438029.821289,
+    "geom:area_square_m":573165614806.725708,
     "geom:bbox":"22.137094,45.204173,40.228581,52.379581",
     "geom:latitude":49.161089,
     "geom:longitude":31.276326,
@@ -13,6 +13,9 @@
     "iso:country":"UA",
     "itu:country_code":[
         "380"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "UA"
@@ -1413,7 +1416,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"380",
     "statoids:ds":"UA",
     "statoids:fifa":"UKR",
@@ -1476,7 +1480,7 @@
         "meso",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"b1ad74ecf9868f4c9c55725e2f1429e0",
+    "wof:geomhash":"4992403e1f30243028febb795cd3a330",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1492,12 +1496,12 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876189,
+    "wof:lastmodified":1694492182,
     "wof:name":"Ukraine",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":42800501,
-    "wof:population_rank":15,
+    "wof:population":44385155,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:shortcode":"UA",
     "wof:superseded_by":[],
