@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235335,
-    "geom:area_square_m":1916080473.621297,
+    "geom:area_square_m":1916080282.238067,
     "geom:bbox":"39.049555,48.526958,40.077889,49.104353",
     "geom:latitude":48.817618,
     "geom:longitude":39.525955,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LH.SL"
+        "hasc:id":"UA.LH.SL",
+        "qs:local_id":"44248"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9d18e5af44e2c8f1638d1110915a6d3",
+    "wof:geomhash":"3e0e38b4b4d4b727197cd794173ec994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088875,
-    "wof:lastmodified":1627522935,
+    "wof:lastmodified":1695886133,
     "wof:name":"Stanychno-Luhanskyi",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

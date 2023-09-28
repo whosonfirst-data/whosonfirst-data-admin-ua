@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097784,
-    "geom:area_square_m":790428037.986626,
+    "geom:area_square_m":790427920.017123,
     "geom:bbox":"34.980455,48.978713,35.585858,49.347754",
     "geom:latitude":49.176971,
     "geom:longitude":35.279244,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.ZA"
+        "hasc:id":"UA.KK.ZA",
+        "qs:local_id":"63222"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12f4ab2ea6a2adfb1d9b7e771860ac35",
+    "wof:geomhash":"52cd62ab5cfe460d7624e31b49790fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088705,
-    "wof:lastmodified":1627522949,
+    "wof:lastmodified":1695886157,
     "wof:name":"Zachepylivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

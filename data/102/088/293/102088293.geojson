@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13967,
-    "geom:area_square_m":1126601588.417213,
+    "geom:area_square_m":1126601669.174721,
     "geom:bbox":"25.235872,49.113917,25.940372,49.415483",
     "geom:latitude":49.282564,
     "geom:longitude":25.596756,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.TB"
+        "hasc:id":"UA.TP.TB",
+        "qs:local_id":"61250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95c0239d76f9f9f90ec1d2c09f8e889e",
+    "wof:geomhash":"f5b0e3bda38e843d8cbf15fea52dc3eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088293,
-    "wof:lastmodified":1627522940,
+    "wof:lastmodified":1695886141,
     "wof:name":"Terebovlianskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

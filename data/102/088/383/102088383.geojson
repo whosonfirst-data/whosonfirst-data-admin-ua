@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121325,
-    "geom:area_square_m":996538538.486052,
+    "geom:area_square_m":996538608.987844,
     "geom:bbox":"32.383183,48.213425,33.106762,48.544169",
     "geom:latitude":48.374025,
     "geom:longitude":32.737135,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.NH"
+        "hasc:id":"UA.KH.NH",
+        "qs:local_id":"35234"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58b40fff4d7a372b7dd209bb247fd6b5",
+    "wof:geomhash":"a421a47327478c99dcfc16e62f5b2e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088383,
-    "wof:lastmodified":1627522917,
+    "wof:lastmodified":1695886102,
     "wof:name":"Novhorodkivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

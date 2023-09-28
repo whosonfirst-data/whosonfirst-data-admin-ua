@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093497,
-    "geom:area_square_m":739879888.688624,
+    "geom:area_square_m":739879904.12437,
     "geom:bbox":"25.101051,50.003405,25.57635,50.380279",
     "geom:latitude":50.209884,
     "geom:longitude":25.341439,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.RA"
+        "hasc:id":"UA.RV.RA",
+        "qs:local_id":"56258"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eee72de7043fdfc5be2713fb5c992cbd",
+    "wof:geomhash":"891e068269d4d04304bd351b370bf29b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088507,
-    "wof:lastmodified":1627522926,
+    "wof:lastmodified":1695886117,
     "wof:name":"Radyvylivskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

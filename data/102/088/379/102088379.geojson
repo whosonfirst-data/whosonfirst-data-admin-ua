@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10409,
-    "geom:area_square_m":835371334.161798,
+    "geom:area_square_m":835371444.623655,
     "geom:bbox":"25.801239,49.359351,26.272435,49.728849",
     "geom:latitude":49.530821,
     "geom:longitude":26.05508,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.PV"
+        "hasc:id":"UA.TP.PV",
+        "qs:local_id":"61246"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f7c55962489e5c62b8e0f186468f124b",
+    "wof:geomhash":"7fe8e5aa3d70a792a695897c28697c1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088379,
-    "wof:lastmodified":1627522923,
+    "wof:lastmodified":1695886112,
     "wof:name":"Pidvolochyskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

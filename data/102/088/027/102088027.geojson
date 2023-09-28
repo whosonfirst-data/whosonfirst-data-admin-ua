@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114633,
-    "geom:area_square_m":941509464.55693,
+    "geom:area_square_m":941509544.428545,
     "geom:bbox":"22.839671,48.220622,23.464336,48.574274",
     "geom:latitude":48.377047,
     "geom:longitude":23.143631,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZK.IR"
+        "hasc:id":"UA.ZK.IR",
+        "qs:local_id":"21219"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5fc377f5d57c48578915d5bbcc5411c1",
+    "wof:geomhash":"5f7db4a448370b293840ce52a5f411ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088027,
-    "wof:lastmodified":1627522895,
+    "wof:lastmodified":1695886062,
     "wof:name":"Irshavskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

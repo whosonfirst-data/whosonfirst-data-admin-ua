@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157278,
-    "geom:area_square_m":1247422020.953445,
+    "geom:area_square_m":1247422303.777485,
     "geom:bbox":"26.302203,49.870865,27.003494,50.322305",
     "geom:latitude":50.101815,
     "geom:longitude":26.700184,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KM.IZ"
+        "hasc:id":"UA.KM.IZ",
+        "qs:local_id":"68221"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24d92a51c14c40d1b29b56abd5a4b9c0",
+    "wof:geomhash":"e0944524e7a247186a16eb148f3fca7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088547,
-    "wof:lastmodified":1627522896,
+    "wof:lastmodified":1695886064,
     "wof:name":"Iziaslavskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

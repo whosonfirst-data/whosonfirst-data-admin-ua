@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112712,
-    "geom:area_square_m":913558128.289789,
+    "geom:area_square_m":913558060.6393,
     "geom:bbox":"29.025107,48.895584,29.695122,49.238804",
     "geom:latitude":49.043078,
     "geom:longitude":29.342646,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.IL"
+        "hasc:id":"UA.VI.IL",
+        "qs:local_id":"05212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10e5ad99fbdd46fe145193410b3fd9ce",
+    "wof:geomhash":"78c10f11423c64d0990fb4d2252094c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088381,
-    "wof:lastmodified":1627522895,
+    "wof:lastmodified":1695886062,
     "wof:name":"Illinetskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

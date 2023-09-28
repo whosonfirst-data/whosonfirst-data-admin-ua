@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085624,
-    "geom:area_square_m":676812245.977206,
+    "geom:area_square_m":676812257.110805,
     "geom:bbox":"32.682857,50.136872,33.15899,50.429752",
     "geom:latitude":50.263834,
     "geom:longitude":32.933014,
@@ -139,13 +139,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.CR",
+        "qs:local_id":"53251",
         "wd:id":"Q2567096"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"305faee79e91f8d4ed67b03c42c52062",
+    "wof:geomhash":"113eeb6f87b7cf8d427a018267aaf66a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":102088825,
-    "wof:lastmodified":1690876178,
+    "wof:lastmodified":1695886050,
     "wof:name":"Chornukhynskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

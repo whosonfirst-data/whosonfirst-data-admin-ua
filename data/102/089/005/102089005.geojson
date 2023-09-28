@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121492,
-    "geom:area_square_m":932707019.858565,
+    "geom:area_square_m":932706922.852841,
     "geom:bbox":"32.292817,51.387997,32.932923,51.87224",
     "geom:latitude":51.620642,
     "geom:longitude":32.593943,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.SO"
+        "hasc:id":"UA.CH.SO",
+        "qs:local_id":"74249"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffdb9cad5503e2a59c3a4978d0c6db5b",
+    "wof:geomhash":"26b30f525dd08dae46ad36227ce20a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102089005,
-    "wof:lastmodified":1627522934,
+    "wof:lastmodified":1695886132,
     "wof:name":"Sosnytskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

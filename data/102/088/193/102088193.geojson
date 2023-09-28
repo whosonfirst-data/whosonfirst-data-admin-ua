@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106601,
-    "geom:area_square_m":875635348.014793,
+    "geom:area_square_m":875635325.231616,
     "geom:bbox":"28.499454,48.207685,29.107311,48.523874",
     "geom:latitude":48.371626,
     "geom:longitude":28.784556,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.KZ"
+        "hasc:id":"UA.VI.KZ",
+        "qs:local_id":"05219"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32d7fed348f3756be8228ce7e5a7b75e",
+    "wof:geomhash":"bdb36927c71b33f991fcf8f94b7a6edf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088193,
-    "wof:lastmodified":1627522908,
+    "wof:lastmodified":1695886085,
     "wof:name":"Kryzhopilskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

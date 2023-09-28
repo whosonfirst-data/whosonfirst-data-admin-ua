@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164625,
-    "geom:area_square_m":1276055865.450028,
+    "geom:area_square_m":1276056479.624668,
     "geom:bbox":"28.786668,50.982786,29.511782,51.459873",
     "geom:latitude":51.180754,
     "geom:longitude":29.164662,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.NA"
+        "hasc:id":"UA.ZT.NA",
+        "qs:local_id":"18237"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"600ca325984e4b6652f4fb11d0d4032b",
+    "wof:geomhash":"3cebed9bd4fb73d282a46c8675d0598b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088895,
-    "wof:lastmodified":1627522916,
+    "wof:lastmodified":1695886101,
     "wof:name":"Narodytskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

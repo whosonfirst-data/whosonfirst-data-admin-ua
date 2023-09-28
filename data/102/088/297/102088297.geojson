@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09935,
-    "geom:area_square_m":811814832.56775,
+    "geom:area_square_m":811814778.330113,
     "geom:bbox":"29.37419,48.488383,29.99344,48.809285",
     "geom:latitude":48.637119,
     "geom:longitude":29.679115,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.TE"
+        "hasc:id":"UA.VI.TE",
+        "qs:local_id":"05237"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dda8b8637bace93530b9d90525552550",
+    "wof:geomhash":"d9debbe3f4166f290ede9a9ca2eadd1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088297,
-    "wof:lastmodified":1627522939,
+    "wof:lastmodified":1695886139,
     "wof:name":"Teplytskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

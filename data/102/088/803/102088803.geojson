@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172363,
-    "geom:area_square_m":1406508235.701842,
+    "geom:area_square_m":1406507959.552357,
     "geom:bbox":"38.222588,48.262002,38.727941,49.025668",
     "geom:latitude":48.705297,
     "geom:longitude":38.450113,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LH.PO"
+        "hasc:id":"UA.LH.PO",
+        "qs:local_id":"44238"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70fa650c7c9e8040a4bc7b62410c1d2a",
+    "wof:geomhash":"21d173ee2059feff8e27cd3367477b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088803,
-    "wof:lastmodified":1627522924,
+    "wof:lastmodified":1695886114,
     "wof:name":"Popasnianskyi",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

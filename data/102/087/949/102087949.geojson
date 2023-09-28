@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216302,
-    "geom:area_square_m":1848943618.381536,
+    "geom:area_square_m":1848943816.988467,
     "geom:bbox":"28.934106,45.948272,29.614602,46.558145",
     "geom:latitude":46.267231,
     "geom:longitude":29.212314,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.TR"
+        "hasc:id":"UA.OD.TR",
+        "qs:local_id":"51247"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f78476f07216d42cf89f029e64c15737",
+    "wof:geomhash":"93ff003c3e66eb879400eccd2283e12d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087949,
-    "wof:lastmodified":1627522938,
+    "wof:lastmodified":1695886137,
     "wof:name":"Tarutynskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

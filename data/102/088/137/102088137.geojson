@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091304,
-    "geom:area_square_m":745034162.494006,
+    "geom:area_square_m":745034132.305681,
     "geom:bbox":"25.209804,48.552204,25.65481,48.872243",
     "geom:latitude":48.706695,
     "geom:longitude":25.42173,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.IF.HO"
+        "hasc:id":"UA.IF.HO",
+        "qs:local_id":"26216"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e48c3740274355dda13d8b3970dfd05b",
+    "wof:geomhash":"bbfcd14454881e144feaee9dd8d174dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088137,
-    "wof:lastmodified":1627522893,
+    "wof:lastmodified":1695886059,
     "wof:name":"Horodenkivskyi",
     "wof:parent_id":85688823,
     "wof:placetype":"county",

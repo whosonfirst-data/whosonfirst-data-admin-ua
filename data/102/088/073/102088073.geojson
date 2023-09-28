@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165191,
-    "geom:area_square_m":1393068783.392479,
+    "geom:area_square_m":1393068365.008031,
     "geom:bbox":"32.328536,46.815991,33.158076,47.215076",
     "geom:latitude":46.999863,
     "geom:longitude":32.714051,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.SN"
+        "hasc:id":"UA.MY.SN",
+        "qs:local_id":"48257"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c399090a151142e2b0591519998feba",
+    "wof:geomhash":"0f55c850c2b1113dba1b28cf1b75ea72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088073,
-    "wof:lastmodified":1627522933,
+    "wof:lastmodified":1695886129,
     "wof:name":"Snihurivskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

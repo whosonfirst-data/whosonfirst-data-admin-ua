@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096145,
-    "geom:area_square_m":799137551.952217,
+    "geom:area_square_m":799137650.879552,
     "geom:bbox":"30.388697,47.600398,30.792735,47.927943",
     "geom:latitude":47.763602,
     "geom:longitude":30.58364,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.VD"
+        "hasc:id":"UA.MY.VD",
+        "qs:local_id":"48223"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27906fc55ffce0c7ebb3a6099942a5da",
+    "wof:geomhash":"5a1cba3bb0661f283547950ebbe3bcea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088117,
-    "wof:lastmodified":1627522947,
+    "wof:lastmodified":1695886153,
     "wof:name":"Vradiivskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

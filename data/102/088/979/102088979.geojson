@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190993,
-    "geom:area_square_m":1481629186.350346,
+    "geom:area_square_m":1481629217.566078,
     "geom:bbox":"32.493891,50.859245,33.085579,51.440149",
     "geom:latitude":51.143707,
     "geom:longitude":32.819599,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.BA"
+        "hasc:id":"UA.CH.BA",
+        "qs:local_id":"74203"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68e9c3676551ea4582dc55f9e634202a",
+    "wof:geomhash":"8a0cddc16fb75a803c1b1a2f12fdd32d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088979,
-    "wof:lastmodified":1627522894,
+    "wof:lastmodified":1695886061,
     "wof:name":"Bakhmatskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

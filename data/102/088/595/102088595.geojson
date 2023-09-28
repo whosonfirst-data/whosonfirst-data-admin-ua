@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087794,
-    "geom:area_square_m":692395614.302087,
+    "geom:area_square_m":692395568.89063,
     "geom:bbox":"26.179273,50.171963,26.738924,50.538222",
     "geom:latitude":50.371584,
     "geom:longitude":26.455594,
@@ -115,13 +115,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.RV.OR",
+        "qs:local_id":"56242",
         "wd:id":"Q140998"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3e5a43f67e5b96da959cd92b2a30630",
+    "wof:geomhash":"3fe481bede776f28f97cd506ce32d170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":102088595,
-    "wof:lastmodified":1690876168,
+    "wof:lastmodified":1695886793,
     "wof:name":"Ostrozkyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

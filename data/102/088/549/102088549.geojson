@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198488,
-    "geom:area_square_m":1564510309.345992,
+    "geom:area_square_m":1564510281.173213,
     "geom:bbox":"23.673552,50.18054,24.59895,50.648877",
     "geom:latitude":50.398195,
     "geom:longitude":24.156647,
@@ -145,13 +145,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.LV.SO",
+        "qs:local_id":"46248",
         "wd:id":"Q2599820"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"310d2cedc1d20aa6f35cde5b0ae144fb",
+    "wof:geomhash":"c47235ca56e4a2de611b045c026055a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":102088549,
-    "wof:lastmodified":1690876181,
+    "wof:lastmodified":1695886131,
     "wof:name":"Sokalskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

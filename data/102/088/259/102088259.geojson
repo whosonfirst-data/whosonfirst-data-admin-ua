@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180373,
-    "geom:area_square_m":1493211890.957485,
+    "geom:area_square_m":1493211871.390905,
     "geom:bbox":"31.729104,47.749218,32.451782,48.159821",
     "geom:latitude":47.971647,
     "geom:longitude":32.07697,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.BO"
+        "hasc:id":"UA.KH.BO",
+        "qs:local_id":"35208"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f44f5ac65c724ee6608dd1c3bcb7c66b",
+    "wof:geomhash":"a010ab5a37383e4b81b084e233fbd4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088259,
-    "wof:lastmodified":1627522884,
+    "wof:lastmodified":1695886043,
     "wof:name":"Bobrynetskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

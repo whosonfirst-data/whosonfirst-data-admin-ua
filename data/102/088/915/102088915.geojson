@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180308,
-    "geom:area_square_m":1395312049.676957,
+    "geom:area_square_m":1395313774.460092,
     "geom:bbox":"29.267596,51.022661,29.966641,51.53106",
     "geom:latitude":51.256878,
     "geom:longitude":29.593683,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.PO"
+        "hasc:id":"UA.KV.PO",
+        "qs:local_id":"32235"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"764733315d87cd7bb43968b7b7dd316a",
+    "wof:geomhash":"24f710475d3a0513ffc3cb648483b544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088915,
-    "wof:lastmodified":1627522923,
+    "wof:lastmodified":1695886113,
     "wof:name":"Poliskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11153,
-    "geom:area_square_m":905985192.070086,
+    "geom:area_square_m":905985058.08213,
     "geom:bbox":"34.297103,48.766166,34.791319,49.121405",
     "geom:latitude":48.932931,
     "geom:longitude":34.531296,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.TS"
+        "hasc:id":"UA.DP.TS",
+        "qs:local_id":"12256"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d475db8f3b3aaae4ed4145508b8e0383",
+    "wof:geomhash":"407a896059517b9ffc02f8a9778300f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088613,
-    "wof:lastmodified":1627522942,
+    "wof:lastmodified":1695886146,
     "wof:name":"Tsarychanskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

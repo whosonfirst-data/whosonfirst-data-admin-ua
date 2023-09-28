@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210464,
-    "geom:area_square_m":1737042569.327525,
+    "geom:area_square_m":1737042827.120913,
     "geom:bbox":"34.175914,47.919508,35.201592,48.316853",
     "geom:latitude":48.127949,
     "geom:longitude":34.677115,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.SL"
+        "hasc:id":"UA.DP.SL",
+        "qs:local_id":"12250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a58c695e8f0c3ccbe9d035d8195ad7f6",
+    "wof:geomhash":"213bd5490e95e47c5fe29d05cd1f832d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088437,
-    "wof:lastmodified":1627522934,
+    "wof:lastmodified":1695886131,
     "wof:name":"Solonianskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

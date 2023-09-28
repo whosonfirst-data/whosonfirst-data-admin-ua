@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159491,
-    "geom:area_square_m":1300381143.580046,
+    "geom:area_square_m":1300380554.760457,
     "geom:bbox":"32.224239,48.539566,32.930592,48.986321",
     "geom:latitude":48.747649,
     "geom:longitude":32.628269,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.ZR"
+        "hasc:id":"UA.KH.ZR",
+        "qs:local_id":"35222"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb12b6ad259ce185f88f55918892c45e",
+    "wof:geomhash":"b6ef80fa263278c8941c165c5ca8fe39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088479,
-    "wof:lastmodified":1627522951,
+    "wof:lastmodified":1695886160,
     "wof:name":"Znamianskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

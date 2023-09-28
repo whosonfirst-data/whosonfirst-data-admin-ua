@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112759,
-    "geom:area_square_m":944825710.372692,
+    "geom:area_square_m":944825418.654299,
     "geom:bbox":"29.551125,47.16714,30.012924,47.531686",
     "geom:latitude":47.340543,
     "geom:longitude":29.760812,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.FR"
+        "hasc:id":"UA.OD.FR",
+        "qs:local_id":"51252"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c9108cfbd201c329035cd213d76ecf6",
+    "wof:geomhash":"0ff704e9fdca9a89c53e48469d0865e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088023,
-    "wof:lastmodified":1627522892,
+    "wof:lastmodified":1695886057,
     "wof:name":"Frunzivskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

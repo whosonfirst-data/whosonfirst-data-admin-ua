@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154804,
-    "geom:area_square_m":1244050524.418191,
+    "geom:area_square_m":1244050532.275379,
     "geom:bbox":"22.64071,49.234362,23.168324,49.714814",
     "geom:latitude":49.464897,
     "geom:longitude":22.907556,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.SS"
+        "hasc:id":"UA.LV.SS",
+        "qs:local_id":"46251"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cfa8fd2a9644869bd8c922a7bcc7ecad",
+    "wof:geomhash":"98fe63d46f7408a334389fe201278e04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088273,
-    "wof:lastmodified":1627522936,
+    "wof:lastmodified":1695886135,
     "wof:name":"Starosambirskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

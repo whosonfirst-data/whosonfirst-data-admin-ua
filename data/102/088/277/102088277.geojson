@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113317,
-    "geom:area_square_m":938256109.266635,
+    "geom:area_square_m":938256079.849983,
     "geom:bbox":"32.275601,47.788918,32.780063,48.189144",
     "geom:latitude":47.962519,
     "geom:longitude":32.520146,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.US"
+        "hasc:id":"UA.KH.US",
+        "qs:local_id":"35258"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f71a8499d0a4a1d5dc7ab0a5d5e996ef",
+    "wof:geomhash":"471bcff5980f1aaa3f60b889b2225631",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088277,
-    "wof:lastmodified":1627522942,
+    "wof:lastmodified":1695886146,
     "wof:name":"Ustynivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

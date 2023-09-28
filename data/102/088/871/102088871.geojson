@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127353,
-    "geom:area_square_m":1015610301.530711,
+    "geom:area_square_m":1015610481.450153,
     "geom:bbox":"35.242172,49.64567,35.876101,50.022698",
     "geom:latitude":49.839019,
     "geom:longitude":35.577241,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.VA"
+        "hasc:id":"UA.KK.VA",
+        "qs:local_id":"63212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a420faccb18b8d6827df49177cfa71e",
+    "wof:geomhash":"4ab36e8652e3b85ad8c1473b9b090aac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088871,
-    "wof:lastmodified":1627522943,
+    "wof:lastmodified":1695886147,
     "wof:name":"Valkivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

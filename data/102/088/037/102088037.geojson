@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140192,
-    "geom:area_square_m":1157309753.801257,
+    "geom:area_square_m":1157309748.698728,
     "geom:bbox":"25.326962,47.92645,25.953121,48.312121",
     "geom:latitude":48.116906,
     "geom:longitude":25.626264,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CV.ST"
+        "hasc:id":"UA.CV.ST",
+        "qs:local_id":"73245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78863c109d0dd87885ffb047f44c65e2",
+    "wof:geomhash":"c0206a3e4b5669be84601839ca5ef891",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088037,
-    "wof:lastmodified":1627522936,
+    "wof:lastmodified":1695886134,
     "wof:name":"Storozhynetskyi",
     "wof:parent_id":85688869,
     "wof:placetype":"county",

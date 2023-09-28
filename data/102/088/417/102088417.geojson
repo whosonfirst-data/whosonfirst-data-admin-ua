@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144497,
-    "geom:area_square_m":1187456153.644865,
+    "geom:area_square_m":1187455677.494724,
     "geom:bbox":"33.04454,48.102597,33.54706,48.568886",
     "geom:latitude":48.348632,
     "geom:longitude":33.28829,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.PE"
+        "hasc:id":"UA.KH.PE",
+        "qs:local_id":"35249"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e929c8bd2f0ef621548c1879af53926",
+    "wof:geomhash":"228d73c8134089288d0ed80197c93098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088417,
-    "wof:lastmodified":1627522923,
+    "wof:lastmodified":1695886112,
     "wof:name":"Petrivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

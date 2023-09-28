@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147079,
-    "geom:area_square_m":1202033821.449233,
+    "geom:area_square_m":1202033467.72364,
     "geom:bbox":"30.530999,48.429264,31.267345,48.772327",
     "geom:latitude":48.628142,
     "geom:longitude":30.845962,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.NA"
+        "hasc:id":"UA.KH.NA",
+        "qs:local_id":"35236"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9556b6f74eefa7353fa1976fb1a55908",
+    "wof:geomhash":"46e274e81a28d211eb938d0352742291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088353,
-    "wof:lastmodified":1627522917,
+    "wof:lastmodified":1695886102,
     "wof:name":"Novoarkhanhelskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

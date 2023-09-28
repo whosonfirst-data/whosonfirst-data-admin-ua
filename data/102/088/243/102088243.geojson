@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11405,
-    "geom:area_square_m":925913291.595811,
+    "geom:area_square_m":925913300.804214,
     "geom:bbox":"26.176862,48.770439,26.628063,49.175858",
     "geom:latitude":48.96174,
     "geom:longitude":26.363629,
@@ -136,13 +136,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KM.CH",
+        "qs:local_id":"68252",
         "wd:id":"Q2216460"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2cd38ded656eb47c11423a2c1e9994cf",
+    "wof:geomhash":"c33b89aa677ca280754655e0dc70dc73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":102088243,
-    "wof:lastmodified":1690876171,
+    "wof:lastmodified":1695886048,
     "wof:name":"Chemerovetskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

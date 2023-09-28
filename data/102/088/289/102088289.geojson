@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122992,
-    "geom:area_square_m":990557713.502884,
+    "geom:area_square_m":990557711.382362,
     "geom:bbox":"23.975492,49.127201,24.454346,49.610004",
     "geom:latitude":49.357714,
     "geom:longitude":24.240426,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.ZD"
+        "hasc:id":"UA.LV.ZD",
+        "qs:local_id":"46215"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b556e053813deda8716864e564898684",
+    "wof:geomhash":"392e242c40e1fb3d3e69554a59f3deee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088289,
-    "wof:lastmodified":1627522897,
+    "wof:lastmodified":1695886066,
     "wof:name":"Zhydachivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

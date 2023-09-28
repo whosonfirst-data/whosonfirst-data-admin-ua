@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124051,
-    "geom:area_square_m":971454435.3918,
+    "geom:area_square_m":971454529.861344,
     "geom:bbox":"24.863814,50.532462,25.646159,50.862619",
     "geom:latitude":50.704808,
     "geom:longitude":25.204879,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.LR"
+        "hasc:id":"UA.VO.LR",
+        "qs:local_id":"07228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"275d3312ee75071c41b07d09ace1c837",
+    "wof:geomhash":"75fdc73620027e1b82b8e5a3bce3014c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088627,
-    "wof:lastmodified":1627522911,
+    "wof:lastmodified":1695886091,
     "wof:name":"Lutskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

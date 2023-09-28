@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08242,
-    "geom:area_square_m":670383982.372226,
+    "geom:area_square_m":670384209.353623,
     "geom:bbox":"30.79322,48.728445,31.359141,49.026261",
     "geom:latitude":48.867991,
     "geom:longitude":31.069778,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.KT"
+        "hasc:id":"UA.CK.KT",
+        "qs:local_id":"71222"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bec747e61c6ae94b0b3cf2873f4580c1",
+    "wof:geomhash":"c13829102f6c362249189e21f5a091b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088415,
-    "wof:lastmodified":1627522899,
+    "wof:lastmodified":1695886069,
     "wof:name":"Katerynopilskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

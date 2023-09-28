@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156912,
-    "geom:area_square_m":1288926568.703228,
+    "geom:area_square_m":1288927031.299223,
     "geom:bbox":"30.810028,48.108665,31.471995,48.611843",
     "geom:latitude":48.370334,
     "geom:longitude":31.164307,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.DB"
+        "hasc:id":"UA.KH.DB",
+        "qs:local_id":"35217"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48bac03680a8fb9ead6a3357754ba32e",
+    "wof:geomhash":"60463771e79346c9752fdee69360ed20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088315,
-    "wof:lastmodified":1627522889,
+    "wof:lastmodified":1695886051,
     "wof:name":"Dobrovelychkivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

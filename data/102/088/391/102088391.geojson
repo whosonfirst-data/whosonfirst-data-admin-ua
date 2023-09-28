@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118251,
-    "geom:area_square_m":951399704.981326,
+    "geom:area_square_m":951399536.226754,
     "geom:bbox":"27.23222,49.222563,27.862722,49.583513",
     "geom:latitude":49.408091,
     "geom:longitude":27.570199,
@@ -137,13 +137,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KM.LE",
+        "qs:local_id":"68230",
         "wd:id":"Q2347410"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"642b02adce119f9138278bacf242fb1a",
+    "wof:geomhash":"69d3efa14e59fdffc9a5c3bb3fd43d23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":102088391,
-    "wof:lastmodified":1690876168,
+    "wof:lastmodified":1695886087,
     "wof:name":"Letychivskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

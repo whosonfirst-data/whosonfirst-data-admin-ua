@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144163,
-    "geom:area_square_m":1111221884.331897,
+    "geom:area_square_m":1111221853.613049,
     "geom:bbox":"24.120246,51.218829,24.835463,51.624719",
     "geom:latitude":51.437331,
     "geom:longitude":24.443348,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.ST"
+        "hasc:id":"UA.VO.ST",
+        "qs:local_id":"07250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d74c825349b3dea3a0b7c013811de84a",
+    "wof:geomhash":"2955c3f2bfffbb4a1b92ba59e48b97de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088789,
-    "wof:lastmodified":1627522935,
+    "wof:lastmodified":1695886133,
     "wof:name":"Starovyzhivskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

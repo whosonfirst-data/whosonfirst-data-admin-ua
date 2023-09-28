@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157811,
-    "geom:area_square_m":1361809511.473906,
+    "geom:area_square_m":1361809608.205109,
     "geom:bbox":"28.48068,45.465373,29.075572,46.003452",
     "geom:latitude":45.742924,
     "geom:longitude":28.800502,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.BO"
+        "hasc:id":"UA.OD.BO",
+        "qs:local_id":"51214"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"214d8cef41ee79a56cfac4b534f342e9",
+    "wof:geomhash":"e688f3abe5db7c5610e7e841b5ae9688",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087923,
-    "wof:lastmodified":1627522885,
+    "wof:lastmodified":1695886045,
     "wof:name":"Bolhradskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

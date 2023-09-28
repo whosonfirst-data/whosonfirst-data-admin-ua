@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120754,
-    "geom:area_square_m":952701978.012564,
+    "geom:area_square_m":952699837.871552,
     "geom:bbox":"31.143266,50.161847,31.673152,50.557175",
     "geom:latitude":50.353429,
     "geom:longitude":31.383097,
@@ -123,13 +123,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.BA"
+        "hasc:id":"UA.KV.BA",
+        "qs:local_id":"32202"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"699372db094c162112d7c6a9b7e39c9a",
+    "wof:geomhash":"55b985b0d619c5bbb0c9736e715e96f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":102088785,
-    "wof:lastmodified":1627522881,
+    "wof:lastmodified":1695886038,
     "wof:name":"Baryshivskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

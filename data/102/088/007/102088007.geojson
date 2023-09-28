@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206347,
-    "geom:area_square_m":1755266830.465072,
+    "geom:area_square_m":1755266962.630112,
     "geom:bbox":"32.621941,46.265307,33.435325,46.768376",
     "geom:latitude":46.53347,
     "geom:longitude":33.022194,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.TS"
+        "hasc:id":"UA.KS.TS",
+        "qs:local_id":"65250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65fcbbbf6aa578d92090f674c76c49d3",
+    "wof:geomhash":"68989729d486657bf6b49f4c6309407f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088007,
-    "wof:lastmodified":1627522920,
+    "wof:lastmodified":1695886106,
     "wof:name":"Tsiurupynskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

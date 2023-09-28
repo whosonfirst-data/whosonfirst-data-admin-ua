@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142747,
-    "geom:area_square_m":1187961412.898185,
+    "geom:area_square_m":1187961884.692867,
     "geom:bbox":"32.960035,47.481936,33.586961,47.928582",
     "geom:latitude":47.698429,
     "geom:longitude":33.267583,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.SH"
+        "hasc:id":"UA.DP.SH",
+        "qs:local_id":"12258"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f644cb0bff59ae18d42a78c13bd5704",
+    "wof:geomhash":"a87b55371e23f2aa1badd12394f68fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088239,
-    "wof:lastmodified":1627522931,
+    "wof:lastmodified":1695886126,
     "wof:name":"Shyrokivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

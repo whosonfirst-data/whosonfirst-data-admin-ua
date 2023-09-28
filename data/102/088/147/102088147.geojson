@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080523,
-    "geom:area_square_m":659793360.180138,
+    "geom:area_square_m":659793335.262808,
     "geom:bbox":"27.017626,48.371725,27.534438,48.630877",
     "geom:latitude":48.497399,
     "geom:longitude":27.268205,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CV.SO"
+        "hasc:id":"UA.CV.SO",
+        "qs:local_id":"73240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f0b323c56a132c802defa17ce90691d",
+    "wof:geomhash":"768ef396ee82f861fe48cbf3250eca4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088147,
-    "wof:lastmodified":1627522934,
+    "wof:lastmodified":1695886131,
     "wof:name":"Sokyrianskyi",
     "wof:parent_id":85688869,
     "wof:placetype":"county",

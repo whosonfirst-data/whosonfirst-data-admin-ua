@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167816,
-    "geom:area_square_m":1361799235.198654,
+    "geom:area_square_m":1361799221.474998,
     "geom:bbox":"36.58703,48.749275,37.332128,49.239076",
     "geom:latitude":48.984366,
     "geom:longitude":36.916489,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.BR"
+        "hasc:id":"UA.KK.BR",
+        "qs:local_id":"63204"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"780185cd7945757e29a60dcf12f7b417",
+    "wof:geomhash":"1e04f83c9ec1cb5fa60813fc7d83fd20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088753,
-    "wof:lastmodified":1627522881,
+    "wof:lastmodified":1695886038,
     "wof:name":"Barvinkivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

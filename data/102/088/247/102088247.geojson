@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12668,
-    "geom:area_square_m":1063867982.808958,
+    "geom:area_square_m":1063867449.831334,
     "geom:bbox":"34.955594,47.073066,35.510244,47.397644",
     "geom:latitude":47.221021,
     "geom:longitude":35.265173,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.MY"
+        "hasc:id":"UA.ZP.MY",
+        "qs:local_id":"23233"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"521d3924fa1bc784f74a8d94e02459ef",
+    "wof:geomhash":"130d4d91e9276e7344ea4241c104fe70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088247,
-    "wof:lastmodified":1627522915,
+    "wof:lastmodified":1695886098,
     "wof:name":"Mykhailivskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

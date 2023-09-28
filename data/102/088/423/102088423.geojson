@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093305,
-    "geom:area_square_m":756891707.139762,
+    "geom:area_square_m":756891598.824598,
     "geom:bbox":"30.086032,48.824093,30.568745,49.185252",
     "geom:latitude":49.001729,
     "geom:longitude":30.361167,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.MA"
+        "hasc:id":"UA.CK.MA",
+        "qs:local_id":"71231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2aa0117f3ce1fac4c6b6ce18cb0a1d4d",
+    "wof:geomhash":"3f602fa1df5eb761d937c02af6f7c6d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088423,
-    "wof:lastmodified":1627522913,
+    "wof:lastmodified":1695886095,
     "wof:name":"Mankivskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

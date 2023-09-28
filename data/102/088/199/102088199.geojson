@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148924,
-    "geom:area_square_m":1240355575.46224,
+    "geom:area_square_m":1240355451.043043,
     "geom:bbox":"32.176971,47.437241,32.831031,47.823544",
     "geom:latitude":47.657155,
     "geom:longitude":32.482151,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.NB"
+        "hasc:id":"UA.MY.NB",
+        "qs:local_id":"48245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42b75788ce8a2d763779d3ad52cb7aa4",
+    "wof:geomhash":"903cee81c2e377f3a53fcaa3a90bdc00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088199,
-    "wof:lastmodified":1627522918,
+    "wof:lastmodified":1695886103,
     "wof:name":"Novobuzkyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

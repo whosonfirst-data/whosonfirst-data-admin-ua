@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166839,
-    "geom:area_square_m":1283270282.645634,
+    "geom:area_square_m":1283270361.678852,
     "geom:bbox":"33.112991,51.351164,33.784369,51.717934",
     "geom:latitude":51.534494,
     "geom:longitude":33.440731,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.SM.KV"
+        "hasc:id":"UA.SM.KV",
+        "qs:local_id":"59226"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b14be0ff33211766691c70535e31f78",
+    "wof:geomhash":"9df5ee34ce000b22439c9599ed622988",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102089003,
-    "wof:lastmodified":1627522907,
+    "wof:lastmodified":1695886084,
     "wof:name":"Krolevetskyi",
     "wof:parent_id":85688787,
     "wof:placetype":"county",

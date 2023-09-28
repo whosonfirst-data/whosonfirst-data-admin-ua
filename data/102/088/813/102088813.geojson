@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107003,
-    "geom:area_square_m":855413088.300938,
+    "geom:area_square_m":855413124.743515,
     "geom:bbox":"34.834627,49.568417,35.485631,49.898448",
     "geom:latitude":49.720371,
     "geom:longitude":35.098455,
@@ -139,13 +139,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.CT",
+        "qs:local_id":"53254",
         "wd:id":"Q2567327"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2cf8be2fd8c203563bc049a5f77a6d55",
+    "wof:geomhash":"d3bf5b9f52dedaa2415e40d919b3bb66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":102088813,
-    "wof:lastmodified":1690876178,
+    "wof:lastmodified":1695886050,
     "wof:name":"Chutivskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

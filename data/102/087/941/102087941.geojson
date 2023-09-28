@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172457,
-    "geom:area_square_m":1477688012.783955,
+    "geom:area_square_m":1477687954.383808,
     "geom:bbox":"29.384005,45.908021,30.04722,46.422405",
     "geom:latitude":46.13595,
     "geom:longitude":29.72925,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.SR"
+        "hasc:id":"UA.OD.SR",
+        "qs:local_id":"51245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f68181f94a378787975339372c4d42dc",
+    "wof:geomhash":"038c4af1fceaca31fb387b6f721f5dd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087941,
-    "wof:lastmodified":1627522929,
+    "wof:lastmodified":1695886122,
     "wof:name":"Saratskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

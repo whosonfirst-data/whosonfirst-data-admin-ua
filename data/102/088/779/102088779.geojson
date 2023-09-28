@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098426,
-    "geom:area_square_m":757270236.514722,
+    "geom:area_square_m":757270241.481756,
     "geom:bbox":"23.60395,51.380491,24.155267,51.667694",
     "geom:latitude":51.521925,
     "geom:longitude":23.864972,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.SH"
+        "hasc:id":"UA.VO.SH",
+        "qs:local_id":"07257"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67cb34b43ccd359ccf104f50baca7c7c",
+    "wof:geomhash":"2632b5e232e513297d4fad63e4fb6b47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088779,
-    "wof:lastmodified":1627522930,
+    "wof:lastmodified":1695886124,
     "wof:name":"Shatskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

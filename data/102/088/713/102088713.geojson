@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109668,
-    "geom:area_square_m":860043029.824332,
+    "geom:area_square_m":860043075.805576,
     "geom:bbox":"28.238939,50.465905,28.859436,50.769035",
     "geom:latitude":50.637676,
     "geom:longitude":28.503192,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.VO"
+        "hasc:id":"UA.ZT.VO",
+        "qs:local_id":"18211"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e93395d47a9f66ef1cef828e55f6d06",
+    "wof:geomhash":"68f3111dcd4f0daa04c6bcae1d85d87b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088713,
-    "wof:lastmodified":1627522900,
+    "wof:lastmodified":1695886071,
     "wof:name":"Volodarsko-Volynskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

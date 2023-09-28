@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121372,
-    "geom:area_square_m":958465526.344507,
+    "geom:area_square_m":958465393.269795,
     "geom:bbox":"28.829642,50.113849,29.358218,50.542747",
     "geom:latitude":50.309494,
     "geom:longitude":29.089527,
@@ -88,13 +88,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.KS"
+        "hasc:id":"UA.ZT.KS",
+        "qs:local_id":"18225"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f8b70e4a3ba81013d39ef3c11a72b0b",
+    "wof:geomhash":"65d85b321d732955ba5f0a2d5d26abdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":102088679,
-    "wof:lastmodified":1627522903,
+    "wof:lastmodified":1695886076,
     "wof:name":"Korostyshivskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

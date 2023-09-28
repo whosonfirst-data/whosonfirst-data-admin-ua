@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073516,
-    "geom:area_square_m":576472747.887672,
+    "geom:area_square_m":576472699.099017,
     "geom:bbox":"32.667855,50.517515,33.123634,50.786778",
     "geom:latitude":50.642847,
     "geom:longitude":32.8918,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.SR"
+        "hasc:id":"UA.CH.SR",
+        "qs:local_id":"74251"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f1f5b5c59d4e15523828617043def9b",
+    "wof:geomhash":"045bcd04556340f00845d3824ff039b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088893,
-    "wof:lastmodified":1627522935,
+    "wof:lastmodified":1695886133,
     "wof:name":"Sribnianskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

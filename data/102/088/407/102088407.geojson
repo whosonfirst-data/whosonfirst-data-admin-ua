@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111782,
-    "geom:area_square_m":908862169.555362,
+    "geom:area_square_m":908862161.2674,
     "geom:bbox":"30.44824,48.719192,30.962485,49.079305",
     "geom:latitude":48.886854,
     "geom:longitude":30.681547,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.TA"
+        "hasc:id":"UA.CK.TA",
+        "qs:local_id":"71240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f4881ed26b49fea0cc99808bd039f39",
+    "wof:geomhash":"83790fcdeee6ff97b96615068d45d8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088407,
-    "wof:lastmodified":1627522938,
+    "wof:lastmodified":1695886138,
     "wof:name":"Talnivskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

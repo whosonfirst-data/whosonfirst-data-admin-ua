@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103097,
-    "geom:area_square_m":829955469.314159,
+    "geom:area_square_m":829955425.314686,
     "geom:bbox":"24.298813,49.223019,24.859437,49.559626",
     "geom:latitude":49.379932,
     "geom:longitude":24.571226,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.IF.RH"
+        "hasc:id":"UA.IF.RH",
+        "qs:local_id":"26244"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"909f2069a62ace97f122d4da5f3861a6",
+    "wof:geomhash":"b4b60581ddf8ab2c376cfdf5c3f16c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088281,
-    "wof:lastmodified":1627522927,
+    "wof:lastmodified":1695886119,
     "wof:name":"Rohatynskyi",
     "wof:parent_id":85688823,
     "wof:placetype":"county",

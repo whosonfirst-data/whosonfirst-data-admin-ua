@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119906,
-    "geom:area_square_m":1004770321.568462,
+    "geom:area_square_m":1004770326.136288,
     "geom:bbox":"33.474971,47.125893,34.000279,47.5166",
     "geom:latitude":47.337484,
     "geom:longitude":33.790779,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.NV"
+        "hasc:id":"UA.KS.NV",
+        "qs:local_id":"65241"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0613c3625bfbc1a8b4b923f2c6c042a0",
+    "wof:geomhash":"e390b662dd0424c4da30374399d54739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088189,
-    "wof:lastmodified":1627522919,
+    "wof:lastmodified":1695886105,
     "wof:name":"Novovorontsovskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

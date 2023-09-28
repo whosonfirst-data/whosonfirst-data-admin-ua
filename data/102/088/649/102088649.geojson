@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11156,
-    "geom:area_square_m":891362288.314694,
+    "geom:area_square_m":891363129.178978,
     "geom:bbox":"30.698092,49.586003,31.380243,49.963398",
     "geom:latitude":49.746843,
     "geom:longitude":31.036443,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.MY"
+        "hasc:id":"UA.KV.MY",
+        "qs:local_id":"32229"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d471d55d77d2696fde30fac4cf705eb2",
+    "wof:geomhash":"37f78ccd190def9d3e580e5d876008ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088649,
-    "wof:lastmodified":1627522916,
+    "wof:lastmodified":1695886101,
     "wof:name":"Myronivskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

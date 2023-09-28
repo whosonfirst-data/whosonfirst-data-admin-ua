@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122161,
-    "geom:area_square_m":976187987.211542,
+    "geom:area_square_m":976187841.170741,
     "geom:bbox":"29.435199,49.540381,30.01178,49.932026",
     "geom:latitude":49.740614,
     "geom:longitude":29.699864,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.SK"
+        "hasc:id":"UA.KV.SK",
+        "qs:local_id":"32240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e989220b0b6162dd39f6637fe1b82e6",
+    "wof:geomhash":"0e024a1b9c03b700a90011079e86ff29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088579,
-    "wof:lastmodified":1627522932,
+    "wof:lastmodified":1695886128,
     "wof:name":"Skvyrskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

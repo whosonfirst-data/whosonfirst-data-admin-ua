@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061297,
-    "geom:area_square_m":494645717.105516,
+    "geom:area_square_m":494645733.539662,
     "geom:bbox":"24.84047,49.167862,25.318065,49.361837",
     "geom:latitude":49.261549,
     "geom:longitude":25.101227,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.PH"
+        "hasc:id":"UA.TP.PH",
+        "qs:local_id":"61248"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0723faf6024529c1294491557bfa90a3",
+    "wof:geomhash":"e42204a8e9b8706352f35dc9778ef05f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088261,
-    "wof:lastmodified":1627522923,
+    "wof:lastmodified":1695886112,
     "wof:name":"Pidhaietskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

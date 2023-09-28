@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137112,
-    "geom:area_square_m":1119254980.153686,
+    "geom:area_square_m":1119254892.629073,
     "geom:bbox":"28.484406,48.519778,29.210988,48.874535",
     "geom:latitude":48.687648,
     "geom:longitude":28.828623,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.TU"
+        "hasc:id":"UA.VI.TU",
+        "qs:local_id":"05243"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29851599272fb99d63c0ee3b6bdf6041",
+    "wof:geomhash":"4aa800a03c00b4a75b034adba4a116ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088267,
-    "wof:lastmodified":1627522941,
+    "wof:lastmodified":1695886143,
     "wof:name":"Tulchynskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

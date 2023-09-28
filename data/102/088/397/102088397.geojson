@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13786,
-    "geom:area_square_m":1106196059.660935,
+    "geom:area_square_m":1106195970.488365,
     "geom:bbox":"26.142274,49.336137,26.697468,49.745314",
     "geom:latitude":49.539644,
     "geom:longitude":26.419484,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KM.VO"
+        "hasc:id":"UA.KM.VO",
+        "qs:local_id":"68209"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae60403e6cabc915e1e4067c14a95eac",
+    "wof:geomhash":"1d2a173f64c1af69712819cfb56623ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088397,
-    "wof:lastmodified":1627522946,
+    "wof:lastmodified":1695886151,
     "wof:name":"Volochyskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

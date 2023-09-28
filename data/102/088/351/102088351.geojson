@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158343,
-    "geom:area_square_m":1285988139.151892,
+    "geom:area_square_m":1285988131.499651,
     "geom:bbox":"28.625938,48.740749,29.292277,49.188877",
     "geom:latitude":48.943351,
     "geom:longitude":28.927484,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.NE"
+        "hasc:id":"UA.VI.NE",
+        "qs:local_id":"05230"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f00985438accbc71f136b58223b1c13",
+    "wof:geomhash":"ead82acf3589c7bcb8c95d5548d6a041",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088351,
-    "wof:lastmodified":1627522916,
+    "wof:lastmodified":1695886101,
     "wof:name":"Nemyrivskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

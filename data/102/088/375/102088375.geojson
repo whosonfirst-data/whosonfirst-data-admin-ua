@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190499,
-    "geom:area_square_m":1586868606.752507,
+    "geom:area_square_m":1586868302.54741,
     "geom:bbox":"35.426281,47.42199,36.066585,47.872237",
     "geom:latitude":47.648973,
     "geom:longitude":35.729025,
@@ -145,13 +145,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.ZP.OR",
+        "qs:local_id":"23239",
         "wd:id":"Q2215987"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf6bace19d9fd5cf7c5605fbc5672873",
+    "wof:geomhash":"a093d2160511d9c33a95f7ac6be2dcaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":102088375,
-    "wof:lastmodified":1690876184,
+    "wof:lastmodified":1695886108,
     "wof:name":"Orikhivskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

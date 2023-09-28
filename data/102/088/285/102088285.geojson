@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081514,
-    "geom:area_square_m":660565822.966684,
+    "geom:area_square_m":660565875.700424,
     "geom:bbox":"26.965412,48.908612,27.503116,49.197575",
     "geom:latitude":49.052866,
     "geom:longitude":27.227781,
@@ -136,13 +136,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KM.VI",
+        "qs:local_id":"68206",
         "wd:id":"Q2216781"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ae2519da8daad615e135e574bacc665",
+    "wof:geomhash":"5f6877fb1bf0eb75ebde5ce50b5db9fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":102088285,
-    "wof:lastmodified":1690876177,
+    "wof:lastmodified":1695886150,
     "wof:name":"Vinkovetskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

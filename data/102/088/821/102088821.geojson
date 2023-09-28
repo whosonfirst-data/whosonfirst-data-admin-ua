@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096411,
-    "geom:area_square_m":758752080.926846,
+    "geom:area_square_m":758751415.840107,
     "geom:bbox":"31.444893,50.319113,32.1025,50.632042",
     "geom:latitude":50.471527,
     "geom:longitude":31.793648,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.ZG"
+        "hasc:id":"UA.KV.ZG",
+        "qs:local_id":"32219"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc9ea8eeeb5317b464e76184214b201d",
+    "wof:geomhash":"2ddb92cc179b36b7ca9a26d3a1f15ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088821,
-    "wof:lastmodified":1627522951,
+    "wof:lastmodified":1695886160,
     "wof:name":"Zghurivskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

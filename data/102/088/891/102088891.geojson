@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18961,
-    "geom:area_square_m":1450811314.804274,
+    "geom:area_square_m":1450811314.804292,
     "geom:bbox":"25.5926969998,51.5536210002,26.4709,51.9500140003",
     "geom:latitude":51.771579,
     "geom:longitude":25.964138,
@@ -260,13 +260,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.ZA"
+        "hasc:id":"UA.RV.ZA",
+        "qs:local_id":"56222"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38c5fe34ce72b1d5afd738e0da19af09",
+    "wof:geomhash":"f58e6406f786259781459f67c4c1cc96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -276,7 +281,7 @@
         }
     ],
     "wof:id":102088891,
-    "wof:lastmodified":1582349172,
+    "wof:lastmodified":1695886795,
     "wof:name":"Zarichnenskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

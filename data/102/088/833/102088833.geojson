@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254522,
-    "geom:area_square_m":1968649243.437204,
+    "geom:area_square_m":1968649185.439355,
     "geom:bbox":"26.081327,51.025632,27.087075,51.528473",
     "geom:latitude":51.279392,
     "geom:longitude":26.643872,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.SA"
+        "hasc:id":"UA.RV.SA",
+        "qs:local_id":"56254"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b186093f151262f586af73edda338e4a",
+    "wof:geomhash":"3f5f9d5d2a9fb0fb8ef5d290d2aef93b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088833,
-    "wof:lastmodified":1627522929,
+    "wof:lastmodified":1695886123,
     "wof:name":"Sarnenskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

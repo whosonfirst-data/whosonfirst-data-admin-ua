@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126889,
-    "geom:area_square_m":985430545.372945,
+    "geom:area_square_m":985430800.36468,
     "geom:bbox":"28.001376,50.887548,28.693283,51.25295",
     "geom:latitude":51.093005,
     "geom:longitude":28.317902,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.LU"
+        "hasc:id":"UA.ZT.LU",
+        "qs:local_id":"18228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84e6f7b0fa079616f66d1d4ff5d13b43",
+    "wof:geomhash":"9dcecce3ab502bd263f8e155e2684f69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088831,
-    "wof:lastmodified":1627522911,
+    "wof:lastmodified":1695886092,
     "wof:name":"Luhynskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

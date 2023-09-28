@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155903,
-    "geom:area_square_m":1279890483.604369,
+    "geom:area_square_m":1279890491.873579,
     "geom:bbox":"29.304625,48.187784,30.023145,48.595792",
     "geom:latitude":48.400177,
     "geom:longitude":29.650167,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.BE"
+        "hasc:id":"UA.VI.BE",
+        "qs:local_id":"05204"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f2b60748d47dcf00e4bb5c882c0ebecb",
+    "wof:geomhash":"4c6beb4b9a80f7449d67946efd7c0b53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088253,
-    "wof:lastmodified":1627522882,
+    "wof:lastmodified":1695886039,
     "wof:name":"Bershadskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

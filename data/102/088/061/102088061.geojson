@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082386,
-    "geom:area_square_m":673911431.854777,
+    "geom:area_square_m":673911433.608334,
     "geom:bbox":"22.847819,48.43067,23.323643,48.758605",
     "geom:latitude":48.583229,
     "geom:longitude":23.063714,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZK.SV"
+        "hasc:id":"UA.ZK.SV",
+        "qs:local_id":"21240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ca1008796643b119f0a0c9de011151c",
+    "wof:geomhash":"6e36b6783ad256c7a82c39bbcdad496f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088061,
-    "wof:lastmodified":1627522937,
+    "wof:lastmodified":1695886136,
     "wof:name":"Svaliavskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

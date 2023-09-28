@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201744,
-    "geom:area_square_m":1653185178.767364,
+    "geom:area_square_m":1653185442.944703,
     "geom:bbox":"33.469671,48.235996,34.009933,48.815531",
     "geom:latitude":48.493429,
     "geom:longitude":33.75551,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.PI"
+        "hasc:id":"UA.DP.PI",
+        "qs:local_id":"12245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1fa93086e8248b80668711a6068581c2",
+    "wof:geomhash":"85f58cacfb3a659b31c9f51b641b7a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088495,
-    "wof:lastmodified":1627522923,
+    "wof:lastmodified":1695886112,
     "wof:name":"Piatykhatskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

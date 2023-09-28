@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200641,
-    "geom:area_square_m":1565538037.603576,
+    "geom:area_square_m":1565537953.985258,
     "geom:bbox":"32.043396,50.691045,32.873931,51.083707",
     "geom:latitude":50.874541,
     "geom:longitude":32.439136,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.IC"
+        "hasc:id":"UA.CH.IC",
+        "qs:local_id":"74217"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23922db8ebc76c2d1542498a3bab8c6c",
+    "wof:geomhash":"b06e9dfef13689468b8ea50f5b9003a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088931,
-    "wof:lastmodified":1627522894,
+    "wof:lastmodified":1695886061,
     "wof:name":"Ichnianskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

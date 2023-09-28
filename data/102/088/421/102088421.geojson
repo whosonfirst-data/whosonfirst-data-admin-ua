@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119442,
-    "geom:area_square_m":963500343.846744,
+    "geom:area_square_m":963500301.427836,
     "geom:bbox":"28.617126,49.066435,29.261129,49.440269",
     "geom:latitude":49.279565,
     "geom:longitude":28.931595,
@@ -92,13 +92,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.LY"
+        "hasc:id":"UA.VI.LY",
+        "qs:local_id":"05222"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0375657e96ee22855d111ac289145b35",
+    "wof:geomhash":"47fb526129c78d2dd76c710d8ec96174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +113,7 @@
         }
     ],
     "wof:id":102088421,
-    "wof:lastmodified":1627522912,
+    "wof:lastmodified":1695886093,
     "wof:name":"Lypovetskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

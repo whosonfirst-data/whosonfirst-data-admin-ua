@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168883,
-    "geom:area_square_m":1425276497.851593,
+    "geom:area_square_m":1425276205.171194,
     "geom:bbox":"31.886013,46.642591,32.616383,47.182532",
     "geom:latitude":46.959487,
     "geom:longitude":32.228576,
@@ -136,13 +136,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.MY.ZH",
+        "qs:local_id":"48233",
         "wd:id":"Q2384614"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7b391516272864996f5d36a1f22d1eb",
+    "wof:geomhash":"1d407d11f449c65e63326a4cd224af4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":102088055,
-    "wof:lastmodified":1690876172,
+    "wof:lastmodified":1695886151,
     "wof:name":"Zhovtnevyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

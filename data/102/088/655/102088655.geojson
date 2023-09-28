@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109342,
-    "geom:area_square_m":890434159.330072,
+    "geom:area_square_m":890434555.603395,
     "geom:bbox":"35.637083,48.639282,36.209124,48.999201",
     "geom:latitude":48.807572,
     "geom:longitude":35.914352,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.IU"
+        "hasc:id":"UA.DP.IU",
+        "qs:local_id":"12259"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13255817cb8c926310ff4826dbcf115b",
+    "wof:geomhash":"a5677c0025efa3bf956fa4bcc1c7da50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088655,
-    "wof:lastmodified":1627522949,
+    "wof:lastmodified":1695886157,
     "wof:name":"Yurivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

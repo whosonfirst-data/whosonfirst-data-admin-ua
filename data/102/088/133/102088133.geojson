@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17413,
-    "geom:area_square_m":1450607537.33387,
+    "geom:area_square_m":1450607656.238694,
     "geom:bbox":"30.740312,47.358985,31.272773,47.892074",
     "geom:latitude":47.645644,
     "geom:longitude":30.990371,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.DO"
+        "hasc:id":"UA.MY.DO",
+        "qs:local_id":"48227"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f06fa8cfc04ffa199cc22e89359fa63c",
+    "wof:geomhash":"8e1ef092056444ccc711899a9ea870b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088133,
-    "wof:lastmodified":1627522890,
+    "wof:lastmodified":1695886053,
     "wof:name":"Domanivskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

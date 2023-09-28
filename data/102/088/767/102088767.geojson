@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152861,
-    "geom:area_square_m":1243919447.116975,
+    "geom:area_square_m":1243918899.99141,
     "geom:bbox":"37.184996,48.568141,37.896689,49.062096",
     "geom:latitude":48.844657,
     "geom:longitude":37.497225,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DT.SL"
+        "hasc:id":"UA.DT.SL",
+        "qs:local_id":"14242"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abf81d5c4f85acf89c9899a78e6dc454",
+    "wof:geomhash":"06be6979a75783df4ecebdfaffc05ce7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":102088767,
-    "wof:lastmodified":1627522933,
+    "wof:lastmodified":1695886129,
     "wof:name":"Slovianskyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

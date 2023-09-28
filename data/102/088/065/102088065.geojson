@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147008,
-    "geom:area_square_m":1233057136.287065,
+    "geom:area_square_m":1233057353.182297,
     "geom:bbox":"30.865717,47.047235,31.662627,47.453832",
     "geom:latitude":47.286663,
     "geom:longitude":31.276163,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.VE"
+        "hasc:id":"UA.MY.VE",
+        "qs:local_id":"48217"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1b7b502435f3722b9edc0e7778c0500",
+    "wof:geomhash":"1bd5711d2c9f3504addd6f1b6d64aebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088065,
-    "wof:lastmodified":1627522945,
+    "wof:lastmodified":1695886149,
     "wof:name":"Veselynivskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

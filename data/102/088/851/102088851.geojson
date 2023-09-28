@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259808,
-    "geom:area_square_m":2029860096.668192,
+    "geom:area_square_m":2029861504.442661,
     "geom:bbox":"30.042405,50.523229,30.778148,51.045776",
     "geom:latitude":50.813343,
     "geom:longitude":30.404603,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.VY"
+        "hasc:id":"UA.KV.VY",
+        "qs:local_id":"32218"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ff0d0c4ed349ba652ad93e21174541c",
+    "wof:geomhash":"be60c69b019606f093676605c0c29903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088851,
-    "wof:lastmodified":1627522947,
+    "wof:lastmodified":1695886154,
     "wof:name":"Vyshhorodskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

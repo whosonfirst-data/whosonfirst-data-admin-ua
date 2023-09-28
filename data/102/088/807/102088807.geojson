@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288068,
-    "geom:area_square_m":2229778934.827218,
+    "geom:area_square_m":2229778891.005215,
     "geom:bbox":"25.179487,50.975366,26.093775,51.575306",
     "geom:latitude":51.245163,
     "geom:longitude":25.609194,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.MA"
+        "hasc:id":"UA.VO.MA",
+        "qs:local_id":"07236"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be782d629ad86e49d74fdb36d84c618c",
+    "wof:geomhash":"927d732d36547a9c1ff492953775bcfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088807,
-    "wof:lastmodified":1627522913,
+    "wof:lastmodified":1695886095,
     "wof:name":"Manevytskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

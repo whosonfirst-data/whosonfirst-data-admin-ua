@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172265,
-    "geom:area_square_m":1365970359.814092,
+    "geom:area_square_m":1365970332.301968,
     "geom:bbox":"33.996323,49.885737,34.717385,50.361134",
     "geom:latitude":50.113026,
     "geom:longitude":34.378398,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.PL.ZI"
+        "hasc:id":"UA.PL.ZI",
+        "qs:local_id":"53213"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b1054a6f34f0d2ea06f1e1567c25bb2",
+    "wof:geomhash":"b8fbcfa594061ca731f833b0627b3a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088873,
-    "wof:lastmodified":1627522951,
+    "wof:lastmodified":1695886161,
     "wof:name":"Zinkivskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

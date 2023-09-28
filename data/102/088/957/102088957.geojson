@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139031,
-    "geom:area_square_m":1107269289.243774,
+    "geom:area_square_m":1107269264.41492,
     "geom:bbox":"37.469539,49.704678,38.093678,50.113491",
     "geom:latitude":49.902992,
     "geom:longitude":37.794674,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.DV"
+        "hasc:id":"UA.KK.DV",
+        "qs:local_id":"63218"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4640f7f71473c180f55d77d007ab4699",
+    "wof:geomhash":"8195b9a8c26935d4b6f4e361edfa3775",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088957,
-    "wof:lastmodified":1627522891,
+    "wof:lastmodified":1695886055,
     "wof:name":"Dvorichanskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201758,
-    "geom:area_square_m":1616103402.989257,
+    "geom:area_square_m":1616103786.345252,
     "geom:bbox":"38.779204,49.344305,39.542437,49.888386",
     "geom:latitude":49.624314,
     "geom:longitude":39.129745,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LH.NP"
+        "hasc:id":"UA.LH.NP",
+        "qs:local_id":"44233"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"07bea7c05243a98b2f4fd7bc33ec0975",
+    "wof:geomhash":"6ee8229b8801bb4796b4f4466a21ad40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088973,
-    "wof:lastmodified":1627522918,
+    "wof:lastmodified":1695886105,
     "wof:name":"Novopskovskyi",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

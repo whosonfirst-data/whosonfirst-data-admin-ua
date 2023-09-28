@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081956,
-    "geom:area_square_m":642390748.891232,
+    "geom:area_square_m":642390821.444286,
     "geom:bbox":"24.00984,50.53027,24.637869,50.807317",
     "geom:latitude":50.661775,
     "geom:longitude":24.334367,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.IV"
+        "hasc:id":"UA.VO.IV",
+        "qs:local_id":"07211"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb596a82dbea627906fcb76feb1492ef",
+    "wof:geomhash":"a35dc8fd85202af1ca4b40c4a47c391d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088581,
-    "wof:lastmodified":1627522895,
+    "wof:lastmodified":1695886062,
     "wof:name":"Ivanychivskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

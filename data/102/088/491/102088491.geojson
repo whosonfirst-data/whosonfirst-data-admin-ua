@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150253,
-    "geom:area_square_m":1193192361.68178,
+    "geom:area_square_m":1193192241.47978,
     "geom:bbox":"24.74592,49.824284,25.426775,50.300426",
     "geom:latitude":50.042013,
     "geom:longitude":25.113038,
@@ -154,13 +154,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.LV.BR",
+        "qs:local_id":"46203",
         "wd:id":"Q2599799"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ebf3fa30ce55a0009da9258fb32bf351",
+    "wof:geomhash":"a514311906d59d1ff80d30a65eeb06ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":102088491,
-    "wof:lastmodified":1690876174,
+    "wof:lastmodified":1695886047,
     "wof:name":"Brodivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

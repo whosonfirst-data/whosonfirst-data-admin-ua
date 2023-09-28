@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083547,
-    "geom:area_square_m":658615824.868679,
+    "geom:area_square_m":658615110.621429,
     "geom:bbox":"29.98689,50.248372,30.554012,50.626665",
     "geom:latitude":50.392024,
     "geom:longitude":30.235872,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.KY"
+        "hasc:id":"UA.KV.KY",
+        "qs:local_id":"32224"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a1140a73a4cefd7d0602405c94da165",
+    "wof:geomhash":"ff4bfefc411e026a636214af253f6a74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088769,
-    "wof:lastmodified":1627522908,
+    "wof:lastmodified":1695886086,
     "wof:name":"Kyievo-Sviatoshynskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

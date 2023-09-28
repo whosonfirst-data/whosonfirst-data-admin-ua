@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126429,
-    "geom:area_square_m":997646972.316772,
+    "geom:area_square_m":997646983.663944,
     "geom:bbox":"27.248354,50.169648,28.066418,50.45626",
     "geom:latitude":50.34544,
     "geom:longitude":27.655122,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.BA"
+        "hasc:id":"UA.ZT.BA",
+        "qs:local_id":"18206"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b3dc5ba5df7f197a2672b285f14d42e",
+    "wof:geomhash":"ce933c749c44eb0be2a703e19709eb3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088619,
-    "wof:lastmodified":1627522881,
+    "wof:lastmodified":1695886038,
     "wof:name":"Baranivskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

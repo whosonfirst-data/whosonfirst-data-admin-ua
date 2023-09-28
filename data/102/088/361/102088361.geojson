@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145182,
-    "geom:area_square_m":1206449133.583337,
+    "geom:area_square_m":1206449317.122638,
     "geom:bbox":"34.49291,47.515226,34.965563,48.027522",
     "geom:latitude":47.774991,
     "geom:longitude":34.752497,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.TO"
+        "hasc:id":"UA.DP.TO",
+        "qs:local_id":"12254"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0909521283b1ad1e7506e5fd97ed414",
+    "wof:geomhash":"d57e7d0c713d96ac2bbcdd72876f1194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088361,
-    "wof:lastmodified":1627522941,
+    "wof:lastmodified":1695886143,
     "wof:name":"Tomakivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

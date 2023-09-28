@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129904,
-    "geom:area_square_m":1033604941.731692,
+    "geom:area_square_m":1033604991.002292,
     "geom:bbox":"27.869905,49.766976,28.433966,50.143571",
     "geom:latitude":49.948602,
     "geom:longitude":28.145796,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.CD"
+        "hasc:id":"UA.ZT.CD",
+        "qs:local_id":"18258"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"833845496a57e780c05f17f9b1af170a",
+    "wof:geomhash":"ae7ef418a975593559df86962973550c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088561,
-    "wof:lastmodified":1627522939,
+    "wof:lastmodified":1695886140,
     "wof:name":"Chudnivskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

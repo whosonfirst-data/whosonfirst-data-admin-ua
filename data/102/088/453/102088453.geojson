@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089405,
-    "geom:area_square_m":713429999.912944,
+    "geom:area_square_m":713429889.06219,
     "geom:bbox":"26.178189,49.653065,26.664691,49.956331",
     "geom:latitude":49.80905,
     "geom:longitude":26.442042,
@@ -133,13 +133,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KM.TE",
+        "qs:local_id":"68247",
         "wd:id":"Q2216270"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6e4099048b3348e2f24bc3002ce32ed2",
+    "wof:geomhash":"1830df6d10a76334e949539a69e82e56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":102088453,
-    "wof:lastmodified":1690876173,
+    "wof:lastmodified":1695886139,
     "wof:name":"Teofipolskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

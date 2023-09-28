@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144518,
-    "geom:area_square_m":1174770689.681757,
+    "geom:area_square_m":1174770662.75741,
     "geom:bbox":"26.517443,48.716045,27.153477,49.07635",
     "geom:latitude":48.897923,
     "geom:longitude":26.848042,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KM.DU"
+        "hasc:id":"UA.KM.DU",
+        "qs:local_id":"68218"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"85c5717456fb47044a9b4e9f218142e0",
+    "wof:geomhash":"595cb55961bf4115c7f85bfe4b33c972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088237,
-    "wof:lastmodified":1627522890,
+    "wof:lastmodified":1695886053,
     "wof:name":"Dunaievetskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

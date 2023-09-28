@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202327,
-    "geom:area_square_m":1664159470.825887,
+    "geom:area_square_m":1664159280.484244,
     "geom:bbox":"31.215212,48.050554,32.027386,48.558598",
     "geom:latitude":48.303615,
     "geom:longitude":31.643966,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.NU"
+        "hasc:id":"UA.KH.NU",
+        "qs:local_id":"35240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d20830eda5eaaa2105e2e09b2d03b6b",
+    "wof:geomhash":"2bb36483197490acb3ecacf24a64ae1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088319,
-    "wof:lastmodified":1627522919,
+    "wof:lastmodified":1695886106,
     "wof:name":"Novoukrainskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

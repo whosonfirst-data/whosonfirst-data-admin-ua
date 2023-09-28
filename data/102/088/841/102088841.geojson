@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25016,
-    "geom:area_square_m":1927656561.556405,
+    "geom:area_square_m":1927656593.259335,
     "geom:bbox":"25.532634,51.185699,26.450387,51.727115",
     "geom:latitude":51.451551,
     "geom:longitude":26.026879,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.VO"
+        "hasc:id":"UA.RV.VO",
+        "qs:local_id":"56208"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23d35c935f1e76d789cb6d9d2f6fe7be",
+    "wof:geomhash":"95c22809648cc16806e202f173163eda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088841,
-    "wof:lastmodified":1627522946,
+    "wof:lastmodified":1695886152,
     "wof:name":"Volodymyretskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

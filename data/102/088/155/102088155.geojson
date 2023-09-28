@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083542,
-    "geom:area_square_m":680028595.714961,
+    "geom:area_square_m":680028806.976642,
     "geom:bbox":"24.905876,48.642582,25.327479,49.011632",
     "geom:latitude":48.829994,
     "geom:longitude":25.091097,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.IF.TL"
+        "hasc:id":"UA.IF.TL",
+        "qs:local_id":"26256"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b71b76a6a028362aa11398e705bd772",
+    "wof:geomhash":"0903adfbbbb2b4e4eb51cbff40a7b118",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088155,
-    "wof:lastmodified":1627522940,
+    "wof:lastmodified":1695886141,
     "wof:name":"Tlumatskyi",
     "wof:parent_id":85688823,
     "wof:placetype":"county",

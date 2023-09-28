@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.239057,
-    "geom:area_square_m":1860959330.412305,
+    "geom:area_square_m":1860959176.531552,
     "geom:bbox":"34.441213,50.685499,35.177248,51.235626",
     "geom:latitude":50.982463,
     "geom:longitude":34.809763,
@@ -133,13 +133,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.SM.SR",
+        "qs:local_id":"59247",
         "wd:id":"Q2633752"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7bcceaa1d77d75e4d419a95af2ba1c96",
+    "wof:geomhash":"a41e7ffdb1811056327db402174a58ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":102088997,
-    "wof:lastmodified":1690876169,
+    "wof:lastmodified":1695886132,
     "wof:name":"Sumskyi",
     "wof:parent_id":85688787,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151591,
-    "geom:area_square_m":1227540824.785319,
+    "geom:area_square_m":1227540833.219002,
     "geom:bbox":"22.70728,48.8305,23.290535,49.307714",
     "geom:latitude":49.089414,
     "geom:longitude":23.020243,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.TU"
+        "hasc:id":"UA.LV.TU",
+        "qs:local_id":"46255"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3aa4f75f96d8fa499c3a8a1769e00e15",
+    "wof:geomhash":"3c0bc1d3998fca53501416a89139141f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088171,
-    "wof:lastmodified":1627522942,
+    "wof:lastmodified":1695886144,
     "wof:name":"Turkivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

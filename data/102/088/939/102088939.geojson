@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104834,
-    "geom:area_square_m":826601977.327215,
+    "geom:area_square_m":826601917.856898,
     "geom:bbox":"35.028368,50.212867,35.692144,50.553822",
     "geom:latitude":50.381934,
     "geom:longitude":35.33915,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.SM.VE"
+        "hasc:id":"UA.SM.VE",
+        "qs:local_id":"59212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b27ed50d0893a471b87a93272a85573",
+    "wof:geomhash":"884ac9dae1d06116d2479c837e77e551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088939,
-    "wof:lastmodified":1627522944,
+    "wof:lastmodified":1695886149,
     "wof:name":"Velykopysarivskyi",
     "wof:parent_id":85688787,
     "wof:placetype":"county",

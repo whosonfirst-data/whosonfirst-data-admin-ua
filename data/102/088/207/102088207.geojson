@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116541,
-    "geom:area_square_m":965273447.331768,
+    "geom:area_square_m":965273835.153477,
     "geom:bbox":"31.010018,47.743445,31.478279,48.162791",
     "geom:latitude":47.945031,
     "geom:longitude":31.269311,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.AR"
+        "hasc:id":"UA.MY.AR",
+        "qs:local_id":"48203"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d957d5c88a7cb6703d3ec8d76c9a792",
+    "wof:geomhash":"8efe7172475b43cc1a59e1974e30ef87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088207,
-    "wof:lastmodified":1627522880,
+    "wof:lastmodified":1695886035,
     "wof:name":"Arbuzynskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

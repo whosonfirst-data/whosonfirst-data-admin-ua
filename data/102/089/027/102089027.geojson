@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235397,
-    "geom:area_square_m":1788884125.23324,
+    "geom:area_square_m":1788884127.154902,
     "geom:bbox":"32.645849,51.797714,33.500595,52.379386",
     "geom:latitude":52.078225,
     "geom:longitude":33.116659,
@@ -224,13 +224,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.CH.NS",
+        "qs:local_id":"74236",
         "wd:id":"Q147758"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ddb0d7b31edac5523f1e27ffd7610c53",
+    "wof:geomhash":"710be96dd1e11bb7ac10a090472aff9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,7 +245,7 @@
         }
     ],
     "wof:id":102089027,
-    "wof:lastmodified":1690876165,
+    "wof:lastmodified":1695886792,
     "wof:name":"Novhorod-Siverskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

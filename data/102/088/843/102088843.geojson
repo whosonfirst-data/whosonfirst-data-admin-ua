@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.246602,
-    "geom:area_square_m":1984079403.539995,
+    "geom:area_square_m":1984079629.792399,
     "geom:bbox":"36.428572,49.1158,37.327081,49.6368",
     "geom:latitude":49.407729,
     "geom:longitude":36.854568,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.BL"
+        "hasc:id":"UA.KK.BL",
+        "qs:local_id":"63202"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a55cb600baaffa7a2c034d8de33128a",
+    "wof:geomhash":"4049bc0563fea780080aea869c67ebd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088843,
-    "wof:lastmodified":1627522881,
+    "wof:lastmodified":1695886039,
     "wof:name":"Balakliiskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

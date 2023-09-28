@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124893,
-    "geom:area_square_m":998082088.716321,
+    "geom:area_square_m":998082254.730149,
     "geom:bbox":"28.942245,49.583127,29.513514,49.905255",
     "geom:latitude":49.737571,
     "geom:longitude":29.198095,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.RU"
+        "hasc:id":"UA.ZT.RU",
+        "qs:local_id":"18252"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ab3750dcadab08442d6df34558d3bce",
+    "wof:geomhash":"09c6c545d6f104d24115960cb170f68b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088545,
-    "wof:lastmodified":1627522929,
+    "wof:lastmodified":1695886122,
     "wof:name":"Ruzhynskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269692,
-    "geom:area_square_m":2105552708.34394,
+    "geom:area_square_m":2105552547.969457,
     "geom:bbox":"27.390008,50.583932,28.282404,51.082492",
     "geom:latitude":50.847156,
     "geom:longitude":27.851108,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.IE"
+        "hasc:id":"UA.ZT.IE",
+        "qs:local_id":"18217"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64d1dbed0dbc2aabe3357a60b7fb8e6a",
+    "wof:geomhash":"b95a4e56871b16ae1c405095c3c6bfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088775,
-    "wof:lastmodified":1627522949,
+    "wof:lastmodified":1695886157,
     "wof:name":"Yemilchynskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

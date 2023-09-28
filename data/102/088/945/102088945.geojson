@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111751,
-    "geom:area_square_m":885429998.698587,
+    "geom:area_square_m":885429905.549971,
     "geom:bbox":"35.781265,49.966117,36.395587,50.406597",
     "geom:latitude":50.150715,
     "geom:longitude":36.140029,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.DE"
+        "hasc:id":"UA.KK.DE",
+        "qs:local_id":"63220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f696f4110a8bf73e712aaef92d1d8d97",
+    "wof:geomhash":"6fe9a7fdb8db641b388f4b2a4fe216a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088945,
-    "wof:lastmodified":1627522889,
+    "wof:lastmodified":1695886052,
     "wof:name":"Derhachivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125232,
-    "geom:area_square_m":1011988363.313437,
+    "geom:area_square_m":1011988298.653349,
     "geom:bbox":"25.740456,48.987829,26.259517,49.384513",
     "geom:latitude":49.192511,
     "geom:longitude":26.032359,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.HU"
+        "hasc:id":"UA.TP.HU",
+        "qs:local_id":"61216"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3381ed15feaa2916ebe2e7b4595f369",
+    "wof:geomhash":"5772ba61aa51363ebece4f119c37ce60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088299,
-    "wof:lastmodified":1627522894,
+    "wof:lastmodified":1695886060,
     "wof:name":"Husiatynskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

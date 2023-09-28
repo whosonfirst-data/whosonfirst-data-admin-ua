@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152592,
-    "geom:area_square_m":1234627006.369447,
+    "geom:area_square_m":1234626776.637112,
     "geom:bbox":"32.189896,48.939362,32.893864,49.334803",
     "geom:latitude":49.130194,
     "geom:longitude":32.561563,
@@ -334,13 +334,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.CK.CY",
+        "qs:local_id":"71254",
         "wd:id":"Q165058"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"856a3af5829866425b70d43708b48e0c",
+    "wof:geomhash":"869f21f7bfbe2bf255789e719584963e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -350,7 +355,7 @@
         }
     ],
     "wof:id":102088553,
-    "wof:lastmodified":1690876176,
+    "wof:lastmodified":1695886794,
     "wof:name":"Chyhyrynskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

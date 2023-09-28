@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108336,
-    "geom:area_square_m":872253248.872145,
+    "geom:area_square_m":872253230.254443,
     "geom:bbox":"34.655346,49.148824,35.064203,49.612116",
     "geom:latitude":49.37294,
     "geom:longitude":34.875157,
@@ -142,13 +142,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.MA",
+        "qs:local_id":"53230",
         "wd:id":"Q2216881"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0393b0d294918e8c79ef21faae53f00",
+    "wof:geomhash":"b762ba7aff45e00d583ff9637421bb87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":102088733,
-    "wof:lastmodified":1690876175,
+    "wof:lastmodified":1695886095,
     "wof:name":"Mashivskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

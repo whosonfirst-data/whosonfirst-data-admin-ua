@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068241,
-    "geom:area_square_m":552768458.791776,
+    "geom:area_square_m":552768475.132164,
     "geom:bbox":"24.858115,48.865608,25.286772,49.197779",
     "geom:latitude":49.073891,
     "geom:longitude":25.101958,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.MO"
+        "hasc:id":"UA.TP.MO",
+        "qs:local_id":"61242"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"991a7cd7089e3c747a3b84b2c1d9eb64",
+    "wof:geomhash":"9f8adfd4609188dc61cbf383efed3297",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088211,
-    "wof:lastmodified":1627522914,
+    "wof:lastmodified":1695886097,
     "wof:name":"Monastyryskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112019,
-    "geom:area_square_m":901218481.156721,
+    "geom:area_square_m":901218209.945019,
     "geom:bbox":"30.90916,49.257885,31.549327,49.567209",
     "geom:latitude":49.410623,
     "geom:longitude":31.218072,
@@ -201,13 +201,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.CK.KO",
+        "qs:local_id":"71225",
         "wd:id":"Q219766"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"758bd94e6764881afb306e3d250addbc",
+    "wof:geomhash":"80bf95d017856479bd5dfe481ba0ec13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":102088565,
-    "wof:lastmodified":1690876176,
+    "wof:lastmodified":1695886794,
     "wof:name":"Korsun-Shevchenkivskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

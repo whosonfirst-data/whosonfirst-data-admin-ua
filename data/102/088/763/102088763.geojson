@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096428,
-    "geom:area_square_m":777403187.382783,
+    "geom:area_square_m":777403196.238112,
     "geom:bbox":"35.507028,49.090065,36.045281,49.494211",
     "geom:latitude":49.307989,
     "geom:longitude":35.794538,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.KE"
+        "hasc:id":"UA.KK.KE",
+        "qs:local_id":"63231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fb33d0ef7c54b085be21c23123c91517",
+    "wof:geomhash":"9045eeebe80a59606ffcce8cf2dc9d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088763,
-    "wof:lastmodified":1627522899,
+    "wof:lastmodified":1695886069,
     "wof:name":"Kehychivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

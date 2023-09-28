@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121801,
-    "geom:area_square_m":974493462.862562,
+    "geom:area_square_m":974493533.518237,
     "geom:bbox":"36.964835,49.46741,37.537136,49.890412",
     "geom:latitude":49.681796,
     "geom:longitude":37.250173,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.SH"
+        "hasc:id":"UA.KK.SH",
+        "qs:local_id":"63257"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2a7666eeec3053ebc33cadc548ab3c1",
+    "wof:geomhash":"a92393d6bbbe49faee9d180a384ff784",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088903,
-    "wof:lastmodified":1627522931,
+    "wof:lastmodified":1695886126,
     "wof:name":"Shevchenkivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

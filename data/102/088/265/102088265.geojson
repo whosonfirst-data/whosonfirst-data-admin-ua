@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162055,
-    "geom:area_square_m":1346978779.496425,
+    "geom:area_square_m":1346978678.793478,
     "geom:bbox":"32.624268,47.463885,33.147585,48.049671",
     "geom:latitude":47.762998,
     "geom:longitude":32.886074,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.KA"
+        "hasc:id":"UA.MY.KA",
+        "qs:local_id":"48236"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6775966ccf189a27fa3325da4f07fb90",
+    "wof:geomhash":"1c769753d54eb5450723baec30630377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088265,
-    "wof:lastmodified":1627522899,
+    "wof:lastmodified":1695886069,
     "wof:name":"Kazankivskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156741,
-    "geom:area_square_m":1304449202.237868,
+    "geom:area_square_m":1304449290.295333,
     "geom:bbox":"35.968481,47.5315,36.792432,47.850191",
     "geom:latitude":47.697559,
     "geom:longitude":36.343206,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.HU"
+        "hasc:id":"UA.ZP.HU",
+        "qs:local_id":"23218"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ad9c2ed70609f20196211cae8671e87",
+    "wof:geomhash":"b24136a0c87913af230ffeafd3c024f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088425,
-    "wof:lastmodified":1627522894,
+    "wof:lastmodified":1695886060,
     "wof:name":"Huliaipilskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

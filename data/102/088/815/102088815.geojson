@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181437,
-    "geom:area_square_m":1416927970.297706,
+    "geom:area_square_m":1416927990.122971,
     "geom:bbox":"28.773884,50.643189,29.58266,51.042952",
     "geom:latitude":50.833954,
     "geom:longitude":29.19599,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.MA"
+        "hasc:id":"UA.ZT.MA",
+        "qs:local_id":"18234"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db339a6f9f70815f13c480b144ae6686",
+    "wof:geomhash":"a611ca4f26064c48f9aa1c8214875098",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088815,
-    "wof:lastmodified":1627522913,
+    "wof:lastmodified":1695886095,
     "wof:name":"Malynskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

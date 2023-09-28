@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11576,
-    "geom:area_square_m":921843743.132213,
+    "geom:area_square_m":921843900.621933,
     "geom:bbox":"30.529721,49.707459,31.209542,50.103693",
     "geom:latitude":49.908074,
     "geom:longitude":30.841664,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.KA"
+        "hasc:id":"UA.KV.KA",
+        "qs:local_id":"32222"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17c70ecafe3294c95358961129a24838",
+    "wof:geomhash":"f5a512defadb2f1202eea0bde6be1bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088663,
-    "wof:lastmodified":1627522897,
+    "wof:lastmodified":1695886066,
     "wof:name":"Kaharlytskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

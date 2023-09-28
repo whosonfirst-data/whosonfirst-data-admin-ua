@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205007,
-    "geom:area_square_m":1730353449.636903,
+    "geom:area_square_m":1730353625.699495,
     "geom:bbox":"32.828515,46.744166,33.821633,47.196365",
     "geom:latitude":46.952763,
     "geom:longitude":33.360268,
@@ -127,13 +127,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KS.BE",
+        "qs:local_id":"65206",
         "wd:id":"Q2654442"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"987f00a5a086e91ac527b9c719993b8b",
+    "wof:geomhash":"ee81fb50d8334164f2a2bc54222f888a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":102088097,
-    "wof:lastmodified":1690876173,
+    "wof:lastmodified":1695886041,
     "wof:name":"Beryslavskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",
