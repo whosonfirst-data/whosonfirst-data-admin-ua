@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.560423,
-    "geom:area_square_m":20557643235.489861,
+    "geom:area_square_m":20557643044.643913,
     "geom:bbox":"26.132736,48.451096,27.898588,50.594744",
     "geom:latitude":49.507468,
     "geom:longitude":26.929468,
@@ -459,14 +459,20 @@
         "gn:id":706370,
         "gp:id":2347542,
         "hasc:id":"UA.KM",
+        "iso:code":"UA-68",
         "iso:id":"UA-68",
+        "qs:local_id":"68",
         "wd:id":"Q171331"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4914593abfd7053302ac63132d7d5a83",
+    "wof:geomhash":"993a3d65519abc024696743a52b098a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -483,7 +489,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876200,
+    "wof:lastmodified":1695884543,
     "wof:name":"Khmelnytskyi",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

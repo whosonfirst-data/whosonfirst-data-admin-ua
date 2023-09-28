@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.590512,
-    "geom:area_square_m":20074986835.816158,
+    "geom:area_square_m":20074986808.214703,
     "geom:bbox":"23.60395,50.287237,26.106773,51.969183",
     "geom:latitude":51.190929,
     "geom:longitude":24.870599,
@@ -439,14 +439,20 @@
         "gn:id":689064,
         "gp:id":2347555,
         "hasc:id":"UA.VO",
+        "iso:code":"UA-07",
         "iso:id":"UA-07",
+        "qs:local_id":"07",
         "wd:id":"Q167859"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46397bc0e1acb190129d1be6a6c19d2a",
+    "wof:geomhash":"e45a5258c2fb3aaf7eb160a2700f8bf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -463,7 +469,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876205,
+    "wof:lastmodified":1695884545,
     "wof:name":"Volyn",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

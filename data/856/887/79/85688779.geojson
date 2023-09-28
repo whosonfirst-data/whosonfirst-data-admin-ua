@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.197567,
-    "geom:area_square_m":26430739590.269146,
+    "geom:area_square_m":26430739472.823647,
     "geom:bbox":"36.541492,46.86697,39.092103,49.236677",
     "geom:latitude":48.047815,
     "geom:longitude":37.673922,
@@ -467,14 +467,20 @@
         "gn:id":709716,
         "gp:id":2347538,
         "hasc:id":"UA.DT",
+        "iso:code":"UA-14",
         "iso:id":"UA-14",
+        "qs:local_id":"14",
         "wd:id":"Q2012050"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f4d8d6c1c8b6662e6cc4cbdd904f669",
+    "wof:geomhash":"5465bbc3a445526af738886c5764d94b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -498,7 +504,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876192,
+    "wof:lastmodified":1695884538,
     "wof:name":"Donetsk",
     "wof:parent_id":1159339531,
     "wof:placetype":"region",

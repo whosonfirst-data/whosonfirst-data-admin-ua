@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.586507,
-    "geom:area_square_m":20872353156.244003,
+    "geom:area_square_m":20872351935.75148,
     "geom:bbox":"29.606358,48.451988,32.893864,50.228583",
     "geom:latitude":49.260008,
     "geom:longitude":31.352217,
@@ -459,14 +459,20 @@
         "gn:id":710802,
         "gp:id":2347534,
         "hasc:id":"UA.CK",
+        "iso:code":"UA-71",
         "iso:id":"UA-71",
+        "qs:local_id":"71",
         "wd:id":"Q161808"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99f0e7c1fd39ade885482828d74e3ff6",
+    "wof:geomhash":"8163393bea682b6f0521c56328574d04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -483,7 +489,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876203,
+    "wof:lastmodified":1695884545,
     "wof:name":"Cherkasy",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

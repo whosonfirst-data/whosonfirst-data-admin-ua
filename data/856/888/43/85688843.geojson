@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.112384,
-    "geom:area_square_m":26406350415.75613,
+    "geom:area_square_m":26406351073.173931,
     "geom:bbox":"31.511624,45.82233,35.249381,47.600133",
     "geom:latitude":46.673293,
     "geom:longitude":33.536674,
@@ -471,14 +471,20 @@
         "gn:id":706442,
         "gp:id":2347541,
         "hasc:id":"UA.KS",
+        "iso:code":"UA-65",
         "iso:id":"UA-65",
+        "qs:local_id":"65",
         "wd:id":"Q163271"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f016078b9d8fdffc8ce68f87efb83f38",
+    "wof:geomhash":"c129da50b8565ca4b7002d3bbbd5d4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -495,7 +501,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876199,
+    "wof:lastmodified":1695884542,
     "wof:name":"Kherson",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

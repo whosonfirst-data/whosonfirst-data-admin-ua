@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.923484,
-    "geom:area_square_m":33249351850.320541,
+    "geom:area_square_m":33249351246.47628,
     "geom:bbox":"28.2137,45.204173,31.30479,48.23409",
     "geom:latitude":46.731776,
     "geom:longitude":29.862783,
@@ -432,14 +432,20 @@
     "wof:concordances":{
         "fips:code":"UP17",
         "hasc:id":"UA.OD",
+        "iso:code":"UA-51",
         "iso:id":"UA-51",
+        "qs:local_id":"51",
         "wd:id":"Q171852"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8e2fa63a149f076df23cec603f6af2d",
+    "wof:geomhash":"8263e6bae20e53d1a1010a5650d3a45c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -456,7 +462,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876204,
+    "wof:lastmodified":1695884545,
     "wof:name":"Odessa",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

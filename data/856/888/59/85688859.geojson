@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.581742,
-    "geom:area_square_m":28625747999.345375,
+    "geom:area_square_m":28625748037.204002,
     "geom:bbox":"32.083864,48.739608,35.490413,50.554205",
     "geom:latitude":49.732473,
     "geom:longitude":33.778559,
@@ -445,14 +445,20 @@
         "gn:id":696634,
         "gp:id":2347550,
         "hasc:id":"UA.MY",
+        "iso:code":"UA-48",
         "iso:id":"UA-48",
+        "qs:local_id":"53",
         "wd:id":"Q169501"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c72a184bf76199c45041a5381fa579a4",
+    "wof:geomhash":"def0ea5cd1ee8d351d187b50de517114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -469,7 +475,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876194,
+    "wof:lastmodified":1695884540,
     "wof:name":"Poltava",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.790778,
-    "geom:area_square_m":29726055602.486187,
+    "geom:area_square_m":29726056161.517349,
     "geom:bbox":"27.185674,49.583127,29.735258,51.681909",
     "geom:latitude":50.639442,
     "geom:longitude":28.475526,
@@ -441,14 +441,20 @@
         "gn:id":686966,
         "gp:id":2347558,
         "hasc:id":"UA.ZT",
+        "iso:code":"UA-18",
         "iso:id":"UA-18",
+        "qs:local_id":"18",
         "wd:id":"Q40637"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"907b62b36c48e1eea0611742a054a65f",
+    "wof:geomhash":"1777e7f0c09830c9fb5f4b0ae38ac913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -465,7 +471,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876191,
+    "wof:lastmodified":1695884538,
     "wof:name":"Zhytomyr",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

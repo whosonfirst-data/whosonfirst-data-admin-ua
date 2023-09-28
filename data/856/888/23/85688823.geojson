@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.704282,
-    "geom:area_square_m":13907893351.676535,
+    "geom:area_square_m":13907893411.204378,
     "geom:bbox":"23.544328,47.724259,25.65481,49.559626",
     "geom:latitude":48.702081,
     "geom:longitude":24.62,
@@ -467,14 +467,20 @@
         "gn:id":707470,
         "gp:id":2347539,
         "hasc:id":"UA.IF",
+        "iso:code":"UA-26",
         "iso:id":"UA-26",
+        "qs:local_id":"26",
         "wd:id":"Q178269"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd93c6672593ab6c68c392d7f417524c",
+    "wof:geomhash":"6d298fa6345acef87ccd6cf742f0ae2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -491,7 +497,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876205,
+    "wof:lastmodified":1695884544,
     "wof:name":"Ivano-Frankivs'k",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.091533,
-    "geom:area_square_m":26884356559.217243,
+    "geom:area_square_m":26884356011.885777,
     "geom:bbox":"32.47935,44.386793,36.647076,46.230274",
     "geom:latitude":45.308415,
     "geom:longitude":34.345155,
@@ -627,11 +627,17 @@
         "gn:id":703883,
         "gp:id":2347544,
         "hasc:id":"UA.KR",
+        "iso:code":"UA-43",
         "iso:id":"UA-43",
+        "qs:local_id":"01",
         "wd:id":"Q7835"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
-    "wof:geomhash":"5444279b0521bc7807aeab1bb307241f",
+    "wof:geomhash":"f6b2c8e339d74de4c7e5e7375b08f71b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -656,7 +662,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876203,
+    "wof:lastmodified":1695884544,
     "wof:name":"Crimea",
     "wof:parent_id":1159339547,
     "wof:placetype":"region",
