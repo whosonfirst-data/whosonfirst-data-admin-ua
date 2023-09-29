@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144025,
-    "geom:area_square_m":1166021073.925958,
+    "geom:area_square_m":1166020953.467561,
     "geom:bbox":"35.484003,48.927329,36.269339,49.299453",
     "geom:latitude":49.099993,
     "geom:longitude":35.883747,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.SA"
+        "hasc:id":"UA.KK.SA",
+        "qs:local_id":"63248"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c90af2c5965bb7966f09013ea608bc5b",
+    "wof:geomhash":"5ad049436a0f93732d66d7ef4ac506d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088717,
-    "wof:lastmodified":1627522929,
+    "wof:lastmodified":1695886123,
     "wof:name":"Sakhnovshchynskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

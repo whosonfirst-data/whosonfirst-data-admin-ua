@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122074,
-    "geom:area_square_m":972657483.974288,
+    "geom:area_square_m":972657466.590224,
     "geom:bbox":"32.373917,49.661878,32.962651,50.115291",
     "geom:latitude":49.881483,
     "geom:longitude":32.651784,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.PL.OR"
+        "hasc:id":"UA.PL.OR",
+        "qs:local_id":"53236"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4de31758be6a84540053effe0d55b5af",
+    "wof:geomhash":"4dbda711fbedde5b7a885ad071657972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088739,
-    "wof:lastmodified":1627522921,
+    "wof:lastmodified":1695886109,
     "wof:name":"Orzhytskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

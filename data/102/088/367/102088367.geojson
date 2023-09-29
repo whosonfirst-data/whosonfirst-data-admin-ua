@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15243,
-    "geom:area_square_m":1247028085.889475,
+    "geom:area_square_m":1247028065.321321,
     "geom:bbox":"31.147982,48.381996,31.987227,48.734903",
     "geom:latitude":48.576797,
     "geom:longitude":31.577684,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.MA"
+        "hasc:id":"UA.KH.MA",
+        "qs:local_id":"35231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d4cd7d0220445f313915c835916e2fb",
+    "wof:geomhash":"f72c1898f4aac17a69cc44492fda8d59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088367,
-    "wof:lastmodified":1627522912,
+    "wof:lastmodified":1695886093,
     "wof:name":"Malovyskivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

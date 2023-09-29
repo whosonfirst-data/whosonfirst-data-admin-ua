@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111197,
-    "geom:area_square_m":902232158.020588,
+    "geom:area_square_m":902232192.506517,
     "geom:bbox":"25.515971,48.847926,26.212225,49.150606",
     "geom:latitude":48.990558,
     "geom:longitude":25.807885,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.CH"
+        "hasc:id":"UA.TP.CH",
+        "qs:local_id":"61255"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6dd1293585e76ac506bf36c149285f43",
+    "wof:geomhash":"accbabc620458f9bc5b3f6ad69730fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088219,
-    "wof:lastmodified":1627522939,
+    "wof:lastmodified":1695886139,
     "wof:name":"Chortkivskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

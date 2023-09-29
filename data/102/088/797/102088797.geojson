@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14783,
-    "geom:area_square_m":1190684484.569112,
+    "geom:area_square_m":1190684520.922483,
     "geom:bbox":"35.976216,49.147912,36.6136,49.545039",
     "geom:latitude":49.35451,
     "geom:longitude":36.270007,
@@ -195,13 +195,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KK.PR",
+        "qs:local_id":"63245",
         "wd:id":"Q889579"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6da697545b142af80a3489f21e1c301",
+    "wof:geomhash":"e8906ed1b5d4fc6298a545a99971e12d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":102088797,
-    "wof:lastmodified":1690876167,
+    "wof:lastmodified":1695886793,
     "wof:name":"Pervomaiskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

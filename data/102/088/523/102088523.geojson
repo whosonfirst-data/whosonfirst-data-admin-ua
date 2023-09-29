@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15038,
-    "geom:area_square_m":1251762193.681792,
+    "geom:area_square_m":1251762318.51404,
     "geom:bbox":"37.721541,47.482964,38.356727,47.907062",
     "geom:latitude":47.687169,
     "geom:longitude":38.036107,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DT.ST"
+        "hasc:id":"UA.DT.ST",
+        "qs:local_id":"14245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2716204666c00046c9697b5fcd6f54f8",
+    "wof:geomhash":"7dacf185a968e60290368aa8b1b61856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":102088523,
-    "wof:lastmodified":1627522935,
+    "wof:lastmodified":1695886132,
     "wof:name":"Starobeshivskyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

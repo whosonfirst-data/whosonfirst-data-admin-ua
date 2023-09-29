@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08521,
-    "geom:area_square_m":679797321.79177,
+    "geom:area_square_m":679797426.591033,
     "geom:bbox":"34.172523,49.696856,34.675836,49.947536",
     "geom:latitude":49.819779,
     "geom:longitude":34.427784,
@@ -145,13 +145,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.DY",
+        "qs:local_id":"53210",
         "wd:id":"Q549223"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05cf8148c4def0a064f304b5627b59fa",
+    "wof:geomhash":"29e4201dc81d820c3ee960a18537f0d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":102088795,
-    "wof:lastmodified":1690876177,
+    "wof:lastmodified":1695886055,
     "wof:name":"Dykanskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082079,
-    "geom:area_square_m":673047201.86203,
+    "geom:area_square_m":673047201.862061,
     "geom:bbox":"26.5743336977,48.2912340002,27.0810320011,48.6104518724",
     "geom:latitude":48.459523,
     "geom:longitude":26.827712,
@@ -269,13 +269,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CV.KE"
+        "hasc:id":"UA.CV.KE",
+        "qs:local_id":"73220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c1c0d7bebc3fe3718f128a1f4f9ceb8",
+    "wof:geomhash":"9428d51dfa7e85752be47b2b3eec42fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,7 +290,7 @@
         }
     ],
     "wof:id":102088129,
-    "wof:lastmodified":1582349155,
+    "wof:lastmodified":1695886794,
     "wof:name":"Kelmenetskyi",
     "wof:parent_id":85688869,
     "wof:placetype":"county",

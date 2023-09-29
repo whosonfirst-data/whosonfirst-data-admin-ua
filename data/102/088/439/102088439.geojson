@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153962,
-    "geom:area_square_m":1273944253.199325,
+    "geom:area_square_m":1273943970.114477,
     "geom:bbox":"35.039022,47.818448,35.763129,48.14388",
     "geom:latitude":47.996973,
     "geom:longitude":35.424841,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.VI"
+        "hasc:id":"UA.ZP.VI",
+        "qs:local_id":"23215"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff7750276e4c5d5aacf7976b860aa90f",
+    "wof:geomhash":"4dff73375557be793a007fe65d5a9c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088439,
-    "wof:lastmodified":1627522945,
+    "wof:lastmodified":1695886150,
     "wof:name":"Vilnianskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

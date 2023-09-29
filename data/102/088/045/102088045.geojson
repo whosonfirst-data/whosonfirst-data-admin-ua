@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254077,
-    "geom:area_square_m":2167922773.729321,
+    "geom:area_square_m":2167922798.36181,
     "geom:bbox":"33.962065,46.064646,34.700549,46.744071",
     "geom:latitude":46.366111,
     "geom:longitude":34.26688,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.NT"
+        "hasc:id":"UA.KS.NT",
+        "qs:local_id":"65244"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aad5dbc5ce6a9202c512b250f166a127",
+    "wof:geomhash":"1e38534f74d29ad569bad812300af0a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088045,
-    "wof:lastmodified":1627522919,
+    "wof:lastmodified":1695886105,
     "wof:name":"Novotroitskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

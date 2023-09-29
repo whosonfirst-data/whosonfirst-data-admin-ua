@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201863,
-    "geom:area_square_m":1740552187.241375,
+    "geom:area_square_m":1740552042.818898,
     "geom:bbox":"29.315672,45.527585,30.194091,45.980554",
     "geom:latitude":45.787821,
     "geom:longitude":29.754532,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.TT"
+        "hasc:id":"UA.OD.TT",
+        "qs:local_id":"51250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa9155df46f69b65b3f3d660dab8558c",
+    "wof:geomhash":"78d3bb587fa8fc2098c9db199794cd0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087929,
-    "wof:lastmodified":1627522938,
+    "wof:lastmodified":1695886137,
     "wof:name":"Tatarbunarskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

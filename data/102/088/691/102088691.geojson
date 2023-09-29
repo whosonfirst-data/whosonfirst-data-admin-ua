@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097476,
-    "geom:area_square_m":773105465.864693,
+    "geom:area_square_m":773104246.172627,
     "geom:bbox":"30.434738,49.935687,30.923764,50.292584",
     "geom:latitude":50.102439,
     "geom:longitude":30.63788,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.OB"
+        "hasc:id":"UA.KV.OB",
+        "qs:local_id":"32231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f58d524f1168430cafc411e70fdd8d6",
+    "wof:geomhash":"4c363388aabb163e512003bbe77cca4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088691,
-    "wof:lastmodified":1627522919,
+    "wof:lastmodified":1695886106,
     "wof:name":"Obukhivska",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

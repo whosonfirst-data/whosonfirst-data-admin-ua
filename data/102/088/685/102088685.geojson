@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158264,
-    "geom:area_square_m":1275835042.118035,
+    "geom:area_square_m":1275835256.488673,
     "geom:bbox":"34.009406,49.055087,34.820871,49.478151",
     "geom:latitude":49.311529,
     "geom:longitude":34.458301,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.PL.NO"
+        "hasc:id":"UA.PL.NO",
+        "qs:local_id":"53234"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99153861ae1e1f99e236f8da94375b93",
+    "wof:geomhash":"f37263699655742cf37641ae98b49f18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088685,
-    "wof:lastmodified":1627522918,
+    "wof:lastmodified":1695886104,
     "wof:name":"Novosanzharskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

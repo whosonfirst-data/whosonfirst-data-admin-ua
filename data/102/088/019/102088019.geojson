@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157717,
-    "geom:area_square_m":1337087520.286916,
+    "geom:area_square_m":1337087709.350506,
     "geom:bbox":"31.983425,46.495386,33.04637,46.88384",
     "geom:latitude":46.715848,
     "geom:longitude":32.46711,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.BI"
+        "hasc:id":"UA.KS.BI",
+        "qs:local_id":"65203"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0791785f7733965d8edcf36b79d5af14",
+    "wof:geomhash":"34894fe3187845d7b94ada4a6c974d72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088019,
-    "wof:lastmodified":1627522884,
+    "wof:lastmodified":1695886043,
     "wof:name":"Bilozerskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

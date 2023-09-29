@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106147,
-    "geom:area_square_m":879081351.140504,
+    "geom:area_square_m":879081255.560103,
     "geom:bbox":"24.908182,47.726058,25.316664,48.241426",
     "geom:latitude":47.951058,
     "geom:longitude":25.084072,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CV.PU"
+        "hasc:id":"UA.CV.PU",
+        "qs:local_id":"73235"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1791a19a744e6c12fc5ec14cfbc634bb",
+    "wof:geomhash":"893bc064447633176ec43f25b16943a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088015,
-    "wof:lastmodified":1627522925,
+    "wof:lastmodified":1695886115,
     "wof:name":"Putylskyi",
     "wof:parent_id":85688869,
     "wof:placetype":"county",

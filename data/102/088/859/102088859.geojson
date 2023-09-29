@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169881,
-    "geom:area_square_m":1359772379.29495,
+    "geom:area_square_m":1359772177.263652,
     "geom:bbox":"35.96755,49.459111,36.719531,49.82613",
     "geom:latitude":49.659875,
     "geom:longitude":36.361122,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.ZM"
+        "hasc:id":"UA.KK.ZM",
+        "qs:local_id":"63217"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"764b8a0ac98dbbceb841b54fb04a5f8a",
+    "wof:geomhash":"5a9c7b15984c91b8d9c219b7331245a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088859,
-    "wof:lastmodified":1627522951,
+    "wof:lastmodified":1695886160,
     "wof:name":"Zmiivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

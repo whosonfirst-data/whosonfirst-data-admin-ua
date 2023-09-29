@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.867524,
-    "geom:area_square_m":31811683095.389328,
+    "geom:area_square_m":31811683804.371517,
     "geom:bbox":"32.960035,47.456514,36.936792,49.193466",
     "geom:latitude":48.301032,
     "geom:longitude":34.844186,
@@ -455,14 +455,20 @@
         "gn:id":709929,
         "gp:id":2347537,
         "hasc:id":"UA.DP",
+        "iso:code":"UA-12",
         "iso:id":"UA-12",
+        "qs:local_id":"12",
         "wd:id":"Q170672"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b6d6692bedd463b7d15f29e48d94601",
+    "wof:geomhash":"a98558019105ff9308bc23eb81f4b7b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -479,7 +485,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876192,
+    "wof:lastmodified":1695884539,
     "wof:name":"Dnipropetrovs'k",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

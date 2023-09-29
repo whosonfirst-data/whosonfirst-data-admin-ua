@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273467,
-    "geom:area_square_m":2091479725.994314,
+    "geom:area_square_m":2091479738.067908,
     "geom:bbox":"30.508474,51.473437,31.394853,52.102676",
     "geom:latitude":51.792366,
     "geom:longitude":30.943201,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.RI"
+        "hasc:id":"UA.CH.RI",
+        "qs:local_id":"74244"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4a505335b7f0b93f1d7a1a2f7e86a14",
+    "wof:geomhash":"c63b0c7fd29f6394b4a68b435852e076",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088999,
-    "wof:lastmodified":1627522927,
+    "wof:lastmodified":1695886119,
     "wof:name":"Ripkynskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

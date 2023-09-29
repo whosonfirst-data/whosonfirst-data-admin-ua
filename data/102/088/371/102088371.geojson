@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145106,
-    "geom:area_square_m":1217516313.494521,
+    "geom:area_square_m":1217516484.905444,
     "geom:bbox":"36.853299,47.105852,37.730896,47.467772",
     "geom:latitude":47.268578,
     "geom:longitude":37.291221,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DT.VD"
+        "hasc:id":"UA.DT.VD",
+        "qs:local_id":"14217"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51dfaf363f3314a6d2a9e59345e0083b",
+    "wof:geomhash":"95edf64adc994e0d8d75d062ffb2cd59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":102088371,
-    "wof:lastmodified":1627522946,
+    "wof:lastmodified":1695886151,
     "wof:name":"Volodarskyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

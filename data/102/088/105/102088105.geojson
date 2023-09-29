@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17366,
-    "geom:area_square_m":1455359041.692533,
+    "geom:area_square_m":1455358797.6929,
     "geom:bbox":"31.569177,46.989807,32.161278,47.580924",
     "geom:latitude":47.331749,
     "geom:longitude":31.908939,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.NO"
+        "hasc:id":"UA.MY.NO",
+        "qs:local_id":"48248"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"870684d89d4e3975a2136501ac0ab3ae",
+    "wof:geomhash":"302f0e582a1f370672191158c5c98acb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088105,
-    "wof:lastmodified":1627522918,
+    "wof:lastmodified":1695886103,
     "wof:name":"Novoodeskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

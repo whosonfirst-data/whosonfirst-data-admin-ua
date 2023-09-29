@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135095,
-    "geom:area_square_m":1096339731.266543,
+    "geom:area_square_m":1096339700.229328,
     "geom:bbox":"27.381146,48.782276,27.955679,49.190851",
     "geom:latitude":48.981373,
     "geom:longitude":27.676301,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.BA"
+        "hasc:id":"UA.VI.BA",
+        "qs:local_id":"05202"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"114e7490b6ca3a4d756d51502973aa62",
+    "wof:geomhash":"fab5b4774b38b0769fcd7e44dc7b39c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088309,
-    "wof:lastmodified":1627522881,
+    "wof:lastmodified":1695886038,
     "wof:name":"Barskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

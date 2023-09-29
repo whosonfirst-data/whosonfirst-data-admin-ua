@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05828,
-    "geom:area_square_m":463981357.291097,
+    "geom:area_square_m":463981287.738332,
     "geom:bbox":"36.788745,49.816388,37.189492,50.04274",
     "geom:latitude":49.921317,
     "geom:longitude":37.008296,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.PC"
+        "hasc:id":"UA.KK.PC",
+        "qs:local_id":"63246"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a880faa0cb380915ff445d16fe36dc79",
+    "wof:geomhash":"7f1220b7e940e58e093b20d91e561cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088929,
-    "wof:lastmodified":1627522922,
+    "wof:lastmodified":1695886111,
     "wof:name":"Pechenizkyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

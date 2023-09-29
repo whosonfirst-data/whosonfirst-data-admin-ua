@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121983,
-    "geom:area_square_m":942083446.235611,
+    "geom:area_square_m":942083592.917326,
     "geom:bbox":"31.386752,51.17743,32.028828,51.524928",
     "geom:latitude":51.348528,
     "geom:longitude":31.654801,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.KU"
+        "hasc:id":"UA.CH.KU",
+        "qs:local_id":"74227"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"edc4573ec0fdd5d703879a71e6879636",
+    "wof:geomhash":"77b72bd29369362d4331e5e7fccc0f52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088959,
-    "wof:lastmodified":1627522908,
+    "wof:lastmodified":1695886086,
     "wof:name":"Kulykivskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

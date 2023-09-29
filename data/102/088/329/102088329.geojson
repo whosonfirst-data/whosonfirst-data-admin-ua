@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093981,
-    "geom:area_square_m":791831478.826523,
+    "geom:area_square_m":791831313.541779,
     "geom:bbox":"36.936018,46.86697,37.510329,47.200358",
     "geom:latitude":47.0481,
     "geom:longitude":37.249381,
@@ -161,13 +161,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.DT.PE",
+        "qs:local_id":"14239",
         "wd:id":"Q2628102"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a558eb18f564681ca1265e998c9827c",
+    "wof:geomhash":"23cb76643bf77499c5a3da2d7808978c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":102088329,
-    "wof:lastmodified":1690876183,
+    "wof:lastmodified":1695886110,
     "wof:name":"Pershotravnevyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

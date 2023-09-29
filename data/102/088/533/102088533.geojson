@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108878,
-    "geom:area_square_m":885819908.586841,
+    "geom:area_square_m":885820088.688277,
     "geom:bbox":"33.208936,48.703812,33.893433,48.980305",
     "geom:latitude":48.854791,
     "geom:longitude":33.542505,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.ON"
+        "hasc:id":"UA.KH.ON",
+        "qs:local_id":"35246"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"750591aff1d208a1ebb48f1281604dc4",
+    "wof:geomhash":"0ad70f2c41dd0da398535b4e81e6206e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088533,
-    "wof:lastmodified":1627522920,
+    "wof:lastmodified":1695886107,
     "wof:name":"Onufriivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

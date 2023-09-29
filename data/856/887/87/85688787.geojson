@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.060032,
-    "geom:area_square_m":23756569620.877468,
+    "geom:area_square_m":23756569647.123352,
     "geom:bbox":"32.943219,50.10983,35.692144,52.367204",
     "geom:latitude":51.106235,
     "geom:longitude":34.123649,
@@ -450,14 +450,20 @@
         "gn:id":692196,
         "gp:id":2347552,
         "hasc:id":"UA.SM",
+        "iso:code":"UA-59",
         "iso:id":"UA-59",
+        "qs:local_id":"59",
         "wd:id":"Q170446"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac61a62a82463fa59997916058374831",
+    "wof:geomhash":"cd77a3cfdcd90c2b04bba96996e7b18a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -474,7 +480,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876190,
+    "wof:lastmodified":1695884538,
     "wof:name":"Sumy",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

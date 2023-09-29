@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135107,
-    "geom:area_square_m":1084725351.157699,
+    "geom:area_square_m":1084725387.903277,
     "geom:bbox":"28.211849,49.341058,28.881493,49.700037",
     "geom:latitude":49.511687,
     "geom:longitude":28.514158,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.KA"
+        "hasc:id":"UA.VI.KA",
+        "qs:local_id":"05216"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"281fa52c25b24ffb807f0f82194e45d7",
+    "wof:geomhash":"ed09aaa29d6976dc4da23276ddf111b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088463,
-    "wof:lastmodified":1627522898,
+    "wof:lastmodified":1695886068,
     "wof:name":"Kalynivskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

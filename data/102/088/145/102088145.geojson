@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117593,
-    "geom:area_square_m":989811571.705526,
+    "geom:area_square_m":989811548.306417,
     "geom:bbox":"33.792249,46.888182,34.407576,47.301431",
     "geom:latitude":47.099786,
     "geom:longitude":34.087198,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.VL"
+        "hasc:id":"UA.KS.VL",
+        "qs:local_id":"65212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9085953bbb113cbe78eb4d32e4e4383d",
+    "wof:geomhash":"9dca0aea18e06fb184a88c453ee65ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088145,
-    "wof:lastmodified":1627522944,
+    "wof:lastmodified":1695886149,
     "wof:name":"Velykolepetyskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

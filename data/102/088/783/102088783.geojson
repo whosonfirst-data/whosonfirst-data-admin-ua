@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119024,
-    "geom:area_square_m":932969161.090067,
+    "geom:area_square_m":932970280.912589,
     "geom:bbox":"29.476842,50.495043,30.284004,50.794551",
     "geom:latitude":50.660237,
     "geom:longitude":29.880368,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.BD"
+        "hasc:id":"UA.KV.BD",
+        "qs:local_id":"32210"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7651cdfa8817d6145cfe1d8f5d2c6e92",
+    "wof:geomhash":"2a44f011c94870c919734d4932dc4a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088783,
-    "wof:lastmodified":1627522885,
+    "wof:lastmodified":1695886045,
     "wof:name":"Borodianskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

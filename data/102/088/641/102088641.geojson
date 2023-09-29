@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22377,
-    "geom:area_square_m":1813428657.625566,
+    "geom:area_square_m":1813428543.2774,
     "geom:bbox":"33.761928,48.739608,34.53558,49.375764",
     "geom:latitude":49.050833,
     "geom:longitude":34.160762,
@@ -136,13 +136,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.KB",
+        "qs:local_id":"53218",
         "wd:id":"Q1969695"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f802fc82f72ac795230e3dddd85f554f",
+    "wof:geomhash":"1778c4abfef5d1becca408e5c4043a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":102088641,
-    "wof:lastmodified":1690876178,
+    "wof:lastmodified":1695886075,
     "wof:name":"Kobeliatskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

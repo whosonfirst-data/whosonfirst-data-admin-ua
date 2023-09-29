@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167576,
-    "geom:area_square_m":1279447278.268146,
+    "geom:area_square_m":1279447318.441673,
     "geom:bbox":"31.633534,51.607186,32.24609,52.111267",
     "geom:latitude":51.869004,
     "geom:longitude":31.932074,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.SH"
+        "hasc:id":"UA.CH.SH",
+        "qs:local_id":"74258"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac7defc1c08a8d1a774ad03f16eeed16",
+    "wof:geomhash":"54674ba939acf74e10544255958719d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102089011,
-    "wof:lastmodified":1627522930,
+    "wof:lastmodified":1695886124,
     "wof:name":"Shchorskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

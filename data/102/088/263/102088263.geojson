@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138879,
-    "geom:area_square_m":1132343685.959174,
+    "geom:area_square_m":1132343621.184512,
     "geom:bbox":"27.875876,48.573001,28.545742,48.93646",
     "geom:latitude":48.746707,
     "geom:longitude":28.20694,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.SH"
+        "hasc:id":"UA.VI.SH",
+        "qs:local_id":"05253"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c0a30ba5bcdc46bb109530108fd7659",
+    "wof:geomhash":"a4aea8e3901f0ffec27492299557acd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088263,
-    "wof:lastmodified":1627522930,
+    "wof:lastmodified":1695886124,
     "wof:name":"Sharhorodskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135771,
-    "geom:area_square_m":1102304677.543901,
+    "geom:area_square_m":1102304860.036006,
     "geom:bbox":"31.165912,48.726032,31.772979,49.154241",
     "geom:latitude":48.959645,
     "geom:longitude":31.430469,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.SH"
+        "hasc:id":"UA.CK.SH",
+        "qs:local_id":"71257"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b22f13a39467beba8f896614acc82d04",
+    "wof:geomhash":"3bebbf68f1bc9b09423d1a47a2aaf8b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088465,
-    "wof:lastmodified":1627522931,
+    "wof:lastmodified":1695886126,
     "wof:name":"Shpolianskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

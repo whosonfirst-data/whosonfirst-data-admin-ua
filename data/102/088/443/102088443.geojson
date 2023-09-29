@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11,
-    "geom:area_square_m":911612969.369789,
+    "geom:area_square_m":911613271.518213,
     "geom:bbox":"35.68979,47.721522,36.206607,48.100046",
     "geom:latitude":47.916082,
     "geom:longitude":35.929003,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.NO"
+        "hasc:id":"UA.ZP.NO",
+        "qs:local_id":"23236"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08eb71b8b37a89e71158bce6538dfaee",
+    "wof:geomhash":"d077c65263b3b8b7142a28cb349b14e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088443,
-    "wof:lastmodified":1627522918,
+    "wof:lastmodified":1695886104,
     "wof:name":"Novomykolaivskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

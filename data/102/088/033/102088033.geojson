@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157081,
-    "geom:area_square_m":1328637771.983134,
+    "geom:area_square_m":1328637675.027788,
     "geom:bbox":"31.017245,46.600231,31.595536,47.056651",
     "geom:latitude":46.839559,
     "geom:longitude":31.332581,
@@ -88,13 +88,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.BE"
+        "hasc:id":"UA.MY.BE",
+        "qs:local_id":"51212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ee301308b9f668f4e3ca8548ea8332d",
+    "wof:geomhash":"39dd698223279b3e2c38998bd036cc63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":102088033,
-    "wof:lastmodified":1627522882,
+    "wof:lastmodified":1695886039,
     "wof:name":"Berezanskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

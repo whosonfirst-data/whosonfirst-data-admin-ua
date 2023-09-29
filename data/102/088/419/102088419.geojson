@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118226,
-    "geom:area_square_m":951916370.712268,
+    "geom:area_square_m":951916404.444252,
     "geom:bbox":"27.745027,49.213056,28.350119,49.553547",
     "geom:latitude":49.371105,
     "geom:longitude":28.07076,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.LI"
+        "hasc:id":"UA.VI.LI",
+        "qs:local_id":"05224"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e9eb15ea2e1fd1c8aa1303390e62e78",
+    "wof:geomhash":"9b0559e6bc51d7973397385e48407a28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088419,
-    "wof:lastmodified":1627522910,
+    "wof:lastmodified":1695886089,
     "wof:name":"Litynskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

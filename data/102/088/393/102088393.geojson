@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137005,
-    "geom:area_square_m":1093623513.561022,
+    "geom:area_square_m":1093623512.001546,
     "geom:bbox":"24.346507,49.598856,25.152145,49.946274",
     "geom:latitude":49.792809,
     "geom:longitude":24.795441,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.ZO"
+        "hasc:id":"UA.LV.ZO",
+        "qs:local_id":"46218"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f133422c3da1294e755fcb0bdf582c64",
+    "wof:geomhash":"4b7228432b451efe5e1c84a3e06bcb87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088393,
-    "wof:lastmodified":1627522951,
+    "wof:lastmodified":1695886160,
     "wof:name":"Zolochivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220949,
-    "geom:area_square_m":1711674817.378304,
+    "geom:area_square_m":1711674876.916154,
     "geom:bbox":"24.474724,51.000592,25.410678,51.412829",
     "geom:latitude":51.206894,
     "geom:longitude":24.93857,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.KR"
+        "hasc:id":"UA.VO.KR",
+        "qs:local_id":"07221"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eeb0f085c40cf038f21b05468834a019",
+    "wof:geomhash":"478e82d83549bf650c521308c013af93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088743,
-    "wof:lastmodified":1627522905,
+    "wof:lastmodified":1695886080,
     "wof:name":"Kovelskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

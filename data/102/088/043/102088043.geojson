@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236041,
-    "geom:area_square_m":2017639549.740164,
+    "geom:area_square_m":2017639614.093487,
     "geom:bbox":"34.394492,45.82233,35.249381,46.584133",
     "geom:latitude":46.268051,
     "geom:longitude":34.771099,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.HE"
+        "hasc:id":"UA.KS.HE",
+        "qs:local_id":"65221"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5442a1acb4be3692530c45732a757ec7",
+    "wof:geomhash":"d246e286b326be89e112e2e82f643c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088043,
-    "wof:lastmodified":1627522892,
+    "wof:lastmodified":1695886057,
     "wof:name":"Henicheskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

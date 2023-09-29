@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149783,
-    "geom:area_square_m":1232675829.91706,
+    "geom:area_square_m":1232675366.713441,
     "geom:bbox":"36.425499,48.032759,36.936792,48.569595",
     "geom:latitude":48.274758,
     "geom:longitude":36.710743,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.ME"
+        "hasc:id":"UA.DP.ME",
+        "qs:local_id":"12226"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c9611c8d3b7ac8dcce42578962d1bc83",
+    "wof:geomhash":"9d80bc9430b66ebbf70be2be811c1d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088607,
-    "wof:lastmodified":1627522914,
+    "wof:lastmodified":1695886097,
     "wof:name":"Mezhivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

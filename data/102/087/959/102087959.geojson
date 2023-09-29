@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133045,
-    "geom:area_square_m":1138554005.626385,
+    "geom:area_square_m":1138554012.80914,
     "geom:bbox":"32.44039,46.006871,33.21863,46.376023",
     "geom:latitude":46.20517,
     "geom:longitude":32.883939,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.SK"
+        "hasc:id":"UA.KS.SK",
+        "qs:local_id":"65247"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0f4e942484dc43b3c2297770f578952b",
+    "wof:geomhash":"be1aedbebb91ad81d9323ebba8c6a1b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087959,
-    "wof:lastmodified":1627522932,
+    "wof:lastmodified":1695886127,
     "wof:name":"Skadovskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

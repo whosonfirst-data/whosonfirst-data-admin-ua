@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152291,
-    "geom:area_square_m":1201516152.447945,
+    "geom:area_square_m":1201516126.440729,
     "geom:bbox":"25.443714,50.152079,26.132186,50.593476",
     "geom:latitude":50.353263,
     "geom:longitude":25.791247,
@@ -112,13 +112,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.RV.DB",
+        "qs:local_id":"56216",
         "wd:id":"Q2658050"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b61ccb2216950864675cd0ba823ba908",
+    "wof:geomhash":"ad837f919bff91350d82f1dc8a9d3695",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":102088585,
-    "wof:lastmodified":1627522891,
+    "wof:lastmodified":1695886055,
     "wof:name":"Dubenskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

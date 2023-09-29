@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10558,
-    "geom:area_square_m":903204036.858061,
+    "geom:area_square_m":903203987.643043,
     "geom:bbox":"33.173611,46.028095,33.636709,46.395288",
     "geom:latitude":46.224088,
     "geom:longitude":33.397655,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.KC"
+        "hasc:id":"UA.KS.KC",
+        "qs:local_id":"65232"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8680f00ae5f46223dbc4da1fdb74fdf",
+    "wof:geomhash":"30170f8e2bb10e7d519e56145b2c2549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087987,
-    "wof:lastmodified":1627522897,
+    "wof:lastmodified":1695886065,
     "wof:name":"Kalanchatskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159956,
-    "geom:area_square_m":1307177075.300905,
+    "geom:area_square_m":1307177220.466412,
     "geom:bbox":"33.850102,48.388334,34.480061,48.902512",
     "geom:latitude":48.631723,
     "geom:longitude":34.13921,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.VE"
+        "hasc:id":"UA.DP.VE",
+        "qs:local_id":"12210"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79709f270e61eec06f677c681eb78fc6",
+    "wof:geomhash":"0461974dc3b2a2b1d29406068949ae20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088525,
-    "wof:lastmodified":1627522944,
+    "wof:lastmodified":1695886149,
     "wof:name":"Verkhnodniprovskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

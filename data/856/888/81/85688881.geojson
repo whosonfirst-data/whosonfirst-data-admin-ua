@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.988245,
-    "geom:area_square_m":24496930369.038601,
+    "geom:area_square_m":24496929769.595345,
     "geom:bbox":"29.749547,47.749218,33.893433,49.245706",
     "geom:latitude":48.472483,
     "geom:longitude":32.08235,
@@ -429,14 +429,20 @@
         "gn:id":705811,
         "gp:id":2347543,
         "hasc:id":"UA.KH",
+        "iso:code":"UA-35",
         "iso:id":"UA-35",
+        "qs:local_id":"35",
         "wd:id":"Q180981"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d14cc7bb6a8c07574abc07fbc2865bd",
+    "wof:geomhash":"b0b63717ddcee9fc93956450b24eb04f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -453,7 +459,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876198,
+    "wof:lastmodified":1695884543,
     "wof:name":"Kirovohrad",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

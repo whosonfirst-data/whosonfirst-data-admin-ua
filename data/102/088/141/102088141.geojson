@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150044,
-    "geom:area_square_m":1257084164.455188,
+    "geom:area_square_m":1257084251.95522,
     "geom:bbox":"32.624619,47.139505,33.180207,47.560477",
     "geom:latitude":47.346914,
     "geom:longitude":32.876893,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.BH"
+        "hasc:id":"UA.MY.BH",
+        "qs:local_id":"48211"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa52dde121127fd46599e42aeaae3e7c",
+    "wof:geomhash":"bb054b889bd7720b6b5652bac9adea5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088141,
-    "wof:lastmodified":1627522882,
+    "wof:lastmodified":1695886039,
     "wof:name":"Bereznehuvatskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

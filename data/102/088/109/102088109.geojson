@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099451,
-    "geom:area_square_m":807972015.144245,
+    "geom:area_square_m":807971948.923197,
     "geom:bbox":"22.375814,48.785503,22.919498,49.097284",
     "geom:latitude":48.92597,
     "geom:longitude":22.653149,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZK.VE"
+        "hasc:id":"UA.ZK.VE",
+        "qs:local_id":"21208"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b6f865048e4dfd513eee6f484f265a1",
+    "wof:geomhash":"cf8ff4519428d0e8b4fe815fe3e80347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088109,
-    "wof:lastmodified":1642551825,
+    "wof:lastmodified":1695886535,
     "wof:name":"Velykobereznianskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

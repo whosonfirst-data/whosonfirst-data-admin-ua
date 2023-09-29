@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193528,
-    "geom:area_square_m":1562056694.021426,
+    "geom:area_square_m":1562057393.708502,
     "geom:bbox":"38.475919,49.044726,39.337733,49.435206",
     "geom:latitude":49.249985,
     "geom:longitude":38.921471,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LH.SB"
+        "hasc:id":"UA.LH.SB",
+        "qs:local_id":"44251"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"478e960715940c6081d0d312cd7bfd87",
+    "wof:geomhash":"ff252b46a34ea71d629e363a94abc946",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088911,
-    "wof:lastmodified":1627522935,
+    "wof:lastmodified":1695886133,
     "wof:name":"Starobilskyi",
     "wof:parent_id":85688805,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15887,
-    "geom:area_square_m":1331491830.150263,
+    "geom:area_square_m":1331491879.165689,
     "geom:bbox":"36.372482,47.115848,37.082739,47.617249",
     "geom:latitude":47.328574,
     "geom:longitude":36.689425,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.KU"
+        "hasc:id":"UA.ZP.KU",
+        "qs:local_id":"23227"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fda6d3bbf26249609c346abd1c77bc7e",
+    "wof:geomhash":"b489b2ce1a230238b46262476335d300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088373,
-    "wof:lastmodified":1627522908,
+    "wof:lastmodified":1695886086,
     "wof:name":"Kuibyshevskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

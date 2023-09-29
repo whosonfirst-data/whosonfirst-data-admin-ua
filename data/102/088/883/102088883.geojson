@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18901,
-    "geom:area_square_m":1445401667.851466,
+    "geom:area_square_m":1445401673.455529,
     "geom:bbox":"24.814428,51.53756,25.706079,51.969183",
     "geom:latitude":51.797151,
     "geom:longitude":25.331105,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.LS"
+        "hasc:id":"UA.VO.LS",
+        "qs:local_id":"07231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fab14c02bce6025afe74b5ee657a862",
+    "wof:geomhash":"00194bf9703bdacee94c10749f36726e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088883,
-    "wof:lastmodified":1627522910,
+    "wof:lastmodified":1695886090,
     "wof:name":"Liubeshivskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

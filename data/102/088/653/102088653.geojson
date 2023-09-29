@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19721,
-    "geom:area_square_m":1600608019.921906,
+    "geom:area_square_m":1600608094.255062,
     "geom:bbox":"34.621093,48.691631,35.31299,49.193466",
     "geom:latitude":48.975469,
     "geom:longitude":34.969105,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.MD"
+        "hasc:id":"UA.DP.MD",
+        "qs:local_id":"12223"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70fe1e54c194d0053768194e447fec18",
+    "wof:geomhash":"4aa53baacf45b9de5c0e7395338b5e14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088653,
-    "wof:lastmodified":1627522912,
+    "wof:lastmodified":1695886093,
     "wof:name":"Mahdalynivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

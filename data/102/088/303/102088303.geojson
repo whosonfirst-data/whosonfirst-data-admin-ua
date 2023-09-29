@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201478,
-    "geom:area_square_m":1685407931.02051,
+    "geom:area_square_m":1685408578.598707,
     "geom:bbox":"34.782024,47.133401,35.592161,47.677992",
     "geom:latitude":47.428106,
     "geom:longitude":35.169146,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.VA"
+        "hasc:id":"UA.ZP.VA",
+        "qs:local_id":"23209"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"134317d4a11e69c3fd37460a6ea13a5e",
+    "wof:geomhash":"b8685690ca8303a25ecf8ff22e9df3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088303,
-    "wof:lastmodified":1627522943,
+    "wof:lastmodified":1695886146,
     "wof:name":"Vasylivskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091912,
-    "geom:area_square_m":741736154.656479,
+    "geom:area_square_m":741736268.968228,
     "geom:bbox":"30.39332,49.142248,30.975376,49.370316",
     "geom:latitude":49.258871,
     "geom:longitude":30.700346,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.LY"
+        "hasc:id":"UA.CK.LY",
+        "qs:local_id":"71228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"767800cfb3f9203ac122ff29150687b7",
+    "wof:geomhash":"5df8bfb3b95e04c8ff4f27f17b5c93fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088487,
-    "wof:lastmodified":1627522912,
+    "wof:lastmodified":1695886093,
     "wof:name":"Lysianskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

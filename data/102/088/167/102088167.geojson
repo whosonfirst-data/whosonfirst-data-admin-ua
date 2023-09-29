@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178366,
-    "geom:area_square_m":1447917944.081952,
+    "geom:area_square_m":1447917920.059563,
     "geom:bbox":"23.114897,48.7183,23.68793,49.230539",
     "geom:latitude":48.96691,
     "geom:longitude":23.407835,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.SK"
+        "hasc:id":"UA.LV.SK",
+        "qs:local_id":"46245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ca797723e76bcdfbd5f0b34ef650c65",
+    "wof:geomhash":"cc091a923283d28ac21b9b22fd0ef3f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088167,
-    "wof:lastmodified":1627522932,
+    "wof:lastmodified":1695886128,
     "wof:name":"Skolivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189372,
-    "geom:area_square_m":1614653796.448916,
+    "geom:area_square_m":1614654097.098182,
     "geom:bbox":"33.213798,46.195788,34.128371,46.565951",
     "geom:latitude":46.405726,
     "geom:longitude":33.701086,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.CH"
+        "hasc:id":"UA.KS.CH",
+        "qs:local_id":"65254"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d37da528a807efb71f284d8c76173758",
+    "wof:geomhash":"49c8f980e8e3415d7ec69bdd11c4d218",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088009,
-    "wof:lastmodified":1627522887,
+    "wof:lastmodified":1695886048,
     "wof:name":"Chaplynskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170352,
-    "geom:area_square_m":1434580405.166005,
+    "geom:area_square_m":1434580488.598768,
     "geom:bbox":"29.494567,46.860669,30.348328,47.250104",
     "geom:latitude":47.074541,
     "geom:longitude":29.90208,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.VE"
+        "hasc:id":"UA.OD.VE",
+        "qs:local_id":"51216"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc85e59dfe404cc4ae35d524cc6e2550",
+    "wof:geomhash":"2a2069e645f409a45b599939b2fa42e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088003,
-    "wof:lastmodified":1627522944,
+    "wof:lastmodified":1695886148,
     "wof:name":"Velykomykhailivskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

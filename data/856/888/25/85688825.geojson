@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.11612,
-    "geom:area_square_m":31783412542.220467,
+    "geom:area_square_m":31783413617.866348,
     "geom:bbox":"30.48212,50.345738,33.500595,52.379386",
     "geom:latitude":51.355016,
     "geom:longitude":32.003809,
@@ -463,14 +463,20 @@
         "gn:id":710734,
         "gp:id":2347535,
         "hasc:id":"UA.CH",
+        "iso:code":"UA-74",
         "iso:id":"UA-74",
+        "qs:local_id":"74",
         "wd:id":"Q167874"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17bc881611fe0d10bed37cddd64f0c8b",
+    "wof:geomhash":"305e3512417ff802e5b4a951b61f3bd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -487,7 +493,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876206,
+    "wof:lastmodified":1695884546,
     "wof:name":"Chernihiv",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

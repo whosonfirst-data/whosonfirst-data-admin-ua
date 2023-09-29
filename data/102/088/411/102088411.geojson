@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193784,
-    "geom:area_square_m":1540856718.316816,
+    "geom:area_square_m":1540856985.549678,
     "geom:bbox":"23.09403,49.813439,23.938274,50.201398",
     "geom:latitude":49.980397,
     "geom:longitude":23.515726,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.IA"
+        "hasc:id":"UA.LV.IA",
+        "qs:local_id":"46258"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3725a2a7c0e308494b512271266d7b7a",
+    "wof:geomhash":"801bb8d6789cb85e30d9b5dda6755585",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088411,
-    "wof:lastmodified":1627522949,
+    "wof:lastmodified":1695886156,
     "wof:name":"Yavorivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

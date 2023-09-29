@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083235,
-    "geom:area_square_m":655894601.308806,
+    "geom:area_square_m":655894544.178579,
     "geom:bbox":"25.923371,50.231243,26.495549,50.569189",
     "geom:latitude":50.411061,
     "geom:longitude":26.184848,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.ZD"
+        "hasc:id":"UA.RV.ZD",
+        "qs:local_id":"56226"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd28f152dd12a3fe450e091d02d381d1",
+    "wof:geomhash":"043f4b90de482bdc83c3b78fe41d63d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088591,
-    "wof:lastmodified":1627522950,
+    "wof:lastmodified":1695886159,
     "wof:name":"Zdolbunivskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

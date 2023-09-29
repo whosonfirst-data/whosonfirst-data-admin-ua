@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125765,
-    "geom:area_square_m":1024827178.930482,
+    "geom:area_square_m":1024826911.581977,
     "geom:bbox":"31.253155,48.630096,32.076672,48.950466",
     "geom:latitude":48.775642,
     "geom:longitude":31.716622,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.NM"
+        "hasc:id":"UA.KH.NM",
+        "qs:local_id":"35238"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2db0c744acf897f7fcac27dab5546d9",
+    "wof:geomhash":"d2dfc3797f4b54a26f292a773faae1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088427,
-    "wof:lastmodified":1627522918,
+    "wof:lastmodified":1695886104,
     "wof:name":"Novomyrhorodskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

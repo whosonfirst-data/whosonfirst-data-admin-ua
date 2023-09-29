@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304121,
-    "geom:area_square_m":2346528717.31093,
+    "geom:area_square_m":2346528507.672312,
     "geom:bbox":"26.937226,50.990999,27.729582,51.693902",
     "geom:latitude":51.391607,
     "geom:longitude":27.261507,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.RO"
+        "hasc:id":"UA.RV.RO",
+        "qs:local_id":"56250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"370f047fa9fa7a7640736fb3325a2239",
+    "wof:geomhash":"8315c050571d227467682578f07d0c06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088879,
-    "wof:lastmodified":1627522928,
+    "wof:lastmodified":1695886121,
     "wof:name":"Rokytnivskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

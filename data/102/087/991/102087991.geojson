@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08373,
-    "geom:area_square_m":691034136.276851,
+    "geom:area_square_m":691034102.102525,
     "geom:bbox":"22.782525,47.953994,23.271524,48.273351",
     "geom:latitude":48.129322,
     "geom:longitude":22.998527,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZK.VY"
+        "hasc:id":"UA.ZK.VY",
+        "qs:local_id":"21212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"760964513628c539c13b8d4c51ad9288",
+    "wof:geomhash":"fccc72f448ffbb4b71a90f8efee55276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102087991,
-    "wof:lastmodified":1627522948,
+    "wof:lastmodified":1695886154,
     "wof:name":"Vynohradivskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

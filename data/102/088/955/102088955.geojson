@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103725,
-    "geom:area_square_m":850338671.841026,
+    "geom:area_square_m":850338788.052427,
     "geom:bbox":"28.876871,48.277006,29.467359,48.632418",
     "geom:latitude":48.471695,
     "geom:longitude":29.193217,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.TR"
+        "hasc:id":"UA.VI.TR",
+        "qs:local_id":"59250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1948b9996dce2d4b4642739f0550275e",
+    "wof:geomhash":"98a59c45c8e12ef4791057374db635d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088955,
-    "wof:lastmodified":1627522941,
+    "wof:lastmodified":1695886144,
     "wof:name":"Trostianetskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167006,
-    "geom:area_square_m":1354003233.186966,
+    "geom:area_square_m":1354003212.042387,
     "geom:bbox":"35.939969,48.783756,36.656071,49.253389",
     "geom:latitude":49.029201,
     "geom:longitude":36.337256,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.LR"
+        "hasc:id":"UA.KK.LR",
+        "qs:local_id":"63239"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6befd8e1fe335954ab7b827b1ee0615",
+    "wof:geomhash":"6631c086e5e1a4e626afdf625e979929",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088741,
-    "wof:lastmodified":1627522911,
+    "wof:lastmodified":1695886091,
     "wof:name":"Lozivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

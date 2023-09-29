@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179001,
-    "geom:area_square_m":1500143624.138677,
+    "geom:area_square_m":1500143742.319301,
     "geom:bbox":"29.875325,47.097034,30.584819,47.566599",
     "geom:latitude":47.33102,
     "geom:longitude":30.22921,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.SH"
+        "hasc:id":"UA.OD.SH",
+        "qs:local_id":"51254"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d31d5626d0d2f8a09307b97f8392a69",
+    "wof:geomhash":"f1383aa07542d5ac8fdde987d7ed2618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088047,
-    "wof:lastmodified":1627522931,
+    "wof:lastmodified":1695886126,
     "wof:name":"Shyriaivskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

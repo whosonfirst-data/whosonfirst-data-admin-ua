@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145523,
-    "geom:area_square_m":1152917226.556607,
+    "geom:area_square_m":1152917129.385372,
     "geom:bbox":"35.22292,49.941618,35.844755,50.334903",
     "geom:latitude":50.154787,
     "geom:longitude":35.528478,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.BH"
+        "hasc:id":"UA.KK.BH",
+        "qs:local_id":"63208"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"201de21dc4c044059b48a47977e638c5",
+    "wof:geomhash":"52aafa7cf7f6fa6810e178ccb9a16b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088919,
-    "wof:lastmodified":1627522884,
+    "wof:lastmodified":1695886044,
     "wof:name":"Bohodukhivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098635,
-    "geom:area_square_m":799727172.569728,
+    "geom:area_square_m":799727162.889293,
     "geom:bbox":"25.202866,48.83769,25.558403,49.214777",
     "geom:latitude":49.026411,
     "geom:longitude":25.384457,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.BU"
+        "hasc:id":"UA.TP.BU",
+        "qs:local_id":"61212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e809aec889bf1b45fa6bfea407920b5",
+    "wof:geomhash":"e3eb00e80c4360bf1c2f427552a87264",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088225,
-    "wof:lastmodified":1627522886,
+    "wof:lastmodified":1695886047,
     "wof:name":"Buchatskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

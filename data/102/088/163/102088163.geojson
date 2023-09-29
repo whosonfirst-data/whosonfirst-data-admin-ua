@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092008,
-    "geom:area_square_m":758290821.610047,
+    "geom:area_square_m":758290810.815307,
     "geom:bbox":"29.061259,48.086007,29.676546,48.35552",
     "geom:latitude":48.201662,
     "geom:longitude":29.348389,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.CC"
+        "hasc:id":"UA.VI.CC",
+        "qs:local_id":"05250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a90eded2d462789791ff4d387568ae1a",
+    "wof:geomhash":"9aceaceae000ba4472898f47ab2e6cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088163,
-    "wof:lastmodified":1627522926,
+    "wof:lastmodified":1695886117,
     "wof:name":"Chechelnytskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

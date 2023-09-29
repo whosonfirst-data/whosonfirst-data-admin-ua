@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112315,
-    "geom:area_square_m":925148916.276368,
+    "geom:area_square_m":925148613.293992,
     "geom:bbox":"23.123312,47.967715,23.705685,48.449036",
     "geom:latitude":48.229171,
     "geom:longitude":23.434091,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZK.KR"
+        "hasc:id":"UA.ZK.KR",
+        "qs:local_id":"21253"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61ad1085db80f2fe7cc0a86643c632c4",
+    "wof:geomhash":"dc9dd2ee45a2b740dd1f1de6ecb3ed88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088013,
-    "wof:lastmodified":1627522901,
+    "wof:lastmodified":1695886073,
     "wof:name":"Khustskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

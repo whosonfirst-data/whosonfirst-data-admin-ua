@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073882,
-    "geom:area_square_m":585846551.915815,
+    "geom:area_square_m":585846783.519833,
     "geom:bbox":"32.166274,49.960272,32.659466,50.24068",
     "geom:latitude":50.11324,
     "geom:longitude":32.41803,
@@ -139,13 +139,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.HR",
+        "qs:local_id":"53208",
         "wd:id":"Q1936881"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71f4e556a924ad99e0ad20c82990a9f1",
+    "wof:geomhash":"8ca26c0f437d65c1175b32992496e999",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":102088759,
-    "wof:lastmodified":1690876177,
+    "wof:lastmodified":1695886061,
     "wof:name":"Hrebinkivskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

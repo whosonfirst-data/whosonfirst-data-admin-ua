@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184637,
-    "geom:area_square_m":1435004466.017823,
+    "geom:area_square_m":1435004695.285083,
     "geom:bbox":"34.012904,50.805076,34.668302,51.273399",
     "geom:latitude":51.0573,
     "geom:longitude":34.318403,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.SM.BI"
+        "hasc:id":"UA.SM.BI",
+        "qs:local_id":"59206"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c782aae0ecd8d70d8948b09f66afdf4",
+    "wof:geomhash":"089f99860ac1826b1fbc32e171a402a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088995,
-    "wof:lastmodified":1627522883,
+    "wof:lastmodified":1695886042,
     "wof:name":"Bilopilskyi",
     "wof:parent_id":85688787,
     "wof:placetype":"county",

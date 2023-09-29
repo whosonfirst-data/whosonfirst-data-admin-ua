@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140499,
-    "geom:area_square_m":1110134021.856563,
+    "geom:area_square_m":1110133962.92993,
     "geom:bbox":"24.245706,50.136471,25.059993,50.429132",
     "geom:latitude":50.282548,
     "geom:longitude":24.674474,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.RA"
+        "hasc:id":"UA.LV.RA",
+        "qs:local_id":"46239"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"caf596f100380e1c44a8e018afe1a3aa",
+    "wof:geomhash":"725f5633aeee4819022e8650a60a76e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088501,
-    "wof:lastmodified":1627522926,
+    "wof:lastmodified":1695886117,
     "wof:name":"Radekhivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

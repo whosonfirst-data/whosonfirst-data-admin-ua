@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191838,
-    "geom:area_square_m":1538582657.431249,
+    "geom:area_square_m":1538582757.688971,
     "geom:bbox":"32.104696,49.329512,32.757226,49.859411",
     "geom:latitude":49.562782,
     "geom:longitude":32.448435,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.CB"
+        "hasc:id":"UA.CK.CB",
+        "qs:local_id":"71251"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9960d473e8ca7f3d60dfe80565c6a4e",
+    "wof:geomhash":"72ae2b13ab3362a517f151c524285300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088669,
-    "wof:lastmodified":1627522888,
+    "wof:lastmodified":1695886050,
     "wof:name":"Chornobaivskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

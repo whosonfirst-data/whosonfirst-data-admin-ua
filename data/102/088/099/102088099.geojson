@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15776,
-    "geom:area_square_m":1291205421.244579,
+    "geom:area_square_m":1291205227.719137,
     "geom:bbox":"24.114184,48.350323,24.880196,48.811136",
     "geom:latitude":48.55453,
     "geom:longitude":24.505247,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.IF.NA"
+        "hasc:id":"UA.IF.NA",
+        "qs:local_id":"26240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6303f3960e4072da2c68d673dfaa6485",
+    "wof:geomhash":"4b21666328322424ae49373091bbc606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088099,
-    "wof:lastmodified":1627522916,
+    "wof:lastmodified":1695886100,
     "wof:name":"Nadvirnianskyi",
     "wof:parent_id":85688823,
     "wof:placetype":"county",

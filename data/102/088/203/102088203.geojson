@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079297,
-    "geom:area_square_m":642477979.107619,
+    "geom:area_square_m":642478207.924595,
     "geom:bbox":"24.129509,48.849825,24.57361,49.2335",
     "geom:latitude":49.062269,
     "geom:longitude":24.385456,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.IF.KL"
+        "hasc:id":"UA.IF.KL",
+        "qs:local_id":"26228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c15e843a00f52ac8a6f8955faec0673a",
+    "wof:geomhash":"0bd90ced42de46002388e371c52242da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088203,
-    "wof:lastmodified":1627522898,
+    "wof:lastmodified":1695886067,
     "wof:name":"Kaluskyi",
     "wof:parent_id":85688823,
     "wof:placetype":"county",

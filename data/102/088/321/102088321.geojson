@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086069,
-    "geom:area_square_m":691269262.341675,
+    "geom:area_square_m":691269272.141962,
     "geom:bbox":"24.980665,49.358185,25.470885,49.622238",
     "geom:latitude":49.494004,
     "geom:longitude":25.219059,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.KO"
+        "hasc:id":"UA.TP.KO",
+        "qs:local_id":"61230"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f98e204dc40bc6cd2826a5026af46db9",
+    "wof:geomhash":"e90c36ea6945f517e863e3b5c930ab43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088321,
-    "wof:lastmodified":1627522905,
+    "wof:lastmodified":1695886080,
     "wof:name":"Kozivskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

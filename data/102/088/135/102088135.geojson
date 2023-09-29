@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159134,
-    "geom:area_square_m":1297181256.390364,
+    "geom:area_square_m":1297181520.3944,
     "geom:bbox":"23.78634,48.457882,24.382184,49.034912",
     "geom:latitude":48.758561,
     "geom:longitude":24.075492,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.IF.RZ"
+        "hasc:id":"UA.IF.RZ",
+        "qs:local_id":"26248"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"234d3026a2b19541b4f31534baf81503",
+    "wof:geomhash":"527b605ced1eafd7a553f7670e9b04e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088135,
-    "wof:lastmodified":1627522928,
+    "wof:lastmodified":1695886120,
     "wof:name":"Rozhniativskyi",
     "wof:parent_id":85688823,
     "wof:placetype":"county",

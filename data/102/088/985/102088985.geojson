@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141926,
-    "geom:area_square_m":1101413256.153946,
+    "geom:area_square_m":1101413291.84116,
     "geom:bbox":"33.481747,50.946073,34.14772,51.337249",
     "geom:latitude":51.126067,
     "geom:longitude":33.786784,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.SM.BU"
+        "hasc:id":"UA.SM.BU",
+        "qs:local_id":"59209"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff5602a5b1afdd625b1bb0e23b1421db",
+    "wof:geomhash":"e08efd4f99fe66c6eb7e71452b067467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088985,
-    "wof:lastmodified":1627522886,
+    "wof:lastmodified":1695886047,
     "wof:name":"Burynskyi",
     "wof:parent_id":85688787,
     "wof:placetype":"county",

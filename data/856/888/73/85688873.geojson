@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.910317,
-    "geom:area_square_m":31327183959.903042,
+    "geom:area_square_m":31327183866.235111,
     "geom:bbox":"34.856359,48.531371,38.093678,50.459609",
     "geom:latitude":49.61507,
     "geom:longitude":36.504899,
@@ -435,14 +435,20 @@
         "gn:id":706482,
         "gp:id":2347540,
         "hasc:id":"UA.KK",
+        "iso:code":"UA-63",
         "iso:id":"UA-63",
+        "qs:local_id":"63",
         "wd:id":"Q170666"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f48884e2682e0a5a85fba66aef81780c",
+    "wof:geomhash":"28c3e33bc04416ded63384c0b466d5cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -459,7 +465,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876197,
+    "wof:lastmodified":1695884542,
     "wof:name":"Kharkiv",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

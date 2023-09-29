@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238094,
-    "geom:area_square_m":1884460475.081794,
+    "geom:area_square_m":1884460433.031758,
     "geom:bbox":"36.548965,49.951222,37.53428,50.459609",
     "geom:latitude":50.201709,
     "geom:longitude":37.03954,
@@ -316,13 +316,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KK.VO",
+        "qs:local_id":"63216",
         "wd:id":"Q2631924"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a2c801b58a1d7978893691e9b9459c1",
+    "wof:geomhash":"dbbae02cb1ee334f2511c2a04ea36d30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -332,7 +337,7 @@
         }
     ],
     "wof:id":102088983,
-    "wof:lastmodified":1690876174,
+    "wof:lastmodified":1695886794,
     "wof:name":"Vovchanskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

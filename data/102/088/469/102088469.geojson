@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125352,
-    "geom:area_square_m":1014731205.425056,
+    "geom:area_square_m":1014730897.23412,
     "geom:bbox":"30.541334,48.950502,31.284729,49.300513",
     "geom:latitude":49.105897,
     "geom:longitude":30.950114,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.ZV"
+        "hasc:id":"UA.CK.ZV",
+        "qs:local_id":"71212"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"56c4faf2a07446fa6ed14a222ffd6e20",
+    "wof:geomhash":"586327f034a5eb28f155a7016deef9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088469,
-    "wof:lastmodified":1627522951,
+    "wof:lastmodified":1695886160,
     "wof:name":"Zvenyhorodskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

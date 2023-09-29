@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078872,
-    "geom:area_square_m":623542826.791568,
+    "geom:area_square_m":623542696.847986,
     "geom:bbox":"29.271656,50.078316,29.703594,50.422522",
     "geom:latitude":50.256312,
     "geom:longitude":29.487943,
@@ -151,13 +151,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.ZT.BS",
+        "qs:local_id":"18209",
         "wd:id":"Q2620734"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb129cfb1b9846fe2b4673697241ad32",
+    "wof:geomhash":"0750b6f7c58cd7730c29486f0af60414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +172,7 @@
         }
     ],
     "wof:id":102088675,
-    "wof:lastmodified":1690876170,
+    "wof:lastmodified":1695886047,
     "wof:name":"Brusylivskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172884,
-    "geom:area_square_m":1372823866.178432,
+    "geom:area_square_m":1372823851.035623,
     "geom:bbox":"32.632957,49.841827,33.410284,50.235212",
     "geom:latitude":50.045279,
     "geom:longitude":33.04901,
@@ -136,13 +136,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.LR",
+        "qs:local_id":"53228",
         "wd:id":"Q598340"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"158c8199eca07a66ab7c8860e6a2ebae",
+    "wof:geomhash":"63c3b6864e8ec7f0358b3e6f8af3024f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":102088799,
-    "wof:lastmodified":1690876168,
+    "wof:lastmodified":1695886092,
     "wof:name":"Lubenskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

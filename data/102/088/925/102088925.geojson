@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.416497,
-    "geom:area_square_m":3212838477.139452,
+    "geom:area_square_m":3212838477.13952,
     "geom:bbox":"28.0087650012,51.0996280004,29.2713417234,51.6819089699",
     "geom:latitude":51.402502,
     "geom:longitude":28.605895,
@@ -272,13 +272,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.OV"
+        "hasc:id":"UA.ZT.OV",
+        "qs:local_id":"18242"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7fbafb5d6f5468db8b03d981b50ff3f",
+    "wof:geomhash":"e3be4069661a525a98fcd1ef5ec55576",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,7 +293,7 @@
         }
     ],
     "wof:id":102088925,
-    "wof:lastmodified":1582349158,
+    "wof:lastmodified":1695886794,
     "wof:name":"Ovrutskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

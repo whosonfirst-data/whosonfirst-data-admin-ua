@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091584,
-    "geom:area_square_m":717749442.546724,
+    "geom:area_square_m":717749582.418586,
     "geom:bbox":"26.778379,50.522743,27.275785,50.842572",
     "geom:latitude":50.669,
     "geom:longitude":27.031606,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.RV.KR"
+        "hasc:id":"UA.RV.KR",
+        "qs:local_id":"56230"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"302cdf7429a7c5f4ed7d2415147abdec",
+    "wof:geomhash":"e376659101cb4b326be5e3800758c420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088689,
-    "wof:lastmodified":1627522903,
+    "wof:lastmodified":1695886076,
     "wof:name":"Koretskyi",
     "wof:parent_id":85688809,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125221,
-    "geom:area_square_m":1042860753.73128,
+    "geom:area_square_m":1042860870.978319,
     "geom:bbox":"29.629816,47.436832,30.275533,47.874548",
     "geom:latitude":47.660711,
     "geom:longitude":29.964748,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.AN"
+        "hasc:id":"UA.OD.AN",
+        "qs:local_id":"51202"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4fc631bea6b28f8bbe84322d8c51ad74",
+    "wof:geomhash":"d9a03894cc9f08368466eaa9bbd0fc16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088083,
-    "wof:lastmodified":1627522879,
+    "wof:lastmodified":1695886034,
     "wof:name":"Ananivskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

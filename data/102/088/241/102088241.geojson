@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085007,
-    "geom:area_square_m":699081849.357409,
+    "geom:area_square_m":699081765.712841,
     "geom:bbox":"30.054243,48.138581,30.431805,48.51142",
     "geom:latitude":48.311609,
     "geom:longitude":30.247151,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.UL"
+        "hasc:id":"UA.KH.UL",
+        "qs:local_id":"35255"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87d538bcb6a72342431fee56e889c84e",
+    "wof:geomhash":"d84ad00133fb1ab23e587a1bbf51cf88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088241,
-    "wof:lastmodified":1627522921,
+    "wof:lastmodified":1695886108,
     "wof:name":"Ulianovskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

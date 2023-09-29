@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177593,
-    "geom:area_square_m":1491693531.315452,
+    "geom:area_square_m":1491693542.289596,
     "geom:bbox":"32.89571,46.987102,33.700879,47.475957",
     "geom:latitude":47.212023,
     "geom:longitude":33.278364,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.VO"
+        "hasc:id":"UA.KS.VO",
+        "qs:local_id":"65209"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"317e2b48a2ba55c12a6a34eecc116be6",
+    "wof:geomhash":"8ae5bb5029e4104c4b41b7b53b569778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088131,
-    "wof:lastmodified":1627522944,
+    "wof:lastmodified":1695886148,
     "wof:name":"Velykooleksandrivskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

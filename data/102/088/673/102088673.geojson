@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108692,
-    "geom:area_square_m":855811099.417383,
+    "geom:area_square_m":855811032.510418,
     "geom:bbox":"27.913168,50.263331,28.431987,50.631497",
     "geom:latitude":50.448719,
     "geom:longitude":28.181108,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.CA"
+        "hasc:id":"UA.ZT.CA",
+        "qs:local_id":"18254"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2bf0036b034f07ada2923426dd135c9",
+    "wof:geomhash":"a777d900fb143a2ef5b4d08b794548c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088673,
-    "wof:lastmodified":1627522888,
+    "wof:lastmodified":1695886050,
     "wof:name":"Chervonoarmiiskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

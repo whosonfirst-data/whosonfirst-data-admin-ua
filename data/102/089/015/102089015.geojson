@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183845,
-    "geom:area_square_m":1404983367.464069,
+    "geom:area_square_m":1404983321.643667,
     "geom:bbox":"32.03534,51.586517,32.817202,52.082395",
     "geom:latitude":51.826716,
     "geom:longitude":32.361683,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.KK"
+        "hasc:id":"UA.CH.KK",
+        "qs:local_id":"74224"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a96a3881d46cb77ca9b2fc1678f33c8",
+    "wof:geomhash":"19ccb31972f135b33901032a170729c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102089015,
-    "wof:lastmodified":1627522903,
+    "wof:lastmodified":1695886077,
     "wof:name":"Koriukivskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

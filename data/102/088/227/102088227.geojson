@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104062,
-    "geom:area_square_m":848180213.884106,
+    "geom:area_square_m":848180253.461979,
     "geom:bbox":"27.044487,48.566846,27.427587,48.954012",
     "geom:latitude":48.763772,
     "geom:longitude":27.2411,
@@ -125,13 +125,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KM.NO",
+        "qs:local_id":"68233",
         "wd:id":"Q2216297"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"344ae71ef7af4c4c6f68567adf463722",
+    "wof:geomhash":"87da67cb775ee3dce6f9a16ca4386f78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":102088227,
-    "wof:lastmodified":1690876170,
+    "wof:lastmodified":1695886106,
     "wof:name":"Novoushytskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

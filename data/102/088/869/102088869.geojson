@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180113,
-    "geom:area_square_m":1410691610.095341,
+    "geom:area_square_m":1410693066.342181,
     "geom:bbox":"31.164744,50.500484,31.812175,50.923953",
     "geom:latitude":50.697518,
     "geom:longitude":31.470431,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.BB"
+        "hasc:id":"UA.CH.BB",
+        "qs:local_id":"74206"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcb2654f87a1d25dad9a310ab0e22ccd",
+    "wof:geomhash":"39af1945fcaa13c51fb0274019230276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088869,
-    "wof:lastmodified":1627522884,
+    "wof:lastmodified":1695886044,
     "wof:name":"Bobrovytskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

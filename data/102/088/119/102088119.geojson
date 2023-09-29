@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203312,
-    "geom:area_square_m":1703277096.139597,
+    "geom:area_square_m":1703277363.218953,
     "geom:bbox":"32.048837,47.133596,32.682095,47.614402",
     "geom:latitude":47.349969,
     "geom:longitude":32.363242,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.MY.BA"
+        "hasc:id":"UA.MY.BA",
+        "qs:local_id":"48206"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f210800f0bd9fbd79238dbcc3611a36",
+    "wof:geomhash":"4403ff406414a5120249f41003aff741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088119,
-    "wof:lastmodified":1627522881,
+    "wof:lastmodified":1695886037,
     "wof:name":"Bashtanskyi",
     "wof:parent_id":85688819,
     "wof:placetype":"county",

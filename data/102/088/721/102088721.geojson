@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172506,
-    "geom:area_square_m":1359100604.167027,
+    "geom:area_square_m":1359099388.296849,
     "geom:bbox":"29.442426,50.203884,30.120418,50.656807",
     "geom:latitude":50.4198,
     "geom:longitude":29.779183,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.MA"
+        "hasc:id":"UA.KV.MA",
+        "qs:local_id":"32227"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f456f0979014befc397b013b972d4f13",
+    "wof:geomhash":"88a92c7138c4965c3a6168e0770a0836",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088721,
-    "wof:lastmodified":1627522912,
+    "wof:lastmodified":1695886094,
     "wof:name":"Makarivskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

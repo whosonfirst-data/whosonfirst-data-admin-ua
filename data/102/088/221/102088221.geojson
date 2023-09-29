@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097837,
-    "geom:area_square_m":790102381.931843,
+    "geom:area_square_m":790102349.566587,
     "geom:bbox":"23.568616,49.075271,24.152667,49.394252",
     "geom:latitude":49.224068,
     "geom:longitude":23.861583,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.ST"
+        "hasc:id":"UA.LV.ST",
+        "qs:local_id":"46253"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a72814f6a195592dae6e0e5c04f9c2a",
+    "wof:geomhash":"d2be08d9d2e15f10447658decc70e9cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088221,
-    "wof:lastmodified":1627522936,
+    "wof:lastmodified":1695886134,
     "wof:name":"Stryiskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220581,
-    "geom:area_square_m":1816566765.009925,
+    "geom:area_square_m":1816566646.793113,
     "geom:bbox":"23.438805,47.931834,24.179599,48.562989",
     "geom:latitude":48.239867,
     "geom:longitude":23.829136,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZK.TI"
+        "hasc:id":"UA.ZK.TI",
+        "qs:local_id":"21244"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7bab4f1448490109addc80884a492c4f",
+    "wof:geomhash":"feb56ceeeb063d313f8f853a090f9385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088039,
-    "wof:lastmodified":1627522940,
+    "wof:lastmodified":1695886140,
     "wof:name":"Tiachivskyi",
     "wof:parent_id":85688839,
     "wof:placetype":"county",

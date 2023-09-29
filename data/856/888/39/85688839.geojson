@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.549605,
-    "geom:area_square_m":12720551835.170334,
+    "geom:area_square_m":12720551614.348497,
     "geom:bbox":"22.137164,47.896432,24.627359,49.097284",
     "geom:latitude":48.403665,
     "geom:longitude":23.275955,
@@ -482,14 +482,20 @@
         "gn:id":687869,
         "gp:id":2347556,
         "hasc:id":"UA.ZK",
+        "iso:code":"UA-21",
         "iso:id":"UA-21",
+        "qs:local_id":"21",
         "wd:id":"Q170213"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"097494b0f91185e3310fd86280b6741f",
+    "wof:geomhash":"996bb0c301ddc1358785f724b8dc92e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -506,7 +512,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876202,
+    "wof:lastmodified":1695884599,
     "wof:name":"Zakarpattia",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

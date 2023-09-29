@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14779,
-    "geom:area_square_m":1119716395.036856,
+    "geom:area_square_m":1119716424.64426,
     "geom:bbox":"33.309769,52.056782,34.109242,52.367204",
     "geom:latitude":52.213434,
     "geom:longitude":33.712773,
@@ -142,13 +142,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.SM.SE",
+        "qs:local_id":"59244",
         "wd:id":"Q2634462"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9638d1924c4d66aef2ec1ef431ee2c2c",
+    "wof:geomhash":"d407c9f2221ccfb356ac13ad88a7ae45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":102089029,
-    "wof:lastmodified":1690876165,
+    "wof:lastmodified":1695886124,
     "wof:name":"Seredyno-Budskyi",
     "wof:parent_id":85688787,
     "wof:placetype":"county",

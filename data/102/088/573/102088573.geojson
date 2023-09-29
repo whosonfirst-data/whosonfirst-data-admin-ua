@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142184,
-    "geom:area_square_m":1118792124.209606,
+    "geom:area_square_m":1118792173.349487,
     "geom:bbox":"24.538917,50.287237,25.209317,50.680652",
     "geom:latitude":50.479467,
     "geom:longitude":24.890637,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VO.HO"
+        "hasc:id":"UA.VO.HO",
+        "qs:local_id":"07208"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6cfa6e4ea92af032d399ebf3e889b69c",
+    "wof:geomhash":"06172f50fc08f3ce26d2f8328759e995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088573,
-    "wof:lastmodified":1627522894,
+    "wof:lastmodified":1695886061,
     "wof:name":"Horokhivskyi",
     "wof:parent_id":85688815,
     "wof:placetype":"county",

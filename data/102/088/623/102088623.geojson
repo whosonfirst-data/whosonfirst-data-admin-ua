@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13018,
-    "geom:area_square_m":1034886996.814064,
+    "geom:area_square_m":1034887118.126502,
     "geom:bbox":"29.210309,49.802543,29.735258,50.185448",
     "geom:latitude":49.991248,
     "geom:longitude":29.480126,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.PO"
+        "hasc:id":"UA.ZT.PO",
+        "qs:local_id":"18247"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d4cb875ed7cc33627daea5ee69049350",
+    "wof:geomhash":"ef5de9744b7a6956ca0989707773e961",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088623,
-    "wof:lastmodified":1627522925,
+    "wof:lastmodified":1695886116,
     "wof:name":"Popilnianskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

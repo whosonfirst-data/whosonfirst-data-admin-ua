@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109685,
-    "geom:area_square_m":870444316.544683,
+    "geom:area_square_m":870444444.280611,
     "geom:bbox":"24.095935,49.88422,24.671919,50.285316",
     "geom:latitude":50.074668,
     "geom:longitude":24.353588,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.KA"
+        "hasc:id":"UA.LV.KA",
+        "qs:local_id":"46221"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9192bbde93fa779908e8712841bfc658",
+    "wof:geomhash":"bccb06d5c6708774418538eb1ce37f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088459,
-    "wof:lastmodified":1627522898,
+    "wof:lastmodified":1695886068,
     "wof:name":"Kamianka-Buzkyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

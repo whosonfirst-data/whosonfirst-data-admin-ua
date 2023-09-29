@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09575,
-    "geom:area_square_m":769034746.455444,
+    "geom:area_square_m":769034451.776471,
     "geom:bbox":"30.57704,49.331732,31.153747,49.643217",
     "geom:latitude":49.493022,
     "geom:longitude":30.857004,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.BH"
+        "hasc:id":"UA.KV.BH",
+        "qs:local_id":"32206"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da04408c9d82e4cb65c84fbc48366ee6",
+    "wof:geomhash":"14a591ea99ed729752804177e6d51998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088563,
-    "wof:lastmodified":1627522884,
+    "wof:lastmodified":1695886043,
     "wof:name":"Bohuslavskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

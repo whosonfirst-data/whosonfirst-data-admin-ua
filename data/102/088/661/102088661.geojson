@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157161,
-    "geom:area_square_m":1256145993.019478,
+    "geom:area_square_m":1256145287.580034,
     "geom:bbox":"31.128715,49.499233,31.729189,49.992815",
     "geom:latitude":49.729903,
     "geom:longitude":31.409184,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.KR"
+        "hasc:id":"UA.CK.KR",
+        "qs:local_id":"71220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"26c2ab5ef1d745342ec02b254619d560",
+    "wof:geomhash":"3a559426448659aee9fa5bb34ab1abfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088661,
-    "wof:lastmodified":1627522898,
+    "wof:lastmodified":1695886068,
     "wof:name":"Kanivskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

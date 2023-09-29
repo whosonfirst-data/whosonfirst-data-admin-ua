@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037617,
-    "geom:area_square_m":310300173.39835,
+    "geom:area_square_m":310300126.091225,
     "geom:bbox":"25.987094,48.025132,26.337304,48.27533",
     "geom:latitude":48.154998,
     "geom:longitude":26.172402,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CV.HL"
+        "hasc:id":"UA.CV.HL",
+        "qs:local_id":"73207"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"354b1f9c7d78696a5bb164f674316ca6",
+    "wof:geomhash":"cd277297e4309a54e1d137d605bcc6c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088041,
-    "wof:lastmodified":1627522892,
+    "wof:lastmodified":1695886057,
     "wof:name":"Hertsaivskyi",
     "wof:parent_id":85688869,
     "wof:placetype":"county",

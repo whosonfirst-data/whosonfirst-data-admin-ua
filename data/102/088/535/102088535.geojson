@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094005,
-    "geom:area_square_m":754996988.927095,
+    "geom:area_square_m":754997251.117804,
     "geom:bbox":"30.211426,49.326615,30.720581,49.642887",
     "geom:latitude":49.494656,
     "geom:longitude":30.478535,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.TA"
+        "hasc:id":"UA.KV.TA",
+        "qs:local_id":"32244"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72eac9e12251644da293a196abe41aa1",
+    "wof:geomhash":"7f8c1a68547853da61f52b741183d341",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088535,
-    "wof:lastmodified":1627522938,
+    "wof:lastmodified":1695886138,
     "wof:name":"Tarashchanskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

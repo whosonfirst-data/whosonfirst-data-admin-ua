@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125583,
-    "geom:area_square_m":1007146780.244333,
+    "geom:area_square_m":1007146733.980271,
     "geom:bbox":"33.782205,49.365894,34.287386,49.793609",
     "geom:latitude":49.56576,
     "geom:longitude":34.050808,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.PL.RE"
+        "hasc:id":"UA.PL.RE",
+        "qs:local_id":"53242"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e2aad21e1a29153ee90edec125df0c4",
+    "wof:geomhash":"eb5a810f1e88632c94c7e8f97d15c59f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088731,
-    "wof:lastmodified":1627522927,
+    "wof:lastmodified":1695886119,
     "wof:name":"Reshetylivskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

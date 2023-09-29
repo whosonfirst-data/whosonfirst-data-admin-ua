@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095506,
-    "geom:area_square_m":785798387.183548,
+    "geom:area_square_m":785798387.183642,
     "geom:bbox":"28.0715109989,48.0650160003,28.591913999,48.4728700002",
     "geom:latitude":48.287473,
     "geom:longitude":28.340557,
@@ -263,13 +263,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.VI.IA"
+        "hasc:id":"UA.VI.IA",
+        "qs:local_id":"59256"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a7460849ff4eb9f4e90aae64262eb53",
+    "wof:geomhash":"9589fffdd46af5133ab3ff8b56261aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -279,7 +284,7 @@
         }
     ],
     "wof:id":102089023,
-    "wof:lastmodified":1582349128,
+    "wof:lastmodified":1695886792,
     "wof:name":"Yampilskyi",
     "wof:parent_id":85688783,
     "wof:placetype":"county",

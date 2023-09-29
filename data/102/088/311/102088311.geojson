@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116667,
-    "geom:area_square_m":960826108.710632,
+    "geom:area_square_m":960826088.733279,
     "geom:bbox":"31.913876,48.080055,32.505287,48.383808",
     "geom:latitude":48.238127,
     "geom:longitude":32.20849,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.KO"
+        "hasc:id":"UA.KH.KO",
+        "qs:local_id":"35228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d3eb04d18528b08efcca9caee1883fe",
+    "wof:geomhash":"21eeaacf4151f4d1fcae33a8804e3d74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088311,
-    "wof:lastmodified":1627522902,
+    "wof:lastmodified":1695886075,
     "wof:name":"Kompaniivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

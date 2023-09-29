@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099935,
-    "geom:area_square_m":790046927.165599,
+    "geom:area_square_m":790048767.046935,
     "geom:bbox":"31.667401,50.019267,32.161868,50.407722",
     "geom:latitude":50.256788,
     "geom:longitude":31.894294,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KV.IA"
+        "hasc:id":"UA.KV.IA",
+        "qs:local_id":"32255"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95f78ac0f8c977bef2b576ef75fc84b5",
+    "wof:geomhash":"14929baac25cb8e6ec5d7845bc73063d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088781,
-    "wof:lastmodified":1627522948,
+    "wof:lastmodified":1695886156,
     "wof:name":"Yahotynskyi",
     "wof:parent_id":85688801,
     "wof:placetype":"county",

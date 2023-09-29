@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120326,
-    "geom:area_square_m":988401319.542666,
+    "geom:area_square_m":988401331.160827,
     "geom:bbox":"30.297821,48.155026,30.7651,48.583641",
     "geom:latitude":48.37029,
     "geom:longitude":30.517415,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KH.HO"
+        "hasc:id":"UA.KH.HO",
+        "qs:local_id":"35214"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87ebc7fa5703408c8091a0ec6d8dd54e",
+    "wof:geomhash":"df72e99479e96968e62a9c07cd7dfb7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088275,
-    "wof:lastmodified":1627522893,
+    "wof:lastmodified":1695886059,
     "wof:name":"Holovanivskyi",
     "wof:parent_id":85688881,
     "wof:placetype":"county",

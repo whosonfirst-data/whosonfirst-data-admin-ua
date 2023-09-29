@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.712096,
-    "geom:area_square_m":13776131166.665625,
+    "geom:area_square_m":13776131034.267542,
     "geom:bbox":"24.717421,48.50753,26.443323,50.266967",
     "geom:latitude":49.402385,
     "geom:longitude":25.648542,
@@ -454,14 +454,20 @@
         "gn:id":691649,
         "gp:id":2347553,
         "hasc:id":"UA.TP",
+        "iso:code":"UA-61",
         "iso:id":"UA-61",
+        "qs:local_id":"61",
         "wd:id":"Q173407"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47bf4b6d493249342557ef027e1adbd9",
+    "wof:geomhash":"f0d1e743e3280684a4b26618bf1ef61b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -478,7 +484,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876194,
+    "wof:lastmodified":1695884540,
     "wof:name":"Ternopil",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

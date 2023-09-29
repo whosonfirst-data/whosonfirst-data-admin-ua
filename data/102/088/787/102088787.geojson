@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122256,
-    "geom:area_square_m":983858536.63236,
+    "geom:area_square_m":983858576.901117,
     "geom:bbox":"35.315911,49.139242,35.779182,49.673682",
     "geom:latitude":49.396121,
     "geom:longitude":35.518827,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.KH"
+        "hasc:id":"UA.KK.KH",
+        "qs:local_id":"63233"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92a7ce7b9b724d32cc9fc99f1ef7de3b",
+    "wof:geomhash":"11ef6bdaec685490003888f399d5a12f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088787,
-    "wof:lastmodified":1627522906,
+    "wof:lastmodified":1695886081,
     "wof:name":"Krasnohradskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

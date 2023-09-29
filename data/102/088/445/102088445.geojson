@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162315,
-    "geom:area_square_m":1287058920.759951,
+    "geom:area_square_m":1287058853.407359,
     "geom:bbox":"23.450209,49.872647,24.241923,50.329632",
     "geom:latitude":50.113576,
     "geom:longitude":23.895126,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.LV.ZV"
+        "hasc:id":"UA.LV.ZV",
+        "qs:local_id":"46227"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30e2a7b210d11dbe5187a67d6e8abbfe",
+    "wof:geomhash":"9b633ef245b3a261b09caf0e3d81784e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088445,
-    "wof:lastmodified":1627522897,
+    "wof:lastmodified":1695886066,
     "wof:name":"Zhovkivskyi",
     "wof:parent_id":85688887,
     "wof:placetype":"county",

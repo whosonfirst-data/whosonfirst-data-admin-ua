@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114197,
-    "geom:area_square_m":921739883.980036,
+    "geom:area_square_m":921740042.125775,
     "geom:bbox":"33.579796,49.067492,34.100266,49.458002",
     "geom:latitude":49.25003,
     "geom:longitude":33.854594,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.PL.KZ"
+        "hasc:id":"UA.PL.KZ",
+        "qs:local_id":"53220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"41f5e84902cf863f50efca7416ef2b75",
+    "wof:geomhash":"ce96eb2ace2e353ed8b25930f057c87b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088651,
-    "wof:lastmodified":1627522905,
+    "wof:lastmodified":1695886080,
     "wof:name":"Kozelshchynskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086753,
-    "geom:area_square_m":711622823.458194,
+    "geom:area_square_m":711622810.436953,
     "geom:bbox":"26.046073,48.303868,26.593787,48.620042",
     "geom:latitude":48.4414,
     "geom:longitude":26.327227,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CV.KH"
+        "hasc:id":"UA.CV.KH",
+        "qs:local_id":"73250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82acd25d295782c9acfd26e50b2f597a",
+    "wof:geomhash":"c24a151f561bf97fb2a2fad84a7b735a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088103,
-    "wof:lastmodified":1627522900,
+    "wof:lastmodified":1695886071,
     "wof:name":"Khotynskyi",
     "wof:parent_id":85688869,
     "wof:placetype":"county",

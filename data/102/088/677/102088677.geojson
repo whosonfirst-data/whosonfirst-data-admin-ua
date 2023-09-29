@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193172,
-    "geom:area_square_m":1466201789.603427,
+    "geom:area_square_m":1466202099.628737,
     "geom:bbox":"32.218602,51.899323,33.030915,52.338405",
     "geom:latitude":52.132999,
     "geom:longitude":32.617195,
@@ -291,13 +291,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.CH.SE",
+        "qs:local_id":"53245",
         "wd:id":"Q131240"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a3ba57a9e0d3f9565cafa1eab5ba724",
+    "wof:geomhash":"1b2f0e1505767dc65c04e15231523735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,7 +312,7 @@
         }
     ],
     "wof:id":102088677,
-    "wof:lastmodified":1690876179,
+    "wof:lastmodified":1695886794,
     "wof:name":"Semenivskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

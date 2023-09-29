@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080997,
-    "geom:area_square_m":632616745.523642,
+    "geom:area_square_m":632616775.647932,
     "geom:bbox":"32.823442,50.642907,33.238598,51.006909",
     "geom:latitude":50.828751,
     "geom:longitude":33.042915,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.TA"
+        "hasc:id":"UA.CH.TA",
+        "qs:local_id":"74253"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e88e2b94bca66928f1bcbf8575a37566",
+    "wof:geomhash":"b75b3362a379b71b9d34349834219dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088937,
-    "wof:lastmodified":1627522938,
+    "wof:lastmodified":1695886138,
     "wof:name":"Talalaivskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

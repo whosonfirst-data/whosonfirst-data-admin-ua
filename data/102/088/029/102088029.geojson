@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121707,
-    "geom:area_square_m":1016436868.654699,
+    "geom:area_square_m":1016436876.169919,
     "geom:bbox":"29.11709,47.291824,29.682878,47.692347",
     "geom:latitude":47.514389,
     "geom:longitude":29.406659,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.OD.KO"
+        "hasc:id":"UA.OD.KO",
+        "qs:local_id":"51231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f60838a47afb517e61a540e8ee872530",
+    "wof:geomhash":"b63c2ce2f938150c1f2f374242a23029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088029,
-    "wof:lastmodified":1627522906,
+    "wof:lastmodified":1695886081,
     "wof:name":"Krasnooknianskyi",
     "wof:parent_id":85688877,
     "wof:placetype":"county",

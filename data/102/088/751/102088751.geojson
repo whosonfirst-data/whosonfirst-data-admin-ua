@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16458,
-    "geom:area_square_m":1293054757.661351,
+    "geom:area_square_m":1293054409.135497,
     "geom:bbox":"28.805411,50.319178,29.597669,50.742884",
     "geom:latitude":50.551208,
     "geom:longitude":29.230204,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZT.RA"
+        "hasc:id":"UA.ZT.RA",
+        "qs:local_id":"18250"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5640438bdd7fe6644e331cbbae3b7bf8",
+    "wof:geomhash":"dc26a3dd6bc1a0eeaa3f5f078bd1989d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088751,
-    "wof:lastmodified":1627522926,
+    "wof:lastmodified":1695886118,
     "wof:name":"Radomyshlskyi",
     "wof:parent_id":85688791,
     "wof:placetype":"county",

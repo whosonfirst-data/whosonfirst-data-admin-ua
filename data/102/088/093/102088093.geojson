@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118987,
-    "geom:area_square_m":1005272635.194887,
+    "geom:area_square_m":1005272617.594337,
     "geom:bbox":"33.647747,46.739841,34.198207,47.085104",
     "geom:latitude":46.901522,
     "geom:longitude":33.898141,
@@ -86,13 +86,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KS.HR"
+        "hasc:id":"UA.KS.HR",
+        "qs:local_id":"65226"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd8ad6c850494227a5267e31e7ed9a9f",
+    "wof:geomhash":"0319bf3c5ea0eaa5d0dea3f4f5cfd796",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":102088093,
-    "wof:lastmodified":1627522893,
+    "wof:lastmodified":1695886059,
     "wof:name":"Hornostaivskyi",
     "wof:parent_id":85688843,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.864947,
-    "geom:area_square_m":23960426559.910397,
+    "geom:area_square_m":23960426609.629391,
     "geom:bbox":"30.205905,46.428738,33.180207,48.232503",
     "geom:latitude":47.438976,
     "geom:longitude":31.782118,
@@ -408,14 +408,20 @@
         "gn:id":700567,
         "gp:id":2347548,
         "hasc:id":"UA.LH",
+        "iso:code":"UA-48",
         "iso:id":"UA-09",
+        "qs:local_id":"48",
         "wd:id":"Q181633"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b501ede07bd77387232ea081f056052",
+    "wof:geomhash":"15dfc01d4940ee30113cf90ddbd21ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -432,7 +438,7 @@
         "ukr",
         "rus"
     ],
-    "wof:lastmodified":1690876198,
+    "wof:lastmodified":1695884542,
     "wof:name":"Mykolaiv",
     "wof:parent_id":85633805,
     "wof:placetype":"region",

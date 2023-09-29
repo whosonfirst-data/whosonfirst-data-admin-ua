@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145514,
-    "geom:area_square_m":1156666780.541135,
+    "geom:area_square_m":1156666727.454372,
     "geom:bbox":"31.871121,49.795349,32.435182,50.228583",
     "geom:latitude":49.996141,
     "geom:longitude":32.140562,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.DR"
+        "hasc:id":"UA.CK.DR",
+        "qs:local_id":"71206"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08b14da672e3f4920fb1b85c606902ed",
+    "wof:geomhash":"7b4c3c4dd6301b8458fbb75f2e072f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088735,
-    "wof:lastmodified":1627522890,
+    "wof:lastmodified":1695886054,
     "wof:name":"Drabivskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

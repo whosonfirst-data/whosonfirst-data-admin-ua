@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146586,
-    "geom:area_square_m":1141870911.551919,
+    "geom:area_square_m":1141870733.374604,
     "geom:bbox":"31.265755,50.623749,31.902099,51.189947",
     "geom:latitude":50.951501,
     "geom:longitude":31.602444,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.NO"
+        "hasc:id":"UA.CH.NO",
+        "qs:local_id":"74238"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b59a3111f4dc6ba2442647bc2dda7944",
+    "wof:geomhash":"56821bd297666404e8ec14ecb946a706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088913,
-    "wof:lastmodified":1627522917,
+    "wof:lastmodified":1695886102,
     "wof:name":"Nosivskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

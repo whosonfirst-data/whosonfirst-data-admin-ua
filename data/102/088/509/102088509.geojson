@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318493,
-    "geom:area_square_m":2659510831.543927,
+    "geom:area_square_m":2659511026.807507,
     "geom:bbox":"37.05354,47.080211,37.964117,47.903349",
     "geom:latitude":47.521812,
     "geom:longitude":37.536133,
@@ -77,13 +77,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DT.VV"
+        "hasc:id":"UA.DT.VV",
+        "qs:local_id":"14215"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ab02e5da990f9cf3d2f659f12113612",
+    "wof:geomhash":"afcc307e039bfc9f38f29d48c9e9fdfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088509,
-    "wof:lastmodified":1627522946,
+    "wof:lastmodified":1695886152,
     "wof:name":"Volnovaskyi",
     "wof:parent_id":85688779,
     "wof:placetype":"county",

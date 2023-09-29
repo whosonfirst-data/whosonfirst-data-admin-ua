@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083481,
-    "geom:area_square_m":680405355.573359,
+    "geom:area_square_m":680405342.544097,
     "geom:bbox":"25.449606,48.586831,26.051923,48.941418",
     "geom:latitude":48.765179,
     "geom:longitude":25.732381,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.TP.ZA"
+        "hasc:id":"UA.TP.ZA",
+        "qs:local_id":"61220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f8927faf3fd8879b1172c1915bf8454",
+    "wof:geomhash":"7914ce368ac5324a8a48103e63e46744",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088159,
-    "wof:lastmodified":1627522950,
+    "wof:lastmodified":1695886158,
     "wof:name":"Zalishchytskyi",
     "wof:parent_id":85688835,
     "wof:placetype":"county",

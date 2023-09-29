@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165292,
-    "geom:area_square_m":1303781985.55793,
+    "geom:area_square_m":1303781999.794172,
     "geom:bbox":"32.932682,50.138057,33.636383,50.554205",
     "geom:latitude":50.364719,
     "geom:longitude":33.317391,
@@ -139,13 +139,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.PL.LO",
+        "qs:local_id":"53226",
         "wd:id":"Q1971361"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a18b36243f36f79e7392683e3580c92",
+    "wof:geomhash":"caae444c2d3cdac113c040029dc0f4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":102088865,
-    "wof:lastmodified":1690876180,
+    "wof:lastmodified":1695886090,
     "wof:name":"Lokhvytskyi",
     "wof:parent_id":85688859,
     "wof:placetype":"county",

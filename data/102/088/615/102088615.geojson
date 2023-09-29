@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151088,
-    "geom:area_square_m":1239253742.730127,
+    "geom:area_square_m":1239253792.540684,
     "geom:bbox":"36.049659,48.215712,36.808366,48.663024",
     "geom:latitude":48.445652,
     "geom:longitude":36.429557,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.DP.PP"
+        "hasc:id":"UA.DP.PP",
+        "qs:local_id":"12238"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d97e8b668ed200ce04b8de394dfc219",
+    "wof:geomhash":"06450eea3ac5d1c68799398d5617375e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088615,
-    "wof:lastmodified":1627522923,
+    "wof:lastmodified":1695886113,
     "wof:name":"Petropavlivskyi",
     "wof:parent_id":85688797,
     "wof:placetype":"county",

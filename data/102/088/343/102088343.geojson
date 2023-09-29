@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11198,
-    "geom:area_square_m":904274931.006094,
+    "geom:area_square_m":904275103.00242,
     "geom:bbox":"27.104043,49.081498,27.898588,49.369063",
     "geom:latitude":49.226486,
     "geom:longitude":27.468945,
@@ -142,13 +142,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"UA.KM.DE",
+        "qs:local_id":"68215",
         "wd:id":"Q2651213"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e19d624a90f11eb4aa1989cf2005d65",
+    "wof:geomhash":"d0114e1f5e4517507b490e8dfd7b60e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +163,7 @@
         }
     ],
     "wof:id":102088343,
-    "wof:lastmodified":1690876185,
+    "wof:lastmodified":1695886051,
     "wof:name":"Derazhnianskyi",
     "wof:parent_id":85688831,
     "wof:placetype":"county",

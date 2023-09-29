@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158436,
-    "geom:area_square_m":1268062216.881413,
+    "geom:area_square_m":1268062254.645547,
     "geom:bbox":"37.324397,49.433502,38.046693,49.917587",
     "geom:latitude":49.663785,
     "geom:longitude":37.649771,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.KU"
+        "hasc:id":"UA.KK.KU",
+        "qs:local_id":"63237"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d728d9b57e6e0b0ac9c6c651ac928a8b",
+    "wof:geomhash":"3d4d2eb4b4750249d702af249561b84a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088921,
-    "wof:lastmodified":1627522904,
+    "wof:lastmodified":1695886079,
     "wof:name":"Kupianskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

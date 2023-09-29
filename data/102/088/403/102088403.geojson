@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088962,
-    "geom:area_square_m":721214934.602079,
+    "geom:area_square_m":721214554.211965,
     "geom:bbox":"29.606358,48.873034,30.087555,49.228611",
     "geom:latitude":49.032661,
     "geom:longitude":29.836226,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CK.MO"
+        "hasc:id":"UA.CK.MO",
+        "qs:local_id":"71234"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e4de244534d5f7c932e8e5f265ce3d9",
+    "wof:geomhash":"a8faa5848e0ad467e5e64061593f3221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088403,
-    "wof:lastmodified":1627522914,
+    "wof:lastmodified":1695886097,
     "wof:name":"Monastyryshchenskyi",
     "wof:parent_id":85688863,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163791,
-    "geom:area_square_m":1301545117.525767,
+    "geom:area_square_m":1301545012.012533,
     "geom:bbox":"35.75535,49.749447,36.722006,50.330085",
     "geom:latitude":50.010731,
     "geom:longitude":36.352821,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.KR"
+        "hasc:id":"UA.KK.KR",
+        "qs:local_id":"63251"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e8abdcda1e35e6fd2ed1fb7e5bab307",
+    "wof:geomhash":"b6c0275e6ca00983dba5c7ef44563eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088941,
-    "wof:lastmodified":1627522899,
+    "wof:lastmodified":1695886069,
     "wof:name":"Kharkivskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",

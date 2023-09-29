@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228957,
-    "geom:area_square_m":1940312581.588139,
+    "geom:area_square_m":1940312512.358049,
     "geom:bbox":"35.318492,46.435097,36.14416,47.069296",
     "geom:latitude":46.736198,
     "geom:longitude":35.703099,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.PZ"
+        "hasc:id":"UA.ZP.PZ",
+        "qs:local_id":"23245"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf2ba1e74c9675472d39cd30c41e04c0",
+    "wof:geomhash":"84ee209ac272437f839f0f7f46a071a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088205,
-    "wof:lastmodified":1627522925,
+    "wof:lastmodified":1695886115,
     "wof:name":"Pryazovskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129148,
-    "geom:area_square_m":1080424065.892475,
+    "geom:area_square_m":1080423854.063064,
     "geom:bbox":"34.139283,47.269166,34.987621,47.558239",
     "geom:latitude":47.424832,
     "geom:longitude":34.555658,
@@ -73,13 +73,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.ZP.KA"
+        "hasc:id":"UA.ZP.KA",
+        "qs:local_id":"23224"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f336998d8c9a5de9e0025260d99e54ac",
+    "wof:geomhash":"7daad107c9ec734c6abe9c265ebc87b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":102088255,
-    "wof:lastmodified":1627522898,
+    "wof:lastmodified":1695886068,
     "wof:name":"Kamiansko-Dniprovskyi",
     "wof:parent_id":85688851,
     "wof:placetype":"county",

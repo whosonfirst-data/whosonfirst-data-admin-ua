@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074299,
-    "geom:area_square_m":584986393.093491,
+    "geom:area_square_m":584986390.809989,
     "geom:bbox":"32.465006,50.345738,33.066313,50.574523",
     "geom:latitude":50.450798,
     "geom:longitude":32.747279,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.CH.VA"
+        "hasc:id":"UA.CH.VA",
+        "qs:local_id":"74211"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8bce6b85fd9be2efc42d927bb1d8d32a",
+    "wof:geomhash":"67d4f7870a0ea27eb10e1c5e86efecb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088849,
-    "wof:lastmodified":1627522943,
+    "wof:lastmodified":1695886147,
     "wof:name":"Varvynskyi",
     "wof:parent_id":85688825,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191415,
-    "geom:area_square_m":1545808534.229387,
+    "geom:area_square_m":1545808162.466441,
     "geom:bbox":"36.978272,48.97676,37.584728,49.550773",
     "geom:latitude":49.224268,
     "geom:longitude":37.278348,
@@ -85,13 +85,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"UA.KK.IR"
+        "hasc:id":"UA.KK.IR",
+        "qs:local_id":"63228"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"UA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d9800969a501482d7a909e4f19e6f1f",
+    "wof:geomhash":"3ea810e56b50a07599723696a2035362",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":102088847,
-    "wof:lastmodified":1627522896,
+    "wof:lastmodified":1695886065,
     "wof:name":"Iziumskyi",
     "wof:parent_id":85688873,
     "wof:placetype":"county",
