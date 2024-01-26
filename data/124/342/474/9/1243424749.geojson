@@ -35,6 +35,10 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u043d\u0434\u0440\u044e\u0447\u0435"
     ],
+    "name:und_x_variant":[
+        "Krinichanskiy",
+        "Kondryucheye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9120335
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            809631
+        ]
     },
     "wof:country":"UA",
     "wof:geomhash":"930b8780bd0613084907ca2b12416801",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1243424749,
-    "wof:lastmodified":1566594198,
+    "wof:lastmodified":1706240712,
     "wof:name":"Kondryuche",
     "wof:parent_id":1108815967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343444493
+    ],
     "wof:tags":[]
 },
   "bbox": [

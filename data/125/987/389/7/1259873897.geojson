@@ -38,11 +38,17 @@
     "name:rus_x_preferred":[
         "\u041e\u043b\u0435\u043d\u043e\u0432\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
     "name:ukr_x_preferred":[
         "Olenivka"
     ],
     "name:ukr_x_variant":[
         "\u041e\u043b\u0435\u043d\u0456\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Olenovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,6 +60,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8677605
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            688203
+        ]
     },
     "wof:country":"UA",
     "wof:geomhash":"0db0b0a87f0a8d4066739cd08c1d679c",
@@ -67,13 +78,15 @@
         }
     ],
     "wof:id":1259873897,
-    "wof:lastmodified":1566594356,
+    "wof:lastmodified":1706240712,
     "wof:name":"Olenivka",
     "wof:parent_id":102088787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343878381
+    ],
     "wof:tags":[]
 },
   "bbox": [

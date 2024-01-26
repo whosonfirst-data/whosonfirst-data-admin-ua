@@ -9,9 +9,21 @@
     "geom:bbox":"35.69512,47.65311,35.69512,47.65311",
     "geom:latitude":47.65311,
     "geom:longitude":35.69512,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kirove",
     "gn:country":"UA",
+    "gn:country_code":"UA",
+    "gn:dem":37,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":687177,
+    "gn:latitude":47.65311,
+    "gn:longitude":35.69512,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kirove",
     "gn:population":3291,
+    "gn:timezone":"Europe/Zaporozhye",
     "iso:country":"UA",
     "lbl:bbox":"35.67512,47.63311,35.71512,47.67311",
     "lbl:latitude":47.65311,
@@ -29,6 +41,9 @@
         "\u041a\u0438\u0440\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u043e\u0432\u0435"
+    ],
+    "name:ukr_x_variant":[
         "\u041a\u0456\u0440\u043e\u0432\u0435"
     ],
     "name:und_x_variant":[
@@ -59,6 +74,11 @@
         "gn:id":829795,
         "qs_pg:id":554339
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            687177
+        ]
+    },
     "wof:country":"UA",
     "wof:created":1497301118,
     "wof:geomhash":"3e906937a4087a7c887c03abe3318cea",
@@ -72,7 +92,7 @@
         }
     ],
     "wof:id":1126025537,
-    "wof:lastmodified":1566593894,
+    "wof:lastmodified":1706240711,
     "wof:name":"Kirove",
     "wof:parent_id":102088375,
     "wof:placetype":"locality",
@@ -80,7 +100,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309679283
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,11 +29,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ovcharovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0447\u0430\u0440\u043e\u0432\u043e"
+    ],
     "name:ukr_x_preferred":[
         "Vivcharove"
     ],
     "name:ukr_x_variant":[
         "\u0412\u0456\u0432\u0447\u0430\u0440\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ovcharov"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8647025
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            698140
+        ]
     },
     "wof:country":"UA",
     "wof:geomhash":"8c8a0029475d5de481dc85d7e7b8033b",
@@ -58,13 +72,15 @@
         }
     ],
     "wof:id":1276628243,
-    "wof:lastmodified":1566592312,
+    "wof:lastmodified":1706240712,
     "wof:name":"Vivcharove",
     "wof:parent_id":102088967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343831233
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"35.06188,47.98877,35.06188,47.98877",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":1243421535,
-    "wof:lastmodified":1566594197,
+    "wof:lastmodified":1706240711,
     "wof:name":"Vidradne",
     "wof:parent_id":1108815653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243330777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
