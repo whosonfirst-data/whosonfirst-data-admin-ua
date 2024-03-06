@@ -95,6 +95,10 @@
     "name:ukr_x_variant":[
         "\u0422\u0435\u0440\u043d\u0456\u0432\u043a\u0430"
     ],
+    "name:und_x_variant":[
+        "Petrovskiy",
+        "Ternovka"
+    ],
     "name:vie_x_preferred":[
         "Ternivka"
     ],
@@ -112,6 +116,11 @@
     "wof:concordances":{
         "gn:id":9531789
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            697303
+        ]
+    },
     "wof:country":"UA",
     "wof:geomhash":"e810b39a0739add6925b9afe63a4bf18",
     "wof:hierarchy":[
@@ -124,13 +133,15 @@
         }
     ],
     "wof:id":1276285467,
-    "wof:lastmodified":1566592111,
+    "wof:lastmodified":1706240712,
     "wof:name":"Ternivka",
     "wof:parent_id":102088443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293556537
+    ],
     "wof:tags":[]
 },
   "bbox": [

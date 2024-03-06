@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":704405
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9123552
+        ]
+    },
     "wof:country":"UA",
-    "wof:geomhash":"b1678a72404966f17e837ed412112859",
+    "wof:geomhash":"a3574874edc08cb8a2a4283bb1f651cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1226733357,
-    "wof:lastmodified":1566594444,
+    "wof:lastmodified":1706240711,
     "wof:name":"Krasnodars'kyy",
     "wof:parent_id":1108733403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309789367
+    ],
     "wof:tags":[]
 },
   "bbox": [
     39.94301,
-    48.29649000000001,
+    48.29649,
     39.94301,
-    48.29649000000001
+    48.29649
 ],
-  "geometry": {"coordinates":[39.94301,48.29649000000001],"type":"Point"}
+  "geometry": {"coordinates":[39.94301,48.29649],"type":"Point"}
 }

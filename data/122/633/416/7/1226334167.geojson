@@ -73,6 +73,11 @@
     "wof:concordances":{
         "gn:id":689033
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            689032
+        ]
+    },
     "wof:country":"UA",
     "wof:geomhash":"abf6ea0bfde31ce695e5146f3adf6245",
     "wof:hierarchy":[
@@ -85,13 +90,15 @@
         }
     ],
     "wof:id":1226334167,
-    "wof:lastmodified":1566594459,
+    "wof:lastmodified":1706240711,
     "wof:name":"Vorona",
     "wof:parent_id":1108815661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243355439
+    ],
     "wof:tags":[]
 },
   "bbox": [
