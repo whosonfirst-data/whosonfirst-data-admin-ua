@@ -2,8 +2,10 @@
   "id": 1326886375,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1600-01-01",
+    "date:inception_upper":"1600-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1600",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"28.45989,49.38191,28.45989,49.38191",
@@ -27,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
     ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Medvidka"
+    ],
+    "name:eng_x_variant":[
+        "Medvedka"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0564\u057e\u0565\u0564\u056f\u0561"
@@ -42,15 +50,18 @@
         "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
     ],
     "src:geom":"geonames",
+    "src:population":"wikidata",
+    "src:population_date":"2001",
     "wof:belongsto":[
         102191581,
         85633805,
-        85688783,
-        1108815611
+        1108815611,
+        85688783
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":701447
+        "gn:id":701447,
+        "wd:id":"Q4287411"
     },
     "wof:country":"UA",
     "wof:geomhash":"f25023a3afa14d19c4f3d45de96f3ec2",
@@ -64,10 +75,18 @@
         }
     ],
     "wof:id":1326886375,
-    "wof:lastmodified":1566591102,
-    "wof:name":"Medvedka",
+    "wof:lang_x_official":[
+        "ukr"
+    ],
+    "wof:lang_x_spoken":[
+        "ukr",
+        "rus"
+    ],
+    "wof:lastmodified":1759516540,
+    "wof:name":"Medvidka",
     "wof:parent_id":1108815611,
     "wof:placetype":"locality",
+    "wof:population":400,
     "wof:repo":"whosonfirst-data-admin-ua",
     "wof:superseded_by":[],
     "wof:supersedes":[],
