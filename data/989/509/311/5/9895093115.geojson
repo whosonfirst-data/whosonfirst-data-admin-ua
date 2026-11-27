@@ -1,0 +1,85 @@
+{
+  "id": 9895093115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.04202,48.09512,38.04202,48.09512",
+    "geom:latitude":48.09512,
+    "geom:longitude":38.04202,
+    "gn:population":53040,
+    "iso:country":"UA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607655: name \"Khanzhonkivskyi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607655"
+        },
+        {
+            "citation":"GeoNames populated place 13607655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607655"
+        },
+        {
+            "citation":"GeoNames populated place 13607655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607655"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175613751 (Makiivska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633805,
+        85688779,
+        102191581,
+        1159339531,
+        1175613751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607655
+    },
+    "wof:country":"UA",
+    "wof:geomhash":"385d9a4e231cd784275fe2150f08b2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633805,
+            "county_id":1175613751,
+            "disputed_id":1159339531,
+            "locality_id":9895093115,
+            "region_id":85688779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "county_id":1175613751,
+            "disputed_id":1159339531,
+            "locality_id":9895093115,
+            "region_id":85688779
+        }
+    ],
+    "wof:id":9895093115,
+    "wof:lastmodified":1795747472,
+    "wof:name":"Khanzhonkivskyi",
+    "wof:parent_id":1175613751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ua",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.04202,
+    48.09512,
+    38.04202,
+    48.09512
+],
+  "geometry": {"coordinates":[38.04202,48.09512],"type":"Point"}
+}
